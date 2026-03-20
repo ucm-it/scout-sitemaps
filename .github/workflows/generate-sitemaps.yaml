@@ -97,7 +97,7 @@ jobs:
           for dir in downloaded/sitemap-*/; do
             site=$(basename "$dir" | sed 's/sitemap-//')
             mkdir -p public/sitemaps/$site
-            cp "$dir"*.xml public/sitemaps/$site/
+            cp "$dir"* public/sitemaps/$site/
           done
 
       - name: Commit sitemaps
