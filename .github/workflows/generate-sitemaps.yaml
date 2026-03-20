@@ -100,6 +100,10 @@ jobs:
             cp "$dir"* public/sitemaps/$site/
           done
 
+      - name: Remove .gz extensions from sitemap-index.xml locations
+        run: |
+          find public/sitemaps -name "sitemap-index.xml" | xargs sed -i 's/\.xml\.gz/.xml/g'
+
       - name: Commit sitemaps
         run: |
           git config user.name "github-actions[bot]"
