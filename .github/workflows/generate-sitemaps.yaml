@@ -70,11 +70,6 @@ jobs:
             ${{ matrix.site.enable_javascript == true && '--enable-javascript --chrome-path=/usr/bin/chromium-browser' || '' }} \
             --verbose
 
-      - name: Consolidate into single sitemap.xml
-        run: |
-          mv sitemaps/${{ matrix.site.name }}/sitemap-1.xml sitemaps/${{ matrix.site.name }}/sitemap.xml
-          rm -f sitemaps/${{ matrix.site.name }}/sitemap-index.xml
-
       - name: Upload sitemap artifact
         uses: actions/upload-artifact@v4
         with:
