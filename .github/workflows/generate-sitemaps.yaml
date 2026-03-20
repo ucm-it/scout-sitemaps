@@ -19,7 +19,7 @@ jobs:
             max_depth: 0
             enable_javascript: true
           - name: mercedid
-            url: https://mercdedid.ucmerced.edu
+            url: https://mercedid.ucmerced.edu
             concurrency: 1
             max_depth: 0
             enable_javascript: true
