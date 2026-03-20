@@ -1,0 +1,37 @@
+name: Create Onyx Web Connectors
+
+on:
+  workflow_dispatch:
+
+jobs:
+  create-connectors:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Create Onyx connector for each sitemap
+        run: |
+          for site in public/sitemaps/*/; do
+            name=$(basename "$site")
+            echo "Creating connector for $name"
+            curl --fail --location '${{ secrets.ONYX_API_BASE_URL }}/api/manage/admin/connector-with-mock-credential' \
+              --header 'Content-Type: application/json' \
+              --header 'Authorization: Bearer ${{ secrets.ONYX_API_TOKEN }}' \
+              --data "{
+                \"connector_specific_config\": {
+                  \"web_connector_type\": \"sitemap\",
+                  \"respect_robots_txt\": false,
+                  \"scroll_before_scraping\": false,
+                  \"base_url\": \"https://raw.githubusercontent.com/ucm-it/scout-sitemaps/refs/heads/main/public/sitemaps/$name/sitemap-1.xml\"
+                },
+                \"input_type\": \"load_state\",
+                \"name\": \"$name\",
+                \"source\": \"web\",
+                \"access_type\": \"public\",
+                \"refresh_freq\": 1800,
+                \"prune_freq\": 2592000,
+                \"indexing_start\": null,
+                \"groups\": []
+              }"
+          done
