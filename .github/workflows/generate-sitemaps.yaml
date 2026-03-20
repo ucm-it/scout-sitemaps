@@ -16,17 +16,17 @@ jobs:
           - name: jobs
             url: https://jobs.ucmerced.edu
             concurrency: 1
-            max_depth: 0
+            max_depth: 10
             enable_javascript: true
           - name: mercedid
             url: https://mercedid.ucmerced.edu
             concurrency: 1
-            max_depth: 0
+            max_depth: 10
             enable_javascript: true
           - name: arts
             url: https://arts.ucmerced.edu
             concurrency: 1
-            max_depth: 0
+            max_depth: 10
             enable_javascript: false
       fail-fast: false
 
@@ -64,6 +64,11 @@ jobs:
             --detect-changes \
             ${{ matrix.site.enable_javascript == true && '--enable-javascript --chrome-path=/usr/bin/chromium-browser' || '' }} \
             --verbose
+
+      - name: Consolidate into single sitemap.xml
+        run: |
+          mv sitemaps/${{ matrix.site.name }}/sitemap-1.xml sitemaps/${{ matrix.site.name }}/sitemap.xml
+          rm -f sitemaps/${{ matrix.site.name }}/sitemap-index.xml
 
       - name: Upload sitemap artifact
         uses: actions/upload-artifact@v4
