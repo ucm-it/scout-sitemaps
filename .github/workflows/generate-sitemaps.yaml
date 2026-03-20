@@ -74,6 +74,7 @@ jobs:
   commit-sitemaps:
     runs-on: ubuntu-latest
     needs: generate-sitemap
+    if: always()
 
     steps:
       - uses: actions/checkout@v4
