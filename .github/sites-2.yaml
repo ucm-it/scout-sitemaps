@@ -1,809 +1,809 @@
 - name: pluscenter
   url: https://pluscenter.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: police
   url: https://police.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: policementors
   url: https://policementors.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: policies
   url: https://policies.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: polisci
   url: https://polisci.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: popd
   url: https://popd.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: postdoc
   url: https://postdoc.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: ppfm
   url: https://ppfm.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: prehealth
   url: https://prehealth.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: procurement
   url: https://procurement.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: protectminors
   url: https://protectminors.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: provostevc
   url: https://provostevc.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: psychology
   url: https://psychology.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: publichealth
   url: https://publichealth.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: publicrelations
   url: https://publicrelations.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: qsb
   url: https://qsb.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: queer
   url: https://queer.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: queerinterventions
   url: https://queerinterventions.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: rac
   url: https://rac.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: rci
   url: https://rci.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: rds
   url: https://rds.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: recces
   url: https://recces.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: records
   url: https://records.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: recreation
   url: https://recreation.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: registrar
   url: https://registrar.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: report
   url: https://report.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: research
   url: https://research.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: rfp-rfq
   url: https://rfp-rfq.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: rim
   url: https://rim.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: risk
   url: https://risk.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: robotics
   url: https://robotics.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: rooms
   url: https://rooms.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: saa
   url: https://saa.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: saberespoder
   url: https://saberespoder.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: safetyconference
   url: https://safetyconference.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: sbdc
   url: https://sbdc.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: scicon
   url: https://scicon.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: scif
   url: https://scif.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: senate
   url: https://senate.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: sexualviolence
   url: https://sexualviolence.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: sfac
   url: https://sfac.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: sfca
   url: https://sfca.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: sfs
   url: https://sfs.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: signatureevents
   url: https://signatureevents.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: smokefree
   url: https://smokefree.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: snri
   url: https://snri.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: socialjustice
   url: https://socialjustice.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: socialmedia
   url: https://socialmedia.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: sociology
   url: https://sociology.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: soeinstructional
   url: https://soeinstructional.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: spaceinventory
   url: https://spaceinventory.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: spacemoves
   url: https://spacemoves.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: spaceplanning
   url: https://spaceplanning.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: spanish
   url: https://spanish.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: sparc
   url: https://sparc.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: spo
   url: https://spo.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: srs
   url: https://srs.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: ss
   url: https://ss.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: ssha-advising
   url: https://ssha-advising.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: ssha-grad
   url: https://ssha-grad.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: ssha-instructionalservices
   url: https://ssha-instructionalservices.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: ssha-research
   url: https://ssha-research.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: ssha
   url: https://ssha.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: ssi
   url: https://ssi.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: staffassembly
   url: https://staffassembly.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: stemcenter
   url: https://stemcenter.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: step
   url: https://step.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: strategicplan
   url: https://strategicplan.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: studentaffairs
   url: https://studentaffairs.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: studentbilling
   url: https://studentbilling.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: studentconduct
   url: https://studentconduct.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: studentinvolvement
   url: https://studentinvolvement.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: studentjobs
   url: https://studentjobs.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: studentleadership
   url: https://studentleadership.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: studentlife
   url: https://studentlife.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: studentsfirst
   url: https://studentsfirst.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: studentsuccess
   url: https://studentsuccess.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: studyabroad
   url: https://studyabroad.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: success
   url: https://success.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: summer
   url: https://summer.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: summerbridge
   url: https://summerbridge.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: summeredge
   url: https://summeredge.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: summersession
   url: https://summersession.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: supplychain
   url: https://supplychain.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: sustainability
   url: https://sustainability.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: taps
   url: https://taps.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: teaandchat
   url: https://teaandchat.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: teach
   url: https://teach.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: teacherprep
   url: https://teacherprep.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: teachingandlearninglab
   url: https://teachingandlearninglab.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: teel
   url: https://teel.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: theblackbook
   url: https://theblackbook.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: thepool
   url: https://thepool.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: travel
   url: https://travel.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: trc
   url: https://trc.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: trv
   url: https://trv.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: uassafety
   url: https://uassafety.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: uav
   url: https://uav.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: ucaac
   url: https://ucaac.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: uccs
   url: https://uccs.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: ucdc
   url: https://ucdc.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: ucmalliance
   url: https://ucmalliance.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: ucmcampusgarden
   url: https://ucmcampusgarden.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: ucmerced
   url: https://ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: ucmeri
   url: https://ucmeri.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: ucpath
   url: https://ucpath.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: ucsolar
   url: https://ucsolar.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: uctip
   url: https://uctip.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: ucwater
   url: https://ucwater.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: ue
   url: https://ue.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: undergroundscholars
   url: https://undergroundscholars.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: undoc
   url: https://undoc.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: unitedway
   url: https://unitedway.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: upstart
   url: https://upstart.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: urjournal
   url: https://urjournal.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: uroc
   url: https://uroc.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: valleyfever
   url: https://valleyfever.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: vanguard
   url: https://vanguard.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: vernalpools
   url: https://vernalpools.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: veteranleadership
   url: https://veteranleadership.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: veteranservices
   url: https://veteranservices.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: virtual
   url: https://virtual.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: visionprem
   url: https://visionprem.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: vprs
   url: https://vprs.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: water
   url: https://water.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: womensprograms
   url: https://womensprograms.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: worldlanguages
   url: https://worldlanguages.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: writingcenter
   url: https://writingcenter.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: writingprogram
   url: https://writingprogram.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: writingproject
   url: https://writingproject.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: writingstudies
   url: https://writingstudies.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: wvp
   url: https://wvp.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: yfs
   url: https://yfs.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: ylp
   url: https://ylp.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
 
 - name: yosemiteshakes
   url: https://yosemiteshakes.ucmerced.edu
-  concurrency: 1
+  concurrency: 10
   max_depth: 10
   enable_javascript: false
