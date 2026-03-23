@@ -21,26 +21,37 @@ jobs:
 
       - name: Create Onyx connector for each sitemap
         run: |
-          for site in public/sitemaps/*/; do
-            name=$(basename "$site")
-            echo "Creating connector for $name"
-            curl --location '${{ secrets.ONYX_API_BASE_URL }}/api/manage/admin/connector-with-mock-credential' \
-              --header 'Content-Type: application/json' \
-              --header 'Authorization: Bearer ${{ secrets.ONYX_API_TOKEN }}' \
-              --data "{
-                \"connector_specific_config\": {
-                  \"web_connector_type\": \"sitemap\",
-                  \"respect_robots_txt\": false,
-                  \"scroll_before_scraping\": false,
-                  \"base_url\": \"https://raw.githubusercontent.com/ucm-it/scout-sitemaps/refs/heads/main/public/sitemaps/$name/sitemap-1.xml\"
-                },
-                \"input_type\": \"load_state\",
-                \"name\": \"$name\",
-                \"source\": \"web\",
-                \"access_type\": \"public\",
-                \"refresh_freq\": 1800,
-                \"prune_freq\": 2592000,
-                \"indexing_start\": null,
-                \"groups\": []
-              }"
+          for yaml_file in .github/sites-1.yaml .github/sites-2.yaml; do
+            site_count=$(yq '. | length' "$yaml_file")
+            for i in $(seq 0 $((site_count - 1))); do
+              name=$(yq ".[${i}].name" "$yaml_file")
+              url=$(yq ".[${i}].url" "$yaml_file")
+
+              if [ -d "public/sitemaps/$name" ]; then
+                sitemap_url="https://raw.githubusercontent.com/ucm-it/scout-sitemaps/refs/heads/main/public/sitemaps/$name/sitemap-1.xml"
+              else
+                sitemap_url="${url}/sitemap.xml"
+              fi
+
+              echo "Creating connector for $name → $sitemap_url"
+              curl --location '${{ secrets.ONYX_API_BASE_URL }}/api/manage/admin/connector-with-mock-credential' \
+                --header 'Content-Type: application/json' \
+                --header 'Authorization: Bearer ${{ secrets.ONYX_API_TOKEN }}' \
+                --data "{
+                  \"connector_specific_config\": {
+                    \"web_connector_type\": \"sitemap\",
+                    \"respect_robots_txt\": false,
+                    \"scroll_before_scraping\": false,
+                    \"base_url\": \"$sitemap_url\"
+                  },
+                  \"input_type\": \"load_state\",
+                  \"name\": \"$name\",
+                  \"source\": \"web\",
+                  \"access_type\": \"public\",
+                  \"refresh_freq\": 1800,
+                  \"prune_freq\": 2592000,
+                  \"indexing_start\": null,
+                  \"groups\": []
+                }"
+            done
           done

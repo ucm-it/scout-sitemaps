@@ -37,13 +37,11 @@ jobs:
       - name: Check for existing sitemap
         id: check
         run: |
-          mkdir -p sitemaps/${{ matrix.site.name }}
-          status=$(curl -s -o sitemaps/${{ matrix.site.name }}/sitemap-1.xml -w "%{http_code}" "${{ matrix.site.url }}/sitemap.xml")
+          status=$(curl -s -o /dev/null -w "%{http_code}" "${{ matrix.site.url }}/sitemap.xml")
           if [ "$status" = "200" ]; then
             echo "skip=true" >> $GITHUB_OUTPUT
-            echo "Using existing sitemap.xml for ${{ matrix.site.name }}"
+            echo "Skipping ${{ matrix.site.name }} — existing sitemap found at ${{ matrix.site.url }}/sitemap.xml"
           else
-            rm -f sitemaps/${{ matrix.site.name }}/sitemap-1.xml
             echo "skip=false" >> $GITHUB_OUTPUT
           fi
 
@@ -69,3 +67,14 @@ jobs:
         with:
           name: sitemap-${{ matrix.site.name }}
           path: sitemaps/${{ matrix.site.name }}/
+
+      - name: Upload skip marker
+        if: steps.check.outputs.skip == 'true'
+        run: mkdir -p sitemaps/${{ matrix.site.name }} && touch sitemaps/${{ matrix.site.name }}/.skip
+
+      - name: Upload skip marker artifact
+        if: steps.check.outputs.skip == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: sitemap-${{ matrix.site.name }}
+          path: sitemaps/${{ matrix.site.name }}/.skip

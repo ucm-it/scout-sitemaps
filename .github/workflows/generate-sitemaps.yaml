@@ -52,8 +52,13 @@ jobs:
         run: |
           for dir in downloaded/sitemap-*/; do
             site=$(basename "$dir" | sed 's/sitemap-//')
-            mkdir -p public/sitemaps/$site
-            cp "$dir"* public/sitemaps/$site/
+            if [ -f "$dir/.skip" ]; then
+              rm -rf public/sitemaps/$site
+              echo "Deleted public/sitemaps/$site — site has existing sitemap"
+            else
+              mkdir -p public/sitemaps/$site
+              cp "$dir"* public/sitemaps/$site/
+            fi
           done
 
       - name: Remove .gz extensions from sitemap-index.xml locations
