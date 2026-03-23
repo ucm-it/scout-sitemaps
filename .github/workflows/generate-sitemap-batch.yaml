@@ -1,0 +1,56 @@
+name: Generate Sitemap Batch
+
+on:
+  workflow_call:
+    inputs:
+      matrix:
+        required: true
+        type: string
+
+jobs:
+  generate-sitemap:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix: ${{ fromJson(inputs.matrix) }}
+      fail-fast: false
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Clone sitemap generator
+        run: git clone --branch v3.0.0 --depth 1 https://github.com/iprodev/PHP-XML-Sitemap-Generator.git
+
+      - name: Install dependencies
+        run: composer install --no-dev -d PHP-XML-Sitemap-Generator
+
+      - name: Install Chromium (if JavaScript enabled)
+        if: matrix.site.enable_javascript == true
+        run: sudo apt-get install -y chromium-browser
+
+      - name: Restore sitemap DB cache for ${{ matrix.site.name }}
+        uses: actions/cache@v5
+        with:
+          path: db/${{ matrix.site.name }}.db
+          key: sitemap-db-${{ matrix.site.name }}
+          restore-keys: sitemap-db-${{ matrix.site.name }}
+
+      - name: Generate sitemap for ${{ matrix.site.name }}
+        run: |
+          mkdir -p db sitemaps/${{ matrix.site.name }}
+          cd PHP-XML-Sitemap-Generator
+          php bin/sitemap \
+            --url=${{ matrix.site.url }} \
+            --out=../sitemaps/${{ matrix.site.name }} \
+            --concurrency=${{ matrix.site.concurrency }} \
+            --max-depth=${{ matrix.site.max_depth }} \
+            --db-enabled \
+            --db-dsn=sqlite:../db/${{ matrix.site.name }}.db \
+            --detect-changes \
+            ${{ matrix.site.enable_javascript == true && '--enable-javascript --chrome-path=/usr/bin/chromium-browser' || '' }} \
+            --verbose
+
+      - name: Upload sitemap artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: sitemap-${{ matrix.site.name }}
+          path: sitemaps/${{ matrix.site.name }}/
