@@ -52,7 +52,7 @@ jobs:
         run: |
           for dir in downloaded/sitemap-*/; do
             site=$(basename "$dir" | sed 's/sitemap-//')
-            if [ -f "$dir/.skip" ]; then
+            if [ -f "$dir/skip" ]; then
               rm -rf public/sitemaps/$site
               echo "Deleted public/sitemaps/$site — site has existing sitemap"
             else
