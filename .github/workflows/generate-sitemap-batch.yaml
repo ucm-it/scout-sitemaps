@@ -34,7 +34,21 @@ jobs:
           key: sitemap-db-${{ matrix.site.name }}
           restore-keys: sitemap-db-${{ matrix.site.name }}
 
+      - name: Check for existing sitemap
+        id: check
+        run: |
+          mkdir -p sitemaps/${{ matrix.site.name }}
+          status=$(curl -s -o sitemaps/${{ matrix.site.name }}/sitemap-1.xml -w "%{http_code}" "${{ matrix.site.url }}/sitemap.xml")
+          if [ "$status" = "200" ]; then
+            echo "skip=true" >> $GITHUB_OUTPUT
+            echo "Using existing sitemap.xml for ${{ matrix.site.name }}"
+          else
+            rm -f sitemaps/${{ matrix.site.name }}/sitemap-1.xml
+            echo "skip=false" >> $GITHUB_OUTPUT
+          fi
+
       - name: Generate sitemap for ${{ matrix.site.name }}
+        if: steps.check.outputs.skip != 'true'
         run: |
           mkdir -p db sitemaps/${{ matrix.site.name }}
           cd PHP-XML-Sitemap-Generator
@@ -50,6 +64,7 @@ jobs:
             --verbose
 
       - name: Upload sitemap artifact
+        if: steps.check.outputs.skip != 'true'
         uses: actions/upload-artifact@v4
         with:
           name: sitemap-${{ matrix.site.name }}
