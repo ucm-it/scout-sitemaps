@@ -4,34 +4,43 @@
     <loc>https://imf.ucmerced.edu/node/15</loc>
   </url>
   <url>
-    <loc>https://imf.ucmerced.edu/form/contact</loc>
-  </url>
-  <url>
-    <loc>https://imf.ucmerced.edu/major-instruments/lsm-880</loc>
-  </url>
-  <url>
-    <loc>https://imf.ucmerced.edu/training/imf-policies/laboratory-safety</loc>
-  </url>
-  <url>
-    <loc>https://imf.ucmerced.edu/major-instruments/nexsa-xps</loc>
-  </url>
-  <url>
-    <loc>https://imf.ucmerced.edu/training/getting-started</loc>
-  </url>
-  <url>
-    <loc>https://imf.ucmerced.edu/major-instruments/x-ray-diffractometer</loc>
-  </url>
-  <url>
     <loc>https://imf.ucmerced.edu/major-instruments</loc>
+  </url>
+  <url>
+    <loc>https://imf.ucmerced.edu/major-instruments/transmission-electron-microscope</loc>
   </url>
   <url>
     <loc>https://imf.ucmerced.edu/major-instruments/scanning-electron-microscope</loc>
   </url>
   <url>
+    <loc>https://imf.ucmerced.edu/major-instruments/nexsa-xps</loc>
+  </url>
+  <url>
+    <loc>https://imf.ucmerced.edu/major-instruments/lsm-880</loc>
+  </url>
+  <url>
+    <loc>https://imf.ucmerced.edu/major-instruments/x-ray-diffractometer</loc>
+  </url>
+  <url>
+    <loc>https://imf.ucmerced.edu/rates</loc>
+  </url>
+  <url>
+    <loc>https://imf.ucmerced.edu/training/getting-started</loc>
+  </url>
+  <url>
+    <loc>https://imf.ucmerced.edu/training/imf-policies/laboratory-safety</loc>
+  </url>
+  <url>
     <loc>https://imf.ucmerced.edu/training/imf-policies</loc>
   </url>
   <url>
-    <loc>https://imf.ucmerced.edu/contact-us</loc>
+    <loc>https://imf.ucmerced.edu/training/training-videos</loc>
+  </url>
+  <url>
+    <loc>https://imf.ucmerced.edu/imf-forms</loc>
+  </url>
+  <url>
+    <loc>https://imf.ucmerced.edu/form/contact</loc>
   </url>
   <url>
     <loc>https://imf.ucmerced.edu/publications</loc>
@@ -40,35 +49,22 @@
     <loc>https://imf.ucmerced.edu/ilab</loc>
   </url>
   <url>
-    <loc>https://imf.ucmerced.edu/imf-forms</loc>
-  </url>
-  <url>
-    <loc>https://imf.ucmerced.edu/major-instruments/transmission-electron-microscope</loc>
-  </url>
-  <url>
-    <loc>https://imf.ucmerced.edu/training/training-videos</loc>
-  </url>
-  <url>
-    <loc>https://imf.ucmerced.edu/rates</loc>
-  </url>
-  <url>
-    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/sem_manual_06102019.pdf</loc>
-    <lastmod>2019-06-10</lastmod>
+    <loc>https://imf.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/page/documents/imf_welcome.pdf</loc>
     <lastmod>2016-11-04</lastmod>
   </url>
   <url>
-    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/imf_welcome.pdf</loc>
-    <lastmod>2019-05-17</lastmod>
+    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/sem_manual_06102019.pdf</loc>
+    <lastmod>2019-06-10</lastmod>
   </url>
   <url>
     <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/xrd_radiation_safety_ucm.pdf</loc>
     <lastmod>2019-05-17</lastmod>
   </url>
   <url>
-    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/gemini500_sem_quick_start.pdf</loc>
+    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/imf_welcome.pdf</loc>
     <lastmod>2019-05-17</lastmod>
   </url>
   <url>
@@ -76,19 +72,15 @@
     <lastmod>2019-05-17</lastmod>
   </url>
   <url>
-    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/page/documents/ilab_uc_merced_registration_manual.pdf</loc>
-    <lastmod>2020-01-23</lastmod>
-  </url>
-  <url>
     <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/page/documents/01_thermofisher_tem_quickstart_guide.pdf</loc>
     <lastmod>2019-12-06</lastmod>
   </url>
   <url>
-    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/geminisem_500_-_basics.pdf</loc>
+    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/gemini500_sem_quick_start.pdf</loc>
     <lastmod>2019-05-17</lastmod>
   </url>
   <url>
-    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/panalytical_xrd_-_quick_start_guide.pdf</loc>
+    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/geminisem_500_-_basics.pdf</loc>
     <lastmod>2019-05-17</lastmod>
   </url>
   <url>
@@ -96,19 +88,27 @@
     <lastmod>2019-05-17</lastmod>
   </url>
   <url>
-    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/xrd_sample_preparation.pdf</loc>
+    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/panalytical_xrd_-_quick_start_guide.pdf</loc>
     <lastmod>2019-05-17</lastmod>
   </url>
   <url>
-    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/xps_training_familiarisation_guide_1.pdf</loc>
-    <lastmod>2020-10-07</lastmod>
+    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/xrd_sample_preparation.pdf</loc>
+    <lastmod>2019-05-17</lastmod>
   </url>
   <url>
     <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/page/documents/xps_quick_start_guide.pdf</loc>
     <lastmod>2025-03-05</lastmod>
   </url>
   <url>
+    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/xps_training_familiarisation_guide_1.pdf</loc>
+    <lastmod>2020-10-07</lastmod>
+  </url>
+  <url>
     <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/xps_ha600129_nexsa_operation_manual_1.pdf</loc>
+    <lastmod>2020-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/xps_avantage_data_analysis_manual_1.pdf</loc>
     <lastmod>2020-10-07</lastmod>
   </url>
   <url>
@@ -116,31 +116,19 @@
     <lastmod>2020-10-07</lastmod>
   </url>
   <url>
-    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/sem_sm_smartsem_v06_01_en01.1_current.pdf</loc>
-    <lastmod>2020-10-07</lastmod>
-  </url>
-  <url>
     <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/page/documents/cap_tutorial_smx.pdf</loc>
     <lastmod>2024-06-06</lastmod>
+  </url>
+  <url>
+    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/sem_sm_smartsem_v06_01_en01.1_current.pdf</loc>
+    <lastmod>2020-10-07</lastmod>
   </url>
   <url>
     <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/page/documents/1000_series_cryostream_with_auto_refill_operating_and_instruction_guide_v1.0.3_1.pdf</loc>
     <lastmod>2024-06-18</lastmod>
   </url>
   <url>
-    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/xps_avantage_data_analysis_manual_1.pdf</loc>
-    <lastmod>2020-10-07</lastmod>
-  </url>
-  <url>
     <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/page/documents/uranyl_acetate_staining_protocol_imf.pdf</loc>
-    <lastmod>2024-06-18</lastmod>
-  </url>
-  <url>
-    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/operating_the_cressington_208_hr_sputter_coater.pdf</loc>
-    <lastmod>2019-05-17</lastmod>
-  </url>
-  <url>
-    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/page/documents/cryo-tem_protocol_imf.pdf</loc>
     <lastmod>2024-06-18</lastmod>
   </url>
   <url>
@@ -148,12 +136,16 @@
     <lastmod>2025-03-05</lastmod>
   </url>
   <url>
-    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/critical_point_drier.pdf</loc>
-    <lastmod>2019-05-17</lastmod>
+    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/page/documents/cryo-tem_protocol_imf.pdf</loc>
+    <lastmod>2024-06-18</lastmod>
   </url>
   <url>
     <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/page/documents/witecsuitehelp62.pdf</loc>
     <lastmod>2024-06-18</lastmod>
+  </url>
+  <url>
+    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/operating_the_cressington_208_hr_sputter_coater.pdf</loc>
+    <lastmod>2019-05-17</lastmod>
   </url>
   <url>
     <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/carbon_coater_quickstart_-_cressington_208c.pdf</loc>
@@ -162,5 +154,13 @@
   <url>
     <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/gold_sputter_coater_-_quick_guide.pdf</loc>
     <lastmod>2019-05-17</lastmod>
+  </url>
+  <url>
+    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/critical_point_drier.pdf</loc>
+    <lastmod>2019-05-17</lastmod>
+  </url>
+  <url>
+    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/page/documents/ilab_uc_merced_registration_manual.pdf</loc>
+    <lastmod>2020-01-23</lastmod>
   </url>
 </urlset>

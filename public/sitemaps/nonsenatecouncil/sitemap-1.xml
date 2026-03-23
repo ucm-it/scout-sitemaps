@@ -4,16 +4,13 @@
     <loc>https://nonsenatecouncil.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://nonsenatecouncil.ucmerced.edu/</loc>
-  </url>
-  <url>
     <loc>https://nonsenatecouncil.ucmerced.edu/about/current-nsac-leadership</loc>
   </url>
   <url>
     <loc>https://nonsenatecouncil.ucmerced.edu/facts</loc>
   </url>
   <url>
-    <loc>https://nonsenatecouncil.ucmerced.edu/contact-us</loc>
+    <loc>https://nonsenatecouncil.ucmerced.edu/</loc>
   </url>
   <url>
     <loc>https://nonsenatecouncil.ucmerced.edu/spotlight</loc>
@@ -21,5 +18,8 @@
   <url>
     <loc>https://nonsenatecouncil.ucmerced.edu/rss.xml</loc>
     <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://nonsenatecouncil.ucmerced.edu/contact-us</loc>
   </url>
 </urlset>

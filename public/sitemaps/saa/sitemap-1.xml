@@ -9,18 +9,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://saa.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://saa.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://saa.ucmerced.edu/access</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://saa.ucmerced.edu/join</loc>
+    <loc>http://saa.ucmerced.edu/mission</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -28,27 +17,26 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://saa.ucmerced.edu/mission</loc>
+    <loc>https://saa.ucmerced.edu/about</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://saa.ucmerced.edu/about</loc>
+    <loc>https://saa.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://saa.ucmerced.edu/join</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>http://saa.ucmerced.edu/interest</loc>
   </url>
   <url>
-    <loc>https://saa.ucmerced.edu/sites/saa.ucmerced.edu/files/images/event/ACCESS/17379955_735313610525_1142394259_o.jpg</loc>
-    <lastmod>2018-05-25</lastmod>
+    <loc>https://saa.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://saa.ucmerced.edu/sites/saa.ucmerced.edu/files/page/images/access_6.jpg</loc>
-    <lastmod>2018-05-25</lastmod>
-  </url>
-  <url>
-    <loc>https://saa.ucmerced.edu/sites/saa.ucmerced.edu/files/page/images/access_2.jpg</loc>
-    <lastmod>2018-05-25</lastmod>
+    <loc>https://saa.ucmerced.edu/access</loc>
+    <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>http://saa.ucmerced.edu/</loc>
@@ -63,24 +51,44 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://saa.ucmerced.edu/catspots</loc>
+  </url>
+  <url>
     <loc>https://saa.ucmerced.edu/programs</loc>
     <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>http://saa.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://saa.ucmerced.edu/sites/saa.ucmerced.edu/files/images/event/ACCESS/17379955_735313610525_1142394259_o.jpg</loc>
+    <lastmod>2018-05-25</lastmod>
+  </url>
+  <url>
+    <loc>https://saa.ucmerced.edu/sites/saa.ucmerced.edu/files/page/images/access_6.jpg</loc>
+    <lastmod>2018-05-25</lastmod>
+  </url>
+  <url>
+    <loc>https://saa.ucmerced.edu/sites/saa.ucmerced.edu/files/page/images/access_2.jpg</loc>
+    <lastmod>2018-05-25</lastmod>
   </url>
   <url>
     <loc>https://saa.ucmerced.edu/saaevents</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>http://saa.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://saa.ucmerced.edu/interest</loc>
   </url>
   <url>
-    <loc>https://saa.ucmerced.edu/catspots</loc>
+    <loc>https://saa.ucmerced.edu/events</loc>
+    <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://saa.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>http://saa.ucmerced.edu/rss.xml</loc>
+    <loc>https://saa.ucmerced.edu/events/access-ssha-0</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
 </urlset>

@@ -4,10 +4,10 @@
     <loc>https://lgbtqpridecenter.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://lgbtqpridecenter.ucmerced.edu/</loc>
+    <loc>https://lgbtqpridecenter.ucmerced.edu/about</loc>
   </url>
   <url>
-    <loc>https://lgbtqpridecenter.ucmerced.edu/about</loc>
+    <loc>https://lgbtqpridecenter.ucmerced.edu/</loc>
   </url>
   <url>
     <loc>https://lgbtqpridecenter.ucmerced.edu/about/queerstory</loc>
@@ -34,9 +34,6 @@
     <loc>https://lgbtqpridecenter.ucmerced.edu/education-workshops</loc>
   </url>
   <url>
-    <loc>https://lgbtqpridecenter.ucmerced.edu/education-workshops/education</loc>
-  </url>
-  <url>
     <loc>https://lgbtqpridecenter.ucmerced.edu/education-workshops/education/gender-inclusive-language-pronouns</loc>
   </url>
   <url>
@@ -49,10 +46,10 @@
     <loc>https://lgbtqpridecenter.ucmerced.edu/resources</loc>
   </url>
   <url>
-    <loc>https://lgbtqpridecenter.ucmerced.edu/form/caps-drop-group</loc>
+    <loc>https://lgbtqpridecenter.ucmerced.edu/support-resources/trans-uc-merced</loc>
   </url>
   <url>
-    <loc>https://lgbtqpridecenter.ucmerced.edu/support-resources/trans-uc-merced</loc>
+    <loc>https://lgbtqpridecenter.ucmerced.edu/form/caps-drop-group</loc>
   </url>
   <url>
     <loc>https://lgbtqpridecenter.ucmerced.edu/resources/trans-uc-merced/trans-health-benefits-facultystaff</loc>
@@ -65,15 +62,14 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://lgbtqpridecenter.ucmerced.edu/sites/lgbtqpridecenter.ucmerced.edu/files/documents/lgbtqi_terminology.pdf</loc>
-    <lastmod>2020-08-10</lastmod>
-  </url>
-  <url>
-    <loc>https://lgbtqpridecenter.ucmerced.edu/sites/lgbtqpridecenter.ucmerced.edu/files/documents/additional_readings.pdf</loc>
-    <lastmod>2020-08-10</lastmod>
+    <loc>https://lgbtqpridecenter.ucmerced.edu/education-workshops/education</loc>
   </url>
   <url>
     <loc>https://lgbtqpridecenter.ucmerced.edu/sites/lgbtqpridecenter.ucmerced.edu/files/documents/gip_handout.pdf</loc>
+    <lastmod>2020-08-10</lastmod>
+  </url>
+  <url>
+    <loc>https://lgbtqpridecenter.ucmerced.edu/sites/lgbtqpridecenter.ucmerced.edu/files/documents/lgbtqi_terminology.pdf</loc>
     <lastmod>2020-08-10</lastmod>
   </url>
   <url>
@@ -87,5 +83,9 @@
   <url>
     <loc>https://lgbtqpridecenter.ucmerced.edu/sites/lgbtq.ucmerced.edu/files/documents/ucship_transgender_benefits_flier.pdf</loc>
     <lastmod>2018-08-12</lastmod>
+  </url>
+  <url>
+    <loc>https://lgbtqpridecenter.ucmerced.edu/sites/lgbtqpridecenter.ucmerced.edu/files/documents/additional_readings.pdf</loc>
+    <lastmod>2020-08-10</lastmod>
   </url>
 </urlset>

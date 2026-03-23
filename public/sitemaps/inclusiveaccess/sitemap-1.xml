@@ -4,10 +4,19 @@
     <loc>https://inclusiveaccess.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://inclusiveaccess.ucmerced.edu/support</loc>
+    <loc>https://inclusiveaccess.ucmerced.edu/events</loc>
   </url>
   <url>
     <loc>https://inclusiveaccess.ucmerced.edu/</loc>
+  </url>
+  <url>
+    <loc>https://inclusiveaccess.ucmerced.edu/people</loc>
+  </url>
+  <url>
+    <loc>https://inclusiveaccess.ucmerced.edu/faq</loc>
+  </url>
+  <url>
+    <loc>https://inclusiveaccess.ucmerced.edu/support</loc>
   </url>
   <url>
     <loc>https://inclusiveaccess.ucmerced.edu/rss.xml</loc>
@@ -17,21 +26,15 @@
     <loc>https://inclusiveaccess.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://inclusiveaccess.ucmerced.edu/events</loc>
-  </url>
-  <url>
-    <loc>https://inclusiveaccess.ucmerced.edu/faq</loc>
-  </url>
-  <url>
-    <loc>https://inclusiveaccess.ucmerced.edu/people</loc>
-  </url>
-  <url>
-    <loc>https://inclusiveaccess.ucmerced.edu/events/first-day-instruction</loc>
+    <loc>https://inclusiveaccess.ucmerced.edu/events/inclusive-access-payments</loc>
   </url>
   <url>
     <loc>https://inclusiveaccess.ucmerced.edu/events/last-day-opt-out-inclusive-access</loc>
   </url>
   <url>
-    <loc>https://inclusiveaccess.ucmerced.edu/events/inclusive-access-payments</loc>
+    <loc>https://inclusiveaccess.ucmerced.edu/events/first-day-instruction</loc>
+  </url>
+  <url>
+    <loc>https://inclusiveaccess.ucmerced.edu/content/emma-llamas</loc>
   </url>
 </urlset>

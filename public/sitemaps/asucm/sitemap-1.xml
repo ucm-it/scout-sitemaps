@@ -4,43 +4,40 @@
     <loc>https://asucm.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://asucm.ucmerced.edu/branches/executive</loc>
-  </url>
-  <url>
     <loc>https://asucm.ucmerced.edu/about</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/auxiliaries/creative-lab</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/branches/legislative/senate-minutes</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/form/conference-registration-funding</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/form/court-petition-form-p1</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/form/court-respondent-form-r1</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/staff</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/branches/legislative/senate-meetings</loc>
   </url>
   <url>
     <loc>https://asucm.ucmerced.edu/</loc>
   </url>
   <url>
+    <loc>https://asucm.ucmerced.edu/people</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/staff</loc>
+  </url>
+  <url>
     <loc>https://asucm.ucmerced.edu/about/bylaws</loc>
   </url>
   <url>
+    <loc>https://asucm.ucmerced.edu/branches</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/branches/executive</loc>
+  </url>
+  <url>
     <loc>http://asucm.ucmerced.edu/executive/</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/branches/legislative</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/branches/legislative/senate-meetings</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/branches/legislative/senate-minutes</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/branches/judicial</loc>
   </url>
   <url>
     <loc>https://asucm.ucmerced.edu/auxiliaries</loc>
@@ -49,22 +46,28 @@
     <loc>https://asucm.ucmerced.edu/auxiliaries/small-appropriations-board</loc>
   </url>
   <url>
-    <loc>https://asucm.ucmerced.edu/finance-funding</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/branches/judicial</loc>
-  </url>
-  <url>
     <loc>https://asucm.ucmerced.edu/finance-funding/apply-funds</loc>
   </url>
   <url>
-    <loc>https://asucm.ucmerced.edu/finance-funding/budget-call</loc>
+    <loc>https://asucm.ucmerced.edu/finance-funding</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/auxiliaries/creative-lab</loc>
   </url>
   <url>
     <loc>https://asucm.ucmerced.edu/finance-funding/apply-funds/quick-funding-flowchart</loc>
   </url>
   <url>
-    <loc>http://asucm.ucmerced.edu/form/court-petition-form-p1</loc>
+    <loc>https://asucm.ucmerced.edu/finance-funding/asucm-free-sticker-drop-request</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/finance-funding/budget-call</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/form/conference-registration-funding</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/resources</loc>
   </url>
   <url>
     <loc>https://asucm.ucmerced.edu/resources/forms</loc>
@@ -73,43 +76,50 @@
     <loc>https://asucm.ucmerced.edu/official-forms/public-archives</loc>
   </url>
   <url>
-    <loc>https://asucm.ucmerced.edu/finance-funding/asucm-free-sticker-drop-request</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/resources</loc>
+    <loc>http://asucm.ucmerced.edu/form/court-petition-form-p1</loc>
   </url>
   <url>
     <loc>https://asucm.ucmerced.edu/resources/forms/asucm-senate-application</loc>
   </url>
   <url>
+    <loc>http://asucm.ucmerced.edu/form/court-respondent-form-r1</loc>
+  </url>
+  <url>
     <loc>https://asucm.ucmerced.edu/form/grievance-submission-form</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/resources/forms/early-rco-event-budget-breakdown</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/form/sticker-request-form</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/form/legislation-proposal-form</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/form/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/student-union</loc>
   </url>
   <url>
     <loc>https://asucm.ucmerced.edu/resources/branding</loc>
   </url>
   <url>
-    <loc>https://asucm.ucmerced.edu/branches</loc>
+    <loc>http://asucm.ucmerced.edu/form/legislation-proposal-form</loc>
   </url>
   <url>
-    <loc>https://asucm.ucmerced.edu/branches/legislative</loc>
+    <loc>https://asucm.ucmerced.edu/resources/forms/early-rco-event-budget-breakdown</loc>
   </url>
   <url>
-    <loc>https://asucm.ucmerced.edu/people</loc>
+    <loc>https://asucm.ucmerced.edu/form/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/form/sticker-request-form</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/student-union</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/form/legislation-proposal-form</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/form/sab-proposal-form</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/form/court-petition-form-p1</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>http://asucm.ucmerced.edu/legislative</loc>
@@ -118,47 +128,112 @@
     <loc>https://asucm.ucmerced.edu/content/enrique-guzman-0</loc>
   </url>
   <url>
-    <loc>https://asucm.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-23</lastmod>
+    <loc>https://asucm.ucmerced.edu/content/adyan-zaman</loc>
   </url>
   <url>
-    <loc>https://asucm.ucmerced.edu/content/jasmine-monreal</loc>
+    <loc>https://asucm.ucmerced.edu/content/ammar-salah</loc>
   </url>
   <url>
-    <loc>https://asucm.ucmerced.edu/content/ceci-estrada</loc>
+    <loc>https://asucm.ucmerced.edu/content/gabriella-martinez</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/content/cj-oderinde</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/content/manar-ahmed</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/content/sahil-shelat</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/content/juliana-torres</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/content/miranda-bada</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/content/evan-martin</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/content/julie-alano</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/content/mistura-bankole</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/content/amira-arroyo</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/content/victoria-de-los-angeles</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/content/ethan-clark</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/content/avinav-biswas</loc>
   </url>
   <url>
     <loc>https://asucm.ucmerced.edu/content/bretteill-davidoff</loc>
   </url>
   <url>
+    <loc>https://asucm.ucmerced.edu/content/anis-hassan</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/content/ceci-estrada</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/content/anvi-kudaraya</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/content/robert-hicks</loc>
+  </url>
+  <url>
     <loc>https://asucm.ucmerced.edu/content/edwin-gallegos</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/content/paola-lopez</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/content/jocelyn-leon</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/content/shayan-mirfakhraie</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/content/rheeya-mishra</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/content/jasmine-monreal</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/content/amelie-sacremento</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/content/veronique-vorhis</loc>
   </url>
   <url>
     <loc>http://asucm.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://asucm.ucmerced.edu/form/legislation-proposal-form</loc>
+    <loc>http://asucm.ucmerced.edu/about</loc>
   </url>
   <url>
     <loc>http://asucm.ucmerced.edu/about/bylaws</loc>
   </url>
   <url>
-    <loc>https://asucm.ucmerced.edu/content/adyan-zaman</loc>
+    <loc>http://asucm.ucmerced.edu/people</loc>
   </url>
   <url>
-    <loc>https://asucm.ucmerced.edu/form/sab-proposal-form</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/about</loc>
+    <loc>http://asucm.ucmerced.edu/branches/executive</loc>
   </url>
   <url>
     <loc>http://asucm.ucmerced.edu/branches</loc>
   </url>
   <url>
-    <loc>http://asucm.ucmerced.edu/people</loc>
+    <loc>http://asucm.ucmerced.edu/branches/legislative</loc>
   </url>
   <url>
-    <loc>http://asucm.ucmerced.edu/branches/legislative</loc>
+    <loc>http://asucm.ucmerced.edu/branches/legislative/senate-meetings</loc>
   </url>
   <url>
     <loc>http://asucm.ucmerced.edu/branches/legislative/senate-minutes</loc>
@@ -167,49 +242,46 @@
     <loc>http://asucm.ucmerced.edu/branches/judicial</loc>
   </url>
   <url>
-    <loc>http://asucm.ucmerced.edu/auxiliaries</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/branches/legislative/senate-meetings</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/branches/executive</loc>
-  </url>
-  <url>
     <loc>http://asucm.ucmerced.edu/auxiliaries/small-appropriations-board</loc>
   </url>
   <url>
-    <loc>http://asucm.ucmerced.edu/resources/forms</loc>
+    <loc>http://asucm.ucmerced.edu/auxiliaries/creative-lab</loc>
   </url>
   <url>
-    <loc>http://asucm.ucmerced.edu/form/conference-registration-funding</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/finance-funding/apply-funds/quick-funding-flowchart</loc>
+    <loc>http://asucm.ucmerced.edu/auxiliaries</loc>
   </url>
   <url>
     <loc>http://asucm.ucmerced.edu/finance-funding/apply-funds</loc>
   </url>
   <url>
-    <loc>http://asucm.ucmerced.edu/resources/forms/asucm-senate-application</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/finance-funding/budget-call</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/resources</loc>
+    <loc>http://asucm.ucmerced.edu/finance-funding/apply-funds/quick-funding-flowchart</loc>
   </url>
   <url>
     <loc>http://asucm.ucmerced.edu/finance-funding</loc>
   </url>
   <url>
+    <loc>http://asucm.ucmerced.edu/finance-funding/budget-call</loc>
+  </url>
+  <url>
     <loc>http://asucm.ucmerced.edu/finance-funding/asucm-free-sticker-drop-request</loc>
   </url>
   <url>
-    <loc>http://asucm.ucmerced.edu/form/grievance-submission-form</loc>
+    <loc>http://asucm.ucmerced.edu/form/conference-registration-funding</loc>
   </url>
   <url>
-    <loc>http://asucm.ucmerced.edu/auxiliaries/creative-lab</loc>
+    <loc>http://asucm.ucmerced.edu/resources</loc>
+  </url>
+  <url>
+    <loc>http://asucm.ucmerced.edu/resources/forms</loc>
+  </url>
+  <url>
+    <loc>http://asucm.ucmerced.edu/resources/forms/asucm-senate-application</loc>
+  </url>
+  <url>
+    <loc>http://asucm.ucmerced.edu/resources/forms/early-rco-event-budget-breakdown</loc>
+  </url>
+  <url>
+    <loc>http://asucm.ucmerced.edu/form/grievance-submission-form</loc>
   </url>
   <url>
     <loc>http://asucm.ucmerced.edu/resources/branding</loc>
@@ -218,40 +290,46 @@
     <loc>http://asucm.ucmerced.edu/official-forms/public-archives</loc>
   </url>
   <url>
-    <loc>http://asucm.ucmerced.edu/content/gabriella-martinez</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/content/juliana-torres</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/resources/forms/early-rco-event-budget-breakdown</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/content/jocelyn-leon</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/student-union</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/content/cj-oderinde</loc>
+    <loc>http://asucm.ucmerced.edu/form/sticker-request-form</loc>
   </url>
   <url>
     <loc>http://asucm.ucmerced.edu/form/contact-us</loc>
   </url>
   <url>
-    <loc>http://asucm.ucmerced.edu/form/sticker-request-form</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/content/manar-ahmed</loc>
+    <loc>http://asucm.ucmerced.edu/content/gabriella-martinez</loc>
   </url>
   <url>
     <loc>http://asucm.ucmerced.edu/content/ammar-salah</loc>
   </url>
   <url>
-    <loc>http://asucm.ucmerced.edu/content/victoria-de-los-angeles</loc>
+    <loc>http://asucm.ucmerced.edu/student-union</loc>
   </url>
   <url>
     <loc>http://asucm.ucmerced.edu/content/evan-martin</loc>
+  </url>
+  <url>
+    <loc>http://asucm.ucmerced.edu/content/cj-oderinde</loc>
+  </url>
+  <url>
+    <loc>http://asucm.ucmerced.edu/content/manar-ahmed</loc>
+  </url>
+  <url>
+    <loc>http://asucm.ucmerced.edu/content/juliana-torres</loc>
+  </url>
+  <url>
+    <loc>http://asucm.ucmerced.edu/content/victoria-de-los-angeles</loc>
+  </url>
+  <url>
+    <loc>http://asucm.ucmerced.edu/content/jocelyn-leon</loc>
+  </url>
+  <url>
+    <loc>http://asucm.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/official-forms/forms/court-respondent-form-r1</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/node/10681</loc>
   </url>
   <url>
     <loc>https://asucm.ucmerced.edu/sites/g/files/ufvvjh396/f/page/documents/authorization_to_release_information_form_0.pdf</loc>
@@ -266,118 +344,28 @@
     <lastmod>2021-11-08</lastmod>
   </url>
   <url>
-    <loc>http://asucm.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/node/10681</loc>
-  </url>
-  <url>
     <loc>https://asucm.ucmerced.edu/node/10691</loc>
   </url>
   <url>
     <loc>https://asucm.ucmerced.edu/about/constitution</loc>
   </url>
   <url>
-    <loc>https://asucm.ucmerced.edu/official-forms/forms/court-respondent-form-r1</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/manar-ahmed</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/miranda-bada</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/gabriella-martinez</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/ammar-salah</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/cj-oderinde</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/evan-martin</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/victoria-de-los-angeles</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/ethan-clark</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/amira-arroyo</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/avinav-biswas</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/julie-alano</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/mistura-bankole</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/sahil-shelat</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/juliana-torres</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/anvi-kudaraya</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/veronique-vorhis</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/jocelyn-leon</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/amelie-sacremento</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/anis-hassan</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/robert-hicks</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/shayan-mirfakhraie</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/rheeya-mishra</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/content/paola-lopez</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/content/miranda-bada</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/content/robert-hicks</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/content/mistura-bankole</loc>
+    <loc>http://asucm.ucmerced.edu/content/sahil-shelat</loc>
   </url>
   <url>
     <loc>http://asucm.ucmerced.edu/content/julie-alano</loc>
   </url>
   <url>
-    <loc>http://asucm.ucmerced.edu/content/sahil-shelat</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/content/anvi-kudaraya</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/content/shayan-mirfakhraie</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/content/ethan-clark</loc>
-  </url>
-  <url>
     <loc>http://asucm.ucmerced.edu/content/amira-arroyo</loc>
   </url>
   <url>
-    <loc>http://asucm.ucmerced.edu/content/amelie-sacremento</loc>
+    <loc>http://asucm.ucmerced.edu/content/mistura-bankole</loc>
+  </url>
+  <url>
+    <loc>http://asucm.ucmerced.edu/content/miranda-bada</loc>
+  </url>
+  <url>
+    <loc>http://asucm.ucmerced.edu/content/ethan-clark</loc>
   </url>
   <url>
     <loc>http://asucm.ucmerced.edu/content/avinav-biswas</loc>
@@ -386,13 +374,25 @@
     <loc>http://asucm.ucmerced.edu/content/anis-hassan</loc>
   </url>
   <url>
-    <loc>http://asucm.ucmerced.edu/content/rheeya-mishra</loc>
+    <loc>http://asucm.ucmerced.edu/content/robert-hicks</loc>
   </url>
   <url>
     <loc>http://asucm.ucmerced.edu/content/paola-lopez</loc>
   </url>
   <url>
+    <loc>http://asucm.ucmerced.edu/content/rheeya-mishra</loc>
+  </url>
+  <url>
+    <loc>http://asucm.ucmerced.edu/content/shayan-mirfakhraie</loc>
+  </url>
+  <url>
+    <loc>http://asucm.ucmerced.edu/content/amelie-sacremento</loc>
+  </url>
+  <url>
     <loc>http://asucm.ucmerced.edu/content/veronique-vorhis</loc>
+  </url>
+  <url>
+    <loc>http://asucm.ucmerced.edu/content/anvi-kudaraya</loc>
   </url>
   <url>
     <loc>http://asucm.ucmerced.edu/rss.xml</loc>
@@ -402,18 +402,18 @@
     <loc>http://asucm.ucmerced.edu/content/enrique-guzman-0</loc>
   </url>
   <url>
-    <loc>http://asucm.ucmerced.edu/content/jasmine-monreal</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/content/edwin-gallegos</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/content/ceci-estrada</loc>
+    <loc>http://asucm.ucmerced.edu/content/adyan-zaman</loc>
   </url>
   <url>
     <loc>http://asucm.ucmerced.edu/content/bretteill-davidoff</loc>
   </url>
   <url>
-    <loc>http://asucm.ucmerced.edu/content/adyan-zaman</loc>
+    <loc>http://asucm.ucmerced.edu/content/edwin-gallegos</loc>
+  </url>
+  <url>
+    <loc>http://asucm.ucmerced.edu/content/jasmine-monreal</loc>
+  </url>
+  <url>
+    <loc>http://asucm.ucmerced.edu/content/ceci-estrada</loc>
   </url>
 </urlset>

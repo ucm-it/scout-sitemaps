@@ -4,25 +4,28 @@
     <loc>https://water.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://water.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://water.ucmerced.edu/conservation/irrigation</loc>
+    <loc>https://water.ucmerced.edu/conservation</loc>
   </url>
   <url>
     <loc>https://water.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://water.ucmerced.edu/conservation</loc>
+    <loc>https://water.ucmerced.edu/water-watch</loc>
   </url>
   <url>
-    <loc>https://water.ucmerced.edu/water-watch</loc>
+    <loc>https://water.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://water.ucmerced.edu/node/18</loc>
+  </url>
+  <url>
+    <loc>https://water.ucmerced.edu/conservation/irrigation</loc>
   </url>
   <url>
     <loc>https://water.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://water.ucmerced.edu/node/18</loc>
+    <loc>https://water.ucmerced.edu/node/31</loc>
   </url>
 </urlset>

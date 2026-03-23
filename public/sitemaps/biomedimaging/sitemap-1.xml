@@ -13,15 +13,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://biomedimaging.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://biomedimaging.ucmerced.edu/research</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://biomedimaging.ucmerced.edu/awards</loc>
+    <loc>https://biomedimaging.ucmerced.edu/news-0</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -29,7 +21,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://biomedimaging.ucmerced.edu/news-0</loc>
+    <loc>https://biomedimaging.ucmerced.edu/research</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -37,6 +29,14 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://biomedimaging.ucmerced.edu/awards</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://biomedimaging.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://biomedimaging.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-23</lastmod>
   </url>
 </urlset>

@@ -9,19 +9,19 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/about-hr</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/contact-hr</loc>
+    <loc>https://hr.ucmerced.edu/about-hr</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/hr_org_chart_1.5.26.pdf</loc>
     <lastmod>2026-01-06</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/contact-hr</loc>
+    <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/news</loc>
@@ -40,11 +40,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/careers</loc>
+    <loc>https://hr.ucmerced.edu/talent-acquisition/employment-faq-applicants</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/talent-acquisition/employment-faq-applicants</loc>
+    <loc>https://hr.ucmerced.edu/careers</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -76,15 +76,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/performance-management</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/employee-resources/new-employees</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/uc-merced-supervisor-resource-hub/policies-and-procedures</loc>
+    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/performance-management</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -92,15 +88,23 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/Supervisor_Resource_Hub</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/work-life-integration</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/uc-merced-supervisor-resource-hub/policies-and-procedures</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/Supervisor_Resource_Hub</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/uc-merced-supervisor-resource-hub/campus-complaint-processes-overview</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/compensation</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -112,7 +116,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/compensation</loc>
+    <loc>https://hr.ucmerced.edu/forms</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -124,7 +128,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/forms</loc>
+    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-forms</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -132,15 +136,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-forms</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/employment-forms</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/employeelabor-relations/performance-management/halogen/forms</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -148,7 +144,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/webinars</loc>
+    <loc>https://hr.ucmerced.edu/employeelabor-relations/performance-management/halogen/forms</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -156,7 +152,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-62</loc>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/webinars</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -164,19 +160,23 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-61</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/nebo-webinar-60</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-58</loc>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-62</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-61</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/events/nebo-webinar-59</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-58</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -188,15 +188,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-55</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/nebo-webinar-54</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-53</loc>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-55</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -208,11 +204,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-50</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-49</loc>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-53</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -220,7 +212,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-47</loc>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-50</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -228,15 +220,23 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-49</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/events/nebo-webinar-45</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-44</loc>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-43</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-43</loc>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-47</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-44</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -252,19 +252,15 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/acupressure-restlessness-peace-mind-sponsored-health-net</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/events/importance-influence-sponsored-eap</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/nebo-webinar-41</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/events/refresh-self-care-made-easy-webinar-sponsored-kaiser</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/acupressure-restlessness-peace-mind-sponsored-health-net</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -276,7 +272,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/overcoming-loneliness</loc>
+    <loc>https://hr.ucmerced.edu/events/importance-influence-sponsored-eap</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -284,15 +280,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-39</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/embracing-you-power-acceptance-0</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/embracing-you-power-acceptance</loc>
+    <loc>https://hr.ucmerced.edu/events/overcoming-loneliness</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -300,15 +292,19 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-39</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/events/delegating-development-0</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/delegating-development</loc>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-37</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-37</loc>
+    <loc>https://hr.ucmerced.edu/events/embracing-you-power-acceptance</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -320,11 +316,15 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/waving-worry-goodbye-strategies-manage-anxiety-0</loc>
+    <loc>https://hr.ucmerced.edu/events/delegating-development</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/events/waving-worry-goodbye-strategies-manage-anxiety</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/waving-worry-goodbye-strategies-manage-anxiety-0</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -348,15 +348,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/organization-life-0</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/organization-life</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-31</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -364,7 +356,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/essential-leadership-skills</loc>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-31</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/organization-life-0</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -372,11 +368,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-30</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-29</loc>
+    <loc>https://hr.ucmerced.edu/events/essential-leadership-skills</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -384,11 +376,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-27</loc>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-29</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/preparing-retirement-webinar-5</loc>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-30</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -400,7 +392,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-26</loc>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-27</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/preparing-retirement-webinar-5</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -408,11 +404,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/when-grief-comes-workplace</loc>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-26</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-25</loc>
+    <loc>https://hr.ucmerced.edu/events/when-grief-comes-workplace</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -420,7 +416,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-23</loc>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-25</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -428,7 +424,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/combating-perfectionism-0</loc>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-23</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-22</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -436,7 +436,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-22</loc>
+    <loc>https://hr.ucmerced.edu/events/combating-perfectionism-0</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -448,15 +448,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-21</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/nebo-webinar-20</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-19</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -464,7 +456,15 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-19</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/events/preparing-retirement-webinar-3</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-21</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -476,10 +476,6 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-17</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/building-strong-teams-0</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
@@ -488,11 +484,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-16</loc>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-17</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-15</loc>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-16</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -500,15 +496,19 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-15</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/events/preparing-retirement-webinar-2</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/importance-lgbtqia-inclusive-workplace-0</loc>
+    <loc>https://hr.ucmerced.edu/events/importance-lgbtqia-inclusive-workplace</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/importance-lgbtqia-inclusive-workplace</loc>
+    <loc>https://hr.ucmerced.edu/events/importance-lgbtqia-inclusive-workplace-0</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -544,10 +544,6 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-10</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/preparing-retirement-webinar-1</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
@@ -556,7 +552,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/uc-walks-1</loc>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-10</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -564,11 +560,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/fundamentals-mental-health-0</loc>
+    <loc>https://hr.ucmerced.edu/events/uc-walks-1</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/canceled-csa-conflict-resolution</loc>
+    <loc>https://hr.ucmerced.edu/events/fundamentals-mental-health-0</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -588,11 +584,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/fidelity-%E2%80%93-women-investing-organize-plan-own-your-future</loc>
+    <loc>https://hr.ucmerced.edu/events/canceled-csa-conflict-resolution</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-6</loc>
+    <loc>https://hr.ucmerced.edu/events/fidelity-%E2%80%93-women-investing-organize-plan-own-your-future</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -604,15 +600,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-6</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/events/strategies-manage-frustration-and-anger-0</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/events/strategies-manage-frustration-and-anger</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/events/canceled-csa-time-management</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -620,11 +612,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/fidelity-maximizing-social-security-your-retirement-strategy</loc>
+    <loc>https://hr.ucmerced.edu/events/strategies-manage-frustration-and-anger</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/fidelity-%E2%80%93-fundamental-retirement-income-planning</loc>
+    <loc>https://hr.ucmerced.edu/events/fidelity-maximizing-social-security-your-retirement-strategy</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -632,11 +624,19 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/managing-emotionally-reactive-employee</loc>
+    <loc>https://hr.ucmerced.edu/events/canceled-csa-time-management</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/fidelity-%E2%80%93-fundamental-retirement-income-planning</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/events/nebo-webinar-3</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/managing-emotionally-reactive-employee</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -648,15 +648,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/nebo-webinar-1</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/events/preparing-retirement-webinar</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/taking-high-road-kindness-and-civility-0</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/nebo-webinar-1</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -664,7 +660,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/crucial-conversations-training-0</loc>
+    <loc>https://hr.ucmerced.edu/events/preparing-retirement-webinar</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -680,6 +676,10 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/events/crucial-conversations-training-0</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/events/maximizing-your-health-benefits-lunch-learn-health-net-uc-blue-and-gold-hmo</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
@@ -692,15 +692,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/maintaining-professional-boundaries-your-employees</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/developing-employees-delegating-success-accountability</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/events/csa-stress-management</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -712,7 +704,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/csa-attitude-workplace</loc>
+    <loc>https://hr.ucmerced.edu/events/maintaining-professional-boundaries-your-employees</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -720,7 +712,15 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/events/csa-stress-management</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/events/csa-communication-workplace</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/csa-attitude-workplace</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -744,7 +744,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/labor-day-holiday-2</loc>
+    <loc>https://hr.ucmerced.edu/events/memorial-day-holiday-2</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -752,11 +752,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/memorial-day-holiday-2</loc>
+    <loc>https://hr.ucmerced.edu/events/cesar-chavez-holiday-2</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/cesar-chavez-holiday-2</loc>
+    <loc>https://hr.ucmerced.edu/events/labor-day-holiday-2</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -792,19 +792,19 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/memorial-day-holiday-1</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/new-employee-orientation-1</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/new-employee-orientation-0</loc>
+    <loc>https://hr.ucmerced.edu/events/memorial-day-holiday-1</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/events/cesar-chavez-holiday-1</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/new-employee-orientation-0</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -820,11 +820,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultations-18</loc>
+    <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultations-19</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultations-19</loc>
+    <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultations-18</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -832,11 +832,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/new-year-holiday-0</loc>
+    <loc>https://hr.ucmerced.edu/events/winter-holiday-0</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/winter-holiday-0</loc>
+    <loc>https://hr.ucmerced.edu/events/new-year-holiday-0</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -844,11 +844,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultations-17</loc>
+    <loc>https://hr.ucmerced.edu/events/new-employee-orientation-december-2</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/new-employee-orientation-december-2</loc>
+    <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultations-17</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -860,11 +860,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultations-16</loc>
+    <loc>https://hr.ucmerced.edu/events/new-employee-orientation-november-3</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/new-employee-orientation-november-3</loc>
+    <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultations-16</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -892,15 +892,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/new-employee-orientation-september-2</loc>
+    <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultations-13</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/events/fidelity-retirement-workshops-10</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultations-13</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -912,11 +908,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultations-12</loc>
+    <loc>https://hr.ucmerced.edu/events/professional-learning-academy-managing-organizational-change</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/professional-learning-academy-managing-organizational-change</loc>
+    <loc>https://hr.ucmerced.edu/events/new-employee-orientation-september-2</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -940,15 +936,19 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultations-12</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/events/new-employee-orientation-june-1</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/fidelity-retirement-workshops-7</loc>
+    <loc>https://hr.ucmerced.edu/events/memorial-day-holiday-0</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/memorial-day-holiday-0</loc>
+    <loc>https://hr.ucmerced.edu/events/fidelity-retirement-workshops-7</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -964,11 +964,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/new-employee-orientation-may-1</loc>
+    <loc>https://hr.ucmerced.edu/events/fidelity-retirement-workshops-6</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/fidelity-retirement-workshops-6</loc>
+    <loc>https://hr.ucmerced.edu/events/new-employee-orientation-may-1</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -984,11 +984,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/fidelity-retirement-workshops-5</loc>
+    <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultations-8</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultations-8</loc>
+    <loc>https://hr.ucmerced.edu/events/fidelity-retirement-workshops-5</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1000,15 +1000,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultations-7</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/new-employee-orientation-march-1</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/fidelity-retirement-workshops-4</loc>
+    <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultations-7</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1016,7 +1012,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultations-6</loc>
+    <loc>https://hr.ucmerced.edu/events/fidelity-retirement-workshops-4</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1032,15 +1028,15 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultations-6</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/events/new-employee-orientation-february-1</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultations-4</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/events/martin-luther-king-jr-holiday</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1060,6 +1056,10 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/events/martin-luther-king-jr-holiday</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/events/holiday-campus-closure-0</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
@@ -1068,19 +1068,15 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultations-2</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/professional-learning-academy-team-building</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/fidelity-retirement-workshops-2</loc>
+    <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultations-2</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/new-employee-orientation-december-1</loc>
+    <loc>https://hr.ucmerced.edu/events/fidelity-retirement-workshops-2</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1096,7 +1092,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/veterans-day-holiday</loc>
+    <loc>https://hr.ucmerced.edu/events/new-employee-orientation-december-1</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1109,6 +1105,10 @@
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/events/cancelled-fidelity-retirement-workshops</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/veterans-day-holiday</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1164,10 +1164,6 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/independence-day-holiday</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/training-cultural-diversity</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
@@ -1184,11 +1180,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/halogen-training</loc>
+    <loc>https://hr.ucmerced.edu/events/independence-day-holiday</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultation-3</loc>
+    <loc>https://hr.ucmerced.edu/events/halogen-training</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1204,19 +1200,19 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultation-3</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/events/sexual-harassment-prevention-training-live-0</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/new-employee-orientation-may-0</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/events/postponed-training-cultural-diversity-tbd-june</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/fidelity-investments-one-one-consultation-2</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/new-employee-orientation-may-0</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1225,6 +1221,10 @@
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/events/new-employee-orientation-april-0</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/postponed-training-cultural-diversity-tbd-june</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1248,10 +1248,6 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/workshop-values-and-ethics</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/fidelity-retirement-workshops-2615-02062015-1030-am</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
@@ -1261,6 +1257,10 @@
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/events/compensation-strategy-webchat-vc-michael-reese</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/workshop-values-and-ethics</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1276,10 +1276,6 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/welcome-reception-assistant-vice-chancellor-human-resources</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/workshop-it-starts-you-creating-positive-workforce</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
@@ -1288,15 +1284,19 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/new-employee-orientation-january-0</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/sexual-harassment-prevention-training-live</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/events/welcome-reception-assistant-vice-chancellor-human-resources</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/events/workshop-team-building</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/new-employee-orientation-january-0</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1308,15 +1308,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/workshop-customer-service</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/new-employee-orientation-november-0</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/benefits-open-enrollment-fair-0</loc>
+    <loc>https://hr.ucmerced.edu/events/workshop-customer-service</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1332,7 +1328,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/compensation-strategy-listening-session</loc>
+    <loc>https://hr.ucmerced.edu/events/benefits-open-enrollment-fair-0</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1341,6 +1337,10 @@
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/events/compensation-strategy-listening-session-0</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/compensation-strategy-listening-session</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1364,10 +1364,6 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/training-crucial-accountability-0</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/training-values-and-ethics</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
@@ -1376,7 +1372,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/training-crucial-conversations-session-3</loc>
+    <loc>https://hr.ucmerced.edu/events/training-crucial-accountability-0</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1389,6 +1385,10 @@
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/events/new-employee-orientation-april</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/training-crucial-conversations-session-3</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1408,6 +1408,10 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/events/training-building-skills-leadership-and-empowerment</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/events/new-employee-orientation-march</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
@@ -1416,19 +1420,15 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/training-building-skills-leadership-and-empowerment</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/training-cancelled-setting-performance-expectations</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/training-customer-service</loc>
+    <loc>https://hr.ucmerced.edu/events/new-employee-orientation-february</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/new-employee-orientation-february</loc>
+    <loc>https://hr.ucmerced.edu/events/training-customer-service</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1448,10 +1448,6 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/training-paperless-hr-request-forms-10</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/training-paperless-hr-request-forms-9</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
@@ -1460,7 +1456,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/training-paperless-hr-request-forms-7</loc>
+    <loc>https://hr.ucmerced.edu/events/training-paperless-hr-request-forms-10</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1468,11 +1464,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/holiday-new-year-holiday</loc>
+    <loc>https://hr.ucmerced.edu/events/training-paperless-hr-request-forms-7</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/holiday-campus-closure</loc>
+    <loc>https://hr.ucmerced.edu/events/holiday-new-year-holiday</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1480,7 +1476,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/training-paperless-hr-request-forms-6</loc>
+    <loc>https://hr.ucmerced.edu/events/holiday-campus-closure</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1488,7 +1484,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/training-sexual-harassment-prevention-live-theater-production</loc>
+    <loc>https://hr.ucmerced.edu/events/training-paperless-hr-request-forms-6</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1497,6 +1493,10 @@
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/events/training-paperless-hr-request-forms-3</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/training-sexual-harassment-prevention-live-theater-production</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1528,15 +1528,15 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/open-enrollment-closes</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/medical-plan-changes-info-session-7</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/events/medical-plan-changes-info-session-kl360</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/open-enrollment-closes</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1576,19 +1576,15 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/new-employee-orientation-november</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/events/medical-plan-changes-info-session-0</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/medical-plan-changes-info-session</loc>
+    <loc>https://hr.ucmerced.edu/events/new-employee-orientation-november</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/training-enhanced-job-builder-training</loc>
+    <loc>https://hr.ucmerced.edu/events/medical-plan-changes-info-session</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1597,6 +1593,10 @@
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/events/uc-benefits-open-enrollment-begins</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/events/training-enhanced-job-builder-training</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1624,11 +1624,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/new-employee-orientation-october</loc>
+    <loc>https://hr.ucmerced.edu/events/fidelity-investment-financial-classes-campus</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/events/fidelity-investment-financial-classes-campus</loc>
+    <loc>https://hr.ucmerced.edu/events/new-employee-orientation-october</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1688,19 +1688,19 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/health-welfare-benefits</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/hr-units/benefits/retirement-saving-programs</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/accommodations</loc>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/health-welfare-benefits</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/hr-units/benefits/workers-compensation</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/accommodations</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1728,6 +1728,10 @@
     <lastmod>2021-01-14</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/Our-Partners</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/02_covid_response_center_crc_operator.pdf</loc>
     <lastmod>2021-01-14</lastmod>
   </url>
@@ -1736,15 +1740,11 @@
     <lastmod>2021-01-14</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/Our-Partners</loc>
+    <loc>https://hr.ucmerced.edu/uclc</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/Programs-Services-and-Tools</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/uclc</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1768,22 +1768,22 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/leaves-absence/process</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/leaves-absence/resources</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/form/request-leave-absence</loc>
+    <loc>https://hr.ucmerced.edu/leaves-absence/process</loc>
+    <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/family-medical-leave_0.pdf</loc>
     <lastmod>2024-08-15</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/core-competency-ABCs</loc>
+    <loc>https://hr.ucmerced.edu/form/request-leave-absence</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/New_Employee_Orientation</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1795,7 +1795,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/performance-management/performance-appraisal-faqs</loc>
+    <loc>https://hr.ucmerced.edu/core-competency-ABCs</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1803,15 +1803,19 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/performance-management/performance-appraisal-faqs</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/union-representation-faqs</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/collective-bargaining-agreements</loc>
+    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/union-representatives</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/union-representatives</loc>
+    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/collective-bargaining-agreements</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1835,11 +1839,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/performance-management/roles-and-responsibilities</loc>
+    <loc>https://hr.ucmerced.edu/uc-merced-supervisor-resource-hub/self-help-tools</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/uc-merced-supervisor-resource-hub/self-help-tools</loc>
+    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/performance-management/roles-and-responsibilities</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1867,8 +1871,16 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/New_Employee_Orientation</loc>
-    <lastmod>2026-03-23</lastmod>
+    <loc>https://hr.ucmerced.edu/files/page/documents/ucm_ppsm_70.pdf</loc>
+    <lastmod>2017-09-25</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/complaint_form_for_ppsm_70_.pdf</loc>
+    <lastmod>2023-03-22</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/alternate_work_schedule_considerations.doc</loc>
+    <lastmod>2017-11-29</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/files/page/documents/telecommuting_policy.pdf</loc>
@@ -1879,14 +1891,6 @@
     <lastmod>2024-04-05</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/ucm_ppsm_70.pdf</loc>
-    <lastmod>2017-09-25</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/complaint_form_for_ppsm_70_.pdf</loc>
-    <lastmod>2023-03-22</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/hr-units/benefits/other-benefits/insight-eap</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
@@ -1895,23 +1899,19 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/Workforce_Planning_resources</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/People_and_Performance_resources</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/HR_Consultation</loc>
+    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/alternate_work_schedule_considerations.doc</loc>
-    <lastmod>2017-11-29</lastmod>
+    <loc>https://hr.ucmerced.edu/Workforce_Planning_resources</loc>
+    <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides</loc>
+    <loc>https://hr.ucmerced.edu/HR_Consultation</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1931,15 +1931,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/compensation/general-salary-increase</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/hr-units/compensation/salary-increases-represented-employees</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/compensation/staff-market-equity-program</loc>
+    <loc>https://hr.ucmerced.edu/hr-units/compensation/general-salary-increase</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1951,6 +1947,10 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/hr-units/compensation/staff-market-equity-program</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/hr-units/talent-acquisition/resources</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
@@ -1959,15 +1959,31 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/talent-acquisition/contact-us</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/employee_referral_program_final_1-18-21.pdf</loc>
     <lastmod>2022-02-24</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/hr-units/talent-acquisition/contact-us</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/reclassification</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/new-position</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/hr-units/talent-acquisition/hiring-transparency</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/how-to-request-stipend</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/compensation/compensation-guides/edoc-request</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -1987,15 +2003,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/submit_efrom_for_life_event-late_enrollment_instruction_pdf.pdf</loc>
-    <lastmod>2022-03-10</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/files/documents/eoi-disability-insurance.pdf</loc>
     <lastmod>2020-01-28</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/evidence_of_insurability_instructions.pdf</loc>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/submit_efrom_for_life_event-late_enrollment_instruction_pdf.pdf</loc>
     <lastmod>2022-03-10</lastmod>
   </url>
   <url>
@@ -2003,40 +2015,28 @@
     <lastmod>2020-01-28</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/files/documents/health-benefits-opt-out.pdf</loc>
-    <lastmod>2020-01-28</lastmod>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/evidence_of_insurability_instructions.pdf</loc>
+    <lastmod>2022-03-10</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/cobra-qualifying-event.pdf</loc>
     <lastmod>2022-03-10</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/new-position</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/reclassification</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/how-to-request-stipend</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/compensation/compensation-guides/edoc-request</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/files/page/documents/background_check_worksheet.pdf</loc>
-    <lastmod>2017-02-07</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/request_for_background_investigation.pdf</loc>
     <lastmod>2017-02-07</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/reference_check_template_03-16-22.docx</loc>
     <lastmod>2022-03-16</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/documents/health-benefits-opt-out.pdf</loc>
+    <lastmod>2020-01-28</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/request_for_background_investigation.pdf</loc>
+    <lastmod>2017-02-07</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/files/page/documents/interview_committee_guide.pdf</loc>
@@ -2063,20 +2063,20 @@
     <lastmod>2016-06-24</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/request_for_exception_to_ppsm_30.pdf</loc>
-    <lastmod>2017-01-18</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/waiver_of_recruitment_request.pdf</loc>
     <lastmod>2025-06-09</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/near_relative_request_for_new_hire_form.pdf</loc>
-    <lastmod>2013-10-29</lastmod>
+    <loc>https://hr.ucmerced.edu/files/page/documents/request_for_exception_to_ppsm_30.pdf</loc>
+    <lastmod>2017-01-18</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/offer_letter_limited_-_external_v11_12_3_25.docx</loc>
     <lastmod>2026-01-08</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/near_relative_request_for_new_hire_form.pdf</loc>
+    <lastmod>2013-10-29</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/offer_letter_msp_-_career_external_v11_12-3-25.docx</loc>
@@ -2087,11 +2087,11 @@
     <lastmod>2026-01-08</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/offer_letter_pss_-_career_external_v11_12-3-25.docx</loc>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/offer_letter_pss_-_career_internal_v11_12-3-25.docx</loc>
     <lastmod>2026-01-08</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/offer_letter_pss_-_career_internal_v11_12-3-25.docx</loc>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/offer_letter_pss_-_career_external_v11_12-3-25.docx</loc>
     <lastmod>2026-01-08</lastmod>
   </url>
   <url>
@@ -2099,11 +2099,11 @@
     <lastmod>2026-01-08</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/offer_letter_msp_-_external_with_relocation_v4_12-3-25.docx</loc>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/contract_-_msp_updated_12-3-25.docx</loc>
     <lastmod>2026-01-08</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/contract_-_msp_updated_12-3-25.docx</loc>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/offer_letter_msp_-_external_with_relocation_v4_12-3-25.docx</loc>
     <lastmod>2026-01-08</lastmod>
   </url>
   <url>
@@ -2115,18 +2115,6 @@
     <lastmod>2026-01-08</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/performance_appraisal.docx</loc>
-    <lastmod>2019-05-02</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/summary_of_accomplishments.docx</loc>
-    <lastmod>2018-03-01</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/performance_appraisal_form_-_2024.docx</loc>
-    <lastmod>2025-04-22</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/uc_merced_independent_contractor_packet_rev_jan2025.pdf</loc>
     <lastmod>2025-01-24</lastmod>
   </url>
@@ -2135,8 +2123,20 @@
     <lastmod>2025-01-10</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/summary_of_accomplishments.docx</loc>
+    <lastmod>2018-03-01</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/performance_appraisal.docx</loc>
+    <lastmod>2019-05-02</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/independent_contractor_flowchart_web_10_2021_v2.pdf</loc>
     <lastmod>2021-10-19</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/performance_appraisal_form_-_2024.docx</loc>
+    <lastmod>2025-04-22</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/hr-units/benefits/webinars/january-webinars</loc>
@@ -2163,7 +2163,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/webinars/july-webinars</loc>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/webinars/september-webinar</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -2171,7 +2171,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/webinars/september-webinar</loc>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/webinars/july-webinars</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -2179,11 +2179,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/webinars/november-webinar</loc>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/webinars/december-webinar</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/webinars/december-webinar</loc>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/webinars/november-webinar</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -2207,31 +2207,19 @@
     <lastmod>2025-10-27</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/wellness/uc-moves-challenge</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/hr_fmev_background_poster_letter_2025.pdf</loc>
     <lastmod>2025-03-13</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/wellness/uc-moves-challenge</loc>
+    <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/hr_fmev_background_spanish_poster_letter-1_2025.pdf</loc>
     <lastmod>2025-03-13</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/health-welfare-benefits/new-employee</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/health-welfare-benefits/medicare-actively-working-turning-65</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/health-welfare-benefits/retirees</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/health-welfare-benefits/benefits-faq</loc>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/retirement-benefits/safe-harbor</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -2240,10 +2228,6 @@
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/hr-units/benefits/retirement-saving-programs/rehire-retiree</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/retirement-benefits/safe-harbor</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -2256,6 +2240,46 @@
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/servicecredit</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/health-welfare-benefits/medicare-actively-working-turning-65</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/health-welfare-benefits/new-employee</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/health-welfare-benefits/retirees</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/health-welfare-benefits/benefits-faq</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/workers-compensation/medical-treatment-authorization-and-facilities</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/workers-compensation/injury-illness-reporting-procedure</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/node/9091</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/content/workers-compensation-faq</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/node/9111</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/node/9101</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -2275,31 +2299,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/workers-compensation/injury-illness-reporting-procedure</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/workers-compensation/medical-treatment-authorization-and-facilities</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/content/workers-compensation-faq</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/node/9091</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/node/9111</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/node/9101</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/hr-units/benefits/other-benefits/bright-horizons-care-advantage</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/other-benefits/reduced-fee-enrollment</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -2307,7 +2311,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/other-benefits/reduced-fee-enrollment</loc>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/wellness/diabetes-prevention-program</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -2319,8 +2323,8 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/wellness/diabetes-prevention-program</loc>
-    <lastmod>2026-03-23</lastmod>
+    <loc>https://hr.ucmerced.edu/files/documents/bright_horzions_webinar_schedule_2020.pdf</loc>
+    <lastmod>2020-01-27</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/hr-units/benefits/wellness/uc-healthy-holidays-challenge</loc>
@@ -2329,10 +2333,6 @@
   <url>
     <loc>https://hr.ucmerced.edu/hr-units/benefits/wellness/drug-and-alcohol-abuse-prevention-and-treatment</loc>
     <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/files/documents/bright_horzions_webinar_schedule_2020.pdf</loc>
-    <lastmod>2020-01-27</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/files/documents/job_aid_telecommute_agreement.pdf</loc>
@@ -2355,27 +2355,19 @@
     <lastmod>2023-05-02</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/Career_Advising</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hrtdservices</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hrtdtools</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/uclc-resources</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/course_request.xlsx</loc>
     <lastmod>2021-01-09</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/Career_Advising</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/uclc-manager</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/uclc-resources</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -2392,6 +2384,14 @@
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/uclc-contact</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hrtdtools</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hrtdservices</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -2423,11 +2423,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/new-beginnings</loc>
+    <loc>https://hr.ucmerced.edu/peak-pioneers</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/peak-pioneers</loc>
+    <loc>https://hr.ucmerced.edu/new-beginnings</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -2435,23 +2435,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/training/peoplemanagement</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/your-guide-to-uc-disability-benefits-fact-sheet_0.pdf</loc>
     <lastmod>2024-08-15</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/leaves-absence/types-leave/expansion-paid-sick-leave</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/leave-without-pay.pdf</loc>
-    <lastmod>2024-07-30</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/leaves-absence/catastrophic-leave-donation</loc>
+    <loc>https://hr.ucmerced.edu/training/peoplemanagement</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -2459,7 +2447,15 @@
     <lastmod>2024-08-15</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/leaves-absence/types-leave/expansion-paid-sick-leave</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/leave-without-pay_0.pdf</loc>
+    <lastmod>2024-08-15</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/your-guide-to-uc-disability-benefits-fact-sheet.pdf</loc>
     <lastmod>2024-08-15</lastmod>
   </url>
   <url>
@@ -2467,8 +2463,16 @@
     <lastmod>2024-08-15</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/your-guide-to-uc-disability-benefits-fact-sheet.pdf</loc>
-    <lastmod>2024-08-15</lastmod>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/leave-without-pay.pdf</loc>
+    <lastmod>2024-07-30</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/tips_for_writing_your_summary_of_accomplishment.pdf</loc>
+    <lastmod>2016-06-16</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/leaves-absence/catastrophic-leave-donation</loc>
+    <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/uc_core_competency_abc.pdf</loc>
@@ -2479,11 +2483,11 @@
     <lastmod>2026-03-05</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/uc_core_competency_a.pdf</loc>
-    <lastmod>2026-03-05</lastmod>
+    <loc>https://hr.ucmerced.edu/training/performance</loc>
+    <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/uc_core_competency_b.pdf</loc>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/uc_core_competency_a.pdf</loc>
     <lastmod>2026-03-05</lastmod>
   </url>
   <url>
@@ -2491,16 +2495,12 @@
     <lastmod>2026-03-05</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/core_competencies_rubric.pdf</loc>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/uc_core_competency_b.pdf</loc>
     <lastmod>2026-03-05</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/tips_for_writing_your_summary_of_accomplishment.pdf</loc>
-    <lastmod>2016-06-16</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/training/performance</loc>
-    <lastmod>2026-03-23</lastmod>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/core_competencies_rubric.pdf</loc>
+    <lastmod>2026-03-05</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/calling_in_guidelines.pdf</loc>
@@ -2509,10 +2509,6 @@
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/job_abandonment_protocol.pdf</loc>
     <lastmod>2013-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/employeelabor-relations/employeelabor-relations-how-tos/probationary-period-guidelines-procedures</loc>
-    <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/progressive_disciplinary_guidelines.pdf</loc>
@@ -2527,8 +2523,8 @@
     <lastmod>2018-03-29</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/managers_guide_to_goal_setting.pdf</loc>
-    <lastmod>2024-04-10</lastmod>
+    <loc>https://hr.ucmerced.edu/employeelabor-relations/employeelabor-relations-how-tos/probationary-period-guidelines-procedures</loc>
+    <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/what_is_performance_infographic_0.pdf</loc>
@@ -2543,6 +2539,10 @@
     <lastmod>2025-12-05</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/managers_guide_to_goal_setting.pdf</loc>
+    <lastmod>2024-04-10</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/employee_appraisals_infographic.pdf</loc>
     <lastmod>2025-12-04</lastmod>
   </url>
@@ -2551,11 +2551,11 @@
     <lastmod>2012-07-11</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/tips_for_employees_25032024.pdf</loc>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/tips_for_writing_your_summary_of_accomplishment_25032024.pdf</loc>
     <lastmod>2024-03-26</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/tips_for_writing_your_summary_of_accomplishment_25032024.pdf</loc>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/tips_for_employees_25032024.pdf</loc>
     <lastmod>2024-03-26</lastmod>
   </url>
   <url>
@@ -2563,16 +2563,12 @@
     <lastmod>2024-03-01</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/developmental-activities-for-uc-core-competencies.pdf</loc>
-    <lastmod>2024-04-30</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/files/page/documents/performance_management_guidelines.pdf</loc>
     <lastmod>2016-05-13</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/role_of_supervisor.pdf</loc>
-    <lastmod>2012-07-11</lastmod>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/developmental-activities-for-uc-core-competencies.pdf</loc>
+    <lastmod>2024-04-30</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/performance_appraisal.docx</loc>
@@ -2585,6 +2581,10 @@
   <url>
     <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/probationary_assessment.docx</loc>
     <lastmod>2024-04-10</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/role_of_supervisor.pdf</loc>
+    <lastmod>2012-07-11</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/afscme_-_rit.docx</loc>
@@ -2607,12 +2607,12 @@
     <lastmod>2012-05-07</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/abusive_conduct_report_form.pdf</loc>
-    <lastmod>2025-01-14</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/covered_service_contract_1.31.25.pdf</loc>
     <lastmod>2025-02-04</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/abusive_conduct_report_form.pdf</loc>
+    <lastmod>2025-01-14</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/insight_faq.pdf</loc>
@@ -2621,6 +2621,66 @@
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/january_2023_newsletter.pdf</loc>
     <lastmod>2023-01-10</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/training/programs-and-certificates/msap</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/job_description_form.doc</loc>
+    <lastmod>2012-05-02</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/job-description</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/compensation/compensation-guides/how-create-job-description/job-builder-guidelines</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/career_tracks_-_job_families_and_functions_condensed_8-7-13.pdf</loc>
+    <lastmod>2013-08-07</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/job-description/career-tracks</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/ctjob_families_descriptions.pdf</loc>
+    <lastmod>2012-05-07</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/ct_salary_grade_structure.pdf</loc>
+    <lastmod>2018-09-20</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/compensation/compensation-guides/how-create-job-description/confidential-employees</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/job-description/career-tracks/ct-job-scopes</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/compensation/compensation-guides/how-create-job-description/career-tracks/career-tracks-faqs</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/stipends</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/2025-position-control</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/employee-initiated-reduction-time-erit</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/retention-one-time-payment</loc>
+    <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/talent-acquisition/hiring-manager-toolkit</loc>
@@ -2635,72 +2695,12 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/training/programs-and-certificates/msap</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/job-description</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/compensation/compensation-guides/how-create-job-description/job-builder-guidelines</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/job_description_form.doc</loc>
-    <lastmod>2012-05-02</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/job-description/career-tracks</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/career_tracks_-_job_families_and_functions_condensed_8-7-13.pdf</loc>
-    <lastmod>2013-08-07</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/ctjob_families_descriptions.pdf</loc>
-    <lastmod>2012-05-07</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/job-description/career-tracks/ct-job-scopes</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/compensation/compensation-guides/how-create-job-description/career-tracks/career-tracks-faqs</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/ct_salary_grade_structure.pdf</loc>
-    <lastmod>2018-09-20</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/compensation/compensation-guides/how-create-job-description/confidential-employees</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/stipends</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/2025-position-control</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/retention-one-time-payment</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/employee-initiated-reduction-time-erit</loc>
-    <lastmod>2026-03-23</lastmod>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/quick_reference_-_job_builder_-_powered_by_jdxpert.pdf</loc>
+    <lastmod>2022-08-19</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/job_builder_-_powered_by_jdxpert_-_introduction.pdf</loc>
     <lastmod>2022-07-11</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/quick_reference_-_job_builder_-_powered_by_jdxpert.pdf</loc>
-    <lastmod>2022-08-19</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/user_guide_-_job_builder_-_powered_by_jdxpert_08-2022.pdf</loc>
@@ -2719,6 +2719,10 @@
     <lastmod>2024-08-26</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/uc_merced_team_star_program_nomination_form_2024-2025.pdf</loc>
+    <lastmod>2024-08-26</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/hr-units/compensation/star/cash-guidelines</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
@@ -2727,19 +2731,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/uc_merced_team_star_program_nomination_form_2024-2025.pdf</loc>
-    <lastmod>2024-08-26</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/hr-units/compensation/staff-market-equity-program/staff-market-equity-program-faqs</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/hr-units/talent-acquisition/uc-merced-hiring-bonus-program</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/talent-acquisition/tam-project</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -2751,20 +2747,24 @@
     <lastmod>2021-01-13</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/talent-acquisition/tam-project</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/files/documents/catastrophic_leave_application_form_2020_.pdf</loc>
     <lastmod>2020-04-15</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/leaves_checklist_for_staff.pdf</loc>
-    <lastmod>2018-03-26</lastmod>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/dwc-1_0.pdf</loc>
+    <lastmod>2024-03-05</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/fillable_form_-_incident_report_rev._2024_1.pdf</loc>
     <lastmod>2024-03-13</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/dwc-1_0.pdf</loc>
-    <lastmod>2024-03-05</lastmod>
+    <loc>https://hr.ucmerced.edu/files/page/documents/leaves_checklist_for_staff.pdf</loc>
+    <lastmod>2018-03-26</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/files/documents/workers-compensation-election.pdf</loc>
@@ -2795,11 +2795,11 @@
     <lastmod>2024-06-24</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/medical_separation_memo_review_checklist_-_appendix_1_-_fillable.pdf</loc>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/proof_of_service_-_appendix_2_-_fillable.pdf</loc>
     <lastmod>2024-06-24</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/proof_of_service_-_appendix_2_-_fillable.pdf</loc>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/medical_separation_memo_review_checklist_-_appendix_1_-_fillable.pdf</loc>
     <lastmod>2024-06-24</lastmod>
   </url>
   <url>
@@ -2807,15 +2807,15 @@
     <lastmod>2025-03-24</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/health-welfare-benefits/health-insurance-marketplace</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/health-welfare-benefits/disability</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/hr-units/benefits/retirement-saving-programs/uc-retirement-plan/ucrp-buyback</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/retirement-benefits/uc-retirement-plan/ucrp-disability-benefits</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/health-welfare-benefits/health-insurance-marketplace</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -2823,7 +2823,75 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/retirement-benefits/uc-retirement-plan/ucrp-disability-benefits</loc>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/fillable_form_-_incident_report_rev._2024.pdf</loc>
+    <lastmod>2024-03-13</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/dwc_-_1.pdf</loc>
+    <lastmod>2024-03-05</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/health-welfare-benefits/disability</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/fillable_form_-_incident_report_rev._2024_0.pdf</loc>
+    <lastmod>2024-03-13</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/notice_to_employees_-_english_1.pdf</loc>
+    <lastmod>2025-02-06</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/dwc-1.pdf</loc>
+    <lastmod>2024-03-05</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/notice_to_employees_-_spanish_1.pdf</loc>
+    <lastmod>2025-02-06</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/pharmacy_benefit_network_brochure_-_english.pdf</loc>
+    <lastmod>2025-01-24</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/time_of_hire_notice.pdf</loc>
+    <lastmod>2025-01-24</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/pharmacy_benefit_network_brochure_-_spanish.pdf</loc>
+    <lastmod>2025-01-24</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/pharmacy_benefit_network_poster_-_spanish.pdf</loc>
+    <lastmod>2025-01-24</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/pharmacy_benefit_network_poster_-_english.pdf</loc>
+    <lastmod>2025-01-24</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/predesignation_of_personal_physician.pdf</loc>
+    <lastmod>2025-01-24</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/trtw_-_supervisor_information_sheet.pdf</loc>
+    <lastmod>2024-05-14</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/trtw_-_employee_information_sheet.pdf</loc>
+    <lastmod>2024-05-14</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/trtw_plan_agreement_2.pdf</loc>
+    <lastmod>2024-05-21</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/form_-_work_status_report.docx</loc>
+    <lastmod>2019-04-12</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/users/ahill39</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -2867,77 +2935,6 @@
     <lastmod>2024-12-16</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/form/access-request-lactation-rooms</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/dwc_-_1.pdf</loc>
-    <lastmod>2024-03-05</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/fillable_form_-_incident_report_rev._2024.pdf</loc>
-    <lastmod>2024-03-13</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/users/ahill39</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/fillable_form_-_incident_report_rev._2024_0.pdf</loc>
-    <lastmod>2024-03-13</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/dwc-1.pdf</loc>
-    <lastmod>2024-03-05</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/notice_to_employees_-_english_1.pdf</loc>
-    <lastmod>2025-02-06</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/notice_to_employees_-_spanish_1.pdf</loc>
-    <lastmod>2025-02-06</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/time_of_hire_notice.pdf</loc>
-    <lastmod>2025-01-24</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/pharmacy_benefit_network_brochure_-_english.pdf</loc>
-    <lastmod>2025-01-24</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/pharmacy_benefit_network_brochure_-_spanish.pdf</loc>
-    <lastmod>2025-01-24</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/pharmacy_benefit_network_poster_-_english.pdf</loc>
-    <lastmod>2025-01-24</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/pharmacy_benefit_network_poster_-_spanish.pdf</loc>
-    <lastmod>2025-01-24</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/predesignation_of_personal_physician.pdf</loc>
-    <lastmod>2025-01-24</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/trtw_-_supervisor_information_sheet.pdf</loc>
-    <lastmod>2024-05-14</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/trtw_-_employee_information_sheet.pdf</loc>
-    <lastmod>2024-05-14</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/trtw_plan_agreement_2.pdf</loc>
-    <lastmod>2024-05-21</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/form_-_work_status_report.docx</loc>
-    <lastmod>2019-04-12</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/reduce_fee_enrollment_form_rev_03.2022.pdf</loc>
     <lastmod>2022-04-12</lastmod>
   </url>
@@ -2946,11 +2943,46 @@
     <lastmod>2024-11-05</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/Facilitation</loc>
+    <loc>https://hr.ucmerced.edu/files/page/documents/manager_guide.pdf</loc>
+    <lastmod>2023-08-22</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/form/access-request-lactation-rooms</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/guide_-_instructor_ucm_quickguide.pdf</loc>
+    <lastmod>2024-07-30</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/instructor_guide.pdf</loc>
+    <lastmod>2019-01-11</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/learner_guide.pdf</loc>
+    <lastmod>2023-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/online_course_development_best_practices.pdf</loc>
+    <lastmod>2019-11-26</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/guide_-_print_diploma.pdf</loc>
+    <lastmod>2024-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/node/3431</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/vip</loc>
+    <loc>https://hr.ucmerced.edu/files/page/documents/browser_settings_-_sumtotal_compatibility_requirements.pdf</loc>
+    <lastmod>2025-10-01</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/required_trainings</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/uclc_liaison</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -2970,43 +3002,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/instructor_guide.pdf</loc>
-    <lastmod>2019-01-11</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/guide_-_instructor_ucm_quickguide.pdf</loc>
-    <lastmod>2024-07-30</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/learner_guide.pdf</loc>
-    <lastmod>2023-02-15</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/manager_guide.pdf</loc>
-    <lastmod>2023-08-22</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/guide_-_print_diploma.pdf</loc>
-    <lastmod>2024-01-18</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/node/3431</loc>
+    <loc>https://hr.ucmerced.edu/vip</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/online_course_development_best_practices.pdf</loc>
-    <lastmod>2019-11-26</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/browser_settings_-_sumtotal_compatibility_requirements.pdf</loc>
-    <lastmod>2025-10-01</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/required_trainings</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/uclc_liaison</loc>
+    <loc>https://hr.ucmerced.edu/Facilitation</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -3034,11 +3034,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/training/camp/application-process</loc>
+    <loc>https://hr.ucmerced.edu/Build-an-Individual-Development-Plan</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/Build-an-Individual-Development-Plan</loc>
+    <loc>https://hr.ucmerced.edu/training/camp/application-process</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -3064,16 +3064,16 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/P2faqs</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/Course-Requirements-for-the-UC-People-Management-Series-and-Certificate</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/files/page/documents/uc_people_management_participant_checklist.pdf</loc>
     <lastmod>2020-06-12</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/P2faqs</loc>
+    <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/UC-People-Management-Series-and-Certificate-Frequently-Asked-Questions</loc>
@@ -3096,6 +3096,14 @@
     <lastmod>2016-12-21</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/career_tracks_-_job_families_and_functions_condensed_8-7-13.pdf</loc>
+    <lastmod>2013-08-07</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/employee-initiated-reduction-time-erit/employee-initiated</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/files/page/documents/disposition_instructions.pdf</loc>
     <lastmod>2016-06-24</lastmod>
   </url>
@@ -3108,16 +3116,16 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/talent-acquisition/employment-guides/how-rehire-uc-retiree</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/talent-acquisition/employment-guides/hiring-near-relatives</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/files/documents/recruiter_division_assignments.pdf</loc>
     <lastmod>2020-05-29</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/talent-acquisition/employment-guides/how-rehire-uc-retiree</loc>
+    <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/background_check_worksheet_0.pdf</loc>
@@ -3132,35 +3140,7 @@
     <lastmod>2025-09-29</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/career_tracks_-_job_families_and_functions_condensed_8-7-13.pdf</loc>
-    <lastmod>2013-08-07</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/employee-initiated-reduction-time-erit/employee-initiated</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/hr-units/benefits/health-welfare-benefits/disability/coverage-type</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/individual_development_plan_template_2018.pdf</loc>
-    <lastmod>2018-06-14</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/training/careermanagement</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/training/learningorganizationaleffectiveness</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/KCRO_Resources</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/my_uc_career_faqs</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -3176,11 +3156,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/uc_ethics_compliance_briefing</loc>
+    <loc>https://hr.ucmerced.edu/UC_sexual_violence_and_sexual_harassment_prevention_nonsupervisors</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/UC_sexual_violence_and_sexual_harassment_prevention_nonsupervisors</loc>
+    <loc>https://hr.ucmerced.edu/uc_ethics_compliance_briefing</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -3212,16 +3192,36 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/Restricted_Party_Screening</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/New_Employee_Orientation_NEO</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/Restricted_Party_Screening</loc>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/individual_development_plan_template_2018.pdf</loc>
+    <lastmod>2018-06-14</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/training/careermanagement</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/training/learningorganizationaleffectiveness</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/speed_networking_agenda_2018-19.pdf</loc>
     <lastmod>2018-05-08</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/KCRO_Resources</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/my_uc_career_faqs</loc>
+    <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/speed_networking_instructions_2018-19.pdf</loc>
@@ -3232,16 +3232,16 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/how_to_ask_great_questions.pdf</loc>
-    <lastmod>2018-04-20</lastmod>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/career_tracks_family_and_functions_final.pdf</loc>
     <lastmod>2017-07-27</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/career_aspirations_idp_2017.pdf</loc>
     <lastmod>2018-01-16</lastmod>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/how_to_ask_great_questions.pdf</loc>
+    <lastmod>2018-04-20</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/idp_implementation_checklist.pdf</loc>
@@ -3256,16 +3256,16 @@
     <lastmod>2026-02-13</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/individual_career_development_action_plan.pdf</loc>
-    <lastmod>2016-10-20</lastmod>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/guide-to-creating-quality-development-connections.pdf</loc>
+    <lastmod>2017-10-05</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/files/page/documents/list_of_development_activities.pdf</loc>
     <lastmod>2016-10-20</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/guide-to-creating-quality-development-connections.pdf</loc>
-    <lastmod>2017-10-05</lastmod>
+    <loc>https://hr.ucmerced.edu/files/page/documents/individual_career_development_action_plan.pdf</loc>
+    <lastmod>2016-10-20</lastmod>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/guide-to-identifying-quality-development-connections.pdf</loc>
@@ -3276,11 +3276,11 @@
     <lastmod>2017-10-05</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/guide-to-reflecting-on-the-development-connection-experience.pdf</loc>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/guide-to-assessing-employee-development-connection-quality.pdf</loc>
     <lastmod>2017-10-05</lastmod>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/guide-to-assessing-employee-development-connection-quality.pdf</loc>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/guide-to-reflecting-on-the-development-connection-experience.pdf</loc>
     <lastmod>2017-10-05</lastmod>
   </url>
 </urlset>
