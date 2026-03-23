@@ -8,25 +8,13 @@ on:
   workflow_dispatch:
 
 jobs:
-  setup:
+  generate-and-commit:
     runs-on: ubuntu-latest
-    outputs:
-      matrix: ${{ steps.set-matrix.outputs.matrix }}
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v4
-      - id: set-matrix
-        run: |
-          echo "matrix=$(yq -o=json -I=0 '{"site": .}' .github/sites.yaml)" >> $GITHUB_OUTPUT
-
-  generate-sitemap:
-    needs: setup
-    runs-on: ubuntu-latest
-    strategy:
-      matrix: ${{ fromJson(needs.setup.outputs.matrix) }}
-      fail-fast: false
-
-    steps:
-      - uses: actions/checkout@v6
 
       - name: Clone sitemap generator
         run: git clone --branch v3.0.0 --depth 1 https://github.com/iprodev/PHP-XML-Sitemap-Generator.git
@@ -34,65 +22,56 @@ jobs:
       - name: Install dependencies
         run: composer install --no-dev -d PHP-XML-Sitemap-Generator
 
-      - name: Install Chromium (if JavaScript enabled)
-        if: matrix.site.enable_javascript == true
+      - name: Install Chromium
         run: sudo apt-get install -y chromium-browser
 
-      - name: Restore sitemap DB cache for ${{ matrix.site.name }}
+      - name: Restore sitemap DB cache
         uses: actions/cache@v5
         with:
-          path: db/${{ matrix.site.name }}.db
-          key: sitemap-db-${{ matrix.site.name }}
-          restore-keys: sitemap-db-${{ matrix.site.name }}
+          path: db/
+          key: sitemap-db-${{ github.run_id }}
+          restore-keys: sitemap-db-
 
-      - name: Generate sitemap for ${{ matrix.site.name }}
+      - name: Generate sitemaps
         run: |
-          mkdir -p db sitemaps/${{ matrix.site.name }}
-          cd PHP-XML-Sitemap-Generator
-          php bin/sitemap \
-            --url=${{ matrix.site.url }} \
-            --out=../sitemaps/${{ matrix.site.name }} \
-            --concurrency=${{ matrix.site.concurrency }} \
-            --max-depth=${{ matrix.site.max_depth }} \
-            --db-enabled \
-            --db-dsn=sqlite:../db/${{ matrix.site.name }}.db \
-            --detect-changes \
-            ${{ matrix.site.enable_javascript == true && '--enable-javascript --chrome-path=/usr/bin/chromium-browser' || '' }} \
-            --verbose
+          site_count=$(yq '. | length' .github/sites.yaml)
+          for i in $(seq 0 $((site_count - 1))); do
+            name=$(yq ".[${i}].name" .github/sites.yaml)
+            url=$(yq ".[${i}].url" .github/sites.yaml)
+            concurrency=$(yq ".[${i}].concurrency" .github/sites.yaml)
+            max_depth=$(yq ".[${i}].max_depth" .github/sites.yaml)
+            enable_javascript=$(yq ".[${i}].enable_javascript" .github/sites.yaml)
 
-      - name: Upload sitemap artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: sitemap-${{ matrix.site.name }}
-          path: sitemaps/${{ matrix.site.name }}/
+            js_flags=""
+            if [ "$enable_javascript" = "true" ]; then
+              js_flags="--enable-javascript --chrome-path=/usr/bin/chromium-browser"
+            fi
 
-  commit-sitemaps:
-    runs-on: ubuntu-latest
-    needs: generate-sitemap
-    if: always()
-    permissions:
-      contents: write
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Download all sitemap artifacts
-        uses: actions/download-artifact@v4
-        with:
-          path: downloaded/
-          pattern: sitemap-*
+            mkdir -p db sitemaps/${name}
+            cd PHP-XML-Sitemap-Generator
+            php bin/sitemap \
+              --url=${url} \
+              --out=../sitemaps/${name} \
+              --concurrency=${concurrency} \
+              --max-depth=${max_depth} \
+              --db-enabled \
+              --db-dsn=sqlite:../db/${name}.db \
+              --detect-changes \
+              ${js_flags} \
+              --verbose || true
+            cd ..
+          done
 
       - name: Move sitemaps into place
         run: |
-          for dir in downloaded/sitemap-*/; do
-            site=$(basename "$dir" | sed 's/sitemap-//')
+          for dir in sitemaps/*/; do
+            site=$(basename "$dir")
             mkdir -p public/sitemaps/$site
             cp "$dir"* public/sitemaps/$site/
           done
 
       - name: Remove .gz extensions from sitemap-index.xml locations
-        run: |
-          find public/sitemaps -name "sitemap-index.xml" | xargs sed -i 's/\.xml\.gz/.xml/g'
+        run: find public/sitemaps -name "sitemap-index.xml" | xargs sed -i 's/\.xml\.gz/.xml/g'
 
       - name: Commit sitemaps
         run: |
