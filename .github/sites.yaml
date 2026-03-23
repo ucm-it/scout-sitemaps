@@ -1,0 +1,29 @@
+- name: jobs
+  url: https://jobs.ucmerced.edu
+  concurrency: 1
+  max_depth: 10
+  enable_javascript: true
+
+- name: mercedid
+  url: https://mercedid.ucmerced.edu
+  concurrency: 1
+  max_depth: 10
+  enable_javascript: true
+
+- name: arts
+  url: https://arts.ucmerced.edu
+  concurrency: 1
+  max_depth: 10
+  enable_javascript: false
+
+- name: advising
+  url: https://advising.ucmerced.edu
+  concurrency: 1
+  max_depth: 10
+  enable_javascript: false
+
+- name: basicneeds
+  url: https://basicneeds.ucmerced.edu
+  concurrency: 1
+  max_depth: 10
+  enable_javascript: false
