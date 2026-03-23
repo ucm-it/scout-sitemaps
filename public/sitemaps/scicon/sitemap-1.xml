@@ -9,27 +9,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://scicon.ucmerced.edu/about</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/about/mission</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/about/history</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://scicon.ucmerced.edu/about/site-characterization</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/activities</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/activities/research</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -37,11 +17,15 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://scicon.ucmerced.edu/activities</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://scicon.ucmerced.edu/activities/management-monitoring</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://scicon.ucmerced.edu/activities/conferences-meetings</loc>
+    <loc>https://scicon.ucmerced.edu/activities/research</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -49,7 +33,19 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://scicon.ucmerced.edu/visiting/plan-your-visit</loc>
+    <loc>https://scicon.ucmerced.edu/activities/conferences-meetings</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://scicon.ucmerced.edu/about</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://scicon.ucmerced.edu/about/history</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://scicon.ucmerced.edu/about/mission</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -61,11 +57,15 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://scicon.ucmerced.edu/visiting/plan-your-visit/mapdirections</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://scicon.ucmerced.edu/visiting/plan-your-visit/guidelines</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://scicon.ucmerced.edu/visiting/plan-your-visit/mapdirections</loc>
+    <loc>https://scicon.ucmerced.edu/visiting/plan-your-visit</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -73,11 +73,70 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://scicon.ucmerced.edu/visiting/plan-your-visit/facilities-and-fees</loc>
+    <loc>https://scicon.ucmerced.edu/resources/biodiversity</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://scicon.ucmerced.edu/rss.xml</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://scicon.ucmerced.edu/regional-resources</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://scicon.ucmerced.edu/media/videos</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://scicon.ucmerced.edu/resources/guidebooks-mobile-apps</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://scicon.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://scicon.ucmerced.edu/visiting/plan-your-visit/facilities-and-fees</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://scicon.ucmerced.edu/resources/natural-history</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://scicon.ucmerced.edu/resources/data</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://scicon.ucmerced.edu/resources/annual-reports</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://scicon.ucmerced.edu/media/photo-gallery</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://scicon.ucmerced.edu/media</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://scicon.ucmerced.edu/media/live-webcams</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://scicon.ucmerced.edu/sites/scicon.ucmerced.edu/files/documents/scicon_check_out.pdf</loc>
+    <lastmod>2020-06-04</lastmod>
+  </url>
+  <url>
+    <loc>https://scicon.ucmerced.edu/media/news-press</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://scicon.ucmerced.edu/media/newsletter</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://scicon.ucmerced.edu/media/blog</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -89,27 +148,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://scicon.ucmerced.edu/resources/natural-history</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/resources/biodiversity</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/resources/guidebooks-mobile-apps</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/resources/annual-reports</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://scicon.ucmerced.edu/resources/funding-opportunities</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/resources/data</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -117,78 +156,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://scicon.ucmerced.edu/contact/people</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://scicon.ucmerced.edu/contact/emergency-information</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://scicon.ucmerced.edu/media</loc>
+    <loc>https://scicon.ucmerced.edu/contact/people</loc>
     <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/media/news-press</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/media/blog</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/media/photo-gallery</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/media/videos</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/media/newsletter</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/media/live-webcams</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/sites/scicon.ucmerced.edu/files/images/0ccba53a-a17f-4970-815b-d7813022dcd7.jpeg</loc>
-    <lastmod>2022-05-25</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/sites/scicon.ucmerced.edu/files/documents/scicon_waiver.pdf</loc>
-    <lastmod>2020-06-04</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/sites/scicon.ucmerced.edu/files/documents/scicon_waiver_spanish.pdf</loc>
-    <lastmod>2020-06-04</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/sites/scicon.ucmerced.edu/files/documents/yfs_waiver-group.pdf</loc>
-    <lastmod>2020-06-04</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/sites/scicon.ucmerced.edu/files/documents/waiver-multiple-reserve.pdf</loc>
-    <lastmod>2020-06-04</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/sites/scicon.ucmerced.edu/files/documents/waiver-photo-consent.pdf</loc>
-    <lastmod>2020-06-04</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/sites/scicon.ucmerced.edu/files/documents/ucnrs-conduct_scicon.pdf</loc>
-    <lastmod>2020-06-04</lastmod>
-  </url>
-  <url>
-    <loc>https://scicon.ucmerced.edu/sites/scicon.ucmerced.edu/files/documents/scicon_check_out.pdf</loc>
-    <lastmod>2020-06-04</lastmod>
   </url>
 </urlset>

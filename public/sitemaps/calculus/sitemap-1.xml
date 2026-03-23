@@ -4,28 +4,16 @@
     <loc>https://calculus.ucmerced.edu</loc>
   </url>
   <url>
+    <loc>https://calculus.ucmerced.edu/wwh-calculus-project/contact-us</loc>
+  </url>
+  <url>
     <loc>https://calculus.ucmerced.edu/</loc>
-  </url>
-  <url>
-    <loc>https://calculus.ucmerced.edu/wwh-calculus-project</loc>
-  </url>
-  <url>
-    <loc>https://calculus.ucmerced.edu/wwh-calculus-project/project-mission-and-goals</loc>
   </url>
   <url>
     <loc>https://calculus.ucmerced.edu/wwh-calculus-project/executive-committee-members</loc>
   </url>
   <url>
-    <loc>https://calculus.ucmerced.edu/wwh-calculus-project/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://calculus.ucmerced.edu/resources</loc>
-  </url>
-  <url>
-    <loc>https://calculus.ucmerced.edu/resources/resources-math-instructors</loc>
-  </url>
-  <url>
-    <loc>https://calculus.ucmerced.edu/resources/resources-stem-faculty</loc>
+    <loc>https://calculus.ucmerced.edu/wwh-calculus-project</loc>
   </url>
   <url>
     <loc>https://calculus.ucmerced.edu/resources/resources-students</loc>
@@ -34,22 +22,34 @@
     <loc>https://calculus.ucmerced.edu/resources/references</loc>
   </url>
   <url>
-    <loc>https://calculus.ucmerced.edu/get-involved</loc>
+    <loc>https://calculus.ucmerced.edu/resources</loc>
   </url>
   <url>
-    <loc>https://calculus.ucmerced.edu/get-involved/math-instructor-application</loc>
-  </url>
-  <url>
-    <loc>https://calculus.ucmerced.edu/get-involved/stem-faculty-videos</loc>
-  </url>
-  <url>
-    <loc>https://calculus.ucmerced.edu/get-involved/undergraduate-learning-assistants</loc>
+    <loc>https://calculus.ucmerced.edu/wwh-calculus-project/project-mission-and-goals</loc>
   </url>
   <url>
     <loc>https://calculus.ucmerced.edu/rss.xml</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://calculus.ucmerced.edu/get-involved/undergraduate-learning-assistants</loc>
+  </url>
+  <url>
     <loc>https://calculus.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://calculus.ucmerced.edu/get-involved/stem-faculty-videos</loc>
+  </url>
+  <url>
+    <loc>https://calculus.ucmerced.edu/get-involved/math-instructor-application</loc>
+  </url>
+  <url>
+    <loc>https://calculus.ucmerced.edu/resources/resources-math-instructors</loc>
+  </url>
+  <url>
+    <loc>https://calculus.ucmerced.edu/resources/resources-stem-faculty</loc>
+  </url>
+  <url>
+    <loc>https://calculus.ucmerced.edu/get-involved</loc>
   </url>
 </urlset>

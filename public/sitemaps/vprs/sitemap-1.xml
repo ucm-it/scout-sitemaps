@@ -4,7 +4,7 @@
     <loc>https://vprs.ucmerced.edu/node/1</loc>
   </url>
   <url>
-    <loc>https://vprs.ucmerced.edu/study-details</loc>
+    <loc>https://vprs.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://vprs.ucmerced.edu/team</loc>
@@ -13,27 +13,9 @@
     <loc>https://vprs.ucmerced.edu/faq-0</loc>
   </url>
   <url>
+    <loc>https://vprs.ucmerced.edu/study-details</loc>
+  </url>
+  <url>
     <loc>https://vprs.ucmerced.edu/form/sign-now</loc>
-  </url>
-  <url>
-    <loc>https://vprs.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>http://vprs.ucmerced.edu/faq-0</loc>
-  </url>
-  <url>
-    <loc>http://vprs.ucmerced.edu/form/sign-now</loc>
-  </url>
-  <url>
-    <loc>http://vprs.ucmerced.edu/node/1</loc>
-  </url>
-  <url>
-    <loc>http://vprs.ucmerced.edu/study-details</loc>
-  </url>
-  <url>
-    <loc>http://vprs.ucmerced.edu/team</loc>
-  </url>
-  <url>
-    <loc>http://vprs.ucmerced.edu/contact-us</loc>
   </url>
 </urlset>
