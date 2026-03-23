@@ -24,7 +24,7 @@ jobs:
           for site in public/sitemaps/*/; do
             name=$(basename "$site")
             echo "Creating connector for $name"
-            curl --fail --location '${{ secrets.ONYX_API_BASE_URL }}/api/manage/admin/connector-with-mock-credential' \
+            curl --location '${{ secrets.ONYX_API_BASE_URL }}/api/manage/admin/connector-with-mock-credential' \
               --header 'Content-Type: application/json' \
               --header 'Authorization: Bearer ${{ secrets.ONYX_API_TOKEN }}' \
               --data "{
