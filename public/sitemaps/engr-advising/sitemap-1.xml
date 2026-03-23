@@ -4,115 +4,19 @@
     <loc>https://engr-advising.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/about</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/student-orgs</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/eweek21</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/about/student-organizations-vanguard/engineers-week-2022</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/about/prospective-students</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/about/prospective-students/why-engineering-uc-merced</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/about/prospective-students/major-preparation</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/about/prospective-students/student-profiles</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/about/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/majors</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/majors/ge-req</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/majors/aerospace-engineering</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/majors/biochemical-and-biomolecular-engineering</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/bioe</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/majors/chemical-engineering</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/majors/ce</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/majors/cse</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/majors/data-science-and-analytics-ba</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/majors/electrical-engineering</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/enve</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/majors/management-innovation-sustainability-and-technology</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/mse</loc>
-  </url>
-  <url>
     <loc>https://engr-advising.ucmerced.edu/me</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/undeclared-engr</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/policies</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/policies/academic-policies</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/policies/soe-policies</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/policies/soe-policies/CSE-academic-honesty-policy</loc>
   </url>
   <url>
     <loc>https://engr-advising.ucmerced.edu/policies/reentry</loc>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/policies/graduation</loc>
+    <loc>https://engr-advising.ucmerced.edu/majors/data-science-and-analytics-ba</loc>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/policies/normal-progress</loc>
+    <loc>https://engr-advising.ucmerced.edu/forms/engineering-forms</loc>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/policies/declaration-major</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/policies/uc-letter-reciprocity</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/registration</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/2nd-year-events</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/2nd-year/welcome-open-house</loc>
+    <loc>https://engr-advising.ucmerced.edu/form/petition-program-variance</loc>
   </url>
   <url>
     <loc>https://engr-advising.ucmerced.edu/jumpstart3</loc>
@@ -121,96 +25,254 @@
     <loc>https://engr-advising.ucmerced.edu/registration/transfer-advising-requirement</loc>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/summer</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/forms</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/forms/engineering-forms</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/form/course-approval</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/form/excess-units</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/forms/engineering-forms/multiple-major-application</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/form/petition-program-variance</loc>
-  </url>
-  <url>
     <loc>https://engr-advising.ucmerced.edu/form/taking-classes-another-institution-limited</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/form/subsequent-repeat-petition</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/form/concerned-student-form</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/resources</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/resources/academic-resources</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/resources/transfer-student</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/node/47</loc>
   </url>
   <url>
     <loc>https://engr-advising.ucmerced.edu/resources/health-resources</loc>
   </url>
   <url>
+    <loc>https://engr-advising.ucmerced.edu/majors/aerospace-engineering</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/policies/normal-progress</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/policies/uc-letter-reciprocity</loc>
+  </url>
+  <url>
     <loc>https://engr-advising.ucmerced.edu/placement-exams</loc>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/newsletter</loc>
+    <loc>https://engr-advising.ucmerced.edu/resources/transfer-student</loc>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/see-my-advisor</loc>
+    <loc>https://engr-advising.ucmerced.edu/about</loc>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/see-my-advisor/appointment</loc>
+    <loc>https://engr-advising.ucmerced.edu/registration</loc>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/see-my-advisor/walk-ins</loc>
+    <loc>https://engr-advising.ucmerced.edu/policies/declaration-major</loc>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-23</lastmod>
+    <loc>https://engr-advising.ucmerced.edu/2nd-year/welcome-open-house</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/2nd-year-events</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/summer</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/forms/engineering-forms/multiple-major-application</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/form/course-approval</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/me_flow_20_21.pdf</loc>
+    <lastmod>2020-08-21</lastmod>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/me_flow_21_22.pdf</loc>
+    <lastmod>2021-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/me_flow_21_22_math_005.pdf</loc>
+    <lastmod>2021-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/grad_plan_fall_2025.docx</loc>
+    <lastmod>2025-09-23</lastmod>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/cee_js3_presentation_fa25.pdf</loc>
+    <lastmod>2025-10-09</lastmod>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/resources</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/me_flow_19_20.pdf</loc>
+    <lastmod>2019-10-16</lastmod>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/ee_js3_presentation_slides_fa25.pdf</loc>
+    <lastmod>2025-10-09</lastmod>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/forms</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/me_and_ae_presentation_slides_fa25.pdf</loc>
+    <lastmod>2025-10-09</lastmod>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/chee_and_mse_js3_presenation_slides_fa25.pdf</loc>
+    <lastmod>2025-10-09</lastmod>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/form/excess-units</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/form/concerned-student-form</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/step-by-step_1.pdf</loc>
+    <lastmod>2025-09-25</lastmod>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/form/subsequent-repeat-petition</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/cse_js3_presentation_slides.pdf</loc>
+    <lastmod>2025-10-09</lastmod>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/beng_js3_presentation_slides.pdf</loc>
+    <lastmod>2025-10-09</lastmod>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/dsa_and_mist_js3_presentation_slides.pdf</loc>
+    <lastmod>2025-10-09</lastmod>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/about/student-organizations-vanguard/engineers-week-2022</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/eweek21</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/about/prospective-students/major-preparation</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/student-orgs</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/about/prospective-students</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/about/prospective-students/student-profiles</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/about/prospective-students/why-engineering-uc-merced</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/about/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/bioe</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/majors/ge-req</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/majors/ce</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/majors/biochemical-and-biomolecular-engineering</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/majors</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/majors/chemical-engineering</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/majors/cse</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/enve</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/majors/electrical-engineering</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/mse</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/policies/academic-policies</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/majors/management-innovation-sustainability-and-technology</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/policies</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/policies/soe-policies/CSE-academic-honesty-policy</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/undeclared-engr</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/policies/soe-policies</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/policies/graduation</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/resources/academic-resources</loc>
   </url>
   <url>
     <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/aerospace_engineering_b.s._four-year_course_plan_-_2025-2026.pdf</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/biochemical_and_biomolecular_engineering_b.s._four-year_course_plan_-_2025-2026.pdf</loc>
-    <lastmod>2025-10-23</lastmod>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/orientation.hourly_planning_schedule.pdf</loc>
+    <lastmod>2015-05-08</lastmod>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/bioe_flow_21_22_bioinstrumentation_final.pdf</loc>
-    <lastmod>2021-09-16</lastmod>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/soe_-_transition_presentation_fa2022_1.pdf</loc>
+    <lastmod>2022-10-05</lastmod>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/bioe_flow_21_22_biotech_final.pdf</loc>
-    <lastmod>2021-09-16</lastmod>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/taking_summer_courses_0.pdf</loc>
+    <lastmod>2017-03-24</lastmod>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/newsletter</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/see-my-advisor/walk-ins</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/node/47</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/see-my-advisor</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/node/471</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/registration/2nd-year-events/welcome/2020</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/see-my-advisor/appointment</loc>
   </url>
   <url>
     <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/bioe_flow_20_21.pdf</loc>
     <lastmod>2020-08-21</lastmod>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/bioe_flow_19_20_1.pdf</loc>
-    <lastmod>2019-10-21</lastmod>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/bioe_flow_21_22_biotech_final.pdf</loc>
+    <lastmod>2021-09-16</lastmod>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/ce_flow_chart_final_0.pdf</loc>
-    <lastmod>2021-09-20</lastmod>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/bioe_flow_21_22_bioinstrumentation_final.pdf</loc>
+    <lastmod>2021-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/biochemical_and_biomolecular_engineering_b.s._four-year_course_plan_-_2025-2026.pdf</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/bioe_flow_19_20_1.pdf</loc>
+    <lastmod>2019-10-21</lastmod>
   </url>
   <url>
     <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/ce_flow_chart_math_005_final.pdf</loc>
@@ -221,27 +283,27 @@
     <lastmod>2021-09-15</lastmod>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/cse_flow_21_22_math_005_final_0.pdf</loc>
-    <lastmod>2021-09-15</lastmod>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/ce_flow_chart_final_0.pdf</loc>
+    <lastmod>2021-09-20</lastmod>
   </url>
   <url>
     <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/cse_flow_20_21.pdf</loc>
     <lastmod>2020-08-21</lastmod>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/documents/cse_flow_19_20.pdf</loc>
-    <lastmod>2019-08-19</lastmod>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/cse_flow_21_22_math_005_final_0.pdf</loc>
+    <lastmod>2021-09-15</lastmod>
   </url>
   <url>
     <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/documents/enve_emphasis_track.pdf</loc>
     <lastmod>2019-08-19</lastmod>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/enve_flow_21_22_final.pdf</loc>
-    <lastmod>2021-09-20</lastmod>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/documents/cse_flow_19_20.pdf</loc>
+    <lastmod>2019-08-19</lastmod>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/enve_flow_21_22_math_005_final.pdf</loc>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/enve_flow_21_22_final.pdf</loc>
     <lastmod>2021-09-20</lastmod>
   </url>
   <url>
@@ -253,8 +315,8 @@
     <lastmod>2019-08-19</lastmod>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/management_of_innovation_sustainability_and_technology-tech_emph_b.a._four-year_course_plan_-_2025-26.pdf</loc>
-    <lastmod>2025-10-23</lastmod>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/enve_flow_21_22_math_005_final.pdf</loc>
+    <lastmod>2021-09-20</lastmod>
   </url>
   <url>
     <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/mse_flow_21_22.pdf</loc>
@@ -277,6 +339,10 @@
     <lastmod>2020-08-21</lastmod>
   </url>
   <url>
+    <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/management_of_innovation_sustainability_and_technology-tech_emph_b.a._four-year_course_plan_-_2025-26.pdf</loc>
+    <lastmod>2025-10-23</lastmod>
+  </url>
+  <url>
     <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/mse_flow_20_21_nanotech.pdf</loc>
     <lastmod>2020-08-21</lastmod>
   </url>
@@ -289,85 +355,16 @@
     <lastmod>2019-08-19</lastmod>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/me_flow_21_22.pdf</loc>
-    <lastmod>2021-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/me_flow_21_22_math_005.pdf</loc>
-    <lastmod>2021-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/me_flow_20_21.pdf</loc>
-    <lastmod>2020-08-21</lastmod>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/me_flow_19_20.pdf</loc>
-    <lastmod>2019-10-16</lastmod>
-  </url>
-  <url>
     <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/2019policyonlaptopssoecomputer.pdf</loc>
     <lastmod>2019-09-16</lastmod>
   </url>
   <url>
+    <loc>https://engr-advising.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/grad_school_presentation.pdf</loc>
     <lastmod>2015-05-04</lastmod>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/orientation.hourly_planning_schedule.pdf</loc>
-    <lastmod>2015-05-08</lastmod>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/soe_-_transition_presentation_fa2022_1.pdf</loc>
-    <lastmod>2022-10-05</lastmod>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/node/471</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/registration/2nd-year-events/welcome/2020</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/grad_plan_fall_2025.docx</loc>
-    <lastmod>2025-09-23</lastmod>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/cee_js3_presentation_fa25.pdf</loc>
-    <lastmod>2025-10-09</lastmod>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/ee_js3_presentation_slides_fa25.pdf</loc>
-    <lastmod>2025-10-09</lastmod>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/me_and_ae_presentation_slides_fa25.pdf</loc>
-    <lastmod>2025-10-09</lastmod>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/chee_and_mse_js3_presenation_slides_fa25.pdf</loc>
-    <lastmod>2025-10-09</lastmod>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/cse_js3_presentation_slides.pdf</loc>
-    <lastmod>2025-10-09</lastmod>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/dsa_and_mist_js3_presentation_slides.pdf</loc>
-    <lastmod>2025-10-09</lastmod>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/beng_js3_presentation_slides.pdf</loc>
-    <lastmod>2025-10-09</lastmod>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/g/files/ufvvjh2091/f/page/documents/step-by-step_1.pdf</loc>
-    <lastmod>2025-09-25</lastmod>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/taking_summer_courses_0.pdf</loc>
-    <lastmod>2017-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/resources/career-resources/internships-research-opportunities</loc>
   </url>
   <url>
     <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/s23_january.pdf</loc>
@@ -382,12 +379,12 @@
     <lastmod>2023-04-19</lastmod>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/august_2022_newsletter.pdf</loc>
-    <lastmod>2022-09-23</lastmod>
-  </url>
-  <url>
     <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/september_2022_newsletter.pdf</loc>
     <lastmod>2022-10-21</lastmod>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/august_2022_newsletter.pdf</loc>
+    <lastmod>2022-09-23</lastmod>
   </url>
   <url>
     <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/october_2022_newsletter.pdf</loc>
@@ -406,20 +403,12 @@
     <lastmod>2022-04-22</lastmod>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/april_2022.pdf</loc>
-    <lastmod>2022-05-06</lastmod>
-  </url>
-  <url>
     <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/august_2021_pdf.pdf</loc>
     <lastmod>2021-09-17</lastmod>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/9-21_september_newsletter_0.pdf</loc>
-    <lastmod>2021-10-11</lastmod>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/october_newsletter_21.pdf</loc>
-    <lastmod>2021-11-12</lastmod>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/april_2022.pdf</loc>
+    <lastmod>2022-05-06</lastmod>
   </url>
   <url>
     <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/november_2021_newsletter.pdf</loc>
@@ -430,8 +419,31 @@
     <lastmod>2022-02-04</lastmod>
   </url>
   <url>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/october_newsletter_21.pdf</loc>
+    <lastmod>2021-11-12</lastmod>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/resources/career-resources/internships-research-opportunities</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/9-21_september_newsletter_0.pdf</loc>
+    <lastmod>2021-10-11</lastmod>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/2016_pfizer_business_technology_internship_job_description.pdf</loc>
+    <lastmod>2015-10-09</lastmod>
+  </url>
+  <url>
     <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/acec_sjvc_fall_2017_scholarship_application_package_002.pdf</loc>
     <lastmod>2017-09-25</lastmod>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/2016_pfizer_business_technology_rotational_associate_job_description.pdf</loc>
+    <lastmod>2015-10-09</lastmod>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/biosense_webster-rd_engineer_and_rd_intern_002.pdf</loc>
+    <lastmod>2016-01-21</lastmod>
   </url>
   <url>
     <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/nourish_technology_job_descriptions_ee_intern.pdf</loc>
@@ -442,23 +454,11 @@
     <lastmod>2016-05-06</lastmod>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/biosense_webster-rd_engineer_and_rd_intern_002.pdf</loc>
-    <lastmod>2016-01-21</lastmod>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/2016_pfizer_business_technology_internship_job_description.pdf</loc>
-    <lastmod>2015-10-09</lastmod>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/2016_pfizer_business_technology_rotational_associate_job_description.pdf</loc>
-    <lastmod>2015-10-09</lastmod>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/computer_science-paso.pdf</loc>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/computer_scientist_-_entry_level_paso.pdf</loc>
     <lastmod>2015-10-02</lastmod>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/computer_scientist_-_entry_level_paso.pdf</loc>
+    <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/computer_science-paso.pdf</loc>
     <lastmod>2015-10-02</lastmod>
   </url>
 </urlset>

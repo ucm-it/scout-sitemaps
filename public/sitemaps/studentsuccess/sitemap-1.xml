@@ -9,26 +9,22 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://studentsuccess.ucmerced.edu/student-success-definition</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>http://studentsuccess.ucmerced.edu</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://studentsuccess.ucmerced.edu/rss.xml</loc>
+    <loc>https://studentsuccess.ucmerced.edu/student-success-definition</loc>
     <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://studentsuccess.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://studentsuccess.ucmerced.edu/news</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://studentsuccess.ucmerced.edu/resources/readings</loc>
+    <loc>https://studentsuccess.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://studentsuccess.ucmerced.edu/resources/assessment</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -36,11 +32,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://studentsuccess.ucmerced.edu/resources/presentations</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://studentsuccess.ucmerced.edu/resources/assessment</loc>
+    <loc>https://studentsuccess.ucmerced.edu/rss.xml</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -48,15 +40,15 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://studentsuccess.ucmerced.edu/resources/readings</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://studentsuccess.ucmerced.edu/resources/presentations</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>http://studentsuccess.ucmerced.edu/student-success-definition</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://studentsuccess.ucmerced.edu/listserv</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://studentsuccess.ucmerced.edu/resources</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -64,11 +56,15 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>http://studentsuccess.ucmerced.edu/listserv</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>http://studentsuccess.ucmerced.edu/news</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://studentsuccess.ucmerced.edu/resources/assessment</loc>
+    <loc>http://studentsuccess.ucmerced.edu/resources</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -80,11 +76,42 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>http://studentsuccess.ucmerced.edu/resources/assessment</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>http://studentsuccess.ucmerced.edu/rss.xml</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://studentsuccess.ucmerced.edu/sites/studentsuccess.ucmerced.edu/files/page/documents/ucmstudentsuccessdefinition.pdf</loc>
+    <lastmod>2017-08-14</lastmod>
+  </url>
+  <url>
+    <loc>https://studentsuccess.ucmerced.edu/sites/studentsuccess.ucmerced.edu/files/documents/fyss_logic_model_slides_6.23.pdf</loc>
+    <lastmod>2016-11-03</lastmod>
+  </url>
+  <url>
+    <loc>https://studentsuccess.ucmerced.edu/news/2016/creating-campus-definition-student-success</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://studentsuccess.ucmerced.edu/news/2017/opportunities-discuss-student-success-definition</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>http://studentsuccess.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://studentsuccess.ucmerced.edu/news/2017/gathering-feedback-student-success-definition</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>http://studentsuccess.ucmerced.edu/news/2017/opportunities-discuss-student-success-definition</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>http://studentsuccess.ucmerced.edu/news/2016/creating-campus-definition-student-success</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
 </urlset>

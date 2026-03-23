@@ -13,10 +13,6 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/publications</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://robotics.ucmerced.edu/members</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
@@ -29,15 +25,19 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>https://robotics.ucmerced.edu/publications</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>http://robotics.ucmerced.edu/publications</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/activities</loc>
+    <loc>https://robotics.ucmerced.edu/media-and-software</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/movies-and-pics/wifi-movies</loc>
+    <loc>https://robotics.ucmerced.edu/robocup</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -49,11 +49,15 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/robocup</loc>
+    <loc>https://robotics.ucmerced.edu/activities</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/media-and-software</loc>
+    <loc>https://robotics.ucmerced.edu/news</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://robotics.ucmerced.edu/movies-and-pics/wifi-movies</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -65,63 +69,43 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/movies-and-pics/usarsim-movies</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://robotics.ucmerced.edu/mobile-robotics-textbook</loc>
     <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/traro2005.pdf</loc>
-    <lastmod>2013-09-26</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/ras2002.pdf</loc>
-    <lastmod>2013-09-26</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/ras2005.pdf</loc>
-    <lastmod>2013-09-26</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/ijra2006.pdf</loc>
-    <lastmod>2013-09-26</lastmod>
   </url>
   <url>
     <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/ar2006.pdf</loc>
     <lastmod>2013-09-26</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/traro2007.pdf</loc>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/traro2010.pdf</loc>
     <lastmod>2013-09-26</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/pro2006.pdf</loc>
-    <lastmod>2013-09-26</lastmod>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/ram2015.pdf</loc>
+    <lastmod>2015-12-09</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/jfr2007.pdf</loc>
-    <lastmod>2013-09-26</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/hcmdp_paper.pdf</loc>
-    <lastmod>2017-04-01</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/permis2006a.pdf</loc>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/hfes2005.pdf</loc>
     <lastmod>2013-09-28</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/permis2006b.pdf</loc>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/romoco2007.pdf</loc>
+    <lastmod>2013-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/icra2007a.pdf</loc>
+    <lastmod>2013-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/icra2007b.pdf</loc>
+    <lastmod>2013-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/robocup2005.pdf</loc>
+    <lastmod>2013-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/iros2007a.pdf</loc>
     <lastmod>2013-09-28</lastmod>
   </url>
   <url>
@@ -129,95 +113,27 @@
     <lastmod>2013-09-28</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/permis2010.pdf</loc>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/icra2007c.pdf</loc>
     <lastmod>2013-09-28</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/icra2012a.pdf</loc>
-    <lastmod>2013-09-28</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/iros2010b.pdf</loc>
-    <lastmod>2013-09-28</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/iros2011b.pdf</loc>
-    <lastmod>2013-09-28</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/icra2011.pdf</loc>
-    <lastmod>2013-09-28</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/icra2012b.pdf</loc>
-    <lastmod>2013-09-28</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/humanoids2010.pdf</loc>
-    <lastmod>2013-09-28</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/iros2012a.pdf</loc>
-    <lastmod>2013-09-28</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/iros2011a.pdf</loc>
-    <lastmod>2013-09-28</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/icra2012c.pdf</loc>
-    <lastmod>2013-09-28</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/iros2012b.pdf</loc>
-    <lastmod>2013-09-28</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/sensys_sensorfly_2015_v8.pdf</loc>
-    <lastmod>2015-09-08</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/darsfinalversion.pdf</loc>
-    <lastmod>2014-10-10</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/icra2016a.pdf</loc>
-    <lastmod>2016-02-15</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/mainversion2.pdf</loc>
-    <lastmod>2016-03-08</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/case2016_grasping.pdf</loc>
-    <lastmod>2016-09-09</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/rapid-routing-final.pdf</loc>
-    <lastmod>2018-02-21</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/icra2018grasping.pdf</loc>
-    <lastmod>2018-02-22</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/bayesian-multiscale-search</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/fast-deployment</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/cooperative-grasping-software</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/g/files/ufvvjh1576/f/page/documents/case2025c.pdf</loc>
-    <lastmod>2025-08-22</lastmod>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/icra24_c.pdf</loc>
+    <lastmod>2024-03-19</lastmod>
   </url>
   <url>
     <loc>https://robotics.ucmerced.edu/sites/g/files/ufvvjh1576/f/page/documents/case2025a.pdf</loc>
+    <lastmod>2025-08-22</lastmod>
+  </url>
+  <url>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/simulation_chapter_v2.pdf</loc>
+    <lastmod>2013-09-26</lastmod>
+  </url>
+  <url>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/iros2007workshop.pdf</loc>
+    <lastmod>2013-09-27</lastmod>
+  </url>
+  <url>
+    <loc>https://robotics.ucmerced.edu/sites/g/files/ufvvjh1576/f/page/documents/case2025b.pdf</loc>
     <lastmod>2025-08-22</lastmod>
   </url>
   <url>
@@ -225,12 +141,28 @@
     <lastmod>2025-03-27</lastmod>
   </url>
   <url>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/chapter_book_revised.pdf</loc>
+    <lastmod>2022-09-04</lastmod>
+  </url>
+  <url>
     <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/ucmercedtdp2009.pdf</loc>
     <lastmod>2013-09-27</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/2009-001.pdf</loc>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/icra2011workshop.pdf</loc>
     <lastmod>2013-09-27</lastmod>
+  </url>
+  <url>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/icra2010workshop.pdf</loc>
+    <lastmod>2013-09-27</lastmod>
+  </url>
+  <url>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/ijcai-wk-09.pdf</loc>
+    <lastmod>2013-09-27</lastmod>
+  </url>
+  <url>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/derekburchmsthesisdecember2012.pdf</loc>
+    <lastmod>2013-09-26</lastmod>
   </url>
   <url>
     <loc>http://robotics.ucmerced.edu/</loc>
@@ -241,43 +173,23 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/dissertation_shuo.pdf</loc>
-    <lastmod>2017-10-31</lastmod>
-  </url>
-  <url>
     <loc>http://robotics.ucmerced.edu/prospective-students</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/dissertation_thomas_thayer.pdf</loc>
-    <lastmod>2021-07-21</lastmod>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/balaguer_dissertation.pdf</loc>
+    <lastmod>2013-09-26</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/carlosdiazalvarengaphdthesis2024.pdf</loc>
-    <lastmod>2024-07-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/gorkemerincphdthesis.pdf</loc>
-    <lastmod>2015-01-31</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/booth_dissertation_last.pdf</loc>
-    <lastmod>2024-12-06</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/dissertationjlsfinal.pdf</loc>
-    <lastmod>2020-05-27</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/shamshirgaran_dissertation.pdf</loc>
-    <lastmod>2024-12-02</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/prospective-postdocs</loc>
-    <lastmod>2026-03-23</lastmod>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/dissertation_shuo.pdf</loc>
+    <lastmod>2017-10-31</lastmod>
   </url>
   <url>
     <loc>http://robotics.ucmerced.edu/node/38</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>http://robotics.ucmerced.edu/prospective-postdocs</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -285,11 +197,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://robotics.ucmerced.edu/activities</loc>
+    <loc>http://robotics.ucmerced.edu/news</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://robotics.ucmerced.edu/news</loc>
+    <loc>http://robotics.ucmerced.edu/activities</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -297,7 +209,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://robotics.ucmerced.edu/movies-and-pics/usarsim-movies</loc>
+    <loc>http://robotics.ucmerced.edu/media-and-software</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -305,15 +217,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://robotics.ucmerced.edu/media-and-software</loc>
+    <loc>http://robotics.ucmerced.edu/movies-and-pics/wifi-movies</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>http://robotics.ucmerced.edu/robocup-movies</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/movies-and-pics/wifi-movies</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -325,75 +233,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://robotics.ucmerced.edu/grasp-planning-software</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/news/documents/auro_cfp_-_constrained_decision-making.pdf</loc>
-    <lastmod>2014-04-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2024/four-papers-accepted-icra-2024</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2025/case-papers</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2025/three-papers-accepted-icra-2025</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2024/lorenzo-booth-defends-his-phd-thesis</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2024/azin-shamshirgaran-defends-her-phd-thesis</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/SEED2015</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2024/carlos-diaz-alvarenga-defends-his-phd-thesis</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/RSS2014Workshop</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://robotics.ucmerced.edu/news/2023/new-uc-grant</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2023/new-ram-article</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/g/files/ufvvjh1576/f/page/documents/mrtp_0.pdf</loc>
-    <lastmod>2026-01-02</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news?page=4</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news?page=1</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news?page=3</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news?page=2</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news?page=7</loc>
+    <loc>https://robotics.ucmerced.edu/news/2023/welcome-marcos-zuzuarregui</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -401,47 +245,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/deploymentcmdp.zip</loc>
-    <lastmod>2013-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/type1pq.zip</loc>
-    <lastmod>2013-09-26</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/fastexploration.zip</loc>
-    <lastmod>2013-09-26</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/iro2011code.zip</loc>
-    <lastmod>2013-09-26</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2025/case-papers</loc>
+    <loc>http://robotics.ucmerced.edu/movies-and-pics/usarsim-movies</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://robotics.ucmerced.edu/news/2025/three-papers-accepted-icra-2025</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2024/azin-shamshirgaran-defends-her-phd-thesis</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2024/lorenzo-booth-defends-his-phd-thesis</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2024/carlos-diaz-alvarenga-defends-his-phd-thesis</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2023/new-ram-article</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2024/four-papers-accepted-icra-2024</loc>
+    <loc>https://robotics.ucmerced.edu/SEED2015</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -449,19 +257,55 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://robotics.ucmerced.edu/news?page=3</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>http://robotics.ucmerced.edu/news/2023/new-nsf-grant</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://robotics.ucmerced.edu/news?page=6</loc>
+    <loc>http://robotics.ucmerced.edu/news/2023/welcome-marcos-zuzuarregui</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://robotics.ucmerced.edu/news/2023/welcome-marcos-zuzuarregui</loc>
+    <loc>http://robotics.ucmerced.edu/news/2024/azin-shamshirgaran-defends-her-phd-thesis</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>http://robotics.ucmerced.edu/news/2025/three-papers-accepted-icra-2025</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>http://robotics.ucmerced.edu/news?page=5</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/news/documents/auro_cfp_-_constrained_decision-making.pdf</loc>
+    <lastmod>2014-04-23</lastmod>
+  </url>
+  <url>
+    <loc>http://robotics.ucmerced.edu/news/2023/new-ram-article</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>http://robotics.ucmerced.edu/news/2024/carlos-diaz-alvarenga-defends-his-phd-thesis</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>http://robotics.ucmerced.edu/news?page=2</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>http://robotics.ucmerced.edu/news/2024/four-papers-accepted-icra-2024</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>http://robotics.ucmerced.edu/news?page=1</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>http://robotics.ucmerced.edu/news?page=3</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>http://robotics.ucmerced.edu/news?page=6</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -473,175 +317,147 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://robotics.ucmerced.edu/news?page=2</loc>
+    <loc>https://robotics.ucmerced.edu/RSS2014Workshop</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://robotics.ucmerced.edu/news?page=5</loc>
+    <loc>https://robotics.ucmerced.edu/movies-and-pics/usarsim-movies</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://robotics.ucmerced.edu/news?page=1</loc>
-    <lastmod>2026-03-23</lastmod>
+    <loc>https://robotics.ucmerced.edu/sites/g/files/ufvvjh1576/f/page/documents/mrtp_0.pdf</loc>
+    <lastmod>2026-01-02</lastmod>
   </url>
   <url>
     <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/ram2019.pdf</loc>
     <lastmod>2020-03-04</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2016/uc-merced-participates-nasa-competition</loc>
+    <loc>https://robotics.ucmerced.edu/cooperative-grasping-software</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2016/new-nri-project</loc>
+    <loc>http://robotics.ucmerced.edu/grasp-planning-software</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2017/new-paper-accepted-autonomous-robots</loc>
+    <loc>http://robotics.ucmerced.edu/news/2015/paper-appears-ram-magazine</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news?page=5</loc>
+    <loc>http://robotics.ucmerced.edu/news/2015/new-phd-student-joins-robotics-uc-merced</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news?page=6</loc>
+    <loc>http://robotics.ucmerced.edu/news/2015/special-issue-published</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2016/new-nsf-nrt-dese-grant</loc>
+    <loc>http://robotics.ucmerced.edu/news/2015/ra-l-editorial-membership</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2016/new-nsf-mri-grant</loc>
+    <loc>http://robotics.ucmerced.edu/news/2015/t-ase-editorial-board-membership</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2016/uc-merced-robotics-grows</loc>
+    <loc>http://robotics.ucmerced.edu/news/2015/new-robot-joins-roboticsuc-merced</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2016/two-papers-accepted-icra-2016</loc>
+    <loc>http://robotics.ucmerced.edu/news/2015/people-and-robots</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2017/swarmathon-team-ready-compete</loc>
+    <loc>http://robotics.ucmerced.edu/news/2015/new-citris-project</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2016/two-papers-accepted-case-2016</loc>
+    <loc>http://robotics.ucmerced.edu/news/2015/three-papers-accepted-icra-2015</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2016/promotion-full-professor</loc>
+    <loc>http://robotics.ucmerced.edu/news/2021/uc-merced-robotics-welcomes-new-member</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2023/workshop-iros-2023</loc>
+    <loc>http://robotics.ucmerced.edu/news/2015/paper-wifi-localization-accepted</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2022/paper-appear-dars-2022-conference</loc>
+    <loc>http://robotics.ucmerced.edu/news/2020/new-nri-grant</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2022/new-article-appearing-robotics-and-autonomous-systems</loc>
+    <loc>http://robotics.ucmerced.edu/news/2021/new-mrpi-grant</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2022/new-paper-appearing-ieee-tase</loc>
+    <loc>http://robotics.ucmerced.edu/news/2020/new-cs4all-grant</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2021/welcome-matthew-morozov</loc>
+    <loc>http://robotics.ucmerced.edu/news/2019/r-article-accepted</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2021/congratulations-thomas-thayer</loc>
+    <loc>http://robotics.ucmerced.edu/news/2020/two-papers-appear-icra2020</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2021/two-articles-appear-iros-2021</loc>
+    <loc>http://robotics.ucmerced.edu/news/2019/rapid-featured-science-friday</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2021/new-paper-appearing-ieee-transactions-robotics</loc>
+    <loc>http://robotics.ucmerced.edu/news/2020/uc-merced-robotics-joins-new-nsf-erc-center-iot4ag</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2022/postdoctoral-opening</loc>
+    <loc>http://robotics.ucmerced.edu/news/2020/jose-luis-susa-rincon-defends-his-phd-dissertation</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2021/ral-papers</loc>
+    <loc>http://robotics.ucmerced.edu/news/2019/future-machines</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2018/best-conference-paper-award-case-2018</loc>
+    <loc>http://robotics.ucmerced.edu/news/2022/new-article-appearing-robotics-and-autonomous-systems</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2018/best-paper-award-nomination</loc>
+    <loc>http://robotics.ucmerced.edu/news/2021/ral-papers</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2018/two-papers-appearing-case-2018</loc>
+    <loc>http://robotics.ucmerced.edu/news/2021/new-paper-appearing-ieee-transactions-robotics</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2018/welcome-lorenzo-and-carlos</loc>
+    <loc>http://robotics.ucmerced.edu/news/2021/two-articles-appear-iros-2021</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2018/four-papers-be-presented-icra-2018</loc>
+    <loc>http://robotics.ucmerced.edu/news/2021/welcome-matthew-morozov</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2018/article-ieee-institute</loc>
+    <loc>http://robotics.ucmerced.edu/news/2023/workshop-iros-2023</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2018/keynote-talk-sustech-2018</loc>
+    <loc>http://robotics.ucmerced.edu/news/2021/congratulations-thomas-thayer</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2020/uc-merced-robotics-joins-new-nsf-erc-center-iot4ag</loc>
+    <loc>http://robotics.ucmerced.edu/news/2022/postdoctoral-opening</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2017/phd-awarded-0</loc>
+    <loc>http://robotics.ucmerced.edu/news/2022/new-paper-appearing-ieee-tase</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2020/new-cs4all-grant</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2017/new-paper-accepted-ieee-transactions-robotics</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2021/new-mrpi-grant</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2020/two-papers-appear-icra2020</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2021/uc-merced-robotics-welcomes-new-member</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2017/phd-awarded</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2020/jose-luis-susa-rincon-defends-his-phd-dissertation</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2020/new-nri-grant</loc>
+    <loc>http://robotics.ucmerced.edu/news/2022/paper-appear-dars-2022-conference</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -661,15 +477,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://robotics.ucmerced.edu/news/2018/two-papers-appearing-case-2018</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>http://robotics.ucmerced.edu/news/2018/article-ieee-institute</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2018/four-papers-be-presented-icra-2018</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -677,7 +485,23 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>http://robotics.ucmerced.edu/news/2014/new-grant-arl</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>http://robotics.ucmerced.edu/news/2018/two-papers-appearing-case-2018</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>http://robotics.ucmerced.edu/news/2017/phd-awarded-0</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>http://robotics.ucmerced.edu/news/2013/new-robotics-website-goes-live</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>http://robotics.ucmerced.edu/news/2018/four-papers-be-presented-icra-2018</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -685,31 +509,7 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/news/2019/rapid-featured-science-friday</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2013/ieee</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2019/r-article-accepted</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2019/future-machines</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2013/continued-support-nist</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2013/new-contract-arl</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2014/new-grant-arl</loc>
+    <loc>http://robotics.ucmerced.edu/news/2013/new-contract-arl</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -717,27 +517,15 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://robotics.ucmerced.edu/news/2014/continued-support-nist</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>http://robotics.ucmerced.edu/news/2014/new-phd-student-joins-lab</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>http://robotics.ucmerced.edu/news/2014/continued-support-nist</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>http://robotics.ucmerced.edu/news/2014/autonomous-robots-special-issue</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2014/rss-workshop</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2014/ucm-robotics-alumnus-gets-faculty-position</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2013/new-robotics-website-goes-live</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -749,23 +537,19 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://robotics.ucmerced.edu/news/2016/new-nri-project</loc>
+    <loc>http://robotics.ucmerced.edu/news/2014/rss-workshop</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://robotics.ucmerced.edu/news/2017/new-paper-accepted-autonomous-robots</loc>
+    <loc>http://robotics.ucmerced.edu/news/2013/former-ucm-robotics-student-gets-faculty-position</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://robotics.ucmerced.edu/news/2016/uc-merced-robotics-grows</loc>
+    <loc>http://robotics.ucmerced.edu/news/2014/ucm-robotics-alumnus-gets-faculty-position</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://robotics.ucmerced.edu/news/2013/new-contract-arl</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2016/new-nsf-mri-grant</loc>
+    <loc>http://robotics.ucmerced.edu/news/2016/new-nsf-nrt-dese-grant</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -777,11 +561,15 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
+    <loc>http://robotics.ucmerced.edu/news/2017/new-paper-accepted-autonomous-robots</loc>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
     <loc>http://robotics.ucmerced.edu/news/2013/continued-support-nist</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://robotics.ucmerced.edu/news/2016/new-nsf-nrt-dese-grant</loc>
+    <loc>http://robotics.ucmerced.edu/news/2016/new-nri-project</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -789,19 +577,11 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://robotics.ucmerced.edu/news/2016/two-papers-accepted-case-2016</loc>
+    <loc>http://robotics.ucmerced.edu/news/2016/uc-merced-robotics-grows</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://robotics.ucmerced.edu/news/2021/uc-merced-robotics-welcomes-new-member</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2020/new-nri-grant</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2021/new-mrpi-grant</loc>
+    <loc>http://robotics.ucmerced.edu/news/2016/new-nsf-mri-grant</loc>
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
@@ -809,215 +589,39 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>http://robotics.ucmerced.edu/news/2020/new-cs4all-grant</loc>
+    <loc>http://robotics.ucmerced.edu/news/2016/two-papers-accepted-case-2016</loc>
     <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2020/jose-luis-susa-rincon-defends-his-phd-dissertation</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2020/two-papers-appear-icra2020</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2020/uc-merced-robotics-joins-new-nsf-erc-center-iot4ag</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2019/rapid-featured-science-friday</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2019/r-article-accepted</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2019/future-machines</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2015/paper-wifi-localization-accepted</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2015/new-citris-project</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2023/workshop-iros-2023</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2022/paper-appear-dars-2022-conference</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2022/postdoctoral-opening</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2022/new-article-appearing-robotics-and-autonomous-systems</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2022/new-paper-appearing-ieee-tase</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2021/welcome-matthew-morozov</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2021/congratulations-thomas-thayer</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2021/two-articles-appear-iros-2021</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2021/new-paper-appearing-ieee-transactions-robotics</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2015/people-and-robots</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2015/special-issue-published</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2021/ral-papers</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2015/paper-appears-ram-magazine</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2015/new-phd-student-joins-robotics-uc-merced</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2015/new-robot-joins-roboticsuc-merced</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2015/t-ase-editorial-board-membership</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2015/three-papers-accepted-icra-2015</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://robotics.ucmerced.edu/news/2015/ra-l-editorial-membership</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2015/ra-l-editorial-membership</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2015/people-and-robots</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2015/special-issue-published</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2015/new-phd-student-joins-robotics-uc-merced</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2015/paper-appears-ram-magazine</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2015/new-robot-joins-roboticsuc-merced</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2015/t-ase-editorial-board-membership</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2015/paper-wifi-localization-accepted</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2014/best-paper-award-nomination</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2014/continued-support-nist</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2014/new-grant-arl</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2015/new-citris-project</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2014/new-phd-student-joins-lab</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2015/three-papers-accepted-icra-2015</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2014/autonomous-robots-special-issue</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2014/rss-workshop</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2014/new-article-autonomous-robots</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2014/ucm-robotics-alumnus-gets-faculty-position</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news/2013/new-robotics-website-goes-live</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/tro2021routing.pdf</loc>
-    <lastmod>2021-05-27</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/dars2022.pdf</loc>
-    <lastmod>2022-09-30</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/case18_0406_fi.pdf</loc>
-    <lastmod>2018-07-31</lastmod>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/tro2017.pdf</loc>
-    <lastmod>2017-11-07</lastmod>
   </url>
   <url>
     <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/wifijournal_revised_0.pdf</loc>
     <lastmod>2015-01-02</lastmod>
   </url>
   <url>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/dars2022.pdf</loc>
+    <lastmod>2022-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/tro2021routing.pdf</loc>
+    <lastmod>2021-05-27</lastmod>
+  </url>
+  <url>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/hcmdp_paper.pdf</loc>
+    <lastmod>2017-04-01</lastmod>
+  </url>
+  <url>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/dissertation_thomas_thayer.pdf</loc>
+    <lastmod>2021-07-21</lastmod>
+  </url>
+  <url>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/case18_0406_fi.pdf</loc>
+    <lastmod>2018-07-31</lastmod>
+  </url>
+  <url>
     <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/phthesisfeyzabadi.pdf</loc>
     <lastmod>2017-08-15</lastmod>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/ram2015.pdf</loc>
-    <lastmod>2015-12-09</lastmod>
+    <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/tro2017.pdf</loc>
+    <lastmod>2017-11-07</lastmod>
   </url>
 </urlset>
