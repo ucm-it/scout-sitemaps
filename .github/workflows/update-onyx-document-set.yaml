@@ -28,13 +28,15 @@ jobs:
             done | jq -R . | jq -s .
           )
 
-          # Fetch all connectors and filter by site name, collecting their IDs
+          # Fetch all connector indexing statuses to get cc_pair_id + name
           CC_PAIR_IDS=$(
-            curl --fail --location \
-              '${{ secrets.ONYX_API_BASE_URL }}/api/manage/connector' \
+            curl --fail --location --request POST \
+              '${{ secrets.ONYX_API_BASE_URL }}/api/manage/admin/connector/indexing-status' \
+              --header 'Content-Type: application/json' \
               --header 'Authorization: Bearer ${{ secrets.ONYX_API_TOKEN }}' \
+              --data '{"get_all_connectors": true}' \
             | jq --argjson names "$SITE_NAMES_JSON" \
-              '[.[] | select(.name as $n | ($names | index($n)) != null) | .id]'
+              '[.[].indexing_statuses[] | select(.name as $n | ($names | index($n)) != null) | .cc_pair_id]'
           )
 
           echo "Connector IDs to include: $CC_PAIR_IDS"
