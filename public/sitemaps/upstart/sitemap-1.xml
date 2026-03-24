@@ -4,20 +4,20 @@
     <loc>https://upstart.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://upstart.ucmerced.edu/events-archive</loc>
+    <loc>https://upstart.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://upstart.ucmerced.edu/</loc>
+    <loc>https://upstart.ucmerced.edu/events-archive</loc>
   </url>
   <url>
     <loc>https://upstart.ucmerced.edu/events</loc>
   </url>
   <url>
-    <loc>https://upstart.ucmerced.edu/view-concerts</loc>
+    <loc>https://upstart.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
-    <loc>https://upstart.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-23</lastmod>
+    <loc>https://upstart.ucmerced.edu/view-concerts</loc>
   </url>
   <url>
     <loc>https://upstart.ucmerced.edu/people</loc>
@@ -50,19 +50,19 @@
     <loc>https://upstart.ucmerced.edu/events/ladama-concert</loc>
   </url>
   <url>
-    <loc>https://upstart.ucmerced.edu/events/mariachi-arcoiris-de-los-angeles-concert</loc>
-  </url>
-  <url>
     <loc>https://upstart.ucmerced.edu/upcoming-events/sierra-leones-refugee-all-stars-concert</loc>
   </url>
   <url>
     <loc>https://upstart.ucmerced.edu/events/la-santa-cecilia-concert</loc>
   </url>
   <url>
-    <loc>https://upstart.ucmerced.edu/events/sallyswag-concert</loc>
+    <loc>https://upstart.ucmerced.edu/events/mariachi-arcoiris-de-los-angeles-concert</loc>
   </url>
   <url>
     <loc>https://upstart.ucmerced.edu/events/suddenrush-concert</loc>
+  </url>
+  <url>
+    <loc>https://upstart.ucmerced.edu/events/sallyswag-concert</loc>
   </url>
   <url>
     <loc>https://upstart.ucmerced.edu/events/ellas-concert</loc>
@@ -71,10 +71,10 @@
     <loc>https://upstart.ucmerced.edu/events/qadim-concert</loc>
   </url>
   <url>
-    <loc>https://upstart.ucmerced.edu/content/jayson-beaster-jones</loc>
+    <loc>https://upstart.ucmerced.edu/events-archive?page=1</loc>
   </url>
   <url>
-    <loc>https://upstart.ucmerced.edu/events-archive?page=1</loc>
+    <loc>https://upstart.ucmerced.edu/content/jayson-beaster-jones</loc>
   </url>
   <url>
     <loc>https://upstart.ucmerced.edu/content/collin-lewis</loc>
@@ -88,10 +88,10 @@
     <lastmod>2024-10-11</lastmod>
   </url>
   <url>
-    <loc>https://upstart.ucmerced.edu/events/antonio-sanchez-migration-concert</loc>
+    <loc>http://upstart.ucmerced.edu/bobby-mcferrin</loc>
   </url>
   <url>
-    <loc>http://upstart.ucmerced.edu/bobby-mcferrin</loc>
+    <loc>https://upstart.ucmerced.edu/events/antonio-sanchez-migration-concert</loc>
   </url>
   <url>
     <loc>http://upstart.ucmerced.edu/quinteto-latino</loc>
@@ -100,16 +100,13 @@
     <loc>https://upstart.ucmerced.edu/events/eliane-elias-trio-concert</loc>
   </url>
   <url>
-    <loc>https://upstart.ucmerced.edu/events/los-cenzontles-concert</loc>
-  </url>
-  <url>
     <loc>https://upstart.ucmerced.edu/events/vijay-iyer-sextet-concert</loc>
   </url>
   <url>
-    <loc>https://upstart.ucmerced.edu/events/kaumakaiwa-kanakaole-concert</loc>
+    <loc>https://upstart.ucmerced.edu/events/los-cenzontles-concert</loc>
   </url>
   <url>
-    <loc>https://upstart.ucmerced.edu/events/big-bad-voodoo-daddy-concert</loc>
+    <loc>https://upstart.ucmerced.edu/events/kaumakaiwa-kanakaole-concert</loc>
   </url>
   <url>
     <loc>https://upstart.ucmerced.edu/events/alice-bag-concert</loc>
@@ -121,10 +118,13 @@
     <loc>https://upstart.ucmerced.edu/events/black-n-blue-boys-broken-men</loc>
   </url>
   <url>
-    <loc>https://upstart.ucmerced.edu/events/whiffenpoofs-yale-university-concert</loc>
+    <loc>https://upstart.ucmerced.edu/events/big-bad-voodoo-daddy-concert</loc>
   </url>
   <url>
     <loc>https://upstart.ucmerced.edu/events/lula-washington-dance-theatre</loc>
+  </url>
+  <url>
+    <loc>https://upstart.ucmerced.edu/events/whiffenpoofs-yale-university-concert</loc>
   </url>
   <url>
     <loc>https://upstart.ucmerced.edu/events/love-letters</loc>
@@ -133,28 +133,26 @@
     <loc>https://upstart.ucmerced.edu/events/othershore-new-york-contemporary-dance-company</loc>
   </url>
   <url>
-    <loc>http://upstart.ucmerced.edu/events</loc>
+    <loc>http://upstart.ucmerced.edu/</loc>
   </url>
   <url>
     <loc>http://upstart.ucmerced.edu/events-archive</loc>
   </url>
   <url>
+    <loc>http://upstart.ucmerced.edu/events</loc>
+  </url>
+  <url>
     <loc>http://upstart.ucmerced.edu/people</loc>
-  </url>
-  <url>
-    <loc>http://upstart.ucmerced.edu/</loc>
-  </url>
-  <url>
-    <loc>http://upstart.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>http://upstart.ucmerced.edu/view-concerts</loc>
   </url>
   <url>
-    <loc>http://upstart.ucmerced.edu/events/okcello</loc>
+    <loc>http://upstart.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>http://upstart.ucmerced.edu/events/mariachi-arcoiris-de-los-angeles</loc>
+    <loc>http://upstart.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>http://upstart.ucmerced.edu/events/las-cafeteras</loc>
@@ -163,19 +161,25 @@
     <loc>http://upstart.ucmerced.edu/events/danay-su%C3%A1rez</loc>
   </url>
   <url>
-    <loc>http://upstart.ucmerced.edu/events/los-lobos-concert-hosted-uc-merced-upstart</loc>
+    <loc>http://upstart.ucmerced.edu/events/okcello</loc>
   </url>
   <url>
-    <loc>http://upstart.ucmerced.edu/events/bobby-mcferrin-0</loc>
+    <loc>http://upstart.ucmerced.edu/events/mariachi-arcoiris-de-los-angeles</loc>
   </url>
   <url>
     <loc>http://upstart.ucmerced.edu/events/quinteto-latino</loc>
   </url>
   <url>
+    <loc>http://upstart.ucmerced.edu/events/bobby-mcferrin-0</loc>
+  </url>
+  <url>
+    <loc>http://upstart.ucmerced.edu/events/los-lobos-concert-hosted-uc-merced-upstart</loc>
+  </url>
+  <url>
     <loc>http://upstart.ucmerced.edu/events/ladama-concert</loc>
   </url>
   <url>
-    <loc>http://upstart.ucmerced.edu/events/mariachi-arcoiris-de-los-angeles-concert</loc>
+    <loc>http://upstart.ucmerced.edu/upcoming-events/sierra-leones-refugee-all-stars-concert</loc>
   </url>
   <url>
     <loc>http://upstart.ucmerced.edu/events/la-santa-cecilia-concert</loc>
@@ -184,10 +188,16 @@
     <loc>http://upstart.ucmerced.edu/events/suddenrush-concert</loc>
   </url>
   <url>
-    <loc>http://upstart.ucmerced.edu/upcoming-events/sierra-leones-refugee-all-stars-concert</loc>
+    <loc>http://upstart.ucmerced.edu/events/mariachi-arcoiris-de-los-angeles-concert</loc>
+  </url>
+  <url>
+    <loc>http://upstart.ucmerced.edu/events/ellas-concert</loc>
   </url>
   <url>
     <loc>http://upstart.ucmerced.edu/events/sallyswag-concert</loc>
+  </url>
+  <url>
+    <loc>http://upstart.ucmerced.edu/events/qadim-concert</loc>
   </url>
   <url>
     <loc>http://upstart.ucmerced.edu/events-archive?page=1</loc>
@@ -196,55 +206,45 @@
     <loc>http://upstart.ucmerced.edu/content/jayson-beaster-jones</loc>
   </url>
   <url>
-    <loc>http://upstart.ucmerced.edu/events/ellas-concert</loc>
-  </url>
-  <url>
-    <loc>http://upstart.ucmerced.edu/events/qadim-concert</loc>
-  </url>
-  <url>
-    <loc>http://upstart.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>http://upstart.ucmerced.edu/content/collin-lewis</loc>
   </url>
   <url>
     <loc>http://upstart.ucmerced.edu/events/eliane-elias-trio-concert</loc>
   </url>
   <url>
-    <loc>http://upstart.ucmerced.edu/events/antonio-sanchez-migration-concert</loc>
-  </url>
-  <url>
-    <loc>http://upstart.ucmerced.edu/events/los-cenzontles-concert</loc>
+    <loc>http://upstart.ucmerced.edu/events/vijay-iyer-sextet-concert</loc>
   </url>
   <url>
     <loc>http://upstart.ucmerced.edu/events/kaumakaiwa-kanakaole-concert</loc>
   </url>
   <url>
-    <loc>http://upstart.ucmerced.edu/events/vijay-iyer-sextet-concert</loc>
+    <loc>http://upstart.ucmerced.edu/events/los-cenzontles-concert</loc>
   </url>
   <url>
-    <loc>http://upstart.ucmerced.edu/events/ladysmith-black-mambazo-concert</loc>
+    <loc>http://upstart.ucmerced.edu/events/antonio-sanchez-migration-concert</loc>
   </url>
   <url>
     <loc>http://upstart.ucmerced.edu/events/alice-bag-concert</loc>
   </url>
   <url>
-    <loc>http://upstart.ucmerced.edu/events/black-n-blue-boys-broken-men</loc>
+    <loc>http://upstart.ucmerced.edu/events/ladysmith-black-mambazo-concert</loc>
   </url>
   <url>
     <loc>http://upstart.ucmerced.edu/events/big-bad-voodoo-daddy-concert</loc>
   </url>
   <url>
-    <loc>http://upstart.ucmerced.edu/events/whiffenpoofs-yale-university-concert</loc>
+    <loc>http://upstart.ucmerced.edu/events/black-n-blue-boys-broken-men</loc>
   </url>
   <url>
-    <loc>http://upstart.ucmerced.edu/events/othershore-new-york-contemporary-dance-company</loc>
+    <loc>http://upstart.ucmerced.edu/events/whiffenpoofs-yale-university-concert</loc>
   </url>
   <url>
     <loc>http://upstart.ucmerced.edu/events/lula-washington-dance-theatre</loc>
   </url>
   <url>
     <loc>http://upstart.ucmerced.edu/events/love-letters</loc>
+  </url>
+  <url>
+    <loc>http://upstart.ucmerced.edu/events/othershore-new-york-contemporary-dance-company</loc>
   </url>
 </urlset>

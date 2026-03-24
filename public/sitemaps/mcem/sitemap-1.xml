@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://mcem.ucmerced.edu</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>https://mcem.ucmerced.edu/</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://mcem.ucmerced.edu/media-cats-work</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://mcem.ucmerced.edu/mediacats-team</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>http://mcem.ucmerced.edu/media-cats-work</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>https://mcem.ucmerced.edu/project-requests</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
-    <loc>https://mcem.ucmerced.edu/contact-us</loc>
+    <loc>https://mcem.ucmerced.edu/media-cats-work</loc>
+    <lastmod>2026-03-24</lastmod>
+  </url>
+  <url>
+    <loc>https://mcem.ucmerced.edu/mediacats-team</loc>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>https://mcem.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
+  </url>
+  <url>
+    <loc>http://mcem.ucmerced.edu/media-cats-work</loc>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>http://mcem.ucmerced.edu/</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>http://mcem.ucmerced.edu/project-requests</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>http://mcem.ucmerced.edu/mediacats-team</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
+  </url>
+  <url>
+    <loc>https://mcem.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>http://mcem.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>http://mcem.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
   </url>
 </urlset>

@@ -4,10 +4,10 @@
     <loc>https://moves.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://moves.ucmerced.edu/</loc>
+    <loc>https://moves.ucmerced.edu/home</loc>
   </url>
   <url>
-    <loc>https://moves.ucmerced.edu/home</loc>
+    <loc>https://moves.ucmerced.edu/</loc>
   </url>
   <url>
     <loc>https://moves.ucmerced.edu/medical-education-building-meb/medical-education-building-meb-move-planning-faq</loc>
@@ -16,11 +16,14 @@
     <loc>https://moves.ucmerced.edu/medical-education-building-meb/renderings</loc>
   </url>
   <url>
-    <loc>https://moves.ucmerced.edu/medical-education-building-meb/resources</loc>
+    <loc>https://moves.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
-    <loc>https://moves.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-23</lastmod>
+    <loc>https://moves.ucmerced.edu/contact-us-0</loc>
+  </url>
+  <url>
+    <loc>https://moves.ucmerced.edu/medical-education-building-meb/resources</loc>
   </url>
   <url>
     <loc>https://moves.ucmerced.edu/contact-us</loc>
@@ -32,8 +35,5 @@
   <url>
     <loc>https://moves.ucmerced.edu/sites/g/files/ufvvjh1266/f/page/documents/meb_moves_process_milestones_reb.pdf</loc>
     <lastmod>2026-03-12</lastmod>
-  </url>
-  <url>
-    <loc>https://moves.ucmerced.edu/contact-us-0</loc>
   </url>
 </urlset>

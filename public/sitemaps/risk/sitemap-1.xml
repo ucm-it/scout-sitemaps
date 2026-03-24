@@ -4,13 +4,13 @@
     <loc>https://risk.ucmerced.edu</loc>
   </url>
   <url>
+    <loc>https://risk.ucmerced.edu/home/be-smart-about-safety</loc>
+  </url>
+  <url>
     <loc>https://risk.ucmerced.edu/</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/erm</loc>
-  </url>
-  <url>
-    <loc>https://risk.ucmerced.edu/home/be-smart-about-safety</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/BIT</loc>
@@ -22,10 +22,10 @@
     <loc>https://risk.ucmerced.edu/report-claim/report-incident</loc>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/report-claim/reporting-vehicle-accidents-or-loss</loc>
+    <loc>https://risk.ucmerced.edu/report-claim/reporting-property-damage-or-loss</loc>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/report-claim/reporting-property-damage-or-loss</loc>
+    <loc>https://risk.ucmerced.edu/report-claim/reporting-vehicle-accidents-or-loss</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/node/54</loc>
@@ -40,10 +40,10 @@
     <loc>https://risk.ucmerced.edu/insurance-programs</loc>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/insurance-programs/artwork-and-exhibits</loc>
+    <loc>https://risk.ucmerced.edu/node/11</loc>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/node/11</loc>
+    <loc>https://risk.ucmerced.edu/insurance-programs/artwork-and-exhibits</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/node/12</loc>
@@ -76,10 +76,10 @@
     <loc>https://risk.ucmerced.edu/insurance-programs/vendor-insurance-requirements</loc>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/events-activities</loc>
+    <loc>https://risk.ucmerced.edu/node/66</loc>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/node/66</loc>
+    <loc>https://risk.ucmerced.edu/events-activities</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/alcohol_permit_form.pdf</loc>
@@ -90,10 +90,10 @@
     <lastmod>2025-08-18</lastmod>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/faq/alcohol-on-campus</loc>
+    <loc>https://risk.ucmerced.edu/events-activities/alcohol-sales-and-service</loc>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/events-activities/alcohol-sales-and-service</loc>
+    <loc>https://risk.ucmerced.edu/faq/alcohol-on-campus</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/events-activities/department-campus-events</loc>
@@ -105,10 +105,10 @@
     <loc>https://risk.ucmerced.edu/events-activities/department-campus-events-0</loc>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/events-activities/student-event-insurance</loc>
+    <loc>https://risk.ucmerced.edu/events-activities/outside-groups-event-insurance</loc>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/events-activities/outside-groups-event-insurance</loc>
+    <loc>https://risk.ucmerced.edu/events-activities/student-event-insurance</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/travel-risk-and-insurance</loc>
@@ -120,10 +120,10 @@
     <loc>https://risk.ucmerced.edu/travel-safety/employee-business-travel-insurance</loc>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/travel-safety/foreign-travel-risk-assessment-guidelines</loc>
+    <loc>https://risk.ucmerced.edu/travel-risk-and-insurance/travel-insurance</loc>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/travel-risk-and-insurance/travel-insurance</loc>
+    <loc>https://risk.ucmerced.edu/travel-safety/foreign-travel-risk-assessment-guidelines</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/travel-risk-and-insurance/travel-safety-resources</loc>
@@ -135,13 +135,10 @@
     <loc>https://risk.ucmerced.edu/travel-risk-and-insurance/uc-student-campus-travel</loc>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/risk-resources/electronic-discovery-and-litigation-holds</loc>
-  </url>
-  <url>
     <loc>https://risk.ucmerced.edu/node/22</loc>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/node/70</loc>
+    <loc>https://risk.ucmerced.edu/risk-resources/electronic-discovery-and-litigation-holds</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/risk-resources/field-operational-planner</loc>
@@ -153,22 +150,25 @@
     <loc>https://risk.ucmerced.edu/node/71</loc>
   </url>
   <url>
+    <loc>https://risk.ucmerced.edu/node/70</loc>
+  </url>
+  <url>
     <loc>https://risk.ucmerced.edu/node/72</loc>
-  </url>
-  <url>
-    <loc>https://risk.ucmerced.edu/node/74</loc>
-  </url>
-  <url>
-    <loc>https://risk.ucmerced.edu/node/76</loc>
-  </url>
-  <url>
-    <loc>https://risk.ucmerced.edu/node/73</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/node/75</loc>
   </url>
   <url>
+    <loc>https://risk.ucmerced.edu/node/74</loc>
+  </url>
+  <url>
+    <loc>https://risk.ucmerced.edu/node/73</loc>
+  </url>
+  <url>
     <loc>https://risk.ucmerced.edu/node/77</loc>
+  </url>
+  <url>
+    <loc>https://risk.ucmerced.edu/node/76</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/node/78</loc>
@@ -177,53 +177,49 @@
     <loc>https://risk.ucmerced.edu/node/79</loc>
   </url>
   <url>
+    <loc>https://risk.ucmerced.edu/node/80</loc>
+  </url>
+  <url>
     <loc>https://risk.ucmerced.edu/dmv-epn</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/risk-resources/helpful-links</loc>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/risk-resources/research-operating-abroad</loc>
-  </url>
-  <url>
-    <loc>https://risk.ucmerced.edu/node/80</loc>
-  </url>
-  <url>
-    <loc>https://risk.ucmerced.edu/risk-procedures</loc>
-  </url>
-  <url>
     <loc>https://risk.ucmerced.edu/risk-resources/related-uc-business-and-finance-bulletins</loc>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/business-continuity</loc>
+    <loc>https://risk.ucmerced.edu/risk-resources/research-operating-abroad</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/risk-resources/training-resources</loc>
   </url>
   <url>
+    <loc>https://risk.ucmerced.edu/risk-procedures</loc>
+  </url>
+  <url>
     <loc>https://risk.ucmerced.edu/risk-resources/waivers-and-release</loc>
   </url>
   <url>
+    <loc>https://risk.ucmerced.edu/business-continuity</loc>
+  </url>
+  <url>
     <loc>https://risk.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/images/erm_policy_04.17.14.pdf</loc>
-    <lastmod>2015-11-25</lastmod>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/bsas_proposal_form.pdf</loc>
     <lastmod>2019-08-09</lastmod>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/bsas_flow_process_.pdf</loc>
+    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/bsas_proposal_form_example.pdf</loc>
     <lastmod>2019-08-09</lastmod>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/bsas_proposal_form_example.pdf</loc>
+    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/bsas_flow_process_.pdf</loc>
     <lastmod>2019-08-09</lastmod>
   </url>
   <url>
@@ -233,6 +229,10 @@
   <url>
     <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/bsas_faq.pdf</loc>
     <lastmod>2019-08-09</lastmod>
+  </url>
+  <url>
+    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/images/erm_policy_04.17.14.pdf</loc>
+    <lastmod>2015-11-25</lastmod>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/sites/oc3.ucmerced.edu/files/documents/responding_to_employees_in_distress.pdf</loc>
@@ -247,18 +247,18 @@
     <lastmod>2025-06-27</lastmod>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/images/bus81.pdf</loc>
-    <lastmod>2015-11-25</lastmod>
+    <loc>https://risk.ucmerced.edu/node/50</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/images/eimr_form.doc</loc>
     <lastmod>2015-11-25</lastmod>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/erm/forc</loc>
+    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/images/bus81.pdf</loc>
+    <lastmod>2015-11-25</lastmod>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/node/50</loc>
+    <loc>https://risk.ucmerced.edu/erm/forc</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/images/eimr_form-1.doc</loc>
@@ -281,11 +281,10 @@
     <lastmod>2015-12-02</lastmod>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/constructionlimits.pdf</loc>
-    <lastmod>2015-12-02</lastmod>
+    <loc>https://risk.ucmerced.edu/node/64</loc>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/transportationlimits.pdf</loc>
+    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/constructionlimits.pdf</loc>
     <lastmod>2015-12-02</lastmod>
   </url>
   <url>
@@ -297,15 +296,16 @@
     <lastmod>2015-12-02</lastmod>
   </url>
   <url>
+    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/transportationlimits.pdf</loc>
+    <lastmod>2015-12-02</lastmod>
+  </url>
+  <url>
     <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/checklist.pdf</loc>
     <lastmod>2015-12-03</lastmod>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/page/final_-_alcohol_sales_and_service_with_permit_4.22.14.pdf</loc>
     <lastmod>2016-01-11</lastmod>
-  </url>
-  <url>
-    <loc>https://risk.ucmerced.edu/node/65</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/caterer_list_rev_11-13-15.pdf</loc>
@@ -316,27 +316,23 @@
     <lastmod>2024-07-24</lastmod>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/trip_safety_plan.pdf</loc>
-    <lastmod>2015-12-03</lastmod>
+    <loc>https://risk.ucmerced.edu/node/65</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/waiver-voluntary.pdf</loc>
     <lastmod>2015-11-18</lastmod>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/node/64</loc>
-  </url>
-  <url>
-    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/mena-travel-advisory-faq2_1.pdf</loc>
-    <lastmod>2026-03-10</lastmod>
-  </url>
-  <url>
-    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/final_esi_preservation_04.22.14.pdf</loc>
+    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/trip_safety_plan.pdf</loc>
     <lastmod>2015-12-03</lastmod>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/bsas_flow_chart.jpg</loc>
     <lastmod>2015-12-03</lastmod>
+  </url>
+  <url>
+    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/mena-travel-advisory-faq2_1.pdf</loc>
+    <lastmod>2026-03-10</lastmod>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/bsas_process_time_table.xls</loc>
@@ -359,7 +355,7 @@
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/home/enterprise-risk-management</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/node/68</loc>
@@ -374,12 +370,16 @@
     <loc>https://risk.ucmerced.edu/risk-resources/frequently-asked-questions</loc>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/ucm_field_safety_planner.pdf</loc>
-    <lastmod>2015-11-18</lastmod>
+    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/final_esi_preservation_04.22.14.pdf</loc>
+    <lastmod>2015-12-03</lastmod>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/ucm_covid19_field_protocol.pdf</loc>
     <lastmod>2020-09-22</lastmod>
+  </url>
+  <url>
+    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/ucm_field_safety_planner.pdf</loc>
+    <lastmod>2015-11-18</lastmod>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/risk-resources/uc-merced-volunteers-procedure</loc>
@@ -387,14 +387,6 @@
   <url>
     <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/dmv_pull_notice_request.pdf</loc>
     <lastmod>2023-04-04</lastmod>
-  </url>
-  <url>
-    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/ucvolunteerinfoformfinal.pdf</loc>
-    <lastmod>2016-01-14</lastmod>
-  </url>
-  <url>
-    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/ucm_waiver_of_liability.docx</loc>
-    <lastmod>2016-06-18</lastmod>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/bus81.pdf</loc>
@@ -405,20 +397,28 @@
     <lastmod>2015-11-18</lastmod>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/waiver-group.pdf</loc>
-    <lastmod>2015-11-18</lastmod>
+    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/ucvolunteerinfoformfinal.pdf</loc>
+    <lastmod>2016-01-14</lastmod>
+  </url>
+  <url>
+    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/ucm_waiver_of_liability.docx</loc>
+    <lastmod>2016-06-18</lastmod>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/sites/risk.ucmerced.edu/files/documents/final_ucm_volunteer_procedure_10.07.14.pdf</loc>
     <lastmod>2015-12-11</lastmod>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/exhibitor_waiver_fillable.pdf</loc>
-    <lastmod>2016-06-18</lastmod>
+    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/waiver-group.pdf</loc>
+    <lastmod>2015-11-18</lastmod>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/uc_merced_photo_video_recording_release_final.pdf</loc>
     <lastmod>2015-11-18</lastmod>
+  </url>
+  <url>
+    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/exhibitor_waiver_fillable.pdf</loc>
+    <lastmod>2016-06-18</lastmod>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/virtual_program_waiver_04_01_21_english.pdf</loc>

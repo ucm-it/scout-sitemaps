@@ -25,14 +25,14 @@
     <loc>https://compasshealth.ucmerced.edu/donations</loc>
   </url>
   <url>
+    <loc>https://compasshealth.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-24</lastmod>
+  </url>
+  <url>
     <loc>https://compasshealth.ucmerced.edu/faq</loc>
   </url>
   <url>
     <loc>https://compasshealth.ucmerced.edu/leadership</loc>
-  </url>
-  <url>
-    <loc>https://compasshealth.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://compasshealth.ucmerced.edu/contact-us</loc>
@@ -41,25 +41,22 @@
     <loc>https://compasshealth.ucmerced.edu/content/phoebe-pittman</loc>
   </url>
   <url>
-    <loc>https://compasshealth.ucmerced.edu/content/alexandra-guerrero</loc>
+    <loc>https://compasshealth.ucmerced.edu/content/kevin-padilla</loc>
   </url>
   <url>
-    <loc>https://compasshealth.ucmerced.edu/content/kevin-padilla</loc>
+    <loc>https://compasshealth.ucmerced.edu/content/alexandra-guerrero</loc>
   </url>
   <url>
     <loc>https://compasshealth.ucmerced.edu/content/gino-acevedo</loc>
   </url>
   <url>
-    <loc>https://compasshealth.ucmerced.edu/content/marily-barron</loc>
-  </url>
-  <url>
     <loc>https://compasshealth.ucmerced.edu/content/nicole-quiroz-lumbe</loc>
   </url>
   <url>
-    <loc>https://compasshealth.ucmerced.edu/content/alana-dillard</loc>
+    <loc>https://compasshealth.ucmerced.edu/content/marily-barron</loc>
   </url>
   <url>
-    <loc>https://compasshealth.ucmerced.edu/content/kirsten-mengell</loc>
+    <loc>https://compasshealth.ucmerced.edu/content/alana-dillard</loc>
   </url>
   <url>
     <loc>https://compasshealth.ucmerced.edu/content/charles-udeze</loc>
@@ -68,19 +65,22 @@
     <loc>https://compasshealth.ucmerced.edu/content/stergios-steve-roussos-phd-mph</loc>
   </url>
   <url>
-    <loc>https://compasshealth.ucmerced.edu/content/rocio-medrano-calderon</loc>
+    <loc>https://compasshealth.ucmerced.edu/content/kirsten-mengell</loc>
   </url>
   <url>
     <loc>https://compasshealth.ucmerced.edu/content/naly-thao</loc>
   </url>
   <url>
-    <loc>https://compasshealth.ucmerced.edu/year/freshman</loc>
+    <loc>https://compasshealth.ucmerced.edu/content/rocio-medrano-calderon</loc>
   </url>
   <url>
     <loc>https://compasshealth.ucmerced.edu/users/jandrade5</loc>
   </url>
   <url>
     <loc>https://compasshealth.ucmerced.edu/year/sophomore</loc>
+  </url>
+  <url>
+    <loc>https://compasshealth.ucmerced.edu/year/freshman</loc>
   </url>
   <url>
     <loc>https://compasshealth.ucmerced.edu/year/senior</loc>
@@ -93,22 +93,22 @@
   </url>
   <url>
     <loc>https://compasshealth.ucmerced.edu/taxonomy/term/2/feed</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>https://compasshealth.ucmerced.edu/taxonomy/term/1/feed</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>https://compasshealth.ucmerced.edu/taxonomy/term/4/feed</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>https://compasshealth.ucmerced.edu/taxonomy/term/6/feed</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>https://compasshealth.ucmerced.edu/taxonomy/term/5/feed</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
   </url>
 </urlset>

@@ -13,22 +13,25 @@
     <loc>https://health.ucmerced.edu/about/hours-operation</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/staff</loc>
+    <loc>https://health.ucmerced.edu/about/appointment-information</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/about/appointment-information</loc>
+    <loc>https://health.ucmerced.edu/staff</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/about/patient-rights-responsibilities</loc>
   </url>
   <url>
+    <loc>https://health.ucmerced.edu/about/confidentiality</loc>
+  </url>
+  <url>
     <loc>https://health.ucmerced.edu/services</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/services/appointments/booking-non-emergency-medical-appointment</loc>
+    <loc>https://health.ucmerced.edu/services/sexual-health</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/services/sexual-health</loc>
+    <loc>https://health.ucmerced.edu/services/appointments/booking-non-emergency-medical-appointment</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/services/nurses-clinic</loc>
@@ -46,16 +49,16 @@
     <loc>https://health.ucmerced.edu/services/sensitive-exams/notice-chaperone-policy</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/services/over-counter-products</loc>
-  </url>
-  <url>
     <loc>https://health.ucmerced.edu/services/sensitive-examschaperone-policy/sensitive-exams-brochure</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/kioskproducts%26pricing</loc>
+    <loc>https://health.ucmerced.edu/services/over-counter-products</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/services/dispensary-medications</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/kioskproducts%26pricing</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/services/fees-common-services</loc>
@@ -82,10 +85,10 @@
     <loc>https://health.ucmerced.edu/immunizations</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/flu-vaccination-information</loc>
+    <loc>https://health.ucmerced.edu/immunizations/immunizationrequirements</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/immunizations/immunizationrequirements</loc>
+    <loc>https://health.ucmerced.edu/flu-vaccination-information</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/immunizations/immunization-plan-and-policy</loc>
@@ -94,49 +97,49 @@
     <loc>https://health.ucmerced.edu/immunizations/immunization-faqs</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/immunizations/tb-risk-screening-requirements</loc>
-  </url>
-  <url>
     <loc>https://health.ucmerced.edu/immunizations/immunization-medical-exemptions</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/immunizationlocations</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/insurance/how-waive</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/insurance/insurance-contact</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/waiver</loc>
+    <loc>https://health.ucmerced.edu/immunizationlocations</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/immunizations/tb-risk-screening-requirements</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/insurance/how-waive</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/insurance/referral-requirement</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/springwaiver</loc>
+    <loc>https://health.ucmerced.edu/waiver</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/insurance/uc-ship-mobile-apps-and-insurance-card</loc>
+    <loc>https://health.ucmerced.edu/springwaiver</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/insurance/faqs</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/advisorycommittee</loc>
-  </url>
-  <url>
     <loc>https://health.ucmerced.edu/insurance/insurance-rates-and-dates</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/insurance/uc-ship-and-aca</loc>
+    <loc>https://health.ucmerced.edu/insurance/uc-ship-mobile-apps-and-insurance-card</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/insurance/uc-ship-benefit-plan</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/insurance/uc-ship-fraud-information</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/advisorycommittee</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/insurance/uc-ship-and-aca</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/insurance/insurance-confidentiality</loc>
@@ -148,33 +151,38 @@
     <loc>https://health.ucmerced.edu/insurance/campus-medical-care-assistance-fund-program</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/How-to-Make-a-Report-of-Sexual-Harassment-and-Notice-of-Nondiscrimination</loc>
-  </url>
-  <url>
     <loc>https://health.ucmerced.edu/news/2025/ucship-waiver-deadline-july-28th</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/news/2024/attention-ship-students</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/resources/new-students</loc>
   </url>
   <url>
+    <loc>https://health.ucmerced.edu/How-to-Make-a-Report-of-Sexual-Harassment-and-Notice-of-Nondiscrimination</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/news/2024/attention-ship-students</loc>
+  </url>
+  <url>
     <loc>https://health.ucmerced.edu/news/2024/lyrauc-ship</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/about/confidentiality</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/healthbrochure.pdf</loc>
-    <lastmod>2017-04-26</lastmod>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/minorconsent.pdf</loc>
     <lastmod>2017-04-26</lastmod>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/birth-control</loc>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/documents/confidential-communications-request.pdf</loc>
+    <lastmod>2024-09-09</lastmod>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/privacynotice.pdf</loc>
+    <lastmod>2017-04-25</lastmod>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/healthbrochure.pdf</loc>
+    <lastmod>2017-04-26</lastmod>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sexually-transmitted-infections</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/routine-screening-exams</loc>
@@ -192,14 +200,11 @@
     <lastmod>2024-07-19</lastmod>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/pregnancy-services</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/minor.pdf</loc>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/privacynotice_0.pdf</loc>
     <lastmod>2017-04-27</lastmod>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/privacynotice_0.pdf</loc>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/minor.pdf</loc>
     <lastmod>2017-04-27</lastmod>
   </url>
   <url>
@@ -209,6 +214,9 @@
   <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/how_to_submit_your_tb_clearance_ucm_fall2017-revised_8.17.pdf</loc>
     <lastmod>2018-04-10</lastmod>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/birth-control</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/immunizationexemptionpolicy_0.pdf</loc>
@@ -223,16 +231,16 @@
     <lastmod>2021-08-19</lastmod>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/medical_records_release.pdf</loc>
-    <lastmod>2024-06-03</lastmod>
-  </url>
-  <url>
     <loc>https://health.ucmerced.edu/sites/g/files/ufvvjh1001/f/documents/flu_consent_2025.2026.pdf</loc>
     <lastmod>2025-09-05</lastmod>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/documents/confidential-communications-request.pdf</loc>
-    <lastmod>2024-09-09</lastmod>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/medical_records_release.pdf</loc>
+    <lastmod>2024-06-03</lastmod>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/revocationauthorizationfinancial.pdf</loc>
+    <lastmod>2017-04-27</lastmod>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/authorizationfinancial.pdf</loc>
@@ -243,7 +251,11 @@
     <lastmod>2025-08-27</lastmod>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/revocationauthorizationfinancial.pdf</loc>
+    <loc>https://health.ucmerced.edu/sites/g/files/ufvvjh1001/f/documents/ucship_administrative_referral_form_pdf.pdf</loc>
+    <lastmod>2026-01-20</lastmod>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/glossary_of_medical_insurance_terminology.pdf</loc>
     <lastmod>2017-04-27</lastmod>
   </url>
   <url>
@@ -251,35 +263,23 @@
     <lastmod>2017-04-28</lastmod>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/glossary_of_medical_insurance_terminology.pdf</loc>
-    <lastmod>2017-04-27</lastmod>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/fact_sheet_-_uc_ship_premium_increase_final_4-5-24_ee_fix.pdf</loc>
+    <lastmod>2024-04-25</lastmod>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/medil15-32_-_medi-cal_college_students.pdf</loc>
     <lastmod>2017-04-27</lastmod>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/sites/g/files/ufvvjh1001/f/documents/ucship_administrative_referral_form_pdf.pdf</loc>
-    <lastmod>2026-01-20</lastmod>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/fact_sheet_-_uc_ship_premium_increase_final_4-5-24_ee_fix.pdf</loc>
-    <lastmod>2024-04-25</lastmod>
+    <loc>https://health.ucmerced.edu/pregnancy-services</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/waiver_cancellation_form_25-26.pdf</loc>
     <lastmod>2025-05-01</lastmod>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/sexually-transmitted-infections</loc>
-  </url>
-  <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/medi-cal_insurance_cards_for_merced_county.pdf</loc>
     <lastmod>2017-05-10</lastmod>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucship_eap_mandate.pdf</loc>
-    <lastmod>2017-04-29</lastmod>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/sites/g/files/ufvvjh1001/f/documents/25-26_ucmerced_undergrad_vol_pc.pdf</loc>
@@ -290,11 +290,23 @@
     <lastmod>2025-08-27</lastmod>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshipacatips.pdf</loc>
-    <lastmod>2017-04-25</lastmod>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshipidentityprotection.pdf</loc>
+    <lastmod>2017-04-28</lastmod>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshipregulatorycompliance.pdf</loc>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshipfraudletter.pdf</loc>
+    <lastmod>2017-04-28</lastmod>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/suspiciousactivityfaqs.pdf</loc>
+    <lastmod>2017-04-28</lastmod>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucship_eap_mandate.pdf</loc>
+    <lastmod>2017-04-29</lastmod>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshipacatips.pdf</loc>
     <lastmod>2017-04-25</lastmod>
   </url>
   <url>
@@ -314,39 +326,19 @@
     <lastmod>2017-04-25</lastmod>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshiptipsheet.pdf</loc>
-    <lastmod>2017-04-25</lastmod>
-  </url>
-  <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshipstudentprofiles.pdf</loc>
     <lastmod>2017-04-25</lastmod>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshipfraudletter.pdf</loc>
-    <lastmod>2017-04-28</lastmod>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshipregulatorycompliance.pdf</loc>
+    <lastmod>2017-04-25</lastmod>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshipidentityprotection.pdf</loc>
-    <lastmod>2017-04-28</lastmod>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/suspiciousactivityfaqs.pdf</loc>
-    <lastmod>2017-04-28</lastmod>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/pacaos_0.pdf</loc>
-    <lastmod>2018-02-28</lastmod>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshiptipsheet.pdf</loc>
+    <lastmod>2017-04-25</lastmod>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/confidential_communications_request.pdf</loc>
-    <lastmod>2018-02-28</lastmod>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/cmcaf_application_2024-25.pdf</loc>
-    <lastmod>2024-11-19</lastmod>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/privacynotice_1.pdf</loc>
     <lastmod>2018-02-28</lastmod>
   </url>
   <url>
@@ -354,7 +346,15 @@
     <lastmod>2024-11-19</lastmod>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/privacynotice.pdf</loc>
-    <lastmod>2017-04-25</lastmod>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/privacynotice_1.pdf</loc>
+    <lastmod>2018-02-28</lastmod>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/cmcaf_application_2024-25.pdf</loc>
+    <lastmod>2024-11-19</lastmod>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/pacaos_0.pdf</loc>
+    <lastmod>2018-02-28</lastmod>
   </url>
 </urlset>

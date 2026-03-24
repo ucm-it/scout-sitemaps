@@ -4,16 +4,16 @@
     <loc>https://friendscircle.ucmerced.edu/node/1</loc>
   </url>
   <url>
-    <loc>https://friendscircle.ucmerced.edu/about</loc>
-  </url>
-  <url>
     <loc>https://friendscircle.ucmerced.edu/about/board-of-directors</loc>
   </url>
   <url>
-    <loc>https://friendscircle.ucmerced.edu/about/history</loc>
+    <loc>https://friendscircle.ucmerced.edu/about</loc>
   </url>
   <url>
     <loc>https://friendscircle.ucmerced.edu/about/bylaws</loc>
+  </url>
+  <url>
+    <loc>https://friendscircle.ucmerced.edu/about/history</loc>
   </url>
   <url>
     <loc>https://friendscircle.ucmerced.edu/join</loc>
@@ -22,19 +22,19 @@
     <loc>https://friendscircle.ucmerced.edu/form/get-involved</loc>
   </url>
   <url>
-    <loc>https://friendscircle.ucmerced.edu/lunch-program-events/book-club</loc>
+    <loc>https://friendscircle.ucmerced.edu/lunch-program-events</loc>
   </url>
   <url>
-    <loc>https://friendscircle.ucmerced.edu/lunch-program-events</loc>
+    <loc>https://friendscircle.ucmerced.edu/lunch-program-events/book-club</loc>
   </url>
   <url>
     <loc>https://friendscircle.ucmerced.edu/snacks-for-scholars</loc>
   </url>
   <url>
-    <loc>https://friendscircle.ucmerced.edu/Guardian-Scholars</loc>
+    <loc>https://friendscircle.ucmerced.edu/intercampus</loc>
   </url>
   <url>
-    <loc>https://friendscircle.ucmerced.edu/intercampus</loc>
+    <loc>https://friendscircle.ucmerced.edu/Guardian-Scholars</loc>
   </url>
   <url>
     <loc>https://friendscircle.ucmerced.edu/scholarships-awards</loc>
@@ -49,10 +49,10 @@
     <loc>https://friendscircle.ucmerced.edu/newsletters</loc>
   </url>
   <url>
-    <loc>https://friendscircle.ucmerced.edu/news/2026/calteach-and-local-schools-team-energize-learning-across-merced-county</loc>
+    <loc>https://friendscircle.ucmerced.edu/support</loc>
   </url>
   <url>
-    <loc>https://friendscircle.ucmerced.edu/support</loc>
+    <loc>https://friendscircle.ucmerced.edu/news/2026/calteach-and-local-schools-team-energize-learning-across-merced-county</loc>
   </url>
   <url>
     <loc>https://friendscircle.ucmerced.edu/news/2026/uc-merced-receives-1-million-award-support-postdoctoral-fellows</loc>
@@ -72,10 +72,10 @@
     <lastmod>2018-09-04</lastmod>
   </url>
   <url>
-    <loc>https://friendscircle.ucmerced.edu/winners</loc>
+    <loc>https://friendscircle.ucmerced.edu/media-contact/lorena-anderson</loc>
   </url>
   <url>
-    <loc>https://friendscircle.ucmerced.edu/media-contact/lorena-anderson</loc>
+    <loc>https://friendscircle.ucmerced.edu/winners</loc>
   </url>
   <url>
     <loc>https://friendscircle.ucmerced.edu/media-contact/brenda-ortiz</loc>
@@ -84,16 +84,16 @@
     <loc>https://friendscircle.ucmerced.edu/news/2025/research-hidden-chemistry-shaping-future-air-quality-earns-zhang-nsf-award</loc>
   </url>
   <url>
-    <loc>https://friendscircle.ucmerced.edu/news/2025/amemiya-awarded-research-teaching-outreach-and-service</loc>
-  </url>
-  <url>
     <loc>https://friendscircle.ucmerced.edu/news/2025/hellman-fellowships-welcome-three-new-members-uc-merced</loc>
   </url>
   <url>
-    <loc>https://friendscircle.ucmerced.edu/news/2025/liwang%E2%80%99s-research-biological-clocks-earns-protein-society-honors</loc>
+    <loc>https://friendscircle.ucmerced.edu/news/2025/uc-merced%E2%80%99s-berhe-joins-scientists-warning-global-land-mine-crisis</loc>
   </url>
   <url>
-    <loc>https://friendscircle.ucmerced.edu/news/2025/uc-merced%E2%80%99s-berhe-joins-scientists-warning-global-land-mine-crisis</loc>
+    <loc>https://friendscircle.ucmerced.edu/news/2025/amemiya-awarded-research-teaching-outreach-and-service</loc>
+  </url>
+  <url>
+    <loc>https://friendscircle.ucmerced.edu/news/2025/liwang%E2%80%99s-research-biological-clocks-earns-protein-society-honors</loc>
   </url>
   <url>
     <loc>https://friendscircle.ucmerced.edu/news/2025/professor-dives-crocs-displays-megalodon-expertise-during-shark-week</loc>
@@ -102,29 +102,32 @@
     <loc>https://friendscircle.ucmerced.edu/news/2025/nih-grant-enables-outstanding-investigator-advance-knowledge-microbial-infections</loc>
   </url>
   <url>
-    <loc>https://friendscircle.ucmerced.edu/news/2025/hurricanes-create-powerful-changes-deep-ocean-study-reveals</loc>
-  </url>
-  <url>
     <loc>https://friendscircle.ucmerced.edu/news/2025/study-indicates-human-caused-dust-events-are-linked-fallow-farmland</loc>
   </url>
   <url>
-    <loc>https://friendscircle.ucmerced.edu/news/2026/innovative-research-secures-coveted-fellowships-phd-students</loc>
-  </url>
-  <url>
-    <loc>https://friendscircle.ucmerced.edu/news/2025/phd-student-awarded-fellowship-advance-environmental-health-and-harmful-algal-bloom</loc>
-  </url>
-  <url>
-    <loc>https://friendscircle.ucmerced.edu/taxonomy/term/26/feed</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://friendscircle.ucmerced.edu/news/2025/abigail-gyamfi-honored-excellence-mentorship-and-community-impact</loc>
+    <loc>https://friendscircle.ucmerced.edu/news/2025/hurricanes-create-powerful-changes-deep-ocean-study-reveals</loc>
   </url>
   <url>
     <loc>https://friendscircle.ucmerced.edu/news/2026/leadership-stem-abigail-gyamfi-honored-2025-acs-leader-scholars-award</loc>
   </url>
   <url>
+    <loc>https://friendscircle.ucmerced.edu/news/2026/innovative-research-secures-coveted-fellowships-phd-students</loc>
+  </url>
+  <url>
+    <loc>https://friendscircle.ucmerced.edu/taxonomy/term/26/feed</loc>
+    <lastmod>2026-03-24</lastmod>
+  </url>
+  <url>
     <loc>https://friendscircle.ucmerced.edu/news/2025/doctoral-student-secures-new-fellowships-support-computational-modeling-research</loc>
+  </url>
+  <url>
+    <loc>https://friendscircle.ucmerced.edu/news/2025/phd-student-awarded-fellowship-advance-environmental-health-and-harmful-algal-bloom</loc>
+  </url>
+  <url>
+    <loc>https://friendscircle.ucmerced.edu/news/2025/buhach-valedictorian-pursues-environmental-engineering-uc-merced-fall</loc>
+  </url>
+  <url>
+    <loc>https://friendscircle.ucmerced.edu/news/2025/abigail-gyamfi-honored-excellence-mentorship-and-community-impact</loc>
   </url>
   <url>
     <loc>https://friendscircle.ucmerced.edu/news/2025/founding-uc-merced-staffer-wraps-45-years-law-enforcement</loc>
@@ -133,13 +136,10 @@
     <loc>https://friendscircle.ucmerced.edu/news/2025/humanities-grad-student-advocates-student-parents</loc>
   </url>
   <url>
-    <loc>https://friendscircle.ucmerced.edu/news/2025/buhach-valedictorian-pursues-environmental-engineering-uc-merced-fall</loc>
-  </url>
-  <url>
     <loc>https://friendscircle.ucmerced.edu/news/2025/students-awarded-prestigious-nsf-graduate-research-fellowship</loc>
   </url>
   <url>
     <loc>https://friendscircle.ucmerced.edu/taxonomy/term/70/feed</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
   </url>
 </urlset>

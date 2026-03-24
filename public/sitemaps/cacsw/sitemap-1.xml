@@ -4,6 +4,9 @@
     <loc>https://cacsw.ucmerced.edu</loc>
   </url>
   <url>
+    <loc>https://cacsw.ucmerced.edu/</loc>
+  </url>
+  <url>
     <loc>https://cacsw.ucmerced.edu/about-us-0</loc>
   </url>
   <url>
@@ -12,9 +15,6 @@
   <url>
     <loc>https://cacsw.ucmerced.edu/sites/cacsw.ucmerced.edu/files/documents/cacsw_charter_2023_final.pdf</loc>
     <lastmod>2024-06-17</lastmod>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/history</loc>
@@ -35,13 +35,13 @@
     <loc>https://cacsw.ucmerced.edu/campus-resources/campus-organizations</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/campus-resources/policies</loc>
-  </url>
-  <url>
     <loc>https://cacsw.ucmerced.edu/campus-resources/campus-statistics</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/resources/interesting-reads</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/campus-resources/policies</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/get-involved</loc>
@@ -56,22 +56,19 @@
     <loc>https://cacsw.ucmerced.edu/get-involved/2022-2023-womens-initiative-professional-development</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/get-involved/2020-2021-womens-initiative-professional-development</loc>
-  </url>
-  <url>
     <loc>https://cacsw.ucmerced.edu/get-involved/2021-2022-uc-womens-initiative-professional-development</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/events</loc>
+    <loc>https://cacsw.ucmerced.edu/get-involved/2020-2021-womens-initiative-professional-development</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/form/membership-application</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/get-involved/women-we-admire-series/asmeret-berhe-march-2018</loc>
+    <loc>https://cacsw.ucmerced.edu/events</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/form/womxn-spotlight</loc>
@@ -80,19 +77,25 @@
     <loc>https://cacsw.ucmerced.edu/get-involved/women-we-admire-series/dorothy-leland-september-2017</loc>
   </url>
   <url>
+    <loc>https://cacsw.ucmerced.edu/get-involved/women-we-admire-series/asmeret-berhe-march-2018</loc>
+  </url>
+  <url>
     <loc>https://cacsw.ucmerced.edu/get-involved/women-we-admire-series/ann-kovalchick-october-2018</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/get-involved/women-we-admire-series/teenie-matlock-november-2019</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/womxn-spotlight/womxn-spotlight-dr-thelma-hurd</loc>
-  </url>
-  <url>
     <loc>https://cacsw.ucmerced.edu/get-involved/women-we-admire-series/tanya-golash-boza-april-2019</loc>
   </url>
   <url>
+    <loc>https://cacsw.ucmerced.edu/womxn-spotlight/womxn-spotlight-dr-thelma-hurd</loc>
+  </url>
+  <url>
     <loc>https://cacsw.ucmerced.edu/womxn-spotlight/crisantema-gallardo-april-2021</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/womxn-spotlight/dr-aguirre-mu%C3%B1oz-april-2022</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/womxn-spotlight/sora-kim</loc>
@@ -104,20 +107,11 @@
     <loc>https://cacsw.ucmerced.edu/news/2026/empathy-central-theme-todo-cambia-film-festival</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/womxn-spotlight/dr-aguirre-mu%C3%B1oz-april-2022</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
     <loc>https://cacsw.ucmerced.edu/news/2026/former-gov-gray-davis-awarded-chancellor%E2%80%99s-medal-transformative-leadership-bringing-uc</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/content/vanessa-hauser</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/content/elizabeth-salmon</loc>
+    <loc>https://cacsw.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/content/estee-beck</loc>
@@ -126,46 +120,52 @@
     <loc>https://cacsw.ucmerced.edu/content/pamelyn-gingold</loc>
   </url>
   <url>
+    <loc>https://cacsw.ucmerced.edu/content/vanessa-hauser</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/content/elizabeth-salmon</loc>
+  </url>
+  <url>
     <loc>https://cacsw.ucmerced.edu/content/saima-aktar-sumaiya</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/content/danielle-waite</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/content/vacant-position</loc>
+    <loc>https://cacsw.ucmerced.edu/content/ailyn-palancares</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/content/pam-moody</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/content/vacant-position-0</loc>
-  </url>
-  <url>
     <loc>https://cacsw.ucmerced.edu/content/joan-rich</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/content/ailyn-palancares</loc>
+    <loc>https://cacsw.ucmerced.edu/content/vacant-position</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/content/valara-villanueva</loc>
+    <loc>https://cacsw.ucmerced.edu/content/vacant-position-0</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/content/rubi-turner</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/events/womxn-spotlight</loc>
+    <loc>https://cacsw.ucmerced.edu/events/cacsw-monthly-meeting-0</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/events/cacsw-monthly-meeting-0</loc>
+    <loc>https://cacsw.ucmerced.edu/content/valara-villanueva</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/events/womxn-spotlight</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/events/2021-2022-uc-wi-application-deadline</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/events/crafting-your-professional-narrative-workshop-part-1</loc>
+    <loc>https://cacsw.ucmerced.edu/events/cacsw-monthly-meeting</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/events/cacsw-monthly-meeting</loc>
+    <loc>https://cacsw.ucmerced.edu/events/2020-21-uc-wi-applicant-workshop</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/events/womxn-spotlight-crisantema-gallardo</loc>
@@ -174,43 +174,43 @@
     <loc>https://cacsw.ucmerced.edu/events/2020-beyond-building-thinking-forward</loc>
   </url>
   <url>
+    <loc>https://cacsw.ucmerced.edu/events/crafting-your-professional-narrative-workshop-part-1</loc>
+  </url>
+  <url>
     <loc>https://cacsw.ucmerced.edu/events/uc-wi-alumnae-panel</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/events/free-film-screening-californias-forgotten-children</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/events/2020-21-uc-wi-applicant-workshop</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/events/ace-womens-network-2019-fall-conference</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/events/women-we-admire-teenie-matlock</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/events/research-week-workshop-improving-work-climate</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/events/writing-your-professional-narrative-session-2</loc>
+    <loc>https://cacsw.ucmerced.edu/events/women-we-admire-teenie-matlock</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/events/free-film-screening-californias-forgotten-children</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/events/ace-womens-network-2019-fall-conference</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/events/writing-your-professional-narrative-session-1</loc>
   </url>
   <url>
+    <loc>https://cacsw.ucmerced.edu/events/writing-your-professional-narrative-session-2</loc>
+  </url>
+  <url>
     <loc>https://cacsw.ucmerced.edu/events/uc-womens-initiative-reception</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/media-contact/brenda-ortiz</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/media-contact/jody-murray</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/events/apply-now-uc-womens-initiative-professional-development</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/events/annual-dessert-social</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/media-contact/brenda-ortiz</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/media-contact/jody-murray</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/media-contact/alyssa-johansen</loc>
@@ -229,13 +229,16 @@
     <loc>https://cacsw.ucmerced.edu/news/2025/buhach-valedictorian-pursues-environmental-engineering-uc-merced-fall</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/news/2025/prospective-graduate-students-invited-diversity-forum-uc-merced</loc>
-  </url>
-  <url>
     <loc>https://cacsw.ucmerced.edu/news/2025/chemistry-phd-student-wins-campus-grad-slam-top-prize-advances-uc-wide-final</loc>
   </url>
   <url>
+    <loc>https://cacsw.ucmerced.edu/news/2025/prospective-graduate-students-invited-diversity-forum-uc-merced</loc>
+  </url>
+  <url>
     <loc>https://cacsw.ucmerced.edu/news/2025/give-uc-merced-campaign-tops-14-million-breaking-record-third-year</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/news/2024/josiah-beharry-o%EF%AC%80ers-unique-perspective-50th-student-regent</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/news/2025/carnegie-recognizes-uc-merced-student-access-grad-earnings</loc>
@@ -244,32 +247,29 @@
     <loc>https://cacsw.ucmerced.edu/news/2024/uc-merced-receives-second-consecutive-heed-award-dei-efforts</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/news/2024/josiah-beharry-o%EF%AC%80ers-unique-perspective-50th-student-regent</loc>
+    <loc>https://cacsw.ucmerced.edu/news/2024/fresno-developer-ed-kashian-named-2024-chancellors-medal-recipient</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/news/2024/alice-waters-institute-challenges-student-chefs-get-creative</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/news/2024/fresno-developer-ed-kashian-named-2024-chancellors-medal-recipient</loc>
-  </url>
-  <url>
     <loc>https://cacsw.ucmerced.edu/taxonomy/term/78/feed</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/news/2025/20-years-uc-merced-celebrates-achievements-looks-future</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/news/2025/open-arms-open-skies-students-welcomed-spirited-soggy-scholars-bridge-crossing</loc>
+    <loc>https://cacsw.ucmerced.edu/news/2025/uc-merced-graduates-encouraged-embrace-every-moment</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/news/2025/sociology-graduate-program-debuts-strongly-us-news-rankings</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/news/2025/fall-commencement-graduates-urged-write-their-own-story</loc>
+    <loc>https://cacsw.ucmerced.edu/news/2025/open-arms-open-skies-students-welcomed-spirited-soggy-scholars-bridge-crossing</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/news/2024/3-new-majors-meet-crossroads-communication-and-science</loc>
+    <loc>https://cacsw.ucmerced.edu/news/2025/fall-commencement-graduates-urged-write-their-own-story</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/news/2024/university%E2%80%99s-strength-lies-opportunities-social-mobility-chancellor-says</loc>
@@ -278,13 +278,20 @@
     <loc>https://cacsw.ucmerced.edu/news/2024/zimbabwean-filmmaker-activist-chosen-spendlove-prize</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/news/2025/uc-merced-graduates-encouraged-embrace-every-moment</loc>
+    <loc>https://cacsw.ucmerced.edu/news/2024/3-new-majors-meet-crossroads-communication-and-science</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/news/2026/uc-berkeley-exhibit-marks-20-years-uc-merced%E2%80%99s-design-vision</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/news/2024/uc-merced-leads-65-million-initiative-reduce-promotion-and-tenure-bias-against-black-and</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/news/2026/uc-berkeley-exhibit-marks-20-years-uc-merced%E2%80%99s-design-vision</loc>
+    <loc>https://cacsw.ucmerced.edu/taxonomy/term/1411/feed</loc>
+    <lastmod>2026-03-24</lastmod>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/news/2025/winery-executive-stephanie-gallo-joins-uc-merced-foundation-board-trustees</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/news/2026/american-council-education-and-carnegie-foundation-recognize-uc-merceds-leadership</loc>
@@ -293,20 +300,10 @@
     <loc>https://cacsw.ucmerced.edu/news/2025/giving-tuesday-uc-merced-collective-generosity-transforms-lives</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/taxonomy/term/1411/feed</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/news/2025/united-education-merced-institutions-forge-stronger-future-together-uc-merced-summit</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/news/2025/winery-executive-stephanie-gallo-joins-uc-merced-foundation-board-trustees</loc>
-  </url>
-  <url>
     <loc>https://cacsw.ucmerced.edu/news/2025/flavors-stories-chef-sean-sherman-brings-indigenous-culinary-wisdom-uc-merced</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/news/2025/uc-merced-and-fresno-unified-launch-guaranteed-admission-path-scholarship-opportunity</loc>
+    <loc>https://cacsw.ucmerced.edu/news/2025/united-education-merced-institutions-forge-stronger-future-together-uc-merced-summit</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/news/2025/agricultural-leader-jay-mahil-appointed-uc-merced-foundation-board-trustees</loc>
@@ -315,15 +312,18 @@
     <loc>https://cacsw.ucmerced.edu/news/2025/uc-merced-launches-distinguished-speaker-series-world-renowned-bioengineer-david-kaplan</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/taxonomy/term/17/feed</loc>
-    <lastmod>2026-03-23</lastmod>
+    <loc>https://cacsw.ucmerced.edu/news/2025/uc-merced-and-fresno-unified-launch-guaranteed-admission-path-scholarship-opportunity</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/taxonomy/term/1351/feed</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/taxonomy/term/18/feed</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/taxonomy/term/17/feed</loc>
+    <lastmod>2026-03-24</lastmod>
   </url>
 </urlset>

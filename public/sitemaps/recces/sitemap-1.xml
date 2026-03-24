@@ -4,13 +4,16 @@
     <loc>https://recces.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://recces.ucmerced.edu/</loc>
-  </url>
-  <url>
     <loc>https://recces.ucmerced.edu/about-us</loc>
   </url>
   <url>
+    <loc>https://recces.ucmerced.edu/</loc>
+  </url>
+  <url>
     <loc>https://recces.ucmerced.edu/about-us/faq</loc>
+  </url>
+  <url>
+    <loc>https://recces.ucmerced.edu/about-us/our-team/campus-advisory-board</loc>
   </url>
   <url>
     <loc>https://recces.ucmerced.edu/about-us/our-team</loc>
@@ -19,16 +22,16 @@
     <loc>https://recces.ucmerced.edu/about-us/our-team/community-advisory-board</loc>
   </url>
   <url>
-    <loc>https://recces.ucmerced.edu/about-us/our-team/campus-advisory-board</loc>
+    <loc>https://recces.ucmerced.edu/how-we-can-help-you</loc>
+  </url>
+  <url>
+    <loc>https://recces.ucmerced.edu/about-us/research-initiatives</loc>
   </url>
   <url>
     <loc>https://recces.ucmerced.edu/resources-ces</loc>
   </url>
   <url>
-    <loc>https://recces.ucmerced.edu/how-we-can-help-you</loc>
-  </url>
-  <url>
-    <loc>https://recces.ucmerced.edu/about-us/research-initiatives</loc>
+    <loc>https://recces.ucmerced.edu/how-we-can-help-you/collaborate-uc-merced%C2%A0faculty</loc>
   </url>
   <url>
     <loc>https://recces.ucmerced.edu/how-we-can-help-you/collaborate-non-profits</loc>
@@ -37,17 +40,14 @@
     <loc>https://recces.ucmerced.edu/how-we-can-help-you/campus-resources</loc>
   </url>
   <url>
-    <loc>https://recces.ucmerced.edu/how-we-can-help-you/collaborate-uc-merced%C2%A0faculty</loc>
-  </url>
-  <url>
     <loc>https://recces.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://recces.ucmerced.edu/contact-us-0</loc>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>https://recces.ucmerced.edu/how-you-can-help-us</loc>
+  </url>
+  <url>
+    <loc>https://recces.ucmerced.edu/contact-us-0</loc>
   </url>
   <url>
     <loc>https://recces.ucmerced.edu/content/what-community-engaged-scholarship</loc>

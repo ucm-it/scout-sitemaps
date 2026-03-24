@@ -4,19 +4,19 @@
     <loc>https://eors.ucmerced.edu</loc>
   </url>
   <url>
+    <loc>https://eors.ucmerced.edu/people/current</loc>
+  </url>
+  <url>
     <loc>https://eors.ucmerced.edu/people</loc>
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://eors.ucmerced.edu/people/current</loc>
+    <loc>https://eors.ucmerced.edu/people/previous</loc>
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/node/16</loc>
-  </url>
-  <url>
-    <loc>https://eors.ucmerced.edu/people/previous</loc>
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/research/current-research-0</loc>
@@ -40,10 +40,10 @@
     <loc>https://eors.ucmerced.edu/research/current-research/wildfire-impacts-watershed-transport-carbon-coasts-kelpfire</loc>
   </url>
   <url>
-    <loc>https://eors.ucmerced.edu/node/18</loc>
+    <loc>https://eors.ucmerced.edu/publications</loc>
   </url>
   <url>
-    <loc>https://eors.ucmerced.edu/publications</loc>
+    <loc>https://eors.ucmerced.edu/node/18</loc>
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/resources</loc>
@@ -58,20 +58,17 @@
     <loc>https://eors.ucmerced.edu/news</loc>
   </url>
   <url>
-    <loc>https://eors.ucmerced.edu/form/contact-us</loc>
-  </url>
-  <url>
     <loc>https://eors.ucmerced.edu/events</loc>
   </url>
   <url>
+    <loc>https://eors.ucmerced.edu/form/contact-us</loc>
+  </url>
+  <url>
     <loc>https://eors.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://eors.ucmerced.edu/content/dulcinea-avouris</loc>
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/content/erin-hestir</loc>
@@ -80,25 +77,28 @@
     <loc>https://eors.ucmerced.edu/content/christiana-ade</loc>
   </url>
   <url>
+    <loc>https://eors.ucmerced.edu/content/dulcinea-avouris</loc>
+  </url>
+  <url>
     <loc>https://eors.ucmerced.edu/content/julia-burmistrova</loc>
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/people/current/brittany-lopez-barreto</loc>
   </url>
   <url>
-    <loc>https://eors.ucmerced.edu/content/jacob-nesslage</loc>
-  </url>
-  <url>
     <loc>https://eors.ucmerced.edu/content/anastasios-mazis</loc>
-  </url>
-  <url>
-    <loc>https://eors.ucmerced.edu/content/tasos-tentoglou</loc>
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/people/current-members/bailey-morrison</loc>
   </url>
   <url>
+    <loc>https://eors.ucmerced.edu/content/jacob-nesslage</loc>
+  </url>
+  <url>
     <loc>https://eors.ucmerced.edu/people/previous/megan-pinkus</loc>
+  </url>
+  <url>
+    <loc>https://eors.ucmerced.edu/content/tasos-tentoglou</loc>
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/content/adam-weingram</loc>
@@ -107,10 +107,10 @@
     <loc>https://eors.ucmerced.edu/content/erik-bolch</loc>
   </url>
   <url>
-    <loc>https://eors.ucmerced.edu/content/daniel-g%C3%B3mez</loc>
+    <loc>https://eors.ucmerced.edu/content/michael-kalua</loc>
   </url>
   <url>
-    <loc>https://eors.ucmerced.edu/content/michael-kalua</loc>
+    <loc>https://eors.ucmerced.edu/content/daniel-g%C3%B3mez</loc>
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/sites/g/files/ufvvjh851/f/morrison_bd_cv.pdf</loc>

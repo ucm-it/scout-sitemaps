@@ -4,40 +4,40 @@
     <loc>https://guardianscholars.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/</loc>
+    <loc>https://guardianscholars.ucmerced.edu/about-us/program-highlights-0</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/about-us/gsp-introduction</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/about-us/program-highlights-0</loc>
+    <loc>https://guardianscholars.ucmerced.edu/</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/node/2691</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/about-us/partners</loc>
+    <loc>https://guardianscholars.ucmerced.edu/node/52</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/node/52</loc>
+    <loc>https://guardianscholars.ucmerced.edu/about-us/partners</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/future-scholars/gsp-eligibility</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/future-scholars/application-and-documentation</loc>
+    <loc>https://guardianscholars.ucmerced.edu/future-scholars/useful-contacts</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/future-scholars/useful-contacts</loc>
+    <loc>https://guardianscholars.ucmerced.edu/future-scholars/application-and-documentation</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/services-benefits/services</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/giftcards</loc>
+    <loc>https://guardianscholars.ucmerced.edu/services-benefits/benefits</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/services-benefits/benefits</loc>
+    <loc>https://guardianscholars.ucmerced.edu/giftcards</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/studentsuccessfunds1</loc>
@@ -58,19 +58,19 @@
     <loc>https://guardianscholars.ucmerced.edu/expectations/transfers-third-fourth-years</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/programs/hunger-homelessness-awareness-week-hhaw</loc>
+    <loc>https://guardianscholars.ucmerced.edu/programs/orientation</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/programs/orientation</loc>
+    <loc>https://guardianscholars.ucmerced.edu/programs/hunger-homelessness-awareness-week-hhaw</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/programs/gift-box-project-0</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/programs/gsp-banquet</loc>
+    <loc>https://guardianscholars.ucmerced.edu/programs/foster-youth-awareness-month</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/programs/foster-youth-awareness-month</loc>
+    <loc>https://guardianscholars.ucmerced.edu/programs/gsp-banquet</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/node</loc>
@@ -79,16 +79,16 @@
     <loc>https://guardianscholars.ucmerced.edu/resources/financial</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/resources/basic-needs</loc>
-  </url>
-  <url>
     <loc>https://guardianscholars.ucmerced.edu/resources/academic</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/resources/homeless-youth</loc>
+    <loc>https://guardianscholars.ucmerced.edu/resources/basic-needs</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/resources/foster-youth</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/resources/homeless-youth</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/resources/mental-health-wellness</loc>
@@ -98,7 +98,7 @@
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/donate</loc>
@@ -110,28 +110,31 @@
     <loc>https://guardianscholars.ucmerced.edu/events/summer-session-c-second-six-week</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/juneteenth-holiday</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/summer-session-b-eight-week</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/independence-day-holiday</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/summer-session-b-eight-week</loc>
-  </url>
-  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/summer-session-first-six-week</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/memorial-day-holiday</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/undergraduate-spring-commencement-ceremonies</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/juneteenth-holiday</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/summer-session-d-twelve-week</loc>
   </url>
   <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/memorial-day-holiday</loc>
+  </url>
+  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/final-grades-due-0</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/undergraduate-spring-commencement-ceremonies</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/graduate-spring-commencement-ceremony</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/spring-semester-ends</loc>
@@ -143,12 +146,6 @@
     <loc>https://guardianscholars.ucmerced.edu/events/final-exams-1</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/graduate-spring-commencement-ceremony</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/course-withdraw-deadline-0</loc>
-  </url>
-  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/spring-instruction-ends</loc>
   </url>
   <url>
@@ -158,25 +155,25 @@
     <loc>https://guardianscholars.ucmerced.edu/events/fall-2026-registration</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/foster-youth-summit</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/spring-recess</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/spring-break-events</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/course-withdraw-deadline-0</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/cesar-chavez-holiday</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/mid-semester-grades-due-0</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/spring-recess</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/taxes-101</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/foster-youth-summit</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/spring-break-events</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/resume-refresh-resumecv-workshop</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/taxes-101</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/de-stress-succulents</loc>
@@ -188,7 +185,16 @@
     <loc>https://guardianscholars.ucmerced.edu/events/presidents-day-holiday</loc>
   </url>
   <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/mid-semester-grades-due-0</loc>
+  </url>
+  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/craft-care</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/day-one-or-one-day</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/spring-instruction-begins</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/last-day-adddrop-courses-0</loc>
@@ -197,16 +203,7 @@
     <loc>https://guardianscholars.ucmerced.edu/events/meet-greet</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/spring-instruction-begins</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/day-one-or-one-day</loc>
-  </url>
-  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/martin-luther-king-jr-holiday</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/final-grades-due</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/spring-semester-begins</loc>
@@ -215,28 +212,28 @@
     <loc>https://guardianscholars.ucmerced.edu/events/undergraduate-fall-commencement-ceremony</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/final-exams-0</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/fall-semester-ends</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/final-exams</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/final-grades-due</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/graduate-fall-commencement-ceremony</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/fall-instruction-ends</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/fall-semester-ends</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/non-instructional-day</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/final-exams-0</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/final-exams</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/thanksgiving-holiday</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/course-withdraw-deadline</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/non-instructional-day</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/fall-instruction-ends</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/veterans-day-holiday</loc>
@@ -245,13 +242,13 @@
     <loc>https://guardianscholars.ucmerced.edu/events/spring-2026-registration</loc>
   </url>
   <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/course-withdraw-deadline</loc>
+  </url>
+  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/labor-day-holiday</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/last-day-adddrop-courses</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/move-dates-campus-housing</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/mid-semester-grades-due</loc>
@@ -260,7 +257,13 @@
     <loc>https://guardianscholars.ucmerced.edu/events/fall-instruction-begins</loc>
   </url>
   <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/2025-2026-housing-assignments-available</loc>
+  </url>
+  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/funding-your-future-financial-resources-former-foster-youth</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/move-dates-campus-housing</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/fall-semester-begins</loc>
@@ -269,10 +272,13 @@
     <loc>https://guardianscholars.ucmerced.edu/events/gsp-easter-picnic</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/2025-2026-housing-assignments-available</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/self-love-yoga-personal-development-workshop</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/pal-entines-social</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/tabling-1</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/pj-social-0</loc>
@@ -284,49 +290,43 @@
     <loc>https://guardianscholars.ucmerced.edu/events/cozy-connections</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/tabling-1</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/building-resilience-self-advocacy</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/self-love-yoga-personal-development-workshop</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/prioritizing-mental-health-times-political-stress</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/student-coordinator-office-hours</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/self-advocacy-office-students-rights-responsibilities</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/immigration-attorney-office-hours</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/immigration-attorney-office-hours</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/building-resilience-self-advocacy</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/self-advocacy-office-students-rights-responsibilities</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/personal-workshop-1</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/prioritizing-mental-health-times-political-stress</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/coffee-and-button-first-generation-celebration</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/fall-festival-1</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/professional-image-career-tools</loc>
-  </url>
-  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/professional-workshop-cover-letter-development</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/coffee-and-button-first-generation-celebration</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/navigating-feelings-personal-workshop</loc>
   </url>
   <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/professional-image-career-tools</loc>
+  </url>
+  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/tabling-0</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/professional-fraternity-information-workshop</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/personal-workshop</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/incoming-cohort-orientation</loc>
@@ -335,25 +335,31 @@
     <loc>https://guardianscholars.ucmerced.edu/events/continuing-cohort-orientation</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/personal-workshop</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/social-lake-day</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/tabling</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/summer-orientation-information-fair-2</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/summer-orientation-information-fair-3</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/social-lake-day</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/professional-fraternity-information-workshop</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/summer-orientation-information-fair-0</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/summer-orientation-information-fair-2</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/summer-orientation-information-fair-1</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/summer-orientation-information-fair-3</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/summer-orientation-information-fair</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/summer-orientation-information-fair</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/office-hour-information-session-6</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/office-hour-information-session-8</loc>
@@ -362,16 +368,7 @@
     <loc>https://guardianscholars.ucmerced.edu/events/office-hour-information-session-7</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/summer-orientation-information-fair-0</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/office-hour-information-session-6</loc>
-  </url>
-  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/office-hour-information-session-5</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/office-hour-information-session-3</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/office-hour-information-session-4</loc>
@@ -380,16 +377,25 @@
     <loc>https://guardianscholars.ucmerced.edu/events/office-hour-information-session-2</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/office-hour-information-sessions-1</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/office-hour-information-session-3</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/office-hour-information-session-1</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/office-hour-information-session</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/office-hour-information-sessions-1</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/office-hour-information-session-0</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/office-hour-information-session</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/guardian-scholars-x-bobcat-underground-scholars-graduation-banquet</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/office-hour-information-sessions</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/office-hour-information-sessions-0</loc>
@@ -398,16 +404,16 @@
     <loc>https://guardianscholars.ucmerced.edu/events/bobcat-day</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/guardian-scholars-x-bobcat-underground-scholars-graduation-banquet</loc>
-  </url>
-  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/social-1</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/financial-workshop</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/office-hour-information-sessions</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/making-healthy-boundaries-workshop</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/tabling-outside-kl</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/tabling-outside-kl-0</loc>
@@ -416,25 +422,19 @@
     <loc>https://guardianscholars.ucmerced.edu/events/pj-party-palooza-making-cozy-connections</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/making-healthy-boundaries-workshop</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/beyond-degree-crafting-your-path-professional-success</loc>
-  </url>
-  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/understanding-stress</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/tabling-outside-kl</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/social-2-fall-festival</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/beyond-degree-crafting-your-path-professional-success</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/family-fued-trivia-night</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/coco-and-quilts-0</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/social-2-fall-festival</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/social-1-spooky-scavenger-hunt</loc>
@@ -449,22 +449,22 @@
     <loc>https://guardianscholars.ucmerced.edu/events/continuing-student-orientation</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/happy-planting-workshop</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/time-management-workshop-thriving-college-social-life</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/time-management-workshop-thriving-college-social-life</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/happy-planting-workshop</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/minute-win-it-social</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/advocacy-workshop</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/valentines-day-tabling</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/making-most-your-potential-workshop</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/valentines-day-tabling</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/advocacy-workshop</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/origami-hearts</loc>
@@ -476,16 +476,19 @@
     <loc>https://guardianscholars.ucmerced.edu/events/social-networking-professional-development-workshop</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/burn-out</loc>
-  </url>
-  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/all-cookied-out</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/funding-graduate-school-and-fellowship-workshop</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/burn-out</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/mixer-current-graduate-students</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/graduate-school-leadership-higher-education</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/funding-graduate-school-and-fellowship-workshop</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/curriculum-vitae-cv-workshop</loc>
@@ -494,22 +497,22 @@
     <loc>https://guardianscholars.ucmerced.edu/events/priority-registration-opens</loc>
   </url>
   <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/ucsf-outreach-and-recruitment-virtual-visit</loc>
+  </url>
+  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/coco-and-quilts</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/using-my-degree-path-0</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/graduate-school-leadership-higher-education</loc>
-  </url>
-  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/fall-festival-0</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/ucsf-outreach-and-recruitment-virtual-visit</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/graduate-school-application-statements</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/graduate-school-application-statements</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/whats-your-pitch</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/graduate-school-101</loc>
@@ -518,61 +521,49 @@
     <loc>https://guardianscholars.ucmerced.edu/events/uroc-path-grad-school-series</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/whats-your-pitch</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/cents-and-sense</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/speaking-purpose</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/cents-and-sense</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/do-it-passion</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/game</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/do-it-passion</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/gsp-kick-tabling-0</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/second-year-orientation</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/gsp-kick-tabling</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/first-year-orientation</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/gsp-kick-tabling-0</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/study-session-10</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/first-year-orientation</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/gsp-celebration</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/trivia-night-1</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/second-year-orientation</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/study-session-8</loc>
-  </url>
-  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/study-session-11</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/study-session-7</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/study-session-10</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/study-session-9</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/finding-serenity</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/trivia-night-1</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/study-session-6</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/study-session-7</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/study-session-5</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/study-session-8</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/kick</loc>
@@ -581,7 +572,16 @@
     <loc>https://guardianscholars.ucmerced.edu/events/program-requirements-end</loc>
   </url>
   <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/finding-serenity</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/study-session-6</loc>
+  </url>
+  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/easter-hunt</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/study-session-5</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/study-session-4</loc>
@@ -590,25 +590,22 @@
     <loc>https://guardianscholars.ucmerced.edu/events/study-session-3</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/study-session-2</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/study-session-1</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/study-session-1</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/study-session-2</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/study-session-0</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/thinking-professionally</loc>
-  </url>
-  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/finding-community</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/comfort-color</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/thinking-professionally</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/second-meeting-requirement-starts</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/comfort-color</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/whats-calfresh</loc>
@@ -617,10 +614,16 @@
     <loc>https://guardianscholars.ucmerced.edu/events/testing-waters-guide-internships</loc>
   </url>
   <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/second-meeting-requirement-starts</loc>
+  </url>
+  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/study-session</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/clip-n-save</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/tick-tock</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/b-i-n-g-o</loc>
@@ -635,43 +638,37 @@
     <loc>https://guardianscholars.ucmerced.edu/events/gift-box-project</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/leftovers</loc>
-  </url>
-  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/trivia-night</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/starfish-throwers</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/tick-tock</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/inaugural-central-valley-higher-education-basic-needs-summit</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/kitastic</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/kickoff</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/starfish-throwers</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/leftovers</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/inaugural-central-valley-higher-education-basic-needs-summit</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/financing-graduate-school</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/imposter-syndrome</loc>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/fall-festival</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/kickoff</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/donation-drive</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/graduate-school-panel</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/fall-festival</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/live-cooking-demonstration-personal-workshop</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/imposter-syndrome</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/email-etiquette-professional-workshop</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/self-care-personal-workshop</loc>
@@ -680,7 +677,10 @@
     <loc>https://guardianscholars.ucmerced.edu/events/riddle-me-social</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/email-etiquette-professional-workshop</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/graduate-school-panel</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/live-cooking-demonstration-personal-workshop</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/college-living-budgeting-personal-workshop</loc>
@@ -689,7 +689,7 @@
     <loc>https://guardianscholars.ucmerced.edu/events/hot-hands-social</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/time-key-personal-workshop</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/my-degree-path</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/healthy-living</loc>
@@ -701,16 +701,16 @@
     <loc>https://guardianscholars.ucmerced.edu/events/social-0</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/hunt</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/juggling-your-time</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/informational-session-2</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/time-key-personal-workshop</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/circle-experiences-gsp-scholars-only</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/my-degree-path</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/hunt</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/ally-training-facultystaff-only</loc>
@@ -719,10 +719,10 @@
     <loc>https://guardianscholars.ucmerced.edu/events/visions-foster-youth-foster-youth-students-only</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/juggling-your-time</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/gsp-information-session</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/fyam</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/informational-session-2</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/gsp-banquet</loc>
@@ -737,19 +737,19 @@
     <loc>https://guardianscholars.ucmerced.edu/events/burnout</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/gsp-information-session</loc>
-  </url>
-  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/fyam2021-all-about-me-social</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/campus-housing</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/credit-advice</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/salary-negotiation</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/salary-negotiation</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/fyam</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/credit-advice</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/student-coordinator-panel</loc>
@@ -758,31 +758,34 @@
     <loc>https://guardianscholars.ucmerced.edu/events/alumni-panel</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/linkedin</loc>
-  </url>
-  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/zumba-gsp-social</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/cooking-hacks-college-life</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/conflict-resolution</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/linkedin</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/bingo-night-gsp-social</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/resume-cover-letter-and-cvs</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/share-square</loc>
-  </url>
-  <url>
     <loc>https://guardianscholars.ucmerced.edu/events/scholarship-night</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/relationships-types-boundaries</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/share-square</loc>
   </url>
   <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/bingo-night-gsp-social</loc>
+    <loc>https://guardianscholars.ucmerced.edu/events/conflict-resolution</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/starting-job-search</loc>
+  </url>
+  <url>
+    <loc>https://guardianscholars.ucmerced.edu/events/relationships-types-boundaries</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/events/example-news</loc>
@@ -793,9 +796,6 @@
   <url>
     <loc>https://guardianscholars.ucmerced.edu/sites/guardianscholars.ucmerced.edu/files/page/gbp_instructions_2021.pdf</loc>
     <lastmod>2021-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://guardianscholars.ucmerced.edu/events/starting-job-search</loc>
   </url>
   <url>
     <loc>https://guardianscholars.ucmerced.edu/sites/guardianscholars.ucmerced.edu/files/documents/permission-assumption-of-risk-and-release-of-liability_and_medical-treatment.pdf</loc>

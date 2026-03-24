@@ -4,13 +4,13 @@
     <loc>https://counseling.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://counseling.ucmerced.edu/</loc>
-  </url>
-  <url>
     <loc>https://counseling.ucmerced.edu/about/appointments</loc>
   </url>
   <url>
     <loc>https://counseling.ucmerced.edu/about</loc>
+  </url>
+  <url>
+    <loc>https://counseling.ucmerced.edu/</loc>
   </url>
   <url>
     <loc>https://counseling.ucmerced.edu/staff</loc>
@@ -70,16 +70,13 @@
     <loc>https://counseling.ucmerced.edu/resources/bipoc-resources/aapi-support</loc>
   </url>
   <url>
-    <loc>https://counseling.ucmerced.edu/resources/students</loc>
+    <loc>https://counseling.ucmerced.edu/resources/bipoc-resources/latinx-support</loc>
   </url>
   <url>
     <loc>https://counseling.ucmerced.edu/resources/accellion-data-breach</loc>
   </url>
   <url>
-    <loc>https://counseling.ucmerced.edu/resources/bipoc-resources/latinx-support</loc>
-  </url>
-  <url>
-    <loc>https://counseling.ucmerced.edu/resources/faculty-and-staff/emergency-contact-information</loc>
+    <loc>https://counseling.ucmerced.edu/resources/students</loc>
   </url>
   <url>
     <loc>https://counseling.ucmerced.edu/resources/family-and-loved-ones</loc>
@@ -88,7 +85,7 @@
     <loc>https://counseling.ucmerced.edu/resources/faculty-and-staff</loc>
   </url>
   <url>
-    <loc>https://counseling.ucmerced.edu/resources/faculty-and-staff/steps-referring-students</loc>
+    <loc>https://counseling.ucmerced.edu/resources/faculty-and-staff/emergency-contact-information</loc>
   </url>
   <url>
     <loc>https://counseling.ucmerced.edu/resources/faculty-and-staff/recognizing-students-distress</loc>
@@ -103,13 +100,16 @@
     <loc>https://counseling.ucmerced.edu/resources/campus-referrals</loc>
   </url>
   <url>
-    <loc>https://counseling.ucmerced.edu/self-help-library/apps</loc>
+    <loc>https://counseling.ucmerced.edu/resources/faculty-and-staff/steps-referring-students</loc>
+  </url>
+  <url>
+    <loc>https://counseling.ucmerced.edu/self-help-library/mental-health-handouts</loc>
   </url>
   <url>
     <loc>https://counseling.ucmerced.edu/self-help-library</loc>
   </url>
   <url>
-    <loc>https://counseling.ucmerced.edu/self-help-library/mental-health-handouts</loc>
+    <loc>https://counseling.ucmerced.edu/self-help-library/apps</loc>
   </url>
   <url>
     <loc>https://counseling.ucmerced.edu/self-help-library/uc-merced-mental-well-being-resources</loc>
@@ -118,23 +118,20 @@
     <loc>https://counseling.ucmerced.edu/contact-0</loc>
   </url>
   <url>
+    <loc>https://counseling.ucmerced.edu/feedback</loc>
+  </url>
+  <url>
     <loc>https://counseling.ucmerced.edu/node/2771</loc>
   </url>
   <url>
     <loc>https://counseling.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>https://counseling.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://counseling.ucmerced.edu/feedback</loc>
-  </url>
-  <url>
     <loc>https://counseling.ucmerced.edu/services/long-term-individual-counseling</loc>
-  </url>
-  <url>
-    <loc>https://counseling.ucmerced.edu/services/short-term-individual-counseling</loc>
   </url>
   <url>
     <loc>https://counseling.ucmerced.edu/services/drop-in-services</loc>
@@ -159,6 +156,9 @@
     <loc>https://counseling.ucmerced.edu/services/consultation</loc>
   </url>
   <url>
+    <loc>https://counseling.ucmerced.edu/services/short-term-individual-counseling</loc>
+  </url>
+  <url>
     <loc>https://counseling.ucmerced.edu/sites/counseling.ucmerced.edu/files/page/documents/coping_with_test_anxiety.pdf</loc>
     <lastmod>2019-01-31</lastmod>
   </url>
@@ -167,7 +167,7 @@
     <lastmod>2019-01-31</lastmod>
   </url>
   <url>
-    <loc>https://counseling.ucmerced.edu/sites/counseling.ucmerced.edu/files/page/documents/stress_packet-_condensed.pdf</loc>
+    <loc>https://counseling.ucmerced.edu/sites/counseling.ucmerced.edu/files/page/documents/grief_packet.pdf</loc>
     <lastmod>2019-01-31</lastmod>
   </url>
   <url>
@@ -175,19 +175,11 @@
     <lastmod>2019-01-31</lastmod>
   </url>
   <url>
-    <loc>https://counseling.ucmerced.edu/sites/counseling.ucmerced.edu/files/page/documents/grief_packet.pdf</loc>
+    <loc>https://counseling.ucmerced.edu/sites/counseling.ucmerced.edu/files/page/documents/sleep_packet.pdf</loc>
     <lastmod>2019-01-31</lastmod>
   </url>
   <url>
     <loc>https://counseling.ucmerced.edu/sites/counseling.ucmerced.edu/files/page/documents/survivor_packet.pdf</loc>
-    <lastmod>2019-01-31</lastmod>
-  </url>
-  <url>
-    <loc>https://counseling.ucmerced.edu/sites/counseling.ucmerced.edu/files/page/documents/trauma_packet.pdf</loc>
-    <lastmod>2019-01-31</lastmod>
-  </url>
-  <url>
-    <loc>https://counseling.ucmerced.edu/sites/counseling.ucmerced.edu/files/page/documents/sleep_packet.pdf</loc>
     <lastmod>2019-01-31</lastmod>
   </url>
   <url>
@@ -209,5 +201,13 @@
   <url>
     <loc>https://counseling.ucmerced.edu/sites/counseling.ucmerced.edu/files/page/documents/how_to-_finding_mental_health_treatment.pdf</loc>
     <lastmod>2019-02-05</lastmod>
+  </url>
+  <url>
+    <loc>https://counseling.ucmerced.edu/sites/counseling.ucmerced.edu/files/page/documents/stress_packet-_condensed.pdf</loc>
+    <lastmod>2019-01-31</lastmod>
+  </url>
+  <url>
+    <loc>https://counseling.ucmerced.edu/sites/counseling.ucmerced.edu/files/page/documents/trauma_packet.pdf</loc>
+    <lastmod>2019-01-31</lastmod>
   </url>
 </urlset>

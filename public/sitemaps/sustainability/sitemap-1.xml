@@ -4,19 +4,19 @@
     <loc>https://sustainability.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/about-us/department-staff</loc>
+    <loc>https://sustainability.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/</loc>
+    <loc>https://sustainability.ucmerced.edu/about-us/department-staff</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/about-us/student-staff</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/about-us/fellows</loc>
+    <loc>https://sustainability.ucmerced.edu/about-us/chancellors-advisory-committee-sustainabiity</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/about-us/chancellors-advisory-committee-sustainabiity</loc>
+    <loc>https://sustainability.ucmerced.edu/about-us/fellows</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/about-us/campus-partners</loc>
@@ -26,6 +26,9 @@
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/initiatives/procurement</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/about-us/sustainability-clubsorgs</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/about-us/our-living-environment</loc>
@@ -46,10 +49,10 @@
     <loc>https://sustainability.ucmerced.edu/living-laboratory</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/accomplishments</loc>
+    <loc>https://sustainability.ucmerced.edu/climate-action</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/climate-action</loc>
+    <loc>https://sustainability.ucmerced.edu/accomplishments</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/initiatives/leed</loc>
@@ -82,10 +85,13 @@
     <loc>https://sustainability.ucmerced.edu/events-1</loc>
   </url>
   <url>
+    <loc>https://sustainability.ucmerced.edu/events</loc>
+  </url>
+  <url>
     <loc>https://sustainability.ucmerced.edu/resources</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events</loc>
+    <loc>https://sustainability.ucmerced.edu/resources/dei-statement</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/resources/plans</loc>
@@ -94,34 +100,25 @@
     <loc>https://sustainability.ucmerced.edu/initiatives/waste</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/resources/dei-statement</loc>
-  </url>
-  <url>
     <loc>https://sustainability.ucmerced.edu/resources/live-waste-tracking</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/facs/history</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/facs</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/facs/sustainability-faculty-0</loc>
+    <loc>https://sustainability.ucmerced.edu/facs/history</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/facs/biodiversity</loc>
+    <loc>https://sustainability.ucmerced.edu/facs/sustainability-faculty-0</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/facs/sustainability-initiatives</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/facs/contact-communication</loc>
+    <loc>https://sustainability.ucmerced.edu/facs/biodiversity</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/facs/grants-0</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/facs/partners</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/facs/opportunities</loc>
@@ -130,50 +127,56 @@
     <loc>https://sustainability.ucmerced.edu/form/we-would-love-hear-your-feedback</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/facs/charge/operation</loc>
+    <loc>https://sustainability.ucmerced.edu/facs/contact-communication</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/facs/charge/organization-structure</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/contact-us</loc>
+    <loc>https://sustainability.ucmerced.edu/facs/partners</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/facs/charge</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-23</lastmod>
+    <loc>https://sustainability.ucmerced.edu/facs/charge/organization-structure</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/about-us/sustainability-clubsorgs</loc>
+    <loc>https://sustainability.ucmerced.edu/facs/charge/operation</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-24</lastmod>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/node/64</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/toloma-5k</loc>
+    <loc>https://sustainability.ucmerced.edu/events/earth-day-festival</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/cigarette-surfboard-film-screening</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/earth-day-festival</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/donate-donate-professional-clothing-drive</loc>
+    <loc>https://sustainability.ucmerced.edu/events/toloma-5k</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/women-sustainability-fool-passion-or-success</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/rwa-earth-day-event</loc>
+    <loc>https://sustainability.ucmerced.edu/events/donate-donate-professional-clothing-drive</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/master-gardeners-drip-irrigation-workshop</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/earth-day</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/rwa-earth-day-event</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/global-recycling-day</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/world-water-day</loc>
@@ -182,7 +185,7 @@
     <loc>https://sustainability.ucmerced.edu/events/international-day-forests</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/earth-day</loc>
+    <loc>https://sustainability.ucmerced.edu/events/world-wildlife-day</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/wellness-wednesday-3</loc>
@@ -191,25 +194,19 @@
     <loc>https://sustainability.ucmerced.edu/events/household-hazardous-waste-collection-event</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/global-recycling-day</loc>
+    <loc>https://sustainability.ucmerced.edu/events/roads-removal-public-symposium</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/international-polar-bear-day</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/world-wildlife-day</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/roads-removal-public-symposium</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/world-wetlands-day</loc>
+    <loc>https://sustainability.ucmerced.edu/events/wellness-wednesday-2</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/merced-master-gardeners-citrus-orchard-walk-about</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/wellness-wednesday-2</loc>
+    <loc>https://sustainability.ucmerced.edu/events/world-wetlands-day</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/merced-master-gardeners-roses-101</loc>
@@ -218,10 +215,16 @@
     <loc>https://sustainability.ucmerced.edu/events/holiday-movie-night</loc>
   </url>
   <url>
+    <loc>https://sustainability.ucmerced.edu/events/wellness-wednesday-1</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/diy-soap-making</loc>
+  </url>
+  <url>
     <loc>https://sustainability.ucmerced.edu/events/world-soil-day</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/wellness-wednesday-1</loc>
+    <loc>https://sustainability.ucmerced.edu/events/take-hike-day</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/garden-harvest-herbs</loc>
@@ -230,19 +233,10 @@
     <loc>https://sustainability.ucmerced.edu/events/america-recycles-day</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/diy-soap-making</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/take-hike-day</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/veterans-day</loc>
-  </url>
-  <url>
     <loc>https://sustainability.ucmerced.edu/events/merced-master-gardeners-leaf-worm-and-traditional-composting</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/uc-merced-campus-garden-tabling-2</loc>
+    <loc>https://sustainability.ucmerced.edu/events/veterans-day</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/uc-merced-sustainability-tabling</loc>
@@ -251,46 +245,49 @@
     <loc>https://sustainability.ucmerced.edu/events/wellness-wednesday-0</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/seed-bomb-collaborationbasic-needs</loc>
-  </url>
-  <url>
     <loc>https://sustainability.ucmerced.edu/events/dirt-soil-webinar</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/compost-collaboration-webinar</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/tote-bag-painting</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/international-day-climate-action</loc>
+    <loc>https://sustainability.ucmerced.edu/events/seed-bomb-collaborationbasic-needs</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/uc-merced-campus-garden-tabling-2</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/sustainability-day</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/regenerative-vision-webinar</loc>
+    <loc>https://sustainability.ucmerced.edu/events/international-day-climate-action</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/compost-collaboration-webinar</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/sustainability-day-yosemite-lake-clean</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/uc-merced-campus-garden-tabling-0</loc>
+    <loc>https://sustainability.ucmerced.edu/events/sustainable-halloween-decorations</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/sustainable-halloween-decorations</loc>
+    <loc>https://sustainability.ucmerced.edu/events/uc-merced-campus-garden-tabling</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/regenerative-vision-webinar</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/uc-merced-campus-garden-tabling-0</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/uc-merced-campus-garden-tabling-1</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/october-big-day</loc>
-  </url>
-  <url>
     <loc>https://sustainability.ucmerced.edu/events/facs-mini-grant-deadline</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/uc-merced-campus-garden-tabling</loc>
+    <loc>https://sustainability.ucmerced.edu/events/october-big-day</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/farmers-market</loc>
@@ -302,25 +299,19 @@
     <loc>https://sustainability.ucmerced.edu/events/charrette-decarbonization-study</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/energy-efficiency-day</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/world-animal-day</loc>
-  </url>
-  <url>
     <loc>https://sustainability.ucmerced.edu/events/wellness-wednesday</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/energy-efficiency-day</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/tabling-health-promotionwellness-wednesday</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/charrette-utility-master-plan</loc>
-  </url>
-  <url>
     <loc>https://sustainability.ucmerced.edu/events/tour-ceres-high-school</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/world-habitat-day</loc>
+    <loc>https://sustainability.ucmerced.edu/events/world-animal-day</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/historical-memory-policy-and-future-water-central-valley-conversation-mark-arax-and-ellen</loc>
@@ -329,16 +320,19 @@
     <loc>https://sustainability.ucmerced.edu/events/tour-chenoweth-elementary-school</loc>
   </url>
   <url>
+    <loc>https://sustainability.ucmerced.edu/events/charrette-utility-master-plan</loc>
+  </url>
+  <url>
     <loc>https://sustainability.ucmerced.edu/events/llc-stress-management-workshop</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/zero-emissions-day</loc>
+    <loc>https://sustainability.ucmerced.edu/events/world-habitat-day</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/world-environmental-health-day</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-featuring-nicoletta-batini</loc>
+    <loc>https://sustainability.ucmerced.edu/events/zero-emissions-day</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/sustainability-tour-0</loc>
@@ -350,10 +344,16 @@
     <loc>https://sustainability.ucmerced.edu/events/sustainability-tours</loc>
   </url>
   <url>
+    <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-featuring-nicoletta-batini</loc>
+  </url>
+  <url>
     <loc>https://sustainability.ucmerced.edu/events/pray-rain-lessons-californias-water-crisis-0</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-featuring-jillian-buckholz</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-featuring-ciara-williams</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/patriarchy-and-capitalism-solutions-2-systems-oppression-hurting-people-and-wildlife</loc>
@@ -362,43 +362,46 @@
     <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-featuring-sapna-thottahil</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-featuring-ciara-williams</loc>
-  </url>
-  <url>
     <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-featuring-ashwani-vasishth</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/milked-film-discussion-0</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/mission-joy-community-discussion</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-featuring-lizzy-anast</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/newtok-community-discussion</loc>
+    <loc>https://sustainability.ucmerced.edu/events/milked-film-discussion-0</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-featuring-ken-meter</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/sustainable-movie-night-dr-seuss-lorax</loc>
+    <loc>https://sustainability.ucmerced.edu/events/mission-joy-community-discussion</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-featuring-isaias-hernandez</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/infused-oils-101</loc>
+    <loc>https://sustainability.ucmerced.edu/events/newtok-community-discussion</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/earth-day-celebration-0</loc>
+    <loc>https://sustainability.ucmerced.edu/events/sustainable-movie-night-dr-seuss-lorax</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/terrain-building</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/infused-oils-101</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/uc-wide-earth-day-2022-climate-rally</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/terrain-building</loc>
+    <loc>https://sustainability.ucmerced.edu/events/earth-day-celebration-0</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/seed-bomb-making</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/sustainability-presentation</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/sustainable-movie-night-wall-e</loc>
@@ -410,19 +413,16 @@
     <loc>https://sustainability.ucmerced.edu/events/do-good-chipotle</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/seed-bomb-making</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/sustainability-presentation</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-alfonso-morales-phd</loc>
+    <loc>https://sustainability.ucmerced.edu/events/save-food-0</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/meat-me-halfway-qa</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/save-food-0</loc>
+    <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-alfonso-morales-phd</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/sustainable-panel-discussion-0</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-deseret-weeks</loc>
@@ -431,7 +431,7 @@
     <loc>https://sustainability.ucmerced.edu/events/zero-waste-june-thrifting-101-workshop</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/sustainable-panel-discussion-0</loc>
+    <loc>https://sustainability.ucmerced.edu/events/seeding-change-panel-discussion</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/zero-waste-june-whats-your-fridge</loc>
@@ -440,10 +440,13 @@
     <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-mitch-vanagten</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/seeding-change-panel-discussion</loc>
+    <loc>https://sustainability.ucmerced.edu/events/upcycled-foods-panel-discussion</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/upcycled-foods-panel-discussion</loc>
+    <loc>https://sustainability.ucmerced.edu/events/women-ag-tech-panel-discussion</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-jackie-wincek</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/cooking-rocio</loc>
@@ -452,19 +455,10 @@
     <loc>https://sustainability.ucmerced.edu/events/women-cellular-ag-panel-discussion</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/women-ag-tech-panel-discussion</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/uc-davis-cmsi-climate-justice-seminar-series-dr-hilda-llor%C3%A9ns</loc>
-  </url>
-  <url>
     <loc>https://sustainability.ucmerced.edu/events/stop-food-waste-day-chat</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-jackie-wincek</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/better-together-panel-discussion</loc>
+    <loc>https://sustainability.ucmerced.edu/events/uc-davis-cmsi-climate-justice-seminar-series-dr-hilda-llor%C3%A9ns</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/earth-day-workshop</loc>
@@ -473,85 +467,88 @@
     <loc>https://sustainability.ucmerced.edu/events/university-california-center-climate-justice-launch-event</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/packaging-apple</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/kiss-ground</loc>
+    <loc>https://sustainability.ucmerced.edu/events/better-together-panel-discussion</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/earth-week-webinar</loc>
   </url>
   <url>
+    <loc>https://sustainability.ucmerced.edu/events/kiss-ground</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/packaging-apple</loc>
+  </url>
+  <url>
     <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-renata-brillinger</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/lets-talk-soil-panel-discussion</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/ucop-sustainability-home-event</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/uc-davis-cmsi-climate-justice-seminar-series-dr-mustafa-santiago-ali</loc>
   </url>
   <url>
+    <loc>https://sustainability.ucmerced.edu/events/ucop-sustainability-home-event</loc>
+  </url>
+  <url>
     <loc>https://sustainability.ucmerced.edu/events/fight-water-panel-discussion</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/lets-talk-soil-panel-discussion</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/gather-panel-discussion</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/climate-change-and-health-speaker-series</loc>
-  </url>
-  <url>
     <loc>https://sustainability.ucmerced.edu/events/uc-irvine-smart-labs-workshop</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/uc-davis-cmsi-climate-justice-seminar-series-d-kapuaala-sproat</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/aaees-webinar-collection-and-treatment-food-wasts-reduce-methane-emissions</loc>
+    <loc>https://sustainability.ucmerced.edu/events/climate-change-and-health-speaker-series</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/uc-davis-cmsi-climate-justice-seminar-series-douglas-mundo</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/nofastfashionfebruary-closet-tips</loc>
+    <loc>https://sustainability.ucmerced.edu/events/aaees-webinar-collection-and-treatment-food-wasts-reduce-methane-emissions</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/pollinators-panel-discussion</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-evan-hynes</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/interview-dr-ken-caldeira-climate-change</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/bobcat-certification-program</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/earth-month-social-media-challenge</loc>
+    <loc>https://sustainability.ucmerced.edu/events/uc-davis-cmsi-climate-justice-seminar-series-d-kapuaala-sproat</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/nofastfashionfebruary-sewingbasic-patching-tutorial</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/lake-clean</loc>
+    <loc>https://sustainability.ucmerced.edu/events/nofastfashionfebruary-closet-tips</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-evan-hynes</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/pollinators-panel-discussion</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/nofastfashionfebruary-bleach-art-tutorial</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/spring-instruction-begins</loc>
+    <loc>https://sustainability.ucmerced.edu/events/interview-dr-ken-caldeira-climate-change</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/earth-month-social-media-challenge</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/bobcat-certification-program</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/lake-clean</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/christmas-day</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/fall-semester-ends</loc>
+    <loc>https://sustainability.ucmerced.edu/events/christmas-eve</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/christmas-wreath-event</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/spring-instruction-begins</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/gamws-showcase</loc>
@@ -560,31 +557,34 @@
     <loc>https://sustainability.ucmerced.edu/events/sustainability-awareness-tabling-2</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/christmas-eve</loc>
+    <loc>https://sustainability.ucmerced.edu/events/fall-semester-ends</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/sustainability-awareness-tabling-0</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/sustainability-awareness-tabling</loc>
+    <loc>https://sustainability.ucmerced.edu/events/sustainability-awareness-tabling-1</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/campus-garden-volunteering-3</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/sustainability-awareness-tabling-1</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/events/campus-garden-volunteering-1</loc>
+    <loc>https://sustainability.ucmerced.edu/events/sustainability-awareness-tabling</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/campus-garden-volunteering-2</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/bobcat-pantry-holiday-hours</loc>
+    <loc>https://sustainability.ucmerced.edu/events/campus-garden-volunteering-1</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/campus-garden-volunteering-0</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/jordan-fisher-smith</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/bobcat-pantry-holiday-hours</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/sustainability-tabling</loc>
@@ -596,13 +596,13 @@
     <loc>https://sustainability.ucmerced.edu/events/horseback-riding</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/cool-campus-challenge</loc>
+    <loc>https://sustainability.ucmerced.edu/node/64</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/campus-garden-volunteering</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/campus-garden-volunteering-0</loc>
+    <loc>https://sustainability.ucmerced.edu/events/cool-campus-challenge</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/facs/facs/past-committees</loc>
@@ -614,10 +614,7 @@
     <loc>https://sustainability.ucmerced.edu/facs/sustainability-faculty/naturalscience</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/facs/points-interest</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/facs/biodiversity-projects-campus</loc>
+    <loc>https://sustainability.ucmerced.edu/get-involved/faculty-and-staff/green-offices-program</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/facs/sustainability-faculty/engineering</loc>
@@ -626,20 +623,10 @@
     <loc>https://sustainability.ucmerced.edu/facs/sustainability-faculty/past-faculty-highlights</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/facs/additionals-links-and-resources</loc>
+    <loc>https://sustainability.ucmerced.edu/facs/biodiversity-projects-campus</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/facs/sustainability-faculty/faculty-highlight</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/get-involved/faculty-and-staff/green-offices-program</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/sites/sustainability.ucmerced.edu/files/documents/faculty_feature.docx</loc>
-    <lastmod>2020-04-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/facs/mini-grants/mini-seed-grant-funded-projects</loc>
+    <loc>https://sustainability.ucmerced.edu/facs/points-interest</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/facs/grants/seed-grant-funded-projects</loc>
@@ -648,25 +635,35 @@
     <loc>https://sustainability.ucmerced.edu/facs/photo-galleries</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects/tea-project</loc>
+    <loc>https://sustainability.ucmerced.edu/facs/additionals-links-and-resources</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/sites/sustainability.ucmerced.edu/files/documents/faculty_feature.docx</loc>
+    <lastmod>2020-04-16</lastmod>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/facs/sustainability-faculty/faculty-highlight</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects/air-quality-project</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/community-discussions/mission-joy-community-discussion</loc>
-  </url>
-  <url>
     <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects/local-food-project</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-series/ask-me-anything-featuring-isaias-hernandez</loc>
+    <loc>https://sustainability.ucmerced.edu/facs/mini-grants/mini-seed-grant-funded-projects</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/meat-me-halfway-qa-0</loc>
+    <loc>https://sustainability.ucmerced.edu/events/community-discussions/mission-joy-community-discussion</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects/tea-project</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/save-food</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/meat-me-halfway-qa-0</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-series/alfonso-morales-82</loc>
@@ -675,10 +672,16 @@
     <loc>https://sustainability.ucmerced.edu/events/sustainable-panel-discussion</loc>
   </url>
   <url>
+    <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-series/deseret-weeks-76</loc>
+  </url>
+  <url>
     <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-series/mitch-vanagten-67</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/seeding-change</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-series/ask-me-anything-featuring-isaias-hernandez</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/upcycled-foods</loc>
@@ -687,22 +690,19 @@
     <loc>https://sustainability.ucmerced.edu/events/women-cellular-ag</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-series/deseret-weeks-76</loc>
-  </url>
-  <url>
     <loc>https://sustainability.ucmerced.edu/events/ask-me-anything-series/ask-me-anything-renata-brillinger</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/fight-water</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/pollinators</loc>
-  </url>
-  <url>
     <loc>https://sustainability.ucmerced.edu/events/lets-talk-soil</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/gather</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/pollinators</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/facs/sustainability-faculty/more-about-brokaw</loc>
