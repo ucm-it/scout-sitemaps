@@ -1,0 +1,55 @@
+name: Update Onyx Document Set
+
+on:
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: Target environment
+        required: true
+        type: choice
+        options:
+          - dev
+          - prod
+
+jobs:
+  update-document-set:
+    runs-on: ubuntu-latest
+    environment: ${{ inputs.environment }}
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Update Onyx document set
+        run: |
+          # Collect all site names from both yaml files into a JSON array
+          SITE_NAMES_JSON=$(
+            for yaml_file in .github/sites-1.yaml .github/sites-2.yaml; do
+              yq '.[].name' "$yaml_file"
+            done | jq -R . | jq -s .
+          )
+
+          # Fetch all connectors and filter by site name, collecting their IDs
+          CC_PAIR_IDS=$(
+            curl --fail --location \
+              '${{ secrets.ONYX_API_BASE_URL }}/api/manage/connector' \
+              --header 'Authorization: Bearer ${{ secrets.ONYX_API_TOKEN }}' \
+            | jq --argjson names "$SITE_NAMES_JSON" \
+              '[.[] | select(.name as $n | ($names | index($n)) != null) | .id]'
+          )
+
+          echo "Connector IDs to include: $CC_PAIR_IDS"
+          echo "Updating document set ${{ secrets.ONYX_DOCUMENT_SET_ID }}"
+
+          curl --fail --location --request PATCH \
+            '${{ secrets.ONYX_API_BASE_URL }}/api/manage/admin/document-set' \
+            --header 'Content-Type: application/json' \
+            --header 'Authorization: Bearer ${{ secrets.ONYX_API_TOKEN }}' \
+            --data "{
+              \"id\": ${{ secrets.ONYX_DOCUMENT_SET_ID }},
+              \"description\": \"\",
+              \"cc_pair_ids\": $CC_PAIR_IDS,
+              \"is_public\": true,
+              \"users\": [],
+              \"groups\": [],
+              \"federated_connectors\": []
+            }"
