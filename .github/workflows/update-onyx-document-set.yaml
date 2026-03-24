@@ -40,16 +40,21 @@ jobs:
           echo "Connector IDs to include: $CC_PAIR_IDS"
           echo "Updating document set ${{ secrets.ONYX_DOCUMENT_SET_ID }}"
 
+          PAYLOAD=$(jq -n \
+            --argjson id '${{ secrets.ONYX_DOCUMENT_SET_ID }}' \
+            --argjson cc_pair_ids "$CC_PAIR_IDS" \
+            '{
+              id: $id,
+              description: "",
+              cc_pair_ids: $cc_pair_ids,
+              is_public: true,
+              users: [],
+              groups: [],
+              federated_connectors: []
+            }')
+
           curl --fail --location --request PATCH \
             '${{ secrets.ONYX_API_BASE_URL }}/api/manage/admin/document-set' \
             --header 'Content-Type: application/json' \
             --header 'Authorization: Bearer ${{ secrets.ONYX_API_TOKEN }}' \
-            --data "{
-              \"id\": ${{ secrets.ONYX_DOCUMENT_SET_ID }},
-              \"description\": \"\",
-              \"cc_pair_ids\": $CC_PAIR_IDS,
-              \"is_public\": true,
-              \"users\": [],
-              \"groups\": [],
-              \"federated_connectors\": []
-            }"
+            --data "$PAYLOAD"
