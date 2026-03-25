@@ -23,9 +23,7 @@ jobs:
         run: |
           # Collect all site names from both yaml files into a JSON array
           SITE_NAMES_JSON=$(
-            for yaml_file in .github/sites-1.yaml .github/sites-2.yaml; do
-              yq '.[].name' "$yaml_file"
-            done | jq -R . | jq -s .
+            yq '.[].name' .github/sites.yaml | jq -R . | jq -s .
           )
 
           # Fetch all connector indexing statuses to get cc_pair_id + name
