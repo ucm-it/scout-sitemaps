@@ -9,11 +9,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://methane.ucmerced.edu/mission</loc>
+    <loc>https://methane.ucmerced.edu/about</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://methane.ucmerced.edu/about</loc>
+    <loc>https://methane.ucmerced.edu/mission</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -21,14 +21,18 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://methane.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
     <loc>https://methane.ucmerced.edu/news</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://methane.ucmerced.edu/contact-us</loc>
+    <loc>https://methane.ucmerced.edu/research</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://methane.ucmerced.edu/research</loc>
+    <loc>https://methane.ucmerced.edu/mitigation</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -40,11 +44,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://methane.ucmerced.edu/news/2024/proof-concept-grant-awarded-unpurified-biogas-engine</loc>
+    <loc>https://methane.ucmerced.edu/news/2026/methane-mercury</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://methane.ucmerced.edu/news/2026/methane-mercury</loc>
+    <loc>https://methane.ucmerced.edu/news/2024/proof-concept-grant-awarded-unpurified-biogas-engine</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -52,19 +56,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://methane.ucmerced.edu/mitigation</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://methane.ucmerced.edu/rss.xml</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://methane.ucmerced.edu/content/sachin-giri</loc>
+    <loc>https://methane.ucmerced.edu/news/2025/researchers-developing-new-tools-fight-against-methane-emissions</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://methane.ucmerced.edu/content/jiahe-lu</loc>
+    <loc>https://methane.ucmerced.edu/news/2024/ibm-wins-doe-proposal-characterize-methane-emissions</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -72,7 +72,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://methane.ucmerced.edu/content/sachin-giri</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://methane.ucmerced.edu/content/patrick-zhang</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://methane.ucmerced.edu/content/jiahe-lu</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -80,11 +88,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://methane.ucmerced.edu/Biochar</loc>
+    <loc>https://methane.ucmerced.edu/news/2023/cmeri-gets-1m-climate-action-seed-funds</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://methane.ucmerced.edu/biogas</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://methane.ucmerced.edu/Biochar</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
 </urlset>

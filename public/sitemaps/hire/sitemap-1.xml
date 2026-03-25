@@ -22,46 +22,46 @@
     <loc>https://hire.ucmerced.edu/engr</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/ssha</loc>
-  </url>
-  <url>
     <loc>https://hire.ucmerced.edu/natsci</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/employer</loc>
+    <loc>https://hire.ucmerced.edu/ssha</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/management</loc>
   </url>
   <url>
+    <loc>https://hire.ucmerced.edu/employer</loc>
+  </url>
+  <url>
     <loc>https://hire.ucmerced.edu/students</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/students/presentation-request</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/students/handshake</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/Career_Connect%2B</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/faculty-and-staff</loc>
+    <loc>https://hire.ucmerced.edu/students/handshake</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/students/presentation-request</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/students/student-employment</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/alumni</loc>
+    <loc>https://hire.ucmerced.edu/faculty-and-staff</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/ondemand</loc>
+    <loc>https://hire.ucmerced.edu/alumni</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/node/52</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/grad</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/ondemand</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/medical-school-pathways-rooted-community-morehouse-school-medicine-wednesday-april-15th-2026</loc>
@@ -101,28 +101,46 @@
     <loc>https://hire.ucmerced.edu/engr/career-toolkit</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/students/graduate-school</loc>
-  </url>
-  <url>
     <loc>https://hire.ucmerced.edu/engr/jobs-and-internships</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/engr/your-career</loc>
+    <loc>https://hire.ucmerced.edu/students/graduate-school</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/engr/beyond-the-classroom</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/ssha/academic-advising</loc>
+    <loc>https://hire.ucmerced.edu/engr/your-career</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/ssha/research-opportunities</loc>
+    <loc>https://hire.ucmerced.edu/natsci/internships-and-opportunities</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/natsci/research-and-labs</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/natsci/health</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/ssha/academic-advising</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/ssha/job-resources</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/natsci/research-and-labs</loc>
+    <loc>https://hire.ucmerced.edu/ssha/research-opportunities</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/management/jobs-and-internships</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/management/business-employers</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/management/mentorship</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/management/orgs</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/documents/2025-2026_uc_merced_talent_acquisition_engagement_guide_6.pdf</loc>
@@ -133,25 +151,7 @@
     <lastmod>2025-07-22</lastmod>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/natsci/internships-and-opportunities</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/natsci/health</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/management/jobs-and-internships</loc>
-  </url>
-  <url>
     <loc>https://hire.ucmerced.edu/employers/resources</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/management/mentorship</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/management/business-employers</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/management/orgs</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/handshake</loc>
@@ -160,10 +160,13 @@
     <loc>https://hire.ucmerced.edu/students/four-year-plan</loc>
   </url>
   <url>
+    <loc>https://hire.ucmerced.edu/students/career-counseling</loc>
+  </url>
+  <url>
     <loc>https://hire.ucmerced.edu/ai-services-within-career-%E2%80%93-uc-merced</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/students/career-counseling</loc>
+    <loc>https://hire.ucmerced.edu/students/resume-cover-letter</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/students/iris-booth-free-professional-portraits</loc>
@@ -172,15 +175,19 @@
     <loc>https://hire.ucmerced.edu/employers</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/students/resume-cover-letter</loc>
+    <loc>https://hire.ucmerced.edu/students/student-employment/interviewing</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/career_strategies_for_freshmen_and_sophomores.pdf</loc>
+    <lastmod>2025-08-24</lastmod>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/nace_career_readiness_competencies_poster.pdf</loc>
     <lastmod>2025-08-23</lastmod>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/career_strategies_for_freshmen_and_sophomores.pdf</loc>
-    <lastmod>2025-08-24</lastmod>
+    <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/professional-skills-self-reflection_workbook.pdf</loc>
+    <lastmod>2025-08-23</lastmod>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/10_tips_for_top_notch_references.pdf</loc>
@@ -191,20 +198,16 @@
     <lastmod>2025-08-24</lastmod>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/professional-skills-self-reflection_workbook.pdf</loc>
-    <lastmod>2025-08-23</lastmod>
-  </url>
-  <url>
     <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/building_your_internship_resume.pdf</loc>
     <lastmod>2025-08-24</lastmod>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/scc_student_advisory_board_guidelines2025.2026.pdf</loc>
-    <lastmod>2025-08-23</lastmod>
-  </url>
-  <url>
     <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/rco_initiative_career_connect_2.pdf</loc>
     <lastmod>2026-02-20</lastmod>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/scc_student_advisory_board_guidelines2025.2026.pdf</loc>
+    <lastmod>2025-08-23</lastmod>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/career_communities_identity_based_resources.pdf</loc>
@@ -215,35 +218,29 @@
     <lastmod>2020-10-22</lastmod>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/industry_career_timeline_for_graduate_students.pdf</loc>
-    <lastmod>2026-02-03</lastmod>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/students/student-employment/interviewing</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/biomedical-engineering-society-professors-and-patties-monday-april-6th-2026-700-pm-830-pm</loc>
-  </url>
-  <url>
     <loc>https://hire.ucmerced.edu/career-assessments</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/meet-dutra-group-explore-summer-internships-thursday-april-2nd-2026-1100-am-1200-pm-pdt</loc>
+    <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/industry_career_timeline_for_graduate_students.pdf</loc>
+    <lastmod>2026-02-03</lastmod>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/power-series-strategy-management-program-thursday-april-23rd-2026-400-pm-500-pm-edt</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/oracle-explore-data-center-careers-thursday-march-26th-2026-400-pm-cdt-tuesday-march-31st</loc>
+    <loc>https://hire.ucmerced.edu/content/biomedical-engineering-society-professors-and-patties-monday-april-6th-2026-700-pm-830-pm</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/school-engineering-career-office-hours-engineering-internships-wednesday-march-18th-2026</loc>
+    <loc>https://hire.ucmerced.edu/content/meet-dutra-group-explore-summer-internships-thursday-april-2nd-2026-1100-am-1200-pm-pdt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/oracle-explore-data-center-careers-thursday-march-26th-2026-400-pm-cdt-tuesday-march-31st</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/glow-dark-mini-golf-wednesday-march-18th-2026-600-pm-1000-pm-pdt</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/pathways-teaching-marshall-teacher-residency-wednesday-march-18th-2026-330-pm-415-pm-pdt</loc>
+    <loc>https://hire.ucmerced.edu/content/school-engineering-career-office-hours-engineering-internships-wednesday-march-18th-2026</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/classroom-clinic-scribing-and-clinical-assistance-healthchannels-wednesday-march-18th-2026</loc>
@@ -252,7 +249,7 @@
     <loc>https://hire.ucmerced.edu/content/merrill-wealth-management-fireside-chat-inside-journey-tuesday-march-24th-2026-400-pm-500-pm</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/keyence-navigating-military-sales-career-wednesday-april-8th-2026-100-pm-130-pm-cdt</loc>
+    <loc>https://hire.ucmerced.edu/content/pathways-teaching-marshall-teacher-residency-wednesday-march-18th-2026-330-pm-415-pm-pdt</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/2026-goldman-sachs-china-possibilities-session-friday-april-24th-2026-930-am-1100-am-hkt</loc>
@@ -261,19 +258,22 @@
     <loc>https://hire.ucmerced.edu/content/keyence-navigating-military-sales-career-wednesday-april-8th-2026-130-pm-130-pm-cdt</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/women-wealth-financial-advisor-career-path-ubs-wealth-advice-center-monday-march-30th-2026</loc>
+    <loc>https://hire.ucmerced.edu/content/keyence-navigating-military-sales-career-wednesday-april-8th-2026-100-pm-130-pm-cdt</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/public-health-society-mock-interview-workshop-monday-march-9th-2026-600-pm-700-pm-pdt</loc>
+    <loc>https://hire.ucmerced.edu/content/women-wealth-financial-advisor-career-path-ubs-wealth-advice-center-monday-march-30th-2026</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/delta-epsilon-mu-pre-health-post-grad-conference-wednesday-march-11th-2026-630-pm-730-pm-pdt</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/upcoming-events?page=2</loc>
+    <loc>https://hire.ucmerced.edu/content/public-health-society-mock-interview-workshop-monday-march-9th-2026-600-pm-700-pm-pdt</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/upcoming-events?page=1</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/upcoming-events?page=2</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/upcoming-events?page=3</loc>
@@ -282,16 +282,19 @@
     <loc>https://hire.ucmerced.edu/upcoming-events?page=4</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/upcoming-events?page=7</loc>
-  </url>
-  <url>
     <loc>https://hire.ucmerced.edu/upcoming-events?page=5</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/upcoming-events?page=6</loc>
   </url>
   <url>
+    <loc>https://hire.ucmerced.edu/upcoming-events?page=7</loc>
+  </url>
+  <url>
     <loc>https://hire.ucmerced.edu/upcoming-events?page=8</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/upcoming-events?page=12</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/bioengineering_careers_rba08.pdf</loc>
@@ -302,7 +305,8 @@
     <lastmod>2025-07-24</lastmod>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/upcoming-events?page=12</loc>
+    <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/civil_engineering_career_guide.pdf</loc>
+    <lastmod>2025-07-24</lastmod>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/computer_science_and_engineering_career_guide.pdf</loc>
@@ -313,16 +317,12 @@
     <lastmod>2025-07-24</lastmod>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/civil_engineering_career_guide.pdf</loc>
-    <lastmod>2025-07-24</lastmod>
+    <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/electrical_engineering_careers.pdf</loc>
+    <lastmod>2025-07-23</lastmod>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/environmental_engineering_career_guide.pdf</loc>
     <lastmod>2025-07-24</lastmod>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/electrical_engineering_careers.pdf</loc>
-    <lastmod>2025-07-23</lastmod>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/materials_science_and_engineering_career_guide.pdf</loc>
@@ -377,12 +377,12 @@
     <lastmod>2025-08-06</lastmod>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/political_science_career_guide.pdf</loc>
-    <lastmod>2025-10-21</lastmod>
-  </url>
-  <url>
     <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/philosophy_career_guide.pdf</loc>
     <lastmod>2025-08-06</lastmod>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/political_science_career_guide.pdf</loc>
+    <lastmod>2025-10-21</lastmod>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/psychology_career_guide.pdf</loc>
@@ -441,19 +441,19 @@
     <lastmod>2025-07-31</lastmod>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/physics_career_guide_0.pdf</loc>
-    <lastmod>2025-10-07</lastmod>
-  </url>
-  <url>
     <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/environmental_systems_science_career_guide_0.pdf</loc>
     <lastmod>2025-10-07</lastmod>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/resume_action_verbs_.pdf</loc>
-    <lastmod>2025-07-23</lastmod>
+    <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/physics_career_guide_0.pdf</loc>
+    <lastmod>2025-10-07</lastmod>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/resume_rubric_.pdf</loc>
+    <lastmod>2025-07-23</lastmod>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/resume_action_verbs_.pdf</loc>
     <lastmod>2025-07-23</lastmod>
   </url>
   <url>
@@ -469,27 +469,24 @@
     <lastmod>2020-09-29</lastmod>
   </url>
   <url>
+    <loc>https://hire.ucmerced.edu/engr/your-career/benefits</loc>
+  </url>
+  <url>
     <loc>https://hire.ucmerced.edu/engr/your-career/first-year</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/engr/your-career/benefits</loc>
+    <loc>https://hire.ucmerced.edu/engr/your-career/career-readiness</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/uc_investments_academy_fall_2025.pdf</loc>
     <lastmod>2025-08-27</lastmod>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/engr/your-career/career-readiness</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/employers/events</loc>
-  </url>
-  <url>
     <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/business_management_economics_career_guide_0.pdf</loc>
     <lastmod>2025-08-26</lastmod>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/employers/posting-positions</loc>
+    <loc>https://hire.ucmerced.edu/employers/events</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/sites/hire.ucmerced.edu/files/page/documents/resume_guide_basic_chronological.pdf</loc>
@@ -524,11 +521,14 @@
     <lastmod>2024-03-08</lastmod>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/employers/corporate-partners</loc>
-  </url>
-  <url>
     <loc>https://hire.ucmerced.edu/sites/hire.ucmerced.edu/files/page/documents/cover_letter_guide.pdf</loc>
     <lastmod>2024-03-02</lastmod>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/employers/posting-positions</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/employers/corporate-partners</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/sites/g/files/ufvvjh1016/f/page/documents/14_tips_for_a_successful_interview.pdf</loc>
@@ -551,6 +551,66 @@
     <lastmod>2025-08-25</lastmod>
   </url>
   <url>
+    <loc>https://hire.ucmerced.edu/content/signals-insights-exploring-sensors-and-data-acquisition-tuesday-april-21st-2026-1200-pm-200</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/power-finance-future-enterprise-credit-global-payment-solutions-tuesday-april-14th-2026-400</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/power-solve-scale-secure-global-technology-thursday-april-9th-2026-400-pm-500-pm-edt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/power-behind-business-corporate-functions-global-operations-tuesday-april-7th-2026-400-pm</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/power-trust-team-thursday-march-26th-2026-400-pm-500-pm-edt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/power-realize-your-potential-thursday-march-19th-2026-400-pm-500-pm-edt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/power-deliver-together-tuesday-march-17th-2026-400-pm-500-pm-edt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/dinner-champvocates-alumni-career-chat-networking-dinner-thursday-march-5th-2026-600-pm-730</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/career-connect-learn-how-apply-thursday-march-19th-2026-200-pm-300-pm-pdt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/future-forward-bank-america-preparing-success-friday-march-27th-2026-400-pm-edt-wednesday</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/engr-194-check-wednesday-february-25th-2026-300-pm-445-pm-pst</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/pnnl-career-connections-spring-2026-monday-march-9th-2026-100-pm-330-pm-pdt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/global-mentorship-initiative-gmi-overview-session-wednesday-march-11th-2026-200-pm-300-pm</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/pathways-teaching-marshall-teacher-residency-wednesday-march-4th-2026-330-pm-415-pm-pst</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/pcc-corporate-development-programs-information-session-friday-february-27th-2026-1030-am</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/impact-event-feb-25-2026-wednesday-february-25th-2026-400-pm-530-pm-cst</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/sentara-rn-virtual-lunch-learn-friday-march-6th-2026-1200-pm-100-pm-est</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/registered-nurse-lunch-learn-sentara-tuesday-march-3rd-2026-1200-pm-100-pm-est</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/teacher-pathways-non-traditional-teachers-navigating-alternate-routes-thursday-april-9th</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/teacher-pathways-non-traditional-teachers-navigating-alternate-routes-wednesday-april-1st</loc>
+  </url>
+  <url>
     <loc>https://hire.ucmerced.edu/content/teacher-pathways-non-traditional-teachers-navigating-alternate-routes-tuesday-march-24th</loc>
   </url>
   <url>
@@ -560,13 +620,16 @@
     <loc>https://hire.ucmerced.edu/content/teacher-pathways-non-traditional-teachers-navigating-alternate-routes-tuesday-march-10th</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/your-journey-city-year-pre-law-pre-med-wednesday-march-4th-2026-500-pm-600-pm-est</loc>
-  </url>
-  <url>
     <loc>https://hire.ucmerced.edu/content/teacher-pathways-non-traditional-teachers-navigating-alternate-routes-tuesday-march-3rd-2026</loc>
   </url>
   <url>
+    <loc>https://hire.ucmerced.edu/content/your-journey-city-year-pre-law-pre-med-wednesday-march-4th-2026-500-pm-600-pm-est</loc>
+  </url>
+  <url>
     <loc>https://hire.ucmerced.edu/content/career-connect-learn-how-apply-thursday-february-26th-2026-1100-am-1200-pm-pst</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/career-connect-learn-how-apply-tuesday-february-17th-2026-300-pm-400-pm-pst</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/career-insight-series-%E2%80%93-leveraging-ai-nam-time-friendly-friday-april-10th-2026-1200-pm-100</loc>
@@ -581,19 +644,16 @@
     <loc>https://hire.ucmerced.edu/content/pathways-teaching-marshall-teacher-residency-wednesday-february-18th-2026-330-pm-415-pm-pst</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/industry-or-academia-explore-your-career-pathway-wednesday-february-11th-2026-1100-am-1200</loc>
+    <loc>https://hire.ucmerced.edu/content/university-medicine-health-sciences-umhs-information-session-wednesday-february-18th-2026</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/university-medicine-health-sciences-umhs-information-session-wednesday-february-18th-2026</loc>
+    <loc>https://hire.ucmerced.edu/content/industry-or-academia-explore-your-career-pathway-wednesday-february-11th-2026-1100-am-1200</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/wtw-national-processing-group-online-webinar-summer-2026-internship-opportunities-thursday</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-california-state-job-application-friday-march-20th</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/career-connect-learn-how-apply-tuesday-february-17th-2026-300-pm-400-pm-pst</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-leadership-and-ai-resume-and-interviews-friday</loc>
@@ -611,85 +671,28 @@
     <loc>https://hire.ucmerced.edu/content/experience-degrees-natural-sciences-career-expo-wednesday-april-1st-2026-1245-pm-500-pm-pdt</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/power-finance-future-enterprise-credit-global-payment-solutions-tuesday-april-14th-2026-400</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/power-behind-business-corporate-functions-global-operations-tuesday-april-7th-2026-400-pm</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/power-solve-scale-secure-global-technology-thursday-april-9th-2026-400-pm-500-pm-edt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/power-trust-team-thursday-march-26th-2026-400-pm-500-pm-edt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/power-realize-your-potential-thursday-march-19th-2026-400-pm-500-pm-edt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/dinner-champvocates-alumni-career-chat-networking-dinner-thursday-march-5th-2026-600-pm-730</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/signals-insights-exploring-sensors-and-data-acquisition-tuesday-april-21st-2026-1200-pm-200</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/power-deliver-together-tuesday-march-17th-2026-400-pm-500-pm-edt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/engr-194-check-wednesday-february-25th-2026-300-pm-445-pm-pst</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/career-connect-learn-how-apply-thursday-march-19th-2026-200-pm-300-pm-pdt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/pnnl-career-connections-spring-2026-monday-march-9th-2026-100-pm-330-pm-pdt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/global-mentorship-initiative-gmi-overview-session-wednesday-march-11th-2026-200-pm-300-pm</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/pathways-teaching-marshall-teacher-residency-wednesday-march-4th-2026-330-pm-415-pm-pst</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/future-forward-bank-america-preparing-success-friday-march-27th-2026-400-pm-edt-wednesday</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/pcc-corporate-development-programs-information-session-friday-february-27th-2026-1030-am</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/sentara-rn-virtual-lunch-learn-friday-march-6th-2026-1200-pm-100-pm-est</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/registered-nurse-lunch-learn-sentara-tuesday-march-3rd-2026-1200-pm-100-pm-est</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/teacher-pathways-non-traditional-teachers-navigating-alternate-routes-thursday-april-9th</loc>
-  </url>
-  <url>
     <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-job-search-friday-may-1st-2026-1200-pm-100-pm-pdt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/impact-event-feb-25-2026-wednesday-february-25th-2026-400-pm-530-pm-cst</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-finding-student-job-uc-merced-friday-april-17th</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/teacher-pathways-non-traditional-teachers-navigating-alternate-routes-wednesday-april-1st</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-discovering-new-career-options-and-majors-friday</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-linkedin-your-digital-presence-friday-april-24th</loc>
   </url>
   <url>
+    <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-finding-student-job-uc-merced-friday-april-17th</loc>
+  </url>
+  <url>
     <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-essential-skills-employers-seek-2026-friday-april</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-discovering-new-career-options-and-majors-friday</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/ncal-kaiser-permanente-assoc-post-masters-mh-fellowship-info-session-tuesday-february-3rd</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-creating-specific-resume-jobs-friday-february-27th</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/ncal-kaiser-permanente-assoc-post-masters-mh-fellowship-info-session-tuesday-february-3rd</loc>
+    <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-networking-career-fairs-conferences-friday-february</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-how-discover-companys-profile-friday-february-13th</loc>
@@ -698,25 +701,22 @@
     <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-research-experience-application-friday-february-6th</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-networking-career-fairs-conferences-friday-february</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/keyence-career-fair-tips-tricks-wednesday-february-4th-2026-100-pm-130-pm-cst</loc>
-  </url>
-  <url>
     <loc>https://hire.ucmerced.edu/content/%E2%AD%90summer-2026-internships-valley-water-virtual-info-session-wednesday-january-28th-2026-230</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/pathways-teaching-marshall-teacher-residency-wednesday-january-28th-2026-330-pm-415-pm-pst</loc>
   </url>
   <url>
+    <loc>https://hire.ucmerced.edu/content/keyence-career-fair-tips-tricks-wednesday-february-4th-2026-100-pm-130-pm-cst</loc>
+  </url>
+  <url>
     <loc>https://hire.ucmerced.edu/content/pathways-teaching-marshall-teacher-residency-wednesday-january-14th-2026-330-pm-415-pm-pst</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/markets-fundamentals-trading-simulation-workshop-wednesday-january-28th-2026-400-pm-600-pm</loc>
+    <loc>https://hire.ucmerced.edu/content/teacher-pathways-city-year-wednesday-january-28th-2026-500-pm-600-pm-est</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/teacher-pathways-city-year-wednesday-january-28th-2026-500-pm-600-pm-est</loc>
+    <loc>https://hire.ucmerced.edu/content/markets-fundamentals-trading-simulation-workshop-wednesday-january-28th-2026-400-pm-600-pm</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/banking-fundamentals-deal-analysis-workshop-monday-january-26th-2026-400-pm-est-wednesday</loc>
@@ -740,40 +740,40 @@
     <loc>https://hire.ucmerced.edu/content/teacher-pathways-non-traditional-teachers-navigating-alternate-routes-wednesday-february</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/teacher-pathways-non-traditional-teachers-navigating-alternate-routes-thursday-january-29th</loc>
-  </url>
-  <url>
     <loc>https://hire.ucmerced.edu/content/teacher-pathways-non-traditional-teachers-navigating-alternate-routes-thursday-february-5th</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/teacher-pathways-non-traditional-teachers-navigating-alternate-routes-tuesday-january-13th</loc>
+    <loc>https://hire.ucmerced.edu/content/teacher-pathways-non-traditional-teachers-navigating-alternate-routes-thursday-january-29th</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/teacher-pathways-non-traditional-teachers-navigating-alternate-routes-wednesday-january-21st</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/hidden-path-how-liberal-arts-majors-win-tech-sales-friday-january-9th-2026-1130-am-1200-pm</loc>
+    <loc>https://hire.ucmerced.edu/content/teacher-pathways-non-traditional-teachers-navigating-alternate-routes-tuesday-january-13th</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/make-impact-boosterthon-hiring-changemakers-julyaugust-roles-wednesday-may-20th-2026-430-pm</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/experience-ssha-degrees-school-social-sciences-humanities-and-arts-wednesday-march-4th-2026</loc>
+    <loc>https://hire.ucmerced.edu/content/hidden-path-how-liberal-arts-majors-win-tech-sales-friday-january-9th-2026-1130-am-1200-pm</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/virtual-resume-help-session-thursday-january-15th-2026-100-pm-230-pm-pst</loc>
+    <loc>https://hire.ucmerced.edu/content/experience-ssha-degrees-school-social-sciences-humanities-and-arts-wednesday-march-4th-2026</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/virtual-resume-help-session-thursday-january-22nd-2026-300-pm-430-pm-pst</loc>
   </url>
   <url>
+    <loc>https://hire.ucmerced.edu/content/virtual-resume-help-session-thursday-january-15th-2026-100-pm-230-pm-pst</loc>
+  </url>
+  <url>
     <loc>https://hire.ucmerced.edu/content/virtual-resume-help-session-thursday-january-8th-2026-800-am-1030-am-pst</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/pathways-teaching-marshall-teacher-residency-wednesday-january-7th-2026-330-pm-415-pm-pst</loc>
+    <loc>https://hire.ucmerced.edu/content/uc-merceds-spring-2026-student-job-fair-thursday-april-23rd-2026-1000-am-200-pm-pdt</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/uc-merceds-spring-2026-student-job-fair-thursday-april-23rd-2026-1000-am-200-pm-pdt</loc>
+    <loc>https://hire.ucmerced.edu/content/pathways-teaching-marshall-teacher-residency-wednesday-january-7th-2026-330-pm-415-pm-pst</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/engineering-industry-networking-expo-monday-february-23rd-2026-300-pm-600-pm-pst</loc>
@@ -782,19 +782,145 @@
     <loc>https://hire.ucmerced.edu/content/engineers-week-industry-networking-expo-monday-february-23rd-2026-300-pm-600-pm-pst</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/morgan-stanley-investment-banking-summer-analyst-application-preparedness-new-york-wednesday</loc>
+    <loc>https://hire.ucmerced.edu/content/morgan-stanley-investment-banking-summer-analyst-application-preparedness-regional-thursday</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/morgan-stanley-investment-banking-summer-analyst-application-preparedness-regional-thursday</loc>
+    <loc>https://hire.ucmerced.edu/content/morgan-stanley-investment-banking-summer-analyst-application-preparedness-new-york-wednesday</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/graduate-student-meet-llnl-data-science-challenge-thursday-february-5th-2026-400-pm-450-pm</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/how-do-i-become-teacher-nyu-teacher-residency-open-office-hours-thursday-november-13th-2025</loc>
+    <loc>https://hire.ucmerced.edu/content/lawrence-livermore-national-labs-data-science-challenge-info-session-thursday-february-5th</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/virtual-coffee-chat-wscribeamerica-monday-december-22nd-2025-230-pm-330-pm-cst</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/experience-degrees-natural-sciences-career-expo-wednesday-april-1st-2026-1230-pm-500-pm-pdt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/pathways-teaching-marshall-teacher-residency-wednesday-december-3rd-2025-330-pm-415-pm-pst</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/uc-berkeley-master-arts-statistics-virtual-info-session-ucm-tuesday-december-9th-2025-100-pm</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/campus-careers-ai-wednesday-december-17th-2025-600-pm-620-pm-pst</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/registered-nurse-hiring-event-hampton-roads-tuesday-january-6th-2026-1000-am-1000-am-est</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/interview-workshop-information-session-december-graduates-wednesday-november-19th-2025-500</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/registered-nurse-hiring-event-sentara-martha-jefferson-sentara-rmh-tuesday-december-16th</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/fastenal-career-trek-monday-november-17th-2025-830-am-200-pm-pst</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/pathway-internship-search-success-thursday-november-13th-2025-530-pm-730-pm-pst</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/pricing-and-productivity-economics-ai-monday-november-17th-2025-1000-am-1100-am-pst</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/morgan-stanley-research-ai-and-disruption-tuesday-november-18th-2025-500-pm-600-pm-est</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/fao-schwarz-fellowship-social-impact-info-session-january-2026-tuesday-january-13th-2026-300</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/pathways-teaching-marshall-teacher-residency-wednesday-november-5th-2025-330-pm-415-pm-pst</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/bank-america-amplifyme-markets-technical-workshop-wednesday-november-12th-2025-100-pm-300-pm</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/amplifyme-banking-technical-workshop-tuesday-november-11th-2025-100-pm-300-pm-est</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/virtual-career-planning-office-hours-handshake%E2%80%99s-early-career-expert-tuesday-november-4th</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/driving-success-toyota-rd-graduate-school-and-personal-statement-workshop-tuesday-november</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/virtual-info-session-capital-fellows-maddy-institute-thursday-november-6th-2025-1200-pm-100</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/upcoming-events?page=9</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/university-medicine-and-health-sciences-information-session-wednesday-november-19th-2025-330</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/university-medicine-and-health-sciences-umhs-fall-2025-information-session-wednesday</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/new-york-fed-making-missing-markets-connecting-communities-and-capital-wednesday-november</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/virtual-registered-nurse-hiring-event-sentara-rmh-medical-center-wednesday-november-5th-2025</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/wtw-national-processing-group-webinar-summer-2026-internship-opportunities-wednesday</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/amazon-warehouse-associate-information-session-military-family-appreciation-month-thursday</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/ai-or-i-keeping-your-integrity-age-artificial-intelligence-monday-october-27th-2025-300-pm</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/pcc-corporate-development-programs-information-session-wednesday-october-29th-2025-300-pm</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/virtual-info-session-capital-fellows-capitol-lgbtq-association-tuesday-october-28th-2025</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/virtual-info-session-capital-fellows-asian-pacific-islander-capitol-association-monday</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/medtech-industry-workshop-tuesday-november-4th-2025-600-pm-800-pm-pst</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/gpa-cetl-principles-pedagogy-workshop-series-tuesday-november-25th-2025-100-pm-200-pm-pst</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/gpa-cetl-principles-pedagogy-workshop-series-tuesday-october-28th-2025-100-pm-200-pm-pdt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/missionbrain-ucm-research-conference-saturday-october-25th-2025-900-am-300-pm-pdt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/delta-sigma-pi-polish-and-publish-resume-linkedin-lab-friday-october-24th-2025-430-pm-630-pm</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/nov-2025-careers-ssha-degrees-tuesday-november-18th-2025-400-pm-500-pm-pst</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/pawsibilities-veterinary-graduate-school-tufts-university-learn-network-tuesday-october-21st</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/pathways-teaching-marshall-teacher-residency-wednesday-october-22nd-2025-330-pm-430-pm-pdt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/nsbe-career-fairregion-v-conference-saturday-november-22nd-2025-1000-am-530-pm-cst</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/shpe-career-fairnational-conference-friday-october-31st-2025-900-am-cdt-saturday-november</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/upcoming-events?page=10</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/we25-career-fairnational-conference-thursday-october-23rd-2025-200-pm-cdt-friday-october</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/how-do-i-become-teacher-nyu-teacher-residency-open-office-hours-thursday-november-13th-2025</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/how-do-i-become-teacher-nyu-teacher-residency-open-office-hours-wednesday-november-5th-2025</loc>
@@ -830,10 +956,10 @@
     <loc>https://hire.ucmerced.edu/content/2025-morgan-stanley-early-insights-session-1-tuesday-october-28th-2025-500-pm-700-pm-edt</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/pathways-teaching-marshall-teacher-residency-wednesday-october-8th-2025-330-pm-415-pm-pdt</loc>
+    <loc>https://hire.ucmerced.edu/content/morgan-stanley-2025-early-insights-monday-october-27th-2025-900-am-edt-friday-october-31st</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/morgan-stanley-2025-early-insights-monday-october-27th-2025-900-am-edt-friday-october-31st</loc>
+    <loc>https://hire.ucmerced.edu/content/pathways-teaching-marshall-teacher-residency-wednesday-october-8th-2025-330-pm-415-pm-pdt</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/ai-analytics-ibm%E2%80%99s-guide-adding-demand-skills-your-resume-wednesday-october-29th-2025-100-pm</loc>
@@ -845,139 +971,13 @@
     <loc>https://hire.ucmerced.edu/content/behind-brand-tuesday-november-4th-2025-200-pm-330-pm-cst</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/esri-information-session-esri-glance-uc-merced-students-tuesday-october-28th-2025-400-pm-500</loc>
-  </url>
-  <url>
     <loc>https://hire.ucmerced.edu/content/nyt-business-internship-info-session-tuesday-october-7th-2025-500-pm-600-pm-edt</loc>
   </url>
   <url>
+    <loc>https://hire.ucmerced.edu/content/esri-information-session-esri-glance-uc-merced-students-tuesday-october-28th-2025-400-pm-500</loc>
+  </url>
+  <url>
     <loc>https://hire.ucmerced.edu/upcoming-events?page=11</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/upcoming-events?page=9</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/upcoming-events?page=10</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/lawrence-livermore-national-labs-data-science-challenge-info-session-thursday-february-5th</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/virtual-coffee-chat-wscribeamerica-monday-december-22nd-2025-230-pm-330-pm-cst</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/experience-degrees-natural-sciences-career-expo-wednesday-april-1st-2026-1230-pm-500-pm-pdt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/pathways-teaching-marshall-teacher-residency-wednesday-december-3rd-2025-330-pm-415-pm-pst</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/uc-berkeley-master-arts-statistics-virtual-info-session-ucm-tuesday-december-9th-2025-100-pm</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/campus-careers-ai-wednesday-december-17th-2025-600-pm-620-pm-pst</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/interview-workshop-information-session-december-graduates-wednesday-november-19th-2025-500</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/registered-nurse-hiring-event-hampton-roads-tuesday-january-6th-2026-1000-am-1000-am-est</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/registered-nurse-hiring-event-sentara-martha-jefferson-sentara-rmh-tuesday-december-16th</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/fastenal-career-trek-monday-november-17th-2025-830-am-200-pm-pst</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/pathway-internship-search-success-thursday-november-13th-2025-530-pm-730-pm-pst</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/fao-schwarz-fellowship-social-impact-info-session-january-2026-tuesday-january-13th-2026-300</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/morgan-stanley-research-ai-and-disruption-tuesday-november-18th-2025-500-pm-600-pm-est</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/pricing-and-productivity-economics-ai-monday-november-17th-2025-1000-am-1100-am-pst</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/pathways-teaching-marshall-teacher-residency-wednesday-november-5th-2025-330-pm-415-pm-pst</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/bank-america-amplifyme-markets-technical-workshop-wednesday-november-12th-2025-100-pm-300-pm</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/virtual-career-planning-office-hours-handshake%E2%80%99s-early-career-expert-tuesday-november-4th</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/driving-success-toyota-rd-graduate-school-and-personal-statement-workshop-tuesday-november</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/amplifyme-banking-technical-workshop-tuesday-november-11th-2025-100-pm-300-pm-est</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/university-medicine-and-health-sciences-umhs-fall-2025-information-session-wednesday</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/virtual-info-session-capital-fellows-maddy-institute-thursday-november-6th-2025-1200-pm-100</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/university-medicine-and-health-sciences-information-session-wednesday-november-19th-2025-330</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/new-york-fed-making-missing-markets-connecting-communities-and-capital-wednesday-november</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/virtual-registered-nurse-hiring-event-sentara-rmh-medical-center-wednesday-november-5th-2025</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/wtw-national-processing-group-webinar-summer-2026-internship-opportunities-wednesday</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/amazon-warehouse-associate-information-session-military-family-appreciation-month-thursday</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/pcc-corporate-development-programs-information-session-wednesday-october-29th-2025-300-pm</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/ai-or-i-keeping-your-integrity-age-artificial-intelligence-monday-october-27th-2025-300-pm</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/virtual-info-session-capital-fellows-capitol-lgbtq-association-tuesday-october-28th-2025</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/medtech-industry-workshop-tuesday-november-4th-2025-600-pm-800-pm-pst</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/virtual-info-session-capital-fellows-asian-pacific-islander-capitol-association-monday</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/gpa-cetl-principles-pedagogy-workshop-series-tuesday-november-25th-2025-100-pm-200-pm-pst</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/gpa-cetl-principles-pedagogy-workshop-series-tuesday-october-28th-2025-100-pm-200-pm-pdt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/missionbrain-ucm-research-conference-saturday-october-25th-2025-900-am-300-pm-pdt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/delta-sigma-pi-polish-and-publish-resume-linkedin-lab-friday-october-24th-2025-430-pm-630-pm</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/pathways-teaching-marshall-teacher-residency-wednesday-october-22nd-2025-330-pm-430-pm-pdt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/nov-2025-careers-ssha-degrees-tuesday-november-18th-2025-400-pm-500-pm-pst</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/pawsibilities-veterinary-graduate-school-tufts-university-learn-network-tuesday-october-21st</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/nsbe-career-fairregion-v-conference-saturday-november-22nd-2025-1000-am-530-pm-cst</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/shpe-career-fairnational-conference-friday-october-31st-2025-900-am-cdt-saturday-november</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/dos-and-donts-situational-technical-and-behavioral-interviews-tuesday-october-14th-2025-1045</loc>
@@ -998,13 +998,16 @@
     <loc>https://hire.ucmerced.edu/content/power-navigate-deal-global-corporate-investment-banking-wednesday-november-5th-2025-400-pm</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/power-finance-future-enterprise-credit-global-payment-solutions-thursday-october-9th-2025</loc>
-  </url>
-  <url>
     <loc>https://hire.ucmerced.edu/content/power-move-markets-global-markets-global-research-tuesday-november-4th-2025-400-pm-500-pm</loc>
   </url>
   <url>
+    <loc>https://hire.ucmerced.edu/content/power-finance-future-enterprise-credit-global-payment-solutions-thursday-october-9th-2025</loc>
+  </url>
+  <url>
     <loc>https://hire.ucmerced.edu/content/power-solve-scale-secure-global-technology-tuesday-october-7th-2025-400-pm-500-pm-edt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/power-behind-business-corporate-functions-global-operations-thursday-october-2nd-2025-400-pm</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/exploring-majors-and-career-paths-thursday-october-2nd-2025-630-pm-745-pm-pdt</loc>
@@ -1013,13 +1016,10 @@
     <loc>https://hire.ucmerced.edu/content/alumni-networking-event-saturday-september-27th-2025-300-pm-700-pm-pdt</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/power-behind-business-corporate-functions-global-operations-thursday-october-2nd-2025-400-pm</loc>
+    <loc>https://hire.ucmerced.edu/content/pathway-aiaa-gmis-saturday-september-27th-2025-400-pm-600-pm-pdt</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/pnnl-career-connections-fall-2025-monday-october-13th-2025-100-pm-330-pm-pdt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/pathway-aiaa-gmis-saturday-september-27th-2025-400-pm-600-pm-pdt</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/chart-success-medical-scribing-101-friday-october-24th-2025-230-pm-315-pm-cdt</loc>
@@ -1049,22 +1049,22 @@
     <loc>https://hire.ucmerced.edu/content/coffee-career-chats-meet-your-engineering-career-specialist-wednesday-october-15th-2025-900</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-finding-experiential-learning-opportunities-friday</loc>
-  </url>
-  <url>
     <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-strategies-around-career-goalsetting-friday</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-entrepreneurship-and-market-research-friday-october</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-interview-and-star-method-friday-september-26th</loc>
+    <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-finding-experiential-learning-opportunities-friday</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-identifying-your-major-and-career-friday-october</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-graduate-school-application-friday-october-3rd-2025</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-interview-and-star-method-friday-september-26th</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-networking-conferences-career-fairs-friday</loc>
@@ -1089,6 +1089,126 @@
     <lastmod>2025-08-24</lastmod>
   </url>
   <url>
+    <loc>https://hire.ucmerced.edu/content/2026-sf-fed-summer-internship-opportunities-info-session-virtual-wednesday-september-24th</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/2026-sf-fed-summer-internship-opportunities-info-session-virtual-friday-september-19th-2025</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/ravenswood-project-webinar-monday-september-22nd-2025-1100-am-1130-am-pdt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/handshake-101-your-fall-recruitment-survival-guide-thursday-october-2nd-2025-1215-pm-100-pm</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/morgan-stanley-women-wealth-lift-college-leadership-academy-tuesday-october-28th-2025-1200</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/public-accounting-vs-manufacturing-finance-precision-castparts-corp-tuesday-september-30th</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/undergrad-demand-careers-northeastern-silicon-valley-networkingoffice-hours-tuesday-november</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/afternoon-bites-insights-northeastern-silicon-valley-info-session-office-hours-tuesday</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/undergrad-demand-careers-northeastern-silicon-valley-info-session-tuesday-november-4th-2025</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/undergrad-demand-careers-ne-silicon-valley-info-session-office-hours-tuesday-november-4th</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/amazon-september-information-session-explore-warehouse-associate-opportunities-thursday</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/keep-conversation-going-sieml-networking-qa-wednesday-september-24th-2025-300-pm-330-pm-pdt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/launch-your-teaching-career-pathways-marshall-teacher-residency-wednesday-october-1st-2025</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/sandia-ca-spring-2026-city-college-university-info-session-wednesday-january-7th-2026-1000</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/sandia-ca-fall-2025-city-college-university-info-session-tuesday-december-2nd-2025-100-pm</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/sandia-ca-fall-2025-city-college-university-info-session-wednesday-november-19th-2025-1000</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/sandia-ca-fall-2025-city-college-university-info-session-thursday-october-23rd-2025-1200-pm</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/biotechnology-industry-basics-mindset-friday-september-26th-2025-200-pm-300-pm-pdt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/sf-fed-info-session-start-your-career-economic-research-91825-thursday-september-18th-2025</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/career-insights-meet-business-emea-tuesday-october-7th-2025-500-pm-600-pm-bst</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/growing-health-leaders-conference-uc-merced-central-valley-health-network-thursday-september</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/2025-morgan-stanley-firmwide-presentation-session-3-thursday-september-18th-2025-530-pm-630</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/career-insights-ai-your-future-finance-monday-september-22nd-2025-530-pm-630-pm-edt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/qt-career-day-community-building-networking-authentically-tuesday-september-23rd-2025-300-pm</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/qt-career-day-authentic-unshaken-building-qt-career-resilience-tuesday-september-23rd-2025</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/scribeamerica-chart-your-course-medical-scribing-101-friday-september-19th-2025-200-pm-300</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/bank-america-campus-virtual-insight-series-power-trust-team-tuesday-september-30th-2025-400</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/bank-america-campus-virtual-insight-series-power-realize-your-potential-tuesday-september</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/sandia-national-laboratory-panel-and-meet-and-greet-graduate-students-thursday-october-23rd</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/ask-admissions-open-qa-session-saturday-september-27th-2025-1100-am-1145-am-edt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/fao-schwarz-fellowship-social-impact-info-session-november-2025-wednesday-november-19th-2025</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/career-insights-meet-our-recruiters-2-citi-asia-thursday-september-25th-2025-1000-am-1045-am</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/experience-ssha-degrees-school-social-sciences-humanities-and-arts-wednesday-october-29th</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/ask-admissions-deadline-edition-open-qa-session-wednesday-october-1st-2025-400-pm-445-pm-edt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/girls-who-invest-application-workshop-monday-september-29th-2025-600-pm-645-pm-edt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/girls-who-invest-information-session-tuesday-september-23rd-2025-600-pm-645-pm-edt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/girls-who-invest-application-workshop-monday-september-22nd-2025-400-pm-445-pm-edt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/girls-who-invest-information-session-thursday-september-18th-2025-400-pm-445-pm-edt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/genentech-career-trek-friday-september-19th-2025-930-am-300-pm-pdt</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/sentara-rn-student-fall-virtual-learning-manager-interview-preparation-tuesday-october-28th</loc>
+  </url>
+  <url>
     <loc>https://hire.ucmerced.edu/content/sentara-rn-student-fall-virtual-learning-manager-interview-preparation-wednesday-october-1st</loc>
   </url>
   <url>
@@ -1104,10 +1224,10 @@
     <loc>https://hire.ucmerced.edu/content/sentara-rn-student-fall-virtual-learning-lunch-learn-tuesday-november-11th-2025-1200-pm-100</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/sentara-rn-student-fall-virtual-learning-lunch-learn-thursday-october-9th-2025-1200-pm-100</loc>
+    <loc>https://hire.ucmerced.edu/content/sentara-rn-student-fall-virtual-learning-lunch-learn-thursday-november-6th-2025-1200-pm-100</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/sentara-rn-student-fall-virtual-learning-lunch-learn-thursday-november-6th-2025-1200-pm-100</loc>
+    <loc>https://hire.ucmerced.edu/content/sentara-rn-student-fall-virtual-learning-lunch-learn-thursday-october-9th-2025-1200-pm-100</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/impactful-careers-california-state-auditors-office-tuesday-october-28th-2025-1200-pm-100-pm</loc>
@@ -1116,13 +1236,13 @@
     <loc>https://hire.ucmerced.edu/content/career-toolkit-winter-break-thursday-november-13th-2025-200-pm-300-pm-pst</loc>
   </url>
   <url>
-    <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-get-ready-career-fair-friday-march-6th-2026-1200-pm</loc>
-  </url>
-  <url>
     <loc>https://hire.ucmerced.edu/content/handshake-career-internship-fair-prep-monday-september-22nd-2025-100-pm-200-pm-pdt</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-your-guide-federal-usa-resume-friday-march-6th-2026</loc>
+  </url>
+  <url>
+    <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-get-ready-career-fair-friday-march-6th-2026-1200-pm</loc>
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/professional-development-workshop-series-how-get-campus-research-friday-october-31st-2025</loc>
@@ -1147,125 +1267,5 @@
   </url>
   <url>
     <loc>https://hire.ucmerced.edu/content/networking-101-tuesday-october-28th-2025-1200-pm-200-pm-pdt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/2026-sf-fed-summer-internship-opportunities-info-session-virtual-friday-september-19th-2025</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/2026-sf-fed-summer-internship-opportunities-info-session-virtual-wednesday-september-24th</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/ravenswood-project-webinar-monday-september-22nd-2025-1100-am-1130-am-pdt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/handshake-101-your-fall-recruitment-survival-guide-thursday-october-2nd-2025-1215-pm-100-pm</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/public-accounting-vs-manufacturing-finance-precision-castparts-corp-tuesday-september-30th</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/morgan-stanley-women-wealth-lift-college-leadership-academy-tuesday-october-28th-2025-1200</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/undergrad-demand-careers-northeastern-silicon-valley-networkingoffice-hours-tuesday-november</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/afternoon-bites-insights-northeastern-silicon-valley-info-session-office-hours-tuesday</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/undergrad-demand-careers-ne-silicon-valley-info-session-office-hours-tuesday-november-4th</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/undergrad-demand-careers-northeastern-silicon-valley-info-session-tuesday-november-4th-2025</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/amazon-september-information-session-explore-warehouse-associate-opportunities-thursday</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/keep-conversation-going-sieml-networking-qa-wednesday-september-24th-2025-300-pm-330-pm-pdt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/sandia-ca-spring-2026-city-college-university-info-session-wednesday-january-7th-2026-1000</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/launch-your-teaching-career-pathways-marshall-teacher-residency-wednesday-october-1st-2025</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/sandia-ca-fall-2025-city-college-university-info-session-thursday-october-23rd-2025-1200-pm</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/sandia-ca-fall-2025-city-college-university-info-session-wednesday-november-19th-2025-1000</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/sandia-ca-fall-2025-city-college-university-info-session-tuesday-december-2nd-2025-100-pm</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/biotechnology-industry-basics-mindset-friday-september-26th-2025-200-pm-300-pm-pdt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/sf-fed-info-session-start-your-career-economic-research-91825-thursday-september-18th-2025</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/career-insights-meet-business-emea-tuesday-october-7th-2025-500-pm-600-pm-bst</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/growing-health-leaders-conference-uc-merced-central-valley-health-network-thursday-september</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/career-insights-ai-your-future-finance-monday-september-22nd-2025-530-pm-630-pm-edt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/2025-morgan-stanley-firmwide-presentation-session-3-thursday-september-18th-2025-530-pm-630</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/qt-career-day-community-building-networking-authentically-tuesday-september-23rd-2025-300-pm</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/scribeamerica-chart-your-course-medical-scribing-101-friday-september-19th-2025-200-pm-300</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/qt-career-day-authentic-unshaken-building-qt-career-resilience-tuesday-september-23rd-2025</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/bank-america-campus-virtual-insight-series-power-realize-your-potential-tuesday-september</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/bank-america-campus-virtual-insight-series-power-trust-team-tuesday-september-30th-2025-400</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/sandia-national-laboratory-panel-and-meet-and-greet-graduate-students-thursday-october-23rd</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/fao-schwarz-fellowship-social-impact-info-session-november-2025-wednesday-november-19th-2025</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/ask-admissions-open-qa-session-saturday-september-27th-2025-1100-am-1145-am-edt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/experience-ssha-degrees-school-social-sciences-humanities-and-arts-wednesday-october-29th</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/ask-admissions-deadline-edition-open-qa-session-wednesday-october-1st-2025-400-pm-445-pm-edt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/career-insights-meet-our-recruiters-2-citi-asia-thursday-september-25th-2025-1000-am-1045-am</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/girls-who-invest-application-workshop-monday-september-29th-2025-600-pm-645-pm-edt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/girls-who-invest-information-session-tuesday-september-23rd-2025-600-pm-645-pm-edt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/girls-who-invest-application-workshop-monday-september-22nd-2025-400-pm-445-pm-edt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/girls-who-invest-information-session-thursday-september-18th-2025-400-pm-445-pm-edt</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/sentara-rn-student-fall-virtual-learning-manager-interview-preparation-tuesday-october-28th</loc>
-  </url>
-  <url>
-    <loc>https://hire.ucmerced.edu/content/genentech-career-trek-friday-september-19th-2025-930-am-300-pm-pdt</loc>
   </url>
 </urlset>

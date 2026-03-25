@@ -13,11 +13,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://nmr.ucmerced.edu/nmr-systems/600-mhz-nmr-system</loc>
+    <loc>https://nmr.ucmerced.edu/nmr-systems</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://nmr.ucmerced.edu/nmr-systems</loc>
+    <loc>https://nmr.ucmerced.edu/nmr-systems/600-mhz-nmr-system</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -33,15 +33,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://nmr.ucmerced.edu/nmr-systems/deuterated-solvents</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://nmr.ucmerced.edu/nmr-systems/sample-preparation</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://nmr.ucmerced.edu/nmr-systems/nmr-tubes</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://nmr.ucmerced.edu/nmr-systems/deuterated-solvents</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -69,11 +69,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://nmr.ucmerced.edu/ilab-calendars/walkup-queue</loc>
+    <loc>https://nmr.ucmerced.edu/ilab-calendars/fluorimeter-se2-20-instructions</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://nmr.ucmerced.edu/ilab-calendars/fluorimeter-se2-20-instructions</loc>
+    <loc>https://nmr.ucmerced.edu/ilab-calendars/walkup-queue</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -124,12 +124,12 @@
     <loc>https://nmr.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://nmr.ucmerced.edu/sites/nmr.ucmerced.edu/files/documents/nmrfacilityintro.pptx</loc>
-    <lastmod>2016-10-04</lastmod>
-  </url>
-  <url>
     <loc>https://nmr.ucmerced.edu/colors/black</loc>
     <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://nmr.ucmerced.edu/sites/nmr.ucmerced.edu/files/documents/nmrfacilityintro.pptx</loc>
+    <lastmod>2016-10-04</lastmod>
   </url>
   <url>
     <loc>https://nmr.ucmerced.edu/taxonomy/term/1/feed</loc>

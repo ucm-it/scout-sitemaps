@@ -9,7 +9,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/analytics-hub/faculty-staff-statistics</loc>
+    <loc>https://cie.ucmerced.edu/analytics-hub</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -17,7 +17,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/analytics-hub</loc>
+    <loc>https://cie.ucmerced.edu/analytics-hub/faculty-staff-statistics</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -29,11 +29,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://cie.ucmerced.edu/analytics-hub/tableau-server</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://cie.ucmerced.edu/analytics-hub/surveys</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/analytics-hub/tableau-server</loc>
+    <loc>https://cie.ucmerced.edu/services/qualtrics</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/idea-project</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -41,11 +49,39 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://cie.ucmerced.edu/shared-resources/models</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/shared-resources/data-management</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/functional-domains</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/about-cie/institutional-research-decision-support/glossary</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://cie.ucmerced.edu/about-cie</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://cie.ucmerced.edu/about-cie/institutional-research-decision-support</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/about-cie/institutional-research-decision-support/professional-affiliations</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://cie.ucmerced.edu/about-cie/business-architecture-analytics</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/about-cie/initiative-collaborations</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -65,7 +101,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://cie.ucmerced.edu/analytics-hub/surveys/graduating-senior-survey-data</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://cie.ucmerced.edu/ucues-2020-major-evaluation</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/analytics-hub/surveys/housing-experience-survey-data</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -89,11 +133,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/faculty-and-staff-interactive-data</loc>
+    <loc>https://cie.ucmerced.edu/overall-enrollment-totals</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/overall-enrollment-totals</loc>
+    <loc>https://cie.ucmerced.edu/faculty-and-staff-interactive-data</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -104,47 +148,15 @@
     <loc>https://cie.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/services/qualtrics</loc>
+    <loc>https://cie.ucmerced.edu/how-to</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/idea-project</loc>
+    <loc>https://cie.ucmerced.edu/undergraduate-enrollments</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/shared-resources/models</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/shared-resources/data-management</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/functional-domains</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/about-cie/institutional-research-decision-support/glossary</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/about-cie/institutional-research-decision-support</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/about-cie/institutional-research-decision-support/professional-affiliations</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/about-cie/initiative-collaborations</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/analytics-hub/surveys/graduating-senior-survey-data</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/analytics-hub/surveys/housing-experience-survey-data</loc>
+    <loc>https://cie.ucmerced.edu/analytics-hub/fall-undergraduate-enrollment</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -156,20 +168,16 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/summer_2022_financial_aid_dashboard.pdf</loc>
-    <lastmod>2023-05-30</lastmod>
-  </url>
-  <url>
     <loc>https://cie.ucmerced.edu/graduate-retention-and-graduation</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/ead_participants_2012_13.pdf</loc>
-    <lastmod>2020-04-09</lastmod>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/summer_2022_financial_aid_dashboard.pdf</loc>
+    <lastmod>2023-05-30</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/how-to</loc>
-    <lastmod>2026-03-25</lastmod>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/ead_participants_2012_13.pdf</loc>
+    <lastmod>2020-04-09</lastmod>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/ead_coaching_staffing_salaries_2012_13.pdf</loc>
@@ -181,6 +189,10 @@
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/ead_participants_2011_12.pdf</loc>
+    <lastmod>2020-04-09</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/ead_revenue_expenses_2011_12.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
@@ -268,6 +280,14 @@
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/cds2005_2006.pdf</loc>
+    <lastmod>2020-04-09</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/ic_characteristics_2013.pdf</loc>
+    <lastmod>2020-04-09</lastmod>
+  </url>
+  <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2012_institutional_characteristics.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
@@ -304,6 +324,14 @@
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2012_fall_enrollment.pdf</loc>
+    <lastmod>2020-04-09</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2011_fall_enrollment.pdf</loc>
+    <lastmod>2020-04-09</lastmod>
+  </url>
+  <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2010_fall_enrollment.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
@@ -328,6 +356,10 @@
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/graduation_rates_2013.pdf</loc>
+    <lastmod>2020-04-09</lastmod>
+  </url>
+  <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/graduation_rates_2012.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
@@ -336,7 +368,7 @@
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/graduation_rates_2013.pdf</loc>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/human_resources_2013-14.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
@@ -344,15 +376,11 @@
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/human_resources_2013-14.pdf</loc>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/human_resources_2011-12.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/human_resources_2010-11.pdf</loc>
-    <lastmod>2020-04-09</lastmod>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/human_resources_2011-12.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
@@ -364,11 +392,11 @@
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/human_resources_2005-2006.pdf</loc>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/human_resources_2007-2008.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/human_resources_2007-2008.pdf</loc>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/human_resources_2005-2006.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
@@ -376,11 +404,11 @@
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/12_month_enrollment_2010-11.pdf</loc>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/12_month_enrollment_2011-12.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/12_month_enrollment_2011-12.pdf</loc>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/12_month_enrollment_2010-11.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
@@ -388,7 +416,15 @@
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/12-month_enrollment_2008-2009.pdf</loc>
+    <lastmod>2020-04-09</lastmod>
+  </url>
+  <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/12-month_enrollment_2007-2008.pdf</loc>
+    <lastmod>2020-04-09</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/12-month_enrollment_2006-2007.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
@@ -420,6 +456,10 @@
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/completions_2005-2006.pdf</loc>
+    <lastmod>2020-04-09</lastmod>
+  </url>
+  <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/financial_aid_2012-13.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
@@ -448,7 +488,19 @@
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/financial_aid_2005-2006.pdf</loc>
+    <lastmod>2020-04-09</lastmod>
+  </url>
+  <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/finance_2012-13.pdf</loc>
+    <lastmod>2020-04-09</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/finance_2011-2012.pdf</loc>
+    <lastmod>2020-04-09</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/finance_2009-2010.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
@@ -457,6 +509,10 @@
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/finance_2007-2008.pdf</loc>
+    <lastmod>2020-04-09</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/finance_2006-2007.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
@@ -484,16 +540,12 @@
     <lastmod>2022-10-05</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/email_engagement_and_applicant_yields.pdf</loc>
-    <lastmod>2022-01-27</lastmod>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/finance_2006-2007.pdf</loc>
-    <lastmod>2020-04-09</lastmod>
-  </url>
-  <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/sir_survey_analysis.pdf</loc>
     <lastmod>2022-03-31</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/email_engagement_and_applicant_yields.pdf</loc>
+    <lastmod>2022-01-27</lastmod>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/melt_analysis_2021.pdf</loc>
@@ -516,20 +568,8 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/data_for_student_success_guide_final_2020.10.02_1.pdf</loc>
-    <lastmod>2021-02-01</lastmod>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/moderning_systems_and_processes_tco_and_models_20180515_2.pdf</loc>
-    <lastmod>2019-08-21</lastmod>
-  </url>
-  <url>
     <loc>https://cie.ucmerced.edu/take-the-graduating-senior-survey</loc>
     <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/enrollment_management_-_enrollment_flow_2.pdf</loc>
-    <lastmod>2019-08-21</lastmod>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/admissions-mart</loc>
@@ -542,6 +582,26 @@
   <url>
     <loc>https://cie.ucmerced.edu/idea-future-themes</loc>
     <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/data_for_student_success_guide_final_2020.10.02_1.pdf</loc>
+    <lastmod>2021-02-01</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/moderning_systems_and_processes_tco_and_models_20180515_2.pdf</loc>
+    <lastmod>2019-08-21</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/peer_institutions_report.pdf</loc>
+    <lastmod>2020-04-07</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/enrollment_management_-_enrollment_flow_2.pdf</loc>
+    <lastmod>2019-08-21</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/enrollment_dynamics_v1.0_09-13-19.pdf</loc>
+    <lastmod>2019-10-07</lastmod>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/page/documents/2022-23_graduating_senior_survey_final.pdf</loc>
@@ -564,28 +624,24 @@
     <lastmod>2022-05-31</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/peer_institutions_report.pdf</loc>
-    <lastmod>2020-04-07</lastmod>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/enrollment_dynamics_v1.0_09-13-19.pdf</loc>
-    <lastmod>2019-10-07</lastmod>
-  </url>
-  <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/2020-21_graduating_senior_survey_final_rev_20210405.pdf</loc>
     <lastmod>2021-05-20</lastmod>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2020_gss_frosh_final_20200527.pdf</loc>
-    <lastmod>2020-06-02</lastmod>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/gss_2020_all_respondents_final_20200527.pdf</loc>
     <lastmod>2020-06-02</lastmod>
   </url>
   <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2020_gss_frosh_final_20200527.pdf</loc>
+    <lastmod>2020-06-02</lastmod>
+  </url>
+  <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2020_gss_transfer_final_20200527.pdf</loc>
     <lastmod>2020-06-02</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/2019-20_graduating_senior_survey_20200326_final.pdf</loc>
+    <lastmod>2020-05-27</lastmod>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2019_gss_report_irds.pdf</loc>
@@ -604,8 +660,8 @@
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/2019-20_graduating_senior_survey_20200326_final.pdf</loc>
-    <lastmod>2020-05-27</lastmod>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/graduating_senior_survey_2018_irds_website.pdf</loc>
+    <lastmod>2020-04-09</lastmod>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/graduating_senior_survey_2018_-_frosh_respondents.pdf</loc>
@@ -620,15 +676,11 @@
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/graduating_senior_survey_2018_irds_website.pdf</loc>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/graduating_senior_survey_2017_irds_website.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/graduating_senior_survey_2016-17_instrument_final.pdf</loc>
-    <lastmod>2020-04-09</lastmod>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/graduating_senior_survey_2017_irds_website.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
@@ -672,11 +724,11 @@
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/graduating_senior_survey_2013-14_instrument.pdf</loc>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/graduating_senior_survey_2014-15_no_prog_review.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/graduating_senior_survey_2014-15_no_prog_review.pdf</loc>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/graduating_senior_survey_2013-14_instrument.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
@@ -764,12 +816,12 @@
     <lastmod>2020-04-07</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/summer_session_analysis.pdf</loc>
-    <lastmod>2020-04-07</lastmod>
-  </url>
-  <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/educationalprogression.pdf</loc>
     <lastmod>2020-04-13</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/summer_session_analysis.pdf</loc>
+    <lastmod>2020-04-07</lastmod>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/attrition_before_the_junior_year_academic_standing_ustu010_fiat_lux_scholars.pdf</loc>
@@ -808,19 +860,19 @@
     <lastmod>2020-04-07</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/nationalgraduationratemodels.pdf</loc>
-    <lastmod>2020-04-07</lastmod>
-  </url>
-  <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/3rdpiecesummersessionsnewcomposite.pdf</loc>
     <lastmod>2020-04-07</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/postcairucmversionss.pdf</loc>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/nationalgraduationratemodels.pdf</loc>
     <lastmod>2020-04-07</lastmod>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/facultyandstaffretentionreportupdatedecember_12.pdf</loc>
+    <lastmod>2020-04-07</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/postcairucmversionss.pdf</loc>
     <lastmod>2020-04-07</lastmod>
   </url>
   <url>
@@ -832,23 +884,27 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/page/documents/2023_new_student_survey_final_0.pdf</loc>
+    <lastmod>2024-05-31</lastmod>
+  </url>
+  <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2021_new_student_survey_instrument_final.pdf</loc>
     <lastmod>2021-12-06</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/page/documents/2023_new_student_survey_final_0.pdf</loc>
-    <lastmod>2024-05-31</lastmod>
+    <loc>https://cie.ucmerced.edu/new-student-survey-2020-dashboard</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2020_new_student_survey_instrument_final.pdf</loc>
     <lastmod>2020-12-01</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2019_nss_report_frosh.pdf</loc>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2019_nss_report_v3.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2019_nss_report_v3.pdf</loc>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2019_nss_report_frosh.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
@@ -868,15 +924,15 @@
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/new-student-survey-2020-dashboard</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/nss_2018_transfer.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2018_new_student_survey_instrument_final.pdf</loc>
+    <lastmod>2020-04-09</lastmod>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/new_student_survey_2017_-_all_respondents.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
@@ -892,7 +948,7 @@
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/new_student_survey_2017_-_all_respondents.pdf</loc>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2016_new_student_survey_report_-_all_students.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
@@ -900,7 +956,7 @@
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2016_new_student_survey_report_-_all_students.pdf</loc>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/new_student_survey_2015_irds_website_report.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
@@ -908,7 +964,7 @@
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/new_student_survey_2015_irds_website_report.pdf</loc>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2014_new_student_survey_report_2015.1.27.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
@@ -916,15 +972,11 @@
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2014_new_student_survey_report_2015.1.27.pdf</loc>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/new_student_survey_2013.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/new_student_survey_2013_instrument.pdf</loc>
-    <lastmod>2020-04-09</lastmod>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/new_student_survey_2013.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
@@ -940,11 +992,11 @@
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/new_ug_student_survey_2009_results_summary.pdf</loc>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/new_ug_student_survey_2010_results_summary.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/new_ug_student_survey_2010_results_summary.pdf</loc>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/new_ug_student_survey_2009_results_summary.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
@@ -964,11 +1016,11 @@
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/new_student_longitudinal_survey_data.xls</loc>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/nss_2014-2016_longitudinal_report_all_respondents_2017.8.29.xlsx</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/nss_2014-2016_longitudinal_report_all_respondents_2017.8.29.xlsx</loc>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/new_student_longitudinal_survey_data.xls</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
@@ -984,11 +1036,11 @@
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2016_nss_analyses_academic_standing_retention_2017.08.10.pdf</loc>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/heroes_training_nss_081712.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/heroes_training_nss_081712.pdf</loc>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2016_nss_analyses_academic_standing_retention_2017.08.10.pdf</loc>
     <lastmod>2020-04-09</lastmod>
   </url>
   <url>

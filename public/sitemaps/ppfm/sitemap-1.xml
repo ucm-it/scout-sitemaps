@@ -4,6 +4,9 @@
     <loc>https://ppfm.ucmerced.edu</loc>
   </url>
   <url>
+    <loc>https://ppfm.ucmerced.edu/</loc>
+  </url>
+  <url>
     <loc>https://ppfm.ucmerced.edu/about-us</loc>
   </url>
   <url>
@@ -19,10 +22,10 @@
     <loc>https://ppfm.ucmerced.edu/services-we-provide/extramural-funds/effort-reporting</loc>
   </url>
   <url>
-    <loc>https://ppfm.ucmerced.edu/</loc>
+    <loc>https://ppfm.ucmerced.edu/services-we-provide/project-requests</loc>
   </url>
   <url>
-    <loc>https://ppfm.ucmerced.edu/services-we-provide/project-requests</loc>
+    <loc>https://ppfm.ucmerced.edu/faqs</loc>
   </url>
   <url>
     <loc>https://ppfm.ucmerced.edu/rss.xml</loc>
@@ -30,9 +33,6 @@
   </url>
   <url>
     <loc>https://ppfm.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://ppfm.ucmerced.edu/faqs</loc>
   </url>
   <url>
     <loc>https://ppfm.ucmerced.edu/sites/ppfm.ucmerced.edu/files/page/documents/sbsg_to_create_a_project_2-18-21.docx</loc>
@@ -67,6 +67,10 @@
     <lastmod>2022-12-21</lastmod>
   </url>
   <url>
+    <loc>https://ppfm.ucmerced.edu/sites/ppfm.ucmerced.edu/files/page/documents/enablingmultiplecertifications.pdf</loc>
+    <lastmod>2021-02-10</lastmod>
+  </url>
+  <url>
     <loc>https://ppfm.ucmerced.edu/sites/ppfm.ucmerced.edu/files/page/documents/multiplecertificationsforpis.pdf</loc>
     <lastmod>2021-02-10</lastmod>
   </url>
@@ -75,7 +79,7 @@
     <lastmod>2021-02-10</lastmod>
   </url>
   <url>
-    <loc>https://ppfm.ucmerced.edu/sites/ppfm.ucmerced.edu/files/page/documents/enablingmultiplecertifications.pdf</loc>
+    <loc>https://ppfm.ucmerced.edu/sites/ppfm.ucmerced.edu/files/page/documents/reportlists.pdf</loc>
     <lastmod>2021-02-10</lastmod>
   </url>
   <url>
@@ -83,8 +87,10 @@
     <lastmod>2021-02-10</lastmod>
   </url>
   <url>
-    <loc>https://ppfm.ucmerced.edu/sites/ppfm.ucmerced.edu/files/page/documents/reportlists.pdf</loc>
-    <lastmod>2021-02-10</lastmod>
+    <loc>https://ppfm.ucmerced.edu/content/how-do-i-figure-out-appropriate-coa-my-purchase</loc>
+  </url>
+  <url>
+    <loc>https://ppfm.ucmerced.edu/content/who-can-i-reach-out-additional-questions-coa</loc>
   </url>
   <url>
     <loc>https://ppfm.ucmerced.edu/content/what-poet-or-poetaf</loc>
@@ -94,6 +100,9 @@
   </url>
   <url>
     <loc>https://ppfm.ucmerced.edu/content/who-can-i-reach-out-additional-questions-ppm-projects-or-poet-poetaf-changes</loc>
+  </url>
+  <url>
+    <loc>https://ppfm.ucmerced.edu/content/how-do-i-know-which-ppfm-ticket-submit-service-now</loc>
   </url>
   <url>
     <loc>https://ppfm.ucmerced.edu/users/kmorgan2</loc>

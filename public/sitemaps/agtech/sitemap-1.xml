@@ -7,10 +7,19 @@
     <loc>https://agtech.ucmerced.edu/about</loc>
   </url>
   <url>
+    <loc>https://agtech.ucmerced.edu/news</loc>
+  </url>
+  <url>
+    <loc>https://agtech.ucmerced.edu/internships</loc>
+  </url>
+  <url>
     <loc>https://agtech.ucmerced.edu/related-websites</loc>
   </url>
   <url>
     <loc>https://agtech.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://agtech.ucmerced.edu/faculty-members</loc>
   </url>
   <url>
     <loc>https://agtech.ucmerced.edu/interns</loc>
@@ -22,33 +31,7 @@
     <loc>https://agtech.ucmerced.edu/intern-reports</loc>
   </url>
   <url>
-    <loc>https://agtech.ucmerced.edu/internships</loc>
-  </url>
-  <url>
-    <loc>https://agtech.ucmerced.edu/news</loc>
-  </url>
-  <url>
-    <loc>https://agtech.ucmerced.edu/sites/agtech.ucmerced.edu/files/page/documents/agtech18-uas-castle-drone-classroom-dronelab-meeting-place.pdf</loc>
-    <lastmod>2018-05-19</lastmod>
-  </url>
-  <url>
-    <loc>https://agtech.ucmerced.edu/sites/agtech.ucmerced.edu/files/page/documents/agtech-castle-meeting-place.pdf</loc>
-    <lastmod>2017-05-26</lastmod>
-  </url>
-  <url>
-    <loc>https://agtech.ucmerced.edu/sites/agtech.ucmerced.edu/files/page/documents/overview-lecture-2hours.pdf</loc>
-    <lastmod>2017-06-04</lastmod>
-  </url>
-  <url>
-    <loc>https://agtech.ucmerced.edu/sites/agtech.ucmerced.edu/files/page/documents/me190uas-seminar-su17-may-30th-2017-paul-guermonprez-intel-flyer.pdf</loc>
-    <lastmod>2017-05-26</lastmod>
-  </url>
-  <url>
-    <loc>https://agtech.ucmerced.edu/sites/agtech.ucmerced.edu/files/page/documents/cal_ag_drones_feb_2017.pdf</loc>
-    <lastmod>2017-05-26</lastmod>
-  </url>
-  <url>
-    <loc>https://agtech.ucmerced.edu/node/71</loc>
+    <loc>https://agtech.ucmerced.edu/group-pictures</loc>
   </url>
   <url>
     <loc>https://agtech.ucmerced.edu/news/2017/check-our-youtube-channel-our-usda-hsi-intern-experience</loc>
@@ -58,5 +41,28 @@
   </url>
   <url>
     <loc>https://agtech.ucmerced.edu/news/2017/applications-summer-internships-are-now-open</loc>
+  </url>
+  <url>
+    <loc>https://agtech.ucmerced.edu/sites/agtech.ucmerced.edu/files/page/documents/agtech18-uas-castle-drone-classroom-dronelab-meeting-place.pdf</loc>
+    <lastmod>2018-05-19</lastmod>
+  </url>
+  <url>
+    <loc>https://agtech.ucmerced.edu/sites/agtech.ucmerced.edu/files/page/documents/overview-lecture-2hours.pdf</loc>
+    <lastmod>2017-06-04</lastmod>
+  </url>
+  <url>
+    <loc>https://agtech.ucmerced.edu/sites/agtech.ucmerced.edu/files/page/documents/agtech-castle-meeting-place.pdf</loc>
+    <lastmod>2017-05-26</lastmod>
+  </url>
+  <url>
+    <loc>https://agtech.ucmerced.edu/sites/agtech.ucmerced.edu/files/page/documents/cal_ag_drones_feb_2017.pdf</loc>
+    <lastmod>2017-05-26</lastmod>
+  </url>
+  <url>
+    <loc>https://agtech.ucmerced.edu/sites/agtech.ucmerced.edu/files/page/documents/me190uas-seminar-su17-may-30th-2017-paul-guermonprez-intel-flyer.pdf</loc>
+    <lastmod>2017-05-26</lastmod>
+  </url>
+  <url>
+    <loc>https://agtech.ucmerced.edu/node/71</loc>
   </url>
 </urlset>

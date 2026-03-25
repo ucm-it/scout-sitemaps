@@ -16,10 +16,13 @@
     <loc>https://mathcenter.ucmerced.edu/engineering</loc>
   </url>
   <url>
+    <loc>https://mathcenter.ucmerced.edu/chemistry</loc>
+  </url>
+  <url>
     <loc>https://mathcenter.ucmerced.edu/physics</loc>
   </url>
   <url>
-    <loc>https://mathcenter.ucmerced.edu/chemistry</loc>
+    <loc>https://mathcenter.ucmerced.edu/contact-information</loc>
   </url>
   <url>
     <loc>https://mathcenter.ucmerced.edu/more</loc>
@@ -28,6 +31,6 @@
     <loc>https://mathcenter.ucmerced.edu/more/group-study-sessions</loc>
   </url>
   <url>
-    <loc>https://mathcenter.ucmerced.edu/contact-information</loc>
+    <loc>https://mathcenter.ucmerced.edu/contact-us</loc>
   </url>
 </urlset>

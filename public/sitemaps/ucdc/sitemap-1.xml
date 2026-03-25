@@ -28,19 +28,37 @@
     <loc>https://ucdc.ucmerced.edu/about/dc-experience/housing</loc>
   </url>
   <url>
+    <loc>https://ucdc.ucmerced.edu/about/dc-experience/transportation</loc>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/application</loc>
+  </url>
+  <url>
     <loc>https://ucdc.ucmerced.edu/application/application-checklist</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/applicationtips</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/application</loc>
+    <loc>https://ucdc.ucmerced.edu/program-dates-deadlines</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/form/student-interest-list</loc>
   </url>
   <url>
+    <loc>https://ucdc.ucmerced.edu/ucdc-alumni</loc>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/ucdc-alumni/ucdc-participant-experiences</loc>
+  </url>
+  <url>
     <loc>https://ucdc.ucmerced.edu/ucdc-alumni/fall-2019</loc>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/ucdc-alumni/spring-2019</loc>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/ucdc-alumni/fall-2018</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/ucdc-alumni/spring-2018</loc>
@@ -49,19 +67,28 @@
     <loc>https://ucdc.ucmerced.edu/ucdc-alumni/fall-2017</loc>
   </url>
   <url>
+    <loc>https://ucdc.ucmerced.edu/ucdc-alumni/spring-2017</loc>
+  </url>
+  <url>
     <loc>https://ucdc.ucmerced.edu/ucdc-alumni/fall-2016</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/past-participants/spring-2016</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/ucdc-alumni/spring-2017</loc>
+    <loc>https://ucdc.ucmerced.edu/http%3A//ucdc.ucmerced.edu/past-participants/Fall-2015</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/past-participants/spring-2015</loc>
   </url>
   <url>
+    <loc>https://ucdc.ucmerced.edu/past-participants/fall-2014</loc>
+  </url>
+  <url>
     <loc>https://ucdc.ucmerced.edu/past-participants/spring-2014</loc>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/past-participants/fall-2013</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/past-participants/spring-2013</loc>
@@ -70,19 +97,22 @@
     <loc>https://ucdc.ucmerced.edu/past-participants/fall-2012</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/past-participants/fall-2013</loc>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/past-participants/spring-2011</loc>
+    <loc>https://ucdc.ucmerced.edu/past-participants/spring-2012</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/past-participants/fall-2011</loc>
   </url>
   <url>
+    <loc>https://ucdc.ucmerced.edu/past-participants/spring-2011</loc>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/past-participants/fall-2010</loc>
+  </url>
+  <url>
     <loc>https://ucdc.ucmerced.edu/past-participants/spring-2010</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/past-participants/spring-2012</loc>
+    <loc>https://ucdc.ucmerced.edu/past-participants/fall-2009</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/past-participants/fall-2008</loc>
@@ -91,25 +121,10 @@
     <loc>https://ucdc.ucmerced.edu/faq</loc>
   </url>
   <url>
+    <loc>https://ucdc.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
     <loc>https://ucdc.ucmerced.edu/form/apply-now</loc>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/about/dc-experience/transportation</loc>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/ucdc-alumni</loc>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/program-dates-deadlines</loc>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/ucdc-alumni/spring-2019</loc>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/http%3A//ucdc.ucmerced.edu/past-participants/Fall-2015</loc>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/past-participants/fall-2010</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/engineering</loc>
@@ -118,7 +133,13 @@
     <loc>https://ucdc.ucmerced.edu/naturalscience</loc>
   </url>
   <url>
+    <loc>https://ucdc.ucmerced.edu/ssha</loc>
+  </url>
+  <url>
     <loc>https://ucdc.ucmerced.edu/application/ucdc-major-flyers</loc>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/node/361</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/images/washington-dc-top-tourist-attractions-map-02-free-street-names-map-the-mall-environs-main-landmarks-most-popular-sights-great-art-spots-high-resolution.jpg</loc>
@@ -128,13 +149,19 @@
     <loc>https://ucdc.ucmerced.edu/safety</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/ucdc-alumni/ucdc-participant-experiences</loc>
+    <loc>https://ucdc.ucmerced.edu/ucdc-participant-experiences/adriana</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/ucdc-alumni/fall-2018</loc>
+    <loc>https://ucdc.ucmerced.edu/ucdc-participant-experiences/elizabeth</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/past-participants/fall-2014</loc>
+    <loc>https://ucdc.ucmerced.edu/ucdc-participant-experiences/alejandra</loc>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/ucdc-participant-experiences/gino</loc>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/ucdc-participant-experiences/jessica</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/bioengineering_-_ucdc_why_should_i_apply.pdf</loc>
@@ -177,7 +204,63 @@
     <lastmod>2018-06-11</lastmod>
   </url>
   <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/anthro_-_ucdc_why_should_i_apply.pdf</loc>
+    <lastmod>2018-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/cog_sci_-_ucdc_why_should_i_apply.pdf</loc>
+    <lastmod>2018-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/crest_-_ucdc_why_should_i_apply.pdf</loc>
+    <lastmod>2018-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/econ_-_ucdc_why_should_i_apply.pdf</loc>
+    <lastmod>2018-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/english_-_ucdc_why_should_i_apply.pdf</loc>
+    <lastmod>2018-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/global_arts_-_ucdc_why_should_i_apply.pdf</loc>
+    <lastmod>2018-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/history_-_ucdc_why_should_i_apply.pdf</loc>
+    <lastmod>2018-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/management_be_ucdc_why_should_i_apply.pdf</loc>
+    <lastmod>2018-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/poli_sci_-_ucdc_why_should_i_apply.pdf</loc>
+    <lastmod>2018-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/psych_-_ucdc_why_should_i_apply.pdf</loc>
+    <lastmod>2018-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/public_health_-_ucdc_why_should_i_apply.pdf</loc>
+    <lastmod>2018-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/soc_-_ucdc_why_should_i_apply.pdf</loc>
+    <lastmod>2018-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/span_-_ucdc_why_should_i_apply.pdf</loc>
+    <lastmod>2018-06-11</lastmod>
+  </url>
+  <url>
     <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/ucm_arts_flyer_digital.pdf</loc>
+    <lastmod>2017-08-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/ucm_busecon_flyer_digital.pdf</loc>
     <lastmod>2017-08-25</lastmod>
   </url>
   <url>
@@ -197,11 +280,11 @@
     <lastmod>2017-08-25</lastmod>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/ucm_intlrelations_flyer_digital.pdf</loc>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/ucm_genderstudies_flyer_digital.pdf</loc>
     <lastmod>2017-08-25</lastmod>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/ucm_busecon_flyer_digital.pdf</loc>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/ucm_intlrelations_flyer_digital.pdf</loc>
     <lastmod>2017-08-25</lastmod>
   </url>
   <url>
@@ -217,36 +300,19 @@
     <lastmod>2018-04-19</lastmod>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/ucm_stem_flyer_digital.pdf</loc>
-    <lastmod>2017-08-25</lastmod>
-  </url>
-  <url>
     <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/ucm_sociology_flyer_digital.pdf</loc>
     <lastmod>2017-08-25</lastmod>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/ucm_genderstudies_flyer_digital.pdf</loc>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/ucm_stem_flyer_digital.pdf</loc>
     <lastmod>2017-08-25</lastmod>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/ucdc-participant-experiences/adriana</loc>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/pre-health_internship_opps.pdf</loc>
+    <lastmod>2019-04-16</lastmod>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/ucdc-participant-experiences/elizabeth</loc>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/ucdc-participant-experiences/alejandra</loc>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/ucdc-participant-experiences/gino</loc>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/ucdc-participant-experiences/jessica</loc>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/past-participants/fall-2009</loc>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/pre_health_presentation.pdf</loc>
+    <lastmod>2019-04-16</lastmod>
   </url>
 </urlset>

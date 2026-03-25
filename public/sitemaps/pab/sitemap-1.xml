@@ -9,11 +9,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://pab.ucmerced.edu/about/membership-information</loc>
+    <loc>https://pab.ucmerced.edu/about</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://pab.ucmerced.edu/about/pab-members-and-administrative-advisory-group</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://pab.ucmerced.edu/about/membership-information</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -25,10 +29,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://pab.ucmerced.edu/about</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://pab.ucmerced.edu/about/meetings</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -37,7 +37,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://pab.ucmerced.edu/data-reports</loc>
+    <loc>https://pab.ucmerced.edu/file-complaint</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -45,7 +45,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://pab.ucmerced.edu/file-complaint</loc>
+    <loc>https://pab.ucmerced.edu/data-reports</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -54,5 +54,11 @@
   </url>
   <url>
     <loc>https://pab.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://pab.ucmerced.edu/form/pab-membership-nomination-form</loc>
+  </url>
+  <url>
+    <loc>https://pab.ucmerced.edu/form/online-complaint-form</loc>
   </url>
 </urlset>

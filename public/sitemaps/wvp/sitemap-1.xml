@@ -9,10 +9,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://wvp.ucmerced.edu/wpvp-plan</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://wvp.ucmerced.edu/reporting</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -21,11 +17,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://wvp.ucmerced.edu/contact-us</loc>
+    <loc>https://wvp.ucmerced.edu/wpvp-plan</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://wvp.ucmerced.edu/rss.xml</loc>
     <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://wvp.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://wvp.ucmerced.edu/sites/wvp.ucmerced.edu/files/documents/uc_workplace_violence_prevention_plan_-_9.18.24.pdf</loc>

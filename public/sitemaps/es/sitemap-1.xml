@@ -9,10 +9,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/current-students</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/faculty</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -21,39 +17,8 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/resources/facilities</loc>
+    <loc>https://es.ucmerced.edu/current-students</loc>
     <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/resources/centers-and-institutes</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/content/gerardo-diaz</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/content/roland-winston</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/content/peggy-oday</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2025/hurricanes-create-powerful-changes-deep-ocean-study-reveals</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/videos</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/faculty-listing</loc>
@@ -65,6 +30,18 @@
   </url>
   <url>
     <loc>https://es.ucmerced.edu/graduate-students</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/resources/centers-and-institutes</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/resources/facilities</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -84,7 +61,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news</loc>
+    <loc>https://es.ucmerced.edu/content/gerardo-diaz</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/content/peggy-oday</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/content/roland-winston</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2025/hurricanes-create-powerful-changes-deep-ocean-study-reveals</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -96,8 +85,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/node/6051</loc>
+    <loc>https://es.ucmerced.edu/rss.xml</loc>
     <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/videos</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/content/john-abatzoglou</loc>
@@ -108,7 +104,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/program-learning-outcomes</loc>
+    <loc>https://es.ucmerced.edu/content/adeyemi-adebiyi</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -120,11 +116,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/adeyemi-adebiyi</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/content/claire-lukens</loc>
+    <loc>https://es.ucmerced.edu/content/erin-hestir</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -132,11 +124,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://es.ucmerced.edu/content/claire-lukens</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://es.ucmerced.edu/content/josue-medellin-azuara</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/martha-conklin</loc>
+    <loc>https://es.ucmerced.edu/content/alexander-petersen</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -144,11 +140,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/michael-dawson</loc>
+    <loc>https://es.ucmerced.edu/content/martha-conklin</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/content/srabani-das</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/content/michael-dawson</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/content/teamrat-ghezzehei</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -168,15 +172,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/jessica-blois</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/content/colleen-naughton</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/content/carolin-frank</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -184,7 +180,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://es.ucmerced.edu/content/jessica-blois</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/content/carolin-frank</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://es.ucmerced.edu/content/joshua-garcia</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/content/andrea-joyce</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -193,6 +201,10 @@
   </url>
   <url>
     <loc>https://es.ucmerced.edu/content/rebecca-ryals</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/content/jason-sexton</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -224,11 +236,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/sarah-kurtz</loc>
+    <loc>https://es.ucmerced.edu/content/reza-ehsani</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/reza-ehsani</loc>
+    <loc>https://es.ucmerced.edu/content/sarah-kurtz</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -236,7 +248,27 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://es.ucmerced.edu/content/yanbao-ma</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://es.ucmerced.edu/content/samuel-markolf</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/node/6051</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/current-students/forms-and-documents</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/sites/es.ucmerced.edu/files/documents/2023.04.19_es_pps_clean.pdf</loc>
+    <lastmod>2023-09-01</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/program-learning-outcomes</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -244,11 +276,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/erin-hestir</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/content/yanbao-ma</loc>
+    <loc>https://es.ucmerced.edu/content/marina-garcia-lopez-arias</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -256,19 +284,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/marina-garcia-lopez-arias</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/content/samuel-traina</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/content/wolfgang-rogge</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/teamrat-ghezzehei</loc>
+    <loc>https://es.ucmerced.edu/content/samuel-traina</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -280,15 +300,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/jennifer-alvarez</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/content/senior-adepoju</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/content/fahad-ahmed</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/content/jennifer-alvarez</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/content/louis-amegbletor</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -304,19 +328,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/louis-amegbletor</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/content/madeline-brown</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/stefano-casirati</loc>
+    <loc>https://es.ucmerced.edu/content/marie-buhl</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/marie-buhl</loc>
+    <loc>https://es.ucmerced.edu/content/stefano-casirati</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -336,7 +356,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/varvara-fedorova</loc>
+    <loc>https://es.ucmerced.edu/content/kate-demarsh</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -344,7 +364,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/brandon-genco</loc>
+    <loc>https://es.ucmerced.edu/content/varvara-fedorova</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -352,7 +372,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/melinda-gonzales</loc>
+    <loc>https://es.ucmerced.edu/content/brandon-genco</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -360,11 +380,23 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/isabelle-haddad</loc>
+    <loc>https://es.ucmerced.edu/content/melinda-gonzales</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/content/han-guo</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/content/isabelle-haddad</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/content/peizhi-hao</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/content/tara-harmon</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -396,6 +428,10 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://es.ucmerced.edu/content/gabriele-larocca-conte</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://es.ucmerced.edu/content/liying-li</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -404,15 +440,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/gabriele-larocca-conte</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/content/brittany-lopez-barreto</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/content/zabir-mahmud</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -420,15 +448,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://es.ucmerced.edu/content/zabir-mahmud</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://es.ucmerced.edu/content/zachary-malone</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/content/genevieve-mckeown-green</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/content/maryam-nematian</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -436,11 +460,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://es.ucmerced.edu/content/genevieve-mckeown-green</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://es.ucmerced.edu/content/zeyi-moo</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/yelenka-nunez-bolano</loc>
+    <loc>https://es.ucmerced.edu/content/maryam-nematian</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -448,7 +476,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/evelyn-perez-agredano</loc>
+    <loc>https://es.ucmerced.edu/content/yelenka-nunez-bolano</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -456,7 +484,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/alexander-petersen</loc>
+    <loc>https://es.ucmerced.edu/content/evelyn-perez-agredano</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/content/alyssa-pfadt-trilling</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -464,7 +496,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/alyssa-pfadt-trilling</loc>
+    <loc>https://es.ucmerced.edu/content/edwin-rivas-meraz</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/content/naivy-denise-rodal-morales</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -492,11 +528,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/leila-wahab</loc>
+    <loc>https://es.ucmerced.edu/content/jorge-valero-fandino</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/lisa-wu</loc>
+    <loc>https://es.ucmerced.edu/content/leila-wahab</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -504,119 +540,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://es.ucmerced.edu/content/lisa-wu</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://es.ucmerced.edu/content/cameron-zuber</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/fall-2020/september-16-JohnForan</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/fall-2020/september-23-KarlettaChief</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/fall-2020/september30-ClareCannon</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/fall-2020/october-14-CamilaAlvarez</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/fall-2020/October28-LemirTeron</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/fall-2020/November4-KevinCromar</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/fall-2020/december2-JesseJenkins</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/StuWeiss</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/ManuelaGirotto</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/AngelFernandezBou</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/JingYan</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/AlexPeterson</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/ThomasKirchstetter</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/S2019/emily-moran-jay-sexton</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/S2019/Catherine-Keske</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/S2019/Ross-Vander-Vorste</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/spring-2019/Paolo-dOdorico</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/spring-2019/Eoin-Brodie</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/spring-2019/Susan-Zimmerman</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/sites/es.ucmerced.edu/files/page/documents/20190130_es_seminar_emily_moran_jay_sexton.pdf</loc>
-    <lastmod>2019-01-28</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/spring-2019/Renata-Brillinger</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/spring-2019/Kingsley-Odigie</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/spring-2019/Christine-Lee</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/F2018/alex-hall</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/F2018/Leopoldo-G.-Mendoza-Espinosa</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/F2018/showcase</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/F2018/maya-almaraz</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2025/experts-provide-outlook-upcoming-fire-season</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -624,7 +552,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/https%3A//es.ucmerced.edu/ES-Seminar-Committee/Previous-Seminar-Committees</loc>
+    <loc>https://es.ucmerced.edu/news/2025/experts-provide-outlook-upcoming-fire-season</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2025/three-engineering-programs-ranked-top-100-us-news</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -664,6 +596,10 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://es.ucmerced.edu/news/2025/former-president-carter-inspired-many-during-visit-uc-merced</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://es.ucmerced.edu/news/2024/major-step-forward-uc-merceds-agricultural-experiment-station</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -696,6 +632,14 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://es.ucmerced.edu/news/2024/uc-merced-san-luis-delta-mendota-water-authority-sign-partnership-opens-exciting</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2024/california-develops-more-clean-energy-researchers-delve-how-store-it</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://es.ucmerced.edu/news/2024/enthusiasm-high-debut-environmental-humanities-major</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -712,6 +656,10 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://es.ucmerced.edu/news/2024/climate-change-transforming-california-agriculture-%E2%80%94-there-are-ways-adapt</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://es.ucmerced.edu/news/2024/solar-canal-project-earns-environmental-award-construction-begins</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -720,7 +668,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2024/california-develops-more-clean-energy-researchers-delve-how-store-it</loc>
+    <loc>https://es.ucmerced.edu/news/2024/nsf-funded-project-promotes-reuse-greywater-households-integrating-ai-toward-equity</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -740,7 +688,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2024/climate-change-transforming-california-agriculture-%E2%80%94-there-are-ways-adapt</loc>
+    <loc>https://es.ucmerced.edu/news/2024/students-create-games-teach-about-safe-water</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -760,7 +708,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2024/nsf-funded-project-promotes-reuse-greywater-households-integrating-ai-toward-equity</loc>
+    <loc>https://es.ucmerced.edu/news/2024/spotlight-health-tech-social-good-hack-merced-ix</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -772,10 +720,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2024/students-create-games-teach-about-safe-water</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2024/invisible-water-surcharge-climate-warming-increases-crop-water-demand-san-joaquin-valleys</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -784,23 +728,23 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2024/climate-and-carbon-dioxide-%E2%80%98roads-removal%E2%80%99-discussion-set-uc-merced</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2024/spotlight-health-tech-social-good-hack-merced-ix</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2024/roads-removal-symposium-looks-opportunities-fight-climate-change</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2024/warming-climate-pushes-rain-higher-elevations-raising-flooding-risks</loc>
+    <loc>https://es.ucmerced.edu/news/2024/climate-and-carbon-dioxide-%E2%80%98roads-removal%E2%80%99-discussion-set-uc-merced</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2024/public-radio-highlights-natural-reserves-new-program-undergraduates</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2024/new-film-profiles-immediate-actions-restore-californias-wildfire-vulnerable-forests</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2024/warming-climate-pushes-rain-higher-elevations-raising-flooding-risks</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -820,11 +764,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2023/researcher-among-worlds-most-highly-cited-fourth-straight-year</loc>
+    <loc>https://es.ucmerced.edu/news/2024/%C2%BFfield-curious-smashes-barriers-outdoor-science</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2024/%C2%BFfield-curious-smashes-barriers-outdoor-science</loc>
+    <loc>https://es.ucmerced.edu/news/2023/researcher-among-worlds-most-highly-cited-fourth-straight-year</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -836,11 +780,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://es.ucmerced.edu/news/2023/climate-change-drive-surge-insects-attack-almonds-peaches-walnuts</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://es.ucmerced.edu/news/2023/environmental-systems-student-named-ucar-next-generation-policy-fellow</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2023/climate-change-drive-surge-insects-attack-almonds-peaches-walnuts</loc>
+    <loc>https://es.ucmerced.edu/news/2023/grant-funds-research-wildfire-behavior-and-ecological-effects-fuel-treatments</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -848,11 +796,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2024/new-film-profiles-immediate-actions-restore-californias-wildfire-vulnerable-forests</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2023/grant-funds-research-wildfire-behavior-and-ecological-effects-fuel-treatments</loc>
+    <loc>https://es.ucmerced.edu/news/2023/arcs-scholars-work-advance-stem-research</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -880,11 +824,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2023/what-future-water-uc-merced-hosts-vital-discussion</loc>
+    <loc>https://es.ucmerced.edu/news/2023/three-hellman-fellows-awarded-uc-merced</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2023/three-hellman-fellows-awarded-uc-merced</loc>
+    <loc>https://es.ucmerced.edu/news/2023/what-future-water-uc-merced-hosts-vital-discussion</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -896,7 +840,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2023/arcs-scholars-work-advance-stem-research</loc>
+    <loc>https://es.ucmerced.edu/news/2023/uc-merced-researchers-describe-solar-over-canals-pilot-project</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -905,6 +849,10 @@
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2023/students-present-wide-array-research-annual-undergraduate-research-symposium</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2023/shark-week-highlights-researcher%E2%80%99s-megalodon-expertise</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -928,27 +876,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2023/uc-merced-researchers-describe-solar-over-canals-pilot-project</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2023/water-research-goes-deep-rafting-trip-utah</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2023/shark-week-highlights-researcher%E2%80%99s-megalodon-expertise</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2023/scholars-explore-future-careers-national-labs-day</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2023/students-alums-receive-competitive-nsf-fellowships</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2023/chemistry-students-australia-summer-research-experience</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -956,7 +884,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2023/campus-grad-slam-champion-wows-talk-about-recycling-co2</loc>
+    <loc>https://es.ucmerced.edu/news/2023/students-alums-receive-competitive-nsf-fellowships</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2023/scholars-explore-future-careers-national-labs-day</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2023/chemistry-students-australia-summer-research-experience</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -964,11 +900,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2023/uc-merced%E2%80%99s-graduate-programs-rank-among-best-nation</loc>
+    <loc>https://es.ucmerced.edu/news/2023/teams-compete-48-hour-water-hack-challenge</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2023/teams-compete-48-hour-water-hack-challenge</loc>
+    <loc>https://es.ucmerced.edu/news/2023/campus-grad-slam-champion-wows-talk-about-recycling-co2</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2023/uc-merced%E2%80%99s-graduate-programs-rank-among-best-nation</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -976,7 +916,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2023/cheer-campus%E2%80%99s-10-grad-slam-finalists-april-10</loc>
+    <loc>https://es.ucmerced.edu/news/2023/drones-donated-uc-merced-start-seekops-will-monitor-environmental-conditions</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -984,7 +924,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2023/uc-merced-researcher-taking-part-united-nations-water-conference</loc>
+    <loc>https://es.ucmerced.edu/news/2023/cheer-campus%E2%80%99s-10-grad-slam-finalists-april-10</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -992,11 +932,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2023/drones-donated-uc-merced-start-seekops-will-monitor-environmental-conditions</loc>
+    <loc>https://es.ucmerced.edu/news/2023/uc-merced-researcher-taking-part-united-nations-water-conference</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2023/campus-visit-broadens-mexican-research-collaborations</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2023/whats-future-agriculture-summit-looks-ahead</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2023/research-paper-explores-how-type-renewable-energy-affects-needs-energy-storage</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1012,11 +960,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2023/whats-future-agriculture-summit-looks-ahead</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2023/research-paper-explores-how-type-renewable-energy-affects-needs-energy-storage</loc>
+    <loc>https://es.ucmerced.edu/news/2023/research-week-highlights-solutions-urgent-environmental-issues</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1024,19 +968,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2023/research-week-highlights-solutions-urgent-environmental-issues</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2023/grant-will-fund-development-new-technically-advanced-agriculture-workforce</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2023/what-will-it-take-end-drought-california</loc>
+    <loc>https://es.ucmerced.edu/news/2023/community-and-labor-centers-new-study-highlights-farmworkers-health-challenges</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2023/community-and-labor-centers-new-study-highlights-farmworkers-health-challenges</loc>
+    <loc>https://es.ucmerced.edu/news/2023/what-will-it-take-end-drought-california</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1045,6 +985,10 @@
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2023/findlater-first-uc-merced-join-doe-funded-energy-frontier-research-center</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2023/uc-awards-164-million-grants-address-climate-energy-and-health</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1076,10 +1020,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2023/uc-awards-164-million-grants-address-climate-energy-and-health</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2022/experts-recommend-new-more-innovative-approach-wildfire-research</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -1089,6 +1029,10 @@
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2022/ground-tilled-crops-be-planted-uc-merced%E2%80%99s-smart-farm</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2022/continued-drought-conditions-add-billions-california-agriculture-losses%C2%A0uc-merced-report</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1112,10 +1056,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2022/continued-drought-conditions-add-billions-california-agriculture-losses%C2%A0uc-merced-report</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2022/uc-merced-shines-annual-sustainability-report</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -1129,6 +1069,10 @@
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2022/uc-merced-lands-125m-nsf-grant-predict-impact-climate-change-symbiotic-systems</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2022/researchers-take-new-approach-quantify-water-use</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1148,11 +1092,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2022/researchers-take-new-approach-quantify-water-use</loc>
+    <loc>https://es.ucmerced.edu/news/2022/study-shows-how-restoring-californias-overstocked-forests-yields-multiple-and-diverse</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2022/study-shows-how-restoring-californias-overstocked-forests-yields-multiple-and-diverse</loc>
+    <loc>https://es.ucmerced.edu/news/2022/palmer-headed-capitol-hill-campus%E2%80%99s-first-congressional-science-fellow</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1160,11 +1104,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2022/grad-student-awarded-prestigious-department-energy-fellowship</loc>
+    <loc>https://es.ucmerced.edu/news/2022/student-innovator-join-bobcat-family</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2022/student-innovator-join-bobcat-family</loc>
+    <loc>https://es.ucmerced.edu/news/2022/grad-student-awarded-prestigious-department-energy-fellowship</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1180,11 +1124,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2022/palmer-headed-capitol-hill-campus%E2%80%99s-first-congressional-science-fellow</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2022/california-sea-grant-funds-grad-student%E2%80%99s-shark-conservation-research</loc>
+    <loc>https://es.ucmerced.edu/news/2022/systemwide-climate-justice-course-debuts-fall</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1192,7 +1132,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2022/systemwide-climate-justice-course-debuts-fall</loc>
+    <loc>https://es.ucmerced.edu/news/2022/california-sea-grant-funds-grad-student%E2%80%99s-shark-conservation-research</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2022/apply-now-paid-summer-internship-real-research-experience</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2022/find-out-where-covid-pandemic-headed-look-here-sewer</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1200,7 +1148,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2022/find-out-where-covid-pandemic-headed-look-here-sewer</loc>
+    <loc>https://es.ucmerced.edu/news/2022/plan-attend-innovate-grow-or-volunteer-judge</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1216,15 +1164,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2022/apply-now-paid-summer-internship-real-research-experience</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2022/research-week-offers-both-virtual-and-person-events-year</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2022/plan-attend-innovate-grow-or-volunteer-judge</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1232,11 +1172,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2022/environmental-systems-student-earns-graduate-student-policy-award</loc>
+    <loc>https://es.ucmerced.edu/news/2022/last-year%E2%80%99s-drought-cost-ag-industry-more-1-billion-thousands-jobs-new-analysis-shows</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2022/celebrate-national-engineers-week-nine-uc-engineering-schools-and-programs</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2022/environmental-systems-student-earns-graduate-student-policy-award</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1256,15 +1200,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2022/last-year%E2%80%99s-drought-cost-ag-industry-more-1-billion-thousands-jobs-new-analysis-shows</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2022/faculty-report-ids-top-climate-challenges-facing-valley</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2021/microorganisms-consume-last-bits-oxygen-low-oxygen-ocean-zones-study-shows</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2021/kurtz%E2%80%99s-latest-publication-examines-renewable-energy-expansion</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1284,11 +1228,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2021/professor%E2%80%99s-covid-tracking-earns-her-spot-new-center-excellence</loc>
+    <loc>https://es.ucmerced.edu/news/2021/researcher-studies-cloud-formation-key-climate-change-modeling</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2021/kurtz%E2%80%99s-latest-publication-examines-renewable-energy-expansion</loc>
+    <loc>https://es.ucmerced.edu/news/2021/professor%E2%80%99s-covid-tracking-earns-her-spot-new-center-excellence</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1300,11 +1244,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2021/researcher-studies-cloud-formation-key-climate-change-modeling</loc>
+    <loc>https://es.ucmerced.edu/news/2021/state-natural-resources-secretary-visits-uc-merced-campus-research-discussion</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2021/state-natural-resources-secretary-visits-uc-merced-campus-research-discussion</loc>
+    <loc>https://es.ucmerced.edu/news/2021/nsf-grant-help-grad-students-find-solutions-environmental-challenges</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1321,10 +1265,6 @@
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2021/research-program-offers-students-moroccan-summer-field-experience</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2021/nsf-grant-help-grad-students-find-solutions-environmental-challenges</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1356,6 +1296,10 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://es.ucmerced.edu/news/2021/uc-merced-faculty-land-three-uc-hbcu-grants-most-system</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://es.ucmerced.edu/news/2021/recent-phd-grads-receive-nsf-postdoctoral-fellowship</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -1372,15 +1316,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2021/uc-merced-faculty-land-three-uc-hbcu-grants-most-system</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2021/cows-are-udderly-useful-healthy-vegetation-management-nature-reserve</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2021/campus-wastewater-testing-offers-covid-19-early-warning-system-establishes-protocols</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2021/phd-student-named-underrepresented-chemist-color-merck</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1392,7 +1336,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2021/phd-student-named-underrepresented-chemist-color-merck</loc>
+    <loc>https://es.ucmerced.edu/news/2021/professor-hestir-turns-nasa-technology-toward-earth%E2%80%99s-biodiversity</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1404,11 +1348,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2021/professor-hestir-turns-nasa-technology-toward-earth%E2%80%99s-biodiversity</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2021/uc-merced-phd-student-wins-uc-grad-slam-competition</loc>
+    <loc>https://es.ucmerced.edu/news/2021/science-must-dig-deeper-understand-climate-change%E2%80%99s-full-impact-study-shows</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1416,11 +1356,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2021/science-must-dig-deeper-understand-climate-change%E2%80%99s-full-impact-study-shows</loc>
+    <loc>https://es.ucmerced.edu/news/2021/uc-merced-phd-student-wins-uc-grad-slam-competition</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2021/naughton-lab-creates-dashboard-track-global-wastewater-testing-covid-19</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2021/studies-find-sierra-fuel-treatments-benefit-trees-and-streamflow-though-not-together</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1429,10 +1373,6 @@
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2021/uc-merced-teams-globe-theatre-shakespeare-and-climate-emergency-conference</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2021/studies-find-sierra-fuel-treatments-benefit-trees-and-streamflow-though-not-together</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1476,11 +1416,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://es.ucmerced.edu/news/2021/grow-grants-nurture-vital-projects-during-pandemic</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://es.ucmerced.edu/news/2021/climate-change-and-suppression-tactics-are-critical-factors-increasing-fires-study-shows</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2021/grow-grants-nurture-vital-projects-during-pandemic</loc>
+    <loc>https://es.ucmerced.edu/news/2021/eight-stories-read-black-history-month</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1489,10 +1433,6 @@
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2021/paleoecology-professors-research-and-teaching-earns-recognition</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2021/eight-stories-read-black-history-month</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1520,15 +1460,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2020/past-wildfires-offer-future-roadmap-forest-management%E2%80%99s-effects-water</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2020/ai-birds-new-computer-science-project</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2020/uc-merced-named-top-5-%E2%80%98cool-school%E2%80%99-sierra-club-and-makes-green-college-honor-roll</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2020/past-wildfires-offer-future-roadmap-forest-management%E2%80%99s-effects-water</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1540,19 +1480,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2020/precipitation-and-drainage-fuel-large-co2-%E2%80%98burps%E2%80%99-rainforest-soils-study-finds</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2020/new-project-shining-light-energy-storage</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2020/reforesting-after-wildfires-which-trees-are-most-likely-thrive</loc>
+    <loc>https://es.ucmerced.edu/news/2020/precipitation-and-drainage-fuel-large-co2-%E2%80%98burps%E2%80%99-rainforest-soils-study-finds</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2020/ecosystem-engineers-play-crucial-role-stabilizing-their-environments-study-shows</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2020/reforesting-after-wildfires-which-trees-are-most-likely-thrive</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1576,6 +1516,10 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://es.ucmerced.edu/news/2020/snri-sees-leadership-transition</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://es.ucmerced.edu/news/2020/new-tools-indicate-how-thinning-and-fire-affect-forest-water-use-and-boost-runoff</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -1584,7 +1528,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2020/snri-sees-leadership-transition</loc>
+    <loc>https://es.ucmerced.edu/news/2020/podcast-focuses-new-agriculture-and-california%E2%80%99s-future</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1592,19 +1536,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2020/podcast-focuses-new-agriculture-and-california%E2%80%99s-future</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2020/professor-and-falasco-chair-berhe-recognized-carnegie-corporation-distinguished-immigrant</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2020/new-grant-helps-assess-benefits-satellites-determining-water-quality</loc>
+    <loc>https://es.ucmerced.edu/news/2020/professor-explores-green-lubricants-mechanical-systems-nsf-grant</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2020/professor-explores-green-lubricants-mechanical-systems-nsf-grant</loc>
+    <loc>https://es.ucmerced.edu/news/2020/new-grant-helps-assess-benefits-satellites-determining-water-quality</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1616,11 +1556,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2020/innovate-grow-awards-10-winners-virtual-expo</loc>
+    <loc>https://es.ucmerced.edu/news/2020/bobcats-help-shape-future-nasa-spacex-missions</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2020/bobcats-help-shape-future-nasa-spacex-missions</loc>
+    <loc>https://es.ucmerced.edu/news/2020/innovate-grow-awards-10-winners-virtual-expo</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1628,11 +1568,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://es.ucmerced.edu/news/2020/changing-snowmelt-threatens-valley-ag-way-life</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://es.ucmerced.edu/news/2020/earth-day-talk-focuses-ag-land-and-water-regulations-solutions</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2020/changing-snowmelt-threatens-valley-ag-way-life</loc>
+    <loc>https://es.ucmerced.edu/news/2020/six-graduate-programs-recognized-us-news-rankings</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1644,10 +1588,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2020/six-graduate-programs-recognized-us-news-rankings</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2020/national-academy-engineers-elects-kurtz-its-ranks</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -1656,11 +1596,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2019/research-partnership-uses-compost-tackle-climate-change</loc>
+    <loc>https://es.ucmerced.edu/news/2020/wildfire-and-water-challenge-solutions-featured-documentary-air-kvie</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2020/wildfire-and-water-challenge-solutions-featured-documentary-air-kvie</loc>
+    <loc>https://es.ucmerced.edu/news/2019/research-partnership-uses-compost-tackle-climate-change</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1676,10 +1616,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2019/berhe-named-endowed-chair-recognition-her-work-soil-sciences</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2019/uc-merced-named-top-%E2%80%9Cgreen-college%E2%80%9D-princeton-review</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -1688,7 +1624,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2019/radiobio-breaks-down-science-through-airwaves</loc>
+    <loc>https://es.ucmerced.edu/news/2019/berhe-named-endowed-chair-recognition-her-work-soil-sciences</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1696,11 +1632,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2019/alumna-tackles-eco-evolutionary-research-california-coast</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2019/valley-fever-focus-public-event</loc>
+    <loc>https://es.ucmerced.edu/news/2019/radiobio-breaks-down-science-through-airwaves</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1708,11 +1640,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2019/researchers-use-monkey-flower-study-climate-change</loc>
+    <loc>https://es.ucmerced.edu/news/2019/valley-fever-focus-public-event</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2019/alumna-tackles-eco-evolutionary-research-california-coast</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2019/ted-audiences-get-dirt-soil-and-climate-change-berhe</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2019/researchers-use-monkey-flower-study-climate-change</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1732,11 +1672,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2019/multi-year-drought-caused-massive-forest-die-sierra-nevada</loc>
+    <loc>https://es.ucmerced.edu/news/2019/new-field-station-hosts-high-school-student-internship-opportunity</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2019/new-field-station-hosts-high-school-student-internship-opportunity</loc>
+    <loc>https://es.ucmerced.edu/news/2019/multi-year-drought-caused-massive-forest-die-sierra-nevada</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1760,10 +1700,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2019/one-key-climate-change-could-be-stuck-shark%E2%80%99s-tooth</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2019/uc-merced-receives-collaborative-grant-improve-equity-stem-education</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -1772,11 +1708,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2019/uc-merced-researchers-help-uncover-soil-biodiversity</loc>
+    <loc>https://es.ucmerced.edu/news/2019/one-key-climate-change-could-be-stuck-shark%E2%80%99s-tooth</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2019/grad-student-represents-valley-global-food-security-symposium</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2019/uc-merced-researchers-help-uncover-soil-biodiversity</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1788,11 +1728,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://es.ucmerced.edu/news/2019/graduate-students-make-case-research-capitol</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://es.ucmerced.edu/news/2019/climate-change-negatively-affecting-waterbirds-american-west</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2019/graduate-students-make-case-research-capitol</loc>
+    <loc>https://es.ucmerced.edu/news/2019/three-environmental-systems-graduate-students-receive-department-energy-fellowships-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1804,15 +1748,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2019/three-environmental-systems-graduate-students-receive-department-energy-fellowships-0</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2019/study-tiny-%E2%80%98ecosystem-engineers%E2%80%99-are-overlooked-source-carbon-dioxide-emissions</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2019/researchers-hope-tackle-methane-emissions-manure-through-use-biochar</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1820,7 +1756,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2018/innovative-partnership-aims-restore-sierra-nevada-forest-health</loc>
+    <loc>https://es.ucmerced.edu/news/2019/researchers-hope-tackle-methane-emissions-manure-through-use-biochar</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2019/new-project-build-climate-resilience-through-improved-land-management</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1828,7 +1768,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2019/new-project-build-climate-resilience-through-improved-land-management</loc>
+    <loc>https://es.ucmerced.edu/news/2018/innovative-partnership-aims-restore-sierra-nevada-forest-health</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1844,15 +1784,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2018/professor%E2%80%99s-novel-mercury-mapping-project-wins-state-grant</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2018/emergence-extinction-massive-ancient-shark-be-explored-nsf-grant</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2018/understanding-why-designs-work-%E2%80%94-or-don%E2%80%99t-%E2%80%94-important</loc>
+    <loc>https://es.ucmerced.edu/news/2018/professor%E2%80%99s-novel-mercury-mapping-project-wins-state-grant</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1860,7 +1796,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2018/uc-solar-awarded-11m-grant-build-solar-powered-water-purification-systems</loc>
+    <loc>https://es.ucmerced.edu/news/2018/understanding-why-designs-work-%E2%80%94-or-don%E2%80%99t-%E2%80%94-important</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1868,15 +1804,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://es.ucmerced.edu/news/2018/uc-solar-awarded-11m-grant-build-solar-powered-water-purification-systems</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://es.ucmerced.edu/news/2018/soil-can-sequester-planet-warming-carbon-merced-river-helping-scientists-understand-how</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2018/following-devastating-pandemic-california%E2%80%99s-sea-stars-are-evolving</loc>
+    <loc>https://es.ucmerced.edu/news/2018/merced-river-helps-explain-how-soils-capture-and-store-planet-warming-carbon</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2018/merced-river-helps-explain-how-soils-capture-and-store-planet-warming-carbon</loc>
+    <loc>https://es.ucmerced.edu/news/2018/following-devastating-pandemic-california%E2%80%99s-sea-stars-are-evolving</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1892,7 +1832,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2018/billions-gallons-water-saved-thinning-sierra-forests</loc>
+    <loc>https://es.ucmerced.edu/news/2018/engineering-students-get-inside-look-wastewater-treatment</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1900,11 +1840,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2018/engineering-students-get-inside-look-wastewater-treatment</loc>
+    <loc>https://es.ucmerced.edu/news/2018/billions-gallons-water-saved-thinning-sierra-forests</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2018/sustainable-california-video-highlights-uc-water-academy-experience</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2018/feeling-little-puckish-get-thee-yosemite-%E2%80%98-midsummer-night%E2%80%99s-dream%E2%80%99</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1916,7 +1860,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2018/feeling-little-puckish-get-thee-yosemite-%E2%80%98-midsummer-night%E2%80%99s-dream%E2%80%99</loc>
+    <loc>https://es.ucmerced.edu/news/2018/scientists-explain-mechanisms-affecting-runoff-levels-during-drought</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1924,15 +1868,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2018/scientists-explain-mechanisms-affecting-runoff-levels-during-drought</loc>
+    <loc>https://es.ucmerced.edu/news/2017/potential-california-new-york-partnership-highlights-uc-solar-symposium</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2017/%E2%80%98energize-colleges%E2%80%99-sustainability-internships-available</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2017/potential-california-new-york-partnership-highlights-uc-solar-symposium</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1960,6 +1900,10 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://es.ucmerced.edu/news/2017/massive-sensor-network-helps-scientists-monitor-mountain-water-resources</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://es.ucmerced.edu/news/2017/synthetic-nanotubes-beat-nature-water-purification</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -1972,19 +1916,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2017/massive-sensor-network-helps-scientists-monitor-mountain-water-resources</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2017/research-shows-global-photosynthesis-rise</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2017/%E2%80%98water-balance%E2%80%99-highlights-uc-merced-research</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2017/community-members-aid-cutting-edge-research-%E2%80%98bioblitz%E2%80%99-project</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2017/research-shows-global-photosynthesis-rise</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1996,6 +1936,10 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://es.ucmerced.edu/news/2017/new-uc-solar-project-produces-both-heat-and-power</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://es.ucmerced.edu/news/2017/raindrops-red-wine-inspire-solar-tech-advancements</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -2004,7 +1948,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2017/new-uc-solar-project-produces-both-heat-and-power</loc>
+    <loc>https://es.ucmerced.edu/news/2016/study-warming-could-slow-upslope-migration-trees</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2016,11 +1960,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2016/study-warming-could-slow-upslope-migration-trees</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2016/winston-feted-golden-anniversary-landmark-discovery-0</loc>
+    <loc>https://es.ucmerced.edu/news/2016/grad-student%E2%80%99s-water-mapping-work-leads-national-recognition-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2028,15 +1968,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://es.ucmerced.edu/news/2016/winston-feted-golden-anniversary-landmark-discovery-0</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://es.ucmerced.edu/news/2016/winston-feted-golden-anniversary-landmark-discovery</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2016/grad-student%E2%80%99s-water-mapping-work-leads-national-recognition-0</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2016/awra-awards-lorenzo-booths-research-water-use-crops</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2044,11 +1980,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2016/researcher%E2%80%99s-solar-powered-water-heaters-could-save-energy-and-money</loc>
+    <loc>https://es.ucmerced.edu/news/2016/awra-awards-lorenzo-booths-research-water-use-crops</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2016/winston%E2%80%99s-innovative-project-highlights-uc-solar-symposium</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2016/researcher%E2%80%99s-solar-powered-water-heaters-could-save-energy-and-money</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2016/researcher%E2%80%99s-solar-powered-water-heaters-could-save-energy-and-money-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2072,11 +2016,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2016/researcher%E2%80%99s-solar-powered-water-heaters-could-save-energy-and-money-0</loc>
+    <loc>https://es.ucmerced.edu/news/2016/greening-campus-earns-gold-sustainability-ratings</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2016/greening-campus-earns-gold-sustainability-ratings</loc>
+    <loc>https://es.ucmerced.edu/news/2016/internship-program-enhances-students%E2%80%99-academic-experiences</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2088,23 +2032,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2016/study-shows-how-plants-could-adapt-changing-climate</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2016/study-shows-how-plants-could-adapt-changing-climate-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2016/internship-program-enhances-students%E2%80%99-academic-experiences</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2016/pine-bacteria-getting-closer-look-scientists-0</loc>
+    <loc>https://es.ucmerced.edu/news/2016/study-shows-how-plants-could-adapt-changing-climate</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2016/pine-bacteria-getting-closer-look-scientists</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2016/pine-bacteria-getting-closer-look-scientists-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2116,6 +2056,10 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://es.ucmerced.edu/news/2016/study-fishing-industry-bigger-polluter-previously-known-0</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://es.ucmerced.edu/news/2016/new-study-shows-early-human-impacts-biodiversity</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -2124,7 +2068,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2016/study-fishing-industry-bigger-polluter-previously-known-0</loc>
+    <loc>https://es.ucmerced.edu/news/2016/faculty-climate-champion-puts-plan-action-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2132,11 +2076,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2016/faculty-climate-champion-puts-plan-action-0</loc>
+    <loc>https://es.ucmerced.edu/news/2015/humans-have-disrupted-ecosystems-6000-years-research-shows</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2015/humans-have-disrupted-ecosystems-6000-years-research-shows</loc>
+    <loc>https://es.ucmerced.edu/news/2015/uc-merced-rallies-finish-second-cool-campus-challenge</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2144,15 +2088,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2015/four-students-win-dan-david-solar-fellowships</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2015/researchers-model-near-future-coastal-redwoods%E2%80%99-habitat</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2015/uc-merced-rallies-finish-second-cool-campus-challenge</loc>
+    <loc>https://es.ucmerced.edu/news/2015/four-students-win-dan-david-solar-fellowships</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2161,6 +2101,10 @@
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2015/uc-merced-experts-part-new-uc-climate-report</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2015/three-students-awarded-global-food-initiative-fellowships</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2184,15 +2128,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2015/three-students-awarded-global-food-initiative-fellowships</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2015/uc-solar-symposium-focuses-innovations-and-policy</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2015/uc-president%E2%80%99s-whirlwind-visit-covers-many-bases</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2015/uc-merced-researchers-gathering-data-tackle-california%E2%80%99s-water-crisis-multiple-fronts</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2228,19 +2172,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2015/uc-merced-researchers-gathering-data-tackle-california%E2%80%99s-water-crisis-multiple-fronts</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2014/california-overspends-water-rights-300-million-acre-feet</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2014/engineering-students-working-water-issues-summer-research-project</loc>
+    <loc>https://es.ucmerced.edu/news/2014/provost-professor-appointed-president%E2%80%99s-environmental-council</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2014/provost-professor-appointed-president%E2%80%99s-environmental-council</loc>
+    <loc>https://es.ucmerced.edu/news/2014/engineering-students-working-water-issues-summer-research-project</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2252,11 +2192,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2014/professor%E2%80%99s-paper-nature-communications-indicates-deep-sea-changes</loc>
+    <loc>https://es.ucmerced.edu/news/2014/nsf-early-career-award-honors-professor%E2%80%99s-research-and-potential</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/news/2014/professor%E2%80%99s-passion-monkey-flower-leads-genetic-discoveries</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2014/professor%E2%80%99s-paper-nature-communications-indicates-deep-sea-changes</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/news/2013/professors-article-published-journal-science</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2268,15 +2216,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2014/nsf-early-career-award-honors-professor%E2%80%99s-research-and-potential</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2013/researcher-brings-billions-years-information-uc-merced-0</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/news/2013/professors-article-published-journal-science</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2292,15 +2232,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2013/summer-research-program-undergrads-aims-experience-lifetime</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/news/2013/researcher-brings-billions-years-information-uc-merced</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2013/professor%E2%80%99s-paper-among-year%E2%80%99s-best-shows-dramatic-effects-mountaintop-mining-climate</loc>
+    <loc>https://es.ucmerced.edu/news/2013/summer-research-program-undergrads-aims-experience-lifetime</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2308,7 +2244,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2012/national-science-foundation-funds-san-joaquin-river-research</loc>
+    <loc>https://es.ucmerced.edu/news/2013/professor%E2%80%99s-paper-among-year%E2%80%99s-best-shows-dramatic-effects-mountaintop-mining-climate</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2320,7 +2256,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2012/graduate-student-bringing-uc-merced-western-pacific</loc>
+    <loc>https://es.ucmerced.edu/news/2012/national-science-foundation-funds-san-joaquin-river-research</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2328,15 +2264,163 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://es.ucmerced.edu/news/2012/graduate-student-bringing-uc-merced-western-pacific</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/fall-2020/september-16-JohnForan</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/fall-2020/september-23-KarlettaChief</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/fall-2020/september30-ClareCannon</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/fall-2020/october-07-NicoleAthearn</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/fall-2020/october-14-CamilaAlvarez</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/fall-2020/october-21-ColleenReid</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/fall-2020/October28-LemirTeron</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/fall-2020/November4-KevinCromar</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/fall-2020/november18-MichaelMascarenhas</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/fall-2020/december2-JesseJenkins</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/StuWeiss</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/JudyDrexler</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/ManuelaGirotto</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/AngelFernandezBou</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/JingYan</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/AlexPeterson</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/ThomasKirchstetter</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/PaulSelmants</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/S2019/emily-moran-jay-sexton</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/sites/es.ucmerced.edu/files/page/documents/20190130_es_seminar_emily_moran_jay_sexton.pdf</loc>
+    <lastmod>2019-01-28</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/S2019/Catherine-Keske</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/spring-2019/Jay-Lund</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/S2019/Ross-Vander-Vorste</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/spring-2019/Paolo-dOdorico</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/spring-2019/Eoin-Brodie</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/spring-2019/Susan-Zimmerman</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/spring-2019/Renata-Brillinger</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/spring-2019/Christine-Lee</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/spring-2019/Kingsley-Odigie</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/F2018/alex-hall</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/F2018/Leopoldo-G.-Mendoza-Espinosa</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/F2018/showcase</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/seminars/F2018/maya-almaraz</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/https%3A//es.ucmerced.edu/ES-Seminar-Committee/Previous-Seminar-Committees</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://es.ucmerced.edu/media-contact/patty-guerra</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/media-contact/alyssa-johansen</loc>
+    <loc>https://es.ucmerced.edu/sites/es.ucmerced.edu/files/documents/es_request_to_change_from_ms_to_phd_procedure.pdf</loc>
+    <lastmod>2021-09-21</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/sites/es.ucmerced.edu/files/documents/es_waivers_requests_20210921_final_002.pdf</loc>
+    <lastmod>2021-10-04</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/media-contact/brenda-ortiz</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/angel-santiago-fernandez-bou</loc>
+    <loc>https://es.ucmerced.edu/media-contact/alyssa-johansen</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2348,15 +2432,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/media-contact/juan-flores</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/media-contact/brenda-ortiz</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/media-contact/juan-flores</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2384,11 +2464,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2025/former-president-carter-inspired-many-during-visit-uc-merced</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/taxonomy/term/2231/feed</loc>
+    <loc>https://es.ucmerced.edu/content/angel-santiago-fernandez-bou</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2396,15 +2472,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/taxonomy/term/2261/feed</loc>
+    <loc>https://es.ucmerced.edu/taxonomy/term/751/feed</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2025/three-engineering-programs-ranked-top-100-us-news</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/taxonomy/term/1861/feed</loc>
+    <loc>https://es.ucmerced.edu/taxonomy/term/2231/feed</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2412,15 +2484,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/news/2024/uc-merced-san-luis-delta-mendota-water-authority-sign-partnership-opens-exciting</loc>
+    <loc>https://es.ucmerced.edu/taxonomy/term/2261/feed</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>http://es.ucmerced.edu/</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/taxonomy/term/751/feed</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2432,15 +2500,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/newsresearch/alumni</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/current-students</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/resources/facilities</loc>
+    <loc>http://es.ucmerced.edu/newsresearch/alumni</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2449,6 +2513,14 @@
   </url>
   <url>
     <loc>http://es.ucmerced.edu/resources/centers-and-institutes</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/resources/facilities</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2472,19 +2544,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/news/2025/how-did-covid-19-pandemic-fuel-record-breaking-wildfires-2020-new-study-explains</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news</loc>
+    <loc>http://es.ucmerced.edu/rss.xml</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>http://es.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://es.ucmerced.edu/taxonomy/term/1861/feed</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://es.ucmerced.edu/taxonomy/term/1941/feed</loc>
@@ -2503,24 +2575,12 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/taxonomy/term/731/feed</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/content/andrea-joyce</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://es.ucmerced.edu/taxonomy/term/1321/feed</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://es.ucmerced.edu/content/jason-sexton</loc>
+    <loc>https://es.ucmerced.edu/taxonomy/term/731/feed</loc>
     <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/sites/es.ucmerced.edu/files/documents/2023.04.19_es_pps_clean.pdf</loc>
-    <lastmod>2023-09-01</lastmod>
   </url>
   <url>
     <loc>http://es.ucmerced.edu/content/christine-leah-abalo</loc>
@@ -2532,10 +2592,6 @@
   </url>
   <url>
     <loc>http://es.ucmerced.edu/content/fahad-ahmed</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/current-students/forms-and-documents</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2595,11 +2651,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/content/humberto-flores-landeros</loc>
+    <loc>http://es.ucmerced.edu/content/varvara-fedorova</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/content/varvara-fedorova</loc>
+    <loc>http://es.ucmerced.edu/content/humberto-flores-landeros</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2655,11 +2711,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/content/gabriele-larocca-conte</loc>
+    <loc>http://es.ucmerced.edu/content/jonathon-kuntz</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/content/jonathon-kuntz</loc>
+    <loc>http://es.ucmerced.edu/content/gabriele-larocca-conte</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2667,11 +2723,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/content/brittany-lopez-barreto</loc>
+    <loc>http://es.ucmerced.edu/content/liying-li</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/content/liying-li</loc>
+    <loc>http://es.ucmerced.edu/content/brittany-lopez-barreto</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2696,6 +2752,10 @@
   </url>
   <url>
     <loc>http://es.ucmerced.edu/content/zeyi-moo</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/content/maryam-nematian</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2739,11 +2799,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/content/samrajya-thapa</loc>
+    <loc>http://es.ucmerced.edu/content/berhanu-sinshaw</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/content/berhanu-sinshaw</loc>
+    <loc>http://es.ucmerced.edu/content/samrajya-thapa</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2771,43 +2831,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/content/maryam-nematian</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/content/lisa-wu</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>http://es.ucmerced.edu/content/cameron-zuber</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/fall-2020/october-07-NicoleAthearn</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/fall-2020/october-21-ColleenReid</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/fall-2020/november18-MichaelMascarenhas</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/JudyDrexler</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/PaulSelmants</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/seminars/spring-2019/Jay-Lund</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/media-contact/patty-guerra</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2879,11 +2907,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2024/global-co2-emissions-forest-fires-increase-60</loc>
+    <loc>http://es.ucmerced.edu/news/2024/study-climate-change-extends-drought-recovery-least-three-months</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2024/study-climate-change-extends-drought-recovery-least-three-months</loc>
+    <loc>http://es.ucmerced.edu/news/2024/global-co2-emissions-forest-fires-increase-60</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2907,11 +2935,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2024/researchers-accurately-model-animals%E2%80%99-hunting-scavenging-behavior</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2024/ecologists%E2%80%99-meeting-showcases-uc-merced-student-researchers-and-faculty</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2024/researchers-accurately-model-animals%E2%80%99-hunting-scavenging-behavior</loc>
+    <loc>http://es.ucmerced.edu/news/2024/climate-change-transforming-california-agriculture-%E2%80%94-there-are-ways-adapt-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2963,19 +2995,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2024/new-center-offers-opportunities-observe-and-learn-about-natural-resources</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/news/2024/spotlight-health-tech-social-good-hack-merced-ix</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2024/water-risks-agriculture-too-little-and-too-much</loc>
+    <loc>http://es.ucmerced.edu/news/2024/new-center-offers-opportunities-observe-and-learn-about-natural-resources</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2024/climate-change-transforming-california-agriculture-%E2%80%94-there-are-ways-adapt-0</loc>
+    <loc>http://es.ucmerced.edu/news/2024/water-risks-agriculture-too-little-and-too-much</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -2995,6 +3023,10 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2024/climate-and-carbon-dioxide-%E2%80%98roads-removal%E2%80%99-discussion-set-uc-merced</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2024/public-radio-highlights-natural-reserves-new-program-undergraduates</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -3011,19 +3043,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2024/phd-student-named-asce-committee-adaptation-changing-climate</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/news/2024/buhl-named-asce-committee</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2024/climate-and-carbon-dioxide-%E2%80%98roads-removal%E2%80%99-discussion-set-uc-merced</loc>
+    <loc>http://es.ucmerced.edu/news/2024/lukens%E2%80%99-latest-research-tracks-sediment%E2%80%99s-journey-eastern-sierra</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2024/lukens%E2%80%99-latest-research-tracks-sediment%E2%80%99s-journey-eastern-sierra</loc>
+    <loc>http://es.ucmerced.edu/news/2024/phd-student-named-asce-committee-adaptation-changing-climate</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3043,11 +3071,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2023/environmental-systems-student-named-ucar-next-generation-policy-fellow</loc>
+    <loc>http://es.ucmerced.edu/news/2023/climate-change-drive-surge-insects-attack-almonds-peaches-walnuts</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2023/climate-change-drive-surge-insects-attack-almonds-peaches-walnuts</loc>
+    <loc>http://es.ucmerced.edu/news/2023/environmental-systems-student-named-ucar-next-generation-policy-fellow</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3076,6 +3104,10 @@
   </url>
   <url>
     <loc>http://es.ucmerced.edu/news/2023/future-water-california-bleak-or-promising-discussion</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2023/new-major-trains-students-tell-planet%E2%80%99s-urgent-stories</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3111,19 +3143,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2023/findlater-named-fellow-royal-society-chemistry</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2023/new-major-trains-students-tell-planet%E2%80%99s-urgent-stories</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2023/profile-highlights-impressive-contributions-uc-merced-professor</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/news/2023/shark-week-highlights-researcher%E2%80%99s-megalodon-expertise</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2023/findlater-named-fellow-royal-society-chemistry</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3131,15 +3155,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2023/profile-highlights-impressive-contributions-uc-merced-professor</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2023/collaboration-across-continents-agreement-brings-merced-kyoto-campuses-closer</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2023/water-research-goes-deep-rafting-trip-utah</loc>
+    <loc>http://es.ucmerced.edu/news/2023/research-proves-megalodon-was-warm-blooded-both-advantage-and-extinction-factor</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2023/research-proves-megalodon-was-warm-blooded-both-advantage-and-extinction-factor</loc>
+    <loc>http://es.ucmerced.edu/news/2023/water-research-goes-deep-rafting-trip-utah</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3148,6 +3176,10 @@
   </url>
   <url>
     <loc>http://es.ucmerced.edu/news/2023/students-alums-receive-competitive-nsf-fellowships</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2023/scholars-explore-future-careers-national-labs-day</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3167,6 +3199,10 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2023/uc-merced%E2%80%99s-graduate-programs-rank-among-best-nation</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2023/uc-merced-invests-next-generation-ag-tech-leadership</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -3179,7 +3215,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2023/scholars-explore-future-careers-national-labs-day</loc>
+    <loc>http://es.ucmerced.edu/news/2023/cheer-campus%E2%80%99s-10-grad-slam-finalists-april-10</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3192,10 +3228,6 @@
   </url>
   <url>
     <loc>http://es.ucmerced.edu/news/2023/campus-visit-broadens-mexican-research-collaborations</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2023/uc-merced%E2%80%99s-graduate-programs-rank-among-best-nation</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3215,7 +3247,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2023/cheer-campus%E2%80%99s-10-grad-slam-finalists-april-10</loc>
+    <loc>http://es.ucmerced.edu/news/2023/ryals%E2%80%99-teaching-research-and-service-earns-her-presidential-chair-climate-change</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3227,19 +3259,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2023/ryals%E2%80%99-teaching-research-and-service-earns-her-presidential-chair-climate-change</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2023/what-will-it-take-end-drought-california</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/news/2023/grant-will-fund-development-new-technically-advanced-agriculture-workforce</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>http://es.ucmerced.edu/news/2023/community-and-labor-centers-new-study-highlights-farmworkers-health-challenges</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2023/what-will-it-take-end-drought-california</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3256,6 +3284,10 @@
   </url>
   <url>
     <loc>http://es.ucmerced.edu/news/2022/year-review-top-stories-2022</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2022/graduate-summer-bridge-program-recognized-%E2%80%98program-watch%E2%80%99</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3287,7 +3319,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2022/graduate-summer-bridge-program-recognized-%E2%80%98program-watch%E2%80%99</loc>
+    <loc>http://es.ucmerced.edu/news/2022/ground-tilled-crops-be-planted-uc-merced%E2%80%99s-smart-farm</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2022/continued-drought-conditions-add-billions-california-agriculture-losses%C2%A0uc-merced-report</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3296,14 +3332,6 @@
   </url>
   <url>
     <loc>http://es.ucmerced.edu/news/2022/solar-car-race-draws-middle-school-competitors-uc-merced</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2022/continued-drought-conditions-add-billions-california-agriculture-losses%C2%A0uc-merced-report</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2022/ground-tilled-crops-be-planted-uc-merced%E2%80%99s-smart-farm</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3339,7 +3367,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2022/uc-merced-led-coalition-awarded-65-million-build-back-better-funds</loc>
+    <loc>http://es.ucmerced.edu/news/2022/four-phd-students-awarded-chancellor%E2%80%99s-fellowship-inclusive-excellence</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3351,11 +3379,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2022/study-shows-how-restoring-californias-overstocked-forests-yields-multiple-and-diverse</loc>
+    <loc>http://es.ucmerced.edu/news/2022/uc-merced-led-coalition-awarded-65-million-build-back-better-funds</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2022/four-phd-students-awarded-chancellor%E2%80%99s-fellowship-inclusive-excellence</loc>
+    <loc>http://es.ucmerced.edu/news/2022/study-shows-how-restoring-californias-overstocked-forests-yields-multiple-and-diverse</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3363,11 +3391,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2022/student-innovator-join-bobcat-family</loc>
+    <loc>http://es.ucmerced.edu/news/2022/hydrogen-fuel-cell-development-fore-chuang%E2%80%99s-international-research</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2022/hydrogen-fuel-cell-development-fore-chuang%E2%80%99s-international-research</loc>
+    <loc>http://es.ucmerced.edu/news/2022/student-innovator-join-bobcat-family</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3376,6 +3404,10 @@
   </url>
   <url>
     <loc>http://es.ucmerced.edu/news/2022/retiring-winston-looks-forward-his-busy-bright-future</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2022/student-team-winners-named-spring%E2%80%99s-innovate-grow-event</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3388,6 +3420,10 @@
   </url>
   <url>
     <loc>http://es.ucmerced.edu/news/2022/sign-now-attend-springs-i2g-events</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2022/california-sea-grant-funds-grad-student%E2%80%99s-shark-conservation-research</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3411,10 +3447,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2022/student-team-winners-named-spring%E2%80%99s-innovate-grow-event</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/news/2022/uc-merced-grad-programs-see-uptick-us-news-rankings</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -3427,7 +3459,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2022/california-sea-grant-funds-grad-student%E2%80%99s-shark-conservation-research</loc>
+    <loc>http://es.ucmerced.edu/news/2022/grad-students-invited-uc-merced%E2%80%99s-first-%E2%80%98nanoengineering-environmental-sensors%E2%80%99-incubator</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2022/last-year%E2%80%99s-drought-cost-ag-industry-more-1-billion-thousands-jobs-new-analysis-shows</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3435,23 +3471,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2022/environmental-systems-student-earns-graduate-student-policy-award</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/news/2022/hotter-drier-nights-mean-more-runaway-fires</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2022/grad-students-invited-uc-merced%E2%80%99s-first-%E2%80%98nanoengineering-environmental-sensors%E2%80%99-incubator</loc>
+    <loc>http://es.ucmerced.edu/news/2022/environmental-systems-student-earns-graduate-student-policy-award</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>http://es.ucmerced.edu/news/2022/solar-paneled-canals-getting-test-run-san-joaquin-valley</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2022/last-year%E2%80%99s-drought-cost-ag-industry-more-1-billion-thousands-jobs-new-analysis-shows</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3471,6 +3499,10 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2021/kurtz%E2%80%99s-latest-publication-examines-renewable-energy-expansion</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2021/winston-cone-optics-innovative-technology-garners-state-national-attention</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -3487,6 +3519,10 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2021/professor%E2%80%99s-covid-tracking-earns-her-spot-new-center-excellence</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2021/researcher-studies-cloud-formation-key-climate-change-modeling</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -3495,11 +3531,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2021/kurtz%E2%80%99s-latest-publication-examines-renewable-energy-expansion</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2021/professor%E2%80%99s-covid-tracking-earns-her-spot-new-center-excellence</loc>
+    <loc>http://es.ucmerced.edu/news/2021/research-clarifying%C2%A0benefits-transforming-human-waste-useable-resources</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3515,19 +3547,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2021/professor%E2%80%99s-side-blotched-lizards-become-latest-campus-inhabitants</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2021/researchers-investigate-land-management-role-greenhouse-gas-emissions-carbon-sequestration</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2021/research-clarifying%C2%A0benefits-transforming-human-waste-useable-resources</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/news/2021/research-program-offers-students-moroccan-summer-field-experience</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2021/professor%E2%80%99s-side-blotched-lizards-become-latest-campus-inhabitants</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3555,6 +3583,10 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2021/edwards-eager-expand-father-evolution%E2%80%99s-work</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2021/uc-merced-faculty-land-three-uc-hbcu-grants-most-system</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -3563,7 +3595,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2021/edwards-eager-expand-father-evolution%E2%80%99s-work</loc>
+    <loc>http://es.ucmerced.edu/news/2021/new-ai-institute-expands-uc-merced%E2%80%99s-smart-sustainable-agriculture-effort</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3571,15 +3603,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2021/cows-are-udderly-useful-healthy-vegetation-management-nature-reserve</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2021/new-ai-institute-expands-uc-merced%E2%80%99s-smart-sustainable-agriculture-effort</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/news/2021/engineering-professor-awarded-nasa-grant-study-impacts-wildfires-california%E2%80%99s-coastline</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2021/cows-are-udderly-useful-healthy-vegetation-management-nature-reserve</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3599,6 +3627,10 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2021/professor-hestir-turns-nasa-technology-toward-earth%E2%80%99s-biodiversity</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2021/western-fires-are-burning-higher-mountains-unprecedented-rates-professor-finds</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -3607,15 +3639,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2021/engineering-ag-tech-solutions-just-one-element-annual-innovate-grow-expo</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/news/2021/science-must-dig-deeper-understand-climate-change%E2%80%99s-full-impact-study-shows</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2021/professor-hestir-turns-nasa-technology-toward-earth%E2%80%99s-biodiversity</loc>
+    <loc>http://es.ucmerced.edu/news/2021/engineering-ag-tech-solutions-just-one-element-annual-innovate-grow-expo</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3643,6 +3671,10 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2021/professor-josu%C3%A9-medell%C3%ADn-azuara-published-proceedings-national-academy-science</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2021/first-year-and-transfer-students-can-dig-research-summer-paid-usda-internships</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -3651,11 +3683,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2021/us-news-world-report-rankings-showcase-growing-engineering-program-debuts-history-and</loc>
+    <loc>http://es.ucmerced.edu/news/2021/us-news-world-report-rankings-showcase-growing-engineering-program-debuts</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2021/us-news-world-report-rankings-showcase-growing-engineering-program-debuts</loc>
+    <loc>http://es.ucmerced.edu/news/2021/us-news-world-report-rankings-showcase-growing-engineering-program-debuts-history-and</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3664,6 +3696,10 @@
   </url>
   <url>
     <loc>http://es.ucmerced.edu/news/2021/solar-panels-over-canals-can-save-money-energy-and-water-study-shows</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2021/mechanical-engineering-student-named-campus%E2%80%99s-first-rhodes-scholar</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3679,19 +3715,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2021/professor-josu%C3%A9-medell%C3%ADn-azuara-published-proceedings-national-academy-science</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/news/2021/eight-stories-read-black-history-month</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>http://es.ucmerced.edu/news/2021/shark-teeth-provide-clues-about-ancient-global-change</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2021/mechanical-engineering-student-named-campus%E2%80%99s-first-rhodes-scholar</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3719,19 +3747,23 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2020/ai-birds-new-computer-science-project</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/news/2020/new-project-focuses-life-soil-earth%E2%80%99s-critical-zone</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2020/professor-tracey-osborne-taking-complex-grand-challenges-climate-and-social-justice</loc>
+    <loc>http://es.ucmerced.edu/news/2020/ai-birds-new-computer-science-project</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2020/uc-merced-named-top-5-%E2%80%98cool-school%E2%80%99-sierra-club-and-makes-green-college-honor-roll</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>http://es.ucmerced.edu/news/2020/past-wildfires-offer-future-roadmap-forest-management%E2%80%99s-effects-water</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2020/professor-tracey-osborne-taking-complex-grand-challenges-climate-and-social-justice</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3743,11 +3775,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2020/uc-merced-named-top-5-%E2%80%98cool-school%E2%80%99-sierra-club-and-makes-green-college-honor-roll</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2020/ecosystem-engineers-play-crucial-role-stabilizing-their-environments-study-shows</loc>
+    <loc>http://es.ucmerced.edu/news/2020/precipitation-and-drainage-fuel-large-co2-%E2%80%98burps%E2%80%99-rainforest-soils-study-finds</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3755,15 +3783,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2020/precipitation-and-drainage-fuel-large-co2-%E2%80%98burps%E2%80%99-rainforest-soils-study-finds</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2020/new-engineering-research-center-focus-agriculture-technology</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2020/world%E2%80%99s-tallest-trees-shape-diversity-life-their-soils-study-shows</loc>
+    <loc>http://es.ucmerced.edu/news/2020/ecosystem-engineers-play-crucial-role-stabilizing-their-environments-study-shows</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3771,11 +3791,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2020/snri-sees-leadership-transition</loc>
+    <loc>http://es.ucmerced.edu/news/2020/world%E2%80%99s-tallest-trees-shape-diversity-life-their-soils-study-shows</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2020/radiobio-receives-uc-president%E2%80%99s-award-outstanding-student-leadership</loc>
+    <loc>http://es.ucmerced.edu/news/2020/new-engineering-research-center-focus-agriculture-technology</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3783,11 +3803,23 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2020/radiobio-receives-uc-president%E2%80%99s-award-outstanding-student-leadership</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2020/new-tools-indicate-how-thinning-and-fire-affect-forest-water-use-and-boost-runoff</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2020/snri-sees-leadership-transition</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2020/new-study-finds-media-coverage-could-discourage-many-guiding-groundwater-use</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2020/podcast-focuses-new-agriculture-and-california%E2%80%99s-future</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3799,15 +3831,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2020/podcast-focuses-new-agriculture-and-california%E2%80%99s-future</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/news/2020/professor-explores-green-lubricants-mechanical-systems-nsf-grant</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2020/new-bridge-program-involves-incoming-students-future-agriculture</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3815,15 +3839,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2020/new-bridge-program-involves-incoming-students-future-agriculture</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2020/human-waste-treatment-helps-solve-climate-change-puzzle-new-study-shows</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2020/innovate-grow-awards-10-winners-virtual-expo</loc>
+    <loc>http://es.ucmerced.edu/news/2020/bobcats-help-shape-future-nasa-spacex-missions</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2020/bobcats-help-shape-future-nasa-spacex-missions</loc>
+    <loc>http://es.ucmerced.edu/news/2020/innovate-grow-awards-10-winners-virtual-expo</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3839,15 +3867,23 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2020/national-academy-engineering-elects-kurtz-its-ranks</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/news/2020/six-graduate-programs-recognized-us-news-rankings</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2020/%E2%80%98e-week%E2%80%99-shines-spotlight-engineering-field-students</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2020/national-academy-engineers-elects-kurtz-its-ranks</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2020/national-academy-engineering-elects-kurtz-its-ranks</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2020/researchers-aim-cure-valley%E2%80%99s-salty-soil-25m-grant-nsf</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3863,10 +3899,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2020/%E2%80%98e-week%E2%80%99-shines-spotlight-engineering-field-students</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/news/2019/researchers-look-wetlands-increase-delta-water-quality</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -3875,11 +3907,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2019/symposium-explores-how-biogas-could-fuel-california</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2020/researchers-aim-cure-valley%E2%80%99s-salty-soil-25m-grant-nsf</loc>
+    <loc>http://es.ucmerced.edu/news/2019/uc-merced-named-top-%E2%80%9Cgreen-college%E2%80%9D-princeton-review</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3887,11 +3915,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2019/radiobio-breaks-down-science-through-airwaves</loc>
+    <loc>http://es.ucmerced.edu/news/2019/symposium-explores-how-biogas-could-fuel-california</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2019/uc-merced-named-top-%E2%80%9Cgreen-college%E2%80%9D-princeton-review</loc>
+    <loc>http://es.ucmerced.edu/news/2019/aldenderfer-discusses-humans%E2%80%99-deep-history-international-mountain-conference</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2019/radiobio-breaks-down-science-through-airwaves</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3900,10 +3932,6 @@
   </url>
   <url>
     <loc>http://es.ucmerced.edu/news/2019/valley-fever-focus-public-event</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2019/aldenderfer-discusses-humans%E2%80%99-deep-history-international-mountain-conference</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3939,15 +3967,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2019/multi-year-drought-caused-massive-forest-die-sierra-nevada</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2019/multiyear-drought-caused-massive-forest-die-sierra-nevada</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>http://es.ucmerced.edu/news/2019/sierra-seedlings-illustrate-effects-climate-change-next-generation-forests</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2019/multi-year-drought-caused-massive-forest-die-sierra-nevada</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3964,6 +3992,10 @@
   </url>
   <url>
     <loc>http://es.ucmerced.edu/news/2019/uc-merced-receives-collaborative-grant-improve-equity-stem-education</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2019/one-key-climate-change-could-be-stuck-shark%E2%80%99s-tooth</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -3991,10 +4023,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2019/climate-change-negatively-affecting-waterbirds-american-west</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/news/2019/three-environmental-systems-graduate-students-receive-department-energy-fellowships-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -4003,7 +4031,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2019/climate-change-negatively-affecting-waterbirds-american-west</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2019/engineering-grad-programs-ranked-among-best-nation</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2019/study-tiny-%E2%80%98ecosystem-engineers%E2%80%99-are-overlooked-source-carbon-dioxide-emissions</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4015,10 +4051,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2019/one-key-climate-change-could-be-stuck-shark%E2%80%99s-tooth</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/news/2019/new-project-build-climate-resilience-through-improved-land-management</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -4027,11 +4059,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2019/study-tiny-%E2%80%98ecosystem-engineers%E2%80%99-are-overlooked-source-carbon-dioxide-emissions</loc>
+    <loc>http://es.ucmerced.edu/news/2018/innovative-partnership-aims-restore-sierra-nevada-forest-health</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2018/innovative-partnership-aims-restore-sierra-nevada-forest-health</loc>
+    <loc>http://es.ucmerced.edu/news/2018/researchers-assess-western-forests%E2%80%99-ability-survive-next-drought</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4047,15 +4079,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2018/professor%E2%80%99s-novel-mercury-mapping-project-wins-state-grant</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2018/uc-climate-change-research-one-focus-global-summit-new-reports</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2018/researchers-assess-western-forests%E2%80%99-ability-survive-next-drought</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2018/career-award-will-help-professor-predict-how-species-respond-climate-change</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4063,11 +4091,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2018/uc-solar-awarded-11m-grant-build-solar-powered-water-purification-systems</loc>
+    <loc>http://es.ucmerced.edu/news/2018/career-award-will-help-professor-predict-how-species-respond-climate-change</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2018/professor%E2%80%99s-novel-mercury-mapping-project-wins-state-grant</loc>
+    <loc>http://es.ucmerced.edu/news/2018/uc-solar-awarded-11m-grant-build-solar-powered-water-purification-systems</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4079,7 +4107,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2018/students-discover-cannibal-lizards-remote-aegean-island</loc>
+    <loc>http://es.ucmerced.edu/news/2018/following-devastating-pandemic-california%E2%80%99s-sea-stars-are-evolving</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4087,7 +4115,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2018/following-devastating-pandemic-california%E2%80%99s-sea-stars-are-evolving</loc>
+    <loc>http://es.ucmerced.edu/news/2018/students-discover-cannibal-lizards-remote-aegean-island</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4103,11 +4131,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2018/billions-gallons-water-saved-thinning-sierra-forests</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2018/sustainable-california-video-highlights-uc-water-academy-experience</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2018/billions-gallons-water-saved-thinning-sierra-forests</loc>
+    <loc>http://es.ucmerced.edu/news/2018/feeling-little-puckish-get-thee-yosemite-%E2%80%98-midsummer-night%E2%80%99s-dream%E2%80%99</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4119,11 +4151,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2017/study-climate-change-drought-threaten-giant-sequoias</loc>
+    <loc>http://es.ucmerced.edu/news/2018/scientists-explain-mechanisms-affecting-runoff-levels-during-drought</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2018/scientists-explain-mechanisms-affecting-runoff-levels-during-drought</loc>
+    <loc>http://es.ucmerced.edu/news/2017/study-climate-change-drought-threaten-giant-sequoias</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4131,7 +4163,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2018/feeling-little-puckish-get-thee-yosemite-%E2%80%98-midsummer-night%E2%80%99s-dream%E2%80%99</loc>
+    <loc>http://es.ucmerced.edu/news/2017/%E2%80%98energize-colleges%E2%80%99-sustainability-internships-available</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4147,15 +4179,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2017/our-first-campus-was-castle</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2017/pge-funds-critical-snri-work-sierra-forest-resiliency</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>http://es.ucmerced.edu/news/2017/campus-voices-partnering-parks-our-first-research-institute</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2017/our-first-campus-was-castle</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4175,7 +4207,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2017/%E2%80%98energize-colleges%E2%80%99-sustainability-internships-available</loc>
+    <loc>http://es.ucmerced.edu/news/2017/%E2%80%98water-balance%E2%80%99-highlights-uc-merced-research</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2017/community-members-aid-cutting-edge-research-%E2%80%98bioblitz%E2%80%99-project</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4191,19 +4227,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2017/%E2%80%98water-balance%E2%80%99-highlights-uc-merced-research</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2017/community-members-aid-cutting-edge-research-%E2%80%98bioblitz%E2%80%99-project</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/news/2017/new-uc-solar-project-produces-both-heat-and-power</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>http://es.ucmerced.edu/news/2017/raindrops-red-wine-inspire-solar-tech-advancements</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2017/bird-researcher-expands-knowledge-about-reserve%E2%80%99s-kestrels</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4219,15 +4251,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2016/alumnus-stays-local-launches-environmentally-friendly-career</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2017/bird-researcher-expands-knowledge-about-reserve%E2%80%99s-kestrels</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/news/2016/grad-student%E2%80%99s-water-mapping-work-leads-national-recognition-0</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2016/alumnus-stays-local-launches-environmentally-friendly-career</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4255,7 +4283,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2016/campus-takes-steps-stay-green-despite-drought</loc>
+    <loc>http://es.ucmerced.edu/news/2016/researcher%E2%80%99s-solar-powered-water-heaters-could-save-energy-and-money</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4263,11 +4291,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2016/researcher%E2%80%99s-solar-powered-water-heaters-could-save-energy-and-money</loc>
+    <loc>http://es.ucmerced.edu/news/2016/uc-merced-extension-offerings-launch-yosemite-excursions</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2016/uc-merced-extension-offerings-launch-yosemite-excursions</loc>
+    <loc>http://es.ucmerced.edu/news/2016/campus-takes-steps-stay-green-despite-drought</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2016/professor%E2%80%99s-mercurial-studies-involve-tree-bark-fish-and-water</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4279,15 +4311,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2016/internship-program-enhances-students%E2%80%99-academic-experiences</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2016/uc-merced-student-winner-clinton-event</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2016/professor%E2%80%99s-mercurial-studies-involve-tree-bark-fish-and-water</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2016/study-shows-how-plants-could-adapt-changing-climate-0</loc>
+    <loc>http://es.ucmerced.edu/news/2016/eat-hydrate-and-learn-year%E2%80%99s-earth-day-event</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4295,15 +4327,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2016/study-shows-how-plants-could-adapt-changing-climate-0</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2016/pine-bacteria-getting-closer-look-scientists</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2016/internship-program-enhances-students%E2%80%99-academic-experiences</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2016/eat-hydrate-and-learn-year%E2%80%99s-earth-day-event</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4315,11 +4343,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2016/study-fishing-industry-bigger-polluter-previously-known</loc>
+    <loc>http://es.ucmerced.edu/news/2016/study-fishing-industry-bigger-polluter-previously-known-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2016/study-fishing-industry-bigger-polluter-previously-known-0</loc>
+    <loc>http://es.ucmerced.edu/news/2016/study-fishing-industry-bigger-polluter-previously-known</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4335,6 +4363,10 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2016/researcher%E2%80%99s-work-shows-history-doesn%E2%80%99t-indicate-future-climate-change</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2015/humans-have-disrupted-ecosystems-6000-years-research-shows</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -4347,7 +4379,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2015/four-students-win-dan-david-solar-fellowships</loc>
+    <loc>http://es.ucmerced.edu/news/2015/researchers-model-near-future-coastal-redwoods%E2%80%99-habitat</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4355,7 +4387,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2016/researcher%E2%80%99s-work-shows-history-doesn%E2%80%99t-indicate-future-climate-change</loc>
+    <loc>http://es.ucmerced.edu/news/2015/four-students-win-dan-david-solar-fellowships</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4367,7 +4399,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2015/researchers-model-near-future-coastal-redwoods%E2%80%99-habitat</loc>
+    <loc>http://es.ucmerced.edu/news/2015/campus-track-meet-state%E2%80%99s-water-conservation-demands</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4379,19 +4411,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2015/professor%E2%80%99s-invention-helps-scientists-win-nobel-prize</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2015/event-connects-high-school-girls-female-scientists</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>http://es.ucmerced.edu/news/2015/uc-solar-symposium-focuses-innovations-and-policy</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2015/campus-track-meet-state%E2%80%99s-water-conservation-demands</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2015/professor%E2%80%99s-invention-helps-scientists-win-nobel-prize</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4404,6 +4432,10 @@
   </url>
   <url>
     <loc>http://es.ucmerced.edu/news/2015/humanities-center-aims-bring-depth-water-issues</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2015/sun-and-salt-how-solar-tech-can-help-california%E2%80%99s-drought</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4423,10 +4455,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2015/sun-and-salt-how-solar-tech-can-help-california%E2%80%99s-drought</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/news/2014/professor%E2%80%99s-soil-research-digs-many-more-questions</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -4443,10 +4471,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2014/faa-approves-data-drone-research-uc-merced</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>http://es.ucmerced.edu/news/2014/engineering-students-working-water-issues-summer-research-project</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -4455,11 +4479,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2014/nsf-early-career-award-honors-professor%E2%80%99s-research-and-potential</loc>
+    <loc>http://es.ucmerced.edu/news/2014/faa-approves-data-drone-research-uc-merced</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2013/professors-article-published-journal-science</loc>
+    <loc>http://es.ucmerced.edu/news/2014/nsf-early-career-award-honors-professor%E2%80%99s-research-and-potential</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4475,6 +4499,10 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2013/professors-article-published-journal-science</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2013/summer-research-takes-uc-merced-around-globe</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -4483,7 +4511,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>http://es.ucmerced.edu/news/2013/uc-merced-alumnus%E2%80%99s-rim-fire-map-generates-lots-attention</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://es.ucmerced.edu/news/2013/summer-scholars-learn-doing</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/news/2013/grad-student%E2%80%99s-farmland-mapping-project-gets-prestigious-publisher</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4495,11 +4531,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2013/grad-student%E2%80%99s-farmland-mapping-project-gets-prestigious-publisher</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/news/2013/uc-merced-alumnus%E2%80%99s-rim-fire-map-generates-lots-attention</loc>
+    <loc>http://es.ucmerced.edu/news/2013/postdoctoral-researcher%E2%80%99s-work-international-ecology-journal</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4507,11 +4539,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2012/professor-looks-inside-trees-answers</loc>
+    <loc>http://es.ucmerced.edu/news/2013/professor%E2%80%99s-design-could-win-50000-grant</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2013/postdoctoral-researcher%E2%80%99s-work-international-ecology-journal</loc>
+    <loc>http://es.ucmerced.edu/news/2012/professor-looks-inside-trees-answers</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4527,23 +4559,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/news/2013/professor%E2%80%99s-design-could-win-50000-grant</loc>
+    <loc>http://es.ucmerced.edu/media-contact/patty-guerra</loc>
     <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/sites/es.ucmerced.edu/files/documents/es_request_to_change_from_ms_to_phd_procedure.pdf</loc>
-    <lastmod>2021-09-21</lastmod>
-  </url>
-  <url>
-    <loc>https://es.ucmerced.edu/sites/es.ucmerced.edu/files/documents/es_waivers_requests_20210921_final_002.pdf</loc>
-    <lastmod>2021-10-04</lastmod>
   </url>
   <url>
     <loc>http://es.ucmerced.edu/media-contact/brenda-ortiz</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://es.ucmerced.edu/taxonomy/term/1991/feed</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4575,11 +4595,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/media-contact/michelle-morgante</loc>
+    <loc>http://es.ucmerced.edu/media-contact/james-leonard</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/media-contact/james-leonard</loc>
+    <loc>http://es.ucmerced.edu/media-contact/michelle-morgante</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4587,11 +4607,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/taxonomy/term/2231/feed</loc>
+    <loc>http://es.ucmerced.edu/taxonomy/term/1991/feed</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>http://es.ucmerced.edu/taxonomy/term/751/feed</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://es.ucmerced.edu/taxonomy/term/2231/feed</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -4619,11 +4643,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/taxonomy/term/1321/feed</loc>
+    <loc>http://es.ucmerced.edu/taxonomy/term/821/feed</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://es.ucmerced.edu/taxonomy/term/821/feed</loc>
+    <loc>http://es.ucmerced.edu/taxonomy/term/1321/feed</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>

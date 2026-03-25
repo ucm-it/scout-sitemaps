@@ -10,13 +10,13 @@
     <loc>https://stemcenter.ucmerced.edu/academic-services</loc>
   </url>
   <url>
-    <loc>https://stemcenter.ucmerced.edu/outreach</loc>
+    <loc>https://stemcenter.ucmerced.edu/academic-services/study-group-sessions</loc>
   </url>
   <url>
     <loc>https://stemcenter.ucmerced.edu/opportunities</loc>
   </url>
   <url>
-    <loc>http://stemcenter.ucmerced.edu/academic-services/tutor-program</loc>
+    <loc>https://stemcenter.ucmerced.edu/outreach</loc>
   </url>
   <url>
     <loc>https://stemcenter.ucmerced.edu/student-organizations</loc>
@@ -25,13 +25,16 @@
     <loc>https://stemcenter.ucmerced.edu/contact-us-0</loc>
   </url>
   <url>
+    <loc>http://stemcenter.ucmerced.edu/academic-services/tutor-program</loc>
+  </url>
+  <url>
+    <loc>http://stemcenter.ucmerced.edu/opportunities</loc>
+  </url>
+  <url>
+    <loc>https://stemcenter.ucmerced.edu/academic-services/tutor-program</loc>
+  </url>
+  <url>
     <loc>https://stemcenter.ucmerced.edu/yes-academy</loc>
-  </url>
-  <url>
-    <loc>https://stemcenter.ucmerced.edu/node/1761</loc>
-  </url>
-  <url>
-    <loc>http://stemcenter.ucmerced.edu/node/134</loc>
   </url>
   <url>
     <loc>https://stemcenter.ucmerced.edu/node/1731</loc>
@@ -40,13 +43,25 @@
     <loc>https://stemcenter.ucmerced.edu/node/1741</loc>
   </url>
   <url>
+    <loc>https://stemcenter.ucmerced.edu/node/1761</loc>
+  </url>
+  <url>
+    <loc>http://stemcenter.ucmerced.edu/node/134</loc>
+  </url>
+  <url>
     <loc>http://stemcenter.ucmerced.edu/objectives</loc>
   </url>
   <url>
-    <loc>http://stemcenter.ucmerced.edu/opportunities</loc>
+    <loc>http://stemcenter.ucmerced.edu/academic-services</loc>
+  </url>
+  <url>
+    <loc>http://stemcenter.ucmerced.edu/academic-services/study-group-sessions</loc>
   </url>
   <url>
     <loc>http://stemcenter.ucmerced.edu/outreach</loc>
+  </url>
+  <url>
+    <loc>http://stemcenter.ucmerced.edu/student-organizations</loc>
   </url>
   <url>
     <loc>http://stemcenter.ucmerced.edu/contact-us-0</loc>
@@ -56,17 +71,5 @@
   </url>
   <url>
     <loc>https://stemcenter.ucmerced.edu/academic-services/tutor-program-learning-outcomes</loc>
-  </url>
-  <url>
-    <loc>https://stemcenter.ucmerced.edu/academic-services/study-group-sessions</loc>
-  </url>
-  <url>
-    <loc>http://stemcenter.ucmerced.edu/academic-services</loc>
-  </url>
-  <url>
-    <loc>http://stemcenter.ucmerced.edu/academic-services/study-group-sessions</loc>
-  </url>
-  <url>
-    <loc>http://stemcenter.ucmerced.edu/student-organizations</loc>
   </url>
 </urlset>

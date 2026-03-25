@@ -7,10 +7,10 @@
     <loc>https://advising.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://advising.ucmerced.edu/mission-goals</loc>
+    <loc>https://advising.ucmerced.edu/about-advising-0</loc>
   </url>
   <url>
-    <loc>https://advising.ucmerced.edu/about-advising-0</loc>
+    <loc>https://advising.ucmerced.edu/mission-goals</loc>
   </url>
   <url>
     <loc>https://advising.ucmerced.edu/about-advising/role-advising-academic-success</loc>
@@ -25,31 +25,13 @@
     <loc>https://advising.ucmerced.edu/student_information</loc>
   </url>
   <url>
-    <loc>https://advising.ucmerced.edu/student-information/current-students</loc>
-  </url>
-  <url>
-    <loc>https://advising.ucmerced.edu/jump-start-your-third-year</loc>
-  </url>
-  <url>
-    <loc>https://advising.ucmerced.edu/student-information/subject-academic-dismissal-appeals/academic-support-meetings</loc>
-  </url>
-  <url>
-    <loc>https://advising.ucmerced.edu/student-information/student-learning-outcomes</loc>
-  </url>
-  <url>
-    <loc>https://advising.ucmerced.edu/resources-0</loc>
-  </url>
-  <url>
-    <loc>https://advising.ucmerced.edu/who-my-academic-advisor</loc>
-  </url>
-  <url>
-    <loc>https://advising.ucmerced.edu/contact-us-0</loc>
-  </url>
-  <url>
-    <loc>https://advising.ucmerced.edu/reg-resources</loc>
+    <loc>https://advising.ucmerced.edu/student_information/prospective_students</loc>
   </url>
   <url>
     <loc>https://advising.ucmerced.edu/student-information/new-admitted-students</loc>
+  </url>
+  <url>
+    <loc>https://advising.ucmerced.edu/student-information/current-students</loc>
   </url>
   <url>
     <loc>https://advising.ucmerced.edu/student-information/current-students/academic-advising-first-years</loc>
@@ -58,10 +40,22 @@
     <loc>https://advising.ucmerced.edu/student-information/current-students/academic-advising-undeclared-students</loc>
   </url>
   <url>
+    <loc>https://advising.ucmerced.edu/jump-start-your-third-year</loc>
+  </url>
+  <url>
     <loc>https://advising.ucmerced.edu/student_information/appeals</loc>
   </url>
   <url>
+    <loc>https://advising.ucmerced.edu/student-information/subject-academic-dismissal-appeals/academic-support-meetings</loc>
+  </url>
+  <url>
     <loc>https://advising.ucmerced.edu/student_information/mid_semester_grades</loc>
+  </url>
+  <url>
+    <loc>https://advising.ucmerced.edu/student-information/student-learning-outcomes</loc>
+  </url>
+  <url>
+    <loc>https://advising.ucmerced.edu/resources-0</loc>
   </url>
   <url>
     <loc>https://advising.ucmerced.edu/campus-resources</loc>
@@ -70,8 +64,20 @@
     <loc>https://advising.ucmerced.edu/resources/second-year-experience</loc>
   </url>
   <url>
+    <loc>https://advising.ucmerced.edu/who-my-academic-advisor</loc>
+  </url>
+  <url>
+    <loc>https://advising.ucmerced.edu/contact-us-0</loc>
+  </url>
+  <url>
+    <loc>https://advising.ucmerced.edu/events</loc>
+  </url>
+  <url>
     <loc>https://advising.ucmerced.edu/rss.xml</loc>
     <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://advising.ucmerced.edu/reg-resources</loc>
   </url>
   <url>
     <loc>https://advising.ucmerced.edu/sites/advising.ucmerced.edu/files/documents/final_draft_campus_wide_advising_assessment_report_2013-2015.pdf</loc>
@@ -90,9 +96,6 @@
     <lastmod>2019-07-19</lastmod>
   </url>
   <url>
-    <loc>https://advising.ucmerced.edu/student_information/prospective_students</loc>
-  </url>
-  <url>
     <loc>https://advising.ucmerced.edu/content/speak-your-instructors-and-attend-office-hours</loc>
   </url>
   <url>
@@ -102,13 +105,13 @@
     <loc>https://advising.ucmerced.edu/content/become-familiar-mydegreepath</loc>
   </url>
   <url>
+    <loc>https://advising.ucmerced.edu/content/review-uc-merced%E2%80%99s-success-anywhere-website-resources</loc>
+  </url>
+  <url>
+    <loc>https://advising.ucmerced.edu/content/take-cattracks-and-explore-town-merced</loc>
+  </url>
+  <url>
     <loc>https://advising.ucmerced.edu/content/uc-merced-sculptures</loc>
-  </url>
-  <url>
-    <loc>https://advising.ucmerced.edu/users/lyang66</loc>
-  </url>
-  <url>
-    <loc>https://advising.ucmerced.edu/events</loc>
   </url>
   <url>
     <loc>https://advising.ucmerced.edu/events/bac-peer-workshop-enhancing-your-summer-experience-0</loc>
@@ -117,7 +120,13 @@
     <loc>https://advising.ucmerced.edu/events/bac-peer-workshop-ask-anything-about-exploring-changing-majors-or-minors</loc>
   </url>
   <url>
+    <loc>https://advising.ucmerced.edu/events/bac-peer-workshop-enhancing-your-summer-experience</loc>
+  </url>
+  <url>
     <loc>https://advising.ucmerced.edu/events/bac-peer-workshop-my-degree-path-tips</loc>
+  </url>
+  <url>
+    <loc>https://advising.ucmerced.edu/events/bac-peer-workshop-tips-prepare-finals-0</loc>
   </url>
   <url>
     <loc>https://advising.ucmerced.edu/events/bac-peer-workshop-tips-prepare-finals</loc>
@@ -130,5 +139,8 @@
   </url>
   <url>
     <loc>https://advising.ucmerced.edu/events/bobcat-day</loc>
+  </url>
+  <url>
+    <loc>https://advising.ucmerced.edu/users/lyang66</loc>
   </url>
 </urlset>

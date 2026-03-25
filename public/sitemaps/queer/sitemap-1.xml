@@ -4,10 +4,10 @@
     <loc>https://queer.ucmerced.edu/node/1</loc>
   </url>
   <url>
-    <loc>https://queer.ucmerced.edu/why-qap-uc-merced</loc>
+    <loc>http://queer.ucmerced.edu/node/1</loc>
   </url>
   <url>
-    <loc>http://queer.ucmerced.edu/node/1</loc>
+    <loc>https://queer.ucmerced.edu/why-qap-uc-merced</loc>
   </url>
   <url>
     <loc>https://queer.ucmerced.edu/committee</loc>
@@ -16,10 +16,10 @@
     <loc>https://queer.ucmerced.edu/form/become-facilitator</loc>
   </url>
   <url>
-    <loc>https://queer.ucmerced.edu/workshops/queer-ally-workshop</loc>
+    <loc>https://queer.ucmerced.edu/workshops</loc>
   </url>
   <url>
-    <loc>https://queer.ucmerced.edu/workshops</loc>
+    <loc>https://queer.ucmerced.edu/workshops/queer-ally-workshop</loc>
   </url>
   <url>
     <loc>https://queer.ucmerced.edu/workshops/gender-expansive</loc>
@@ -28,13 +28,25 @@
     <loc>https://queer.ucmerced.edu/request-a-workshop</loc>
   </url>
   <url>
+    <loc>https://queer.ucmerced.edu/homework</loc>
+  </url>
+  <url>
     <loc>https://queer.ucmerced.edu/allyship-development</loc>
   </url>
   <url>
     <loc>https://queer.ucmerced.edu/continuing-journey-resources</loc>
   </url>
   <url>
+    <loc>https://queer.ucmerced.edu/continuing-journey-resources/queer-ally-workshop-continuing-journey-pamphlet</loc>
+  </url>
+  <url>
+    <loc>https://queer.ucmerced.edu/continuing-journey-resources/gender-expansive-workshop-continuing-journey-pamphlet</loc>
+  </url>
+  <url>
     <loc>https://queer.ucmerced.edu/resources</loc>
+  </url>
+  <url>
+    <loc>http://queer.ucmerced.edu/workshops</loc>
   </url>
   <url>
     <loc>https://queer.ucmerced.edu/contact-us</loc>
@@ -46,22 +58,19 @@
     <loc>http://queer.ucmerced.edu/committee</loc>
   </url>
   <url>
-    <loc>http://queer.ucmerced.edu/workshops/queer-ally-workshop</loc>
-  </url>
-  <url>
     <loc>http://queer.ucmerced.edu/form/become-facilitator</loc>
   </url>
   <url>
-    <loc>http://queer.ucmerced.edu/workshops</loc>
-  </url>
-  <url>
-    <loc>http://queer.ucmerced.edu/homework</loc>
+    <loc>http://queer.ucmerced.edu/workshops/queer-ally-workshop</loc>
   </url>
   <url>
     <loc>http://queer.ucmerced.edu/workshops/gender-expansive</loc>
   </url>
   <url>
     <loc>http://queer.ucmerced.edu/request-a-workshop</loc>
+  </url>
+  <url>
+    <loc>http://queer.ucmerced.edu/homework</loc>
   </url>
   <url>
     <loc>http://queer.ucmerced.edu/allyship-development</loc>
@@ -76,19 +85,10 @@
     <loc>http://queer.ucmerced.edu/continuing-journey-resources/gender-expansive-workshop-continuing-journey-pamphlet</loc>
   </url>
   <url>
-    <loc>http://queer.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://queer.ucmerced.edu/continuing-journey-resources/gender-expansive-workshop-continuing-journey-pamphlet</loc>
-  </url>
-  <url>
-    <loc>https://queer.ucmerced.edu/homework</loc>
-  </url>
-  <url>
-    <loc>https://queer.ucmerced.edu/continuing-journey-resources/queer-ally-workshop-continuing-journey-pamphlet</loc>
-  </url>
-  <url>
     <loc>http://queer.ucmerced.edu/resources</loc>
+  </url>
+  <url>
+    <loc>http://queer.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://queer.ucmerced.edu/sites/queer.ucmerced.edu/files/documents/queer_ally_homework.pdf</loc>
@@ -101,6 +101,10 @@
   <url>
     <loc>https://queer.ucmerced.edu/sites/queer.ucmerced.edu/files/documents/lgbtqi_terminology.pdf</loc>
     <lastmod>2017-12-06</lastmod>
+  </url>
+  <url>
+    <loc>https://queer.ucmerced.edu/sites/queer.ucmerced.edu/files/documents/qap_continuing_the_journey.pdf</loc>
+    <lastmod>2019-06-10</lastmod>
   </url>
   <url>
     <loc>https://queer.ucmerced.edu/sites/queer.ucmerced.edu/files/documents/ge_continuing_the_journey.pdf</loc>

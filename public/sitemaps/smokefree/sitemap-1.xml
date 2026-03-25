@@ -10,23 +10,23 @@
     <loc>https://smokefree.ucmerced.edu/policy</loc>
   </url>
   <url>
-    <loc>https://smokefree.ucmerced.edu/cessation-resources</loc>
+    <loc>https://smokefree.ucmerced.edu/faq</loc>
   </url>
   <url>
-    <loc>https://smokefree.ucmerced.edu/faq</loc>
+    <loc>https://smokefree.ucmerced.edu/cessation-resources</loc>
   </url>
   <url>
     <loc>https://smokefree.ucmerced.edu/communications</loc>
   </url>
   <url>
-    <loc>https://smokefree.ucmerced.edu/sites/smokefree.ucmerced.edu/files/page/documents/120109yudof_charge_letter_to_chancellors.pdf</loc>
-    <lastmod>2013-09-18</lastmod>
+    <loc>https://smokefree.ucmerced.edu/communications/uc-merced-smoke-free-logo</loc>
   </url>
   <url>
     <loc>https://smokefree.ucmerced.edu/steering-committee</loc>
   </url>
   <url>
-    <loc>https://smokefree.ucmerced.edu/communications/uc-merced-smoke-free-logo</loc>
+    <loc>https://smokefree.ucmerced.edu/sites/smokefree.ucmerced.edu/files/page/documents/120109yudof_charge_letter_to_chancellors.pdf</loc>
+    <lastmod>2013-09-18</lastmod>
   </url>
   <url>
     <loc>https://smokefree.ucmerced.edu/rss.xml</loc>
@@ -41,16 +41,28 @@
     <lastmod>2014-02-26</lastmod>
   </url>
   <url>
+    <loc>https://smokefree.ucmerced.edu/faq/general-faq</loc>
+  </url>
+  <url>
     <loc>https://smokefree.ucmerced.edu/content/when-does-smoke-and-tobacco-free-policy-go-effect</loc>
   </url>
   <url>
     <loc>https://smokefree.ucmerced.edu/content/whom-does-policy-affect</loc>
   </url>
   <url>
+    <loc>https://smokefree.ucmerced.edu/content/what-considered-tobacco-product-and-therefore-prohibited-policy</loc>
+  </url>
+  <url>
     <loc>https://smokefree.ucmerced.edu/content/why-are-e-cigarettes-included-policy</loc>
   </url>
   <url>
+    <loc>https://smokefree.ucmerced.edu/content/what-does-%E2%80%9Cregulated%E2%80%9D-mean-reference-policy</loc>
+  </url>
+  <url>
     <loc>https://smokefree.ucmerced.edu/content/why-smokeless-tobacco-included-policy</loc>
+  </url>
+  <url>
+    <loc>https://smokefree.ucmerced.edu/content/there-anywhere-i-can-smoke-or-use-tobacco</loc>
   </url>
   <url>
     <loc>https://smokefree.ucmerced.edu/content/can-i-smoke-or-use-tobacco-my-personal-vehicle</loc>
@@ -59,46 +71,49 @@
     <loc>https://smokefree.ucmerced.edu/content/are-there-designated-smoking-areas-campus</loc>
   </url>
   <url>
-    <loc>https://smokefree.ucmerced.edu/content/do-i-have-quit-using-tobacco</loc>
-  </url>
-  <url>
     <loc>https://smokefree.ucmerced.edu/content/how-policy-being-enforced</loc>
   </url>
   <url>
-    <loc>https://smokefree.ucmerced.edu/content/what-percentage-faculty-staff-and-students-who-smoke-or-use-tobacco-uc</loc>
+    <loc>https://smokefree.ucmerced.edu/content/what-should-i-do-if-i-see-someone-smoking-university-grounds</loc>
+  </url>
+  <url>
+    <loc>https://smokefree.ucmerced.edu/content/do-i-have-quit-using-tobacco</loc>
   </url>
   <url>
     <loc>https://smokefree.ucmerced.edu/content/what-resources-are-available-help-me-stop-using-tobacco-products</loc>
   </url>
   <url>
+    <loc>https://smokefree.ucmerced.edu/content/what-percentage-faculty-staff-and-students-who-smoke-or-use-tobacco-uc</loc>
+  </url>
+  <url>
+    <loc>https://smokefree.ucmerced.edu/content/if-i-choose-continue-smoke-or-use-tobacco-and-do-not-have-enough-time-step-campus-smoke-what</loc>
+  </url>
+  <url>
     <loc>https://smokefree.ucmerced.edu/content/what-about-university-california-neighbors</loc>
   </url>
   <url>
-    <loc>https://smokefree.ucmerced.edu/content/do-smoketobacco-free-policies-really-help</loc>
-  </url>
-  <url>
-    <loc>https://smokefree.ucmerced.edu/content/are-there-any-other-educational-institutions-have-gone-smoketobacco-free</loc>
+    <loc>https://smokefree.ucmerced.edu/content/smoketobacco-free-policy-will-force-students-faculty-and-staff-leave-campus-smoke-what-about</loc>
   </url>
   <url>
     <loc>https://smokefree.ucmerced.edu/content/don%E2%80%99t-i-have-right-smoke-or-use-tobacco-products-campus</loc>
   </url>
   <url>
-    <loc>https://smokefree.ucmerced.edu/content/who-do-i-contact-if-i-have-additional-questions-about-policy</loc>
+    <loc>https://smokefree.ucmerced.edu/content/do-smoketobacco-free-policies-really-help</loc>
   </url>
   <url>
     <loc>https://smokefree.ucmerced.edu/content/will-policy-negatively-affect-enrollment-or-employment</loc>
   </url>
   <url>
+    <loc>https://smokefree.ucmerced.edu/content/are-there-any-other-educational-institutions-have-gone-smoketobacco-free</loc>
+  </url>
+  <url>
     <loc>https://smokefree.ucmerced.edu/content/are-there-exceptions-policy</loc>
   </url>
   <url>
+    <loc>https://smokefree.ucmerced.edu/content/who-do-i-contact-if-i-have-additional-questions-about-policy</loc>
+  </url>
+  <url>
     <loc>https://smokefree.ucmerced.edu/faq/faq-supervisors-and-managers</loc>
-  </url>
-  <url>
-    <loc>https://smokefree.ucmerced.edu/content/i-supervise-several-employees-who-smoke-how-will-they-manage-under-new-policy</loc>
-  </url>
-  <url>
-    <loc>https://smokefree.ucmerced.edu/content/how-will-you-protect-individuals-who-are-helping-enforce-policy</loc>
   </url>
   <url>
     <loc>https://smokefree.ucmerced.edu/content/how-should-managerssupervisors-talk-employees-about-policy</loc>
@@ -107,26 +122,23 @@
     <loc>https://smokefree.ucmerced.edu/content/what-should-managerssupervisors-do-if-one-their-employees-violates-policy</loc>
   </url>
   <url>
-    <loc>https://smokefree.ucmerced.edu/form/smoke-and-tobacco-free-online-feedback-form</loc>
+    <loc>https://smokefree.ucmerced.edu/content/i-supervise-several-employees-who-smoke-how-will-they-manage-under-new-policy</loc>
   </url>
   <url>
-    <loc>https://smokefree.ucmerced.edu/faq/general-faq</loc>
+    <loc>https://smokefree.ucmerced.edu/content/how-will-you-protect-individuals-who-are-helping-enforce-policy</loc>
+  </url>
+  <url>
+    <loc>https://smokefree.ucmerced.edu/form/smoke-and-tobacco-free-online-feedback-form</loc>
   </url>
   <url>
     <loc>https://smokefree.ucmerced.edu/users/jandrade5</loc>
   </url>
   <url>
-    <loc>https://smokefree.ucmerced.edu/taxonomy/term/2/feed</loc>
+    <loc>https://smokefree.ucmerced.edu/taxonomy/term/1/feed</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://smokefree.ucmerced.edu/content/smoketobacco-free-policy-will-force-students-faculty-and-staff-leave-campus-smoke-what-about</loc>
-  </url>
-  <url>
-    <loc>https://smokefree.ucmerced.edu/content/if-i-choose-continue-smoke-or-use-tobacco-and-do-not-have-enough-time-step-campus-smoke-what</loc>
-  </url>
-  <url>
-    <loc>https://smokefree.ucmerced.edu/taxonomy/term/1/feed</loc>
+    <loc>https://smokefree.ucmerced.edu/taxonomy/term/2/feed</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
 </urlset>

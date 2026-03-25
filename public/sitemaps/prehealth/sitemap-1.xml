@@ -9,6 +9,10 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://prehealth.ucmerced.edu/professions</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://prehealth.ucmerced.edu/health-careers/chiropractic</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -17,11 +21,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/professions</loc>
+    <loc>https://prehealth.ucmerced.edu/health-careers/genetic-counseling</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/health-careers/genetic-counseling</loc>
+    <loc>https://prehealth.ucmerced.edu/health-careers/medicine</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -30,53 +34,6 @@
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/health-careers/occupational-therapy</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/health-careers/podiatric-medicine</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/resources</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/resources/experiential-learning</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/resources/informational-interviewing</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/documents/pre-health_course_flow_chart_2026.pdf</loc>
-    <lastmod>2026-03-04</lastmod>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/non-science-majors</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/prospective</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/events</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/partnership-programs</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/health-careers/medicine</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -96,11 +53,23 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://prehealth.ucmerced.edu/health-careers/podiatric-medicine</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://prehealth.ucmerced.edu/professions/public-health</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/health-careers/veterinary-medicine</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/resources</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/resources/experiential-learning</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -112,6 +81,37 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://prehealth.ucmerced.edu/resources/informational-interviewing</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/documents/pre-health_course_flow_chart_2026.pdf</loc>
+    <lastmod>2026-03-04</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/non-science-majors</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/partnership-programs</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/prospective</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/page/documents/pathway_to_practice-with_new_logo_.pdf</loc>
     <lastmod>2018-03-14</lastmod>
   </url>
@@ -120,8 +120,20 @@
     <lastmod>2018-01-17</lastmod>
   </url>
   <url>
+    <loc>https://prehealth.ucmerced.edu/resources/explore/frequently-asked-questions-about-exploring</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://prehealth.ucmerced.edu/sites/g/files/ufvvjh1476/f/page/documents/spring_2026_pre-health_course_flow_chart.pdf</loc>
     <lastmod>2026-01-06</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/page/documents/nursing_flow_chart.pdf</loc>
+    <lastmod>2018-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/node/59</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/page/documents/application_timeline_-_with_new_logo.pdf</loc>
@@ -132,8 +144,36 @@
     <lastmod>2018-03-14</lastmod>
   </url>
   <url>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/page/documents/sample_interview_questions_-_with_new_logo_.pdf</loc>
+    <lastmod>2018-03-14</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/page/documents/anth_pre-health_sample_plan_cy_201830.pdf</loc>
+    <lastmod>2019-09-04</lastmod>
+  </url>
+  <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/page/documents/anth_pre-health_sample_plan_cy_202130.pdf</loc>
     <lastmod>2022-04-05</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/page/documents/cogs_pre-health_sample_plan_cy_201830.pdf</loc>
+    <lastmod>2019-09-04</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/page/documents/cogs_pre-health_sample_plan_cy_202130.pdf</loc>
+    <lastmod>2022-04-05</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/page/documents/mbe_pre-health_sample_plan_cy_201830.pdf</loc>
+    <lastmod>2019-09-04</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/page/documents/mbe_pre-health_sample_plan_cy_202130.pdf</loc>
+    <lastmod>2022-04-05</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/page/documents/psy_pre-health_sample_plan_cy_201830.pdf</loc>
+    <lastmod>2019-09-04</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/page/documents/psy_pre-health_sample_plan_cy_202130.pdf</loc>
@@ -148,6 +188,14 @@
     <lastmod>2022-04-05</lastmod>
   </url>
   <url>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/page/documents/soc_pre-health_sample_plan_cy_201830.pdf</loc>
+    <lastmod>2019-09-04</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/page/documents/soc_pre-health_sample_plan_cy_202130.pdf</loc>
+    <lastmod>2022-04-05</lastmod>
+  </url>
+  <url>
     <loc>https://prehealth.ucmerced.edu/events/ask-ambassador-kpsom-med-school-virtual-info-sessions</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -156,11 +204,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/ucsf-school-medicine-information-session</loc>
+    <loc>https://prehealth.ucmerced.edu/events/ucsf-school-pharmacy-info-session-7</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/ucsf-school-pharmacy-info-session-7</loc>
+    <loc>https://prehealth.ucmerced.edu/events/ucsf-school-medicine-information-session</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -168,11 +216,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/ucsf-school-pharmacy-info-session-6</loc>
+    <loc>https://prehealth.ucmerced.edu/events/ucsf-school-pharmacy-current-student-panel-2</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/ucsf-school-pharmacy-info-session-5</loc>
+    <loc>https://prehealth.ucmerced.edu/events/ucsf-school-pharmacy-info-session-6</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -180,7 +228,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://prehealth.ucmerced.edu/events/ucsf-school-pharmacy-info-session-5</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://prehealth.ucmerced.edu/events/ucsf-school-pharmacy-current-student-panel-1</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/ucsf-school-pharmacy-info-session-4</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/ucsf-school-pharmacy-info-session-3</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -196,11 +256,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/ucsf-school-pharmacy-info-session-1</loc>
+    <loc>https://prehealth.ucmerced.edu/events/ucsf-school-pharmacy-info-session-2</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/ucsf-school-pharmacy-info-session-2</loc>
+    <loc>https://prehealth.ucmerced.edu/events/ucsf-school-pharmacy-info-session-1</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -209,6 +269,10 @@
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/aamc-virtual-medical-school-fair</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/haku-healthcare-american-indian-student-summit</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -256,7 +320,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://prehealth.ucmerced.edu/events/loma-linda-univ-pharmd-info-session</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://prehealth.ucmerced.edu/events/webinar-leveraging-innovation-improve-healthcare-access-policy-perspectives-new-congress</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/reaching-out-aspiring-doctors-road-conference</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/pharmacy-unplugged-exploring-dynamic-career-paths-pharmacists</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -276,6 +352,10 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://prehealth.ucmerced.edu/events/loma-linda-univ-school-nursing-adult-primary-and-pediatric-care-dnp-programs</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://prehealth.ucmerced.edu/events/llu-school-allied-healths-entry-level-doctorate-occupational-therapy</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -285,6 +365,10 @@
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/loma-linda-uiv-school-nursing-primary-care-and-family-dnp-programs</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/ucsf-school-pharmacy-info-session</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -352,7 +436,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://prehealth.ucmerced.edu/events/information-session-western-university-health-sciences-zoom</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://prehealth.ucmerced.edu/events/information-session-university-pacific-school-health-sciences-zoom</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-nursing-workshop-zoom-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -365,6 +457,14 @@
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/introduction-pre-medicine-workshop-zoom-0</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/information-session-western-university-health-services</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-veterinary-workshop-zoom</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -416,11 +516,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/so-you-want-be-healthcare-professionalonline-zoom</loc>
+    <loc>https://prehealth.ucmerced.edu/events/so-you-want-be-healthcare-professional-person-workshop</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/so-you-want-be-healthcare-professional-person-workshop</loc>
+    <loc>https://prehealth.ucmerced.edu/events/so-you-want-be-healthcare-professionalonline-zoom</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -433,6 +533,10 @@
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/information-session-zoom-rocky-vista-university-master-science-biomedical-sciences</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/information-session-zoom-life-chiropractic-college-west-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -484,11 +588,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/sjv-prime-and-uc-merced-office-medical-education-presents-prime-time-medical-school</loc>
+    <loc>https://prehealth.ucmerced.edu/events/information-session-zoom-western-university-health-sciences-pharmd-program</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/information-session-zoom-western-university-health-sciences-pharmd-program</loc>
+    <loc>https://prehealth.ucmerced.edu/events/sjv-prime-and-uc-merced-office-medical-education-presents-prime-time-medical-school</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -500,11 +604,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-pharmacy-zoom-2</loc>
+    <loc>https://prehealth.ucmerced.edu/events/information-session-zoom-kaiser-permanente-school-medicine</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/information-session-zoom-uc-davis-prep-medico</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-pharmacy-zoom-2</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-pa-pre-pt-pre-ot-zoom</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -532,6 +644,14 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-nursing-zoom-1</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/information-session-zoom-western-university-health-sciences-odt-program</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://prehealth.ucmerced.edu/events/introduction-pre-pharmacy-zoom-1</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -549,6 +669,10 @@
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/introduction-pre-physician-assistant-zoom</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-medicine-zoom-2</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -592,6 +716,10 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-dentistry-zoom-0</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://prehealth.ucmerced.edu/events/information-session-rocky-vista-university-master-science-biomedical-sciences</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -608,6 +736,10 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-medicine-zoom-1</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://prehealth.ucmerced.edu/events/information-session-uc-davis-school-medicine-post-bac-consortium</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -620,11 +752,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://prehealth.ucmerced.edu/events/zoom-information-session-johns-hopkins-school-nursing</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://prehealth.ucmerced.edu/events/introduction-pre-pharmacy-zoom-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-medicine-zoom-1</loc>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-occupational-therapy-physical-therapy-physicians-assistant-zoom</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -632,7 +768,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/zoom-information-session-johns-hopkins-school-nursing</loc>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-vet-zoom</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -640,19 +776,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-vet-zoom</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/events/information-session-uc-davis-betty-irene-moore-school-nursing-part-1</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-occupational-therapy-physical-therapy-and-physician-assistant-zoom</loc>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-nursing-zoom</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-nursing-zoom</loc>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-occupational-therapy-physical-therapy-and-physician-assistant-zoom</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -664,15 +796,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://prehealth.ucmerced.edu/events/information-session-csun-athletic-training-zoom</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://prehealth.ucmerced.edu/events/introduction-pre-optometry-zoom</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-occupational-therapy-physical-therapy-physicians-assistant-zoom</loc>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-pharmacy-zoom</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/information-session-csun-athletic-training-zoom</loc>
+    <loc>https://prehealth.ucmerced.edu/events/information-session-johns-hopkins-school-nursing-zoom</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -680,7 +816,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/information-session-johns-hopkins-school-nursing-zoom</loc>
+    <loc>https://prehealth.ucmerced.edu/events/information-session-university-pacific-thomas-j-long-school-pharmacy</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -696,7 +832,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-pharmacy-zoom</loc>
+    <loc>https://prehealth.ucmerced.edu/events/so-you-want-be-healthcare-professional-workshop</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -704,7 +840,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/information-session-university-pacific-thomas-j-long-school-pharmacy</loc>
+    <loc>https://prehealth.ucmerced.edu/events/uc-davis-betty-irene-moore-school-nursing-information-session</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -712,15 +848,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/uc-davis-betty-irene-moore-school-nursing-information-session</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/events/introduction-pre-veterinary-medicine-se1-270k</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/so-you-want-be-healthcare-professional-workshop</loc>
+    <loc>https://prehealth.ucmerced.edu/events/health-professional-school-application-series-personal-statement-se1-270k-0</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/pre-med-pre-health-public-health-career-meet-upsvalley-childrens-hospital</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -736,11 +872,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/health-professional-school-application-series-personal-statement-se1-270k-0</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/events/pre-med-pre-health-public-health-career-meet-upsvalley-childrens-hospital</loc>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-medicine-se1-270k-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -776,15 +908,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-medicine-se1-270k-0</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/events/pre-medpre-health-meet-ups-fresno-pacific-university-nursing</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/information-session-palmer-chiropractic</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-veterinary-medicine</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -820,7 +952,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-veterinary-medicine</loc>
+    <loc>https://prehealth.ucmerced.edu/events/ucsf-nursing-information-session</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -836,7 +968,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/ucsf-nursing-information-session</loc>
+    <loc>https://prehealth.ucmerced.edu/events/uc-davis-prep-medico-program-information-session</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/umhs-university-medicine-health-services-information-session</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -852,15 +988,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/uc-davis-prep-medico-program-information-session</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/events/pre-medpre-health-meet-ups-no-session</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/events/umhs-university-medicine-health-services-information-session</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -896,6 +1024,14 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://prehealth.ucmerced.edu/events/health-professional-school-application-series-interview-preparation-se1-270k</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/health-professional-school-application-series-experience-and-letters-reference-se1-270k</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://prehealth.ucmerced.edu/events/introduction-pre-veterinary-se1-270k</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -912,15 +1048,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/health-professional-school-application-series-interview-preparation-se1-270k</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/events/health-professional-school-application-series-experience-and-letters-reference-se1-270k</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/events/pre-health-meet-ups-valley-river-orthopedics-athletic-medicine-cob1-114</loc>
+    <loc>https://prehealth.ucmerced.edu/events/pre-health-meet-ups-bristol-hospice-cob1-114</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -928,11 +1056,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-nursing-se1-270k</loc>
+    <loc>https://prehealth.ucmerced.edu/events/pre-health-meet-ups-valley-river-orthopedics-athletic-medicine-cob1-114</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/introduction-pre-medicine-se1-270k</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-nursing-se1-270k</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -956,19 +1088,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/pre-health-meet-ups-bristol-hospice-cob1-114</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/events/uc-merced-1st-annual-pre-health-conference</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/pre-health-meet-ups-central-california-alliance-health-cob1-114</loc>
+    <loc>https://prehealth.ucmerced.edu/events/diagnostic-medical-sonography-program-information-session-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/diagnostic-medical-sonography-program-information-session-0</loc>
+    <loc>https://prehealth.ucmerced.edu/events/pre-health-meet-ups-central-california-alliance-health-cob1-114</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -988,11 +1116,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/university-pacific-pharmacy-program-information-session-se1-270k</loc>
+    <loc>https://prehealth.ucmerced.edu/events/pre-health-meet-ups-hinds-hospice-cob1-114</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/pre-health-meet-ups-hinds-hospice-cob1-114</loc>
+    <loc>https://prehealth.ucmerced.edu/events/university-pacific-pharmacy-program-information-session-se1-270k</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1000,11 +1128,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/pre-health-career-meet-ups-mercy-medical-volunteers</loc>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-veterinary-1</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-veterinary-1</loc>
+    <loc>https://prehealth.ucmerced.edu/events/pre-health-career-meet-ups-mercy-medical-volunteers</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1016,11 +1144,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://prehealth.ucmerced.edu/events/pre-health-career-meet-ups-kristynn-sullivan-pa</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://prehealth.ucmerced.edu/events/diagnostic-medical-sonography-program-information-session</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/pre-health-career-meet-ups-kristynn-sullivan-pa</loc>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-occupational-therapy-physical-therapy-physicians-assistant-2</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1044,11 +1176,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/salus-universitys-graduate-and-professional-degree-information-session</loc>
+    <loc>https://prehealth.ucmerced.edu/events/uc-berkeley-school-public-healths-dream-office-pre-health-pathway-opportunities</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-occupational-therapy-physical-therapy-physicians-assistant-2</loc>
+    <loc>https://prehealth.ucmerced.edu/events/salus-universitys-graduate-and-professional-degree-information-session</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1060,11 +1192,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/uc-berkeley-school-public-healths-dream-office-pre-health-pathway-opportunities</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/events/golden-ticket-careers-healthcare-1</loc>
+    <loc>https://prehealth.ucmerced.edu/events/reaching-out-aspiring-doctors-road-san-joaquin-valley</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1072,11 +1200,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/reaching-out-aspiring-doctors-road-san-joaquin-valley</loc>
+    <loc>https://prehealth.ucmerced.edu/events/golden-ticket-careers-healthcare-1</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/golden-ticket-careers-healthcare-0</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/golden-ticket-careers-healthcare</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1104,7 +1236,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/golden-ticket-careers-healthcare</loc>
+    <loc>https://prehealth.ucmerced.edu/events/health-professional-school-application-series-personal-statement-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1116,10 +1248,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/health-professional-school-application-series-personal-statement-0</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/events/introduction-pre-medicine-4</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -1128,7 +1256,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://prehealth.ucmerced.edu/events/health-professional-school-application-series-application-overview-0</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://prehealth.ucmerced.edu/events/introduction-pre-pharmacy-3</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-occupational-therapy-physical-therapy-and-physicians-assistant-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1140,7 +1276,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/health-professional-school-application-series-application-overview-0</loc>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-occupational-therapy-physical-therapy-physicians-assistant-1</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1148,19 +1284,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-occupational-therapy-physical-therapy-and-physicians-assistant-0</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/events/introduction-pre-optometry-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-dentistry-2</loc>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-pharmacy-2</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-occupational-therapy-physical-therapy-physicians-assistant-1</loc>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-dentistry-2</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1173,10 +1305,6 @@
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/alumni-career-chat-employment-success-series</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-pharmacy-2</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1200,10 +1328,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-occupational-therapy-physical-therapy-and-physicians-assistant</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/events/introduction-pre-dentistry-1</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -1212,7 +1336,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-occupational-therapy-physical-therapy-and-physicians-assistant</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://prehealth.ucmerced.edu/events/introduction-pre-medicine-2</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/financing-medical-school-applications-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1240,11 +1372,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/financing-medical-school-applications-0</loc>
+    <loc>https://prehealth.ucmerced.edu/events/california-northstate-university-colleges-medicine-pharmacy-info-session</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/california-northstate-university-colleges-medicine-pharmacy-info-session</loc>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-dentistry-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1264,19 +1396,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-dentistry-0</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/events/usc-school-medicine-info-session</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/financing-medical-school-applications</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/events/utilizing-office-hours-effectively</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1288,11 +1412,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/info-pre-nursing-students</loc>
+    <loc>https://prehealth.ucmerced.edu/events/utilizing-office-hours-effectively</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/intro-pre-veterinary-medicine</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/info-pre-nursing-students</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1308,15 +1436,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-medicine-0</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/events/intro-pre-medicine</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/411-summer-school</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-medicine-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -1344,16 +1472,20 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/so-you-want-be-health-professional-doctor-dentist-pharmacist-nurse-or-veterinarian-0</loc>
+    <loc>https://prehealth.ucmerced.edu/events/information-pre-nursing-students</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/information-pre-nursing-students</loc>
+    <loc>https://prehealth.ucmerced.edu/events/so-you-want-be-health-professional-doctor-dentist-pharmacist-nurse-or-veterinarian-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/so-you-want-be-health-professional-doctor-dentist-pharmacist-or-veterinarian</loc>
     <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/uc_merced.poster_johns_hopkins_flyer_fall_2023.pdf</loc>
+    <lastmod>2023-10-23</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/information_session_flyer_002pnwu_jennifer_agatep.pdf</loc>
@@ -1364,16 +1496,16 @@
     <lastmod>2023-09-26</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/uc_merced.poster_johns_hopkins_flyer_fall_2023.pdf</loc>
-    <lastmod>2023-10-23</lastmod>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/health_scholors_health_presentation_.pdf</loc>
+    <lastmod>2023-09-01</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/ucm_pre-health_alumni_spotlight_flyer_.pdf</loc>
     <lastmod>2023-04-25</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/health_scholors_health_presentation_.pdf</loc>
-    <lastmod>2023-09-01</lastmod>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/uc_merced_msms_info_session_western_u_health_sciences.pdf</loc>
+    <lastmod>2023-03-01</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/uc_merced_pre-_health_flyer_life_chiropractic_college_west_fall_2022.pdf</loc>
@@ -1396,15 +1528,15 @@
     <lastmod>2022-08-30</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/so_you_want_to_be_a_healthcare_provider_workshop_flyer.pdf</loc>
-    <lastmod>2022-08-18</lastmod>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/post_bac_consortium_general_flyer_and_webinars_2022.pdf</loc>
     <lastmod>2022-09-08</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/so_you_want_to_be_a_healthcare_provider_workshop_flyer_0.pdf</loc>
+    <lastmod>2022-08-18</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/so_you_want_to_be_a_healthcare_provider_workshop_flyer.pdf</loc>
     <lastmod>2022-08-18</lastmod>
   </url>
   <url>
@@ -1420,12 +1552,12 @@
     <lastmod>2022-02-09</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/mar_16_info_session_palmer_college_of_chiropractic_flyer.pdf</loc>
-    <lastmod>2022-02-23</lastmod>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/prime_time_dates_flyer_1.pdf</loc>
     <lastmod>2022-02-09</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/mar_16_info_session_palmer_college_of_chiropractic_flyer.pdf</loc>
+    <lastmod>2022-02-23</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/prime_time_dates_flyer_0.pdf</loc>
@@ -1440,16 +1572,20 @@
     <lastmod>2022-02-09</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/stanford_outreach_2021_flyer.pdf</loc>
-    <lastmod>2021-11-16</lastmod>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/merced_college_sono_program_flyer_-_2022_0.pdf</loc>
+    <lastmod>2022-02-16</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/agasia_poster_kaiserpermanente_info_session.pdf</loc>
+    <lastmod>2022-02-07</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/prep_medico_flyer_spring_2022.pdf</loc>
     <lastmod>2022-02-05</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/merced_college_sono_program_flyer_-_2022_0.pdf</loc>
-    <lastmod>2022-02-16</lastmod>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/stanford_outreach_2021_flyer.pdf</loc>
+    <lastmod>2021-11-16</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/uc_merced_pre-_health_flyer_002.docx</loc>
@@ -1476,12 +1612,12 @@
     <lastmod>2021-03-08</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/rvu_uc_merced_022021_rocky_university_.pdf</loc>
-    <lastmod>2021-02-11</lastmod>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/uc_merced_pre-_health_flyer_life_chiropractic_college_west_.docx</loc>
     <lastmod>2021-02-22</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/rvu_uc_merced_022021_rocky_university_.pdf</loc>
+    <lastmod>2021-02-11</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/tabling-flyer_uc_berkeley_public_helath_.pdf</loc>
@@ -1496,12 +1632,12 @@
     <lastmod>2021-01-28</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/western_dpt_oregon_info_session_flyer_0.pdf</loc>
-    <lastmod>2020-10-14</lastmod>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/uc_merced.poster_johns_hopkins_flyer_0.pdf</loc>
     <lastmod>2021-01-27</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/western_dpt_oregon_info_session_flyer_0.pdf</loc>
+    <lastmod>2020-10-14</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/uc_davis_school_of_nursing_flyer__1.docx</loc>
@@ -1524,19 +1660,19 @@
     <lastmod>2020-10-03</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/rvu_ucmerced_201005_rocky_vista_university_handshake_info_session_flyer_0.pdf</loc>
-    <lastmod>2020-10-03</lastmod>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/uc_merced.poster_johns_hopkins_flyer.pdf</loc>
     <lastmod>2020-10-03</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/prep_medico_navigating_your_path_into_medicine_peer_mentor_create_002.pdf</loc>
-    <lastmod>2020-09-24</lastmod>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/rvu_ucmerced_201005_rocky_vista_university_handshake_info_session_flyer_0.pdf</loc>
+    <lastmod>2020-10-03</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/uc-merced-pharmd-info-session-university_of_pacific_andrew_merenda_.pdf</loc>
+    <lastmod>2020-09-24</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/prep_medico_navigating_your_path_into_medicine_peer_mentor_create_002.pdf</loc>
     <lastmod>2020-09-24</lastmod>
   </url>
   <url>
@@ -1544,11 +1680,15 @@
     <lastmod>2020-08-18</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/prehealth_meetups_4.pdf</loc>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/prehealth_meetups_6.pdf</loc>
     <lastmod>2019-01-24</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/prehealth_meetups_6.pdf</loc>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/prehealth_meetups_5.pdf</loc>
+    <lastmod>2019-01-24</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/prehealth_meetups_4.pdf</loc>
     <lastmod>2019-01-24</lastmod>
   </url>
   <url>
@@ -1560,16 +1700,8 @@
     <lastmod>2019-01-24</lastmod>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/prehealth_meetups_5.pdf</loc>
-    <lastmod>2019-01-24</lastmod>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/prehealth_meetups_1.pdf</loc>
     <lastmod>2019-01-24</lastmod>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/uc-merced-pharmd-info-session-2018.pdf</loc>
-    <lastmod>2018-12-20</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/ucmerced_info_session_pa.pdf</loc>
@@ -1578,6 +1710,10 @@
   <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/prehealth_meetups_0.pdf</loc>
     <lastmod>2019-01-24</lastmod>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/uc-merced-pharmd-info-session-2018.pdf</loc>
+    <lastmod>2018-12-20</lastmod>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/prehealth_meetups.pdf</loc>

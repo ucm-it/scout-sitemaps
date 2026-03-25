@@ -4,16 +4,40 @@
     <loc>https://lgbtq.ucmerced.edu</loc>
   </url>
   <url>
+    <loc>https://lgbtq.ucmerced.edu/</loc>
+  </url>
+  <url>
+    <loc>http://lgbtq.ucmerced.edu/</loc>
+  </url>
+  <url>
     <loc>https://lgbtq.ucmerced.edu/programs-events</loc>
+  </url>
+  <url>
+    <loc>https://lgbtq.ucmerced.edu/lgbtq-leadership-retreat</loc>
+  </url>
+  <url>
+    <loc>https://lgbtq.ucmerced.edu/volunteering</loc>
   </url>
   <url>
     <loc>https://lgbtq.ucmerced.edu/rainbow-social</loc>
   </url>
   <url>
+    <loc>https://lgbtq.ucmerced.edu/trans-awareness-week</loc>
+  </url>
+  <url>
+    <loc>https://lgbtq.ucmerced.edu/world-aids-day</loc>
+  </url>
+  <url>
     <loc>https://lgbtq.ucmerced.edu/building-community-awards</loc>
   </url>
   <url>
+    <loc>https://lgbtq.ucmerced.edu/programs-events/lgbtq-building-community-awards/bca-nominations</loc>
+  </url>
+  <url>
     <loc>https://lgbtq.ucmerced.edu/fabulosity-drag-show</loc>
+  </url>
+  <url>
+    <loc>https://lgbtq.ucmerced.edu/lavender-graduation</loc>
   </url>
   <url>
     <loc>https://lgbtq.ucmerced.edu/programs-events/lavender-graduation-reception/volunteer-lavender-graduation-0</loc>
@@ -22,13 +46,19 @@
     <loc>https://lgbtq.ucmerced.edu/trans-at-ucmerced</loc>
   </url>
   <url>
+    <loc>https://lgbtq.ucmerced.edu/trans-ucmerced/best-practices-gender-transition-campus</loc>
+  </url>
+  <url>
     <loc>https://lgbtq.ucmerced.edu/trans-ucmerced/norcal-t-camp</loc>
+  </url>
+  <url>
+    <loc>https://lgbtq.ucmerced.edu/trans-ucmerced/trans-student-health-coverage</loc>
   </url>
   <url>
     <loc>https://lgbtq.ucmerced.edu/incident-reporting</loc>
   </url>
   <url>
-    <loc>https://lgbtq.ucmerced.edu/trans-ucmerced/best-practices-gender-transition-campus</loc>
+    <loc>https://lgbtq.ucmerced.edu/resources</loc>
   </url>
   <url>
     <loc>https://lgbtq.ucmerced.edu/staff</loc>
@@ -47,48 +77,6 @@
     <loc>https://lgbtq.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://lgbtq.ucmerced.edu/lgbtq-leadership-retreat</loc>
-  </url>
-  <url>
-    <loc>https://lgbtq.ucmerced.edu/world-aids-day</loc>
-  </url>
-  <url>
-    <loc>https://lgbtq.ucmerced.edu/programs-events/lgbtq-building-community-awards/bca-nominations</loc>
-  </url>
-  <url>
-    <loc>https://lgbtq.ucmerced.edu/trans-ucmerced/trans-student-health-coverage</loc>
-  </url>
-  <url>
-    <loc>https://lgbtq.ucmerced.edu/resources</loc>
-  </url>
-  <url>
-    <loc>https://lgbtq.ucmerced.edu/sites/lgbtq.ucmerced.edu/files/documents/university_of_california_transgender_health_benefits.pdf</loc>
-    <lastmod>2018-01-03</lastmod>
-  </url>
-  <url>
-    <loc>https://lgbtq.ucmerced.edu/sites/lgbtq.ucmerced.edu/files/documents/ucship_transgender_benefits_flier.pdf</loc>
-    <lastmod>2018-08-12</lastmod>
-  </url>
-  <url>
-    <loc>https://lgbtq.ucmerced.edu/sites/lgbtq.ucmerced.edu/files/documents/lgbtqi_terminology.pdf</loc>
-    <lastmod>2017-12-06</lastmod>
-  </url>
-  <url>
-    <loc>https://lgbtq.ucmerced.edu/volunteering</loc>
-  </url>
-  <url>
-    <loc>https://lgbtq.ucmerced.edu/trans-awareness-week</loc>
-  </url>
-  <url>
-    <loc>https://lgbtq.ucmerced.edu/lavender-graduation</loc>
-  </url>
-  <url>
-    <loc>https://lgbtq.ucmerced.edu/</loc>
-  </url>
-  <url>
-    <loc>http://lgbtq.ucmerced.edu/</loc>
-  </url>
-  <url>
     <loc>http://lgbtq.ucmerced.edu/programs-events</loc>
   </url>
   <url>
@@ -98,16 +86,25 @@
     <loc>http://lgbtq.ucmerced.edu/volunteering</loc>
   </url>
   <url>
+    <loc>http://lgbtq.ucmerced.edu/rainbow-social</loc>
+  </url>
+  <url>
     <loc>http://lgbtq.ucmerced.edu/trans-awareness-week</loc>
   </url>
   <url>
-    <loc>http://lgbtq.ucmerced.edu/rainbow-social</loc>
+    <loc>http://lgbtq.ucmerced.edu/world-aids-day</loc>
   </url>
   <url>
     <loc>http://lgbtq.ucmerced.edu/building-community-awards</loc>
   </url>
   <url>
+    <loc>http://lgbtq.ucmerced.edu/programs-events/lgbtq-building-community-awards/bca-nominations</loc>
+  </url>
+  <url>
     <loc>http://lgbtq.ucmerced.edu/fabulosity-drag-show</loc>
+  </url>
+  <url>
+    <loc>http://lgbtq.ucmerced.edu/lavender-graduation</loc>
   </url>
   <url>
     <loc>http://lgbtq.ucmerced.edu/programs-events/lavender-graduation-reception/volunteer-lavender-graduation-0</loc>
@@ -128,29 +125,23 @@
     <loc>http://lgbtq.ucmerced.edu/incident-reporting</loc>
   </url>
   <url>
+    <loc>http://lgbtq.ucmerced.edu/resources</loc>
+  </url>
+  <url>
     <loc>http://lgbtq.ucmerced.edu/staff</loc>
   </url>
   <url>
     <loc>http://lgbtq.ucmerced.edu/staff/scholar-coordinator-positions</loc>
   </url>
   <url>
+    <loc>http://lgbtq.ucmerced.edu/terminology</loc>
+  </url>
+  <url>
     <loc>http://lgbtq.ucmerced.edu/rss.xml</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>http://lgbtq.ucmerced.edu/resources</loc>
-  </url>
-  <url>
     <loc>http://lgbtq.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>http://lgbtq.ucmerced.edu/world-aids-day</loc>
-  </url>
-  <url>
-    <loc>http://lgbtq.ucmerced.edu/programs-events/lgbtq-building-community-awards/bca-nominations</loc>
-  </url>
-  <url>
-    <loc>http://lgbtq.ucmerced.edu/lavender-graduation</loc>
   </url>
   <url>
     <loc>https://lgbtq.ucmerced.edu/sites/lgbtq.ucmerced.edu/files/documents/best_practices_for_gender_transitioning_on_campus.pdf</loc>
@@ -165,6 +156,15 @@
     <lastmod>2017-12-15</lastmod>
   </url>
   <url>
-    <loc>http://lgbtq.ucmerced.edu/terminology</loc>
+    <loc>https://lgbtq.ucmerced.edu/sites/lgbtq.ucmerced.edu/files/documents/university_of_california_transgender_health_benefits.pdf</loc>
+    <lastmod>2018-01-03</lastmod>
+  </url>
+  <url>
+    <loc>https://lgbtq.ucmerced.edu/sites/lgbtq.ucmerced.edu/files/documents/ucship_transgender_benefits_flier.pdf</loc>
+    <lastmod>2018-08-12</lastmod>
+  </url>
+  <url>
+    <loc>https://lgbtq.ucmerced.edu/sites/lgbtq.ucmerced.edu/files/documents/lgbtqi_terminology.pdf</loc>
+    <lastmod>2017-12-06</lastmod>
   </url>
 </urlset>

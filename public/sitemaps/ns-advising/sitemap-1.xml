@@ -9,11 +9,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/office-hours</loc>
+    <loc>https://ns-advising.ucmerced.edu/contact-us/about/ns-advsing-responsibilities</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/contact-us/about/ns-advsing-responsibilities</loc>
+    <loc>https://ns-advising.ucmerced.edu/about/contact-us</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/office-hours</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -21,7 +25,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/about/contact-us</loc>
+    <loc>https://ns-advising.ucmerced.edu/meet-your-advisor/advisor-walk-ins</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -33,15 +37,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/meet-your-advisor/advisor-walk-ins</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://ns-advising.ucmerced.edu/academics</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://ns-advising.ucmerced.edu/academics/applied-mathematical-sciences</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -49,11 +45,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/academics/biochemistry</loc>
+    <loc>https://ns-advising.ucmerced.edu/academics/applied-mathematical-sciences</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/academics/chemistry</loc>
+    <loc>https://ns-advising.ucmerced.edu/academics/biochemistry</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -61,11 +57,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/academics/data-science-computing</loc>
+    <loc>https://ns-advising.ucmerced.edu/academics/chemistry</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/academics/environmental-systems-science</loc>
+    <loc>https://ns-advising.ucmerced.edu/academics/data-science-computing</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -73,7 +69,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/policies/ns-advising-policies</loc>
+    <loc>https://ns-advising.ucmerced.edu/academics/environmental-systems-science</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -81,15 +77,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://ns-advising.ucmerced.edu/policies/ns-advising-policies</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://ns-advising.ucmerced.edu/ns-advising-policies/academic-re-entry</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/policies/ns-advising-policies/communication-policy</loc>
+    <loc>https://ns-advising.ucmerced.edu/policies/ns-advising-policies/appointment-policy</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/policies/ns-advising-policies/appointment-policy</loc>
+    <loc>https://ns-advising.ucmerced.edu/policies/ns-advising-policies/communication-policy</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -129,11 +129,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/registration/required-academic-advising-new-transfers</loc>
+    <loc>https://ns-advising.ucmerced.edu/summer</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/summer</loc>
+    <loc>https://ns-advising.ucmerced.edu/registration/required-academic-advising-new-transfers</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -141,7 +141,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/forms</loc>
+    <loc>https://ns-advising.ucmerced.edu/placement</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -149,7 +149,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/placement</loc>
+    <loc>https://ns-advising.ucmerced.edu/forms</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -165,15 +165,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/resources/faq</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://ns-advising.ucmerced.edu/resources</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://ns-advising.ucmerced.edu/resources/faq</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://ns-advising.ucmerced.edu/resources/internship-and-research-opportunities</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/study-abroad</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -185,13 +189,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/study-abroad</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://ns-advising.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
     <loc>https://ns-advising.ucmerced.edu/biological-sciences-course-series</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -200,11 +197,10 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/Handouts/math_major_flow_chart_final.pdf</loc>
-    <lastmod>2024-09-23</lastmod>
+    <loc>https://ns-advising.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/Handouts/chem_major_flow_chart_final.pdf</loc>
+    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/Handouts/math_major_flow_chart_final.pdf</loc>
     <lastmod>2024-09-23</lastmod>
   </url>
   <url>
@@ -212,20 +208,28 @@
     <lastmod>2024-09-19</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/dsc_major_course_flow_chart_2-2025.pdf</loc>
-    <lastmod>2025-02-03</lastmod>
+    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/Handouts/chem_major_flow_chart_final.pdf</loc>
+    <lastmod>2024-09-23</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/Handouts/ess_major_flow_chart_final.pdf</loc>
-    <lastmod>2024-09-23</lastmod>
+    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/dsc_major_course_flow_chart_2-2025.pdf</loc>
+    <lastmod>2025-02-03</lastmod>
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/eecb_major_flow_chart_final.pdf</loc>
     <lastmod>2025-04-02</lastmod>
   </url>
   <url>
+    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/Handouts/ess_major_flow_chart_final.pdf</loc>
+    <lastmod>2024-09-23</lastmod>
+  </url>
+  <url>
     <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/Handouts/phys_major_flow_chart_final.pdf</loc>
     <lastmod>2024-09-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/lower_div_major_declaration</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/ns_advising_syllabus_2016-ilovepdf-compressed.pdf</loc>
@@ -233,10 +237,6 @@
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/form/subsequent-course-repeat</loc>
-  </url>
-  <url>
-    <loc>https://ns-advising.ucmerced.edu/lower_div_major_declaration</loc>
-    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/Handouts/graduation_plan_guide.pdf</loc>
@@ -250,6 +250,9 @@
     <loc>https://ns-advising.ucmerced.edu/form/course-approval-form</loc>
   </url>
   <url>
+    <loc>https://ns-advising.ucmerced.edu/form/ns-student-general-petition</loc>
+  </url>
+  <url>
     <loc>https://ns-advising.ucmerced.edu/sites/g/files/ufvvjh2111/f/documents/ns_internship_learning_contract_8-22-2025.pdf</loc>
     <lastmod>2025-08-22</lastmod>
   </url>
@@ -258,7 +261,7 @@
     <lastmod>2025-08-22</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/form/ns-student-general-petition</loc>
+    <loc>https://ns-advising.ucmerced.edu/form/student-concernresolution-form</loc>
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/events/experience-degrees-biology-chemistry-and-environmental-systems-science-0</loc>
@@ -269,11 +272,12 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/events/school-natural-sciences-featuring-robert-goodmancareer-fair-prep-guide-networking-and-being</loc>
+    <loc>https://ns-advising.ucmerced.edu/events/school-natural-sciences-faculty-mixer-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/form/student-concernresolution-form</loc>
+    <loc>https://ns-advising.ucmerced.edu/events/school-natural-sciences-featuring-robert-goodmancareer-fair-prep-guide-networking-and-being</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/events/school-natural-sciences-student-panel-0</loc>
@@ -288,11 +292,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/events/school-natural-sciences-faculty-mixer-0</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://ns-advising.ucmerced.edu/events/school-natural-sciences-student-panel</loc>
+    <loc>https://ns-advising.ucmerced.edu/events/experience-degrees-biology-chemistry-and-environmental-systems-science</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -300,15 +300,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/events/school-natural-sciences-advisor-meet-and-greet</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://ns-advising.ucmerced.edu/events/experience-degrees-biology-chemistry-and-environmental-systems-science</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://ns-advising.ucmerced.edu/events/experience-degrees-applied-math-and-physics</loc>
+    <loc>https://ns-advising.ucmerced.edu/events/school-natural-sciences-student-panel</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -316,7 +308,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/events/information-session-zoom-uc-davis-post-bac-consortium-school-medicine</loc>
+    <loc>https://ns-advising.ucmerced.edu/events/school-natural-sciences-advisor-meet-and-greet</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -324,11 +316,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://ns-advising.ucmerced.edu/events/experience-degrees-applied-math-and-physics</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://ns-advising.ucmerced.edu/events/experience-degrees-biology-and-chemistry</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/events/information-session-zoom-western-university-health-sciences-dpt-program</loc>
+    <loc>https://ns-advising.ucmerced.edu/events/information-session-zoom-uc-davis-post-bac-consortium-school-medicine</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -340,7 +336,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/events/information-session-zoom-johns-hopkins-school-nursing</loc>
+    <loc>https://ns-advising.ucmerced.edu/events/information-session-zoom-western-university-health-sciences-dpt-program</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -348,11 +344,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/events/information-session-zoom-western-university-health-sciences</loc>
+    <loc>https://ns-advising.ucmerced.edu/events/information-session-zoom-life-chiropractic-college-west</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/events/information-session-zoom-life-chiropractic-college-west</loc>
+    <loc>https://ns-advising.ucmerced.edu/events/information-session-zoom-johns-hopkins-school-nursing</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/events/information-session-zoom-western-university-health-sciences</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -368,11 +368,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/events/natural-sciences-virtual-open-house</loc>
+    <loc>https://ns-advising.ucmerced.edu/events/natural-sciences-student-panel</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/events/natural-sciences-student-panel</loc>
+    <loc>https://ns-advising.ucmerced.edu/events/natural-sciences-virtual-open-house</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -380,11 +380,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/events/introduction-pre-dentistry-0</loc>
+    <loc>https://ns-advising.ucmerced.edu/events/introduction-pre-medicine-zoom</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/events/introduction-pre-veterinary-medicine-se1-270k</loc>
+    <loc>https://ns-advising.ucmerced.edu/events/introduction-pre-dentistry-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -392,7 +392,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/events/introduction-pre-medicine-zoom</loc>
+    <loc>https://ns-advising.ucmerced.edu/events/introduction-pre-veterinary-medicine-se1-270k</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -400,11 +400,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/events/introduction-pre-nursing-se1-270k-1</loc>
+    <loc>https://ns-advising.ucmerced.edu/events/introduction-pre-dentistry-se1-270k-1</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/events/introduction-pre-dentistry-se1-270k-1</loc>
+    <loc>https://ns-advising.ucmerced.edu/events/introduction-pre-nursing-se1-270k-1</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -420,10 +420,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/page/documents/graduation_planner_final_5-18-15_with_tabs_4.pdf</loc>
-    <lastmod>2015-05-18</lastmod>
-  </url>
-  <url>
     <loc>https://ns-advising.ucmerced.edu/events/introduction-%C2%A0occupational-physical-therapy-physicians-assistant-se1-270k</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -432,12 +428,16 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/page/documents/graduation_planner_final_5-18-15_with_tabs_3.pdf</loc>
+    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/page/documents/graduation_planner_final_5-18-15_with_tabs_4.pdf</loc>
     <lastmod>2015-05-18</lastmod>
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/internship-research-opportunities-going</loc>
     <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/page/documents/graduation_planner_final_5-18-15_with_tabs_3.pdf</loc>
+    <lastmod>2015-05-18</lastmod>
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/event/documents/intro_to_pre-dentistry.pdf</loc>

@@ -9,19 +9,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://philosophy.ucmerced.edu/programs</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://philosophy.ucmerced.edu/about</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://philosophy.ucmerced.edu/events</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://philosophy.ucmerced.edu/research</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -29,11 +17,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://philosophy.ucmerced.edu/events-archive</loc>
+    <loc>https://philosophy.ucmerced.edu/programs</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://philosophy.ucmerced.edu/after-graduation/career-readiness-philosophy</loc>
+    <loc>https://philosophy.ucmerced.edu/research</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://philosophy.ucmerced.edu/events</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://philosophy.ucmerced.edu/events-archive</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -41,30 +37,30 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://philosophy.ucmerced.edu/after-graduation/thinking-about-graduate-school</loc>
+    <loc>https://philosophy.ucmerced.edu/after-graduation/career-readiness-philosophy</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://philosophy.ucmerced.edu/contact-us</loc>
+    <loc>https://philosophy.ucmerced.edu/after-graduation/thinking-about-graduate-school</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://philosophy.ucmerced.edu/rss.xml</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://philosophy.ucmerced.edu/minor</loc>
+    <loc>https://philosophy.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://philosophy.ucmerced.edu/content/hanna-kiri-gunn</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://philosophy.ucmerced.edu/major</loc>
+    <loc>https://philosophy.ucmerced.edu/content/nigel-de-juan-hatton</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://philosophy.ucmerced.edu/PLO</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://philosophy.ucmerced.edu/STEPLOs</loc>
+    <loc>https://philosophy.ucmerced.edu/content/dan-hicks</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -72,7 +68,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://philosophy.ucmerced.edu/content/toby-napoletano</loc>
+    <loc>https://philosophy.ucmerced.edu/content/david-jennings</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -80,7 +76,35 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://philosophy.ucmerced.edu/content/david-jennings</loc>
+    <loc>https://philosophy.ucmerced.edu/content/toby-napoletano</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://philosophy.ucmerced.edu/content/jeff-yoshimi</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://philosophy.ucmerced.edu/major</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://philosophy.ucmerced.edu/minor</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://philosophy.ucmerced.edu/PLO</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://philosophy.ucmerced.edu/STEMajor</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://philosophy.ucmerced.edu/STEMinor</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://philosophy.ucmerced.edu/STEPLOs</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
 </urlset>

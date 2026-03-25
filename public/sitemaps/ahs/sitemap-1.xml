@@ -4,16 +4,16 @@
     <loc>https://ahs.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://ahs.ucmerced.edu/undergraduate-progams</loc>
-  </url>
-  <url>
     <loc>https://ahs.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://ahs.ucmerced.edu/undergraduate-programs/anthropology-major</loc>
+    <loc>https://ahs.ucmerced.edu/faculty</loc>
   </url>
   <url>
-    <loc>https://ahs.ucmerced.edu/faculty</loc>
+    <loc>https://ahs.ucmerced.edu/undergraduate-progams</loc>
+  </url>
+  <url>
+    <loc>https://ahs.ucmerced.edu/undergraduate-programs/anthropology-major</loc>
   </url>
   <url>
     <loc>https://ahs.ucmerced.edu/undergraduate-programs/anthropology-minor</loc>
@@ -22,19 +22,31 @@
     <loc>https://ahs.ucmerced.edu/undergraduate-programs/anthropology-courses</loc>
   </url>
   <url>
+    <loc>https://ahs.ucmerced.edu/undergraduate-progams/community-research-service-minor</loc>
+  </url>
+  <url>
     <loc>https://ahs.ucmerced.edu/undergraduate-progams/geospatial-technology-minor</loc>
   </url>
   <url>
-    <loc>https://ahs.ucmerced.edu/student-resources/careers</loc>
+    <loc>https://ahs.ucmerced.edu/graduate-studies</loc>
   </url>
   <url>
     <loc>https://ahs.ucmerced.edu/student-resources</loc>
   </url>
   <url>
+    <loc>https://ahs.ucmerced.edu/student-resources/careers</loc>
+  </url>
+  <url>
     <loc>https://ahs.ucmerced.edu/student-resources/field-schools</loc>
   </url>
   <url>
+    <loc>https://ahs.ucmerced.edu/student-resources/internships-employment</loc>
+  </url>
+  <url>
     <loc>https://ahs.ucmerced.edu/student-resources/research-funding</loc>
+  </url>
+  <url>
+    <loc>https://ahs.ucmerced.edu/shared-facilities</loc>
   </url>
   <url>
     <loc>https://ahs.ucmerced.edu/rss.xml</loc>
@@ -44,37 +56,25 @@
     <loc>https://ahs.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://ahs.ucmerced.edu/undergraduate-progams/community-research-service-minor</loc>
-  </url>
-  <url>
-    <loc>https://ahs.ucmerced.edu/graduate-studies</loc>
-  </url>
-  <url>
-    <loc>https://ahs.ucmerced.edu/student-resources/internships-employment</loc>
-  </url>
-  <url>
-    <loc>https://ahs.ucmerced.edu/shared-facilities</loc>
-  </url>
-  <url>
     <loc>https://ahs.ucmerced.edu/content/robin-maria-delugan</loc>
-  </url>
-  <url>
-    <loc>https://ahs.ucmerced.edu/content/karl-e-ryavec</loc>
   </url>
   <url>
     <loc>https://ahs.ucmerced.edu/content/holley-moyes</loc>
   </url>
   <url>
-    <loc>https://ahs.ucmerced.edu/content/beth-scaffidi</loc>
-  </url>
-  <url>
-    <loc>https://ahs.ucmerced.edu/content/stephen-wooding</loc>
-  </url>
-  <url>
     <loc>https://ahs.ucmerced.edu/content/linda-anne-rebhun</loc>
   </url>
   <url>
+    <loc>https://ahs.ucmerced.edu/content/karl-e-ryavec</loc>
+  </url>
+  <url>
+    <loc>https://ahs.ucmerced.edu/content/beth-scaffidi</loc>
+  </url>
+  <url>
     <loc>https://ahs.ucmerced.edu/content/daniel-thompson</loc>
+  </url>
+  <url>
+    <loc>https://ahs.ucmerced.edu/content/stephen-wooding</loc>
   </url>
   <url>
     <loc>https://ahs.ucmerced.edu/content/mark-s-aldenderfer</loc>

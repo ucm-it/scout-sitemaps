@@ -10,13 +10,13 @@
     <loc>https://friendscircle.ucmerced.edu/about/board-of-directors</loc>
   </url>
   <url>
-    <loc>https://friendscircle.ucmerced.edu/join</loc>
-  </url>
-  <url>
     <loc>https://friendscircle.ucmerced.edu/about/history</loc>
   </url>
   <url>
     <loc>https://friendscircle.ucmerced.edu/about/bylaws</loc>
+  </url>
+  <url>
+    <loc>https://friendscircle.ucmerced.edu/join</loc>
   </url>
   <url>
     <loc>https://friendscircle.ucmerced.edu/form/get-involved</loc>
@@ -68,14 +68,14 @@
     <lastmod>2025-10-21</lastmod>
   </url>
   <url>
+    <loc>https://friendscircle.ucmerced.edu/winners</loc>
+  </url>
+  <url>
     <loc>https://friendscircle.ucmerced.edu/sites/friendscircle.ucmerced.edu/files/documents/ufc_sif_request_form.docx</loc>
     <lastmod>2018-09-04</lastmod>
   </url>
   <url>
     <loc>https://friendscircle.ucmerced.edu/media-contact/lorena-anderson</loc>
-  </url>
-  <url>
-    <loc>https://friendscircle.ucmerced.edu/winners</loc>
   </url>
   <url>
     <loc>https://friendscircle.ucmerced.edu/media-contact/brenda-ortiz</loc>
@@ -84,10 +84,16 @@
     <loc>https://friendscircle.ucmerced.edu/news/2025/research-hidden-chemistry-shaping-future-air-quality-earns-zhang-nsf-award</loc>
   </url>
   <url>
+    <loc>https://friendscircle.ucmerced.edu/news/2025/hellman-fellowships-welcome-three-new-members-uc-merced</loc>
+  </url>
+  <url>
     <loc>https://friendscircle.ucmerced.edu/news/2025/amemiya-awarded-research-teaching-outreach-and-service</loc>
   </url>
   <url>
-    <loc>https://friendscircle.ucmerced.edu/news/2025/hellman-fellowships-welcome-three-new-members-uc-merced</loc>
+    <loc>https://friendscircle.ucmerced.edu/news/2025/uc-merced%E2%80%99s-berhe-joins-scientists-warning-global-land-mine-crisis</loc>
+  </url>
+  <url>
+    <loc>https://friendscircle.ucmerced.edu/news/2025/liwang%E2%80%99s-research-biological-clocks-earns-protein-society-honors</loc>
   </url>
   <url>
     <loc>https://friendscircle.ucmerced.edu/news/2025/professor-dives-crocs-displays-megalodon-expertise-during-shark-week</loc>
@@ -96,16 +102,14 @@
     <loc>https://friendscircle.ucmerced.edu/news/2025/nih-grant-enables-outstanding-investigator-advance-knowledge-microbial-infections</loc>
   </url>
   <url>
-    <loc>https://friendscircle.ucmerced.edu/news/2025/liwang%E2%80%99s-research-biological-clocks-earns-protein-society-honors</loc>
-  </url>
-  <url>
-    <loc>https://friendscircle.ucmerced.edu/news/2025/uc-merced%E2%80%99s-berhe-joins-scientists-warning-global-land-mine-crisis</loc>
-  </url>
-  <url>
     <loc>https://friendscircle.ucmerced.edu/news/2025/study-indicates-human-caused-dust-events-are-linked-fallow-farmland</loc>
   </url>
   <url>
     <loc>https://friendscircle.ucmerced.edu/news/2025/hurricanes-create-powerful-changes-deep-ocean-study-reveals</loc>
+  </url>
+  <url>
+    <loc>https://friendscircle.ucmerced.edu/taxonomy/term/26/feed</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://friendscircle.ucmerced.edu/news/2026/leadership-stem-abigail-gyamfi-honored-2025-acs-leader-scholars-award</loc>
@@ -114,14 +118,10 @@
     <loc>https://friendscircle.ucmerced.edu/news/2026/innovative-research-secures-coveted-fellowships-phd-students</loc>
   </url>
   <url>
-    <loc>https://friendscircle.ucmerced.edu/news/2025/doctoral-student-secures-new-fellowships-support-computational-modeling-research</loc>
-  </url>
-  <url>
-    <loc>https://friendscircle.ucmerced.edu/taxonomy/term/26/feed</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://friendscircle.ucmerced.edu/news/2025/phd-student-awarded-fellowship-advance-environmental-health-and-harmful-algal-bloom</loc>
+  </url>
+  <url>
+    <loc>https://friendscircle.ucmerced.edu/news/2025/doctoral-student-secures-new-fellowships-support-computational-modeling-research</loc>
   </url>
   <url>
     <loc>https://friendscircle.ucmerced.edu/news/2025/abigail-gyamfi-honored-excellence-mentorship-and-community-impact</loc>
