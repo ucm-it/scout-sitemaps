@@ -37,8 +37,10 @@ jobs:
       - name: Check for existing sitemap
         id: check
         run: |
-          status=$(curl -s -o /dev/null -w "%{http_code}" "${{ matrix.site.url }}/sitemap.xml")
-          if [ "$status" = "200" ]; then
+          body=$(curl -s -w "\n%{http_code}" "${{ matrix.site.url }}/sitemap.xml")
+          status=$(echo "$body" | tail -n1)
+          content=$(echo "$body" | head -n -1)
+          if [ "$status" = "200" ] && echo "$content" | grep -qE '<(urlset|sitemapindex)'; then
             echo "skip=true" >> $GITHUB_OUTPUT
             echo "Skipping ${{ matrix.site.name }} — existing sitemap found at ${{ matrix.site.url }}/sitemap.xml"
           else
