@@ -526,6 +526,12 @@
   max_depth: 10
   enable_javascript: false
 
+- name: cosmos
+  url: https://cosmos.ucmerced.edu
+  concurrency: 3
+  max_depth: 10
+  enable_javascript: false
+
 - name: costpolicy
   url: https://costpolicy.ucmerced.edu
   concurrency: 3
@@ -784,6 +790,12 @@
   max_depth: 10
   enable_javascript: false
 
+- name: ess
+  url: https://ess.ucmerced.edu
+  concurrency: 3
+  max_depth: 10
+  enable_javascript: false
+
 - name: ethics
   url: https://ethics.ucmerced.edu
   concurrency: 3
@@ -936,6 +948,12 @@
 
 - name: guardianscholars
   url: https://guardianscholars.ucmerced.edu
+  concurrency: 3
+  max_depth: 10
+  enable_javascript: false
+
+- name: hazing
+  url: https://hazing.ucmerced.edu
   concurrency: 3
   max_depth: 10
   enable_javascript: false
@@ -1212,6 +1230,12 @@
 
 - name: machineshop
   url: https://machineshop.ucmerced.edu
+  concurrency: 3
+  max_depth: 10
+  enable_javascript: false
+
+- name: mae
+  url: https://mae.ucmerced.edu
   concurrency: 3
   max_depth: 10
   enable_javascript: false
@@ -1498,6 +1522,12 @@
   max_depth: 10
   enable_javascript: false
 
+- name: payroll
+  url: https://payroll.ucmerced.edu
+  concurrency: 3
+  max_depth: 10
+  enable_javascript: false
+
 - name: phds
   url: https://phds.ucmerced.edu
   concurrency: 3
@@ -1691,6 +1721,12 @@
 
 - name: research
   url: https://research.ucmerced.edu
+  concurrency: 3
+  max_depth: 10
+  enable_javascript: false
+
+- name: restore
+  url: https://restore.ucmerced.edu
   concurrency: 3
   max_depth: 10
   enable_javascript: false
@@ -2321,6 +2357,12 @@
 
 - name: wvp
   url: https://wvp.ucmerced.edu
+  concurrency: 3
+  max_depth: 10
+  enable_javascript: false
+
+- name: www
+  url: https://www.ucmerced.edu
   concurrency: 3
   max_depth: 10
   enable_javascript: false
