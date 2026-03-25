@@ -2,42 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://yosemite.ucnature.org/</loc>
-    <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/about/</loc>
-  </url>
-  <url>
-    <loc>https://yosemite.ucnature.org/activities/research/</loc>
-    <lastmod>2026-03-23</lastmod>
-  </url>
-  <url>
-    <loc>https://yosemite.ucnature.org/activities/outreach-public-service/</loc>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/activities/university-courses/</loc>
   </url>
   <url>
+    <loc>https://yosemite.ucnature.org/activities/research/</loc>
+  </url>
+  <url>
+    <loc>https://yosemite.ucnature.org/activities/outreach-public-service/</loc>
+  </url>
+  <url>
     <loc>https://yosemite.ucnature.org/activities/conferences-and-retreats/</loc>
+  </url>
+  <url>
+    <loc>https://yosemite.ucnature.org/visiting/</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/visiting/facilities/</loc>
   </url>
   <url>
-    <loc>https://yosemite.ucnature.org/visiting/</loc>
-    <lastmod>2026-03-23</lastmod>
+    <loc>https://yosemite.ucnature.org/resources/</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/visiting/fees/</loc>
-  </url>
-  <url>
-    <loc>https://yosemite.ucnature.org/resources/</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/resources/natural-history/</loc>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/resources/data/</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/about/contact/</loc>
@@ -47,13 +49,17 @@
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/resources/guidebooks-and-mobile-applications/</loc>
-    <lastmod>2026-03-23</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/resources/opportunities/</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://yfs.ucmerced.edu/wp-content/uploads/2024/05/prioritization_rubric.pdf</loc>
+    <lastmod>2026-01-28</lastmod>
+  </url>
+  <url>
+    <loc>https://yfs.ucmerced.edu/wp-content/uploads/2024/05/yosemitesequoiafieldstations_field_safety_plan.pdf</loc>
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
@@ -61,7 +67,7 @@
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
-    <loc>https://yfs.ucmerced.edu/wp-content/uploads/2024/05/yosemitesequoiafieldstations_field_safety_plan.pdf</loc>
+    <loc>https://yfs.ucmerced.edu/wp-content/uploads/2024/05/yfs_waiver-group.pdf</loc>
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
@@ -73,11 +79,6 @@
     <lastmod>2026-01-28</lastmod>
   </url>
   <url>
-    <loc>https://yfs.ucmerced.edu/wp-content/uploads/2024/05/yfs_waiver-group.pdf</loc>
-    <lastmod>2026-01-28</lastmod>
-  </url>
-  <url>
     <loc>https://yosemite.ucnature.org/about/emergency-information/</loc>
-    <lastmod>2026-03-23</lastmod>
   </url>
 </urlset>

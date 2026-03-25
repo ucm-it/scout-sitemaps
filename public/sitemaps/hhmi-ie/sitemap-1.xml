@@ -4,13 +4,13 @@
     <loc>https://hhmi-ie.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://hhmi-ie.ucmerced.edu/our-programs</loc>
+    <loc>https://hhmi-ie.ucmerced.edu/about-hhmi-ie</loc>
   </url>
   <url>
     <loc>https://hhmi-ie.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://hhmi-ie.ucmerced.edu/about-hhmi-ie</loc>
+    <loc>https://hhmi-ie.ucmerced.edu/our-programs</loc>
   </url>
   <url>
     <loc>https://hhmi-ie.ucmerced.edu/our-programs/biology-education-research</loc>
@@ -22,13 +22,13 @@
     <loc>https://hhmi-ie.ucmerced.edu/our-programs/summer-institute-scientific-teaching</loc>
   </url>
   <url>
+    <loc>https://hhmi-ie.ucmerced.edu/our-programs/course-based-undergraduate-research</loc>
+  </url>
+  <url>
     <loc>https://hhmi-ie.ucmerced.edu/our-programs/what%E2%80%99s-your-story</loc>
   </url>
   <url>
     <loc>https://hhmi-ie.ucmerced.edu/our-programs/biology-mentor-program</loc>
-  </url>
-  <url>
-    <loc>https://hhmi-ie.ucmerced.edu/our-programs/course-based-undergraduate-research</loc>
   </url>
   <url>
     <loc>https://hhmi-ie.ucmerced.edu/our-programs/biological-sciences-club</loc>
@@ -52,16 +52,16 @@
     <loc>https://hhmi-ie.ucmerced.edu/people/staff</loc>
   </url>
   <url>
-    <loc>https://hhmi-ie.ucmerced.edu/people/alumni</loc>
-  </url>
-  <url>
     <loc>https://hhmi-ie.ucmerced.edu/people/partners</loc>
   </url>
   <url>
-    <loc>https://hhmi-ie.ucmerced.edu/events</loc>
+    <loc>https://hhmi-ie.ucmerced.edu/people/alumni</loc>
   </url>
   <url>
     <loc>https://hhmi-ie.ucmerced.edu/people/undergraduate-students</loc>
+  </url>
+  <url>
+    <loc>https://hhmi-ie.ucmerced.edu/events</loc>
   </url>
   <url>
     <loc>https://hhmi-ie.ucmerced.edu/events/fall-2023-academic-calendar</loc>
@@ -94,11 +94,11 @@
     <loc>https://hhmi-ie.ucmerced.edu/news/2022/uc-merced-featured-excellence-experiment-podcast</loc>
   </url>
   <url>
-    <loc>https://hhmi-ie.ucmerced.edu/contact-us</loc>
+    <loc>https://hhmi-ie.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://hhmi-ie.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://hhmi-ie.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://hhmi-ie.ucmerced.edu/sites/hhmi-ie.ucmerced.edu/files/page/documents/2021-08-28_manilay_cv_full.pdf</loc>
@@ -119,6 +119,9 @@
     <loc>https://hhmi-ie.ucmerced.edu/events/faculty-development-2022</loc>
   </url>
   <url>
+    <loc>https://hhmi-ie.ucmerced.edu/events/final-exams</loc>
+  </url>
+  <url>
     <loc>https://hhmi-ie.ucmerced.edu/events/fall-commencement-ceremony</loc>
   </url>
   <url>
@@ -128,10 +131,7 @@
     <loc>https://hhmi-ie.ucmerced.edu/events/thanksgiving-holiday</loc>
   </url>
   <url>
-    <loc>https://hhmi-ie.ucmerced.edu/events/final-exams</loc>
-  </url>
-  <url>
-    <loc>https://hhmi-ie.ucmerced.edu/events/fall-instruction-ends</loc>
+    <loc>https://hhmi-ie.ucmerced.edu/events/spring-2022-registration</loc>
   </url>
   <url>
     <loc>https://hhmi-ie.ucmerced.edu/events/biological-sciences-club-social</loc>
@@ -140,19 +140,19 @@
     <loc>https://hhmi-ie.ucmerced.edu/events/veterans-day-holiday</loc>
   </url>
   <url>
-    <loc>https://hhmi-ie.ucmerced.edu/events/spring-2022-registration</loc>
-  </url>
-  <url>
-    <loc>https://hhmi-ie.ucmerced.edu/events/fall-instruction-begins</loc>
+    <loc>https://hhmi-ie.ucmerced.edu/events/labor-day-holiday</loc>
   </url>
   <url>
     <loc>https://hhmi-ie.ucmerced.edu/events/last-day-adddrop-courses</loc>
   </url>
   <url>
-    <loc>https://hhmi-ie.ucmerced.edu/events/labor-day-holiday</loc>
+    <loc>https://hhmi-ie.ucmerced.edu/events/summer-institute-scientific-teaching</loc>
   </url>
   <url>
-    <loc>https://hhmi-ie.ucmerced.edu/events/summer-institute-scientific-teaching</loc>
+    <loc>https://hhmi-ie.ucmerced.edu/events/fall-instruction-ends</loc>
+  </url>
+  <url>
+    <loc>https://hhmi-ie.ucmerced.edu/events/fall-instruction-begins</loc>
   </url>
   <url>
     <loc>https://hhmi-ie.ucmerced.edu/sites/hhmi-ie.ucmerced.edu/files/event/documents/club_social_flyer.pdf</loc>

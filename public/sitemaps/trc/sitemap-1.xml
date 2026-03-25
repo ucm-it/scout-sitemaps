@@ -4,13 +4,16 @@
     <loc>https://trc.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://trc.ucmerced.edu/student-opportunities</loc>
-  </url>
-  <url>
     <loc>https://trc.ucmerced.edu/</loc>
   </url>
   <url>
     <loc>https://trc.ucmerced.edu/faculty-resources</loc>
+  </url>
+  <url>
+    <loc>https://trc.ucmerced.edu/student-opportunities</loc>
+  </url>
+  <url>
+    <loc>https://trc.ucmerced.edu/people</loc>
   </url>
   <url>
     <loc>https://trc.ucmerced.edu/people/faculty-and-staff</loc>
@@ -19,13 +22,10 @@
     <loc>https://trc.ucmerced.edu/people/current-students</loc>
   </url>
   <url>
-    <loc>https://trc.ucmerced.edu/people</loc>
+    <loc>https://trc.ucmerced.edu/people/community-partners</loc>
   </url>
   <url>
     <loc>https://trc.ucmerced.edu/people/students/alumni-research-assistants</loc>
-  </url>
-  <url>
-    <loc>https://trc.ucmerced.edu/people/community-partners</loc>
   </url>
   <url>
     <loc>https://trc.ucmerced.edu/people/students/graduate-students</loc>
@@ -40,14 +40,14 @@
     <loc>https://trc.ucmerced.edu/node/257</loc>
   </url>
   <url>
+    <loc>https://trc.ucmerced.edu/research/publications-and-presentations</loc>
+  </url>
+  <url>
     <loc>https://trc.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://trc.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://trc.ucmerced.edu/research/publications-and-presentations</loc>
   </url>
   <url>
     <loc>https://trc.ucmerced.edu/form/trc-research-project-support-form</loc>

@@ -4,13 +4,10 @@
     <loc>https://imf.ucmerced.edu/node/15</loc>
   </url>
   <url>
-    <loc>https://imf.ucmerced.edu/major-instruments/transmission-electron-microscope</loc>
-  </url>
-  <url>
     <loc>https://imf.ucmerced.edu/major-instruments</loc>
   </url>
   <url>
-    <loc>https://imf.ucmerced.edu/major-instruments/lsm-880</loc>
+    <loc>https://imf.ucmerced.edu/major-instruments/transmission-electron-microscope</loc>
   </url>
   <url>
     <loc>https://imf.ucmerced.edu/major-instruments/scanning-electron-microscope</loc>
@@ -19,13 +16,19 @@
     <loc>https://imf.ucmerced.edu/major-instruments/nexsa-xps</loc>
   </url>
   <url>
+    <loc>https://imf.ucmerced.edu/major-instruments/lsm-880</loc>
+  </url>
+  <url>
     <loc>https://imf.ucmerced.edu/major-instruments/x-ray-diffractometer</loc>
+  </url>
+  <url>
+    <loc>https://imf.ucmerced.edu/rates</loc>
   </url>
   <url>
     <loc>https://imf.ucmerced.edu/training/getting-started</loc>
   </url>
   <url>
-    <loc>https://imf.ucmerced.edu/rates</loc>
+    <loc>https://imf.ucmerced.edu/training/imf-policies/laboratory-safety</loc>
   </url>
   <url>
     <loc>https://imf.ucmerced.edu/training/imf-policies</loc>
@@ -34,16 +37,13 @@
     <loc>https://imf.ucmerced.edu/training/training-videos</loc>
   </url>
   <url>
-    <loc>https://imf.ucmerced.edu/training/imf-policies/laboratory-safety</loc>
-  </url>
-  <url>
-    <loc>https://imf.ucmerced.edu/form/contact</loc>
-  </url>
-  <url>
     <loc>https://imf.ucmerced.edu/imf-forms</loc>
   </url>
   <url>
     <loc>https://imf.ucmerced.edu/publications</loc>
+  </url>
+  <url>
+    <loc>https://imf.ucmerced.edu/form/contact</loc>
   </url>
   <url>
     <loc>https://imf.ucmerced.edu/ilab</loc>
@@ -80,11 +80,11 @@
     <lastmod>2019-05-17</lastmod>
   </url>
   <url>
-    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/fei_quanta_200.pdf</loc>
+    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/geminisem_500_-_basics.pdf</loc>
     <lastmod>2019-05-17</lastmod>
   </url>
   <url>
-    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/geminisem_500_-_basics.pdf</loc>
+    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/fei_quanta_200.pdf</loc>
     <lastmod>2019-05-17</lastmod>
   </url>
   <url>
@@ -112,10 +112,6 @@
     <lastmod>2020-10-07</lastmod>
   </url>
   <url>
-    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/tem_talosbasicguide_1.pdf</loc>
-    <lastmod>2020-10-07</lastmod>
-  </url>
-  <url>
     <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/sem_sm_smartsem_v06_01_en01.1_current.pdf</loc>
     <lastmod>2020-10-07</lastmod>
   </url>
@@ -124,16 +120,20 @@
     <lastmod>2024-06-06</lastmod>
   </url>
   <url>
+    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/tem_talosbasicguide_1.pdf</loc>
+    <lastmod>2020-10-07</lastmod>
+  </url>
+  <url>
     <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/page/documents/1000_series_cryostream_with_auto_refill_operating_and_instruction_guide_v1.0.3_1.pdf</loc>
+    <lastmod>2024-06-18</lastmod>
+  </url>
+  <url>
+    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/page/documents/uranyl_acetate_staining_protocol_imf.pdf</loc>
     <lastmod>2024-06-18</lastmod>
   </url>
   <url>
     <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/page/documents/witec_confocal_raman_system.pdf</loc>
     <lastmod>2025-03-05</lastmod>
-  </url>
-  <url>
-    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/page/documents/uranyl_acetate_staining_protocol_imf.pdf</loc>
-    <lastmod>2024-06-18</lastmod>
   </url>
   <url>
     <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/page/documents/witecsuitehelp62.pdf</loc>
@@ -148,11 +148,11 @@
     <lastmod>2019-05-17</lastmod>
   </url>
   <url>
-    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/carbon_coater_quickstart_-_cressington_208c.pdf</loc>
+    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/gold_sputter_coater_-_quick_guide.pdf</loc>
     <lastmod>2019-05-17</lastmod>
   </url>
   <url>
-    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/gold_sputter_coater_-_quick_guide.pdf</loc>
+    <loc>https://imf.ucmerced.edu/sites/imf.ucmerced.edu/files/documents/carbon_coater_quickstart_-_cressington_208c.pdf</loc>
     <lastmod>2019-05-17</lastmod>
   </url>
   <url>

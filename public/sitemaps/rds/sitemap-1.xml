@@ -4,19 +4,19 @@
     <loc>https://rds.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://rds.ucmerced.edu/contact-us</loc>
+    <loc>https://rds.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://rds.ucmerced.edu/</loc>
+    <loc>https://rds.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://rds.ucmerced.edu/home/consultations</loc>
   </url>
   <url>
-    <loc>https://rds.ucmerced.edu/ord-team</loc>
+    <loc>https://rds.ucmerced.edu/limited-submissions</loc>
   </url>
   <url>
-    <loc>https://rds.ucmerced.edu/limited-submissions</loc>
+    <loc>https://rds.ucmerced.edu/ord-team</loc>
   </url>
   <url>
     <loc>https://rds.ucmerced.edu/limited-submissions/list-recurring-limited-submissions</loc>
@@ -40,10 +40,10 @@
     <loc>https://rds.ucmerced.edu/proposal-development-resources/data-management-plans</loc>
   </url>
   <url>
-    <loc>https://rds.ucmerced.edu/proposal-development/institutional-resources-proposal-preparation</loc>
+    <loc>https://rds.ucmerced.edu/nasa-capability-statement</loc>
   </url>
   <url>
-    <loc>https://rds.ucmerced.edu/nasa-capability-statement</loc>
+    <loc>https://rds.ucmerced.edu/proposal-development/institutional-resources-proposal-preparation</loc>
   </url>
   <url>
     <loc>https://rds.ucmerced.edu/proposal-development/research-data-curation-management</loc>
@@ -52,14 +52,14 @@
     <loc>https://rds.ucmerced.edu/proposal-development-resources/team-science</loc>
   </url>
   <url>
-    <loc>https://rds.ucmerced.edu/pre-award-research-ecosystem</loc>
-  </url>
-  <url>
     <loc>https://rds.ucmerced.edu/proposal-development/broader-impacts</loc>
   </url>
   <url>
     <loc>https://rds.ucmerced.edu/sites/rds.ucmerced.edu/files/images/rd_slide_for_gillian.jpg</loc>
     <lastmod>2024-11-27</lastmod>
+  </url>
+  <url>
+    <loc>https://rds.ucmerced.edu/pre-award-research-ecosystem</loc>
   </url>
   <url>
     <loc>https://rds.ucmerced.edu/proposal-library-coming-soon</loc>
@@ -84,16 +84,16 @@
     <lastmod>2020-05-27</lastmod>
   </url>
   <url>
-    <loc>https://rds.ucmerced.edu/sites/rds.ucmerced.edu/files/page/documents/ucm_pi_exception.pdf</loc>
-    <lastmod>2016-04-27</lastmod>
-  </url>
-  <url>
     <loc>https://rds.ucmerced.edu/sites/rds.ucmerced.edu/files/page/documents/university_of_california_merced_nasa_capability_statement_12.2021.pdf</loc>
     <lastmod>2021-12-22</lastmod>
   </url>
   <url>
+    <loc>https://rds.ucmerced.edu/sites/rds.ucmerced.edu/files/page/documents/ucm_pi_exception.pdf</loc>
+    <lastmod>2016-04-27</lastmod>
+  </url>
+  <url>
     <loc>https://rds.ucmerced.edu/home/ord-team</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://rds.ucmerced.edu/sites/rds.ucmerced.edu/files/page/documents/workshops_trainings_activities_updated_8.25.21.docx</loc>

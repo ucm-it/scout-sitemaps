@@ -2,166 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://policies.ucmerced.edu</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/policies-area</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/recently-issued-policies</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/policies-under-review</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/Academic_Affairs</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://policies.ucmerced.edu/policies-area</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/recently-issued-policies</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/business-finance</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/external-relations</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/general-administration</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://policies.ucmerced.edu/Academic_Affairs</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/health-safety</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/external-relations</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/general-administration</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/Information_Technology</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/uc-merced-policies/personnel-administration</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/Research</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/physical-operations</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/Research</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/Student_Affairs</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/delegations</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/current-delegations</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/policy-resources</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/ucm_policy_process_responsibilities.pdf</loc>
     <lastmod>2025-06-30</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/ucm_policy_template.docx</loc>
-    <lastmod>2025-11-05</lastmod>
+    <loc>https://policies.ucmerced.edu/current-delegations</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/guide_to_writing_uc_merced_policy.pdf</loc>
     <lastmod>2025-07-18</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/ucm_policy_template.docx</loc>
+    <lastmod>2025-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/policy-resources</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/DPC</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/uc-presidential-policies</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/ucm_policy_consensual_relationships.pdf</loc>
-    <lastmod>2026-01-16</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/ucm_policy_micromobility_escooter_ebike.pdf</loc>
-    <lastmod>2026-03-02</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/ucm_policy_responding_to_allegations_of_research_misconduct.pdf</loc>
-    <lastmod>2026-01-21</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/guidelines_for_use_of_campus_announcements.pdf</loc>
-    <lastmod>2026-03-02</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/uc_policy_-_research_misconduct_final_03-19-2026.pdf</loc>
-    <lastmod>2026-03-19</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/imt-1300-final-03172617.pdf</loc>
-    <lastmod>2026-03-17</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/high-containment_research-policy_2026.03.11_a.pdf</loc>
-    <lastmod>2026-03-12</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/g-28_travel_regulations_clean_version_1-26-26.pdf</loc>
-    <lastmod>2026-01-26</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/pacaos-appendix-f_stuadjudicationdoe_1.1.2026.pdf</loc>
-    <lastmod>2026-01-08</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/ppsm-2.210_ab_406_edits_pac_clean_12-12-25.pdf</loc>
-    <lastmod>2026-01-26</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/pacaos-appendix-e_stuadjudicationnondoe_1.1.2026.pdf</loc>
-    <lastmod>2026-01-08</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/sexualviolencesexualharassment_updates_1.1.2026.pdf</loc>
-    <lastmod>2026-01-08</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/vaccinationprogramspolicy-interimrevisions_final_12_17_2025.pdf</loc>
-    <lastmod>2025-12-17</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/bus-63_policy_2025-12-04.pdf</loc>
-    <lastmod>2025-12-04</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/bus-50_controlled_substances_clean_2025.12.04_a.pdf</loc>
-    <lastmod>2025-12-04</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/bus-79_bus_meetings_entertainment_update_11_19_25.pdf</loc>
-    <lastmod>2025-12-04</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/comment/draft_pacaos_100.00_clean_copy.pdf</loc>
@@ -192,6 +128,10 @@
     <lastmod>2025-12-19</lastmod>
   </url>
   <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/ucm_policy_responding_to_allegations_of_research_misconduct.pdf</loc>
+    <lastmod>2026-01-21</lastmod>
+  </url>
+  <url>
     <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/comment/2025-10-21_draft_education_loan_practices_policy_clean.pdf</loc>
     <lastmod>2025-10-22</lastmod>
   </url>
@@ -200,12 +140,68 @@
     <lastmod>2025-10-17</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/interim_ucm_policy_micromobility_escooter_ebike.pdf</loc>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/ucm_policy_micromobility_escooter_ebike.pdf</loc>
     <lastmod>2026-03-02</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/ucm_procedure_abusive_conduct_in_the_workplace.pdf</loc>
-    <lastmod>2023-07-13</lastmod>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/ucm_policy_consensual_relationships.pdf</loc>
+    <lastmod>2026-01-16</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/guidelines_for_use_of_campus_announcements.pdf</loc>
+    <lastmod>2026-03-02</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/uc_policy_-_research_misconduct_final_03-19-2026.pdf</loc>
+    <lastmod>2026-03-19</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/imt-1300-final-03172617.pdf</loc>
+    <lastmod>2026-03-17</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/high-containment_research-policy_2026.03.11_a.pdf</loc>
+    <lastmod>2026-03-12</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/g-28_travel_regulations_clean_version_1-26-26.pdf</loc>
+    <lastmod>2026-01-26</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/ppsm-2.210_ab_406_edits_pac_clean_12-12-25.pdf</loc>
+    <lastmod>2026-01-26</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/pacaos-appendix-f_stuadjudicationdoe_1.1.2026.pdf</loc>
+    <lastmod>2026-01-08</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/pacaos-appendix-e_stuadjudicationnondoe_1.1.2026.pdf</loc>
+    <lastmod>2026-01-08</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/sexualviolencesexualharassment_updates_1.1.2026.pdf</loc>
+    <lastmod>2026-01-08</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/vaccinationprogramspolicy-interimrevisions_final_12_17_2025.pdf</loc>
+    <lastmod>2025-12-17</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/bus-63_policy_2025-12-04.pdf</loc>
+    <lastmod>2025-12-04</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/bus-50_controlled_substances_clean_2025.12.04_a.pdf</loc>
+    <lastmod>2025-12-04</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/bus-79_bus_meetings_entertainment_update_11_19_25.pdf</loc>
+    <lastmod>2025-12-04</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/interim_ucm_policy_micromobility_escooter_ebike.pdf</loc>
+    <lastmod>2026-03-02</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/uc_merced_stip_policy.pdf</loc>
@@ -216,11 +212,11 @@
     <lastmod>2018-06-27</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/purchasing_lvo_policy.pdf</loc>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/purchasing_policy.pdf</loc>
     <lastmod>2024-07-12</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/purchasing_policy.pdf</loc>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/purchasing_lvo_policy.pdf</loc>
     <lastmod>2024-07-12</lastmod>
   </url>
   <url>
@@ -244,60 +240,8 @@
     <lastmod>2014-04-01</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/final_policy_on_naming_uc_merced_properties_and_facilities.pdf</loc>
-    <lastmod>2018-04-12</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/ucm_policy_on_expressive_activities_assembly.pdf</loc>
-    <lastmod>2025-09-09</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/ucm_guidelines_statements_not_involving_ucm.pdf</loc>
-    <lastmod>2023-10-20</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/ucm_emp_org_and_rep_access_to_uni_property.pdf</loc>
-    <lastmod>2025-08-14</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/ucm_policy_withdrawal_of_consent_to_remain_on_university_property.pdf</loc>
-    <lastmod>2025-08-14</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/uc_merced_policy_on_transmission_of_documents_to_university_archives.pdf</loc>
-    <lastmod>2024-10-28</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/response_protocol_to_death_of_ucm_community_member.pdf</loc>
-    <lastmod>2021-09-15</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/tsm_april_2025.pdf</loc>
-    <lastmod>2025-05-08</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/ucm_wpp_implementation_procedures.pdf</loc>
-    <lastmod>2023-12-12</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/final_enterprise_risk_management_policy_04.17.14.pdf</loc>
-    <lastmod>2016-01-13</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/red_flag_policy.pdf</loc>
-    <lastmod>2014-04-01</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/red_flag_attac_a.pdf</loc>
-    <lastmod>2014-04-01</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/red_flag_attac_b.pdf</loc>
-    <lastmod>2014-04-01</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/red_flag_rule_implementation_plan.pdf</loc>
-    <lastmod>2014-04-01</lastmod>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/ucm_procedure_abusive_conduct_in_the_workplace.pdf</loc>
+    <lastmod>2023-07-13</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/ucm_policy_assurance_safety_standards_academic_settings.pdf</loc>
@@ -324,20 +268,76 @@
     <lastmod>2024-09-10</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/ucm_police_accountability_board_procedures.pdf</loc>
-    <lastmod>2023-11-27</lastmod>
-  </url>
-  <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/emergency_notification_policy.pdf</loc>
     <lastmod>2014-04-01</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/ucm_police_accountability_board_procedures.pdf</loc>
+    <lastmod>2023-11-27</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/university_of_california_policy_on_threats_against_research.doc</loc>
     <lastmod>2015-03-20</lastmod>
   </url>
   <url>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/final_policy_on_naming_uc_merced_properties_and_facilities.pdf</loc>
+    <lastmod>2018-04-12</lastmod>
+  </url>
+  <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/uc_merced_policy_on_unmanned_aircraft_systems_uas_and_model_aircrafts_final_12-21-2016.pdf</loc>
     <lastmod>2016-12-21</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/ucm_guidelines_statements_not_involving_ucm.pdf</loc>
+    <lastmod>2023-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/ucm_policy_on_expressive_activities_assembly.pdf</loc>
+    <lastmod>2025-09-09</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/ucm_emp_org_and_rep_access_to_uni_property.pdf</loc>
+    <lastmod>2025-08-14</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/ucm_policy_withdrawal_of_consent_to_remain_on_university_property.pdf</loc>
+    <lastmod>2025-08-14</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/response_protocol_to_death_of_ucm_community_member.pdf</loc>
+    <lastmod>2021-09-15</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/uc_merced_policy_on_transmission_of_documents_to_university_archives.pdf</loc>
+    <lastmod>2024-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/tsm_april_2025.pdf</loc>
+    <lastmod>2025-05-08</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/ucm_wpp_implementation_procedures.pdf</loc>
+    <lastmod>2023-12-12</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/red_flag_policy.pdf</loc>
+    <lastmod>2014-04-01</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/final_enterprise_risk_management_policy_04.17.14.pdf</loc>
+    <lastmod>2016-01-13</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/red_flag_attac_a.pdf</loc>
+    <lastmod>2014-04-01</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/red_flag_attac_b.pdf</loc>
+    <lastmod>2014-04-01</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/red_flag_rule_implementation_plan.pdf</loc>
+    <lastmod>2014-04-01</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/acceptable_use_policy.pdf</loc>
@@ -380,22 +380,6 @@
     <lastmod>2014-04-01</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/uc_merced_export_control_procedure.pdf</loc>
-    <lastmod>2022-09-19</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/ucm_sop_rps.pdf</loc>
-    <lastmod>2022-09-19</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/ucm_sop_red_flags.pdf</loc>
-    <lastmod>2022-09-19</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/ucm_guidance_red_flags.pdf</loc>
-    <lastmod>2022-09-19</lastmod>
-  </url>
-  <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/building_and_site_management_policy_12-12.pdf</loc>
     <lastmod>2014-04-01</lastmod>
   </url>
@@ -404,15 +388,19 @@
     <lastmod>2024-07-12</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/modifications_to_12-12.pdf</loc>
-    <lastmod>2014-04-01</lastmod>
-  </url>
-  <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/procedures_concerning_use_of_campus_facilities.pdf</loc>
     <lastmod>2021-01-28</lastmod>
   </url>
   <url>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/modifications_to_12-12.pdf</loc>
+    <lastmod>2014-04-01</lastmod>
+  </url>
+  <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/univ_provided_housing_letter_1.pdf</loc>
+    <lastmod>2014-04-01</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/office_and_classroom_thermal_12-12.pdf</loc>
     <lastmod>2014-04-01</lastmod>
   </url>
   <url>
@@ -424,7 +412,7 @@
     <lastmod>2014-04-01</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/office_and_classroom_thermal_12-12.pdf</loc>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/periodicals_12-12.pdf</loc>
     <lastmod>2014-04-01</lastmod>
   </url>
   <url>
@@ -432,7 +420,7 @@
     <lastmod>2014-04-01</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/periodicals_12-12.pdf</loc>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/distribution_agreement_i_12-12.pdf</loc>
     <lastmod>2014-04-01</lastmod>
   </url>
   <url>
@@ -440,16 +428,28 @@
     <lastmod>2014-04-01</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/distribution_agreement_i_12-12.pdf</loc>
-    <lastmod>2014-04-01</lastmod>
-  </url>
-  <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/page/documents/receiving_procedure_1-13.pdf</loc>
     <lastmod>2014-04-01</lastmod>
   </url>
   <url>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/uc_merced_export_control_procedure.pdf</loc>
+    <lastmod>2022-09-19</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/ucm_sop_rps.pdf</loc>
+    <lastmod>2022-09-19</lastmod>
+  </url>
+  <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/ppdc_policies.pdf</loc>
     <lastmod>2024-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/ucm_sop_red_flags.pdf</loc>
+    <lastmod>2022-09-19</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/ucm_guidance_red_flags.pdf</loc>
+    <lastmod>2022-09-19</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/mda_010.pdf</loc>
@@ -500,15 +500,15 @@
     <lastmod>2018-10-23</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/102318/mda_092.pdf</loc>
-    <lastmod>2018-10-23</lastmod>
-  </url>
-  <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/mda_095.pdf</loc>
     <lastmod>2024-06-03</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/102318/mda_093.pdf</loc>
+    <lastmod>2018-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/102318/mda_092.pdf</loc>
     <lastmod>2018-10-23</lastmod>
   </url>
   <url>
@@ -556,11 +556,11 @@
     <lastmod>2024-04-22</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/mda_149.pdf</loc>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/mda_150.pdf</loc>
     <lastmod>2024-04-22</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/mda_150.pdf</loc>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/mda_149.pdf</loc>
     <lastmod>2024-04-22</lastmod>
   </url>
   <url>
@@ -600,6 +600,10 @@
     <lastmod>2018-10-23</lastmod>
   </url>
   <url>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/102318/mda_164.pdf</loc>
+    <lastmod>2018-10-23</lastmod>
+  </url>
+  <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/102318/mda_163.pdf</loc>
     <lastmod>2018-10-23</lastmod>
   </url>
@@ -608,15 +612,11 @@
     <lastmod>2018-10-23</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/102318/mda_164.pdf</loc>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/102318/mda_166.pdf</loc>
     <lastmod>2018-10-23</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/102318/mda_167.pdf</loc>
-    <lastmod>2018-10-23</lastmod>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/102318/mda_166.pdf</loc>
     <lastmod>2018-10-23</lastmod>
   </url>
   <url>
@@ -652,15 +652,11 @@
     <lastmod>2018-10-23</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/102318/mda_177.pdf</loc>
-    <lastmod>2018-10-23</lastmod>
-  </url>
-  <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/102318/mda_176.pdf</loc>
     <lastmod>2018-10-23</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/102318/mda_179.pdf</loc>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/102318/mda_177.pdf</loc>
     <lastmod>2018-10-23</lastmod>
   </url>
   <url>
@@ -668,7 +664,7 @@
     <lastmod>2018-10-23</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/102318/mda_180.pdf</loc>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/102318/mda_179.pdf</loc>
     <lastmod>2018-10-23</lastmod>
   </url>
   <url>
@@ -676,15 +672,19 @@
     <lastmod>2018-10-23</lastmod>
   </url>
   <url>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/102318/mda_180.pdf</loc>
+    <lastmod>2018-10-23</lastmod>
+  </url>
+  <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/mda_183.pdf</loc>
     <lastmod>2020-07-16</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/mda_187.pdf</loc>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/mda_189.pdf</loc>
     <lastmod>2020-07-16</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/mda_189.pdf</loc>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/mda_187.pdf</loc>
     <lastmod>2020-07-16</lastmod>
   </url>
   <url>
@@ -756,16 +756,12 @@
     <lastmod>2024-05-21</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/delegations/mda_230.pdf</loc>
-    <lastmod>2025-07-10</lastmod>
-  </url>
-  <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/mda_228.pdf</loc>
     <lastmod>2024-03-18</lastmod>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/mda_229.pdf</loc>
-    <lastmod>2024-12-19</lastmod>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/delegations/mda_230.pdf</loc>
+    <lastmod>2025-07-10</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/delegations/mda231.pdf</loc>
@@ -774,6 +770,10 @@
   <url>
     <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/owners-writers_policy_dev_steps.pdf</loc>
     <lastmod>2025-08-12</lastmod>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/delegations/mda_229.pdf</loc>
+    <lastmod>2024-12-19</lastmod>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/dpc_policy_dev_steps.pdf</loc>

@@ -10,22 +10,22 @@
     <loc>https://biostats.ucmerced.edu/about</loc>
   </url>
   <url>
+    <loc>https://biostats.ucmerced.edu/services</loc>
+  </url>
+  <url>
     <loc>https://biostats.ucmerced.edu/rates-policies</loc>
   </url>
   <url>
     <loc>https://biostats.ucmerced.edu/past-clients</loc>
   </url>
   <url>
-    <loc>https://biostats.ucmerced.edu/services</loc>
+    <loc>https://biostats.ucmerced.edu/request-consultation</loc>
   </url>
   <url>
     <loc>http://biostats.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>http://biostats.ucmerced.edu/form/become-affiliate</loc>
-  </url>
-  <url>
-    <loc>https://biostats.ucmerced.edu/request-consultation</loc>
   </url>
   <url>
     <loc>http://biostats.ucmerced.edu/about</loc>
@@ -40,15 +40,15 @@
     <loc>http://biostats.ucmerced.edu/node/14</loc>
   </url>
   <url>
-    <loc>http://biostats.ucmerced.edu/staff</loc>
-  </url>
-  <url>
     <loc>http://biostats.ucmerced.edu/rates-policies</loc>
   </url>
   <url>
-    <loc>http://biostats.ucmerced.edu/past-clients</loc>
+    <loc>http://biostats.ucmerced.edu/staff</loc>
   </url>
   <url>
     <loc>http://biostats.ucmerced.edu/request-consultation</loc>
+  </url>
+  <url>
+    <loc>http://biostats.ucmerced.edu/past-clients</loc>
   </url>
 </urlset>

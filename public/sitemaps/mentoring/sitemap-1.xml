@@ -34,10 +34,10 @@
     <loc>https://mentoring.ucmerced.edu/home/mentors/smp-handbook</loc>
   </url>
   <url>
-    <loc>https://mentoring.ucmerced.edu/About</loc>
+    <loc>https://mentoring.ucmerced.edu/Mentors</loc>
   </url>
   <url>
-    <loc>https://mentoring.ucmerced.edu/Mentors</loc>
+    <loc>https://mentoring.ucmerced.edu/About</loc>
   </url>
   <url>
     <loc>https://mentoring.ucmerced.edu/about-us/professional-staff</loc>
@@ -47,9 +47,6 @@
   </url>
   <url>
     <loc>https://mentoring.ucmerced.edu/History</loc>
-  </url>
-  <url>
-    <loc>https://mentoring.ucmerced.edu/Past_Events</loc>
   </url>
   <url>
     <loc>https://mentoring.ucmerced.edu/join-smp</loc>
@@ -79,10 +76,10 @@
     <loc>https://mentoring.ucmerced.edu/form/success-mentor-program</loc>
   </url>
   <url>
-    <loc>https://mentoring.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://mentoring.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://mentoring.ucmerced.edu/contact-us</loc>
+    <loc>https://mentoring.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
 </urlset>

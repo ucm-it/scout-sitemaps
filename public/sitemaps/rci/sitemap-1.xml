@@ -13,37 +13,37 @@
     <loc>https://rci.ucmerced.edu/irb/cayuse-irb-electronic-submission-system/training-manual</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/irb/researchers/self-exemption-determination</loc>
+    <loc>https://rci.ucmerced.edu/researchers</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/researchers</loc>
+    <loc>https://rci.ucmerced.edu/irb/researchers/self-exemption-determination</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/irb/researchers/sop-self-exemption-determination-tool</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/irb/researchers/types-review</loc>
+    <loc>https://rci.ucmerced.edu/irb/researchers/resources-self-exempt</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/irb/researchers/resources-self-exempt</loc>
+    <loc>https://rci.ucmerced.edu/irb/researchers/types-review</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/irb/researchers/relying-another-uc-irb</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/irb/researchers/clinical-trialsgov</loc>
-  </url>
-  <url>
     <loc>https://rci.ucmerced.edu/irb/researchers/irb-submission-checklist</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/irb/researchers/research-performed-or-other-institutionsogranizations</loc>
+    <loc>https://rci.ucmerced.edu/irb/researchers/clinical-trialsgov</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/node/25</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/irb/researchers/informed-consent/consent-waiver</loc>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/irb/researchers/research-performed-or-other-institutionsogranizations</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/irb/researchers/research-vulnerable-populations</loc>
@@ -106,10 +106,10 @@
     <loc>https://rci.ucmerced.edu/iacuc/researchers</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/iacuc/researchers/protocol-application-submission-and-review-0</loc>
+    <loc>https://rci.ucmerced.edu/iacuc/researchers/protocol-application-submission-and-review/iacuc-application-and-protocol</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/iacuc/researchers/protocol-application-submission-and-review/iacuc-application-and-protocol</loc>
+    <loc>https://rci.ucmerced.edu/iacuc/researchers/protocol-application-submission-and-review-0</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/iacuc/researchers/iacuc-application-and-protocol-preperation-checklist/protocol-submission</loc>
@@ -127,16 +127,16 @@
     <loc>https://rci.ucmerced.edu/iacuc/researchers/forms</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/iacuc/iacuc-members</loc>
-  </url>
-  <url>
     <loc>https://rci.ucmerced.edu/iacuc/iacuc-members/iacuc-member-training</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/iacuc/general-information</loc>
+    <loc>https://rci.ucmerced.edu/iacuc/iacuc-members</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/iacuc/faqs</loc>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/iacuc/general-information</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/iacuc/general-information/contact-us</loc>
@@ -145,13 +145,10 @@
     <loc>https://rci.ucmerced.edu/coi</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/iacuc/policies-guidance-and-other-resources</loc>
-  </url>
-  <url>
     <loc>https://rci.ucmerced.edu/coi/federal-disclosures</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/coi/federal-disclosures/public-health-service-phs</loc>
+    <loc>https://rci.ucmerced.edu/iacuc/policies-guidance-and-other-resources</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/coi/federal-disclosures/department-energy-doe</loc>
@@ -160,28 +157,25 @@
     <loc>https://rci.ucmerced.edu/coi/federal-disclosures/department-energy-doe/forms</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/coi/federal-disclosures/public-health-service-phs/forms</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/coi/federal-disclosures/nsf-and-other-non-phs-disclosures/forms</loc>
+    <loc>https://rci.ucmerced.edu/coi/federal-disclosures/public-health-service-phs</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/coi/federal-disclosures/nsf-and-other-non-phs-disclosures</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/coi/federal-disclosures/nsf-and-other-non-phs-disclosures/policies</loc>
+    <loc>https://rci.ucmerced.edu/coi/federal-disclosures/public-health-service-phs/forms</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/coi/state-california-financial-disclosure/guidance</loc>
+    <loc>https://rci.ucmerced.edu/coi/federal-disclosures/nsf-and-other-non-phs-disclosures/policies</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/coi/state-california-financial-disclosure</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/coi/state-california-financial-disclosure/policies</loc>
+    <loc>https://rci.ucmerced.edu/coi/state-california-financial-disclosure/guidance</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/coi/coi-faqs</loc>
+    <loc>https://rci.ucmerced.edu/coi/federal-disclosures/nsf-and-other-non-phs-disclosures/forms</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/coi/coi-sops</loc>
@@ -190,40 +184,37 @@
     <loc>https://rci.ucmerced.edu/scro</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/export-controls</loc>
+    <loc>https://rci.ucmerced.edu/coi/state-california-financial-disclosure/policies</loc>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/coi/coi-faqs</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/exp-ctrl/fundamental-research-exclusion</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/export-controls/international-visitor-registration</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/export-controls/are-you-exporter</loc>
+    <loc>https://rci.ucmerced.edu/export-controls</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/export-controls/controlled-items</loc>
   </url>
   <url>
+    <loc>https://rci.ucmerced.edu/export-controls/are-you-exporter</loc>
+  </url>
+  <url>
     <loc>https://rci.ucmerced.edu/export-controls/dos-and-donts</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/export-controls/controlled-items/biological-agents</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/export-controls/economic-and-trade-sanctions-ofac</loc>
+    <loc>https://rci.ucmerced.edu/export-controls/international-visitor-registration</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/export-controls/international-shipping</loc>
   </url>
   <url>
+    <loc>https://rci.ucmerced.edu/export-controls/controlled-items/biological-agents</loc>
+  </url>
+  <url>
     <loc>https://rci.ucmerced.edu/export-controls/international-travel/travel-cuba</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/export-controls/international-travel</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/export-controls/international-travel/travel-sanctioned-countries/all-other-sanctioned-countries</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/export-controls/international-travel/travel-iran</loc>
@@ -232,10 +223,13 @@
     <loc>https://rci.ucmerced.edu/export-controls/international-travel/travel-sanctioned-countries</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/export-controls/export-violation-penalties</loc>
+    <loc>https://rci.ucmerced.edu/export-controls/economic-and-trade-sanctions-ofac</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/export-controls/export-controls-faqs</loc>
+    <loc>https://rci.ucmerced.edu/export-controls/international-travel</loc>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/export-controls/export-violation-penalties</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/export-controls/unannounced-visits-law-enforcement</loc>
@@ -244,22 +238,28 @@
     <loc>https://rci.ucmerced.edu/export-controls/restricted-party-screening</loc>
   </url>
   <url>
+    <loc>https://rci.ucmerced.edu/export-controls/international-travel/travel-sanctioned-countries/all-other-sanctioned-countries</loc>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/export-controls/export-controls-faqs</loc>
+  </url>
+  <url>
     <loc>https://rci.ucmerced.edu/export-controls/export-controls-faqs/nist-faqs</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/export-controls/export-controls-links-videos</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/rcr</loc>
+    <loc>https://rci.ucmerced.edu/rcr/virtual-trainings</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/research-misconduct</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/rcr/virtual-trainings</loc>
+    <loc>https://rci.ucmerced.edu/durc</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/durc</loc>
+    <loc>https://rci.ucmerced.edu/rcr</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/durc/durc-categories-experiments</loc>
@@ -268,25 +268,22 @@
     <loc>https://rci.ucmerced.edu/durc/durc-agents-toxins</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/durc/durc-program-components</loc>
-  </url>
-  <url>
     <loc>https://rci.ucmerced.edu/durc/durc-process</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/foreign-engagement-research-security/research-security</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/foreign-engagement-research-security</loc>
+    <loc>https://rci.ucmerced.edu/durc/durc-program-components</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/cannabis-research</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/foreign-engagement-research-security/foreign-talent-recruitment-program</loc>
+    <loc>https://rci.ucmerced.edu/foreign-engagement-research-security</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/international-activities/disclosure-requirements</loc>
+    <loc>https://rci.ucmerced.edu/foreign-engagement-research-security/research-security</loc>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/foreign-engagement-research-security/foreign-talent-recruitment-program</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/foreign-engagement/uc-international-engagement-enhanced-review</loc>
@@ -295,10 +292,16 @@
     <loc>https://rci.ucmerced.edu/international-activities/sponsor-agency-information-foreign-influence-and-disclosures</loc>
   </url>
   <url>
+    <loc>https://rci.ucmerced.edu/international-activities/disclosure-requirements</loc>
+  </url>
+  <url>
     <loc>https://rci.ucmerced.edu/international-activities/sponsor-agency-information-foreign-influence-and-disclosures/national-0</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/international-activities/sponsor-agency-information-foreign-influence-and-disclosures/national</loc>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/international-activities/sponsor-agency-information-foreign-influence-and-disclosures/department-1</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/international-activities/sponsor-agency-information-foreign-influence-and-disclosures/department</loc>
@@ -307,34 +310,31 @@
     <loc>https://rci.ucmerced.edu/international-activities/sponsor-agency-information-foreign-influence-and-disclosures/department-0</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/international-activities/sponsor-agency-information-foreign-influence-and-disclosures/department-1</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/international-activities/sponsor-agency-information-foreign-influence-and-disclosures/national-1</loc>
+    <loc>https://rci.ucmerced.edu/foreign-engagement-research-security/federal-agency-inquiries-%E2%80%93-escalation-protocol</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/foreign-engagement-research-security/huawei-moratorium</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/foreign-engagement-research-security/federal-agency-inquiries-%E2%80%93-escalation-protocol</loc>
+    <loc>https://rci.ucmerced.edu/foreign-engagement-research-security/resources</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/international-activities/questions</loc>
+    <loc>https://rci.ucmerced.edu/international-activities/sponsor-agency-information-foreign-influence-and-disclosures/national-1</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/research-data-protections-and-management</loc>
   </url>
   <url>
+    <loc>https://rci.ucmerced.edu/international-activities/questions</loc>
+  </url>
+  <url>
     <loc>https://rci.ucmerced.edu/research-data-protections-and-management/university-california-research-data-policy</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/foreign-engagement-research-security/resources</loc>
+    <loc>https://rci.ucmerced.edu/research-data-protections/federal-funding-agencies-guidelines-data-sharing</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/research-data-protections/nih-research-data-management-and-sharing-policy</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/research-data-protections/federal-funding-agencies-guidelines-data-sharing</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/research-data-protections-and-management/research-data-sharing-and-management-resources-uc-merced</loc>
@@ -346,40 +346,40 @@
     <loc>https://rci.ucmerced.edu/contact-us-0</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/resources-and-news</loc>
-  </url>
-  <url>
     <loc>https://rci.ucmerced.edu/resources-and-news/drone-use-federally-funded-projects</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/news/2025/wilson-among-year%E2%80%99s-aaas-fellows-recognized-science-and-outreach</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/news/2025/2025-26-curtailment-schedule</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/news/2025/uc-merced-achieves-r1-highest-tier-research-classification</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/news/2024/2024-25-curtailment-schedule</loc>
+    <loc>https://rci.ucmerced.edu/resources-and-news</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/resources-and-news/recent-regulatory-updates</loc>
   </url>
   <url>
+    <loc>https://rci.ucmerced.edu/news/2025/2025-26-curtailment-schedule</loc>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/news/2025/wilson-among-year%E2%80%99s-aaas-fellows-recognized-science-and-outreach</loc>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/news/2025/uc-merced-achieves-r1-highest-tier-research-classification</loc>
+  </url>
+  <url>
     <loc>https://rci.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/news/2024/2024-25-curtailment-schedule</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/cayuse_iacuc_-_iacuc_researcher_manual_0.pdf</loc>
     <lastmod>2021-03-15</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/irb_sop_15_self_exemption_determination.pdf</loc>
-    <lastmod>2022-12-07</lastmod>
-  </url>
-  <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/cayuse_iacuc_-_reviewer_member_manual_0.pdf</loc>
     <lastmod>2021-03-15</lastmod>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/irb_sop_15_self_exemption_determination.pdf</loc>
+    <lastmod>2022-12-07</lastmod>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/pamphlet.pdf</loc>
@@ -410,16 +410,12 @@
     <lastmod>2014-03-18</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/faqs_clinical_trials_may_2021.pdf</loc>
-    <lastmod>2021-05-11</lastmod>
-  </url>
-  <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/clinical_trials.gov_overview_2015.pdf</loc>
     <lastmod>2016-02-01</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/offsite_permision_letter_template.doc</loc>
-    <lastmod>2014-04-14</lastmod>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/faqs_clinical_trials_may_2021.pdf</loc>
+    <lastmod>2021-05-11</lastmod>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/request-consent-waiver-document.doc</loc>
@@ -428,6 +424,10 @@
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/request-consent-waiver.doc</loc>
     <lastmod>2017-01-30</lastmod>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/offsite_permision_letter_template.doc</loc>
+    <lastmod>2014-04-14</lastmod>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/permissionparent_-_social_behavioral.doc</loc>
@@ -442,11 +442,11 @@
     <lastmod>2014-05-19</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/informed_consent_waiver.docx</loc>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/informed_consent_checklist.docx</loc>
     <lastmod>2014-05-19</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/informed_consent_checklist.docx</loc>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/informed_consent_waiver.docx</loc>
     <lastmod>2014-05-19</lastmod>
   </url>
   <url>
@@ -466,11 +466,11 @@
     <lastmod>2024-04-26</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/sop_3_irb_authority_final.doc</loc>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/sop_4_irb_composition_and_membership_final.doc</loc>
     <lastmod>2024-04-26</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/sop_4_irb_composition_and_membership_final.doc</loc>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/sop_3_irb_authority_final.doc</loc>
     <lastmod>2024-04-26</lastmod>
   </url>
   <url>
@@ -490,7 +490,7 @@
     <lastmod>2024-04-26</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/sop_10_continuing_review.pdf</loc>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/sop_9_expedited_review.pdf</loc>
     <lastmod>2017-04-14</lastmod>
   </url>
   <url>
@@ -498,7 +498,7 @@
     <lastmod>2017-04-14</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/sop_9_expedited_review.pdf</loc>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/sop_10_continuing_review.pdf</loc>
     <lastmod>2017-04-14</lastmod>
   </url>
   <url>
@@ -510,24 +510,28 @@
     <lastmod>2017-04-14</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/sop_15_self_exemption_determination_final.docx</loc>
-    <lastmod>2024-04-26</lastmod>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/lotteries_guidelines_002.pdf</loc>
-    <lastmod>2018-10-17</lastmod>
-  </url>
-  <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/draft_irb_non-compliance.pdf</loc>
     <lastmod>2022-02-10</lastmod>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/sop_15_self_exemption_determination_final.docx</loc>
+    <lastmod>2024-04-26</lastmod>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/guidance_hsr_data_destruction_disposition.pdf</loc>
     <lastmod>2017-04-14</lastmod>
   </url>
   <url>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/lotteries_guidelines_002.pdf</loc>
+    <lastmod>2018-10-17</lastmod>
+  </url>
+  <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/guidance_international_research.pdf</loc>
     <lastmod>2017-04-14</lastmod>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/deception_guidance-february_2020.pdf</loc>
+    <lastmod>2020-02-11</lastmod>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/guidance_on_the_use_of_nih_mandated_single_irbs.pdf</loc>
@@ -540,10 +544,6 @@
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/ucm_guidance_on_snowball_sampling.docx</loc>
     <lastmod>2022-01-21</lastmod>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/deception_guidance-february_2020.pdf</loc>
-    <lastmod>2020-02-11</lastmod>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/ucm_guidance_for_zoom.docx</loc>
@@ -578,16 +578,16 @@
     <lastmod>2018-07-27</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/request-consent-waiver_revised-common-rule_.doc</loc>
-    <lastmod>2020-01-22</lastmod>
-  </url>
-  <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/international_research_final.doc</loc>
     <lastmod>2018-08-10</lastmod>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/irb_risk_mitigation_form_final.doc</loc>
     <lastmod>2021-09-01</lastmod>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/request-consent-waiver_revised-common-rule_.doc</loc>
+    <lastmod>2020-01-22</lastmod>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/covid-19_information_sheet1.pdf</loc>
@@ -618,20 +618,20 @@
     <lastmod>2021-01-25</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/invertebrate_animal_use_protocol_for_cephalopods.docx</loc>
-    <lastmod>2021-06-17</lastmod>
-  </url>
-  <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/cayuse_iacuc_-_reviewer_member_manual.pdf</loc>
     <lastmod>2021-01-25</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/ucm_aucprotocol_final.doc</loc>
-    <lastmod>2017-05-31</lastmod>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/invertebrate_animal_use_protocol_for_cephalopods.docx</loc>
+    <lastmod>2021-06-17</lastmod>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/iacuc_determination_of_need_for_review_2022.pdf</loc>
     <lastmod>2022-04-25</lastmod>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/ucm_aucprotocol_final.doc</loc>
+    <lastmod>2017-05-31</lastmod>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/instructions_iacuc.doc</loc>
@@ -658,6 +658,9 @@
     <lastmod>2020-09-22</lastmod>
   </url>
   <url>
+    <loc>https://rci.ucmerced.edu/news/2020/covid-19-irb-guidance-updated</loc>
+  </url>
+  <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/closeout.docx</loc>
     <lastmod>2021-06-17</lastmod>
   </url>
@@ -675,9 +678,6 @@
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/node/751</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/news/2020/covid-19-irb-guidance-updated</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/iacucreviewchecklist.doc</loc>
@@ -708,15 +708,15 @@
     <lastmod>2023-06-28</lastmod>
   </url>
   <url>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/102.pdf</loc>
+    <lastmod>2021-08-17</lastmod>
+  </url>
+  <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/policy_103_11apr25.pdf</loc>
     <lastmod>2025-04-15</lastmod>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/iacucpolicy104_.pdf</loc>
-    <lastmod>2021-08-17</lastmod>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/102.pdf</loc>
     <lastmod>2021-08-17</lastmod>
   </url>
   <url>
@@ -760,6 +760,10 @@
     <lastmod>2023-06-21</lastmod>
   </url>
   <url>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/policy_117_fe.pdf</loc>
+    <lastmod>2025-12-12</lastmod>
+  </url>
+  <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/policy_117_12dec25.pdf</loc>
     <lastmod>2025-12-12</lastmod>
   </url>
@@ -768,24 +772,20 @@
     <lastmod>2024-05-21</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/policy_117_fe.pdf</loc>
-    <lastmod>2025-12-12</lastmod>
-  </url>
-  <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/no_118_dec_updated_fe.pdf</loc>
     <lastmod>2026-01-13</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/policy_120_food_fluid_restriction_fe.pdf</loc>
-    <lastmod>2025-01-22</lastmod>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/policy_119_6.2025.pdf</loc>
+    <lastmod>2025-07-03</lastmod>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/121._pharmaceutical_grade_compounds_fe_2.pdf</loc>
     <lastmod>2025-01-22</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/policy_119_6.2025.pdf</loc>
-    <lastmod>2025-07-03</lastmod>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/policy_120_food_fluid_restriction_fe.pdf</loc>
+    <lastmod>2025-01-22</lastmod>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/policy_122_updated_fe26.docx</loc>
@@ -816,7 +816,7 @@
     <lastmod>2021-09-28</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/guidelines_-_revised_2018_13_-_rodent_quarantine.pdf</loc>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/guidelines_-_revised_2018_11_-_multiple_major_survival_surgery.pdf</loc>
     <lastmod>2021-09-28</lastmod>
   </url>
   <url>
@@ -824,7 +824,7 @@
     <lastmod>2021-09-28</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/guidelines_-_revised_2018_11_-_multiple_major_survival_surgery.pdf</loc>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/guidelines_-_revised_2018_13_-_rodent_quarantine.pdf</loc>
     <lastmod>2021-09-28</lastmod>
   </url>
   <url>
@@ -844,16 +844,16 @@
     <lastmod>2021-09-28</lastmod>
   </url>
   <url>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/guidelines_-_revised_2018_1_-_acclimation_period_.pdf</loc>
+    <lastmod>2021-09-28</lastmod>
+  </url>
+  <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/grant_congruency_checklist.docx</loc>
     <lastmod>2022-01-21</lastmod>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/analgesic_use_1.2026.pdf</loc>
     <lastmod>2026-01-13</lastmod>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/guidelines_-_revised_2018_1_-_acclimation_period_.pdf</loc>
-    <lastmod>2021-09-28</lastmod>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/2025-1171_1_0001_std_procedure_-_misc_rodent_procedures_-_bcs_mice.pdf</loc>
@@ -872,10 +872,6 @@
     <lastmod>2022-07-27</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/spo-1015_v2_-_non-phs_fcoi.pdf</loc>
-    <lastmod>2020-08-17</lastmod>
-  </url>
-  <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/700-u_2019-2020.pdf</loc>
     <lastmod>2020-08-17</lastmod>
   </url>
@@ -888,24 +884,24 @@
     <lastmod>2020-08-17</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/academic_short_briefing_on_export_controls.pdf</loc>
-    <lastmod>2017-07-18</lastmod>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/coi_sop_1_12.10.21_final.pdf</loc>
+    <lastmod>2021-12-14</lastmod>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/giftsdisclosurepolicy2.pdf</loc>
     <lastmod>2017-05-31</lastmod>
   </url>
   <url>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/academic_short_briefing_on_export_controls.pdf</loc>
+    <lastmod>2017-07-18</lastmod>
+  </url>
+  <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/engineering-example-list.docx</loc>
     <lastmod>2021-06-08</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/coi_sop_1_12.10.21_final.pdf</loc>
-    <lastmod>2021-12-14</lastmod>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/export-restricted-biological-items.pdf</loc>
-    <lastmod>2017-05-31</lastmod>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/spo-1015_v2_-_non-phs_fcoi.pdf</loc>
+    <lastmod>2020-08-17</lastmod>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/international_shipping_or_carry_on_request_2018.docx</loc>
@@ -918,6 +914,10 @@
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/taking-your-lap-top-abroad.pdf</loc>
     <lastmod>2017-05-11</lastmod>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/export-restricted-biological-items.pdf</loc>
+    <lastmod>2017-05-31</lastmod>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/laptopalert05122014.pdf</loc>
@@ -1000,19 +1000,20 @@
     <lastmod>2019-12-12</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/form/international-visitor-registration</loc>
-  </url>
-  <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/foreign_influence_export_controls_memo_2020.pdf</loc>
     <lastmod>2021-09-02</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/nsfcompetesrcr_memo.pdf</loc>
-    <lastmod>2017-05-31</lastmod>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/ucm_policy_responding_to_allegations_of_research_misconduct.pdf</loc>
+    <lastmod>2026-01-08</lastmod>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/uc-rg-17-0361_dualuseresearchofconcern_accessible.pdf</loc>
     <lastmod>2018-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/nsfcompetesrcr_memo.pdf</loc>
+    <lastmod>2017-05-31</lastmod>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/ucop_dual_use_research_of_concern_policy.pdf</loc>
@@ -1027,12 +1028,7 @@
     <lastmod>2026-02-03</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/ucm_policy_responding_to_allegations_of_research_misconduct.pdf</loc>
-    <lastmod>2026-01-08</lastmod>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/final.moratorium_on_any_future_engagement_with_huawei.pdf</loc>
-    <lastmod>2019-09-06</lastmod>
+    <loc>https://rci.ucmerced.edu/form/international-visitor-registration</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/escalation_protocols_for_research_releated_matters_letter_-_3-28-19.pdf</loc>
@@ -1040,6 +1036,10 @@
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/escalation_protocol_faqs_letter_6.18.19.pdf</loc>
+    <lastmod>2019-09-06</lastmod>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/final.moratorium_on_any_future_engagement_with_huawei.pdf</loc>
     <lastmod>2019-09-06</lastmod>
   </url>
   <url>
@@ -1059,12 +1059,15 @@
     <lastmod>2024-08-05</lastmod>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/rci_newsletter_october_2024.pdf</loc>
-    <lastmod>2024-10-15</lastmod>
+    <loc>http://rci.ucmerced.edu/content/home</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/rci_newsletter_march_2025_.pdf</loc>
     <lastmod>2025-07-11</lastmod>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/rci_newsletter_october_2024.pdf</loc>
+    <lastmod>2024-10-15</lastmod>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/newsletter_fall_sept_2025_correction.pdf</loc>
@@ -1072,13 +1075,6 @@
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/media-contact/alyssa-johansen</loc>
-  </url>
-  <url>
-    <loc>http://rci.ucmerced.edu/content/home</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/taxonomy/term/1521/feed</loc>
-    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/irb</loc>
@@ -1096,6 +1092,9 @@
     <loc>http://rci.ucmerced.edu/irb/researchers/self-exemption-determination</loc>
   </url>
   <url>
+    <loc>http://rci.ucmerced.edu/irb/researchers/sop-self-exemption-determination-tool</loc>
+  </url>
+  <url>
     <loc>http://rci.ucmerced.edu/irb/researchers/resources-self-exempt</loc>
   </url>
   <url>
@@ -1108,13 +1107,10 @@
     <loc>http://rci.ucmerced.edu/irb/researchers/irb-submission-checklist</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/irb/researchers/sop-self-exemption-determination-tool</loc>
+    <loc>http://rci.ucmerced.edu/irb/researchers/clinical-trialsgov</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/node/25</loc>
-  </url>
-  <url>
-    <loc>http://rci.ucmerced.edu/irb/researchers/informed-consent/consent-waiver</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/irb/researchers/research-performed-or-other-institutionsogranizations</loc>
@@ -1123,7 +1119,7 @@
     <loc>http://rci.ucmerced.edu/irb/researchers/research-vulnerable-populations</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/irb/researchers/clinical-trialsgov</loc>
+    <loc>http://rci.ucmerced.edu/irb/researchers/informed-consent/consent-waiver</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/irb/researchers/research-vulnerable-populations/research-minors</loc>
@@ -1138,37 +1134,40 @@
     <loc>http://rci.ucmerced.edu/human-subjects-protections-irb/irb-members</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/irb/irb-members/reviewer-checklists</loc>
-  </url>
-  <url>
     <loc>http://rci.ucmerced.edu/irb/irb-sops-and-guidance</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/human-subject-protections-irb/resources</loc>
-  </url>
-  <url>
-    <loc>http://rci.ucmerced.edu/irb/resources/ethical-guidelines-regulations-and-statutes</loc>
-  </url>
-  <url>
-    <loc>http://rci.ucmerced.edu/human-subjects-protections-irb/faqs</loc>
+    <loc>http://rci.ucmerced.edu/irb/irb-members/reviewer-checklists</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/irb/irb-members/training-irb-members</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/human-subject-protections-irb/general-information</loc>
-  </url>
-  <url>
-    <loc>http://rci.ucmerced.edu/irb/general-information/covid-19-irb-guidance</loc>
-  </url>
-  <url>
-    <loc>http://rci.ucmerced.edu/iacuc</loc>
+    <loc>http://rci.ucmerced.edu/human-subject-protections-irb/resources</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/irb/resources/forms</loc>
   </url>
   <url>
+    <loc>http://rci.ucmerced.edu/irb/resources/ethical-guidelines-regulations-and-statutes</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/human-subject-protections-irb/general-information</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/human-subjects-protections-irb/faqs</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/iacuc</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/irb/general-information/covid-19-irb-guidance</loc>
+  </url>
+  <url>
     <loc>http://rci.ucmerced.edu/iacuc/cayuse-iacuc</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/iacuc/reporting-animal-concerns</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/iacuc/cayuse-iacuc/cayuse-iacuc-faqs</loc>
@@ -1177,10 +1176,7 @@
     <loc>http://rci.ucmerced.edu/iacuc/cayuse-iacuc/training-manual</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/iacuc/reporting-animal-concerns</loc>
-  </url>
-  <url>
-    <loc>http://rci.ucmerced.edu/iacuc/researchers/protocol-application-submission-and-review-0</loc>
+    <loc>http://rci.ucmerced.edu/iacuc/researchers</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/iacuc/researchers/protocol-application-submission-and-review/iacuc-application-and-protocol</loc>
@@ -1189,28 +1185,31 @@
     <loc>http://rci.ucmerced.edu/iacuc/researchers/iacuc-application-and-protocol-preperation-checklist/protocol-submission</loc>
   </url>
   <url>
+    <loc>http://rci.ucmerced.edu/iacuc/researchers/protocol-application-submission-and-review-0</loc>
+  </url>
+  <url>
     <loc>http://rci.ucmerced.edu/iacuc/researchers/training-animal-researchers</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/node/31</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/iacuc/researchers</loc>
+    <loc>http://rci.ucmerced.edu/iacuc/researchers/additional-information</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/iacuc/iacuc-members</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/iacuc/iacuc-members/iacuc-member-training</loc>
+    <loc>http://rci.ucmerced.edu/iacuc/researchers/forms</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/iacuc/researchers/additional-information</loc>
+    <loc>http://rci.ucmerced.edu/iacuc/iacuc-members/iacuc-member-training</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/iacuc/faqs</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/iacuc/researchers/forms</loc>
+    <loc>http://rci.ucmerced.edu/iacuc/general-information</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/iacuc/general-information/contact-us</loc>
@@ -1219,37 +1218,34 @@
     <loc>http://rci.ucmerced.edu/iacuc/policies-guidance-and-other-resources</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/iacuc/general-information</loc>
-  </url>
-  <url>
     <loc>http://rci.ucmerced.edu/coi</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/coi/federal-disclosures</loc>
   </url>
   <url>
+    <loc>http://rci.ucmerced.edu/coi/federal-disclosures/department-energy-doe/forms</loc>
+  </url>
+  <url>
     <loc>http://rci.ucmerced.edu/coi/federal-disclosures/department-energy-doe</loc>
-  </url>
-  <url>
-    <loc>http://rci.ucmerced.edu/coi/federal-disclosures/public-health-service-phs/forms</loc>
-  </url>
-  <url>
-    <loc>http://rci.ucmerced.edu/coi/federal-disclosures/nsf-and-other-non-phs-disclosures</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/coi/federal-disclosures/public-health-service-phs</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/coi/federal-disclosures/department-energy-doe/forms</loc>
+    <loc>http://rci.ucmerced.edu/coi/federal-disclosures/public-health-service-phs/forms</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/coi/federal-disclosures/nsf-and-other-non-phs-disclosures/forms</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/coi/state-california-financial-disclosure</loc>
+    <loc>http://rci.ucmerced.edu/coi/federal-disclosures/nsf-and-other-non-phs-disclosures</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/coi/federal-disclosures/nsf-and-other-non-phs-disclosures/policies</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/coi/state-california-financial-disclosure</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/coi/state-california-financial-disclosure/guidance</loc>
@@ -1258,49 +1254,52 @@
     <loc>http://rci.ucmerced.edu/coi/state-california-financial-disclosure/policies</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/coi/coi-sops</loc>
+    <loc>http://rci.ucmerced.edu/coi/coi-faqs</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/coi/coi-faqs</loc>
+    <loc>http://rci.ucmerced.edu/coi/coi-sops</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/scro</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/export-controls</loc>
-  </url>
-  <url>
     <loc>http://rci.ucmerced.edu/exp-ctrl/fundamental-research-exclusion</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/export-controls/international-visitor-registration</loc>
+    <loc>http://rci.ucmerced.edu/export-controls</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/export-controls/are-you-exporter</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/export-controls/controlled-items</loc>
-  </url>
-  <url>
-    <loc>http://rci.ucmerced.edu/export-controls/dos-and-donts</loc>
+    <loc>http://rci.ucmerced.edu/export-controls/international-visitor-registration</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/export-controls/controlled-items/biological-agents</loc>
   </url>
   <url>
+    <loc>http://rci.ucmerced.edu/export-controls/controlled-items</loc>
+  </url>
+  <url>
     <loc>http://rci.ucmerced.edu/export-controls/economic-and-trade-sanctions-ofac</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/export-controls/international-travel</loc>
+    <loc>http://rci.ucmerced.edu/export-controls/dos-and-donts</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/export-controls/international-shipping</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/export-controls/international-travel</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/export-controls/international-travel/travel-cuba</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/export-controls/international-travel/travel-iran</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/export-controls/international-travel/travel-sanctioned-countries/all-other-sanctioned-countries</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/export-controls/international-travel/travel-sanctioned-countries</loc>
@@ -1312,19 +1311,16 @@
     <loc>http://rci.ucmerced.edu/export-controls/restricted-party-screening</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/export-controls/unannounced-visits-law-enforcement</loc>
-  </url>
-  <url>
-    <loc>http://rci.ucmerced.edu/export-controls/international-travel/travel-sanctioned-countries/all-other-sanctioned-countries</loc>
-  </url>
-  <url>
     <loc>http://rci.ucmerced.edu/export-controls/export-controls-faqs</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/export-controls/export-controls-faqs/nist-faqs</loc>
+    <loc>http://rci.ucmerced.edu/export-controls/unannounced-visits-law-enforcement</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/export-controls/export-controls-links-videos</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/export-controls/export-controls-faqs/nist-faqs</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/rcr</loc>
@@ -1336,10 +1332,10 @@
     <loc>http://rci.ucmerced.edu/rcr/virtual-trainings</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/durc/durc-agents-toxins</loc>
+    <loc>http://rci.ucmerced.edu/durc</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/durc</loc>
+    <loc>http://rci.ucmerced.edu/durc/durc-agents-toxins</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/durc/durc-categories-experiments</loc>
@@ -1348,22 +1344,19 @@
     <loc>http://rci.ucmerced.edu/durc/durc-program-components</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/durc/durc-process</loc>
-  </url>
-  <url>
     <loc>http://rci.ucmerced.edu/cannabis-research</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/foreign-engagement-research-security</loc>
+    <loc>http://rci.ucmerced.edu/durc/durc-process</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/foreign-engagement-research-security/research-security</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/foreign-engagement-research-security/foreign-talent-recruitment-program</loc>
+    <loc>http://rci.ucmerced.edu/foreign-engagement-research-security</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/foreign-engagement/uc-international-engagement-enhanced-review</loc>
+    <loc>http://rci.ucmerced.edu/foreign-engagement-research-security/foreign-talent-recruitment-program</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/international-activities/disclosure-requirements</loc>
@@ -1372,16 +1365,19 @@
     <loc>http://rci.ucmerced.edu/international-activities/sponsor-agency-information-foreign-influence-and-disclosures</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/international-activities/sponsor-agency-information-foreign-influence-and-disclosures/national-0</loc>
-  </url>
-  <url>
-    <loc>http://rci.ucmerced.edu/international-activities/sponsor-agency-information-foreign-influence-and-disclosures/department</loc>
+    <loc>http://rci.ucmerced.edu/foreign-engagement/uc-international-engagement-enhanced-review</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/international-activities/sponsor-agency-information-foreign-influence-and-disclosures/national</loc>
   </url>
   <url>
+    <loc>http://rci.ucmerced.edu/international-activities/sponsor-agency-information-foreign-influence-and-disclosures/national-0</loc>
+  </url>
+  <url>
     <loc>http://rci.ucmerced.edu/international-activities/sponsor-agency-information-foreign-influence-and-disclosures/department-0</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/international-activities/sponsor-agency-information-foreign-influence-and-disclosures/department</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/international-activities/sponsor-agency-information-foreign-influence-and-disclosures/department-1</loc>
@@ -1393,10 +1389,10 @@
     <loc>http://rci.ucmerced.edu/foreign-engagement-research-security/huawei-moratorium</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/foreign-engagement-research-security/resources</loc>
+    <loc>http://rci.ucmerced.edu/foreign-engagement-research-security/federal-agency-inquiries-%E2%80%93-escalation-protocol</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/foreign-engagement-research-security/federal-agency-inquiries-%E2%80%93-escalation-protocol</loc>
+    <loc>http://rci.ucmerced.edu/foreign-engagement-research-security/resources</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/international-activities/questions</loc>
@@ -1411,10 +1407,10 @@
     <loc>http://rci.ucmerced.edu/research-data-protections/nih-research-data-management-and-sharing-policy</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/research-data-management-and-sharing/faq</loc>
+    <loc>http://rci.ucmerced.edu/research-data-protections/federal-funding-agencies-guidelines-data-sharing</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/research-data-protections/federal-funding-agencies-guidelines-data-sharing</loc>
+    <loc>http://rci.ucmerced.edu/research-data-management-and-sharing/faq</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/research-data-protections-and-management/research-data-sharing-and-management-resources-uc-merced</loc>
@@ -1423,10 +1419,10 @@
     <loc>http://rci.ucmerced.edu/resources-and-news</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/resources-and-news/drone-use-federally-funded-projects</loc>
+    <loc>http://rci.ucmerced.edu/contact-us-0</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/contact-us-0</loc>
+    <loc>http://rci.ucmerced.edu/resources-and-news/drone-use-federally-funded-projects</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/resources-and-news/recent-regulatory-updates</loc>
@@ -1447,10 +1443,14 @@
     <loc>http://rci.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://rci.ucmerced.edu/taxonomy/term/1521/feed</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>http://rci.ucmerced.edu/media-contact/alyssa-johansen</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/taxonomy/term/1521/feed</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
 </urlset>

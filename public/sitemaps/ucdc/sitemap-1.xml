@@ -4,25 +4,25 @@
     <loc>https://ucdc.ucmerced.edu/home</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/about/why-should-i-apply-ucdc</loc>
+    <loc>https://ucdc.ucmerced.edu/about</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/about</loc>
+    <loc>https://ucdc.ucmerced.edu/about/why-should-i-apply-ucdc</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/about/academic-study</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/about/costs</loc>
-  </url>
-  <url>
     <loc>https://ucdc.ucmerced.edu/about/internships</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/about/dc-experience</loc>
+    <loc>https://ucdc.ucmerced.edu/about/costs</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/about/dc-experience/free-dc</loc>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/about/dc-experience</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/about/dc-experience/housing</loc>
@@ -37,28 +37,28 @@
     <loc>https://ucdc.ucmerced.edu/application/application-checklist</loc>
   </url>
   <url>
+    <loc>https://ucdc.ucmerced.edu/program-dates-deadlines</loc>
+  </url>
+  <url>
     <loc>https://ucdc.ucmerced.edu/applicationtips</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/form/student-interest-list</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/program-dates-deadlines</loc>
-  </url>
-  <url>
     <loc>https://ucdc.ucmerced.edu/ucdc-alumni</loc>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/ucdc-alumni/fall-2019</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/ucdc-alumni/ucdc-participant-experiences</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/ucdc-alumni/spring-2019</loc>
+    <loc>https://ucdc.ucmerced.edu/ucdc-alumni/fall-2019</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/ucdc-alumni/fall-2018</loc>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/ucdc-alumni/spring-2019</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/ucdc-alumni/spring-2018</loc>
@@ -73,10 +73,10 @@
     <loc>https://ucdc.ucmerced.edu/ucdc-alumni/fall-2016</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/past-participants/spring-2016</loc>
+    <loc>https://ucdc.ucmerced.edu/http%3A//ucdc.ucmerced.edu/past-participants/Fall-2015</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/http%3A//ucdc.ucmerced.edu/past-participants/Fall-2015</loc>
+    <loc>https://ucdc.ucmerced.edu/past-participants/spring-2016</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/past-participants/spring-2015</loc>
@@ -118,10 +118,10 @@
     <loc>https://ucdc.ucmerced.edu/past-participants/fall-2008</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/contact-us</loc>
+    <loc>https://ucdc.ucmerced.edu/faq</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/faq</loc>
+    <loc>https://ucdc.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/form/apply-now</loc>
@@ -130,13 +130,10 @@
     <loc>https://ucdc.ucmerced.edu/engineering</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/application/ucdc-major-flyers</loc>
-  </url>
-  <url>
     <loc>https://ucdc.ucmerced.edu/naturalscience</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/node/361</loc>
+    <loc>https://ucdc.ucmerced.edu/application/ucdc-major-flyers</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/ssha</loc>
@@ -146,19 +143,22 @@
     <lastmod>2018-04-19</lastmod>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/ucdc-participant-experiences/elizabeth</loc>
+    <loc>https://ucdc.ucmerced.edu/safety</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/ucdc-participant-experiences/adriana</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/safety</loc>
+    <loc>https://ucdc.ucmerced.edu/node/361</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/ucdc-participant-experiences/gino</loc>
+    <loc>https://ucdc.ucmerced.edu/ucdc-participant-experiences/elizabeth</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/ucdc-participant-experiences/alejandra</loc>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/ucdc-participant-experiences/jessica</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/bioengineering_-_ucdc_why_should_i_apply.pdf</loc>
@@ -181,22 +181,35 @@
     <lastmod>2018-06-11</lastmod>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/ucdc-participant-experiences/jessica</loc>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/app_math_sci_-ucdc_why_should_i_apply.pdf</loc>
+    <lastmod>2018-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/bio_sci_-_ucdc_why_should_i_apply.pdf</loc>
+    <lastmod>2018-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/chem_sci_-_ucdc_why_should_i_apply.pdf</loc>
+    <lastmod>2018-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/earth_systtems_sci_-_ucdc_why_should_i_apply.pdf</loc>
+    <lastmod>2018-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/physics_-_ucdc_why_should_i_apply_copy.pdf</loc>
+    <lastmod>2018-06-11</lastmod>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/ucm_arts_flyer_digital.pdf</loc>
     <lastmod>2017-08-25</lastmod>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/ucm_commsmedia_flyer_digital.pdf</loc>
-    <lastmod>2017-08-25</lastmod>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/ucm_englishrhetoric_flyer_digital.pdf</loc>
-    <lastmod>2017-08-25</lastmod>
-  </url>
-  <url>
     <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/ucm_busecon_flyer_digital.pdf</loc>
+    <lastmod>2017-08-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/ucm_commsmedia_flyer_digital.pdf</loc>
     <lastmod>2017-08-25</lastmod>
   </url>
   <url>
@@ -208,6 +221,10 @@
     <lastmod>2017-08-25</lastmod>
   </url>
   <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/ucm_englishrhetoric_flyer_digital.pdf</loc>
+    <lastmod>2017-08-25</lastmod>
+  </url>
+  <url>
     <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/ucm_genderstudies_flyer_digital.pdf</loc>
     <lastmod>2017-08-25</lastmod>
   </url>
@@ -216,12 +233,12 @@
     <lastmod>2017-08-25</lastmod>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/ucm_polisci_flyer_digital.pdf</loc>
-    <lastmod>2017-08-25</lastmod>
-  </url>
-  <url>
     <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/ucm_pre-law_flyer_digital.pdf</loc>
     <lastmod>2017-12-13</lastmod>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/ucm_polisci_flyer_digital.pdf</loc>
+    <lastmod>2017-08-25</lastmod>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/ucm_psychology_flyer_digital.pdf</loc>
@@ -236,32 +253,7 @@
     <lastmod>2017-08-25</lastmod>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/app_math_sci_-ucdc_why_should_i_apply.pdf</loc>
-    <lastmod>2018-06-11</lastmod>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/chem_sci_-_ucdc_why_should_i_apply.pdf</loc>
-    <lastmod>2018-06-11</lastmod>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/bio_sci_-_ucdc_why_should_i_apply.pdf</loc>
-    <lastmod>2018-06-11</lastmod>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/physics_-_ucdc_why_should_i_apply_copy.pdf</loc>
-    <lastmod>2018-06-11</lastmod>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/pre-health_internship_opps.pdf</loc>
-    <lastmod>2019-04-16</lastmod>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/earth_systtems_sci_-_ucdc_why_should_i_apply.pdf</loc>
-    <lastmod>2018-06-11</lastmod>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/pre_health_presentation.pdf</loc>
-    <lastmod>2019-04-16</lastmod>
+    <loc>https://ucdc.ucmerced.edu/ucdc-participant-experiences/gino</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/anthro_-_ucdc_why_should_i_apply.pdf</loc>
@@ -269,10 +261,6 @@
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/cog_sci_-_ucdc_why_should_i_apply.pdf</loc>
-    <lastmod>2018-06-11</lastmod>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/crest_-_ucdc_why_should_i_apply.pdf</loc>
     <lastmod>2018-06-11</lastmod>
   </url>
   <url>
@@ -284,11 +272,11 @@
     <lastmod>2018-06-11</lastmod>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/global_arts_-_ucdc_why_should_i_apply.pdf</loc>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/crest_-_ucdc_why_should_i_apply.pdf</loc>
     <lastmod>2018-06-11</lastmod>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/history_-_ucdc_why_should_i_apply.pdf</loc>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/global_arts_-_ucdc_why_should_i_apply.pdf</loc>
     <lastmod>2018-06-11</lastmod>
   </url>
   <url>
@@ -296,15 +284,19 @@
     <lastmod>2018-06-11</lastmod>
   </url>
   <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/history_-_ucdc_why_should_i_apply.pdf</loc>
+    <lastmod>2018-06-11</lastmod>
+  </url>
+  <url>
     <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/poli_sci_-_ucdc_why_should_i_apply.pdf</loc>
     <lastmod>2018-06-11</lastmod>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/psych_-_ucdc_why_should_i_apply.pdf</loc>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/public_health_-_ucdc_why_should_i_apply.pdf</loc>
     <lastmod>2018-06-11</lastmod>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/public_health_-_ucdc_why_should_i_apply.pdf</loc>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/psych_-_ucdc_why_should_i_apply.pdf</loc>
     <lastmod>2018-06-11</lastmod>
   </url>
   <url>
@@ -314,5 +306,13 @@
   <url>
     <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/documents/span_-_ucdc_why_should_i_apply.pdf</loc>
     <lastmod>2018-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/pre-health_internship_opps.pdf</loc>
+    <lastmod>2019-04-16</lastmod>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/sites/g/files/ufvvjh1886/f/page/documents/pre_health_presentation.pdf</loc>
+    <lastmod>2019-04-16</lastmod>
   </url>
 </urlset>

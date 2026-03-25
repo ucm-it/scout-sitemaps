@@ -4,19 +4,19 @@
     <loc>https://engineeringgrads.ucmerced.edu</loc>
   </url>
   <url>
+    <loc>https://engineeringgrads.ucmerced.edu/home/our-mission</loc>
+  </url>
+  <url>
     <loc>https://engineeringgrads.ucmerced.edu/home/about</loc>
   </url>
   <url>
     <loc>https://engineeringgrads.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://engineeringgrads.ucmerced.edu/home/our-mission</loc>
+    <loc>https://engineeringgrads.ucmerced.edu/prospective-students</loc>
   </url>
   <url>
     <loc>https://engineeringgrads.ucmerced.edu/contact</loc>
-  </url>
-  <url>
-    <loc>https://engineeringgrads.ucmerced.edu/prospective-students</loc>
   </url>
   <url>
     <loc>https://engineeringgrads.ucmerced.edu/prospective-students/graduate-programs</loc>
@@ -25,10 +25,10 @@
     <loc>https://engineeringgrads.ucmerced.edu/prospective-students/admission-process</loc>
   </url>
   <url>
-    <loc>https://engineeringgrads.ucmerced.edu/prospective-students/frequently-asked-questions</loc>
+    <loc>https://engineeringgrads.ucmerced.edu/prospective-students/funding-and-fellowships</loc>
   </url>
   <url>
-    <loc>https://engineeringgrads.ucmerced.edu/prospective-students/funding-and-fellowships</loc>
+    <loc>https://engineeringgrads.ucmerced.edu/prospective-students/frequently-asked-questions</loc>
   </url>
   <url>
     <loc>https://engineeringgrads.ucmerced.edu/prospective-students/student-life</loc>
@@ -40,10 +40,10 @@
     <loc>https://engineeringgrads.ucmerced.edu/prospective-students/student-life/local-area-uc-merced</loc>
   </url>
   <url>
-    <loc>https://engineeringgrads.ucmerced.edu/incoming-students</loc>
+    <loc>https://engineeringgrads.ucmerced.edu/prospective-students/request-info</loc>
   </url>
   <url>
-    <loc>https://engineeringgrads.ucmerced.edu/prospective-students/request-info</loc>
+    <loc>https://engineeringgrads.ucmerced.edu/incoming-students</loc>
   </url>
   <url>
     <loc>https://engineeringgrads.ucmerced.edu/incoming-students/english-language-evaluation-microteaching</loc>
@@ -58,13 +58,13 @@
     <loc>https://engineeringgrads.ucmerced.edu/incoming-students/housing</loc>
   </url>
   <url>
-    <loc>https://engineeringgrads.ucmerced.edu/incoming-students/engineering-graduate-programs-services-orientation</loc>
-  </url>
-  <url>
     <loc>https://engineeringgrads.ucmerced.edu/incoming-students/lab-safety</loc>
   </url>
   <url>
     <loc>https://engineeringgrads.ucmerced.edu/academics</loc>
+  </url>
+  <url>
+    <loc>https://engineeringgrads.ucmerced.edu/incoming-students/engineering-graduate-programs-services-orientation</loc>
   </url>
   <url>
     <loc>https://engineeringgrads.ucmerced.edu/academics/doctorate</loc>
@@ -91,10 +91,10 @@
     <loc>https://engineeringgrads.ucmerced.edu/academics/masters-degree/ms-plan-i-timeline</loc>
   </url>
   <url>
-    <loc>https://engineeringgrads.ucmerced.edu/academics/masters-degree/ms-plan-i-thesis-defense-exam-and-filing</loc>
+    <loc>https://engineeringgrads.ucmerced.edu/academics/masters-degree/ms-plan-ii</loc>
   </url>
   <url>
-    <loc>https://engineeringgrads.ucmerced.edu/academics/masters-degree/ms-plan-ii</loc>
+    <loc>https://engineeringgrads.ucmerced.edu/academics/masters-degree/ms-plan-i-thesis-defense-exam-and-filing</loc>
   </url>
   <url>
     <loc>https://engineeringgrads.ucmerced.edu/academics/masters-degree/ms-plan-ii-timeline</loc>
@@ -103,25 +103,22 @@
     <loc>https://engineeringgrads.ucmerced.edu/academics/masters-degree/ms-plan-ii-comprehensive-examproject-and-filing</loc>
   </url>
   <url>
-    <loc>https://engineeringgrads.ucmerced.edu/academics/masters-degree/advancing-candidacy-ms</loc>
+    <loc>https://engineeringgrads.ucmerced.edu/academics/academic-standards</loc>
   </url>
   <url>
-    <loc>https://engineeringgrads.ucmerced.edu/academics/academic-standards</loc>
+    <loc>https://engineeringgrads.ucmerced.edu/academics/masters-degree/advancing-candidacy-ms</loc>
   </url>
   <url>
     <loc>https://engineeringgrads.ucmerced.edu/academics/academic-standards/satisfactory-progress</loc>
   </url>
   <url>
-    <loc>https://engineeringgrads.ucmerced.edu/academics/academic-calendar</loc>
+    <loc>https://engineeringgrads.ucmerced.edu/academics/roles-and-responsibilities</loc>
   </url>
   <url>
     <loc>https://engineeringgrads.ucmerced.edu/academics/academic-standards/funding-eligibility</loc>
   </url>
   <url>
-    <loc>https://engineeringgrads.ucmerced.edu/academics/roles-and-responsibilities</loc>
-  </url>
-  <url>
-    <loc>https://engineeringgrads.ucmerced.edu/forms-0</loc>
+    <loc>https://engineeringgrads.ucmerced.edu/academics/academic-calendar</loc>
   </url>
   <url>
     <loc>https://engineeringgrads.ucmerced.edu/academics/registration-procedures</loc>
@@ -130,10 +127,13 @@
     <loc>https://engineeringgrads.ucmerced.edu/funding-employment</loc>
   </url>
   <url>
-    <loc>https://engineeringgrads.ucmerced.edu/funding-and-employment/eligibility</loc>
+    <loc>https://engineeringgrads.ucmerced.edu/forms-0</loc>
   </url>
   <url>
     <loc>https://engineeringgrads.ucmerced.edu/funding-employment/teaching-assistant/current-teaching-assistants</loc>
+  </url>
+  <url>
+    <loc>https://engineeringgrads.ucmerced.edu/funding-and-employment/eligibility</loc>
   </url>
   <url>
     <loc>https://engineeringgrads.ucmerced.edu/funding-and-employment/teaching-assistant</loc>
@@ -145,20 +145,20 @@
     <loc>https://engineeringgrads.ucmerced.edu/funding-employment/fellowships-current-students</loc>
   </url>
   <url>
+    <loc>https://engineeringgrads.ucmerced.edu/resources/campus-resources</loc>
+  </url>
+  <url>
     <loc>https://engineeringgrads.ucmerced.edu/funding-employment/frequently-asked-questions</loc>
   </url>
   <url>
     <loc>https://engineeringgrads.ucmerced.edu/resources-0</loc>
   </url>
   <url>
-    <loc>https://engineeringgrads.ucmerced.edu/resources/campus-resources</loc>
+    <loc>https://engineeringgrads.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://engineeringgrads.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://engineeringgrads.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
     <loc>https://engineeringgrads.ucmerced.edu/sites/engineeringgrads.ucmerced.edu/files/page/documents/ems_room_reservation_7.5.19.pdf</loc>
@@ -173,11 +173,11 @@
     <lastmod>2020-07-29</lastmod>
   </url>
   <url>
-    <loc>https://engineeringgrads.ucmerced.edu/sites/engineeringgrads.ucmerced.edu/files/page/documents/phd_time_to_degree_-_preparing_for_graduation.pdf</loc>
+    <loc>https://engineeringgrads.ucmerced.edu/sites/engineeringgrads.ucmerced.edu/files/page/documents/phd_time_to_degree_-_qe_and_atc.pdf</loc>
     <lastmod>2023-09-28</lastmod>
   </url>
   <url>
-    <loc>https://engineeringgrads.ucmerced.edu/sites/engineeringgrads.ucmerced.edu/files/page/documents/phd_time_to_degree_-_qe_and_atc.pdf</loc>
+    <loc>https://engineeringgrads.ucmerced.edu/sites/engineeringgrads.ucmerced.edu/files/page/documents/phd_time_to_degree_-_preparing_for_graduation.pdf</loc>
     <lastmod>2023-09-28</lastmod>
   </url>
   <url>
@@ -189,12 +189,12 @@
     <lastmod>2020-07-29</lastmod>
   </url>
   <url>
-    <loc>https://engineeringgrads.ucmerced.edu/sites/engineeringgrads.ucmerced.edu/files/page/documents/ms_time_to_degree_-_preparing_for_graduation.pdf</loc>
-    <lastmod>2023-09-28</lastmod>
-  </url>
-  <url>
     <loc>https://engineeringgrads.ucmerced.edu/sites/engineeringgrads.ucmerced.edu/files/page/documents/m.s._plan_ii_generic_timeline.pdf</loc>
     <lastmod>2020-07-29</lastmod>
+  </url>
+  <url>
+    <loc>https://engineeringgrads.ucmerced.edu/sites/engineeringgrads.ucmerced.edu/files/page/documents/ms_time_to_degree_-_preparing_for_graduation.pdf</loc>
+    <lastmod>2023-09-28</lastmod>
   </url>
   <url>
     <loc>https://engineeringgrads.ucmerced.edu/sites/engineeringgrads.ucmerced.edu/files/page/documents/ms_time_to_degree_-_preparing_for_graduation_0.pdf</loc>

@@ -22,14 +22,14 @@
     <loc>https://admitted.ucmerced.edu/student-resources</loc>
   </url>
   <url>
-    <loc>https://admitted.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
     <loc>https://admitted.ucmerced.edu/next-steps</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/connect</loc>
+  </url>
+  <url>
+    <loc>https://admitted.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/text-signup-details</loc>
@@ -44,10 +44,10 @@
     <loc>https://admitted.ucmerced.edu/events/overview-%E2%80%AF-data-science-and-analytics-and-management-innovation-sustainability-and-technology</loc>
   </url>
   <url>
-    <loc>https://admitted.ucmerced.edu/events/become-bobcat-webinar-welcome-school-social-sciences-humanities-and-arts</loc>
+    <loc>https://admitted.ucmerced.edu/events/become-bobcat-introduction-chemical-engineering-and-materials-science-and-engineering</loc>
   </url>
   <url>
-    <loc>https://admitted.ucmerced.edu/events/become-bobcat-introduction-chemical-engineering-and-materials-science-and-engineering</loc>
+    <loc>https://admitted.ucmerced.edu/events/become-bobcat-webinar-welcome-school-social-sciences-humanities-and-arts</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/events/become-bobcat-webinar-life-and-environmental-sciences</loc>
@@ -68,25 +68,28 @@
     <loc>https://admitted.ucmerced.edu/events/become-bobcat-webinar-school-engineering</loc>
   </url>
   <url>
+    <loc>https://admitted.ucmerced.edu/events/become-bobcat-webinar-mechanical-aerospace-engineering</loc>
+  </url>
+  <url>
     <loc>https://admitted.ucmerced.edu/events/become-bobcat-webinar-liberal-studies-welcome</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/events/become-bobcat-housing-dining-transportation-and-taps</loc>
   </url>
   <url>
-    <loc>https://admitted.ucmerced.edu/events/become-bobcat-next-steps-presentation-first-year-and-transfer</loc>
+    <loc>https://admitted.ucmerced.edu/events/become-bobcat-electrical-engineering</loc>
   </url>
   <url>
-    <loc>https://admitted.ucmerced.edu/events/become-bobcat-electrical-engineering</loc>
+    <loc>https://admitted.ucmerced.edu/events/become-bobcat-next-steps-presentation-first-year-and-transfer</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/events/become-bobcat-honors-program-webinar</loc>
   </url>
   <url>
-    <loc>https://admitted.ucmerced.edu/spring</loc>
+    <loc>https://admitted.ucmerced.edu/events/become-bobcat-next-steps-webinar-%E2%80%93-first-year-and-transfer</loc>
   </url>
   <url>
-    <loc>https://admitted.ucmerced.edu/events/become-bobcat-next-steps-webinar-%E2%80%93-first-year-and-transfer</loc>
+    <loc>https://admitted.ucmerced.edu/spring</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/documents</loc>
@@ -96,10 +99,10 @@
     <lastmod>2023-02-24</lastmod>
   </url>
   <url>
-    <loc>https://admitted.ucmerced.edu/faqs</loc>
+    <loc>https://admitted.ucmerced.edu/important-dates-for-admitted-students</loc>
   </url>
   <url>
-    <loc>https://admitted.ucmerced.edu/important-dates-for-admitted-students</loc>
+    <loc>https://admitted.ucmerced.edu/faqs</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/fall</loc>
@@ -132,10 +135,10 @@
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/register</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/taxonomy/term/26/feed</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
 </urlset>

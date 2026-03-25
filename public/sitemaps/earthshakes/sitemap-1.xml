@@ -7,19 +7,19 @@
     <loc>https://earthshakes.ucmerced.edu/about</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/earthshakes-pledge</loc>
+    <loc>https://earthshakes.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/</loc>
+    <loc>https://earthshakes.ucmerced.edu/earthshakes-pledge</loc>
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/about/how-join</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/members-organizations-and-individuals/north-america</loc>
+    <loc>https://earthshakes.ucmerced.edu/members-organizations-and-individuals</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/members-organizations-and-individuals</loc>
+    <loc>https://earthshakes.ucmerced.edu/members-organizations-and-individuals/north-america</loc>
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/members-theatres-and-individuals/south-and-central-america</loc>
@@ -31,28 +31,28 @@
     <loc>https://earthshakes.ucmerced.edu/members-theatres-and-individuals/caribbean</loc>
   </url>
   <url>
+    <loc>https://earthshakes.ucmerced.edu/members-theatres-and-individuals/oceania</loc>
+  </url>
+  <url>
     <loc>https://earthshakes.ucmerced.edu/members-theatres-and-individuals/asia</loc>
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/members-theatres-and-individuals/africa</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/members-theatres-and-individuals/oceania</loc>
+    <loc>https://earthshakes.ucmerced.edu/eco-shakes-productions</loc>
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/members-organizations-and-individuals/individual-artists-scholars-teachers</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/eco-shakes-productions</loc>
-  </url>
-  <url>
     <loc>https://earthshakes.ucmerced.edu/resources</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/resources/interviews-theatre-makers</loc>
+    <loc>https://earthshakes.ucmerced.edu/resources/books-shakespeare-and-environment</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/resources/books-shakespeare-and-environment</loc>
+    <loc>https://earthshakes.ucmerced.edu/resources/interviews-theatre-makers</loc>
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/resources/articles-and-essays</loc>
@@ -61,10 +61,10 @@
     <loc>https://earthshakes.ucmerced.edu/resources/websites-podcasts-news</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/resources/eco-resources-theatre-companies</loc>
+    <loc>https://earthshakes.ucmerced.edu/resources/films-and-performances</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/resources/films-and-performances</loc>
+    <loc>https://earthshakes.ucmerced.edu/resources/eco-resources-theatre-companies</loc>
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/globe4globe-videos</loc>
@@ -77,7 +77,7 @@
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/news/2021/uc-merced-teams-globe-globe4globe-and-earthshakes-launch</loc>
@@ -92,22 +92,19 @@
     <loc>https://earthshakes.ucmerced.edu/node/25</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/node/26</loc>
+    <loc>https://earthshakes.ucmerced.edu/node/27</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/node/27</loc>
+    <loc>https://earthshakes.ucmerced.edu/node/26</loc>
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/node/28</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/node/29</loc>
-  </url>
-  <url>
     <loc>https://earthshakes.ucmerced.edu/node/261</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/node/181</loc>
+    <loc>https://earthshakes.ucmerced.edu/node/29</loc>
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/node/35</loc>
@@ -116,13 +113,19 @@
     <loc>https://earthshakes.ucmerced.edu/node/36</loc>
   </url>
   <url>
+    <loc>https://earthshakes.ucmerced.edu/node/181</loc>
+  </url>
+  <url>
     <loc>https://earthshakes.ucmerced.edu/node/271</loc>
+  </url>
+  <url>
+    <loc>https://earthshakes.ucmerced.edu/node/37</loc>
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/node/38</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/node/37</loc>
+    <loc>https://earthshakes.ucmerced.edu/node/40</loc>
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/node/39</loc>
@@ -131,34 +134,28 @@
     <loc>https://earthshakes.ucmerced.edu/node/281</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/node/291</loc>
-  </url>
-  <url>
-    <loc>https://earthshakes.ucmerced.edu/node/40</loc>
-  </url>
-  <url>
     <loc>https://earthshakes.ucmerced.edu/node/171</loc>
+  </url>
+  <url>
+    <loc>https://earthshakes.ucmerced.edu/node/291</loc>
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/node/81</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/node/251</loc>
-  </url>
-  <url>
     <loc>https://earthshakes.ucmerced.edu/node/19</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/node/18</loc>
+    <loc>https://earthshakes.ucmerced.edu/node/251</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/node/20</loc>
+    <loc>https://earthshakes.ucmerced.edu/node/201</loc>
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/node/22</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/node/201</loc>
+    <loc>https://earthshakes.ucmerced.edu/node/20</loc>
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/sites/earthshakes.ucmerced.edu/files/page/documents/g4g_session-1-1.pdf</loc>
@@ -169,15 +166,18 @@
     <lastmod>2021-04-29</lastmod>
   </url>
   <url>
+    <loc>https://earthshakes.ucmerced.edu/node/18</loc>
+  </url>
+  <url>
     <loc>https://earthshakes.ucmerced.edu/sites/earthshakes.ucmerced.edu/files/page/documents/globe-4-globe-session-2-keynote-abstracts.pdf</loc>
     <lastmod>2021-04-29</lastmod>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/sites/earthshakes.ucmerced.edu/files/page/documents/g4g_session3.pdf</loc>
+    <loc>https://earthshakes.ucmerced.edu/sites/earthshakes.ucmerced.edu/files/page/documents/g4g_session_7.pdf</loc>
     <lastmod>2021-04-29</lastmod>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/sites/earthshakes.ucmerced.edu/files/page/documents/g4g_session_7.pdf</loc>
+    <loc>https://earthshakes.ucmerced.edu/sites/earthshakes.ucmerced.edu/files/page/documents/g4g_session3.pdf</loc>
     <lastmod>2021-04-29</lastmod>
   </url>
   <url>

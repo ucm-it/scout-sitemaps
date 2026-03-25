@@ -4,22 +4,19 @@
     <loc>https://facilities.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://facilities.ucmerced.edu/</loc>
-  </url>
-  <url>
-    <loc>https://facilities.ucmerced.edu/what-we-do/mission-vision-and-values</loc>
-  </url>
-  <url>
     <loc>https://facilities.ucmerced.edu/about-us/what-we-do</loc>
   </url>
   <url>
-    <loc>https://facilities.ucmerced.edu/fm-help/recharge-rates</loc>
+    <loc>https://facilities.ucmerced.edu/</loc>
+  </url>
+  <url>
+    <loc>https://facilities.ucmerced.edu/about-us/contact</loc>
   </url>
   <url>
     <loc>https://facilities.ucmerced.edu/who-we-are/leadership</loc>
   </url>
   <url>
-    <loc>https://facilities.ucmerced.edu/about-us/contact</loc>
+    <loc>https://facilities.ucmerced.edu/fm-help/recharge-rates</loc>
   </url>
   <url>
     <loc>https://facilities.ucmerced.edu/who-we-are/resources</loc>
@@ -34,10 +31,10 @@
     <loc>https://facilities.ucmerced.edu/campus-services/custodial-services</loc>
   </url>
   <url>
-    <loc>https://facilities.ucmerced.edu/about-us/engineering-services</loc>
+    <loc>https://facilities.ucmerced.edu/campus-services/document-services</loc>
   </url>
   <url>
-    <loc>https://facilities.ucmerced.edu/campus-services/document-services</loc>
+    <loc>https://facilities.ucmerced.edu/about-us/engineering-services</loc>
   </url>
   <url>
     <loc>https://facilities.ucmerced.edu/campus-services/facility-managers</loc>
@@ -52,10 +49,10 @@
     <loc>https://facilities.ucmerced.edu/campus-services/mail-services</loc>
   </url>
   <url>
-    <loc>https://facilities.ucmerced.edu/campus-services/refuse-services</loc>
+    <loc>https://facilities.ucmerced.edu/campus-services/moving-and-events</loc>
   </url>
   <url>
-    <loc>https://facilities.ucmerced.edu/campus-services/moving-and-events</loc>
+    <loc>https://facilities.ucmerced.edu/campus-services/refuse-services</loc>
   </url>
   <url>
     <loc>https://facilities.ucmerced.edu/node/351</loc>
@@ -79,10 +76,10 @@
     <loc>https://facilities.ucmerced.edu/skilled-trades/carpentry</loc>
   </url>
   <url>
-    <loc>https://facilities.ucmerced.edu/skilled-trades/electrical</loc>
+    <loc>https://facilities.ucmerced.edu/physical-plant/central-plant</loc>
   </url>
   <url>
-    <loc>https://facilities.ucmerced.edu/physical-plant/central-plant</loc>
+    <loc>https://facilities.ucmerced.edu/skilled-trades/electrical</loc>
   </url>
   <url>
     <loc>https://facilities.ucmerced.edu/node/83</loc>
@@ -106,23 +103,26 @@
     <loc>https://facilities.ucmerced.edu/skilled-trades/plumbing</loc>
   </url>
   <url>
+    <loc>https://facilities.ucmerced.edu/contactus</loc>
+  </url>
+  <url>
     <loc>https://facilities.ucmerced.edu/skilled-trades/skilled-trades-directory</loc>
   </url>
   <url>
     <loc>https://facilities.ucmerced.edu/central-plant/water-distribution</loc>
   </url>
   <url>
-    <loc>https://facilities.ucmerced.edu/contactus</loc>
+    <loc>https://facilities.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://facilities.ucmerced.edu/sustainability/solar</loc>
   </url>
   <url>
-    <loc>https://facilities.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://facilities.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://facilities.ucmerced.edu/contact-us</loc>
+    <loc>https://facilities.ucmerced.edu/what-we-do/mission-vision-and-values</loc>
   </url>
   <url>
     <loc>https://facilities.ucmerced.edu/sites/facilities.ucmerced.edu/files/page/documents/billing_questions_and_answers_0.pdf</loc>
@@ -169,12 +169,12 @@
     <lastmod>2023-11-22</lastmod>
   </url>
   <url>
-    <loc>https://facilities.ucmerced.edu/sites/g/files/ufvvjh881/f/page/documents/20230310_spring_break_building_closure_affecting_multiple_buildings.pdf</loc>
-    <lastmod>2026-03-10</lastmod>
-  </url>
-  <url>
     <loc>https://facilities.ucmerced.edu/sites/g/files/ufvvjh881/f/page/documents/hospitality_and_catering_spring_2026.pdf</loc>
     <lastmod>2026-02-09</lastmod>
+  </url>
+  <url>
+    <loc>https://facilities.ucmerced.edu/sites/g/files/ufvvjh881/f/page/documents/20230310_spring_break_building_closure_affecting_multiple_buildings.pdf</loc>
+    <lastmod>2026-03-10</lastmod>
   </url>
   <url>
     <loc>https://facilities.ucmerced.edu/sites/g/files/ufvvjh881/f/page/documents/uc_merced_integrated_pest_management_plan_-_sept_2025_0.pdf</loc>
@@ -197,12 +197,12 @@
     <lastmod>2024-01-12</lastmod>
   </url>
   <url>
-    <loc>https://facilities.ucmerced.edu/sites/facilities.ucmerced.edu/files/page/documents/fm_planned_service_impact_procedure.pdf</loc>
-    <lastmod>2016-07-19</lastmod>
-  </url>
-  <url>
     <loc>https://facilities.ucmerced.edu/sites/facilities.ucmerced.edu/files/page/documents/planned_service_impact_request_form_7-23-18.pdf</loc>
     <lastmod>2018-07-23</lastmod>
+  </url>
+  <url>
+    <loc>https://facilities.ucmerced.edu/sites/facilities.ucmerced.edu/files/page/documents/fm_planned_service_impact_procedure.pdf</loc>
+    <lastmod>2016-07-19</lastmod>
   </url>
   <url>
     <loc>https://facilities.ucmerced.edu/sites/facilities.ucmerced.edu/files/page/documents/fm_planned_service_outage_flowchart_reference.pdf</loc>

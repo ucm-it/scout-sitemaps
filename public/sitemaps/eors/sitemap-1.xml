@@ -4,13 +4,13 @@
     <loc>https://eors.ucmerced.edu</loc>
   </url>
   <url>
+    <loc>https://eors.ucmerced.edu/</loc>
+  </url>
+  <url>
     <loc>https://eors.ucmerced.edu/people/current</loc>
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/people</loc>
-  </url>
-  <url>
-    <loc>https://eors.ucmerced.edu/</loc>
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/people/previous</loc>
@@ -25,10 +25,10 @@
     <loc>https://eors.ucmerced.edu/research/current-research/internet-things-precision-agriculture</loc>
   </url>
   <url>
-    <loc>https://eors.ucmerced.edu/research/current-research/ecosystem-impacts-water-primrose-delta</loc>
+    <loc>https://eors.ucmerced.edu/research/current-research/labor-and-automation-california-agriculture</loc>
   </url>
   <url>
-    <loc>https://eors.ucmerced.edu/research/current-research/labor-and-automation-california-agriculture</loc>
+    <loc>https://eors.ucmerced.edu/research/current-research/ecosystem-impacts-water-primrose-delta</loc>
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/research/current-research/mercury-space</loc>
@@ -65,7 +65,7 @@
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/contact-us</loc>
@@ -74,16 +74,19 @@
     <loc>https://eors.ucmerced.edu/content/erin-hestir</loc>
   </url>
   <url>
+    <loc>https://eors.ucmerced.edu/content/dulcinea-avouris</loc>
+  </url>
+  <url>
     <loc>https://eors.ucmerced.edu/content/christiana-ade</loc>
   </url>
   <url>
-    <loc>https://eors.ucmerced.edu/content/dulcinea-avouris</loc>
+    <loc>https://eors.ucmerced.edu/people/current/brittany-lopez-barreto</loc>
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/content/julia-burmistrova</loc>
   </url>
   <url>
-    <loc>https://eors.ucmerced.edu/people/current/brittany-lopez-barreto</loc>
+    <loc>https://eors.ucmerced.edu/content/jacob-nesslage</loc>
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/content/anastasios-mazis</loc>
@@ -92,13 +95,7 @@
     <loc>https://eors.ucmerced.edu/people/current-members/bailey-morrison</loc>
   </url>
   <url>
-    <loc>https://eors.ucmerced.edu/content/jacob-nesslage</loc>
-  </url>
-  <url>
     <loc>https://eors.ucmerced.edu/people/previous/megan-pinkus</loc>
-  </url>
-  <url>
-    <loc>https://eors.ucmerced.edu/content/tasos-tentoglou</loc>
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/content/adam-weingram</loc>
@@ -107,10 +104,13 @@
     <loc>https://eors.ucmerced.edu/content/erik-bolch</loc>
   </url>
   <url>
-    <loc>https://eors.ucmerced.edu/content/michael-kalua</loc>
+    <loc>https://eors.ucmerced.edu/content/daniel-g%C3%B3mez</loc>
   </url>
   <url>
-    <loc>https://eors.ucmerced.edu/content/daniel-g%C3%B3mez</loc>
+    <loc>https://eors.ucmerced.edu/content/tasos-tentoglou</loc>
+  </url>
+  <url>
+    <loc>https://eors.ucmerced.edu/content/michael-kalua</loc>
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/sites/g/files/ufvvjh851/f/morrison_bd_cv.pdf</loc>

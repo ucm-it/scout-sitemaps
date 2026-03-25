@@ -4,28 +4,28 @@
     <loc>https://osrr.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://osrr.ucmerced.edu/our-team</loc>
+    <loc>https://osrr.ucmerced.edu/</loc>
   </url>
   <url>
     <loc>https://osrr.ucmerced.edu/about</loc>
   </url>
   <url>
-    <loc>https://osrr.ucmerced.edu/</loc>
-  </url>
-  <url>
-    <loc>https://osrr.ucmerced.edu/events-0</loc>
+    <loc>https://osrr.ucmerced.edu/our-team</loc>
   </url>
   <url>
     <loc>https://osrr.ucmerced.edu/about-us/our-location</loc>
   </url>
   <url>
+    <loc>https://osrr.ucmerced.edu/events-0</loc>
+  </url>
+  <url>
     <loc>https://osrr.ucmerced.edu/student-conduct</loc>
   </url>
   <url>
-    <loc>https://osrr.ucmerced.edu/misconduct/help-ive-been-reported</loc>
+    <loc>https://osrr.ucmerced.edu/student-conduct/student-rights-responsibilities</loc>
   </url>
   <url>
-    <loc>https://osrr.ucmerced.edu/student-conduct/student-rights-responsibilities</loc>
+    <loc>https://osrr.ucmerced.edu/misconduct/help-ive-been-reported</loc>
   </url>
   <url>
     <loc>https://osrr.ucmerced.edu/student-conduct/student-conduct-process</loc>
@@ -43,19 +43,19 @@
     <loc>https://osrr.ucmerced.edu/academic-integrity/academic-integrity-resources</loc>
   </url>
   <url>
-    <loc>https://osrr.ucmerced.edu/academic-integrity/reporting</loc>
+    <loc>https://osrr.ucmerced.edu/conflict-resolution</loc>
   </url>
   <url>
-    <loc>https://osrr.ucmerced.edu/conflict-resolution</loc>
+    <loc>https://osrr.ucmerced.edu/academic-integrity/reporting</loc>
   </url>
   <url>
     <loc>https://osrr.ucmerced.edu/conflict-resolution/conflict-resolution-strategies</loc>
   </url>
   <url>
-    <loc>https://osrr.ucmerced.edu/conflict-resolution/campus-resources</loc>
+    <loc>https://osrr.ucmerced.edu/conflict-resolution/roommate-conflicts</loc>
   </url>
   <url>
-    <loc>https://osrr.ucmerced.edu/conflict-resolution/roommate-conflicts</loc>
+    <loc>https://osrr.ucmerced.edu/conflict-resolution/campus-resources</loc>
   </url>
   <url>
     <loc>https://osrr.ucmerced.edu/restorative-practices</loc>
@@ -71,14 +71,14 @@
     <loc>https://osrr.ucmerced.edu/file-report</loc>
   </url>
   <url>
-    <loc>https://osrr.ucmerced.edu/policies</loc>
+    <loc>https://osrr.ucmerced.edu/resources</loc>
   </url>
   <url>
     <loc>https://osrr.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://osrr.ucmerced.edu/resources</loc>
+    <loc>https://osrr.ucmerced.edu/policies</loc>
   </url>
   <url>
     <loc>https://osrr.ucmerced.edu/freespeech</loc>
@@ -93,9 +93,6 @@
     <loc>https://osrr.ucmerced.edu/content/vanessa-hauser</loc>
   </url>
   <url>
-    <loc>https://osrr.ucmerced.edu/content/alejandro-alex-llamas</loc>
-  </url>
-  <url>
     <loc>https://osrr.ucmerced.edu/sites/g/files/ufvvjh1371/f/documents/advisor_1.pdf</loc>
     <lastmod>2025-12-12</lastmod>
   </url>
@@ -104,12 +101,12 @@
     <lastmod>2026-01-02</lastmod>
   </url>
   <url>
-    <loc>https://osrr.ucmerced.edu/sites/osrr.ucmerced.edu/files/documents/ucm_finalized_student_handbook.pdf</loc>
-    <lastmod>2025-06-06</lastmod>
-  </url>
-  <url>
     <loc>https://osrr.ucmerced.edu/sites/osrr.ucmerced.edu/files/page/documents/policy_on_compulsory_campus-based_student_fees_section_80_pacaos.pdf</loc>
     <lastmod>2019-03-27</lastmod>
+  </url>
+  <url>
+    <loc>https://osrr.ucmerced.edu/sites/osrr.ucmerced.edu/files/documents/ucm_finalized_student_handbook.pdf</loc>
+    <lastmod>2025-06-06</lastmod>
   </url>
   <url>
     <loc>https://osrr.ucmerced.edu/sites/g/files/ufvvjh1371/f/documents/anti-discrimination_policy_interim_updates_final_12.1.2025_2.pdf</loc>
@@ -148,6 +145,14 @@
     <lastmod>2026-01-08</lastmod>
   </url>
   <url>
+    <loc>https://osrr.ucmerced.edu/sites/osrr.ucmerced.edu/files/documents/ucm_finalized_student_grievance_procedures.pdf</loc>
+    <lastmod>2025-06-06</lastmod>
+  </url>
+  <url>
+    <loc>https://osrr.ucmerced.edu/sites/osrr.ucmerced.edu/files/documents/revised_establishing_classroom_etiquette_and_dealing_with_disruption.pdf</loc>
+    <lastmod>2025-04-28</lastmod>
+  </url>
+  <url>
     <loc>https://osrr.ucmerced.edu/sites/g/files/ufvvjh1371/f/event/abusive_conduct_in_the_workplace.pdf</loc>
     <lastmod>2025-06-25</lastmod>
   </url>
@@ -156,11 +161,6 @@
     <lastmod>2025-06-25</lastmod>
   </url>
   <url>
-    <loc>https://osrr.ucmerced.edu/sites/osrr.ucmerced.edu/files/documents/ucm_finalized_student_grievance_procedures.pdf</loc>
-    <lastmod>2025-06-06</lastmod>
-  </url>
-  <url>
-    <loc>https://osrr.ucmerced.edu/sites/osrr.ucmerced.edu/files/documents/revised_establishing_classroom_etiquette_and_dealing_with_disruption.pdf</loc>
-    <lastmod>2025-04-28</lastmod>
+    <loc>https://osrr.ucmerced.edu/content/alejandro-alex-llamas</loc>
   </url>
 </urlset>

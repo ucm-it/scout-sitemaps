@@ -7,22 +7,19 @@
     <loc>https://iss.ucmerced.edu/students</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/students/prospective-students</loc>
+    <loc>https://iss.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/</loc>
+    <loc>https://iss.ucmerced.edu/students/prospective-students</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/students/transfer-students</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/students/current</loc>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/students/newlyadmitted</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/students/uceap-reciprocity</loc>
+    <loc>https://iss.ucmerced.edu/students/current</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/students/current/j-1students</loc>
@@ -31,10 +28,13 @@
     <loc>https://iss.ucmerced.edu/students/current-students/f-1</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/professors-researchers</loc>
+    <loc>https://iss.ucmerced.edu/students/uceap-reciprocity</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/professors-researchers/j-1</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/professors-researchers</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/professors-researchers/h-1b</loc>
@@ -49,10 +49,10 @@
     <loc>https://iss.ucmerced.edu/professors-researchers/international-postdocs</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/professors-researchers/tn-visas</loc>
+    <loc>https://iss.ucmerced.edu/ucm-departments</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/ucm-departments</loc>
+    <loc>https://iss.ucmerced.edu/professors-researchers/tn-visas</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/ucm-departments/f-1</loc>
@@ -85,19 +85,19 @@
     <loc>https://iss.ucmerced.edu/resources/finding-housing</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/resources/campus</loc>
+    <loc>https://iss.ucmerced.edu/resources/insurance</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/resources/transportation</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/resources/insurance</loc>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/resources/places-worship</loc>
+    <loc>https://iss.ucmerced.edu/resources/campus</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/resources/shopping-dining</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/resources/places-worship</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/resources/cultural-adjustments</loc>
@@ -115,33 +115,27 @@
     <loc>https://iss.ucmerced.edu/contact_us</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/students/orientation</loc>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/node/901</loc>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/students/current/driverslicense</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/inttravel</loc>
   </url>
   <url>
+    <loc>https://iss.ucmerced.edu/students/orientation</loc>
+  </url>
+  <url>
     <loc>https://iss.ucmerced.edu/social-security</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/november_2025_newsletter.pdf</loc>
     <lastmod>2025-11-05</lastmod>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/expandedtravelban</loc>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/node/1121</loc>
+    <loc>https://iss.ucmerced.edu/students/current/driverslicense</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/proposeddurationofstatusrule</loc>
@@ -150,33 +144,36 @@
     <loc>https://iss.ucmerced.edu/travelban</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/how-apply-visa</loc>
+    <loc>https://iss.ucmerced.edu/expandedtravelban</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/node/1121</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/arvhived_announcements</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/visarenewal</loc>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/contact-us</loc>
+    <loc>https://iss.ucmerced.edu/how-apply-visa</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/professors-researchers/j-1/health-insurance</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/students/prospective/finances</loc>
+    <loc>https://iss.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/visarenewal</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/international-student-scholarship</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/guarantee_of_financial_support_private_sponsor_0.pdf</loc>
-    <lastmod>2024-02-23</lastmod>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/request_for_i-20_form_fall_25.pdf</loc>
     <lastmod>2025-02-07</lastmod>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/guarantee_of_financial_support_private_sponsor_0.pdf</loc>
+    <lastmod>2024-02-23</lastmod>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/f1_transfer_request_form.pdf</loc>
@@ -187,15 +184,15 @@
     <lastmod>2026-02-25</lastmod>
   </url>
   <url>
+    <loc>https://iss.ucmerced.edu/students/prospective/finances</loc>
+  </url>
+  <url>
     <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/page/documents/guarantee_of_financial_support_private_sponsor.pdf</loc>
     <lastmod>2024-02-23</lastmod>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/f2_dependent_i20_request_fillable.pdf</loc>
     <lastmod>2021-09-03</lastmod>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/node/1296</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/arrival_guide_2025_sized.pdf</loc>
@@ -206,6 +203,12 @@
     <lastmod>2025-05-04</lastmod>
   </url>
   <url>
+    <loc>https://iss.ucmerced.edu/node/1296</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/proofoffinancialsupport</loc>
+  </url>
+  <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/international_student_handbook_2024_1.pdf</loc>
     <lastmod>2024-02-17</lastmod>
   </url>
@@ -214,13 +217,13 @@
     <lastmod>2024-02-23</lastmod>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/proofoffinancialsupport</loc>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/address_update</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/ucm-departments/j-1scholars/212e</loc>
+    <loc>https://iss.ucmerced.edu/students/current/academictraining</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/ucm-departments/j-1scholars/bars</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/dependent/family</loc>
@@ -230,25 +233,22 @@
     <lastmod>2023-02-17</lastmod>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/students/current/academictraining</loc>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/ucm-departments/j-1scholars/bars</loc>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/node/1191</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/node/1186</loc>
+    <loc>https://iss.ucmerced.edu/ucm-departments/j-1scholars/212e</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/node/1201</loc>
+    <loc>https://iss.ucmerced.edu/students/current/reducedcourseload</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/node/1206</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/students/current/reducedcourseload</loc>
+    <loc>https://iss.ucmerced.edu/node/1201</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/node/1186</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/students/current/change</loc>
@@ -257,40 +257,40 @@
     <loc>https://iss.ucmerced.edu/node/1221</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/node/1211</loc>
+    <loc>https://iss.ucmerced.edu/node/1226</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/students/current/leave</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/node/1226</loc>
+    <loc>https://iss.ucmerced.edu/students/current/completion</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/withdrawal-cancellation-or-dismissal</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/students/current/completion</loc>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/node/1246</loc>
+    <loc>https://iss.ucmerced.edu/node/1211</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/students/current/cpt</loc>
   </url>
   <url>
+    <loc>https://iss.ucmerced.edu/initial-optional-practical-training-opt</loc>
+  </url>
+  <url>
     <loc>https://iss.ucmerced.edu/node/1241</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/node/1281</loc>
+    <loc>https://iss.ucmerced.edu/students/current/opt_extension</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/node/1236</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/initial-optional-practical-training-opt</loc>
+    <loc>https://iss.ucmerced.edu/node/1246</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/students/current/opt_extension</loc>
+    <loc>https://iss.ucmerced.edu/node/1231</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/page/documents/new_international_student_handbook_2025.pdf</loc>
@@ -301,11 +301,10 @@
     <lastmod>2025-07-29</lastmod>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/event/visa_comparison_chart_pic.jpg</loc>
-    <lastmod>2013-07-19</lastmod>
+    <loc>https://iss.ucmerced.edu/ucm-departments/j-1scholars/categories</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/node/1231</loc>
+    <loc>https://iss.ucmerced.edu/node/1281</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/students/current/forms</loc>
@@ -314,40 +313,41 @@
     <loc>https://iss.ucmerced.edu/J-1Funding</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/ucm-departments/j-1scholars/categories</loc>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/node/51</loc>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/professors-researchers/j-1/sevisfee</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/professors-researchers/j-1/dependents</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/English</loc>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/professors-researchers/j-1/check-in</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/professors-researchers/j-1/maintainingstatus</loc>
+    <loc>https://iss.ucmerced.edu/English</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/node/51</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/professors-researchers/j-1/travelinfo</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/professors-researchers/j-1/transfers</loc>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/J-1OnsiteRequirement</loc>
+    <loc>https://iss.ucmerced.edu/professors-researchers/j-1/maintainingstatus</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/professors-researchers/j-1/extensions</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/professors-researchers/h-1b/information</loc>
+    <loc>https://iss.ucmerced.edu/J1PaymentAuthorization</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/J-1OnsiteRequirement</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/professors-researchers/j-1/transfers</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/event/visa_comparison_chart_pic.jpg</loc>
+    <lastmod>2013-07-19</lastmod>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/professors-researchers/h-1b/maintainingstatus</loc>
@@ -356,19 +356,19 @@
     <loc>https://iss.ucmerced.edu/professors-researchers/h-1b/extensions</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/professors-researchers/h-1b/changing</loc>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/J1PaymentAuthorization</loc>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/professors-researchers/h-1b/h4dependents</loc>
+    <loc>https://iss.ucmerced.edu/professors-researchers/h-1b/information</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/professors-researchers/h-1b/traveling</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/professors-researchers/h-1b/leaving</loc>
+    <loc>https://iss.ucmerced.edu/professors-researchers/h-1b/h4dependents</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/professors-researchers/h-1b/changing</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/professors-researchers/h-1b/afterh-1b</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/student_sample_letter.pdf</loc>
@@ -379,15 +379,15 @@
     <lastmod>2021-09-03</lastmod>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/tn_appendix1603d1.pdf</loc>
-    <lastmod>2025-08-13</lastmod>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/visa_services_recharge_form_-_0211191.xlsx</loc>
     <lastmod>2019-02-12</lastmod>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/professors-researchers/h-1b/afterh-1b</loc>
+    <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/tn_appendix1603d1.pdf</loc>
+    <lastmod>2025-08-13</lastmod>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/professors-researchers/h-1b/leaving</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/cpt_request_form_fillable.pdf</loc>
@@ -398,6 +398,9 @@
     <lastmod>2013-12-06</lastmod>
   </url>
   <url>
+    <loc>https://iss.ucmerced.edu/ucm-departments/non-degree</loc>
+  </url>
+  <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/opt_request_form_fillable.pdf</loc>
     <lastmod>2020-01-03</lastmod>
   </url>
@@ -406,22 +409,22 @@
     <lastmod>2019-10-25</lastmod>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/ucm-departments/non-degree</loc>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/ucm-departments/j-1scholars/invitingascholar</loc>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/ucm-departments/j-1scholars/eligibility</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/ucm-departments/j-1scholars/extensions</loc>
+    <loc>https://iss.ucmerced.edu/ucm-departments/j-1scholars/invitingascholar</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/ucm-departments/j-1scholars/fees</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/ucm-departments/j-1scholars/timelines</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/ucm-departments/j-1scholars/extensions</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/ucm-departments/j-1scholars/invitingascholar/responsibilities</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/h-1b_one_page_-_violations_2022.pdf</loc>
@@ -431,29 +434,19 @@
     <loc>https://iss.ucmerced.edu/node/301</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/ucm-departments/j-1scholars/invitingascholar/responsibilities</loc>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/ucm-departments/h-1b/overview</loc>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/ucm-departments/h-1b/fees</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/ucm-departments/h-1b/applicationinstructions</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/ucm-departments/h-1b/h-1bextensions</loc>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/ucm-departments/h-1b/prevailing-wage</loc>
+    <loc>https://iss.ucmerced.edu/ucm-departments/h-1b/fees</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/ucm-departments/h-1b/timelines</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/j_to_h1b_comparison.pdf</loc>
-    <lastmod>2022-10-07</lastmod>
+    <loc>https://iss.ucmerced.edu/ucm-departments/h-1b/h-1bextensions</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/ucm-departments/h-1b/employer-obligations</loc>
@@ -462,10 +455,20 @@
     <loc>https://iss.ucmerced.edu/ucm-departments/h-1b/employer-inspections</loc>
   </url>
   <url>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/j_to_h1b_comparison.pdf</loc>
+    <lastmod>2022-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/ucm-departments/h-1b/prevailing-wage</loc>
+  </url>
+  <url>
     <loc>https://iss.ucmerced.edu/ucm-departments/PR/eligibility</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/ucm-departments/PR/requirements</loc>
+    <loc>https://iss.ucmerced.edu/ucm-departments/PR/forms</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/ucm-departments/PR/fees</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/tn-sample_cbp_letter.docx</loc>
@@ -476,14 +479,11 @@
     <lastmod>2022-02-23</lastmod>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/ucm-departments/PR/forms</loc>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/student_commencement_sample_letter.docx</loc>
     <lastmod>2023-04-10</lastmod>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/ucm-departments/PR/fees</loc>
+    <loc>https://iss.ucmerced.edu/ucm-departments/PR/requirements</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/travel_guidelines_new.docx</loc>
@@ -505,14 +505,11 @@
     <loc>https://iss.ucmerced.edu/students/undergraduate-funding</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/students/current/status</loc>
+    <loc>https://iss.ucmerced.edu/international_travel_updates</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/bewareiceimposters.pdf</loc>
     <lastmod>2020-11-05</lastmod>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/international_travel_updates</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/dhs_fraud_advisory</loc>
@@ -521,18 +518,25 @@
     <loc>https://iss.ucmerced.edu/tax_scams</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/2019-2020%20Holiday%20Hours</loc>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/a-genrollmentform_0.pdf</loc>
     <lastmod>2014-09-08</lastmod>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/waiver_information.pdf</loc>
-    <lastmod>2014-05-29</lastmod>
+    <loc>https://iss.ucmerced.edu/2019-2020%20Holiday%20Hours</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/at_request_form_november_2024.pdf</loc>
+    <lastmod>2024-10-31</lastmod>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/students/current/status</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/f2_dependent_i20_request_0.pdf</loc>
+    <lastmod>2024-02-23</lastmod>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/j2_dependent_ds2019_request_0.pdf</loc>
     <lastmod>2024-02-23</lastmod>
   </url>
   <url>
@@ -540,27 +544,11 @@
     <lastmod>2024-04-03</lastmod>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/j2_dependent_ds2019_request_0.pdf</loc>
-    <lastmod>2024-02-23</lastmod>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/at_request_form_november_2024.pdf</loc>
-    <lastmod>2024-10-31</lastmod>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/students/current/extensions</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/page/documents/understanding_the_i-20.pdf</loc>
-    <lastmod>2025-07-23</lastmod>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/page/documents/f2_dependent_i20_request_0.pdf</loc>
-    <lastmod>2024-02-23</lastmod>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/page/documents/understanding_the_ds-2019.pdf</loc>
-    <lastmod>2025-07-23</lastmod>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/waiver_information.pdf</loc>
+    <lastmod>2014-05-29</lastmod>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/rcl_request_form_academic_difficulty.pdf</loc>
@@ -571,12 +559,24 @@
     <lastmod>2024-02-24</lastmod>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/program_extension_request_may_2025.pdf</loc>
-    <lastmod>2025-05-17</lastmod>
+    <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/page/documents/f2_dependent_i20_request_0.pdf</loc>
+    <lastmod>2024-02-23</lastmod>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/rcl_request_form_final_semester.pdf</loc>
     <lastmod>2024-02-24</lastmod>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/page/documents/understanding_the_i-20.pdf</loc>
+    <lastmod>2025-07-23</lastmod>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/page/documents/understanding_the_ds-2019.pdf</loc>
+    <lastmod>2025-07-23</lastmod>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/program_extension_request_may_2025.pdf</loc>
+    <lastmod>2025-05-17</lastmod>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/cpt_tutorial_dec2021.pdf</loc>
@@ -587,16 +587,13 @@
     <lastmod>2024-02-23</lastmod>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/node/1286</loc>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/form/employmentworkshops</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/node/1261</loc>
+    <loc>https://iss.ucmerced.edu/node/1266</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/node/1266</loc>
+    <loc>https://iss.ucmerced.edu/node/1261</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/node/1276</loc>
@@ -605,20 +602,17 @@
     <loc>https://iss.ucmerced.edu/students/current/f-1/stage-3-wait-uscis-process-your-application</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/node/1306</loc>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/node/1301</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/page/documents/request_for_form_i-20_2026-27_2.pdf</loc>
-    <lastmod>2026-02-25</lastmod>
+    <loc>https://iss.ucmerced.edu/node/1306</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/node/1311</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/node/1316</loc>
+    <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/page/documents/request_for_form_i-20_2026-27_2.pdf</loc>
+    <lastmod>2026-02-25</lastmod>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/form_ds-2019_request_degree_studentufeb24.pdf</loc>
@@ -627,6 +621,9 @@
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/f1_transfer_request_form_0.pdf</loc>
     <lastmod>2024-02-23</lastmod>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/node/1286</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/page/documents/new_student_check-in_form_jun2025.pdf</loc>
@@ -645,16 +642,19 @@
     <lastmod>2024-04-03</lastmod>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/stem_opt_extension_request_form.pdf</loc>
-    <lastmod>2024-02-23</lastmod>
+    <loc>https://iss.ucmerced.edu/node/1316</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/stem_opt_participation_reporting_form_0.pdf</loc>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/stem_opt_extension_request_form.pdf</loc>
     <lastmod>2024-02-23</lastmod>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/program_extension_request_may_2025.pdf</loc>
     <lastmod>2025-05-17</lastmod>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/stem_opt_participation_reporting_form_0.pdf</loc>
+    <lastmod>2024-02-23</lastmod>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/rcl_request_form_academic_difficulty_0.pdf</loc>
@@ -677,19 +677,7 @@
     <lastmod>2024-02-24</lastmod>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/event/j-1_scholar_biographical_information_form.pdf</loc>
-    <lastmod>2013-07-19</lastmod>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/english_language_proficiency_form_12.18.24.pdf</loc>
-    <lastmod>2024-12-18</lastmod>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/j-1_check-in_form_and_responsibility_agreement.pdf</loc>
-    <lastmod>2023-03-11</lastmod>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/oia_dependent_visa_fee_form_-_rev._1.10.2022.pdf</loc>
     <lastmod>2023-03-11</lastmod>
   </url>
   <url>
@@ -697,36 +685,44 @@
     <lastmod>2013-08-21</lastmod>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/event/jrequest_to_transfer.pdf</loc>
-    <lastmod>2013-07-26</lastmod>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/oia_dependent_visa_fee_form_-_rev._1.10.2022.pdf</loc>
+    <lastmod>2023-03-11</lastmod>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/evpguidance_directive202301.pdf</loc>
-    <lastmod>2023-11-08</lastmod>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/english_language_proficiency_form_12.18.24.pdf</loc>
+    <lastmod>2024-12-18</lastmod>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/h-1b_questionnaire_for_foreign_nationals_january_2024.pdf</loc>
-    <lastmod>2024-01-29</lastmod>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/event/j-1_scholar_biographical_information_form.pdf</loc>
+    <lastmod>2013-07-19</lastmod>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/j-1_off_campus_payment_authoriozation.pdf</loc>
     <lastmod>2019-09-24</lastmod>
   </url>
   <url>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/evpguidance_directive202301.pdf</loc>
+    <lastmod>2023-11-08</lastmod>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/event/jrequest_to_transfer.pdf</loc>
+    <lastmod>2013-07-26</lastmod>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/h-1b_questionnaire_for_foreign_nationals_january_2024.pdf</loc>
+    <lastmod>2024-01-29</lastmod>
+  </url>
+  <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/visa_interview_and_stamp_renewal_instructions.doc</loc>
+    <lastmod>2014-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/event/visa_interview_and_stamp_renewal_instructions.doc</loc>
     <lastmod>2014-01-18</lastmod>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/j_student_non_degree_letter-ucm.doc</loc>
     <lastmod>2019-11-13</lastmod>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/event/j-1_process_overview.pdf</loc>
-    <lastmod>2013-07-19</lastmod>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/event/visa_interview_and_stamp_renewal_instructions.doc</loc>
-    <lastmod>2014-01-18</lastmod>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/ucm_school_request_for_j-1_services_march_2026.pdf</loc>
@@ -737,6 +733,10 @@
     <lastmod>2026-03-17</lastmod>
   </url>
   <url>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/event/j-1_process_overview.pdf</loc>
+    <lastmod>2013-07-19</lastmod>
+  </url>
+  <url>
     <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/student_non_degree_template_letter.doc</loc>
     <lastmod>2013-11-25</lastmod>
   </url>
@@ -745,19 +745,22 @@
     <lastmod>2024-01-30</lastmod>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/oia_visa_services_recharge_form_-_template_-_rev._6.18.2024.pdf</loc>
-    <lastmod>2024-06-25</lastmod>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/english_language_proficiency2.docx</loc>
     <lastmod>2015-01-05</lastmod>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/ucm_request_with_checklist_4.17.24.pdf</loc>
-    <lastmod>2024-04-17</lastmod>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/oia_visa_services_recharge_form_-_template_-_rev._6.18.2024.pdf</loc>
+    <lastmod>2024-06-25</lastmod>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/DocumentReissueFee</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/j-1_biographical_information_form_4.17.2024.pdf</loc>
+    <lastmod>2024-04-17</lastmod>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/ucm_request_with_checklist_4.17.24.pdf</loc>
     <lastmod>2024-04-17</lastmod>
   </url>
   <url>
@@ -767,9 +770,6 @@
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/the_h-1b_process_chart_2021.doc</loc>
     <lastmod>2021-12-17</lastmod>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/DocumentReissueFee</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/h-1b_questionnaire_for_ucm_schools_and_units_january_2024.pdf</loc>
@@ -792,12 +792,12 @@
     <lastmod>2020-01-08</lastmod>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/h-1b_questionnaire_for_ucm_schools_and_units_may_2021.pdf</loc>
-    <lastmod>2021-05-07</lastmod>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/images/april_13th_2020_agreement.pdf</loc>
     <lastmod>2021-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/h-1b_questionnaire_for_ucm_schools_and_units_may_2021.pdf</loc>
+    <lastmod>2021-05-07</lastmod>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/office_of_research_i-129_export_control_compliance_certification.pdf</loc>
@@ -820,12 +820,12 @@
     <lastmod>2021-09-29</lastmod>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/program_extension_request_form_fillable.pdf</loc>
-    <lastmod>2019-11-15</lastmod>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/page/documents/opt_request_form.pdf</loc>
     <lastmod>2024-02-23</lastmod>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/program_extension_request_form_fillable.pdf</loc>
+    <lastmod>2019-11-15</lastmod>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/stem_opt_extension_request_form_fillable.pdf</loc>

@@ -25,14 +25,14 @@
     <loc>https://sfac.ucmerced.edu/uc-system-wide-resources</loc>
   </url>
   <url>
-    <loc>https://sfac.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
     <loc>https://sfac.ucmerced.edu/expenditures-ssf-departments</loc>
   </url>
   <url>
     <loc>https://sfac.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://sfac.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://sfac.ucmerced.edu/node/101</loc>
@@ -62,11 +62,11 @@
     <lastmod>2019-02-24</lastmod>
   </url>
   <url>
-    <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/students_first_center.pdf</loc>
+    <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/recreation.pdf</loc>
     <lastmod>2019-03-18</lastmod>
   </url>
   <url>
-    <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/recreation.pdf</loc>
+    <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/students_first_center.pdf</loc>
     <lastmod>2019-03-18</lastmod>
   </url>
   <url>
@@ -78,11 +78,11 @@
     <lastmod>2019-04-01</lastmod>
   </url>
   <url>
-    <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/vc_student_affairs.pdf</loc>
+    <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/international_programs.pdf</loc>
     <lastmod>2019-04-01</lastmod>
   </url>
   <url>
-    <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/international_programs.pdf</loc>
+    <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/vc_student_affairs.pdf</loc>
     <lastmod>2019-04-01</lastmod>
   </url>
   <url>
@@ -94,11 +94,11 @@
     <lastmod>2019-04-08</lastmod>
   </url>
   <url>
-    <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/graduate_division.pdf</loc>
+    <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/vice_provost_for_undergrad_education.pdf</loc>
     <lastmod>2019-04-15</lastmod>
   </url>
   <url>
-    <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/vice_provost_for_undergrad_education.pdf</loc>
+    <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/graduate_division.pdf</loc>
     <lastmod>2019-04-15</lastmod>
   </url>
 </urlset>

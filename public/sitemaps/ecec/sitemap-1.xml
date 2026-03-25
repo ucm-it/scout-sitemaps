@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://ecec.ucmerced.edu</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://ecec.ucmerced.edu/</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://ecec.ucmerced.edu/more-information</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://ecec.ucmerced.edu/more-information/location-and-directions</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ecec.ucmerced.edu/more-information</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://ecec.ucmerced.edu/activities</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://ecec.ucmerced.edu/more-information/external-resources</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://ecec.ucmerced.edu/why-ecec</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ecec.ucmerced.edu/more-information/external-resources</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://ecec.ucmerced.edu/why-ecec/infants</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://ecec.ucmerced.edu/why-ecec/toddlers</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://ecec.ucmerced.edu/why-ecec/preschool</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://ecec.ucmerced.edu/tuition-and-enrollment-information</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://ecec.ucmerced.edu/get-involved/individual-volunteers</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://ecec.ucmerced.edu/get-involved</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://ecec.ucmerced.edu/tuition-and-enrollment-information/enrollment-forms</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ecec.ucmerced.edu/get-involved</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ecec.ucmerced.edu/get-involved/individual-volunteers</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://ecec.ucmerced.edu/get-involved/ucm-clubsorganizations</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>http://ecec.ucmerced.edu/sites/ecec.ucmerced.edu/files/documents/ecec_wish_list.pdf</loc>
@@ -66,15 +66,15 @@
   </url>
   <url>
     <loc>https://ecec.ucmerced.edu/get-involved/research</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://ecec.ucmerced.edu/get-involved/observations</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://ecec.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://ecec.ucmerced.edu/contact-us</loc>
@@ -96,16 +96,20 @@
     <lastmod>2021-03-15</lastmod>
   </url>
   <url>
-    <loc>https://ecec.ucmerced.edu/sites/g/files/ufvvjh766/f/documents/Enrollment/emergency_contact_and_medical_consent_nov_2015.pdf</loc>
-    <lastmod>2016-03-09</lastmod>
-  </url>
-  <url>
     <loc>https://ecec.ucmerced.edu/sites/g/files/ufvvjh766/f/documents/Enrollment/family_questionnaire.pdf</loc>
     <lastmod>2014-09-08</lastmod>
   </url>
   <url>
+    <loc>https://ecec.ucmerced.edu/sites/g/files/ufvvjh766/f/documents/Enrollment/emergency_contact_and_medical_consent_nov_2015.pdf</loc>
+    <lastmod>2016-03-09</lastmod>
+  </url>
+  <url>
     <loc>https://ecec.ucmerced.edu/sites/g/files/ufvvjh766/f/documents/Enrollment/health_history.pdf</loc>
     <lastmod>2014-09-08</lastmod>
+  </url>
+  <url>
+    <loc>https://ecec.ucmerced.edu/sites/g/files/ufvvjh766/f/page/documents/lic9227-_individual_infant_sleeping.pdf</loc>
+    <lastmod>2021-03-15</lastmod>
   </url>
   <url>
     <loc>https://ecec.ucmerced.edu/sites/g/files/ufvvjh766/f/documents/Enrollment/infant_needs_and_service_plan.pdf</loc>
@@ -114,10 +118,6 @@
   <url>
     <loc>https://ecec.ucmerced.edu/sites/g/files/ufvvjh766/f/documents/Enrollment/parents_rights_22.pdf</loc>
     <lastmod>2022-09-23</lastmod>
-  </url>
-  <url>
-    <loc>https://ecec.ucmerced.edu/sites/g/files/ufvvjh766/f/page/documents/lic9227-_individual_infant_sleeping.pdf</loc>
-    <lastmod>2021-03-15</lastmod>
   </url>
   <url>
     <loc>https://ecec.ucmerced.edu/sites/g/files/ufvvjh766/f/documents/Enrollment/personal_rights_22.pdf</loc>

@@ -2,47 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://eli.ucmerced.edu/node/1</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://eli.ucmerced.edu/conversation-partner-program</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://eli.ucmerced.edu/english-resources</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://eli.ucmerced.edu/conversation-partner-program</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://eli.ucmerced.edu/grammar-workshops</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://eli.ucmerced.edu/microteaching-language-evaluation</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://eli.ucmerced.edu/oral-communication-skills</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://eli.ucmerced.edu/pronunciation-and-fluency</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://eli.ucmerced.edu/form/eli-consultation-request</loc>
+    <loc>https://eli.ucmerced.edu/oral-communication-skills</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://eli.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://eli.ucmerced.edu/form/conversation-partner-program-spring-2026</loc>
-  </url>
-  <url>
-    <loc>https://eli.ucmerced.edu/sites/g/files/ufvvjh811/f/documents/signal_phrases_to_use_in_class.pdf</loc>
-    <lastmod>2024-08-02</lastmod>
+    <loc>https://eli.ucmerced.edu/form/eli-consultation-request</loc>
   </url>
   <url>
     <loc>https://eli.ucmerced.edu/sites/g/files/ufvvjh811/f/documents/class_vocabulary.pdf</loc>
+    <lastmod>2024-08-02</lastmod>
+  </url>
+  <url>
+    <loc>https://eli.ucmerced.edu/sites/g/files/ufvvjh811/f/documents/signal_phrases_to_use_in_class.pdf</loc>
     <lastmod>2024-08-02</lastmod>
   </url>
   <url>
@@ -56,6 +53,9 @@
   <url>
     <loc>https://eli.ucmerced.edu/sites/g/files/ufvvjh811/f/page/documents/housing_workshop_handout-2024.pdf</loc>
     <lastmod>2025-02-25</lastmod>
+  </url>
+  <url>
+    <loc>https://eli.ucmerced.edu/form/conversation-partner-program-spring-2026</loc>
   </url>
   <url>
     <loc>https://eli.ucmerced.edu/sites/g/files/ufvvjh811/f/page/documents/grammar_workshops-s26-sched.pdf</loc>

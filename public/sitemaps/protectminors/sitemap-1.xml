@@ -20,14 +20,14 @@
     <lastmod>2016-02-25</lastmod>
   </url>
   <url>
-    <loc>https://protectminors.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
     <loc>https://protectminors.ucmerced.edu/tools-and-resources</loc>
   </url>
   <url>
     <loc>https://protectminors.ucmerced.edu/faq</loc>
+  </url>
+  <url>
+    <loc>https://protectminors.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://protectminors.ucmerced.edu/protecting-minors-on-campus</loc>
@@ -76,10 +76,10 @@
     <loc>https://protectminors.ucmerced.edu/content/mandated-reporter-acknowledgement-form</loc>
   </url>
   <url>
-    <loc>https://protectminors.ucmerced.edu/content/how-do-i-know-what-report</loc>
+    <loc>https://protectminors.ucmerced.edu/content/how-report</loc>
   </url>
   <url>
-    <loc>https://protectminors.ucmerced.edu/content/how-report</loc>
+    <loc>https://protectminors.ucmerced.edu/content/how-do-i-know-what-report</loc>
   </url>
   <url>
     <loc>https://protectminors.ucmerced.edu/content/what-happens-after-you-report</loc>
@@ -88,10 +88,10 @@
     <loc>https://protectminors.ucmerced.edu/content/legal-penalty-not-reporting</loc>
   </url>
   <url>
-    <loc>https://protectminors.ucmerced.edu/content/immunity-reporter</loc>
+    <loc>https://protectminors.ucmerced.edu/content/definitions-child-abuse-and-neglect</loc>
   </url>
   <url>
-    <loc>https://protectminors.ucmerced.edu/content/definitions-child-abuse-and-neglect</loc>
+    <loc>https://protectminors.ucmerced.edu/content/immunity-reporter</loc>
   </url>
   <url>
     <loc>https://protectminors.ucmerced.edu/sites/protectminors.ucmerced.edu/files/documents/uc_online_training_registration_2015.pdf</loc>
@@ -101,16 +101,16 @@
     <loc>https://protectminors.ucmerced.edu/content/training</loc>
   </url>
   <url>
-    <loc>https://protectminors.ucmerced.edu/content/determine-training-0</loc>
-  </url>
-  <url>
     <loc>https://protectminors.ucmerced.edu/content/online-risk-assessment-0</loc>
   </url>
   <url>
-    <loc>https://protectminors.ucmerced.edu/content/guidelines-faculty</loc>
+    <loc>https://protectminors.ucmerced.edu/content/determine-training-0</loc>
   </url>
   <url>
     <loc>https://protectminors.ucmerced.edu/content/management-youth-activities-0</loc>
+  </url>
+  <url>
+    <loc>https://protectminors.ucmerced.edu/content/guidelines-faculty</loc>
   </url>
   <url>
     <loc>https://protectminors.ucmerced.edu/content/guidelines-students-0</loc>
@@ -122,10 +122,10 @@
     <loc>https://protectminors.ucmerced.edu/guidelines-minors/guidelines-all-university-employees</loc>
   </url>
   <url>
-    <loc>https://protectminors.ucmerced.edu/users/jandrade5</loc>
+    <loc>https://protectminors.ucmerced.edu/guidelines-minors/guidelines-mandated-reporters</loc>
   </url>
   <url>
-    <loc>https://protectminors.ucmerced.edu/guidelines-minors/guidelines-mandated-reporters</loc>
+    <loc>https://protectminors.ucmerced.edu/users/jandrade5</loc>
   </url>
   <url>
     <loc>https://protectminors.ucmerced.edu/guidelines-minors/guidelines-program-directors-and-supervisors</loc>
@@ -140,27 +140,27 @@
     <loc>https://protectminors.ucmerced.edu/guidelines-minors/guidelines-volunteers%E2%80%8B</loc>
   </url>
   <url>
-    <loc>https://protectminors.ucmerced.edu/taxonomy/term/5/feed</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
     <loc>https://protectminors.ucmerced.edu/taxonomy/term/6/feed</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://protectminors.ucmerced.edu/taxonomy/term/8/feed</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://protectminors.ucmerced.edu/taxonomy/term/9/feed</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://protectminors.ucmerced.edu/taxonomy/term/5/feed</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://protectminors.ucmerced.edu/taxonomy/term/7/feed</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://protectminors.ucmerced.edu/taxonomy/term/8/feed</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://protectminors.ucmerced.edu/taxonomy/term/9/feed</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://protectminors.ucmerced.edu/taxonomy/term/10/feed</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
 </urlset>

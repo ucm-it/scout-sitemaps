@@ -4,10 +4,10 @@
     <loc>https://ssi.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://ssi.ucmerced.edu/</loc>
+    <loc>https://ssi.ucmerced.edu/about-program</loc>
   </url>
   <url>
-    <loc>https://ssi.ucmerced.edu/about-program</loc>
+    <loc>https://ssi.ucmerced.edu/</loc>
   </url>
   <url>
     <loc>https://ssi.ucmerced.edu/about-program/purpose</loc>
@@ -22,25 +22,25 @@
     <loc>https://ssi.ucmerced.edu/students/application-process</loc>
   </url>
   <url>
-    <loc>https://ssi.ucmerced.edu/mentor-supervisor/mentor-participation-requirements</loc>
+    <loc>https://ssi.ucmerced.edu/mentor-supervisor</loc>
   </url>
   <url>
     <loc>https://ssi.ucmerced.edu/mentor-supervisor/mentor-supervisor-resources/mentor-supervisor-orientation-training</loc>
   </url>
   <url>
-    <loc>https://ssi.ucmerced.edu/mentor-supervisor</loc>
+    <loc>https://ssi.ucmerced.edu/mentor-supervisor/mentor-participation-requirements</loc>
   </url>
   <url>
-    <loc>https://ssi.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://ssi.ucmerced.edu/contact-us-0</loc>
   </url>
   <url>
     <loc>https://ssi.ucmerced.edu/internship-site</loc>
   </url>
   <url>
-    <loc>https://ssi.ucmerced.edu/contact-us</loc>
+    <loc>https://ssi.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://ssi.ucmerced.edu/contact-us-0</loc>
+    <loc>https://ssi.ucmerced.edu/contact-us</loc>
   </url>
 </urlset>

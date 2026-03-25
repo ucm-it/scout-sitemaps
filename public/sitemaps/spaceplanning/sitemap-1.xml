@@ -4,13 +4,13 @@
     <loc>https://spaceplanning.ucmerced.edu</loc>
   </url>
   <url>
+    <loc>https://spaceplanning.ucmerced.edu/about</loc>
+  </url>
+  <url>
     <loc>https://spaceplanning.ucmerced.edu/</loc>
   </url>
   <url>
     <loc>https://spaceplanning.ucmerced.edu/about/what-we-do</loc>
-  </url>
-  <url>
-    <loc>https://spaceplanning.ucmerced.edu/about</loc>
   </url>
   <url>
     <loc>https://spaceplanning.ucmerced.edu/about/staff</loc>
@@ -31,19 +31,19 @@
     <loc>https://spaceplanning.ucmerced.edu/project-space-requests/space-requests</loc>
   </url>
   <url>
-    <loc>https://spaceplanning.ucmerced.edu/capital-planning</loc>
+    <loc>https://spaceplanning.ucmerced.edu/project-space-requests/project-requests</loc>
   </url>
   <url>
-    <loc>https://spaceplanning.ucmerced.edu/project-space-requests/project-requests</loc>
+    <loc>https://spaceplanning.ucmerced.edu/capital-planning</loc>
   </url>
   <url>
     <loc>https://spaceplanning.ucmerced.edu/capital-planning/capital-financial-plan</loc>
   </url>
   <url>
-    <loc>https://spaceplanning.ucmerced.edu/capital-planning/2020-project-backfill-space-allocation</loc>
+    <loc>https://spaceplanning.ucmerced.edu/capital-planning/minor-capital-projects</loc>
   </url>
   <url>
-    <loc>https://spaceplanning.ucmerced.edu/capital-planning/minor-capital-projects</loc>
+    <loc>https://spaceplanning.ucmerced.edu/capital-planning/2020-project-backfill-space-allocation</loc>
   </url>
   <url>
     <loc>https://spaceplanning.ucmerced.edu/real-estate</loc>
@@ -52,17 +52,17 @@
     <loc>https://spaceplanning.ucmerced.edu/campus-space-study</loc>
   </url>
   <url>
-    <loc>https://spaceplanning.ucmerced.edu/campus-space-study/frequently-asked-questions</loc>
-  </url>
-  <url>
-    <loc>https://spaceplanning.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
     <loc>https://spaceplanning.ucmerced.edu/campus-space-study/campus-communications</loc>
   </url>
   <url>
+    <loc>https://spaceplanning.ucmerced.edu/campus-space-study/frequently-asked-questions</loc>
+  </url>
+  <url>
     <loc>https://spaceplanning.ucmerced.edu/campus-space-study/contacts</loc>
+  </url>
+  <url>
+    <loc>https://spaceplanning.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://spaceplanning.ucmerced.edu/contact-us</loc>
@@ -96,11 +96,11 @@
     <lastmod>2023-03-30</lastmod>
   </url>
   <url>
-    <loc>https://spaceplanning.ucmerced.edu/sites/spaceplanning.ucmerced.edu/files/page/documents/181205_full_update_v14.final_.pdf</loc>
-    <lastmod>2022-04-13</lastmod>
-  </url>
-  <url>
     <loc>https://spaceplanning.ucmerced.edu/sites/g/files/ufvvjh1686/f/documents/campus_space_study_files/space_sensor_installation_memo_9-26-2025.pdf</loc>
     <lastmod>2025-09-29</lastmod>
+  </url>
+  <url>
+    <loc>https://spaceplanning.ucmerced.edu/sites/spaceplanning.ucmerced.edu/files/page/documents/181205_full_update_v14.final_.pdf</loc>
+    <lastmod>2022-04-13</lastmod>
   </url>
 </urlset>

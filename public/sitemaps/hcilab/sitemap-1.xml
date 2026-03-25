@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://hcilab.ucmerced.edu</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://hcilab.ucmerced.edu/</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://hcilab.ucmerced.edu/research</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://hcilab.ucmerced.edu/publications</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://hcilab.ucmerced.edu/meet-our-team</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://hcilab.ucmerced.edu/research</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://hcilab.ucmerced.edu/publications</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://hcilab.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://hcilab.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://hcilab.ucmerced.edu/sites/hcilab.ucmerced.edu/files/page/documents/cameron_cv_march_2024__0.pdf</loc>
+    <loc>https://hcilab.ucmerced.edu/sites/hcilab.ucmerced.edu/files/page/documents/cameron_cv_march_2024_.pdf</loc>
     <lastmod>2024-07-29</lastmod>
   </url>
   <url>
@@ -36,7 +36,7 @@
     <lastmod>2024-06-27</lastmod>
   </url>
   <url>
-    <loc>https://hcilab.ucmerced.edu/sites/hcilab.ucmerced.edu/files/page/documents/cameron_cv_march_2024_.pdf</loc>
+    <loc>https://hcilab.ucmerced.edu/sites/hcilab.ucmerced.edu/files/page/documents/cameron_cv_march_2024__0.pdf</loc>
     <lastmod>2024-07-29</lastmod>
   </url>
 </urlset>

@@ -4,19 +4,19 @@
     <loc>https://cheer.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://cheer.ucmerced.edu/people</loc>
-  </url>
-  <url>
     <loc>https://cheer.ucmerced.edu/</loc>
   </url>
   <url>
     <loc>https://cheer.ucmerced.edu/rural-health</loc>
   </url>
   <url>
-    <loc>https://cheer.ucmerced.edu/research-and-policy-briefs/burden-chronic-conditions</loc>
+    <loc>https://cheer.ucmerced.edu/people</loc>
   </url>
   <url>
     <loc>https://cheer.ucmerced.edu/research-and-policy-briefs/return-investment-roi</loc>
+  </url>
+  <url>
+    <loc>https://cheer.ucmerced.edu/research-and-policy-briefs/burden-chronic-conditions</loc>
   </url>
   <url>
     <loc>https://cheer.ucmerced.edu/research-and-policy-briefs</loc>
@@ -25,11 +25,17 @@
     <loc>https://cheer.ucmerced.edu/past-events</loc>
   </url>
   <url>
+    <loc>https://cheer.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://cheer.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://cheer.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://cheer.ucmerced.edu/roi-chronic-disease-prevention-0</loc>
+  </url>
+  <url>
+    <loc>https://cheer.ucmerced.edu/burden-chronic-conditions-0</loc>
   </url>
   <url>
     <loc>https://cheer.ucmerced.edu/sites/g/files/ufvvjh596/f/brown_cv_uc_merced_june_2019174.pdf</loc>
@@ -39,20 +45,20 @@
     <loc>https://cheer.ucmerced.edu/content/paul-brown-phd</loc>
   </url>
   <url>
-    <loc>https://cheer.ucmerced.edu/content/jorge-augusto-d%C3%ADaz-rojas-phd</loc>
+    <loc>https://cheer.ucmerced.edu/content/johanna-aponte-gonz%C3%A1lez-phd</loc>
   </url>
   <url>
     <loc>https://cheer.ucmerced.edu/sites/g/files/ufvvjh596/f/mantoan_gracycv.docx</loc>
     <lastmod>2018-08-29</lastmod>
   </url>
   <url>
-    <loc>https://cheer.ucmerced.edu/content/johanna-aponte-gonz%C3%A1lez-phd</loc>
-  </url>
-  <url>
-    <loc>https://cheer.ucmerced.edu/content/gracy-dur%C3%A3es-mantoan</loc>
+    <loc>https://cheer.ucmerced.edu/content/jorge-augusto-d%C3%ADaz-rojas-phd</loc>
   </url>
   <url>
     <loc>https://cheer.ucmerced.edu/content/rudiel-fabian</loc>
+  </url>
+  <url>
+    <loc>https://cheer.ucmerced.edu/content/gracy-dur%C3%A3es-mantoan</loc>
   </url>
   <url>
     <loc>https://cheer.ucmerced.edu/sites/g/files/ufvvjh596/f/singh_cv_uc_merced_2019.pdf</loc>
@@ -79,10 +85,14 @@
     <loc>https://cheer.ucmerced.edu/content/tashelle-wright</loc>
   </url>
   <url>
+    <loc>https://cheer.ucmerced.edu/content/derry-ridgway-md</loc>
+  </url>
+  <url>
     <loc>https://cheer.ucmerced.edu/content/gilda-zarate-gonzalez</loc>
   </url>
   <url>
-    <loc>https://cheer.ucmerced.edu/content/derry-ridgway-md</loc>
+    <loc>https://cheer.ucmerced.edu/sites/cheer.ucmerced.edu/files/page/documents/brown_cost_of_chronic_conditions_jphmp_2014.pdf</loc>
+    <lastmod>2019-06-17</lastmod>
   </url>
   <url>
     <loc>https://cheer.ucmerced.edu/content/nimrat-sandhu</loc>
@@ -91,29 +101,16 @@
     <loc>https://cheer.ucmerced.edu/content/imrinder-toor</loc>
   </url>
   <url>
-    <loc>https://cheer.ucmerced.edu/sites/cheer.ucmerced.edu/files/page/documents/brown_cost_of_chronic_conditions_jphmp_2014.pdf</loc>
-    <lastmod>2019-06-17</lastmod>
-  </url>
-  <url>
-    <loc>https://cheer.ucmerced.edu/burden-chronic-conditions-0</loc>
-  </url>
-  <url>
-    <loc>https://cheer.ucmerced.edu/roi-chronic-disease-prevention-0</loc>
-  </url>
-  <url>
     <loc>https://cheer.ucmerced.edu/news/2026/uc-merced-climate-experts-explain-why-march-heat-wave-dangerous</loc>
-  </url>
-  <url>
-    <loc>https://cheer.ucmerced.edu/news/2026/innovative-solutions-turn-rural-energy-challenges-opportunities</loc>
   </url>
   <url>
     <loc>https://cheer.ucmerced.edu/news/2026/rising-simultaneous-fire-weather-threatens-international-firefighting-efforts</loc>
   </url>
   <url>
-    <loc>https://cheer.ucmerced.edu/media-contact/patty-guerra</loc>
+    <loc>https://cheer.ucmerced.edu/news/2026/innovative-solutions-turn-rural-energy-challenges-opportunities</loc>
   </url>
   <url>
-    <loc>https://cheer.ucmerced.edu/news/2025/thinning-burning-forests-provide-multiple-benefits-some-them-surprising</loc>
+    <loc>https://cheer.ucmerced.edu/media-contact/patty-guerra</loc>
   </url>
   <url>
     <loc>https://cheer.ucmerced.edu/news/2025/climate-speaker-series-uc-merced-kicks-warnings-%E2%80%A6-and-hope</loc>
@@ -122,13 +119,16 @@
     <loc>https://cheer.ucmerced.edu/news/2025/damaging-lightning-caused-wildfires-likely-increase-few-years-researchers-find</loc>
   </url>
   <url>
+    <loc>https://cheer.ucmerced.edu/news/2025/thinning-burning-forests-provide-multiple-benefits-some-them-surprising</loc>
+  </url>
+  <url>
     <loc>https://cheer.ucmerced.edu/news/2025/uc-merced-brings-climate-justice-course-title-i-high-school-students-across-nation</loc>
   </url>
   <url>
-    <loc>https://cheer.ucmerced.edu/news/2025/researchers-look-ahead-fire-season-2025</loc>
+    <loc>https://cheer.ucmerced.edu/taxonomy/term/41/feed</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://cheer.ucmerced.edu/taxonomy/term/41/feed</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://cheer.ucmerced.edu/news/2025/researchers-look-ahead-fire-season-2025</loc>
   </url>
 </urlset>

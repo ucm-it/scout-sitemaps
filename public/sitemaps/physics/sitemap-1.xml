@@ -13,13 +13,13 @@
     <loc>https://physics.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/academics/careers-physics</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/academics/undergraduate-education/course-descriptions</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/alumni</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/academics/careers-physics</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/SPS</loc>
@@ -34,13 +34,10 @@
     <loc>https://physics.ucmerced.edu/academics/graduate-studies/apply-graduate-program</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/graduate-studies/degree-requirements</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/graduate-studies</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/graduate-studies/advancement-candidacy-qualifying-exam</loc>
+    <loc>https://physics.ucmerced.edu/graduate-studies/degree-requirements</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/graduate-studies/phys-202-foundations-physics-preliminary-exam</loc>
@@ -49,49 +46,52 @@
     <loc>https://physics.ucmerced.edu/graduate-studies/graduate-courses</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/academics/graduate-studies/annual-committee-meetings</loc>
+    <loc>https://physics.ucmerced.edu/graduate-studies/advancement-candidacy-qualifying-exam</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/graduate-studies/forms-and-publications</loc>
+    <loc>https://physics.ucmerced.edu/academics/graduate-studies/annual-committee-meetings</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/graduate-studies/financial-support</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/alumni-graduate</loc>
+    <loc>https://physics.ucmerced.edu/graduate-studies/forms-and-publications</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/graduate-studies/teaching-related-resources</loc>
+    <loc>https://physics.ucmerced.edu/alumni-graduate</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/graduate-studies/dissertationthesis-and-defense</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/research1</loc>
+    <loc>https://physics.ucmerced.edu/graduate-studies/teaching-related-resources</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/research/astrophysics-astronomy</loc>
+    <loc>https://physics.ucmerced.edu/research1</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/research/atomic-molecular-and-optical-physics</loc>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/research/astrophysics-astronomy</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/research/biological-and-soft-matter-physics</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/research/energy-sciences</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/NanoCM</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/research/energy-sciences</loc>
+    <loc>https://physics.ucmerced.edu/faculty</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/research/centers-institutes-and-resources</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/people</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/faculty</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/affiliate-faculty</loc>
@@ -106,10 +106,10 @@
     <loc>https://physics.ucmerced.edu/graduate-students</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/people/postdoc-alumni</loc>
+    <loc>https://physics.ucmerced.edu/people/governance</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/people/governance</loc>
+    <loc>https://physics.ucmerced.edu/people/postdoc-alumni</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/colloquium</loc>
@@ -121,16 +121,16 @@
     <loc>https://physics.ucmerced.edu/events/colloquia/past-physics-colloquia</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/slaam</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/annual_awards</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/meetings</loc>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/slaam</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/events/all-physics-events</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/annual_awards</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news</loc>
@@ -139,10 +139,10 @@
     <loc>https://physics.ucmerced.edu/dei</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/outreach</loc>
+    <loc>https://physics.ucmerced.edu/employment</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/employment</loc>
+    <loc>https://physics.ucmerced.edu/outreach</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/contact-us-0</loc>
@@ -154,16 +154,13 @@
     <loc>https://physics.ucmerced.edu/highlights/Cells%20interact%20as%20dipoles%20and%20network</loc>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/node/4181</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/node/4471</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/node/4611</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/node/4181</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/news/2025/next-generation-light-sensors-neutrino-detection</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2025/three-physics-professors-recognized-sns</loc>
@@ -173,13 +170,16 @@
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/academics/graduate-studies</loc>
+    <loc>https://physics.ucmerced.edu/news/2025/next-generation-light-sensors-neutrino-detection</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/academics/graduate-studies</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/g/files/ufvvjh1416/f/page/documents/physicsadvisingguide2026w4yrplan_3.pdf</loc>
@@ -218,6 +218,9 @@
     <lastmod>2023-03-21</lastmod>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/news/2018/physics-students-win-national-recognition</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/currentundergraduateresearchprojects_1.pdf</loc>
     <lastmod>2022-02-05</lastmod>
   </url>
@@ -226,16 +229,28 @@
     <lastmod>2021-01-10</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/binder2.pdf</loc>
-    <lastmod>2021-01-20</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/opportunitiesfeb2nd.pdf</loc>
     <lastmod>2021-02-02</lastmod>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/binder2.pdf</loc>
+    <lastmod>2021-01-20</lastmod>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/opportunitiesfeb22nd.pdf</loc>
     <lastmod>2021-02-22</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/binder1.pdf</loc>
+    <lastmod>2021-03-13</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/gradschoolshopper_20_21.pdf</loc>
+    <lastmod>2021-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/g/files/ufvvjh1416/f/page/documents/recruitmentwebinar2025_2_0.pdf</loc>
+    <lastmod>2025-11-13</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/g/files/ufvvjh1416/f/documents/2025_phys_roadmap.pdf</loc>
@@ -246,16 +261,12 @@
     <lastmod>2025-07-15</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/binder1.pdf</loc>
-    <lastmod>2021-03-13</lastmod>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/2024.02.15approved_physics_policiesandprocedures_revay2324.pdf</loc>
+    <lastmod>2024-02-21</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/2024_phys_roadmap_0.pdf</loc>
     <lastmod>2024-07-03</lastmod>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/2024.02.15approved_physics_policiesandprocedures_revay2324.pdf</loc>
-    <lastmod>2024-02-21</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/2023.04.19_physics_policiesandprocedures_clean.pdf</loc>
@@ -266,12 +277,12 @@
     <lastmod>2022-05-03</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/documents/approved2020.3.3.physicspp_clean.pdf</loc>
-    <lastmod>2020-03-09</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/2022_phy_roadmap.pdf</loc>
     <lastmod>2022-05-28</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/documents/approved2020.3.3.physicspp_clean.pdf</loc>
+    <lastmod>2020-03-09</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/2021_physics_phd_roadmap.pdf</loc>
@@ -282,42 +293,11 @@
     <lastmod>2019-06-12</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/g/files/ufvvjh1416/f/page/documents/recruitmentwebinar2025_2_0.pdf</loc>
-    <lastmod>2025-11-13</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/documents/physics_policies_and_procedures_sep17.pdf</loc>
     <lastmod>2017-10-09</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/qual_exam_rubric.docx</loc>
-    <lastmod>2024-05-22</lastmod>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/gradschoolshopper_20_21.pdf</loc>
-    <lastmod>2021-07-12</lastmod>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/news/2018/physics-students-win-national-recognition</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/chenjiqualv04.doc</loc>
-    <lastmod>2015-04-16</lastmod>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/lkiani_qualifying_exam_propoal_06172012.docx</loc>
-    <lastmod>2015-04-16</lastmod>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/curvature_charles_nathan_melton_advancement_proposal.pdf</loc>
-    <lastmod>2015-04-16</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/137.pdf</loc>
-    <lastmod>2014-08-29</lastmod>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/110.pdf</loc>
     <lastmod>2014-08-29</lastmod>
   </url>
   <url>
@@ -325,12 +305,16 @@
     <lastmod>2014-08-29</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/prlim_exam_2007_fall.pdf</loc>
-    <lastmod>2013-04-09</lastmod>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/110.pdf</loc>
+    <lastmod>2014-08-29</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/online_prelim_instruction.pdf</loc>
     <lastmod>2020-08-11</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/prlim_exam_2007_fall.pdf</loc>
+    <lastmod>2013-04-09</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/physics_prelim_fall_2008.pdf</loc>
@@ -353,11 +337,11 @@
     <lastmod>2013-04-09</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/paper1_cmsp12.2.pdf</loc>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/spring2010_prelim.pdf</loc>
     <lastmod>2013-04-09</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/spring2010_prelim.pdf</loc>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/paper1_cmsp12.2.pdf</loc>
     <lastmod>2013-04-09</lastmod>
   </url>
   <url>
@@ -365,7 +349,7 @@
     <lastmod>2013-04-09</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/paper3_emfall11.pdf</loc>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/paper3_em.pdf</loc>
     <lastmod>2013-04-09</lastmod>
   </url>
   <url>
@@ -373,7 +357,7 @@
     <lastmod>2013-04-09</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/paper3_em.pdf</loc>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/paper3_emfall11.pdf</loc>
     <lastmod>2013-04-09</lastmod>
   </url>
   <url>
@@ -413,15 +397,15 @@
     <lastmod>2016-09-16</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/prelimproblemsem.pdf</loc>
-    <lastmod>2016-09-16</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/qm-prelim-s16.pdf</loc>
     <lastmod>2016-09-16</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/cm-prelim-s16.pdf</loc>
+    <lastmod>2016-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/prelimproblemsem.pdf</loc>
     <lastmod>2016-09-16</lastmod>
   </url>
   <url>
@@ -441,19 +425,19 @@
     <lastmod>2017-08-15</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/2017qmprelim.pdf</loc>
-    <lastmod>2017-08-15</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/2017cm.pdf</loc>
     <lastmod>2017-08-15</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/fall2017qm.pdf</loc>
-    <lastmod>2018-08-14</lastmod>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/2017qmprelim.pdf</loc>
+    <lastmod>2017-08-15</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/fall2017em.pdf</loc>
+    <lastmod>2018-08-14</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/fall2017qm.pdf</loc>
     <lastmod>2018-08-14</lastmod>
   </url>
   <url>
@@ -469,19 +453,19 @@
     <lastmod>2018-09-06</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/prelim_cm.pdf</loc>
-    <lastmod>2020-08-21</lastmod>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/prelim_qm.pdf</loc>
-    <lastmod>2020-08-21</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/prlcm18.pdf</loc>
     <lastmod>2018-09-06</lastmod>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/prelim_cm.pdf</loc>
+    <lastmod>2020-08-21</lastmod>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/prelim_em.pdf</loc>
+    <lastmod>2020-08-21</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/prelim_qm.pdf</loc>
     <lastmod>2020-08-21</lastmod>
   </url>
   <url>
@@ -517,34 +501,47 @@
     <lastmod>2021-09-05</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/2022_cm_prelim.pdf</loc>
-    <lastmod>2022-02-18</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/physicsprelimemfall21final.pdf</loc>
     <lastmod>2021-09-05</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/g/files/ufvvjh1416/f/page/documents/comm_meeting_rubric_1.docx</loc>
-    <lastmod>2024-05-23</lastmod>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/2022_cm_prelim.pdf</loc>
+    <lastmod>2022-02-18</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/qual_exam_rubric.docx</loc>
+    <lastmod>2024-05-22</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/2022_em_prelim.pdf</loc>
     <lastmod>2022-02-18</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/documents/physics_ms_exam_rubric_200527.docx</loc>
-    <lastmod>2020-05-27</lastmod>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/chenjiqualv04.doc</loc>
+    <lastmod>2015-04-16</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/lkiani_qualifying_exam_propoal_06172012.docx</loc>
+    <lastmod>2015-04-16</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/curvature_charles_nathan_melton_advancement_proposal.pdf</loc>
+    <lastmod>2015-04-16</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/g/files/ufvvjh1416/f/page/documents/comm_meeting_rubric_1.docx</loc>
+    <lastmod>2024-05-23</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/documents/2024.02.15approved_physics_policiesandprocedures_revay2324.pdf</loc>
     <lastmod>2024-02-22</lastmod>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu</loc>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/documents/physics_ms_exam_rubric_200527.docx</loc>
+    <lastmod>2020-05-27</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/postdoctoral-scholars</loc>
+    <loc>http://physics.ucmerced.edu</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/research/old_highlights</loc>
@@ -553,106 +550,103 @@
     <loc>https://physics.ucmerced.edu/content/hui-cai-0</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/kinjal-dasbiswas-0</loc>
+    <loc>https://physics.ucmerced.edu/content/chih-chun-chien-0</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/ray-chiao</loc>
+    <loc>https://physics.ucmerced.edu/content/kinjal-dasbiswas-0</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/sayantani-ghosh-0</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/chih-chun-chien-0</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/content/ajay-gopinathan-0</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/dustin-kleckner-0</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/content/sarah-loebman-0</loc>
+    <loc>https://physics.ucmerced.edu/content/ray-chiao</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/linda-hirst-0</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/anna-nierenberg-0</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/content/bin-liu-1</loc>
+    <loc>https://physics.ucmerced.edu/content/sarah-loebman-0</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/kevin-mitchell-0</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/jay-sharping-0</loc>
+    <loc>https://physics.ucmerced.edu/content/bin-liu-1</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/david-strubbe-1</loc>
+    <loc>https://physics.ucmerced.edu/content/anna-nierenberg-0</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/michael-scheibner-0</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/lin-tian-0</loc>
+    <loc>https://physics.ucmerced.edu/content/dustin-kleckner-0</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/content/david-strubbe-1</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/content/jay-sharping-0</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/brian-utter-0</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/jing-xu-0</loc>
+    <loc>https://physics.ucmerced.edu/content/lin-tian-0</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/james-zimmerman</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/academics/undergraduate-education/undergraduate-thesis</loc>
+    <loc>https://physics.ucmerced.edu/content/jing-xu-0</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/gillian-wilson</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/academics/undergraduate-education/course-descriptions</loc>
-  </url>
-  <url>
-    <loc>http://physics.ucmerced.edu/academics/careers-physics</loc>
+    <loc>https://physics.ucmerced.edu/postdoctoral-scholars</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/people/women-physics-wip</loc>
-  </url>
-  <url>
-    <loc>http://physics.ucmerced.edu/academics/graduate-studies/apply-graduate-program</loc>
-  </url>
-  <url>
-    <loc>http://physics.ucmerced.edu/graduate-studies/degree-requirements</loc>
+    <loc>http://physics.ucmerced.edu/academics/undergraduate-education/course-descriptions</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/SPS</loc>
   </url>
   <url>
+    <loc>http://physics.ucmerced.edu/people/women-physics-wip</loc>
+  </url>
+  <url>
     <loc>http://physics.ucmerced.edu/graduate-studies</loc>
+  </url>
+  <url>
+    <loc>http://physics.ucmerced.edu/academics/undergraduate-education/undergraduate-thesis</loc>
+  </url>
+  <url>
+    <loc>http://physics.ucmerced.edu/academics/careers-physics</loc>
+  </url>
+  <url>
+    <loc>http://physics.ucmerced.edu/graduate-studies/degree-requirements</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/graduate-studies/phys-202-foundations-physics-preliminary-exam</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/graduate-studies/graduate-courses</loc>
-  </url>
-  <url>
-    <loc>http://physics.ucmerced.edu/graduate-studies/financial-support</loc>
+    <loc>http://physics.ucmerced.edu/academics/graduate-studies/apply-graduate-program</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/academics/graduate-studies/annual-committee-meetings</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/graduate-studies/dissertationthesis-and-defense</loc>
+    <loc>http://physics.ucmerced.edu/graduate-studies/financial-support</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/graduate-studies/teaching-related-resources</loc>
+    <loc>http://physics.ucmerced.edu/graduate-studies/graduate-courses</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/graduate-studies/advancement-candidacy-qualifying-exam</loc>
@@ -661,46 +655,52 @@
     <loc>http://physics.ucmerced.edu/graduate-studies/forms-and-publications</loc>
   </url>
   <url>
+    <loc>http://physics.ucmerced.edu/graduate-studies/teaching-related-resources</loc>
+  </url>
+  <url>
+    <loc>http://physics.ucmerced.edu/graduate-studies/dissertationthesis-and-defense</loc>
+  </url>
+  <url>
     <loc>http://physics.ucmerced.edu/research1</loc>
-  </url>
-  <url>
-    <loc>http://physics.ucmerced.edu/research/atomic-molecular-and-optical-physics</loc>
-  </url>
-  <url>
-    <loc>http://physics.ucmerced.edu/research/biological-and-soft-matter-physics</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/research/astrophysics-astronomy</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/NanoCM</loc>
-  </url>
-  <url>
-    <loc>http://physics.ucmerced.edu/research/centers-institutes-and-resources</loc>
-  </url>
-  <url>
-    <loc>http://physics.ucmerced.edu/people</loc>
+    <loc>http://physics.ucmerced.edu/research/biological-and-soft-matter-physics</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/research/energy-sciences</loc>
   </url>
   <url>
+    <loc>http://physics.ucmerced.edu/research/atomic-molecular-and-optical-physics</loc>
+  </url>
+  <url>
+    <loc>http://physics.ucmerced.edu/people</loc>
+  </url>
+  <url>
+    <loc>http://physics.ucmerced.edu/NanoCM</loc>
+  </url>
+  <url>
     <loc>http://physics.ucmerced.edu/graduate-students</loc>
+  </url>
+  <url>
+    <loc>http://physics.ucmerced.edu/people/governance</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/people/postdoc-alumni</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/people/governance</loc>
+    <loc>http://physics.ucmerced.edu/research/centers-institutes-and-resources</loc>
+  </url>
+  <url>
+    <loc>http://physics.ucmerced.edu/events/colloquia/past-physics-colloquia</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/events/all-physics-events</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/events/colloquium</loc>
-  </url>
-  <url>
-    <loc>http://physics.ucmerced.edu/events/colloquia/past-physics-colloquia</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/dei</loc>
@@ -712,52 +712,49 @@
     <loc>http://physics.ucmerced.edu/employment</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/contact-us-0</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/content/teddy-adams</loc>
-  </url>
-  <url>
     <loc>http://physics.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>http://physics.ucmerced.edu/contact-us-0</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/haseeb-ahmad</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/adityaa-bajpai</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/content/jorge-arteaga</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/bruce-barrios</loc>
+    <loc>https://physics.ucmerced.edu/content/adityaa-bajpai</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/content/teddy-adams</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/dylan-benton</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/subhaya-bose</loc>
+    <loc>https://physics.ucmerced.edu/content/binod-bhattarai</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/binod-bhattarai</loc>
+    <loc>https://physics.ucmerced.edu/content/bruce-barrios</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/nolan-brown</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/cole-cooper</loc>
+    <loc>https://physics.ucmerced.edu/content/kevin-collins</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/jose-contreras</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/kevin-collins</loc>
+    <loc>https://physics.ucmerced.edu/content/cole-cooper</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/content/subhaya-bose</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/ethan-custodio</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/content/samuel-erickson</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/jonathan-daniel</loc>
@@ -775,10 +772,16 @@
     <loc>https://physics.ucmerced.edu/content/devika-gireesan-sudha</loc>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/content/jeremias-gonzalez</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/content/samuel-erickson</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/content/derek-hammar</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/jeremias-gonzalez</loc>
+    <loc>https://physics.ucmerced.edu/content/md-kamal-hossain</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/anuvetha-govindarajan</loc>
@@ -787,22 +790,13 @@
     <loc>https://physics.ucmerced.edu/content/harold-hart</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/md-kamal-hossain</loc>
+    <loc>https://physics.ucmerced.edu/content/arya-karappilly-rajan</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/shivam-kamboj</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/arya-karappilly-rajan</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/content/wolfgang-kern</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/content/rijan-karkee</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/content/davoud-masoumi</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/samia-liba</loc>
@@ -811,13 +805,19 @@
     <loc>https://physics.ucmerced.edu/content/abhinav-kumar</loc>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/content/wolfgang-kern</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/content/davoud-masoumi</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/content/md-mehdi-masud</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/content/christopher-mastandrea</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/mitch-mazzei</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/content/md-mehdi-masud</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/joey-mctiernan</loc>
@@ -826,25 +826,28 @@
     <loc>https://physics.ucmerced.edu/content/asmitha-mekala</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/matthew-metcalf</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/content/maverick-s-h-oh</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/content/patrick-noerr</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/content/matthew-metcalf</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/micah-oeur</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/uday-panta</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/content/bamidele-onipede</loc>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/content/maverick-s-h-oh</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/content/uday-panta</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/content/maria-perez-mendoza</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/content/nabaraj-pokhrel</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/jenny-quinn</loc>
@@ -856,22 +859,19 @@
     <loc>https://physics.ucmerced.edu/content/arnab-roy</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/nabaraj-pokhrel</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/content/suraj-sahu</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/content/niranjan-sarpangala</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/content/joseph-spinuzzi</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/arabi-seshappan</loc>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/content/niranjan-sarpangala</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/content/shahirin-shahida</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/content/joseph-spinuzzi</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/nicholas-st-clair</loc>
@@ -880,22 +880,22 @@
     <loc>https://physics.ucmerced.edu/content/diego-tapia-silva</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/aaron-wheeler</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/content/elsa-vazquez</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/alauna-wheeler</loc>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/content/aaron-wheeler</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/content/taylor-whitney</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/kelvin-yip</loc>
+    <loc>https://physics.ucmerced.edu/content/mark-woodall</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/sameen-fatima-salman-yunus</loc>
+    <loc>https://physics.ucmerced.edu/content/kelvin-yip</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/g/files/ufvvjh1416/f/page/documents/phys_seminar_flyer_-_01.23.26_-_david_rakestraw.pdf</loc>
@@ -906,15 +906,19 @@
     <lastmod>2026-01-21</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/mark-woodall</loc>
+    <loc>https://physics.ucmerced.edu/sites/g/files/ufvvjh1416/f/page/documents/phys_seminar_flyer_-_02.6.26_-_patricia_soto.pdf</loc>
+    <lastmod>2026-01-27</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/content/sameen-fatima-salman-yunus</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/g/files/ufvvjh1416/f/page/documents/phys_seminar_flyer_-_02.13.26_-_arian_aghilinejad.pdf</loc>
     <lastmod>2026-02-05</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/g/files/ufvvjh1416/f/page/documents/phys_seminar_flyer_-_02.6.26_-_patricia_soto.pdf</loc>
-    <lastmod>2026-01-27</lastmod>
+    <loc>https://physics.ucmerced.edu/sites/g/files/ufvvjh1416/f/page/documents/phys_seminar_flyer_-_02.27.26_-_hui_cai.pdf</loc>
+    <lastmod>2026-02-20</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/g/files/ufvvjh1416/f/page/documents/phys_seminar_flyer_-_02.20.26_-_raissa_dsouza.pdf</loc>
@@ -925,16 +929,12 @@
     <lastmod>2026-01-09</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/g/files/ufvvjh1416/f/page/documents/phys_seminar_flyer_-_02.27.26_-_hui_cai.pdf</loc>
-    <lastmod>2026-02-20</lastmod>
+    <loc>https://physics.ucmerced.edu/sites/g/files/ufvvjh1416/f/page/documents/phys_seminar_flyer_-_04.3.26_-_vardha_n._bennert.pdf</loc>
+    <lastmod>2026-01-22</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/g/files/ufvvjh1416/f/page/documents/phys_seminar_flyer_-_03.13.26_-_matt_rosenberger.pdf</loc>
     <lastmod>2026-02-20</lastmod>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/sites/g/files/ufvvjh1416/f/page/documents/phys_seminar_flyer_-_04.3.26_-_vardha_n._bennert.pdf</loc>
-    <lastmod>2026-01-22</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/g/files/ufvvjh1416/f/page/documents/phys_seminar_flyer_-_04.10.26_-_makinde_ogunnaike.pdf</loc>
@@ -949,12 +949,12 @@
     <lastmod>2024-04-16</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/event/Grad_Semianrs/Spring_24/phys_seminar_flyer_4.5.24_indara.pdf</loc>
-    <lastmod>2024-04-02</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/event/Grad_Semianrs/Spring_24/phys_seminar_flyer_-_032224_-_m._stevens.pdf</loc>
     <lastmod>2024-03-18</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/event/Grad_Semianrs/Spring_24/phys_seminar_flyer_4.5.24_indara.pdf</loc>
+    <lastmod>2024-04-02</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/event/Grad_Semianrs/Spring_24/phys_seminar_flyer_-_030124_-_d._kleckner.pdf</loc>
@@ -965,15 +965,14 @@
     <lastmod>2024-02-12</lastmod>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/content/de-zhen-zhou</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/undergradresearchsymposium-spring2023.pdf</loc>
     <lastmod>2023-05-02</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/undergradresearchsymposium-session2-05-6-2022.pdf</loc>
-    <lastmod>2023-03-18</lastmod>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/undergradresearchsymposium-session1-04-29-2022.pdf</loc>
     <lastmod>2023-03-18</lastmod>
   </url>
   <url>
@@ -985,6 +984,10 @@
     <lastmod>2022-05-05</lastmod>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/undergradresearchsymposium-session1-04-29-2022.pdf</loc>
+    <lastmod>2023-03-18</lastmod>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/images/pershin_yuriy_phys_seminar_flyer.pdf</loc>
     <lastmod>2022-05-05</lastmod>
   </url>
@@ -993,19 +996,19 @@
     <lastmod>2022-05-05</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/images/cleaver_doug_phys_seminar_flyer.pdf</loc>
-    <lastmod>2022-05-05</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/images/ali_ahmed_farag_phys_seminar_flyer.pdf</loc>
     <lastmod>2022-05-05</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/images/bonaca_ana_phys_seminar_flyer.pdf</loc>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/images/cleaver_doug_phys_seminar_flyer.pdf</loc>
     <lastmod>2022-05-05</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/images/mian_zia_phys_seminar_flyer.pdf</loc>
+    <lastmod>2022-05-05</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/images/bonaca_ana_phys_seminar_flyer.pdf</loc>
     <lastmod>2022-05-05</lastmod>
   </url>
   <url>
@@ -1020,9 +1023,6 @@
     <loc>https://physics.ucmerced.edu/uc-merced-aps-march-meeting-2020</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/de-zhen-zhou</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/physcolloquiumucmerced-undergraduatesymposium2019.docx</loc>
     <lastmod>2019-04-30</lastmod>
   </url>
@@ -1031,39 +1031,39 @@
     <lastmod>2019-09-04</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/2018-maces-hakeem-flier-letter-for_printing.pdf</loc>
-    <lastmod>2018-10-18</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/quint_david_physics_flyer.pdf</loc>
     <lastmod>2018-08-28</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-ssb-120-mihai-r-gherase-csu-fresno-medical-and-biological-applications-x</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-ssm-104-g-ciovati-jefferson-labold-dominion-university-non-linearities</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-sarah-kurtz-photovoltaic-technology-fascinating-science-pathway-prosperity</loc>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/2018-maces-hakeem-flier-letter-for_printing.pdf</loc>
+    <lastmod>2018-10-18</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-jesse-l-silverberg-harvard-soft-structured-living-materials</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-gergely-zimanyi-nanoparticle-solar-cells-upconversion-downconversion</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-ssb-120-mihai-r-gherase-csu-fresno-medical-and-biological-applications-x</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-david-weitz-harvard-magic-microfluidics-dripping-jetting-drops-wetting</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-stefan-zollner-new-mexico-state-university-precision-measurements-optical</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-ssm-104-g-ciovati-jefferson-labold-dominion-university-non-linearities</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-gergely-zimanyi-nanoparticle-solar-cells-upconversion-downconversion</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-sarah-kurtz-photovoltaic-technology-fascinating-science-pathway-prosperity</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-gnana-s-gnanakaran-los-alamos-national-labs-targeting-efflux-pump</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-joshua-moss-csu-sacramento-exploring-building-blocks-nature-using-particle</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-stefan-zollner-new-mexico-state-university-precision-measurements-optical</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-weihong-qiu-osu-klpa-novel-processive-kinesin-14-motor-tunable</loc>
@@ -1075,19 +1075,22 @@
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-samuel-g-carter-spins-inas-quantum-dots-qubits-sensors-and-photon-sources</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-arvind-gopinath-ucm-memory-persistence-strain-and-loss-coherence-active</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-pavan-kadandale-uc-irvine</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-david-ando-lbnl-what-are-second-generation-biofuels-and-how-can-we-make</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-kevin-wright-dartmouth-ultracold-atom-circuits-and-quantum-phases-matter</loc>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-arvind-gopinath-ucm-memory-persistence-strain-and-loss-coherence-active</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-parveen-kumar-ucm-nanosheets-and-nanowire-heterostructures</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-david-ando-lbnl-what-are-second-generation-biofuels-and-how-can-we-make</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-pavan-kadandale-uc-irvine</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-ivan-i-smalyukh-university-colorado-boulder-nanoparticles-liquid-crystals</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-ram-seshadri-ucsb-solid-state-chemistry-energy-efficiency-lighting</loc>
@@ -1096,61 +1099,74 @@
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-shun-pak-santa-clara-university-living-complex-life-low-reynolds-number</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-ivan-i-smalyukh-university-colorado-boulder-nanoparticles-liquid-crystals</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-paul-m-goldbart-georgia-tech</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-andrew-geraci-university-nevada-reno-hunting-axions-and-new-short-range-0</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-paul-m-goldbart-georgia-tech</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-daniel-axelrod-university-michigan-ann-arbor-evanescence-optical</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-kimani-c-toussaintuiuc-novel-applications-plasmonic-bowtie-nanoantennas</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-david-strubbe-ucm-computational-simulations-solar-energy-materials</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-robijn-bruinsma-ucla-lev-landau-and-physics-viral-assembly</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-s%C3%A9verine-atis-harvard</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-daniel-axelrod-university-michigan-ann-arbor-evanescence-optical</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-david-strubbe-ucm-computational-simulations-solar-energy-materials</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-s%C3%A9verine-atis-harvard</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-dustin-kleckner-uc-merced</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-mohammad-mofrad-uc-berkeley</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-rudolf-podgornik-university-ljubljana</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-kimani-c-toussaintuiuc-novel-applications-plasmonic-bowtie-nanoantennas</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-sophia-economou-virginia-tech</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-aparna-baskaran-brandeis</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-rudolf-podgornik-university-ljubljana</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-yu-zeng-uc-merced</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-mohammad-mofrad-uc-berkeley</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-aparna-baskaran-brandeis</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-jing-xu-uc-merced</loc>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-steven-gross-uc-irvine</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-yu-zeng-uc-merced</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-malcolm-boshier-los-alamos</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-steven-gross-uc-irvine</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-jennifer-ross-umass-amherst</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-cheng-zhu-llnl</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-omar-saleh-ucsb</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/2022_astrophysics_symposium-1.pdf</loc>
+    <lastmod>2022-03-24</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-oscar-murillo-nasa</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/electronic-structure-workshop</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/electronic-structure-workshop-virtual-2020</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/menachem_stern_slaam.pdf</loc>
@@ -1161,6 +1177,13 @@
     <lastmod>2024-02-24</lastmod>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/American-Physical-Society-Annual-Meeting</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/mengqi_slaam.pdf</loc>
+    <lastmod>2023-09-23</lastmod>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/event/SLAAM/shreyas_gokhale_slaam_v2.pdf</loc>
     <lastmod>2024-04-02</lastmod>
   </url>
@@ -1169,26 +1192,16 @@
     <lastmod>2024-05-13</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/mengqi_slaam.pdf</loc>
-    <lastmod>2023-09-23</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/event/SLAAM/isabella_graf_slaam.pdf</loc>
     <lastmod>2023-10-31</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-oscar-murillo-nasa</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-jennifer-ross-umass-amherst</loc>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/yongtian_luo_slaam.pdf</loc>
+    <lastmod>2023-02-09</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/andriy_goychuk_slaam.pdf</loc>
     <lastmod>2023-01-25</lastmod>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/yongtian_luo_slaam.pdf</loc>
-    <lastmod>2023-02-09</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/raphael_sarfati_slaam.pdf</loc>
@@ -1211,12 +1224,12 @@
     <lastmod>2023-05-17</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abigail_plummer_slaam.pdf</loc>
-    <lastmod>2023-06-30</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/patrick_mccall_slaam.pdf</loc>
     <lastmod>2023-06-08</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abigail_plummer_slaam.pdf</loc>
+    <lastmod>2023-06-30</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/event/SLAAM/biswarup_ash_slaam.pdf</loc>
@@ -1235,32 +1248,32 @@
     <lastmod>2022-09-26</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/noah_mitchell_slaam82.pdf</loc>
-    <lastmod>2022-10-28</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/miguel_ruiz-garcia_slaam.pdf</loc>
     <lastmod>2022-10-17</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/noah_mitchell_slaam82.pdf</loc>
+    <lastmod>2022-10-28</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/yuqing_qiu_slaam.pdf</loc>
     <lastmod>2022-11-15</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/ido_levin_slaam_1.pdf</loc>
-    <lastmod>2022-05-27</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/varda_hagh_slaam.pdf</loc>
     <lastmod>2022-12-01</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/peter_foster_slaam.pdf</loc>
-    <lastmod>2022-07-03</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/leroy_jia_slaam.pdf</loc>
     <lastmod>2022-05-27</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/ido_levin_slaam_1.pdf</loc>
+    <lastmod>2022-05-27</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/peter_foster_slaam.pdf</loc>
+    <lastmod>2022-07-03</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/chrisy_xiyu_du_slaam.pdf</loc>
@@ -1271,24 +1284,24 @@
     <lastmod>2022-08-10</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/michael_norton_slaam.pdf</loc>
-    <lastmod>2022-01-26</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/kalpana_mandal_slaam.pdf</loc>
     <lastmod>2022-08-24</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/michael_norton_slaam.pdf</loc>
+    <lastmod>2022-01-26</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/caleb_wagner_slaam.pdf</loc>
     <lastmod>2022-02-22</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/eldad_afik_slaam.pdf</loc>
-    <lastmod>2022-03-22</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/anna_lappala_slaam.pdf</loc>
     <lastmod>2022-03-01</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/eldad_afik_slaam.pdf</loc>
+    <lastmod>2022-03-22</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/jonathan_michel_slaam.pdf</loc>
@@ -1307,12 +1320,12 @@
     <lastmod>2022-05-02</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/zhihong_you_slaam.pdf</loc>
-    <lastmod>2021-07-12</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/vikrant_yadav_slaam.pdf</loc>
     <lastmod>2022-05-18</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/zhihong_you_slaam.pdf</loc>
+    <lastmod>2021-07-12</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/ed_banigan_slaam.pdf</loc>
@@ -1367,10 +1380,6 @@
     <lastmod>2021-07-12</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/copenhagen_slaam.pdf</loc>
-    <lastmod>2021-02-01</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/salem_al_mosleh_slaam.pdf</loc>
     <lastmod>2021-02-03</lastmod>
   </url>
@@ -1379,8 +1388,16 @@
     <lastmod>2021-02-24</lastmod>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/copenhagen_slaam.pdf</loc>
+    <lastmod>2021-02-01</lastmod>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/stewart_mallory_slaam.pdf</loc>
     <lastmod>2021-03-17</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/danilo_liarte_slaam.pdf</loc>
+    <lastmod>2021-04-04</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/alexandra_tayar_slaam.pdf</loc>
@@ -1389,23 +1406,6 @@
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/slaam_ritu_raman.pdf</loc>
     <lastmod>2021-05-03</lastmod>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/danilo_liarte_slaam.pdf</loc>
-    <lastmod>2021-04-04</lastmod>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/electronic-structure-workshop</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/2022_astrophysics_symposium-1.pdf</loc>
-    <lastmod>2022-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/electronic-structure-workshop-virtual-2020</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/American-Physical-Society-Annual-Meeting</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2024</loc>
@@ -1417,10 +1417,10 @@
     <loc>https://physics.ucmerced.edu/news/2023</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2025/cal-bridge-scholar-rolando-ortega-wants-build-future</loc>
+    <loc>https://physics.ucmerced.edu/news/2025/2024-2025-physics-graduate-student-news-and-achievements</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2025/2024-2025-physics-graduate-student-news-and-achievements</loc>
+    <loc>https://physics.ucmerced.edu/news/2025/cal-bridge-scholar-rolando-ortega-wants-build-future</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2025/scientists-discover-way-pause-ultrafast-melting-silicon-using-precisely-timed-laser-pulses</loc>
@@ -1429,19 +1429,19 @@
     <loc>https://physics.ucmerced.edu/news/2025/nsf-award-supports-young-faculty-member%E2%80%99s-research-building-blocks-universe</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2025/graduate-student-earns-fellowship-study-fusion-livermore-lab</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/news/2025/wilson-among-year%E2%80%99s-aaas-fellows-recognized-science-and-outreach</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2025/stargazing-and-lecture-offer-unique-perspectives-stars-and-exoplanets</loc>
+    <loc>https://physics.ucmerced.edu/news/2025/graduate-student-earns-fellowship-study-fusion-livermore-lab</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news?page=1</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news?page=2</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/news/2025/stargazing-and-lecture-offer-unique-perspectives-stars-and-exoplanets</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news?page=3</loc>
@@ -1453,13 +1453,13 @@
     <loc>https://physics.ucmerced.edu/news?page=5</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news?page=7</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/news?page=6</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news?page=8</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/news?page=7</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news?page=15</loc>
@@ -1469,7 +1469,10 @@
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://physics.ucmerced.edu/news/2025/three-physics-professors-recognized-sns</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/news/2025/lighting-way-teddy-adams-journey-adversity-innovation</loc>
@@ -1478,37 +1481,34 @@
     <loc>https://physics.ucmerced.edu/node/4171</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/news/2025/three-physics-professors-recognized-sns</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/node/4111</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/node/4151</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/node/4031</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/node/3891</loc>
+    <loc>https://physics.ucmerced.edu/node/4111</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/node/2561</loc>
+    <loc>https://physics.ucmerced.edu/node/3891</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/node/2551</loc>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/node/2561</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/node/2401</loc>
+  </url>
+  <url>
+    <loc>http://physics.ucmerced.edu/content/teddy-adams</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/content/haseeb-ahmad</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/content/jorge-arteaga</loc>
-  </url>
-  <url>
-    <loc>http://physics.ucmerced.edu/content/teddy-adams</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/content/adityaa-bajpai</loc>
@@ -1520,34 +1520,34 @@
     <loc>http://physics.ucmerced.edu/content/binod-bhattarai</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/subhaya-bose</loc>
-  </url>
-  <url>
     <loc>http://physics.ucmerced.edu/content/dylan-benton</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/nolan-brown</loc>
+    <loc>http://physics.ucmerced.edu/content/subhaya-bose</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/content/kevin-collins</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/jose-contreras</loc>
+    <loc>http://physics.ucmerced.edu/content/nolan-brown</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/cole-cooper</loc>
+    <loc>http://physics.ucmerced.edu/content/jose-contreras</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/content/ethan-custodio</loc>
   </url>
   <url>
+    <loc>http://physics.ucmerced.edu/content/cole-cooper</loc>
+  </url>
+  <url>
     <loc>http://physics.ucmerced.edu/content/jonathan-daniel</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/albert-dibenedetto-0</loc>
+    <loc>http://physics.ucmerced.edu/content/samuel-erickson</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/samuel-erickson</loc>
+    <loc>http://physics.ucmerced.edu/content/albert-dibenedetto-0</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/content/charles-gannon</loc>
@@ -1556,28 +1556,28 @@
     <loc>http://physics.ucmerced.edu/content/ankush-gargeshwari-kumar</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/devika-gireesan-sudha</loc>
+    <loc>http://physics.ucmerced.edu/content/anuvetha-govindarajan</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/content/jeremias-gonzalez</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/anuvetha-govindarajan</loc>
-  </url>
-  <url>
-    <loc>http://physics.ucmerced.edu/content/derek-hammar</loc>
+    <loc>http://physics.ucmerced.edu/content/devika-gireesan-sudha</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/content/harold-hart</loc>
   </url>
   <url>
+    <loc>http://physics.ucmerced.edu/content/derek-hammar</loc>
+  </url>
+  <url>
     <loc>http://physics.ucmerced.edu/content/md-kamal-hossain</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/arya-karappilly-rajan</loc>
+    <loc>http://physics.ucmerced.edu/content/shivam-kamboj</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/shivam-kamboj</loc>
+    <loc>http://physics.ucmerced.edu/content/arya-karappilly-rajan</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/content/rijan-karkee</loc>
@@ -1610,25 +1610,22 @@
     <loc>http://physics.ucmerced.edu/content/joey-mctiernan</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/matthew-metcalf</loc>
+    <loc>http://physics.ucmerced.edu/content/patrick-noerr</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/patrick-noerr</loc>
+    <loc>http://physics.ucmerced.edu/content/matthew-metcalf</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/content/micah-oeur</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/bamidele-onipede</loc>
-  </url>
-  <url>
     <loc>http://physics.ucmerced.edu/content/maverick-s-h-oh</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/uday-panta</loc>
+    <loc>http://physics.ucmerced.edu/content/bamidele-onipede</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/maria-perez-mendoza</loc>
+    <loc>http://physics.ucmerced.edu/content/uday-panta</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/content/nabaraj-pokhrel</loc>
@@ -1637,13 +1634,16 @@
     <loc>http://physics.ucmerced.edu/content/jenny-quinn</loc>
   </url>
   <url>
+    <loc>http://physics.ucmerced.edu/content/maria-perez-mendoza</loc>
+  </url>
+  <url>
+    <loc>http://physics.ucmerced.edu/content/md-mainul-hasan-sabbir</loc>
+  </url>
+  <url>
     <loc>http://physics.ucmerced.edu/content/arnab-roy</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/content/suraj-sahu</loc>
-  </url>
-  <url>
-    <loc>http://physics.ucmerced.edu/content/md-mainul-hasan-sabbir</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/content/arabi-seshappan</loc>
@@ -1655,22 +1655,19 @@
     <loc>http://physics.ucmerced.edu/content/shahirin-shahida</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/nicholas-st-clair</loc>
+    <loc>http://physics.ucmerced.edu/content/joseph-spinuzzi</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/joseph-spinuzzi</loc>
+    <loc>http://physics.ucmerced.edu/content/nicholas-st-clair</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/content/elsa-vazquez</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/aaron-wheeler</loc>
-  </url>
-  <url>
     <loc>http://physics.ucmerced.edu/content/diego-tapia-silva</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/mark-woodall</loc>
+    <loc>http://physics.ucmerced.edu/content/aaron-wheeler</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/content/alauna-wheeler</loc>
@@ -1679,10 +1676,13 @@
     <loc>http://physics.ucmerced.edu/content/taylor-whitney</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/sameen-fatima-salman-yunus</loc>
+    <loc>http://physics.ucmerced.edu/content/mark-woodall</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/content/kelvin-yip</loc>
+  </url>
+  <url>
+    <loc>http://physics.ucmerced.edu/content/sameen-fatima-salman-yunus</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/content/de-zhen-zhou</loc>
@@ -1694,13 +1694,13 @@
     <loc>https://physics.ucmerced.edu/events/colloquium-nicola-spaldin-eth-zurich</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/colloquium-julia-yeomans-oxford</loc>
+    <loc>https://physics.ucmerced.edu/events/colloquium-david-grier-nyu</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/colloquium-sharon-gerbode-harvey-mudd</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/colloquium-david-grier-nyu</loc>
+    <loc>https://physics.ucmerced.edu/events/colloquium-julia-yeomans-oxford</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/undergraduate-research-symposium-0</loc>
@@ -1721,19 +1721,19 @@
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-brian-nord</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-loren-hough-university-colorado-boulder</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-jeff-neaton-uc-berkeley</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-alexander-levine-ucla</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-loren-hough-university-colorado-boulder</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/dissertation-defense-sheida-t-riahinasab</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-meng-shen-university-chicago</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-alexander-levine-ucla</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-srividya-iyer-biswas-purdue-university</loc>
@@ -1748,10 +1748,10 @@
     <loc>https://physics.ucmerced.edu/events/2019-ccbm-workshop-emerging-themes-cellular-and-biomolecular-machines</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-tugrul-senger-izmir-institute-technology</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-alexander-petersen-uc-merced</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-alexander-petersen-uc-merced</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-tugrul-senger-izmir-institute-technology</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-chih-chun-chien-ucm</loc>
@@ -1760,19 +1760,19 @@
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-enrico-ramirez-ruiz-ucsc</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquim-ettore-vitali-csu-fresno</loc>
+    <loc>https://physics.ucmerced.edu/events/colloquium-mehran-kardar-mit</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/colloquium-mehran-kardar-mit</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquim-ettore-vitali-csu-fresno</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/colloquium-tzu-ming-lu-sandia-national-lab</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/colloquium-jorge-g-moreno-soto-pomona-college</loc>
+    <loc>https://physics.ucmerced.edu/events/colloquium-sam-safran-weizmann-institute</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/colloquium-sam-safran-weizmann-institute</loc>
+    <loc>https://physics.ucmerced.edu/events/colloquium-jorge-g-moreno-soto-pomona-college</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-annual-party</loc>
@@ -1784,19 +1784,19 @@
     <loc>https://physics.ucmerced.edu/events/phd-thesis-defense-som-sarang</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/undergraduate-research-symposium</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/events/biological-physics-seminar-robert-endres</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/phd-thesis-defense-katerina-nikolaidou</loc>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/events/prl-special-seminar</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/events/special-condensed-matter-seminar-hsi-sheng-goan</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/prl-special-seminar</loc>
+    <loc>https://physics.ucmerced.edu/events/undergraduate-research-symposium</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-lulu-qian%C2%A0</loc>
@@ -1808,10 +1808,10 @@
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-ahmet-yildiz</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-robert-jorstad</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-robert-jorstad</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquia-udo-schwarz-yale</loc>
@@ -1844,19 +1844,19 @@
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-justin-burton-emory</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-elena-koslover-ucsd</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-andrew-wetzel-uc-davis</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-andrew-wetzel-uc-davis</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-elena-koslover-ucsd</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-keith-brown-boston-university</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-hakeem-oluseyi-nasa-science-mission-directorate-washington-dc</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-natasha-batalha-uc-santa-cruz</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-natasha-batalha-uc-santa-cruz</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-hakeem-oluseyi-nasa-science-mission-directorate-washington-dc</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-vincenzo-vitelli-uchicago</loc>
@@ -1865,10 +1865,10 @@
     <loc>https://physics.ucmerced.edu/events/physics-department-social</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-tammy-ma-llnl</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-ryan-mcgorty-university-san-diego</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-ryan-mcgorty-university-san-diego</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-tammy-ma-llnl</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-erik-luijten-northwestern</loc>
@@ -1883,10 +1883,10 @@
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-leily-kiani-llnl</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-samuel-g-carter-spins-inas-quantum-dots-qubits-sensors-and-photon-sources%E2%80%9D</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-kimani-c-toussaint-uiuc-novel-applications-plasmonic-bowtie-nanoantennas</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-kimani-c-toussaint-uiuc-novel-applications-plasmonic-bowtie-nanoantennas</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-samuel-g-carter-spins-inas-quantum-dots-qubits-sensors-and-photon-sources%E2%80%9D</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-andrew-geraci-university-nevada-reno-hunting-axions-and-new-short-range</loc>
@@ -1910,16 +1910,16 @@
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-tao-ye-ucm</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-prashant-nagpal-cu-boulder</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-richard-packard-uc-berkeley</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-liang-chy-chien-kent-state-university</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-prashant-nagpal-cu-boulder</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-fred-cooper-santa-fe-institute</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-liang-chy-chien-kent-state-university</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-erwin-frey-lmu-munich</loc>
@@ -1931,13 +1931,13 @@
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-cecilia-leal-uiuc</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-francois-blanchette-ucm</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-alex-noy-livermore</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/undergraduate-research-presentations</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-alex-noy-livermore</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-francois-blanchette-ucm</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-pizza-hour-1</loc>
@@ -1952,10 +1952,10 @@
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-michael-zwolak-nist</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-pizza-hour</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-anand-bala-subramaniam-uc-merced</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-anand-bala-subramaniam-uc-merced</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-pizza-hour</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-colloquium-mike-colvin-uc-merced</loc>
@@ -1979,22 +1979,22 @@
     <loc>https://physics.ucmerced.edu/events/final-exams</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/kerwyn-huang-stanford</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/events/senior-thesis-presentations</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/events/physics-friday-pizza-hour-2</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/events/kerwyn-huang-stanford</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/thanksgiving-holiday</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-seminar-suckjoon-kim-ucsd</loc>
+    <loc>https://physics.ucmerced.edu/events/senior-thesis-presentations</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-friday-pizza-hour-1</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/events/physics-seminar-suckjoon-kim-ucsd</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-seminar-chen-lung-hung-caltechpurdue</loc>
@@ -2003,20 +2003,17 @@
     <loc>https://physics.ucmerced.edu/events/physics-friday-pizza-hour-0</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-colloquium-jim-franson-umbc</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/events/tom-solomon-bucknell-university</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/images/event/atis_figures.jpg</loc>
-    <lastmod>2016-01-15</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-friday-pizza-hour</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/events/physics-seminar-massimiliano-di-ventra-uc-san-diego</loc>
+    <loc>https://physics.ucmerced.edu/events/physics-colloquium-jim-franson-umbc</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/images/event/atis_figures.jpg</loc>
+    <lastmod>2016-01-15</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/es23_detailed_schedule.pdf</loc>
@@ -2027,20 +2024,15 @@
     <lastmod>2023-06-26</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/es23_program.pdf</loc>
-    <lastmod>2023-06-09</lastmod>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/es23_map.pdf</loc>
-    <lastmod>2023-06-11</lastmod>
+    <loc>https://physics.ucmerced.edu/events/physics-seminar-massimiliano-di-ventra-uc-san-diego</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/rmg_es23_tutorial_abstract.pdf</loc>
     <lastmod>2023-06-01</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_bonini.pdf</loc>
-    <lastmod>2023-06-04</lastmod>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/es23_map.pdf</loc>
+    <lastmod>2023-06-11</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_andrade.pdf</loc>
@@ -2049,6 +2041,14 @@
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_bernardi.pdf</loc>
     <lastmod>2023-06-07</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/es23_program.pdf</loc>
+    <lastmod>2023-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_bonini.pdf</loc>
+    <lastmod>2023-06-04</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_cano.pdf</loc>
@@ -2063,24 +2063,20 @@
     <lastmod>2023-07-06</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/es23_slides_siyuan-chen.pdf</loc>
-    <lastmod>2023-07-06</lastmod>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_eisenbach.pdf</loc>
+    <lastmod>2023-06-04</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/es23_slides_jennifer-cano.pdf</loc>
     <lastmod>2023-07-06</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_eisenbach.pdf</loc>
-    <lastmod>2023-06-04</lastmod>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/es23_slides_siyuan-chen.pdf</loc>
+    <lastmod>2023-07-06</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_fiedler.pdf</loc>
     <lastmod>2023-06-04</lastmod>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/es23_slides_lenz-fiedler_0.pdf</loc>
-    <lastmod>2023-07-06</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/es23_slides_markus-eisenbach.pdf</loc>
@@ -2091,23 +2087,23 @@
     <lastmod>2023-06-04</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_govoni.pdf</loc>
-    <lastmod>2023-06-21</lastmod>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/es23_slides_emmanuel-fromager.pdf</loc>
+    <lastmod>2023-07-13</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_ghosh.pdf</loc>
     <lastmod>2023-06-11</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/es23_slides_emmanuel-fromager.pdf</loc>
-    <lastmod>2023-07-13</lastmod>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_govoni.pdf</loc>
+    <lastmod>2023-06-21</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/es23_slides_lenz-fiedler_0.pdf</loc>
+    <lastmod>2023-07-06</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_gull.pdf</loc>
-    <lastmod>2023-06-04</lastmod>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_larsson.pdf</loc>
     <lastmod>2023-06-04</lastmod>
   </url>
   <url>
@@ -2115,8 +2111,16 @@
     <lastmod>2023-06-06</lastmod>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_larsson.pdf</loc>
+    <lastmod>2023-06-04</lastmod>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/es23_slides_emanuel-gull.pdf</loc>
     <lastmod>2023-07-06</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_neogi.pdf</loc>
+    <lastmod>2023-06-04</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_naik.pdf</loc>
@@ -2127,27 +2131,23 @@
     <lastmod>2023-06-04</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_neogi.pdf</loc>
-    <lastmod>2023-06-04</lastmod>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_ping.pdf</loc>
+    <lastmod>2023-06-06</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/es23_slides_peter-oppeneer.pdf</loc>
     <lastmod>2023-07-06</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_ping.pdf</loc>
-    <lastmod>2023-06-06</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/es23_slides_yuan-ping.pdf</loc>
     <lastmod>2023-07-06</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_tamblyn.pdf</loc>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_rhone.pdf</loc>
     <lastmod>2023-06-04</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_rhone.pdf</loc>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_es23_tamblyn.pdf</loc>
     <lastmod>2023-06-04</lastmod>
   </url>
   <url>
@@ -2167,29 +2167,29 @@
     <lastmod>2023-02-23</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/picozzi_abstract.pdf</loc>
-    <lastmod>2020-05-16</lastmod>
+    <loc>https://physics.ucmerced.edu/electronic-structure-workshop/making-poster-videos</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/electronic-structure-workshop/making-poster-videos</loc>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/picozzi_abstract.pdf</loc>
+    <lastmod>2020-05-16</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/meet_the_physical_review_editors.pdf</loc>
     <lastmod>2020-06-01</lastmod>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/electronic-structure-workshop/virtual-poster-session</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/fhj_practical_calc.pdf</loc>
     <lastmod>2020-06-05</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/electronic-structure-workshop/virtual-poster-session</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/1-silicon.pdf</loc>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/dyq_bse_presentation.pdf</loc>
     <lastmod>2020-06-05</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/dyq_bse_presentation.pdf</loc>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/1-silicon.pdf</loc>
     <lastmod>2020-06-05</lastmod>
   </url>
   <url>
@@ -2204,13 +2204,13 @@
     <loc>https://physics.ucmerced.edu/american-physical-society-meeting-2-17-far-west-section/aps-far-west-2017-poster</loc>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/news/2024/nierenberg-and-sharping-recognized-service</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/news/2024/professor-brings-course-based-research-experiences-physics</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2024/nsf-grant-opens-opportunities-students-materials-research</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/news/2024/nierenberg-and-sharping-recognized-service</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2024/2023-2024-physics-graduate-student-news-and-achievements</loc>
@@ -2219,10 +2219,13 @@
     <loc>https://physics.ucmerced.edu/news/2024/physics-grad-student-receives-competitive-uc-fellowship</loc>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/news/2024/grad-student-receives-prestigious-defense-fellowship</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/news/2024/researchers-accurately-model-animals%E2%80%99-hunting-scavenging-behavior</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2024/grad-student-receives-prestigious-defense-fellowship</loc>
+    <loc>https://physics.ucmerced.edu/news/2024/fulbright-award-sends-physics-grad-student-france-quantum-research</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2024/physics-based-modeling-reveals-surprising-behavior-blood-clots</loc>
@@ -2231,19 +2234,16 @@
     <loc>https://physics.ucmerced.edu/news/2024/new-summer-research-opportunities-undergraduates-across-us</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2024/fulbright-award-sends-physics-grad-student-france-quantum-research</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/news/2024?page=1</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2025?page=1</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2023/arcs-scholars-work-advance-stem-research</loc>
+    <loc>https://physics.ucmerced.edu/news/2023/new-partnership-offers-phd-students-path-pedagogical-excellence</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2023/new-partnership-offers-phd-students-path-pedagogical-excellence</loc>
+    <loc>https://physics.ucmerced.edu/news/2023/arcs-scholars-work-advance-stem-research</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2023/orionid-meteor-shower-viewing-oct-21</loc>
@@ -2255,22 +2255,22 @@
     <loc>https://physics.ucmerced.edu/news/2023/appreciation-physics-postdocs</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2023/mega-interstellar-structure-fuels-undergraduate%E2%80%99s-winning-research</loc>
+    <loc>https://physics.ucmerced.edu/news/2023/2023-physics-graduate-student-achievements</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2023/most-universe-composed-dark-energy-researchers-show</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2023/2023-physics-graduate-student-achievements</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/news/2023/students-learn-experts-electronic-structure-physics-conference-hosted-campus</loc>
+    <loc>https://physics.ucmerced.edu/news/2023/mega-interstellar-structure-fuels-undergraduate%E2%80%99s-winning-research</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2023/astrophysics-researchers-present-their-work-hawaiian-observatory</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2023?page=1</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/news/2023/students-learn-experts-electronic-structure-physics-conference-hosted-campus</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2025/founding-faculty-roland-winston-remembered-pioneering-solar-energy</loc>
@@ -2288,10 +2288,10 @@
     <loc>https://physics.ucmerced.edu/news/2024/active-matter-researcher-will-further-modeling-education-nsf-career-award</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2023/graduate-students-help-further-understanding-diseases-such-alzheimers</loc>
+    <loc>https://physics.ucmerced.edu/news/2023/uc-merced%E2%80%99s-graduate-programs-rank-among-best-nation</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2023/uc-merced%E2%80%99s-graduate-programs-rank-among-best-nation</loc>
+    <loc>https://physics.ucmerced.edu/news/2023/graduate-students-help-further-understanding-diseases-such-alzheimers</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2023/first-test-perovskite-films-space-indicates-more-resilience-researchers-expected</loc>
@@ -2300,16 +2300,16 @@
     <loc>https://physics.ucmerced.edu/news/2023/cheer-campus%E2%80%99s-10-grad-slam-finalists-april-10</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2023/wilson-selected-2023-american-astronomical-society-fellow</loc>
+    <loc>https://physics.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2023/wilson-selected-2023-american-astronomical-society-fellow-0</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/news/2023/wilson-selected-2023-american-astronomical-society-fellow</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2023/uc-awards-164-million-grants-address-climate-energy-and-health</loc>
@@ -2321,13 +2321,13 @@
     <loc>https://physics.ucmerced.edu/news/2022/dod-grant-helps-upgrade-special-refrigerators-quantum-physics-research</loc>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/news/2022/retiring-winston-looks-forward-his-busy-bright-future</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/news/2022/crest-center-returns-interactive-stem-programming-diverse-audiences</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2022/hratchian-takes-helm-graduate-dean-shares-vision-division</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/news/2022/retiring-winston-looks-forward-his-busy-bright-future</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2022/two-undergraduate-stars-earn-unique-summer-opportunities</loc>
@@ -2366,49 +2366,13 @@
     <loc>https://physics.ucmerced.edu/news?page=9</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2021/physics-seniors-succeed-multiple-fronts</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/news/2021/uc-merced-alums-students-earn-prestigious-fellowships</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/news/2021/22m-nih-grant-designed-produce-highly-trained-diverse-phd-workforce</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/news/2021/five-years-ccbm-looking-expand-research-and-student-opportunities</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/news/2021/two-new-faculty-members-expand-physics-department-and-bring-cosmos-campus</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/news/2021/active-matter-organization-earns-beller-career-award</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/news/2021/kleckner%E2%80%99s-award-physics-department-nabs-its-third-career-grant-year</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/news/2021/physics-faculty-win-ucop-grant-coronavirus-research</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/news/2020/physics-major-fall-commencement-student-speaker</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/news/2020/physicist-liu-receives-nsf-career-award-create-%E2%80%98bacteria-treadmill%E2%80%99</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/news?page=10</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/news?page=11</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/news/2021/fellowship-grad-students-pay-it-forward-community-college-level</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2021/usda-grant-supports-diverse-ag-related-learning-and-training-students</loc>
+    <loc>https://physics.ucmerced.edu/news/2021/physicist%E2%80%99s-exploration-2d-materials-earns-career-award</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2021/physicist%E2%80%99s-exploration-2d-materials-earns-career-award</loc>
+    <loc>https://physics.ucmerced.edu/news/2021/usda-grant-supports-diverse-ag-related-learning-and-training-students</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2021/great-lecture-better-active-learning-students-may-think-so-study-says-otherwise</loc>
@@ -2423,13 +2387,19 @@
     <loc>https://physics.ucmerced.edu/news/2021/hirst-selected-prestigious-fellowship-american-physical-society</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2021/hands-handmade-instruments-boost-engagement-remote-physics-class</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/news/2021/researchers-unraveling-mysteries-electrosensory-gel-sharks-skates</loc>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/news/2021/hands-handmade-instruments-boost-engagement-remote-physics-class</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/news/2021/earth-space-and-back-again-solar-samples-show-surprising-results</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/news?page=10</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/news/2020/lab-finds-chitin-surprising-places</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2020/strubbe-lab-represent-uc-merced-distinction-national-conference</loc>
@@ -2438,31 +2408,61 @@
     <loc>https://physics.ucmerced.edu/news/2020/uc-merced-physics-now-part-aps-bridge-program</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2020/lab-finds-chitin-surprising-places</loc>
+    <loc>https://physics.ucmerced.edu/news/2020/physics-projects-designed-expand-quantum-knowledge</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2020/gopinathan-named-fellow-leading-physics-organization</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2020/physics-projects-designed-expand-quantum-knowledge</loc>
+    <loc>https://physics.ucmerced.edu/news/2020/four-new-faculty-members-join-uc-merced-physics</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2020/physics-alum-develops-device-measure-and-manipulate-invisible-force</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2020/four-new-faculty-members-join-uc-merced-physics</loc>
+    <loc>https://physics.ucmerced.edu/news/2020/nasa-renews-campus-research-center-another-two-years</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2020/nasa-renews-campus-research-center-another-two-years</loc>
+    <loc>https://physics.ucmerced.edu/news/2020/bobcats-help-shape-future-nasa-spacex-missions</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2020/bacteria-use-physics-twist-measure-their-own-size-and-shape</loc>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/news?page=11</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/news/2021/physics-seniors-succeed-multiple-fronts</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/news?page=12</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2020/bobcats-help-shape-future-nasa-spacex-missions</loc>
+    <loc>https://physics.ucmerced.edu/news/2021/uc-merced-alums-students-earn-prestigious-fellowships</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/news/2021/22m-nih-grant-designed-produce-highly-trained-diverse-phd-workforce</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/news/2021/two-new-faculty-members-expand-physics-department-and-bring-cosmos-campus</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/news/2021/five-years-ccbm-looking-expand-research-and-student-opportunities</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/news/2021/kleckner%E2%80%99s-award-physics-department-nabs-its-third-career-grant-year</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/news/2021/active-matter-organization-earns-beller-career-award</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/news/2021/physics-faculty-win-ucop-grant-coronavirus-research</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/news/2020/physicist-liu-receives-nsf-career-award-create-%E2%80%98bacteria-treadmill%E2%80%99</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/news/2020/physics-major-fall-commencement-student-speaker</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2015/sharping-chiao-and-tian-win-darpa-grant</loc>
@@ -2474,10 +2474,10 @@
     <loc>https://physics.ucmerced.edu/news/2014/nano-bio-program-provides-unique-research-experience</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2015/new-nasa-affiliated-materials-center</loc>
+    <loc>https://physics.ucmerced.edu/news/2014/uc-solar-2014-symposium</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2014/uc-solar-2014-symposium</loc>
+    <loc>https://physics.ucmerced.edu/news/2015/new-nasa-affiliated-materials-center</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2014/campus-highlights-physics-group</loc>
@@ -2498,15 +2498,15 @@
     <loc>https://physics.ucmerced.edu/news?page=14</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/event/documents/physcolloquiumucmerced-undergraduatesymposium2019.docx</loc>
-    <lastmod>2019-04-30</lastmod>
+    <loc>https://physics.ucmerced.edu/news?page=13</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/endres_seminar_july_31_2019_flyer_v2_1.pdf</loc>
     <lastmod>2019-07-19</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news?page=13</loc>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/event/documents/physcolloquiumucmerced-undergraduatesymposium2019.docx</loc>
+    <lastmod>2019-04-30</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/colloquia</loc>
@@ -2516,11 +2516,11 @@
     <lastmod>2020-05-26</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/cogollo_abstract.pdf</loc>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_mihir_ranjan_sahoo.pdf</loc>
     <lastmod>2020-05-26</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_mihir_ranjan_sahoo.pdf</loc>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/cogollo_abstract.pdf</loc>
     <lastmod>2020-05-26</lastmod>
   </url>
   <url>
@@ -2528,12 +2528,12 @@
     <lastmod>2020-05-26</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/fankam_abstract_electronic_structre_optoelectronics_etc.pdf</loc>
-    <lastmod>2020-05-27</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/enrique_guerrero.pdf</loc>
     <lastmod>2020-05-26</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/fankam_abstract_electronic_structre_optoelectronics_etc.pdf</loc>
+    <lastmod>2020-05-27</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/pyprocar-abstract.pdf</loc>
@@ -2544,15 +2544,11 @@
     <lastmod>2020-05-26</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_bennett.pdf</loc>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/donfack_bernard.pdf</loc>
     <lastmod>2020-05-26</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/poster_bernard.ppt</loc>
-    <lastmod>2020-06-03</lastmod>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/donfack_bernard.pdf</loc>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_bennett.pdf</loc>
     <lastmod>2020-05-26</lastmod>
   </url>
   <url>
@@ -2560,16 +2556,20 @@
     <lastmod>2020-06-02</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_rene_costa.pdf</loc>
-    <lastmod>2020-05-26</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/amisi_safari.pdf</loc>
     <lastmod>2020-05-26</lastmod>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/poster_bernard.ppt</loc>
+    <lastmod>2020-06-03</lastmod>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/weiler_laura_abstract2.pdf</loc>
     <lastmod>2020-05-27</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_rene_costa.pdf</loc>
+    <lastmod>2020-05-26</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/meriem_bouhbou_abstract.pdf</loc>
@@ -2588,6 +2588,10 @@
     <lastmod>2020-05-26</lastmod>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_edward_t.pdf</loc>
+    <lastmod>2020-06-01</lastmod>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/_seyfan_poster_special_disorder_rwanda_kigali.pdf</loc>
     <lastmod>2020-05-26</lastmod>
   </url>
@@ -2596,15 +2600,7 @@
     <lastmod>2020-05-26</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_edward_t.pdf</loc>
-    <lastmod>2020-06-01</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/xiaoxiong_liu.pdf</loc>
-    <lastmod>2020-05-26</lastmod>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/sara.docx</loc>
     <lastmod>2020-05-26</lastmod>
   </url>
   <url>
@@ -2612,19 +2608,15 @@
     <lastmod>2020-05-26</lastmod>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/sara.docx</loc>
+    <lastmod>2020-05-26</lastmod>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/teshome_g_poster_cds.pdf</loc>
     <lastmod>2020-06-03</lastmod>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_mozahar_ali.pdf</loc>
-    <lastmod>2020-05-26</lastmod>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/rijan_karkee.pdf</loc>
-    <lastmod>2020-05-26</lastmod>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/tiihonen_esw_merced_poster.pdf</loc>
     <lastmod>2020-05-26</lastmod>
   </url>
   <url>
@@ -2632,7 +2624,15 @@
     <lastmod>2020-05-27</lastmod>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/abstract_mozahar_ali.pdf</loc>
+    <lastmod>2020-05-26</lastmod>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/poster_abstract_kisungkang.pdf</loc>
+    <lastmod>2020-05-26</lastmod>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/tiihonen_esw_merced_poster.pdf</loc>
     <lastmod>2020-05-26</lastmod>
   </url>
   <url>
@@ -2651,10 +2651,10 @@
     <loc>https://physics.ucmerced.edu/media-contact/patty-guerra</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/sayantani-ghosh</loc>
+    <loc>https://physics.ucmerced.edu/media-contact/brenda-ortiz</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/media-contact/brenda-ortiz</loc>
+    <loc>https://physics.ucmerced.edu/content/sayantani-ghosh</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/media-contact/lorena-anderson</loc>
@@ -2687,10 +2687,10 @@
     <loc>https://physics.ucmerced.edu/news/2020/strubbe-recognized-research-teaching-and-service-department</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2020/gravitational-waves-researcher-speaker-uc-merced-event</loc>
+    <loc>https://physics.ucmerced.edu/news/2020/%E2%80%98yes-you-can%E2%80%99-uc-merced-students-learning-growing-livermore-lab</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2020/%E2%80%98yes-you-can%E2%80%99-uc-merced-students-learning-growing-livermore-lab</loc>
+    <loc>https://physics.ucmerced.edu/news/2020/gravitational-waves-researcher-speaker-uc-merced-event</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2020/national-academy-engineering-elects-kurtz-its-ranks</loc>
@@ -2702,10 +2702,10 @@
     <loc>https://physics.ucmerced.edu/news/2019/star-student-and-nasa-standout-preparing-stellar-future</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2019/physicist-found-his-path-future-uc-merced</loc>
+    <loc>https://physics.ucmerced.edu/news/2019/lab-works-understand-molecular-motors-and-cholesterol%E2%80%99s-relation-alzheimer%E2%80%99s</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2019/lab-works-understand-molecular-motors-and-cholesterol%E2%80%99s-relation-alzheimer%E2%80%99s</loc>
+    <loc>https://physics.ucmerced.edu/news/2019/physicist-found-his-path-future-uc-merced</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2019/physicists-revealing-mysteries-biological-fluids</loc>
@@ -2723,37 +2723,37 @@
     <loc>https://physics.ucmerced.edu/news/2019/uc-solar-projects-bringing-lower-costs-renewable-energy-industry-commerce-and-homes</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2019/society-physics-students-vice-president-victoria-arias-gives-commencement-speech</loc>
+    <loc>https://physics.ucmerced.edu/node/2571</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2019/npr-station-ktep-interviews-physics-professor-david-strubbe-science-studio</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2019/physics-professor%E2%80%99s-work-liquid-crystals-earns-prestigious-medal</loc>
+    <loc>https://physics.ucmerced.edu/news/2019/society-physics-students-vice-president-victoria-arias-gives-commencement-speech</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2019/grad-student-discovers-patents-process-create-%E2%80%9Cnanofoams%E2%80%9D-liquid-crystals</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2018/5-million-cal-bridge-grant-aims-boost-physics-astronomy-phd-diversity</loc>
+    <loc>https://physics.ucmerced.edu/news/2019/physics-professor%E2%80%99s-work-liquid-crystals-earns-prestigious-medal</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2018/new-consortium-seeks-expose-students-galaxy-opportunities</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2018/physics-highlights-2017-18-celebrated-department-social</loc>
+    <loc>https://physics.ucmerced.edu/news/2018/5-million-cal-bridge-grant-aims-boost-physics-astronomy-phd-diversity</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2018/triangles-quantum-dots-create-controllable-current-circulation</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/news/2018/physics-highlights-2017-18-celebrated-department-social</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2018/even-classical-diffusive-motion-topologically-protected-edge-modes-can-be-found</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2018/frustration-and-compromise-flocking-cells-produce-new-migration-patterns</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/node/2571</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2018/uc-solar-awarded-11m-grant-build-solar-powered-water-purification-systems</loc>
@@ -2801,13 +2801,13 @@
     <loc>https://physics.ucmerced.edu/news/2015/professor-takes-bird%E2%80%99s-eye-view-collective-movements</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2015/graduate-students-win-solar-fellowships</loc>
+    <loc>https://physics.ucmerced.edu/news/2015/bird%E2%80%99s-eye-view-collective-movements</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2015/event-connects-high-school-girls-female-scientists</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2015/bird%E2%80%99s-eye-view-collective-movements</loc>
+    <loc>https://physics.ucmerced.edu/news/2015/graduate-students-win-solar-fellowships</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2015/nanomaterials-exploring-new-frontiers</loc>
@@ -2828,35 +2828,35 @@
     <loc>https://physics.ucmerced.edu/news/2016/winston-feted-golden-anniversary-landmark-discovery</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2016/computational-training-expanding-uc-merced-through-new-grants</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/news/2016/society-physics-students-recognized-outreach</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2016/uc-solar-graduate-student-lighting-night-controlled-way</loc>
+    <loc>https://physics.ucmerced.edu/news/2016/computational-training-expanding-uc-merced-through-new-grants</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2016/xu-wins-nih-biophysics-grant</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/taxonomy/term/1191/feed</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2016/brainstorm-professors-take-holistic-approach-study-thinking-learning-and-neuroscience</loc>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/news/2016/uc-solar-graduate-student-lighting-night-controlled-way</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/taxonomy/term/381/feed</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/taxonomy/term/981/feed</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/taxonomy/term/19/feed</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/media-contact/elizabeth-arakelian</loc>
@@ -2867,6 +2867,6 @@
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/taxonomy/term/331/feed</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-03-25</lastmod>
   </url>
 </urlset>

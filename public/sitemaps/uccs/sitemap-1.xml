@@ -7,10 +7,13 @@
     <loc>https://uccs.ucmerced.edu/</loc>
   </url>
   <url>
+    <loc>https://uccs.ucmerced.edu/program-overview</loc>
+  </url>
+  <url>
     <loc>https://uccs.ucmerced.edu/program-overview/leadership-social-justice-and-public-policy</loc>
   </url>
   <url>
-    <loc>https://uccs.ucmerced.edu/program-overview</loc>
+    <loc>https://uccs.ucmerced.edu/program-dates-deadlines</loc>
   </url>
   <url>
     <loc>https://uccs.ucmerced.edu/form/student-interest-list</loc>
@@ -20,15 +23,12 @@
   </url>
   <url>
     <loc>https://uccs.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://uccs.ucmerced.edu/program-dates-deadlines</loc>
-  </url>
-  <url>
-    <loc>https://uccs.ucmerced.edu/contact-us</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://uccs.ucmerced.edu/contact-us-0</loc>
+  </url>
+  <url>
+    <loc>https://uccs.ucmerced.edu/contact-us</loc>
   </url>
 </urlset>

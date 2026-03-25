@@ -7,22 +7,19 @@
     <loc>https://idlab.ucmerced.edu/about-us/students</loc>
   </url>
   <url>
-    <loc>https://idlab.ucmerced.edu/about-us/parents</loc>
-  </url>
-  <url>
     <loc>https://idlab.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://idlab.ucmerced.edu/research/publications</loc>
-  </url>
-  <url>
-    <loc>https://idlab.ucmerced.edu/CurrentResearchStudies</loc>
+    <loc>https://idlab.ucmerced.edu/about-us/parents</loc>
   </url>
   <url>
     <loc>https://idlab.ucmerced.edu/about-us/prospective-graduate-students</loc>
   </url>
   <url>
-    <loc>https://idlab.ucmerced.edu/id%20Lab%20People</loc>
+    <loc>https://idlab.ucmerced.edu/CurrentResearchStudies</loc>
+  </url>
+  <url>
+    <loc>https://idlab.ucmerced.edu/research/publications</loc>
   </url>
   <url>
     <loc>https://idlab.ucmerced.edu/node/17</loc>
@@ -31,29 +28,32 @@
     <loc>https://idlab.ucmerced.edu/people/grad-students</loc>
   </url>
   <url>
+    <loc>https://idlab.ucmerced.edu/id%20Lab%20People</loc>
+  </url>
+  <url>
+    <loc>https://idlab.ucmerced.edu/news</loc>
+  </url>
+  <url>
     <loc>https://idlab.ucmerced.edu/people/lab-graduates</loc>
   </url>
   <url>
     <loc>https://idlab.ucmerced.edu/undergraduate-research-assistants</loc>
   </url>
   <url>
-    <loc>https://idlab.ucmerced.edu/news</loc>
-  </url>
-  <url>
     <loc>https://idlab.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://idlab.ucmerced.edu/news/2022/handbook-emotional-development-co-edited-professor-walle</loc>
   </url>
   <url>
     <loc>https://idlab.ucmerced.edu/ContactUsForm</loc>
   </url>
   <url>
-    <loc>https://idlab.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-24</lastmod>
+    <loc>https://idlab.ucmerced.edu/news/2022/handbook-emotional-development-co-edited-professor-walle</loc>
   </url>
   <url>
     <loc>https://idlab.ucmerced.edu/news/2021/new-study-latina-teen-parents</loc>
+  </url>
+  <url>
+    <loc>https://idlab.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://idlab.ucmerced.edu/news/2021/congrats-newly-minted-phd-dr-lukas-lopez</loc>
@@ -103,11 +103,11 @@
     <lastmod>2020-08-06</lastmod>
   </url>
   <url>
-    <loc>https://idlab.ucmerced.edu/sites/idlab.ucmerced.edu/files/page/documents/knothe_walle_2019.pdf</loc>
+    <loc>https://idlab.ucmerced.edu/sites/idlab.ucmerced.edu/files/page/documents/walle_lopez_2020.pdf</loc>
     <lastmod>2020-08-06</lastmod>
   </url>
   <url>
-    <loc>https://idlab.ucmerced.edu/sites/idlab.ucmerced.edu/files/page/documents/walle_lopez_2020.pdf</loc>
+    <loc>https://idlab.ucmerced.edu/sites/idlab.ucmerced.edu/files/page/documents/knothe_walle_2019.pdf</loc>
     <lastmod>2020-08-06</lastmod>
   </url>
   <url>
@@ -210,10 +210,10 @@
     <loc>https://idlab.ucmerced.edu/news/2020/professor-walle-organizes-special-issue-emotional-development</loc>
   </url>
   <url>
-    <loc>https://idlab.ucmerced.edu/news/2020/sivenesi-subramoney-awarded-oppenheimer-memorial-trust-fellowship</loc>
+    <loc>https://idlab.ucmerced.edu/news/2020/professor-walle-featured-netflix-series-babies</loc>
   </url>
   <url>
-    <loc>https://idlab.ucmerced.edu/news/2020/professor-walle-featured-netflix-series-babies</loc>
+    <loc>https://idlab.ucmerced.edu/news/2020/sivenesi-subramoney-awarded-oppenheimer-memorial-trust-fellowship</loc>
   </url>
   <url>
     <loc>https://idlab.ucmerced.edu/news/2019/id-lab-2019-graduates</loc>
