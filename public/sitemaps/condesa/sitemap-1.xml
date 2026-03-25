@@ -9,11 +9,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://condesa.ucmerced.edu/about</loc>
-    <lastmod>2026-03-25</lastmod>
+    <loc>https://condesa.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://condesa.ucmerced.edu/contact-us</loc>
+    <loc>https://condesa.ucmerced.edu/about</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://condesa.ucmerced.edu/people</loc>
@@ -24,11 +24,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://condesa.ucmerced.edu/people/staff</loc>
+    <loc>https://condesa.ucmerced.edu/people/affiliated-scientists</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://condesa.ucmerced.edu/people/affiliated-scientists</loc>
+    <loc>https://condesa.ucmerced.edu/people/staff</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -36,31 +36,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://condesa.ucmerced.edu/people/cohort-2</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://condesa.ucmerced.edu/people/cohort-3</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://condesa.ucmerced.edu/program-overview</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://condesa.ucmerced.edu/people/cohort-5</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://condesa.ucmerced.edu/people/cohort-4</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://condesa.ucmerced.edu/program-overview/research-core-2</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://condesa.ucmerced.edu/program-overview/research-core-1</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -68,15 +44,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://condesa.ucmerced.edu/program-overview/sees-incubator</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://condesa.ucmerced.edu/program-overview/sees-incubator-2024</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://condesa.ucmerced.edu/program-overview/sees-incubator-2025</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -84,15 +52,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://condesa.ucmerced.edu/news-0</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://condesa.ucmerced.edu/MATFRONT-2024</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://condesa.ucmerced.edu/rss.xml</loc>
+    <loc>https://condesa.ucmerced.edu/program-overview/sees-incubator-2025</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -100,32 +64,60 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://condesa.ucmerced.edu/news-0</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://condesa.ucmerced.edu/sees-incubator-2026</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://condesa.ucmerced.edu/sites/condesa.ucmerced.edu/files/documents/martinez_final_poster_1.png</loc>
-    <lastmod>2024-11-06</lastmod>
+    <loc>https://condesa.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://condesa.ucmerced.edu/sites/condesa.ucmerced.edu/files/documents/course_flyer.pdf</loc>
-    <lastmod>2022-09-01</lastmod>
+    <loc>https://condesa.ucmerced.edu/people/cohort-3</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://condesa.ucmerced.edu/sites/condesa.ucmerced.edu/files/documents/group_1.pdf</loc>
-    <lastmod>2022-09-08</lastmod>
+    <loc>https://condesa.ucmerced.edu/people/cohort-2</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://condesa.ucmerced.edu/sites/condesa.ucmerced.edu/files/documents/group_2.pdf</loc>
-    <lastmod>2022-09-08</lastmod>
+    <loc>https://condesa.ucmerced.edu/people/cohort-4</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://condesa.ucmerced.edu/sites/condesa.ucmerced.edu/files/documents/group_3.pdf</loc>
-    <lastmod>2022-09-08</lastmod>
+    <loc>https://condesa.ucmerced.edu/people/cohort-5</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://condesa.ucmerced.edu/sites/condesa.ucmerced.edu/files/documents/sees_2025_agenda_1.pdf</loc>
-    <lastmod>2025-01-11</lastmod>
+    <loc>https://condesa.ucmerced.edu/program-overview</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://condesa.ucmerced.edu/program-overview/research-core-1</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://condesa.ucmerced.edu/program-overview/sees-incubator</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://condesa.ucmerced.edu/sites/condesa.ucmerced.edu/files/documents/agenda_matfront.jpg</loc>
+    <lastmod>2024-05-30</lastmod>
+  </url>
+  <url>
+    <loc>https://condesa.ucmerced.edu/sites/condesa.ucmerced.edu/files/documents/matfront_poster.jpg</loc>
+    <lastmod>2024-04-11</lastmod>
+  </url>
+  <url>
+    <loc>https://condesa.ucmerced.edu/sites/condesa.ucmerced.edu/files/documents/nsf_nrt_-_condesa_call_cohort_5.pdf</loc>
+    <lastmod>2025-03-05</lastmod>
+  </url>
+  <url>
+    <loc>https://condesa.ucmerced.edu/sites/condesa.ucmerced.edu/files/documents/condesa_2025_info_session.pdf</loc>
+    <lastmod>2025-01-27</lastmod>
   </url>
   <url>
     <loc>https://condesa.ucmerced.edu/sites/condesa.ucmerced.edu/files/documents/martinez_final_poster.jpeg</loc>
@@ -140,23 +132,23 @@
     <lastmod>2025-02-18</lastmod>
   </url>
   <url>
-    <loc>https://condesa.ucmerced.edu/sites/condesa.ucmerced.edu/files/documents/agenda_matfront.jpg</loc>
-    <lastmod>2024-05-30</lastmod>
-  </url>
-  <url>
-    <loc>https://condesa.ucmerced.edu/sites/condesa.ucmerced.edu/files/documents/matfront_poster.jpg</loc>
-    <lastmod>2024-04-11</lastmod>
-  </url>
-  <url>
-    <loc>https://condesa.ucmerced.edu/sites/condesa.ucmerced.edu/files/documents/condesa_2025_info_session.pdf</loc>
-    <lastmod>2025-01-27</lastmod>
-  </url>
-  <url>
-    <loc>https://condesa.ucmerced.edu/sites/condesa.ucmerced.edu/files/documents/nsf_nrt_-_condesa_call_cohort_5.pdf</loc>
-    <lastmod>2025-03-05</lastmod>
-  </url>
-  <url>
     <loc>https://condesa.ucmerced.edu/sites/g/files/ufvvjh666/f/documents/sees_incubator_2026_1.png</loc>
     <lastmod>2025-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://condesa.ucmerced.edu/sites/condesa.ucmerced.edu/files/documents/course_flyer.pdf</loc>
+    <lastmod>2022-09-01</lastmod>
+  </url>
+  <url>
+    <loc>https://condesa.ucmerced.edu/sites/condesa.ucmerced.edu/files/documents/martinez_final_poster_1.png</loc>
+    <lastmod>2024-11-06</lastmod>
+  </url>
+  <url>
+    <loc>https://condesa.ucmerced.edu/sites/condesa.ucmerced.edu/files/documents/group_3.pdf</loc>
+    <lastmod>2022-09-08</lastmod>
+  </url>
+  <url>
+    <loc>https://condesa.ucmerced.edu/sites/condesa.ucmerced.edu/files/documents/group_1.pdf</loc>
+    <lastmod>2022-09-08</lastmod>
   </url>
 </urlset>

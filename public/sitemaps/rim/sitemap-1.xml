@@ -9,10 +9,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://rim.ucmerced.edu/public-records/what-do-if-your-department-receives-request-records</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://rim.ucmerced.edu/public-records/how-make-request-records</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -21,15 +17,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://rim.ucmerced.edu/public-records/what-do-if-your-department-receives-request-records</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://rim.ucmerced.edu/public-records/faculty-faq-public-records-requests</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://rim.ucmerced.edu/public-records/guidelines-access-uc-merced-public-records</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://rim.ucmerced.edu/public-records/public-records-policies-and-resources</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -41,10 +33,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://rim.ucmerced.edu/privacy/privacy-resources</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://rim.ucmerced.edu/services</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -53,11 +41,43 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://rim.ucmerced.edu/privacy/data-privacy-fliers</loc>
+    <loc>https://rim.ucmerced.edu/policies-and-procedures</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://rim.ucmerced.edu/policies-and-procedures</loc>
+    <loc>https://rim.ucmerced.edu/about-us-0</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://rim.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://rim.ucmerced.edu/training-materials</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://rim.ucmerced.edu/about-us/staff</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://rim.ucmerced.edu/contact-us</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://rim.ucmerced.edu/public-records/guidelines-access-uc-merced-public-records</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://rim.ucmerced.edu/public-records/public-records-policies-and-resources</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://rim.ucmerced.edu/privacy/privacy-resources</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://rim.ucmerced.edu/privacy/data-privacy-fliers</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -69,31 +89,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://rim.ucmerced.edu/resources/3-electronic-information-security</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://rim.ucmerced.edu/resources/electronic-message-management</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://rim.ucmerced.edu/training-materials</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://rim.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://rim.ucmerced.edu/about-us/staff</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://rim.ucmerced.edu/about-us-0</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://rim.ucmerced.edu/contact-us</loc>
+    <loc>https://rim.ucmerced.edu/resources/3-electronic-information-security</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
 </urlset>

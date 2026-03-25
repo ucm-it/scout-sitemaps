@@ -9,14 +9,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://finance.ucmerced.edu/about-us/office-hours</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://finance.ucmerced.edu/campus-budget</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://finance.ucmerced.edu/about-us</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -25,15 +17,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://finance.ucmerced.edu/about-us/office-hours</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://finance.ucmerced.edu/campus-budget</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://finance.ucmerced.edu/budget-call</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://finance.ucmerced.edu/operating-budget/budget-augmentation-request-bar</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://finance.ucmerced.edu/operating-budget/workforce-budget-management</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -41,23 +33,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://finance.ucmerced.edu/operating-budget/staffing-reconciliation</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://finance.ucmerced.edu/operating-budget/budget-requests</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://finance.ucmerced.edu/long-range-financial-plan</loc>
+    <loc>https://finance.ucmerced.edu/operating-budget/staffing-reconciliation</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://finance.ucmerced.edu/capital-process</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://finance.ucmerced.edu/capital-planning-links</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -69,10 +53,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://finance.ucmerced.edu/financialstabilization</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://finance.ucmerced.edu/budget-resources</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -81,7 +61,30 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://finance.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://finance.ucmerced.edu/resources/uc-mercedother-links</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://finance.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://finance.ucmerced.edu/operating-budget/budget-augmentation-request-bar</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://finance.ucmerced.edu/operating-budget/workforce-budget-management</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://finance.ucmerced.edu/long-range-financial-plan</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://finance.ucmerced.edu/capital-planning-links</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -89,11 +92,8 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://finance.ucmerced.edu/rss.xml</loc>
+    <loc>https://finance.ucmerced.edu/financialstabilization</loc>
     <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://finance.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://finance.ucmerced.edu/sites/finance.ucmerced.edu/files/page/documents/20-21_basebudget_full_report_2.0_021721_-_gpe_jm_v.2.pdf</loc>
@@ -104,28 +104,24 @@
     <lastmod>2019-07-19</lastmod>
   </url>
   <url>
-    <loc>https://finance.ucmerced.edu/sites/finance.ucmerced.edu/files/documents/fy2018-19_campus_budget.pdf</loc>
-    <lastmod>2018-08-24</lastmod>
-  </url>
-  <url>
     <loc>https://finance.ucmerced.edu/sites/finance.ucmerced.edu/files/page/documents/perm_budget_report_fy_17-18-v1.pdf</loc>
     <lastmod>2018-01-03</lastmod>
-  </url>
-  <url>
-    <loc>https://finance.ucmerced.edu/sites/finance.ucmerced.edu/files/page/images/finalbudget.pdf</loc>
-    <lastmod>2016-08-25</lastmod>
   </url>
   <url>
     <loc>https://finance.ucmerced.edu/sites/finance.ucmerced.edu/files/documents/ucmbudgetenrollment.pdf</loc>
     <lastmod>2018-05-29</lastmod>
   </url>
   <url>
-    <loc>https://finance.ucmerced.edu/sites/g/files/ufvvjh901/f/page/documents/ssf_ucm_report_fy25_final.pdf</loc>
-    <lastmod>2025-12-04</lastmod>
+    <loc>https://finance.ucmerced.edu/sites/finance.ucmerced.edu/files/documents/fy2018-19_campus_budget.pdf</loc>
+    <lastmod>2018-08-24</lastmod>
   </url>
   <url>
-    <loc>https://finance.ucmerced.edu/sites/finance.ucmerced.edu/files/documents/fy24_ssf_ucm_report_updated.pdf</loc>
-    <lastmod>2024-12-10</lastmod>
+    <loc>https://finance.ucmerced.edu/sites/finance.ucmerced.edu/files/page/images/finalbudget.pdf</loc>
+    <lastmod>2016-08-25</lastmod>
+  </url>
+  <url>
+    <loc>https://finance.ucmerced.edu/news/2025/budget-request-guidelines</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://finance.ucmerced.edu/sites/finance.ucmerced.edu/files/page/documents/studentservicesfee_fy2023_112923.pdf</loc>
@@ -144,12 +140,16 @@
     <lastmod>2020-11-30</lastmod>
   </url>
   <url>
-    <loc>https://finance.ucmerced.edu/sites/finance.ucmerced.edu/files/documents/student_services_fee_fund_fy2019_11-1-19.pdf</loc>
-    <lastmod>2019-11-08</lastmod>
+    <loc>https://finance.ucmerced.edu/sites/g/files/ufvvjh901/f/page/documents/ssf_ucm_report_fy25_final.pdf</loc>
+    <lastmod>2025-12-04</lastmod>
   </url>
   <url>
     <loc>https://finance.ucmerced.edu/sites/finance.ucmerced.edu/files/page/documents/2015-16_and_2016-17_student_service_fee.pdf</loc>
     <lastmod>2018-01-04</lastmod>
+  </url>
+  <url>
+    <loc>https://finance.ucmerced.edu/sites/finance.ucmerced.edu/files/documents/fy24_ssf_ucm_report_updated.pdf</loc>
+    <lastmod>2024-12-10</lastmod>
   </url>
   <url>
     <loc>https://finance.ucmerced.edu/news/2026/office-name-update-budget-and-financial-planning</loc>
@@ -160,19 +160,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://finance.ucmerced.edu/news/2025/budget-request-guidelines</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://finance.ucmerced.edu/news/2025/ucmplan-update-fy26-budget-adjustments-and-process-improvements</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://finance.ucmerced.edu/news/2025/fy26-salary-savings-requirements</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://finance.ucmerced.edu/news/2025/mid-year-revenue-reconciliation-and-clean</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -180,63 +168,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://finance.ucmerced.edu/news/2025/ucmplan-update-fy26-budget-adjustments-and-process-improvements</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://finance.ucmerced.edu/news/2025/budget-request-submission-deadline-march-6th</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
+    <loc>https://finance.ucmerced.edu/news/2025/mid-year-revenue-reconciliation-and-clean</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
     <loc>https://finance.ucmerced.edu/news/2024/staffing-reconciliation-and-central-policy</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://finance.ucmerced.edu/news/2024/call-new-rate-based-service-center-interest-submissions</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://finance.ucmerced.edu/news?page=1</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://finance.ucmerced.edu/news/2024/fy25-budget-roll-forward-process-budget-adjustment-freeze</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://finance.ucmerced.edu/news/2024/fy2023-24-ucmplan-budget-request-submission-deadline-extended-82324</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://finance.ucmerced.edu/news/2024/introducing-ucm-plan-enhancement</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://finance.ucmerced.edu/news/2024/ppm-project-carryforward</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://finance.ucmerced.edu/cost-policy-analysis</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://finance.ucmerced.edu/news/2024/enhanced-planning-and-budgeting-module</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://finance.ucmerced.edu/news/2023/updated-stafffaculty-permanent-funding-update-form</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://finance.ucmerced.edu/news/2024/reminder-fy-2023-24-deficit-balance-carryforward</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://finance.ucmerced.edu/news/2023/review-session-ppm-budgeting-processes</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://finance.ucmerced.edu/news/2023/new-look-enhancements-ucmplan</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://finance.ucmerced.edu/news/2022/deadline-extended-budget-augmentation-requests</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
 </urlset>

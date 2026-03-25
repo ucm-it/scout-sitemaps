@@ -13,9 +13,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://uctip.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
     <loc>https://uctip.ucmerced.edu/programs</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -26,6 +23,9 @@
   <url>
     <loc>https://uctip.ucmerced.edu/rss.xml</loc>
     <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://uctip.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>http://uctip.ucmerced.edu/programs</loc>

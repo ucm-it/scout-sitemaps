@@ -4,26 +4,16 @@
     <loc>https://planning.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://planning.ucmerced.edu/</loc>
-  </url>
-  <url>
-    <loc>https://planning.ucmerced.edu/about</loc>
-  </url>
-  <url>
     <loc>https://planning.ucmerced.edu/about/staff</loc>
+  </url>
+  <url>
+    <loc>https://planning.ucmerced.edu/</loc>
   </url>
   <url>
     <loc>https://planning.ucmerced.edu/2020LRDP</loc>
   </url>
   <url>
-    <loc>https://planning.ucmerced.edu/ceqa-environmental-documents</loc>
-  </url>
-  <url>
-    <loc>https://planning.ucmerced.edu/contact-us-0</loc>
-  </url>
-  <url>
-    <loc>https://planning.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-25</lastmod>
+    <loc>https://planning.ucmerced.edu/about</loc>
   </url>
   <url>
     <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/uc_merced_hbs-me_building_nop.pdf</loc>
@@ -32,6 +22,13 @@
   <url>
     <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/physical_design_framework_20221213.pdf</loc>
     <lastmod>2023-04-11</lastmod>
+  </url>
+  <url>
+    <loc>https://planning.ucmerced.edu/contact-us-0</loc>
+  </url>
+  <url>
+    <loc>https://planning.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://planning.ucmerced.edu/contact-us</loc>
@@ -45,23 +42,7 @@
     <lastmod>2020-03-04</lastmod>
   </url>
   <url>
-    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/ucm_lrdp_feir_3-03-20.pdf</loc>
-    <lastmod>2020-03-04</lastmod>
-  </url>
-  <url>
-    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/1_0_intro_0.pdf</loc>
-    <lastmod>2019-12-20</lastmod>
-  </url>
-  <url>
     <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/2_0_executive_summary_0.pdf</loc>
-    <lastmod>2019-12-20</lastmod>
-  </url>
-  <url>
-    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/4_1_aq_0.pdf</loc>
-    <lastmod>2019-12-20</lastmod>
-  </url>
-  <url>
-    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/4_0_env_analysis_0.pdf</loc>
     <lastmod>2019-12-20</lastmod>
   </url>
   <url>
@@ -69,7 +50,23 @@
     <lastmod>2019-12-20</lastmod>
   </url>
   <url>
+    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/4_0_env_analysis_0.pdf</loc>
+    <lastmod>2019-12-20</lastmod>
+  </url>
+  <url>
+    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/4_1_aq_0.pdf</loc>
+    <lastmod>2019-12-20</lastmod>
+  </url>
+  <url>
+    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/ucm_lrdp_feir_3-03-20.pdf</loc>
+    <lastmod>2020-03-04</lastmod>
+  </url>
+  <url>
     <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/4_3_ghg_emissions_0.pdf</loc>
+    <lastmod>2019-12-20</lastmod>
+  </url>
+  <url>
+    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/1_0_intro_0.pdf</loc>
     <lastmod>2019-12-20</lastmod>
   </url>
   <url>
@@ -81,19 +78,15 @@
     <lastmod>2019-12-20</lastmod>
   </url>
   <url>
-    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/4_4_hydro_0.pdf</loc>
-    <lastmod>2019-12-20</lastmod>
-  </url>
-  <url>
     <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/4_6_pop_and_housing_0.pdf</loc>
     <lastmod>2019-12-20</lastmod>
   </url>
   <url>
-    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/4_7_publicservices_0.pdf</loc>
+    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/4_8_transportation.pdf</loc>
     <lastmod>2019-12-20</lastmod>
   </url>
   <url>
-    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/4_9_tcr_0.pdf</loc>
+    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/4_7_publicservices_0.pdf</loc>
     <lastmod>2019-12-20</lastmod>
   </url>
   <url>
@@ -105,15 +98,11 @@
     <lastmod>2019-12-20</lastmod>
   </url>
   <url>
-    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/4_8_transportation.pdf</loc>
+    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/4_4_hydro_0.pdf</loc>
     <lastmod>2019-12-20</lastmod>
   </url>
   <url>
     <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/5_0_alternatives_0.pdf</loc>
-    <lastmod>2019-12-20</lastmod>
-  </url>
-  <url>
-    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/6_0_other_ceqa_0.pdf</loc>
     <lastmod>2019-12-20</lastmod>
   </url>
   <url>
@@ -125,35 +114,27 @@
     <lastmod>2019-12-20</lastmod>
   </url>
   <url>
+    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/6_0_other_ceqa_0.pdf</loc>
+    <lastmod>2019-12-20</lastmod>
+  </url>
+  <url>
     <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/2020_lrdp_seir-legal-ad_9-16-19_-sb_edits_pw_edits_9.13.2019.pdf</loc>
     <lastmod>2019-09-19</lastmod>
-  </url>
-  <url>
-    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/documents/2020_lrdp_seir-legal-ad_10-28-19_v.3_final_-_10.28.2019.pdf</loc>
-    <lastmod>2019-10-28</lastmod>
-  </url>
-  <url>
-    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/documents/nop_-_ucm_2018_lrdp.pdf</loc>
-    <lastmod>2018-04-02</lastmod>
-  </url>
-  <url>
-    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/appendix_4.1_uc_merced_2020_lrdp_caleemod_modeling_output_0.pdf</loc>
-    <lastmod>2019-12-20</lastmod>
-  </url>
-  <url>
-    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/appendix_4.5_uc_merced_2020_lrdp_noise_modeling_results_0.pdf</loc>
-    <lastmod>2019-12-20</lastmod>
   </url>
   <url>
     <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/appendix_1.0_uc_merced_lrdp_nop-is-comments_compiled_0.pdf</loc>
     <lastmod>2019-12-20</lastmod>
   </url>
   <url>
-    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/appendix_4.10_uc_merced_2020_lrdp_water_supply_evaluation_0.pdf</loc>
+    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/appendix_4.1_uc_merced_2020_lrdp_caleemod_modeling_output_0.pdf</loc>
     <lastmod>2019-12-20</lastmod>
   </url>
   <url>
     <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/appendix_4.8_uc_merced_2020_lrdp_transportation_impact_analysis_rev.pdf</loc>
+    <lastmod>2019-12-20</lastmod>
+  </url>
+  <url>
+    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/appendix_4.10_uc_merced_2020_lrdp_water_supply_evaluation_0.pdf</loc>
     <lastmod>2019-12-20</lastmod>
   </url>
   <url>
@@ -169,10 +150,6 @@
     <lastmod>2019-12-23</lastmod>
   </url>
   <url>
-    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/solar_pv_addend_glb_06_15_09.pdf</loc>
-    <lastmod>2019-12-23</lastmod>
-  </url>
-  <url>
     <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/documents/2009_lrdp.pdf</loc>
     <lastmod>2018-03-28</lastmod>
   </url>
@@ -185,32 +162,23 @@
     <lastmod>2018-03-28</lastmod>
   </url>
   <url>
+    <loc>https://planning.ucmerced.edu/ceqa-environmental-documents</loc>
+  </url>
+  <url>
     <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/ucmercedcobiii_addendum_final_20250227.pdf</loc>
     <lastmod>2025-03-01</lastmod>
-  </url>
-  <url>
-    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/addendum_me_building_project_4-28-2023.pdf</loc>
-    <lastmod>2023-05-02</lastmod>
-  </url>
-  <url>
-    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/ucm_meb_addendum_2_10.31.23.pdf</loc>
-    <lastmod>2023-11-07</lastmod>
   </url>
   <url>
     <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/ucm_me_building_feir.pdf</loc>
     <lastmod>2022-11-02</lastmod>
   </url>
   <url>
-    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/notice_of_availability_of_draft_eir_v4_1.pdf</loc>
-    <lastmod>2022-09-19</lastmod>
-  </url>
-  <url>
     <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/uc_merced_me_building_eir_findings.pdf</loc>
     <lastmod>2022-11-02</lastmod>
   </url>
   <url>
-    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/uc_merced_me_building_draft_eir_meeting_09-19-22.pdf</loc>
-    <lastmod>2022-10-12</lastmod>
+    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/notice_of_availability_of_draft_eir_v4_1.pdf</loc>
+    <lastmod>2022-09-19</lastmod>
   </url>
   <url>
     <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/nopspanish_translation_final20210331.pdf</loc>
@@ -237,16 +205,8 @@
     <lastmod>2023-02-08</lastmod>
   </url>
   <url>
-    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/ucm-mcc_housing_initial_study_final_01022025.pdf</loc>
-    <lastmod>2025-01-09</lastmod>
-  </url>
-  <url>
     <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/ucm-mcc_housing_initial_study_dec2022_web_0.pdf</loc>
     <lastmod>2022-12-21</lastmod>
-  </url>
-  <url>
-    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/ucm_esf_findings_october_2022.pdf</loc>
-    <lastmod>2022-10-27</lastmod>
   </url>
   <url>
     <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/page/documents/ucm_smart_farm_eir_addendum_october_2022rev.pdf</loc>
@@ -254,10 +214,6 @@
   </url>
   <url>
     <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/documents/ucm_downtown_bldg_final.pdf</loc>
-    <lastmod>2018-04-06</lastmod>
-  </url>
-  <url>
-    <loc>https://planning.ucmerced.edu/sites/planning.ucmerced.edu/files/documents/ucm_downtown_appendices_a-d.pdf</loc>
     <lastmod>2018-04-06</lastmod>
   </url>
   <url>

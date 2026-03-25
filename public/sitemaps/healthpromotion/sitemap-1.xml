@@ -9,10 +9,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://healthpromotion.ucmerced.edu/about-us</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://healthpromotion.ucmerced.edu/health-topics</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -21,11 +17,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://healthpromotion.ucmerced.edu/rss.xml</loc>
+    <loc>https://healthpromotion.ucmerced.edu/about-us</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://healthpromotion.ucmerced.edu/resources</loc>
+    <loc>https://healthpromotion.ucmerced.edu/rss.xml</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -33,27 +29,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://healthpromotion.ucmerced.edu/alcohol</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://healthpromotion.ucmerced.edu/what-we-do</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://healthpromotion.ucmerced.edu/who-we-are</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://healthpromotion.ucmerced.edu/narcan-and-fentanyl-test-strips</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://healthpromotion.ucmerced.edu/vape</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://healthpromotion.ucmerced.edu/cannabisedu</loc>
+    <loc>https://healthpromotion.ucmerced.edu/resources</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -69,15 +45,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://healthpromotion.ucmerced.edu/wellness-supplies</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://healthpromotion.ucmerced.edu/hot-spots</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://healthpromotion.ucmerced.edu/workshops</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://healthpromotion.ucmerced.edu/wellness-supplies</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -85,7 +57,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://healthpromotion.ucmerced.edu/content/kristin-hlubik</loc>
+    <loc>https://healthpromotion.ucmerced.edu/who-we-are</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://healthpromotion.ucmerced.edu/what-we-do</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -97,7 +73,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://healthpromotion.ucmerced.edu/content/niraly-patel</loc>
+    <loc>https://healthpromotion.ucmerced.edu/content/kristin-hlubik</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
 </urlset>

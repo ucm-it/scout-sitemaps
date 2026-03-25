@@ -22,30 +22,29 @@
     <loc>https://gallo.ucmerced.edu/about/equity-diversity-inclusion</loc>
   </url>
   <url>
-    <loc>https://gallo.ucmerced.edu/gallo-school-initiative</loc>
-  </url>
-  <url>
-    <loc>https://gallo.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
     <loc>https://gallo.ucmerced.edu/news-events/news</loc>
   </url>
   <url>
     <loc>https://gallo.ucmerced.edu/news-events/events</loc>
   </url>
   <url>
-    <loc>https://gallo.ucmerced.edu/resources-0</loc>
+    <loc>https://gallo.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://gallo.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://gallo.ucmerced.edu/gallo-school-initiative</loc>
   </url>
   <url>
     <loc>https://gallo.ucmerced.edu/news-events/division-newsletters</loc>
   </url>
   <url>
-    <loc>https://gallo.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-25</lastmod>
+    <loc>https://gallo.ucmerced.edu/blackstone-speakers</loc>
   </url>
   <url>
-    <loc>https://gallo.ucmerced.edu/sites/gallo.ucmerced.edu/files/page/documents/2023.04.17divco2campussenatefac_galloreview.pdf</loc>
-    <lastmod>2023-04-18</lastmod>
+    <loc>https://gallo.ucmerced.edu/resources-0</loc>
   </url>
   <url>
     <loc>https://gallo.ucmerced.edu/sites/gallo.ucmerced.edu/files/page/documents/ejb_to_ucm_re_gallo_school.pdf</loc>
@@ -72,11 +71,11 @@
     <lastmod>2022-04-20</lastmod>
   </url>
   <url>
-    <loc>https://gallo.ucmerced.edu/sites/gallo.ucmerced.edu/files/page/documents/gallo_school_preproposal_revision_-_final_-_march_1_2022.pdf</loc>
+    <loc>https://gallo.ucmerced.edu/sites/gallo.ucmerced.edu/files/page/documents/gallo_school_response_to_comments_-_final_-_march_1_2022.pdf</loc>
     <lastmod>2022-04-20</lastmod>
   </url>
   <url>
-    <loc>https://gallo.ucmerced.edu/sites/gallo.ucmerced.edu/files/page/documents/gallo_school_response_to_comments_-_final_-_march_1_2022.pdf</loc>
+    <loc>https://gallo.ucmerced.edu/sites/gallo.ucmerced.edu/files/page/documents/gallo_school_preproposal_revision_-_final_-_march_1_2022.pdf</loc>
     <lastmod>2022-04-20</lastmod>
   </url>
   <url>
@@ -84,34 +83,22 @@
     <lastmod>2023-06-06</lastmod>
   </url>
   <url>
-    <loc>https://gallo.ucmerced.edu/node/241</loc>
-  </url>
-  <url>
     <loc>https://gallo.ucmerced.edu/sites/gallo.ucmerced.edu/files/page/documents/ba-dsa_major_proposal_2023-1-12.pdf</loc>
     <lastmod>2023-02-02</lastmod>
-  </url>
-  <url>
-    <loc>https://gallo.ucmerced.edu/sites/gallo.ucmerced.edu/files/page/documents/mdsa_responseletter_final.pdf</loc>
-    <lastmod>2022-09-16</lastmod>
-  </url>
-  <url>
-    <loc>https://gallo.ucmerced.edu/sites/gallo.ucmerced.edu/files/page/documents/revised_data_science_self-supporting_program_proposal_-_final.pdf</loc>
-    <lastmod>2022-09-16</lastmod>
   </url>
   <url>
     <loc>https://gallo.ucmerced.edu/sites/gallo.ucmerced.edu/files/page/documents/gallo_facutly_meeting_-_feb_10_2023_v3.pdf</loc>
     <lastmod>2023-02-15</lastmod>
   </url>
   <url>
-    <loc>https://gallo.ucmerced.edu/sites/gallo.ucmerced.edu/files/page/documents/faculty-retreat-presentation_20230210_v5.pdf</loc>
-    <lastmod>2023-02-15</lastmod>
-  </url>
-  <url>
-    <loc>https://gallo.ucmerced.edu/sites/gallo.ucmerced.edu/files/page/documents/update_on_the_future_gallo_school.pdf</loc>
-    <lastmod>2021-09-15</lastmod>
-  </url>
-  <url>
     <loc>https://gallo.ucmerced.edu/gallo-school-preproposal-faq</loc>
+  </url>
+  <url>
+    <loc>https://gallo.ucmerced.edu/preliminary-response-notes</loc>
+  </url>
+  <url>
+    <loc>https://gallo.ucmerced.edu/sites/gallo.ucmerced.edu/files/page/documents/syed_-bio.pdf</loc>
+    <lastmod>2020-09-09</lastmod>
   </url>
   <url>
     <loc>https://gallo.ucmerced.edu/sites/gallo.ucmerced.edu/files/page/images/new-faculty-orientation-2020.png</loc>
@@ -124,16 +111,6 @@
   <url>
     <loc>https://gallo.ucmerced.edu/sites/gallo.ucmerced.edu/files/page/images/path-tenure.png</loc>
     <lastmod>2020-07-18</lastmod>
-  </url>
-  <url>
-    <loc>https://gallo.ucmerced.edu/blackstone-speakers</loc>
-  </url>
-  <url>
-    <loc>https://gallo.ucmerced.edu/preliminary-response-notes</loc>
-  </url>
-  <url>
-    <loc>https://gallo.ucmerced.edu/sites/gallo.ucmerced.edu/files/page/documents/syed_-bio.pdf</loc>
-    <lastmod>2020-09-09</lastmod>
   </url>
   <url>
     <loc>https://gallo.ucmerced.edu/node/131</loc>

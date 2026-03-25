@@ -4,22 +4,22 @@
     <loc>https://scif.ucmerced.edu</loc>
   </url>
   <url>
+    <loc>https://scif.ucmerced.edu/</loc>
+  </url>
+  <url>
     <loc>https://scif.ucmerced.edu/about-scif</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/node/15</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/</loc>
+    <loc>https://scif.ucmerced.edu/instruments-and-services</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/about-scif/staff-and-advisory-committee</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/instruments-and-services</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/161</loc>
+    <loc>https://scif.ucmerced.edu/node/9</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/rates</loc>
@@ -28,7 +28,7 @@
     <loc>https://scif.ucmerced.edu/policies-sops</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/node/9</loc>
+    <loc>https://scif.ucmerced.edu/node/161</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/access-training</loc>
@@ -37,13 +37,17 @@
     <loc>https://scif.ucmerced.edu/video-tutorials</loc>
   </url>
   <url>
+    <loc>https://scif.ucmerced.edu/node/121</loc>
+  </url>
+  <url>
     <loc>https://scif.ucmerced.edu/access-training/ilab</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/node/81</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/node/121</loc>
+    <loc>https://scif.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/news-0</loc>
@@ -52,71 +56,25 @@
     <loc>https://scif.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/441</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/451</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/32</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/33</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/7</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/91</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/331</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/501</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/391</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/341</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/25</loc>
-  </url>
-  <url>
     <loc>https://scif.ucmerced.edu/node/171</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/401</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/411</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/521</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/221</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/516</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/191</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/node/181</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/node/231</loc>
+    <loc>https://scif.ucmerced.edu/node/221</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/node/251</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/node/516</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/node/521</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/node/191</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/node/211</loc>
@@ -125,28 +83,19 @@
     <loc>https://scif.ucmerced.edu/node/281</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/node/271</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/291</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/511</loc>
-  </url>
-  <url>
     <loc>https://scif.ucmerced.edu/node/201</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/381</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/node/301</loc>
   </url>
   <url>
+    <loc>https://scif.ucmerced.edu/node/511</loc>
+  </url>
+  <url>
     <loc>https://scif.ucmerced.edu/node/361</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/node/371</loc>
+    <loc>https://scif.ucmerced.edu/node/381</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/node/351</loc>
@@ -158,66 +107,46 @@
     <loc>https://scif.ucmerced.edu/node/546</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/sites/imf.ucmerced.edu/files/page/documents/ilab_uc_merced_registration_manual.pdf</loc>
-    <lastmod>2020-01-23</lastmod>
+    <loc>https://scif.ucmerced.edu/node/341</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/node/391</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/node/25</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/node/401</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/node/32</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/node/7</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/node/91</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/node/33</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/node/501</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/node/311</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/node/321</loc>
-  </url>
-  <url>
     <loc>https://scif.ucmerced.edu/node/421</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/ze5_-_21_color_panel_voltages_and_spillover.pdf</loc>
-    <lastmod>2020-11-03</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/2020_scif_annual_report.pdf</loc>
-    <lastmod>2020-06-24</lastmod>
-  </url>
-  <url>
     <loc>https://scif.ucmerced.edu/node/431</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/scif_rm2135_microtome_sop_v1.pdf</loc>
-    <lastmod>2023-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/ze5_configuration_fluorofinder.pdf</loc>
-    <lastmod>2020-06-25</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/lsr_configuration_updated_03_2014_dg.pdf</loc>
-    <lastmod>2018-09-13</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/aria3config.pdf</loc>
-    <lastmod>2018-09-13</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/aria_ii_fluorochrome_guide.pdf</loc>
-    <lastmod>2018-09-13</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/101</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/node/61</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/node/27</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/111</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/policies-sops/flow-cytometrysorting-policy</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/policies-sops/cleanroom-policy</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/nxq4006_operation_manual_panasonic_display_reduced.pdf</loc>
@@ -228,39 +157,16 @@
     <lastmod>2026-03-19</lastmod>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/uc_merced_pl_sop.pdf</loc>
-    <lastmod>2026-03-20</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/the_nxq4006_micrometer_stage.pdf</loc>
-    <lastmod>2026-03-19</lastmod>
-  </url>
-  <url>
     <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/ezi_manual_pl600-400.pdf</loc>
     <lastmod>2026-03-19</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/526</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/page/documents/kam-su-8-2-25-datasheet-9.3.20-final.pdf</loc>
-    <lastmod>2023-03-16</lastmod>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/page/documents/s1800.pdf</loc>
     <lastmod>2023-03-16</lastmod>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/page/documents/kam-su-8-50-100-datasheet-9.3.20-final.pdf</loc>
+    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/page/documents/kam-su-8-2-25-datasheet-9.3.20-final.pdf</loc>
     <lastmod>2023-03-16</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/micron-fabrication-intro-to-photolithography-presentation.pdf</loc>
-    <lastmod>2026-03-19</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/photolithography_graphical_material_v4.pdf</loc>
-    <lastmod>2026-03-19</lastmod>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/photolithography_option_a_solvent_1.pdf</loc>
@@ -271,17 +177,37 @@
     <lastmod>2026-03-19</lastmod>
   </url>
   <url>
+    <loc>https://scif.ucmerced.edu/node/536</loc>
+  </url>
+  <url>
     <loc>https://scif.ucmerced.edu/node/531</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/photolithography_expectation.pdf</loc>
+    <lastmod>2026-03-19</lastmod>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/node/541</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/node/17</loc>
+    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/cv-6slx_user_manual_rev._c.pdf</loc>
+    <lastmod>2026-03-24</lastmod>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/photolithography_expectation.pdf</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/ebc_manual_revision_h.pdf</loc>
+    <lastmod>2026-03-24</lastmod>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/hrs050_operation_manual.pdf</loc>
+    <lastmod>2026-03-24</lastmod>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/uc_merced_ebeam_sop_v3_include_automation.pdf</loc>
+    <lastmod>2026-03-24</lastmod>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/sop_3d_profilometer_1.pdf</loc>
+    <lastmod>2026-03-20</lastmod>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/hb16-hb10_user_manual_-linux_v1_aug2025.pdf</loc>
@@ -292,78 +218,19 @@
     <lastmod>2026-03-20</lastmod>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/sop_dektakxt_profilometer.pdf</loc>
-    <lastmod>2026-03-20</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/sop_3d_profilometer_1.pdf</loc>
-    <lastmod>2026-03-20</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/page/documents/dektakxt_user_manual.pdf</loc>
-    <lastmod>2023-03-16</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/536</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/sop_fib.pdf</loc>
-    <lastmod>2026-03-20</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/980-510_dektakpro_user_manual.pdf</loc>
-    <lastmod>2025-07-15</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/074-550-p1a_sqc-310_om.pdf</loc>
-    <lastmod>2026-03-05</lastmod>
-  </url>
-  <url>
     <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/page/documents/bioimaging_on_tumblr.pdf</loc>
     <lastmod>2023-04-04</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/cv-6slx_user_manual_rev._c.pdf</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/hrs050_operation_manual.pdf</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/page/documents/atc_and_atc_orion_manual_-_july_2020_-_ce.pdf</loc>
-    <lastmod>2023-03-16</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/uc_merced_ebeam_sop_v3_include_automation.pdf</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/ebc_manual_revision_h.pdf</loc>
-    <lastmod>2026-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/sop_afm.pdf</loc>
-    <lastmod>2026-03-20</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/sop_sputtering_0.pdf</loc>
-    <lastmod>2026-03-20</lastmod>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/page/documents/vtc-1rf.pdf</loc>
     <lastmod>2023-04-04</lastmod>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/page/documents/solver_next_instruction_manual_px_en.pdf</loc>
-    <lastmod>2023-03-16</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/sop_bachur.pdf</loc>
+    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/sop_sputtering_0.pdf</loc>
     <lastmod>2026-03-20</lastmod>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/sop_glow_plasma_cleaner.pdf</loc>
+    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/sop_ald.pdf</loc>
     <lastmod>2026-03-20</lastmod>
   </url>
   <url>
@@ -375,6 +242,10 @@
     <lastmod>2024-06-03</lastmod>
   </url>
   <url>
+    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/sop_glow_plasma_cleaner.pdf</loc>
+    <lastmod>2026-03-20</lastmod>
+  </url>
+  <url>
     <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/spin_coater.pdf</loc>
     <lastmod>2026-03-18</lastmod>
   </url>
@@ -383,39 +254,32 @@
     <lastmod>2026-03-20</lastmod>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/sop_ald.pdf</loc>
-    <lastmod>2026-03-20</lastmod>
+    <loc>https://scif.ucmerced.edu/policies-sops/cleanroom-policy</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/scif_cleanroom_safety_training_parveen_kumar_0.pdf</loc>
-    <lastmod>2025-06-21</lastmod>
+    <loc>https://scif.ucmerced.edu/node/526</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/scif_cleanroom_orientation_test_0.pdf</loc>
-    <lastmod>2025-06-21</lastmod>
+    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/ze5_configuration_fluorofinder.pdf</loc>
+    <lastmod>2020-06-25</lastmod>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/page/documents/scif_cytometer_training_policy.pdf</loc>
-    <lastmod>2018-10-25</lastmod>
+    <loc>https://scif.ucmerced.edu/node/101</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/node/576</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/561</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/556</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/571</loc>
+    <loc>https://scif.ucmerced.edu/node/111</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/bl-ucm-24_v3.pdf</loc>
     <lastmod>2024-03-25</lastmod>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/node/551</loc>
+    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/scif_rm2135_microtome_sop_v1.pdf</loc>
+    <lastmod>2023-10-16</lastmod>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/page/documents/scif_cytometer_training_policy.pdf</loc>
+    <lastmod>2018-10-25</lastmod>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/cg-bdb2024-90807-univcalifmerced-gravano-.pdf</loc>
@@ -428,46 +292,10 @@
     <loc>https://scif.ucmerced.edu/node/29</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/node/566</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/scif_cytometer_training_policy.pdf</loc>
-    <lastmod>2018-09-13</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/sop_uc_merced_scif_facsdiva_data_management.pdf</loc>
-    <lastmod>2021-02-13</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/sop_uc_merced_scif_bd_facs_aria_setup.pdf</loc>
-    <lastmod>2021-02-13</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/sop_uc_merced_scif_bsl2_facsaria_sort.pdf</loc>
-    <lastmod>2021-02-13</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/sop_biorad_ze5_1-28-21.pdf</loc>
-    <lastmod>2021-02-13</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/sop_uc_merced_scif_cytometer_standardization_beads.pdf</loc>
-    <lastmod>2021-02-13</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/sop_for_bsl2_samples_lsr2.pdf</loc>
-    <lastmod>2018-09-13</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/sop_cleaning_lsr2.pdf</loc>
-    <lastmod>2018-09-13</lastmod>
+    <loc>https://scif.ucmerced.edu/node/30</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/node/31</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/quintel_mask_aligner_sop.pdf</loc>
-    <lastmod>2018-10-16</lastmod>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/profilometer_sop.pdf</loc>
@@ -478,6 +306,7 @@
     <lastmod>2018-10-16</lastmod>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/node/30</loc>
+    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/quintel_mask_aligner_sop.pdf</loc>
+    <lastmod>2018-10-16</lastmod>
   </url>
 </urlset>

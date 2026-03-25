@@ -13,29 +13,29 @@
     <loc>https://sfac.ucmerced.edu/past-sfac-allocations</loc>
   </url>
   <url>
-    <loc>https://sfac.ucmerced.edu/node/61</loc>
+    <loc>https://sfac.ucmerced.edu/node/71</loc>
   </url>
   <url>
-    <loc>https://sfac.ucmerced.edu/node/71</loc>
+    <loc>https://sfac.ucmerced.edu/node/61</loc>
   </url>
   <url>
     <loc>https://sfac.ucmerced.edu/node/91</loc>
   </url>
   <url>
-    <loc>https://sfac.ucmerced.edu/uc-system-wide-resources</loc>
-  </url>
-  <url>
     <loc>https://sfac.ucmerced.edu/expenditures-ssf-departments</loc>
-  </url>
-  <url>
-    <loc>https://sfac.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://sfac.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://sfac.ucmerced.edu/uc-system-wide-resources</loc>
+  </url>
+  <url>
     <loc>https://sfac.ucmerced.edu/node/101</loc>
+  </url>
+  <url>
+    <loc>https://sfac.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/student_services_fee_report_fy2018_11.30.18_0.pdf</loc>
@@ -58,27 +58,19 @@
     <lastmod>2019-02-07</lastmod>
   </url>
   <url>
-    <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/career_services.pdf</loc>
-    <lastmod>2019-02-24</lastmod>
+    <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/students_first_center.pdf</loc>
+    <lastmod>2019-03-18</lastmod>
   </url>
   <url>
     <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/recreation.pdf</loc>
     <lastmod>2019-03-18</lastmod>
   </url>
   <url>
-    <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/students_first_center.pdf</loc>
-    <lastmod>2019-03-18</lastmod>
-  </url>
-  <url>
-    <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/health_center.pdf</loc>
-    <lastmod>2019-04-01</lastmod>
+    <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/career_services.pdf</loc>
+    <lastmod>2019-02-24</lastmod>
   </url>
   <url>
     <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/counseling_services.pdf</loc>
-    <lastmod>2019-04-01</lastmod>
-  </url>
-  <url>
-    <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/international_programs.pdf</loc>
     <lastmod>2019-04-01</lastmod>
   </url>
   <url>
@@ -86,11 +78,19 @@
     <lastmod>2019-04-01</lastmod>
   </url>
   <url>
-    <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/information_technology_services.pdf</loc>
-    <lastmod>2019-04-08</lastmod>
+    <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/health_center.pdf</loc>
+    <lastmod>2019-04-01</lastmod>
+  </url>
+  <url>
+    <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/international_programs.pdf</loc>
+    <lastmod>2019-04-01</lastmod>
   </url>
   <url>
     <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/student_life.pdf</loc>
+    <lastmod>2019-04-08</lastmod>
+  </url>
+  <url>
+    <loc>https://sfac.ucmerced.edu/sites/sfac.ucmerced.edu/files/page/documents/information_technology_services.pdf</loc>
     <lastmod>2019-04-08</lastmod>
   </url>
   <url>

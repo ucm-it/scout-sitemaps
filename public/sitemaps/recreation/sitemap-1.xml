@@ -7,16 +7,16 @@
     <loc>https://recreation.ucmerced.edu/Facility-Hours</loc>
   </url>
   <url>
-    <loc>https://recreation.ucmerced.edu/Facilities</loc>
-  </url>
-  <url>
     <loc>https://recreation.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://recreation.ucmerced.edu/Facilities/usage-policies</loc>
+    <loc>https://recreation.ucmerced.edu/Facilities</loc>
   </url>
   <url>
     <loc>https://recreation.ucmerced.edu/OEP</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/Facilities/usage-policies</loc>
   </url>
   <url>
     <loc>https://recreation.ucmerced.edu/OEP/Calendar</loc>
@@ -25,35 +25,13 @@
     <loc>https://recreation.ucmerced.edu/about-us</loc>
   </url>
   <url>
-    <loc>https://recreation.ucmerced.edu/OEP/Outdoor-Equipment-Rental</loc>
-  </url>
-  <url>
     <loc>https://recreation.ucmerced.edu/student-employment</loc>
   </url>
   <url>
-    <loc>https://recreation.ucmerced.edu/contact-us-0</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/staff</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/facilities/recreation-fields</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/Intramural-Sports</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/aquatics</loc>
+    <loc>https://recreation.ucmerced.edu/Reservations</loc>
   </url>
   <url>
     <loc>https://recreation.ucmerced.edu/sport-clubs</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/Reservations</loc>
   </url>
   <url>
     <loc>https://recreation.ucmerced.edu/equipment-request-form</loc>
@@ -65,61 +43,308 @@
     <loc>https://recreation.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://recreation.ucmerced.edu/facilities/aquatics-center</loc>
+    <loc>https://recreation.ucmerced.edu/OEP/Outdoor-Equipment-Rental</loc>
   </url>
   <url>
-    <loc>https://recreation.ucmerced.edu/facilities/bobcat-field</loc>
+    <loc>https://recreation.ucmerced.edu/facilities/aquatics-center</loc>
   </url>
   <url>
     <loc>https://recreation.ucmerced.edu/Gallo</loc>
   </url>
   <url>
+    <loc>https://recreation.ucmerced.edu/contact-us-0</loc>
+  </url>
+  <url>
     <loc>https://recreation.ucmerced.edu/Gallo/facility-desciptions</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/facilities/bobcat-field</loc>
   </url>
   <url>
     <loc>https://recreation.ucmerced.edu/facilities/outdoor-basketball-courts</loc>
   </url>
   <url>
-    <loc>https://recreation.ucmerced.edu/SAAC</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/SAAC/facility-descriptions</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/Facilities/Priority-Matrix</loc>
+    <loc>https://recreation.ucmerced.edu/facilities/recreation-fields</loc>
   </url>
   <url>
     <loc>https://recreation.ucmerced.edu/facilities/tennis-courts</loc>
   </url>
   <url>
+    <loc>https://recreation.ucmerced.edu/SAAC/facility-descriptions</loc>
+  </url>
+  <url>
     <loc>https://recreation.ucmerced.edu/Facilities/merced-2020-project</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/Facilities/Priority-Matrix</loc>
   </url>
   <url>
     <loc>https://recreation.ucmerced.edu/reservations/SAAC-Room-Layouts</loc>
   </url>
   <url>
-    <loc>https://recreation.ucmerced.edu/bicycle-open-wrench</loc>
+    <loc>https://recreation.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://recreation.ucmerced.edu/OEP/outdoor-adventures</loc>
+    <loc>https://recreation.ucmerced.edu/aquatics</loc>
   </url>
   <url>
     <loc>https://recreation.ucmerced.edu/OEP/workshops</loc>
   </url>
   <url>
-    <loc>http://recreation.ucmerced.edu/OEP/Calendar</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/OEP/wow</loc>
+    <loc>https://recreation.ucmerced.edu/bicycle-open-wrench</loc>
   </url>
   <url>
     <loc>https://recreation.ucmerced.edu/kayak-rental-program</loc>
   </url>
   <url>
-    <loc>https://recreation.ucmerced.edu/oep/contacts</loc>
+    <loc>http://recreation.ucmerced.edu/OEP/Calendar</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/OEP/outdoor-adventures</loc>
   </url>
   <url>
     <loc>https://recreation.ucmerced.edu/OEP/Outdoor-resources</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/oep/contacts</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/OEP/wow</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/new_sport_club_application_1.pdf</loc>
+    <lastmod>2019-09-19</lastmod>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sport-clubs/teams</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sport-club/forms</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sport-clubs/contacts</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/memberships/membership-rates</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/staff</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/SAAC</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/gallo_saac_recration_center_usage_policies.pdf</loc>
+    <lastmod>2019-07-17</lastmod>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/lecture_layout_20_tables_40_chairs.pdf</loc>
+    <lastmod>2019-09-06</lastmod>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/node/1</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/aquatics/contacts</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/Facility-Hours</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/OEP</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/about-us</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/contact-us-0</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/OEP/workshops</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/kayak-rental-program</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/OEP/outdoor-adventures</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/OEP/Outdoor-resources</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sport-clubs/archery</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/oep/contacts</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sport-clubs/dance</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sport-clubs/tennis</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sport-clubs/cheer</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sport-club/athletic-training</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/sport_club_manual_19-20_0.pdf</loc>
+    <lastmod>2020-02-01</lastmod>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/sport_club_roster_form_21-22.pdf</loc>
+    <lastmod>2021-08-05</lastmod>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/officer_cheet_sheet.pdf</loc>
+    <lastmod>2021-12-01</lastmod>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/sport_club_eligibility_form.pdf</loc>
+    <lastmod>2019-08-13</lastmod>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/team_contact_form.pdf</loc>
+    <lastmod>2019-09-19</lastmod>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/team_event_schedule.pdf</loc>
+    <lastmod>2019-09-19</lastmod>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/arms_instructions_sc.pdf</loc>
+    <lastmod>2018-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/driving_policies_and_procedures_drivers_agreement_and_pre-driving_checklist_1.pdf</loc>
+    <lastmod>2018-01-12</lastmod>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/volunteer_coach_application.pdf</loc>
+    <lastmod>2019-11-27</lastmod>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/community_service_form_ud.pdf</loc>
+    <lastmod>2020-02-13</lastmod>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/gallo_saac_recration_center_usage_policies_0.pdf</loc>
+    <lastmod>2019-07-17</lastmod>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/new_sport_club_application_0.pdf</loc>
+    <lastmod>2019-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/FAQ</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/aquatics/memberships</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/aquatics/FAQs</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/Facilities</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/OEP/Outdoor-Equipment-Rental</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/student-employment</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/staff</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/Intramural-Sports</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/facilities/aquatics-center</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/facilities/bobcat-field</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/Gallo</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/Gallo/facility-desciptions</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/facilities/outdoor-basketball-courts</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/facilities/recreation-fields</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/SAAC</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/facilities/tennis-courts</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/Facilities/Priority-Matrix</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/Reservations</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/reservations/SAAC-Room-Layouts</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/equipment-request-form</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/bicycle-open-wrench</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/Facilities/merced-2020-project</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/SAAC/facility-descriptions</loc>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/OEP/wow</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sport-clubs/softball</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/new_participant_packet_21-22.pdf</loc>
+    <lastmod>2021-08-04</lastmod>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/documents/sport_club_requirement_handout_specific_directions.pdf</loc>
+    <lastmod>2020-09-23</lastmod>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/documents/fusion_-_purchasing_online_membership_facstaffaffiliate.pdf</loc>
+    <lastmod>2020-10-05</lastmod>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/fusion_-_creating_community_account.pdf</loc>
+    <lastmod>2022-01-06</lastmod>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/documents/fusion_-_purchasing_online_membership_community.pdf</loc>
+    <lastmod>2020-10-05</lastmod>
+  </url>
+  <url>
+    <loc>http://recreation.ucmerced.edu/Facilities/usage-policies</loc>
   </url>
   <url>
     <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/documents/uc_merced_recreation_athletics_internship_opportunities_2.pdf</loc>
@@ -135,49 +360,6 @@
     <loc>https://recreation.ucmerced.edu/intramural-sports/who-can-play</loc>
   </url>
   <url>
-    <loc>https://recreation.ucmerced.edu/aquatics/FAQs</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/aquatics/contacts</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/aquatics/memberships</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/new_sport_club_application_1.pdf</loc>
-    <lastmod>2019-09-19</lastmod>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sport-club/athletic-training</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sport-clubs/teams</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/memberships/membership-rates</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sport-club/forms</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sport-clubs/contacts</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/gallo_saac_recration_center_usage_policies.pdf</loc>
-    <lastmod>2019-07-17</lastmod>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/gallo_saac_recration_center_usage_policies_0.pdf</loc>
-    <lastmod>2019-07-17</lastmod>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/node/1</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/lecture_layout_20_tables_40_chairs.pdf</loc>
-    <lastmod>2019-09-06</lastmod>
-  </url>
-  <url>
     <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/u_shape_-_10_tables_40_chairs.pdf</loc>
     <lastmod>2018-08-11</lastmod>
   </url>
@@ -186,189 +368,7 @@
     <lastmod>2019-09-06</lastmod>
   </url>
   <url>
-    <loc>http://recreation.ucmerced.edu/</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/Facilities</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/Facilities/usage-policies</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/OEP/Outdoor-Equipment-Rental</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/Facility-Hours</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/about-us</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/OEP</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/student-employment</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/contact-us-0</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/staff</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/OEP/workshops</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/OEP/outdoor-adventures</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/kayak-rental-program</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/OEP/Outdoor-resources</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/bicycle-open-wrench</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/OEP/wow</loc>
-  </url>
-  <url>
     <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/intramural_policy_and_procedures_19-20_0.pdf</loc>
     <lastmod>2022-04-07</lastmod>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/oep/contacts</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/documents/fusion_-_purchasing_online_membership_facstaffaffiliate.pdf</loc>
-    <lastmod>2020-10-05</lastmod>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/fusion_-_creating_community_account.pdf</loc>
-    <lastmod>2022-01-06</lastmod>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/documents/fusion_-_purchasing_online_membership_community.pdf</loc>
-    <lastmod>2020-10-05</lastmod>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/new_participant_packet_21-22.pdf</loc>
-    <lastmod>2021-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/documents/sport_club_requirement_handout_specific_directions.pdf</loc>
-    <lastmod>2020-09-23</lastmod>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sport-clubs/archery</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sport-clubs/cheer</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sport-clubs/tennis</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/sport_club_manual_19-20_0.pdf</loc>
-    <lastmod>2020-02-01</lastmod>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/officer_cheet_sheet.pdf</loc>
-    <lastmod>2021-12-01</lastmod>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/sport_club_roster_form_21-22.pdf</loc>
-    <lastmod>2021-08-05</lastmod>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/sport_club_eligibility_form.pdf</loc>
-    <lastmod>2019-08-13</lastmod>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/team_contact_form.pdf</loc>
-    <lastmod>2019-09-19</lastmod>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/team_event_schedule.pdf</loc>
-    <lastmod>2019-09-19</lastmod>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/community_service_form_ud.pdf</loc>
-    <lastmod>2020-02-13</lastmod>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sport-clubs/softball</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sport-clubs/dance</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/driving_policies_and_procedures_drivers_agreement_and_pre-driving_checklist_1.pdf</loc>
-    <lastmod>2018-01-12</lastmod>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/volunteer_coach_application.pdf</loc>
-    <lastmod>2019-11-27</lastmod>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/arms_instructions_sc.pdf</loc>
-    <lastmod>2018-01-17</lastmod>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/sites/recreation.ucmerced.edu/files/page/documents/new_sport_club_application_0.pdf</loc>
-    <lastmod>2019-07-01</lastmod>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/FAQ</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/facilities/aquatics-center</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/facilities/bobcat-field</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/Gallo</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/Gallo/facility-desciptions</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/facilities/recreation-fields</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/SAAC</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/SAAC/facility-descriptions</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/facilities/tennis-courts</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/Facilities/Priority-Matrix</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/Reservations</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/facilities/outdoor-basketball-courts</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/Facilities/merced-2020-project</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/equipment-request-form</loc>
-  </url>
-  <url>
-    <loc>http://recreation.ucmerced.edu/reservations/SAAC-Room-Layouts</loc>
   </url>
 </urlset>

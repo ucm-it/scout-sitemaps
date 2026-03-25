@@ -10,10 +10,10 @@
     <loc>https://mentoring.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://mentoring.ucmerced.edu/home/mentees/mentee-orientation</loc>
+    <loc>https://mentoring.ucmerced.edu/home/mentees/mentee-calendar</loc>
   </url>
   <url>
-    <loc>https://mentoring.ucmerced.edu/home/mentees/mentee-calendar</loc>
+    <loc>https://mentoring.ucmerced.edu/home/mentees/mentee-orientation</loc>
   </url>
   <url>
     <loc>https://mentoring.ucmerced.edu/home/mentees/links-mentees</loc>
@@ -25,34 +25,10 @@
     <loc>https://mentoring.ucmerced.edu/home/mentees/staying-active</loc>
   </url>
   <url>
-    <loc>https://mentoring.ucmerced.edu/home/mentors</loc>
-  </url>
-  <url>
     <loc>https://mentoring.ucmerced.edu/home/mentors/mentor-resources</loc>
   </url>
   <url>
-    <loc>https://mentoring.ucmerced.edu/home/mentors/smp-handbook</loc>
-  </url>
-  <url>
-    <loc>https://mentoring.ucmerced.edu/Mentors</loc>
-  </url>
-  <url>
     <loc>https://mentoring.ucmerced.edu/About</loc>
-  </url>
-  <url>
-    <loc>https://mentoring.ucmerced.edu/about-us/professional-staff</loc>
-  </url>
-  <url>
-    <loc>https://mentoring.ucmerced.edu/about-us/smp-community-guidelines-23-24</loc>
-  </url>
-  <url>
-    <loc>https://mentoring.ucmerced.edu/History</loc>
-  </url>
-  <url>
-    <loc>https://mentoring.ucmerced.edu/join-smp</loc>
-  </url>
-  <url>
-    <loc>https://mentoring.ucmerced.edu/24-25_Mentee_Application</loc>
   </url>
   <url>
     <loc>https://mentoring.ucmerced.edu/Be_Mentor</loc>
@@ -70,16 +46,40 @@
     <loc>https://mentoring.ucmerced.edu/FAQ</loc>
   </url>
   <url>
+    <loc>https://mentoring.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://mentoring.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://mentoring.ucmerced.edu/home/mentors/smp-handbook</loc>
+  </url>
+  <url>
+    <loc>https://mentoring.ucmerced.edu/Mentors</loc>
+  </url>
+  <url>
+    <loc>https://mentoring.ucmerced.edu/about-us/professional-staff</loc>
+  </url>
+  <url>
+    <loc>https://mentoring.ucmerced.edu/join-smp</loc>
+  </url>
+  <url>
+    <loc>https://mentoring.ucmerced.edu/24-25_Mentee_Application</loc>
+  </url>
+  <url>
+    <loc>https://mentoring.ucmerced.edu/about-us/smp-community-guidelines-23-24</loc>
+  </url>
+  <url>
+    <loc>https://mentoring.ucmerced.edu/History</loc>
+  </url>
+  <url>
     <loc>https://mentoring.ucmerced.edu/past-mentors</loc>
   </url>
   <url>
     <loc>https://mentoring.ucmerced.edu/form/success-mentor-program</loc>
   </url>
   <url>
-    <loc>https://mentoring.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://mentoring.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-25</lastmod>
+    <loc>https://mentoring.ucmerced.edu/home/mentors</loc>
   </url>
 </urlset>

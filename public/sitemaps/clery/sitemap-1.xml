@@ -9,7 +9,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://clery.ucmerced.edu/CSA</loc>
+    <loc>https://clery.ucmerced.edu/campus-security-authorities-csa/csa-responsibilities</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -17,27 +17,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://clery.ucmerced.edu/campus-security-authorities-csa/csa-responsibilities</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://clery.ucmerced.edu/campus-security-authorities-csa/csa-training</loc>
+    <loc>https://clery.ucmerced.edu/CSA</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://clery.ucmerced.edu/campus-security-authorities-csa/csa-identification-supervisors</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://clery.ucmerced.edu/campus-security-authorities-csa/workshops</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://clery.ucmerced.edu/reporting</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://clery.ucmerced.edu/reporting/crime-definitions</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -48,15 +32,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://clery.ucmerced.edu/notifications</loc>
+    <loc>https://clery.ucmerced.edu/reporting/crime-definitions</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://clery.ucmerced.edu/notifications/emergency-notifications</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://clery.ucmerced.edu/annual-security-reports</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -68,10 +48,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://clery.ucmerced.edu/crime-and-fire-log</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://clery.ucmerced.edu/resources</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -80,7 +56,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://clery.ucmerced.edu/news/2024/2024-annual-security-report</loc>
+    <loc>https://clery.ucmerced.edu/news/2023/2023-safety-conference</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -88,11 +64,35 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://clery.ucmerced.edu/news/2023/2023-safety-conference</loc>
+    <loc>https://clery.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://clery.ucmerced.edu/campus-security-authorities-csa/csa-training</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://clery.ucmerced.edu/contact-us</loc>
+    <loc>https://clery.ucmerced.edu/campus-security-authorities-csa/workshops</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://clery.ucmerced.edu/reporting</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://clery.ucmerced.edu/notifications</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://clery.ucmerced.edu/annual-security-reports</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://clery.ucmerced.edu/news/2024/2024-annual-security-report</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://clery.ucmerced.edu/crime-and-fire-log</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://clery.ucmerced.edu/sites/clery.ucmerced.edu/files/images/jeanne_clery_clery_center.jpg</loc>
@@ -105,9 +105,5 @@
   <url>
     <loc>https://clery.ucmerced.edu/sites/clery.ucmerced.edu/files/documents/ucm_2023_asr.pdf</loc>
     <lastmod>2024-09-26</lastmod>
-  </url>
-  <url>
-    <loc>https://clery.ucmerced.edu/sites/clery.ucmerced.edu/files/documents/ucm_2024_asr.pdf</loc>
-    <lastmod>2024-10-15</lastmod>
   </url>
 </urlset>

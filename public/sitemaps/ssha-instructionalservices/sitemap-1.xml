@@ -4,46 +4,34 @@
     <loc>https://ssha-instructionalservices.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/</loc>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/about</loc>
-  </url>
-  <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/start-term-information</loc>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/</loc>
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/student-forms</loc>
   </url>
   <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/about</loc>
+  </url>
+  <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/student-forms/independent-study-form</loc>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/curriculum-support</loc>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/curriculum-support/course-proposals</loc>
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/curriculum-support/course-articulation-support</loc>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/form/course-approval-form</loc>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/curriculum-support</loc>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/curriculum-support/general-catalog-revisions</loc>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/form/course-approval-form</loc>
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/instructional-support</loc>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/curriculum-support/curriculum-committee</loc>
-  </url>
-  <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/form/ssha-past-course-evaluation-request-form</loc>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/instructional-support/course-evaluations</loc>
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/instructional-support/course-scheduling</loc>
@@ -52,40 +40,19 @@
     <loc>https://ssha-instructionalservices.ucmerced.edu/instructional-support/grades</loc>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/instructional-support/scantron-machine-support</loc>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/instructional-support/supporting-student-success</loc>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/new-instructor-orientation/new-instructor-resources</loc>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/new-instructor-orientation</loc>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/new-instructor-orientation/previous-nio-information</loc>
-  </url>
-  <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/new-instructor-orientation/previous-nio-information/fall-2024-new-instructor-orientation</loc>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/new-instructor-orientation/fall-2023-new-instructor-orientation</loc>
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/new-instructor-orientation/previous-nio-information/fall-2022-new-instructor-orientation</loc>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/new-instructor-orientation/previous-nio-information/fall-2021-new-instructor-orientation</loc>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/new-instructor-orientation/fall-2023-new-instructor-orientation</loc>
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/new-instructor-orientation/previous-nio-information/fall-2019-new-instructor-orientation</loc>
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/new-instructor-orientation/previous-nio-information/fall-2020-new-instructor-orientation</loc>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/contact-us-0</loc>
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/rss.xml</loc>
@@ -95,64 +62,35 @@
     <loc>https://ssha-instructionalservices.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/curriculum-support/course-proposals</loc>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/instructional-support/course-evaluations</loc>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/curriculum-support/curriculum-committee</loc>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/curriculum-support/general-catalog-revisions</loc>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/instructional-support/scantron-machine-support</loc>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/instructional-support/supporting-student-success</loc>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/new-instructor-orientation</loc>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/new-instructor-orientation/previous-nio-information/fall-2021-new-instructor-orientation</loc>
+  </url>
+  <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/sites/g/files/ufvvjh2131/f/page/documents/2025-2026_ssha_faculty_points_of_contact_0.pdf</loc>
     <lastmod>2025-08-29</lastmod>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/create_a_proposal_v2.pdf</loc>
-    <lastmod>2021-08-20</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ssha_undergraduate_course_proposal_flow_chart_25-27.pdf</loc>
-    <lastmod>2024-08-27</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/navigating_complex_proposals_in_curriculog.pdf</loc>
-    <lastmod>2021-08-21</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/navigating_curriculog_v2.pdf</loc>
-    <lastmod>2021-08-21</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/making_a_decision_on_a_proposal_v2.pdf</loc>
-    <lastmod>2021-08-21</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/course_proposal_style_guide-v2.pdf</loc>
-    <lastmod>2021-08-21</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/ssha_cc_policies_procedures_spring_2021_revision_05.28.2021.pdf</loc>
-    <lastmod>2021-09-13</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/online_approval_supplement_102820approved11.12.20.docx</loc>
-    <lastmod>2021-09-13</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/ugccoursespolicydecember18_2020_final.pdf</loc>
-    <lastmod>2021-09-13</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ugc_curricular_changes_guide.pdf</loc>
-    <lastmod>2024-09-04</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ssha_process_substantial_catalog_revisions.pdf</loc>
-    <lastmod>2024-09-04</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/dp.pdf</loc>
-    <lastmod>2021-03-30</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/ugc.pdf</loc>
-    <lastmod>2021-03-30</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ssha_process_new_program_proposals_0.pdf</loc>
-    <lastmod>2024-09-04</lastmod>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/contact-us-0</loc>
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/summer_scheduling_grid.pdf</loc>
@@ -163,31 +101,11 @@
     <lastmod>2021-02-11</lastmod>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha.ucmerced.edu/files/page/documents/g._scantron_machines_instructions_01.09.2020.pdf</loc>
-    <lastmod>2020-04-30</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/g/files/ufvvjh2131/f/documents/ssha_new_instructor_handbook_2025-2026_08.20.25.pdf</loc>
-    <lastmod>2025-08-28</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/syllabus_template.pdf</loc>
-    <lastmod>2021-01-29</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/uc_merced_diversity_statement_and_principles_of_community_08.16.19.pdf</loc>
-    <lastmod>2021-01-29</lastmod>
-  </url>
-  <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ssha_new_instructor_handbook_2024-2025.pdf</loc>
     <lastmod>2024-08-20</lastmod>
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ssha_ods_new_instructor_orientation_2024.pdf</loc>
-    <lastmod>2024-08-21</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/2024_ssha_personnel_services_presentation.pdf</loc>
     <lastmod>2024-08-21</lastmod>
   </url>
   <url>
@@ -203,68 +121,12 @@
     <lastmod>2024-08-20</lastmod>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ucm_dos_2024_faculty_and_staff_presentation.pdf</loc>
-    <lastmod>2024-08-20</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ssha_grad_services_-_nio_2024.pdf</loc>
-    <lastmod>2024-08-21</lastmod>
-  </url>
-  <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/new_instructor_orientation_-_ssha_academic_advising_2024.pdf</loc>
     <lastmod>2024-08-20</lastmod>
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/caps_general_outreach_2024_0.pdf</loc>
     <lastmod>2024-08-21</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ssha_new_instructor_handbook_2023-2024.pdf</loc>
-    <lastmod>2023-08-07</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/2023_ssha_personnel_services_presentation.pdf</loc>
-    <lastmod>2023-08-08</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ssha_new_instructor_presentation_08.2023.pdf</loc>
-    <lastmod>2023-08-08</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/new_instructor_orientation_-_ssha_advising_2023.pdf</loc>
-    <lastmod>2023-08-08</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ds_new_instructor_orientation_2023.pdf</loc>
-    <lastmod>2023-08-07</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/instructional_services_office_staff_presentation.pdf</loc>
-    <lastmod>2023-08-07</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/caps_general_information.pdf</loc>
-    <lastmod>2023-10-23</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ssha_nio_slides.pdf</loc>
-    <lastmod>2022-07-21</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ssha_new_instructor_handbook_2022-2023.pdf</loc>
-    <lastmod>2022-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/uc_merced_introduction_to_hypothesis.pdf</loc>
-    <lastmod>2023-08-08</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/benefits_flyer_07-20-22.pdf</loc>
-    <lastmod>2022-07-21</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/2022_ssha_personnel_services_presentation.pdf</loc>
-    <lastmod>2022-07-26</lastmod>
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ssha_finance_presentation_new_faculty_orientation_2022_0.pdf</loc>
@@ -279,10 +141,6 @@
     <lastmod>2022-07-20</lastmod>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ucm_dos_fall_2022.pdf</loc>
-    <lastmod>2022-07-21</lastmod>
-  </url>
-  <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ssha-orientation-2022_ucm-library_0.pdf</loc>
     <lastmod>2022-07-13</lastmod>
   </url>
@@ -291,76 +149,32 @@
     <lastmod>2022-08-17</lastmod>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/sas_slide.pdf</loc>
-    <lastmod>2022-08-17</lastmod>
-  </url>
-  <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/caps_brochure.pdf</loc>
     <lastmod>2022-07-13</lastmod>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/department_specialist_pp-_8_17_22.pdf</loc>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ssha_new_instructor_handbook_2023-2024.pdf</loc>
+    <lastmod>2023-08-07</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/sas_slide.pdf</loc>
     <lastmod>2022-08-17</lastmod>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/updated_final_fall_2021_july_final_agenda.pdf</loc>
-    <lastmod>2021-07-12</lastmod>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/2023_ssha_personnel_services_presentation.pdf</loc>
+    <lastmod>2023-08-08</lastmod>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/new_instructor_orientation_august_v4.pdf</loc>
-    <lastmod>2021-08-26</lastmod>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ds_new_instructor_orientation_2023.pdf</loc>
+    <lastmod>2023-08-07</lastmod>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/ssha_new_instructor_handbook_2020-2021.pdf</loc>
-    <lastmod>2021-02-25</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/ssha_finance_presentation_new_faculty_orientation_2021_v1.pdf</loc>
-    <lastmod>2021-07-14</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/2021_ssha_personnel_services_presentation.pdf</loc>
-    <lastmod>2021-07-14</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/center_for_business_services_and_solutions_presentation_07.13.21.pptx</loc>
-    <lastmod>2021-07-14</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/reimbursement_v2.pdf</loc>
-    <lastmod>2021-07-14</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/travel_and_expense_management_july.pdf</loc>
-    <lastmod>2021-07-14</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/new_faculty_orientation_2021-research_liaison.pdf</loc>
-    <lastmod>2021-07-14</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/nio_welcomeslides.pdf</loc>
-    <lastmod>2021-08-25</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/instructional_services_office_staff_presentation_08_23.21.pdf</loc>
-    <lastmod>2021-08-23</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/ta-facultyagreement.pdf</loc>
-    <lastmod>2021-09-07</lastmod>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/caps_general_information.pdf</loc>
+    <lastmod>2023-10-23</lastmod>
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha.ucmerced.edu/files/page/documents/ssha_new_instructor_orientation_-_long_agenda_08.06.19.pdf</loc>
     <lastmod>2020-04-30</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/ssha_new_instructor_handbook_2019-2020_08.19.19_web_version.pdf</loc>
-    <lastmod>2021-02-23</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/02_-_ssha_academic_personnel_presentation.pdf</loc>
-    <lastmod>2021-02-23</lastmod>
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/ssha_finance_presentation_new_faculty_orientation_2019.pdf</loc>
@@ -368,14 +182,6 @@
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/03_-_curriculum_processes_nio_presentation_08.22.19.pdf</loc>
-    <lastmod>2021-02-23</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/04_-_ge_presentation_ssha_orientation4.pdf</loc>
-    <lastmod>2021-02-23</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/07_-_office_of_the_registrar.pdf</loc>
     <lastmod>2021-02-23</lastmod>
   </url>
   <url>
@@ -387,11 +193,15 @@
     <lastmod>2021-02-23</lastmod>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/7_-_office_of_the_registrar_flyer_web_sites_and_impt_dates_2019.pdf</loc>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/04_-_ge_presentation_ssha_orientation4.pdf</loc>
     <lastmod>2021-02-23</lastmod>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/07b_-_office_of_student_conduct_presentation.pdf</loc>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/07_-_office_of_the_registrar.pdf</loc>
+    <lastmod>2021-02-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/7_-_office_of_the_registrar_flyer_web_sites_and_impt_dates_2019.pdf</loc>
     <lastmod>2021-02-23</lastmod>
   </url>
   <url>
@@ -399,31 +209,15 @@
     <lastmod>2021-02-23</lastmod>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/syllabus_template.pdf</loc>
-    <lastmod>2021-02-23</lastmod>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha.ucmerced.edu/files/page/documents/11_ssha_student_program_assessment_-_sbera_0.pdf</loc>
+    <lastmod>2020-04-30</lastmod>
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/nio_uc_merced_new_employee_orientation_2019.pdf</loc>
     <lastmod>2021-02-23</lastmod>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha.ucmerced.edu/files/page/documents/11_ssha_student_program_assessment_-_sbera_0.pdf</loc>
-    <lastmod>2020-04-30</lastmod>
-  </url>
-  <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/week_2.pdf</loc>
-    <lastmod>2021-02-25</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/uc_merced_diversity_statement_and_principles_of_community_08.16.19.pdf</loc>
-    <lastmod>2021-02-23</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/ssha_new_instructor_orientation_agenda_week_1_3.pdf</loc>
-    <lastmod>2021-02-25</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/welcome_presentation.pdf</loc>
     <lastmod>2021-02-25</lastmod>
   </url>
   <url>
@@ -435,15 +229,19 @@
     <lastmod>2021-02-25</lastmod>
   </url>
   <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/welcome_presentation.pdf</loc>
+    <lastmod>2021-02-25</lastmod>
+  </url>
+  <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/ssha_research_presentation.pdf</loc>
     <lastmod>2021-02-25</lastmod>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/department_support_services_events_presentation.pdf</loc>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/dean_of_students_flyer.pdf</loc>
     <lastmod>2021-02-25</lastmod>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/dean_of_students_flyer.pdf</loc>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/ssha_finance_and_administrative_operations_presentation.pdf</loc>
     <lastmod>2021-02-25</lastmod>
   </url>
   <url>
@@ -452,10 +250,6 @@
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/administrative_coordination_services_act_presentation.pdf</loc>
-    <lastmod>2021-02-25</lastmod>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/ssha_finance_and_administrative_operations_presentation.pdf</loc>
     <lastmod>2021-02-25</lastmod>
   </url>
   <url>
@@ -475,11 +269,137 @@
     <lastmod>2020-08-13</lastmod>
   </url>
   <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/instructional_services_office_staff_presentation_08.18.20.pdf</loc>
+    <lastmod>2021-03-04</lastmod>
+  </url>
+  <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/graduate_division_academic_counseling_presentation.pdf</loc>
     <lastmod>2021-02-25</lastmod>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/instructional_services_office_staff_presentation_08.18.20.pdf</loc>
-    <lastmod>2021-03-04</lastmod>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/department_support_services_events_presentation.pdf</loc>
+    <lastmod>2021-02-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/new-instructor-orientation/new-instructor-resources</loc>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/new-instructor-orientation/previous-nio-information</loc>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/navigating_complex_proposals_in_curriculog.pdf</loc>
+    <lastmod>2021-08-21</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/create_a_proposal_v2.pdf</loc>
+    <lastmod>2021-08-20</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ssha_undergraduate_course_proposal_flow_chart_25-27.pdf</loc>
+    <lastmod>2024-08-27</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/course_proposal_style_guide-v2.pdf</loc>
+    <lastmod>2021-08-21</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/making_a_decision_on_a_proposal_v2.pdf</loc>
+    <lastmod>2021-08-21</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/online_approval_supplement_102820approved11.12.20.docx</loc>
+    <lastmod>2021-09-13</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/navigating_curriculog_v2.pdf</loc>
+    <lastmod>2021-08-21</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/ssha_cc_policies_procedures_spring_2021_revision_05.28.2021.pdf</loc>
+    <lastmod>2021-09-13</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/ugccoursespolicydecember18_2020_final.pdf</loc>
+    <lastmod>2021-09-13</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ugc_curricular_changes_guide.pdf</loc>
+    <lastmod>2024-09-04</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ssha_process_substantial_catalog_revisions.pdf</loc>
+    <lastmod>2024-09-04</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/ugc.pdf</loc>
+    <lastmod>2021-03-30</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/dp.pdf</loc>
+    <lastmod>2021-03-30</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ssha_process_new_program_proposals_0.pdf</loc>
+    <lastmod>2024-09-04</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/updated_final_fall_2021_july_final_agenda.pdf</loc>
+    <lastmod>2021-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha.ucmerced.edu/files/page/documents/g._scantron_machines_instructions_01.09.2020.pdf</loc>
+    <lastmod>2020-04-30</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/new_instructor_orientation_august_v4.pdf</loc>
+    <lastmod>2021-08-26</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/ssha_finance_presentation_new_faculty_orientation_2021_v1.pdf</loc>
+    <lastmod>2021-07-14</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/2021_ssha_personnel_services_presentation.pdf</loc>
+    <lastmod>2021-07-14</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/center_for_business_services_and_solutions_presentation_07.13.21.pptx</loc>
+    <lastmod>2021-07-14</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/reimbursement_v2.pdf</loc>
+    <lastmod>2021-07-14</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/new_faculty_orientation_2021-research_liaison.pdf</loc>
+    <lastmod>2021-07-14</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/travel_and_expense_management_july.pdf</loc>
+    <lastmod>2021-07-14</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/ta-facultyagreement.pdf</loc>
+    <lastmod>2021-09-07</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/nio_welcomeslides.pdf</loc>
+    <lastmod>2021-08-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/instructional_services_office_staff_presentation_08_23.21.pdf</loc>
+    <lastmod>2021-08-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/g/files/ufvvjh2131/f/documents/ssha_new_instructor_handbook_2025-2026_08.20.25.pdf</loc>
+    <lastmod>2025-08-28</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/syllabus_template.pdf</loc>
+    <lastmod>2021-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/uc_merced_diversity_statement_and_principles_of_community_08.16.19.pdf</loc>
+    <lastmod>2021-01-29</lastmod>
   </url>
 </urlset>

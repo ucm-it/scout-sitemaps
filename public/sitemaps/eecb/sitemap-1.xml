@@ -9,14 +9,6 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://eecb.ucmerced.edu/esscareerpathways</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://eecb.ucmerced.edu/people</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://eecb.ucmerced.edu/courserequirements</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
@@ -25,11 +17,19 @@
     <lastmod>2025-05-29</lastmod>
   </url>
   <url>
-    <loc>https://eecb.ucmerced.edu/rss.xml</loc>
+    <loc>https://eecb.ucmerced.edu/people</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://eecb.ucmerced.edu/esscareerpathways</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://eecb.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://eecb.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://eecb.ucmerced.edu/content/adeyemi-adebiyi-0</loc>
@@ -40,39 +40,11 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://eecb.ucmerced.edu/content/j-michael-beman</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://eecb.ucmerced.edu/content/gordon-bennett-0</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://eecb.ucmerced.edu/content/asmeret-asefaw-berhe</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://eecb.ucmerced.edu/content/michael-n-dawson-0</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://eecb.ucmerced.edu/content/srabani-das</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://eecb.ucmerced.edu/content/jessica-blois</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://eecb.ucmerced.edu/content/melinda-findlater-0</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://eecb.ucmerced.edu/content/marilia-p-gaiarsa-0</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://eecb.ucmerced.edu/content/carolin-frank-1</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -84,15 +56,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://eecb.ucmerced.edu/content/matt-hutchinson-0</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://eecb.ucmerced.edu/content/sora-kim-0</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://eecb.ucmerced.edu/content/claire-lukens-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -104,7 +68,7 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://eecb.ucmerced.edu/content/emily-moran-0</loc>
+    <loc>https://eecb.ucmerced.edu/content/claire-lukens-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -112,19 +76,19 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://eecb.ucmerced.edu/content/peggy-oday-0</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://eecb.ucmerced.edu/content/samuel-j-traina</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
-    <loc>https://eecb.ucmerced.edu/content/rebecca-ryals-0</loc>
+    <loc>https://eecb.ucmerced.edu/content/emily-moran-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://eecb.ucmerced.edu/content/jason-sexton</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://eecb.ucmerced.edu/content/peggy-oday-0</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://eecb.ucmerced.edu/content/rebecca-ryals-0</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -133,6 +97,10 @@
   </url>
   <url>
     <loc>https://eecb.ucmerced.edu/content/tanja-woyke</loc>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://eecb.ucmerced.edu/content/samuel-j-traina</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>

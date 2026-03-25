@@ -9,19 +9,15 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://base.ucmerced.edu/services</loc>
-    <lastmod>2026-03-25</lastmod>
-  </url>
-  <url>
     <loc>https://base.ucmerced.edu/about-us</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://base.ucmerced.edu/resources</loc>
+    <loc>https://base.ucmerced.edu/services</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://base.ucmerced.edu/rss.xml</loc>
+    <loc>https://base.ucmerced.edu/resources</loc>
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
@@ -33,7 +29,8 @@
     <lastmod>2026-03-25</lastmod>
   </url>
   <url>
-    <loc>https://base.ucmerced.edu/contact-us</loc>
+    <loc>https://base.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-25</lastmod>
   </url>
   <url>
     <loc>https://base.ucmerced.edu/sites/base.ucmerced.edu/files/page/documents/semester_goals_and_action_plan_0.docx</loc>
@@ -42,5 +39,8 @@
   <url>
     <loc>https://base.ucmerced.edu/sites/base.ucmerced.edu/files/page/documents/note-taking-template-for-journal-articles.pdf</loc>
     <lastmod>2023-12-11</lastmod>
+  </url>
+  <url>
+    <loc>https://base.ucmerced.edu/contact-us</loc>
   </url>
 </urlset>
