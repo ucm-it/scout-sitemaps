@@ -21,7 +21,7 @@ jobs:
 
       - name: Create Onyx connector for each sitemap
         run: |
-          for yaml_file in .github/sites-1.yaml .github/sites-2.yaml; do
+          for yaml_file in .github/sites.yaml; do
             site_count=$(yq '. | length' "$yaml_file")
             for i in $(seq 0 $((site_count - 1))); do
               name=$(yq ".[${i}].name" "$yaml_file")
