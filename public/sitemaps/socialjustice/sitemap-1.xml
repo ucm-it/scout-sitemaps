@@ -55,9 +55,6 @@
     <loc>https://socialjustice.ucmerced.edu/cultural-spaces/mcc</loc>
   </url>
   <url>
-    <loc>https://socialjustice.ucmerced.edu/cultural-spaces/mcc/about</loc>
-  </url>
-  <url>
     <loc>https://socialjustice.ucmerced.edu/cultural-spaces/mcc/resources</loc>
   </url>
   <url>
@@ -188,6 +185,9 @@
   </url>
   <url>
     <loc>https://socialjustice.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://socialjustice.ucmerced.edu/cultural-spaces/mcc/about</loc>
   </url>
   <url>
     <loc>https://socialjustice.ucmerced.edu/sjiip-policies-center-reservation</loc>
