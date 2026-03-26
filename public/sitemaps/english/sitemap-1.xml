@@ -40,6 +40,9 @@
     <loc>https://english.ucmerced.edu/news</loc>
   </url>
   <url>
+    <loc>https://english.ucmerced.edu/events</loc>
+  </url>
+  <url>
     <loc>https://english.ucmerced.edu/node/511</loc>
   </url>
   <url>
@@ -56,16 +59,13 @@
   </url>
   <url>
     <loc>https://english.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-03-26</lastmod>
   </url>
   <url>
     <loc>https://english.ucmerced.edu/news/2023/english-majors-create-original-play-about-environmental-injustice</loc>
   </url>
   <url>
     <loc>https://english.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://english.ucmerced.edu/events</loc>
   </url>
   <url>
     <loc>https://english.ucmerced.edu/faculty-0</loc>
@@ -143,45 +143,6 @@
     <loc>https://english.ucmerced.edu/news?page=2</loc>
   </url>
   <url>
-    <loc>https://english.ucmerced.edu/events/conversation-jenny-price-author-stop-saving-planet-environmental-manifesto</loc>
-  </url>
-  <url>
-    <loc>https://english.ucmerced.edu/events/gentefication-talk-antonio-l%C3%B3pez</loc>
-  </url>
-  <url>
-    <loc>https://english.ucmerced.edu/events/becoming-othello-black-girls-journey</loc>
-  </url>
-  <url>
-    <loc>https://english.ucmerced.edu/events/aimee-suzara-poetry-reading</loc>
-  </url>
-  <url>
-    <loc>https://english.ucmerced.edu/events/dr-peniel-joseph-discusses-new-book-malcolm-x-and-mlk-jr</loc>
-  </url>
-  <url>
-    <loc>https://english.ucmerced.edu/events/cherrie-moraga-heroes-and-saints</loc>
-  </url>
-  <url>
-    <loc>https://english.ucmerced.edu/events/conversation-debra-ann-byrd-harlem-shakespeare-festival</loc>
-  </url>
-  <url>
-    <loc>https://english.ucmerced.edu/events/kristina-wongs-sweat-shop-overlord</loc>
-  </url>
-  <url>
-    <loc>https://english.ucmerced.edu/events/shakespeare-and-alchemy-gender</loc>
-  </url>
-  <url>
-    <loc>https://english.ucmerced.edu/events/devon-glover-aka-sonnet-man</loc>
-  </url>
-  <url>
-    <loc>https://english.ucmerced.edu/events/shakespeare-and-hip-hop-sonnet-man-zoom-master-class</loc>
-  </url>
-  <url>
-    <loc>https://english.ucmerced.edu/events/open-zoom-acting-and-gender-lisa-wolpe</loc>
-  </url>
-  <url>
-    <loc>https://english.ucmerced.edu/events/making-ricardo-ii-la-fabricaci%C3%B3n-de-ricardo-ii</loc>
-  </url>
-  <url>
     <loc>https://english.ucmerced.edu/events/yosemite-likes-it</loc>
   </url>
   <url>
@@ -215,6 +176,9 @@
     <loc>https://english.ucmerced.edu/events/romeo-and-juliet-yosemite</loc>
   </url>
   <url>
+    <loc>https://english.ucmerced.edu/events/shakespeare-and-alchemy-gender</loc>
+  </url>
+  <url>
     <loc>https://english.ucmerced.edu/events/poetry-reading-daniel-wk-lee</loc>
   </url>
   <url>
@@ -245,10 +209,16 @@
     <loc>https://english.ucmerced.edu/events/shakespeare-yosemite-loves-labors-lost</loc>
   </url>
   <url>
+    <loc>https://english.ucmerced.edu/events/devon-glover-aka-sonnet-man</loc>
+  </url>
+  <url>
     <loc>https://english.ucmerced.edu/events/thursday-night-environmental-film-series</loc>
   </url>
   <url>
     <loc>https://english.ucmerced.edu/events/english-majors-career-panel</loc>
+  </url>
+  <url>
+    <loc>https://english.ucmerced.edu/events/conversation-jenny-price-author-stop-saving-planet-environmental-manifesto</loc>
   </url>
   <url>
     <loc>https://english.ucmerced.edu/events/vernal-pool-launch-event</loc>
@@ -257,10 +227,16 @@
     <loc>https://english.ucmerced.edu/events/release-shakespeare-yosemite-film-imogen-wild</loc>
   </url>
   <url>
+    <loc>https://english.ucmerced.edu/events/gentefication-talk-antonio-l%C3%B3pez</loc>
+  </url>
+  <url>
     <loc>https://english.ucmerced.edu/events/first-day-classes</loc>
   </url>
   <url>
     <loc>https://english.ucmerced.edu/events/virtual-cuban-dance-party</loc>
+  </url>
+  <url>
+    <loc>https://english.ucmerced.edu/events/becoming-othello-black-girls-journey</loc>
   </url>
   <url>
     <loc>https://english.ucmerced.edu/events/dr-weisong-gao-queer-aesthetics-and-chinese-cinema</loc>
@@ -278,7 +254,31 @@
     <loc>https://english.ucmerced.edu/events/english-program-holiday-party</loc>
   </url>
   <url>
+    <loc>https://english.ucmerced.edu/events/kristina-wongs-sweat-shop-overlord</loc>
+  </url>
+  <url>
+    <loc>https://english.ucmerced.edu/events/making-ricardo-ii-la-fabricaci%C3%B3n-de-ricardo-ii</loc>
+  </url>
+  <url>
+    <loc>https://english.ucmerced.edu/events/conversation-debra-ann-byrd-harlem-shakespeare-festival</loc>
+  </url>
+  <url>
+    <loc>https://english.ucmerced.edu/events/cherrie-moraga-heroes-and-saints</loc>
+  </url>
+  <url>
+    <loc>https://english.ucmerced.edu/events/dr-peniel-joseph-discusses-new-book-malcolm-x-and-mlk-jr</loc>
+  </url>
+  <url>
+    <loc>https://english.ucmerced.edu/events/aimee-suzara-poetry-reading</loc>
+  </url>
+  <url>
     <loc>https://english.ucmerced.edu/events/virtual-commencement</loc>
+  </url>
+  <url>
+    <loc>https://english.ucmerced.edu/events/open-zoom-acting-and-gender-lisa-wolpe</loc>
+  </url>
+  <url>
+    <loc>https://english.ucmerced.edu/events/shakespeare-and-hip-hop-sonnet-man-zoom-master-class</loc>
   </url>
   <url>
     <loc>https://english.ucmerced.edu/events/pizza-professors</loc>
@@ -293,10 +293,10 @@
     <loc>https://english.ucmerced.edu/faculty/jan-goggans</loc>
   </url>
   <url>
-    <loc>https://english.ucmerced.edu/news/2021/english-majors-conduct-new-research-honors-program-and-uroc-h</loc>
+    <loc>https://english.ucmerced.edu/news/2021/uc-merced-english-majors-contribute-international-environment-conference</loc>
   </url>
   <url>
-    <loc>https://english.ucmerced.edu/news/2021/uc-merced-english-majors-contribute-international-environment-conference</loc>
+    <loc>https://english.ucmerced.edu/news/2021/english-majors-conduct-new-research-honors-program-and-uroc-h</loc>
   </url>
   <url>
     <loc>https://english.ucmerced.edu/news/2021/opportunities-and-advice-english-major-cat-flores</loc>
@@ -317,10 +317,10 @@
     <loc>https://english.ucmerced.edu/news/2020/english-majors-honored-2020-graduation</loc>
   </url>
   <url>
-    <loc>https://english.ucmerced.edu/news/2019/shakespearean-sustainability-gets-curtain-call-yosemite</loc>
+    <loc>https://english.ucmerced.edu/news/2019/collaboration-focuses-refugee-stories</loc>
   </url>
   <url>
-    <loc>https://english.ucmerced.edu/news/2019/collaboration-focuses-refugee-stories</loc>
+    <loc>https://english.ucmerced.edu/news/2019/shakespearean-sustainability-gets-curtain-call-yosemite</loc>
   </url>
   <url>
     <loc>https://english.ucmerced.edu/faculty/fatima-burney</loc>
