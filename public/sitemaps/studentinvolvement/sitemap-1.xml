@@ -67,14 +67,14 @@
     <loc>https://studentinvolvement.ucmerced.edu/form/contact-us</loc>
   </url>
   <url>
+    <loc>https://studentinvolvement.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+  <url>
     <loc>https://studentinvolvement.ucmerced.edu/uc-merced-event-statement</loc>
   </url>
   <url>
     <loc>https://studentinvolvement.ucmerced.edu/node/4631</loc>
-  </url>
-  <url>
-    <loc>https://studentinvolvement.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-26</lastmod>
   </url>
   <url>
     <loc>https://studentinvolvement.ucmerced.edu/contact-us</loc>
@@ -587,10 +587,10 @@
     <loc>https://studentinvolvement.ucmerced.edu/events/vip-program-whats-your-media-feeding-you</loc>
   </url>
   <url>
-    <loc>https://studentinvolvement.ucmerced.edu/events/financial-institutions-fair</loc>
+    <loc>https://studentinvolvement.ucmerced.edu/events/campus-tour</loc>
   </url>
   <url>
-    <loc>https://studentinvolvement.ucmerced.edu/events/campus-tour</loc>
+    <loc>https://studentinvolvement.ucmerced.edu/events/financial-institutions-fair</loc>
   </url>
   <url>
     <loc>https://studentinvolvement.ucmerced.edu/events/critical-reading-electronic-age</loc>
@@ -617,10 +617,10 @@
     <loc>https://studentinvolvement.ucmerced.edu/events/vip-program-project-rewind-1</loc>
   </url>
   <url>
-    <loc>https://studentinvolvement.ucmerced.edu/events/vip-program-project-rewind-0</loc>
+    <loc>https://studentinvolvement.ucmerced.edu/events/bike-and-electronic-registration-and-ucmpds-resources</loc>
   </url>
   <url>
-    <loc>https://studentinvolvement.ucmerced.edu/events/bike-and-electronic-registration-and-ucmpds-resources</loc>
+    <loc>https://studentinvolvement.ucmerced.edu/events/vip-program-project-rewind-0</loc>
   </url>
   <url>
     <loc>https://studentinvolvement.ucmerced.edu/events/lets-make-deal</loc>

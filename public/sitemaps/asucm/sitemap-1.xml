@@ -109,6 +109,10 @@
     <loc>https://asucm.ucmerced.edu/student-union</loc>
   </url>
   <url>
+    <loc>https://asucm.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-03-27</lastmod>
+  </url>
+  <url>
     <loc>https://asucm.ucmerced.edu/form/sab-proposal-form</loc>
   </url>
   <url>
@@ -116,10 +120,6 @@
   </url>
   <url>
     <loc>https://asucm.ucmerced.edu/form/court-petition-form-p1</loc>
-  </url>
-  <url>
-    <loc>https://asucm.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-26</lastmod>
   </url>
   <url>
     <loc>https://asucm.ucmerced.edu/contact-us</loc>
@@ -396,7 +396,7 @@
   </url>
   <url>
     <loc>http://asucm.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-26</lastmod>
+    <lastmod>2026-03-27</lastmod>
   </url>
   <url>
     <loc>http://asucm.ucmerced.edu/content/enrique-guzman-0</loc>
