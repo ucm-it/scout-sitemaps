@@ -145,7 +145,7 @@
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-27</lastmod>
+    <lastmod>2026-03-28</lastmod>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/contact-us</loc>
@@ -352,10 +352,10 @@
     <loc>https://assessment.ucmerced.edu/events/taps-office-sustainability-survey-2</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/healthy-minds-survey-0</loc>
+    <loc>https://assessment.ucmerced.edu/events/healthy-minds-survey</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/healthy-minds-survey</loc>
+    <loc>https://assessment.ucmerced.edu/events/healthy-minds-survey-0</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/graduating-senior-survey-ay-20-21-graduating-seniors</loc>
@@ -403,6 +403,9 @@
     <loc>https://assessment.ucmerced.edu/events/merced-clinic-employee-health-care-needs-survey-0</loc>
   </url>
   <url>
+    <loc>https://assessment.ucmerced.edu/events/october-student-experience-survey-all-undergraduates</loc>
+  </url>
+  <url>
     <loc>https://assessment.ucmerced.edu/events/covid-19-experience-survey-faculty-staff-grad-students-post-docs-0</loc>
   </url>
   <url>
@@ -410,9 +413,6 @@
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/covid-19-experience-survey-faculty-staff-grad-students-post-docs-2</loc>
-  </url>
-  <url>
-    <loc>https://assessment.ucmerced.edu/events/october-student-experience-survey-all-undergraduates</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/no-food-left-behind-survey-nflb-participants</loc>
@@ -526,10 +526,10 @@
     <loc>https://assessment.ucmerced.edu/events/national-survey-student-engagement-nsse-all-frosh-and-senior-undergraduates</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/national-college-health-assessment-ncha</loc>
+    <loc>https://assessment.ucmerced.edu/events/national-college-health-assessment-ncha-0</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/national-college-health-assessment-ncha-0</loc>
+    <loc>https://assessment.ucmerced.edu/events/national-college-health-assessment-ncha</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/housing-and-residence-life-satisfaction-survey-all-students-campus-housing</loc>
@@ -691,13 +691,13 @@
     <loc>https://assessment.ucmerced.edu/events/undergraduate-alumni-survey-alumni-1-3-and-5-years-post-graduation</loc>
   </url>
   <url>
+    <loc>https://assessment.ucmerced.edu/events/childcare-survey-0</loc>
+  </url>
+  <url>
     <loc>https://assessment.ucmerced.edu/events/childcare-survey-1</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/childcare-survey</loc>
-  </url>
-  <url>
-    <loc>https://assessment.ucmerced.edu/events/childcare-survey-0</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/soe-administrative-assessment-survey-soe-faculty</loc>
@@ -718,10 +718,10 @@
     <loc>https://assessment.ucmerced.edu/events/act-survey-staff-who-use-act-some-facultystudents-may-also-be-surveyed</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/national-college-health-assessment-sample-survey</loc>
+    <loc>https://assessment.ucmerced.edu/events/national-college-health-assessment-sample-survey-0</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/national-college-health-assessment-sample-survey-0</loc>
+    <loc>https://assessment.ucmerced.edu/events/national-college-health-assessment-sample-survey</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/financial-wellness-survey</loc>
@@ -826,6 +826,9 @@
     <loc>https://assessment.ucmerced.edu/events/dars-satisfaction-survey-0</loc>
   </url>
   <url>
+    <loc>https://assessment.ucmerced.edu/events/cob-leed-award-survey-0</loc>
+  </url>
+  <url>
     <loc>https://assessment.ucmerced.edu/events/cob-leed-award-survey-1</loc>
   </url>
   <url>
@@ -833,9 +836,6 @@
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/cob-leed-award-survey</loc>
-  </url>
-  <url>
-    <loc>https://assessment.ucmerced.edu/events/cob-leed-award-survey-0</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/graduate-student-support-ucop-survey-graduate-applicants</loc>
@@ -1195,26 +1195,26 @@
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/taxonomy/term/1/feed</loc>
-    <lastmod>2026-03-27</lastmod>
+    <lastmod>2026-03-28</lastmod>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/taxonomy/term/2/feed</loc>
-    <lastmod>2026-03-27</lastmod>
+    <lastmod>2026-03-28</lastmod>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/taxonomy/term/3/feed</loc>
-    <lastmod>2026-03-27</lastmod>
+    <lastmod>2026-03-28</lastmod>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/taxonomy/term/4/feed</loc>
-    <lastmod>2026-03-27</lastmod>
+    <lastmod>2026-03-28</lastmod>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/taxonomy/term/11/feed</loc>
-    <lastmod>2026-03-27</lastmod>
+    <lastmod>2026-03-28</lastmod>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/taxonomy/term/5/feed</loc>
-    <lastmod>2026-03-27</lastmod>
+    <lastmod>2026-03-28</lastmod>
   </url>
 </urlset>

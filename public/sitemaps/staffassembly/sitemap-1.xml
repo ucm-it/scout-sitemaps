@@ -224,7 +224,7 @@
   </url>
   <url>
     <loc>https://staffassembly.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-27</lastmod>
+    <lastmod>2026-03-28</lastmod>
   </url>
   <url>
     <loc>https://staffassembly.ucmerced.edu/about/staff-assembly-board-2023-2024</loc>
@@ -236,10 +236,10 @@
     <loc>https://staffassembly.ucmerced.edu/events/events-calendar</loc>
   </url>
   <url>
-    <loc>https://staffassembly.ucmerced.edu/news/2026/uc-merced%E2%80%99s-center-health-equity-convenes-partners-address-patient-trust-gap-san-joaquin</loc>
+    <loc>https://staffassembly.ucmerced.edu/news/2026/two-uc-merced-researchers-among-year%E2%80%99s-aaas-fellows</loc>
   </url>
   <url>
-    <loc>https://staffassembly.ucmerced.edu/news/2026/two-uc-merced-researchers-among-year%E2%80%99s-aaas-fellows</loc>
+    <loc>https://staffassembly.ucmerced.edu/news/2026/uc-merced%E2%80%99s-center-health-equity-convenes-partners-address-patient-trust-gap-san-joaquin</loc>
   </url>
   <url>
     <loc>https://staffassembly.ucmerced.edu/news/2026/her-uc-merced-path-changed-stockton-student-stays-track</loc>
@@ -396,47 +396,16 @@
     <loc>https://staffassembly.ucmerced.edu/node/31046</loc>
   </url>
   <url>
-    <loc>https://staffassembly.ucmerced.edu/media-contact/alyssa-johansen</loc>
+    <loc>https://staffassembly.ucmerced.edu/media-contact/lorena-anderson</loc>
   </url>
   <url>
-    <loc>https://staffassembly.ucmerced.edu/media-contact/lorena-anderson</loc>
+    <loc>https://staffassembly.ucmerced.edu/media-contact/alyssa-johansen</loc>
   </url>
   <url>
     <loc>https://staffassembly.ucmerced.edu/media-contact/jody-murray</loc>
   </url>
   <url>
     <loc>https://staffassembly.ucmerced.edu/form/development-fund-report-submission</loc>
-  </url>
-  <url>
-    <loc>https://staffassembly.ucmerced.edu/news/2026/student-finds-community-and-purpose-through-culture-and-literature</loc>
-  </url>
-  <url>
-    <loc>https://staffassembly.ucmerced.edu/news/2026/former-gov-gray-davis-awarded-chancellor%E2%80%99s-medal-transformative-leadership-bringing-uc</loc>
-  </url>
-  <url>
-    <loc>https://staffassembly.ucmerced.edu/news/2026/spotlighting-black-trailblazers-whose-stories-deserve-be-told</loc>
-  </url>
-  <url>
-    <loc>https://staffassembly.ucmerced.edu/news/2026/uc-berkeley-exhibit-marks-20-years-uc-merced%E2%80%99s-design-vision</loc>
-  </url>
-  <url>
-    <loc>https://staffassembly.ucmerced.edu/news/2026/uc-merced-recognized-newsweek%E2%80%99s-inaugural-%E2%80%98america%E2%80%99s-best-colleges-women%E2%80%99-list</loc>
-  </url>
-  <url>
-    <loc>https://staffassembly.ucmerced.edu/news/2026/martin-luther-king-jr-day-service-day-not-day</loc>
-  </url>
-  <url>
-    <loc>https://staffassembly.ucmerced.edu/news/2026/american-council-education-and-carnegie-foundation-recognize-uc-merceds-leadership</loc>
-  </url>
-  <url>
-    <loc>https://staffassembly.ucmerced.edu/news/2026/trinidad-quiroz-signs-professional-contract-necaxa-femenil</loc>
-  </url>
-  <url>
-    <loc>https://staffassembly.ucmerced.edu/news/2025/hundreds-uc-merced-graduates-cross-stage-fall-commencement-0</loc>
-  </url>
-  <url>
-    <loc>https://staffassembly.ucmerced.edu/taxonomy/term/1141/feed</loc>
-    <lastmod>2026-03-27</lastmod>
   </url>
   <url>
     <loc>https://staffassembly.ucmerced.edu/news/2026/calteach-and-local-schools-team-energize-learning-across-merced-county</loc>
@@ -467,7 +436,38 @@
   </url>
   <url>
     <loc>https://staffassembly.ucmerced.edu/taxonomy/term/9/feed</loc>
-    <lastmod>2026-03-27</lastmod>
+    <lastmod>2026-03-28</lastmod>
+  </url>
+  <url>
+    <loc>https://staffassembly.ucmerced.edu/news/2026/student-finds-community-and-purpose-through-culture-and-literature</loc>
+  </url>
+  <url>
+    <loc>https://staffassembly.ucmerced.edu/news/2026/former-gov-gray-davis-awarded-chancellor%E2%80%99s-medal-transformative-leadership-bringing-uc</loc>
+  </url>
+  <url>
+    <loc>https://staffassembly.ucmerced.edu/news/2026/spotlighting-black-trailblazers-whose-stories-deserve-be-told</loc>
+  </url>
+  <url>
+    <loc>https://staffassembly.ucmerced.edu/news/2026/uc-berkeley-exhibit-marks-20-years-uc-merced%E2%80%99s-design-vision</loc>
+  </url>
+  <url>
+    <loc>https://staffassembly.ucmerced.edu/news/2026/uc-merced-recognized-newsweek%E2%80%99s-inaugural-%E2%80%98america%E2%80%99s-best-colleges-women%E2%80%99-list</loc>
+  </url>
+  <url>
+    <loc>https://staffassembly.ucmerced.edu/news/2026/martin-luther-king-jr-day-service-day-not-day</loc>
+  </url>
+  <url>
+    <loc>https://staffassembly.ucmerced.edu/news/2026/american-council-education-and-carnegie-foundation-recognize-uc-merceds-leadership</loc>
+  </url>
+  <url>
+    <loc>https://staffassembly.ucmerced.edu/news/2026/trinidad-quiroz-signs-professional-contract-necaxa-femenil</loc>
+  </url>
+  <url>
+    <loc>https://staffassembly.ucmerced.edu/news/2025/hundreds-uc-merced-graduates-cross-stage-fall-commencement-0</loc>
+  </url>
+  <url>
+    <loc>https://staffassembly.ucmerced.edu/taxonomy/term/1141/feed</loc>
+    <lastmod>2026-03-28</lastmod>
   </url>
   <url>
     <loc>https://staffassembly.ucmerced.edu/news/2026/ripon-student-turning-heart-and-heritage-path-healing</loc>
@@ -498,6 +498,6 @@
   </url>
   <url>
     <loc>https://staffassembly.ucmerced.edu/taxonomy/term/1181/feed</loc>
-    <lastmod>2026-03-27</lastmod>
+    <lastmod>2026-03-28</lastmod>
   </url>
 </urlset>

@@ -19,10 +19,10 @@
     <loc>https://scif.ucmerced.edu/instruments-and-services</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/node/161</loc>
+    <loc>https://scif.ucmerced.edu/cytometry</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/node/9</loc>
+    <loc>https://scif.ucmerced.edu/cleanroom</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/rates</loc>
@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-27</lastmod>
+    <lastmod>2026-03-28</lastmod>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/contact-us</loc>
@@ -77,7 +77,10 @@
     <loc>https://scif.ucmerced.edu/node/501</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/node/171</loc>
+    <loc>https://scif.ucmerced.edu/cleanroom-access-and-relevant-policies</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/Photolithography</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/node/221</loc>
@@ -86,7 +89,7 @@
     <loc>https://scif.ucmerced.edu/node/521</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/node/181</loc>
+    <loc>https://scif.ucmerced.edu/ebeamdeposition</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/node/516</loc>
@@ -158,9 +161,6 @@
     <loc>https://scif.ucmerced.edu/node/411</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/node/321</loc>
-  </url>
-  <url>
     <loc>https://scif.ucmerced.edu/node/311</loc>
   </url>
   <url>
@@ -212,6 +212,33 @@
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/node/111</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/scif_cleanroom_safety_training_parveen_kumar_0.pdf</loc>
+    <lastmod>2025-06-21</lastmod>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/scif_cleanroom_orientation_test_0.pdf</loc>
+    <lastmod>2025-06-21</lastmod>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/node/571</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/node/561</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/cleanoom-training-protocol</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/node/551</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/SCIF%20Cleanroom%20Collaborative%20Work%20Policy</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/communication_professional_conduct_guidelines.pdf</loc>
+    <lastmod>2026-03-27</lastmod>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/nxq4006_operation_manual_panasonic_display_reduced.pdf</loc>
@@ -395,32 +422,6 @@
     <loc>https://scif.ucmerced.edu/node/526</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/scif_cleanroom_safety_training_parveen_kumar_0.pdf</loc>
-    <lastmod>2025-06-21</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/scif_cleanroom_orientation_test_0.pdf</loc>
-    <lastmod>2025-06-21</lastmod>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/571</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/561</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/576</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/556</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/551</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/566</loc>
-  </url>
-  <url>
     <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/page/documents/scif_cytometer_training_policy.pdf</loc>
     <lastmod>2018-10-25</lastmod>
   </url>
@@ -443,6 +444,10 @@
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/node/31</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/troubleshooting_user_support_process_sop_0.pdf</loc>
+    <lastmod>2026-03-27</lastmod>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/scif_cytometer_training_policy.pdf</loc>
