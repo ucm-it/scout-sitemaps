@@ -41,7 +41,7 @@
   </url>
   <url>
     <loc>https://international.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-29</lastmod>
+    <lastmod>2026-03-30</lastmod>
   </url>
   <url>
     <loc>https://international.ucmerced.edu/staff</loc>
@@ -359,10 +359,10 @@
     <loc>https://international.ucmerced.edu/events/study-abroad-101-general-info-session-zoom-55</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/cultural-extravaganza</loc>
+    <loc>https://international.ucmerced.edu/events/uceap-101-your-adventure-starts-here-11</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/uceap-101-your-adventure-starts-here-11</loc>
+    <loc>https://international.ucmerced.edu/events/cultural-extravaganza</loc>
   </url>
   <url>
     <loc>https://international.ucmerced.edu/events/study-abroad-112-intro-scholarships-23</loc>
@@ -656,10 +656,10 @@
     <loc>https://international.ucmerced.edu/events/study-abroad-101-general-info-session-71</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/tote-bag-painting</loc>
+    <loc>https://international.ucmerced.edu/events/study-abroad-112-intro-scholarships-18</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/study-abroad-112-intro-scholarships-18</loc>
+    <loc>https://international.ucmerced.edu/events/tote-bag-painting</loc>
   </url>
   <url>
     <loc>https://international.ucmerced.edu/events/study-abroad-111-affordability-aid-18</loc>
@@ -818,10 +818,10 @@
     <loc>https://international.ucmerced.edu/events/bobcat-cultural-showcase-0</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/fulbright-student-program-zoom-andor-person</loc>
+    <loc>https://international.ucmerced.edu/events/study-abroad-112-intro-scholarships-17</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/study-abroad-112-intro-scholarships-17</loc>
+    <loc>https://international.ucmerced.edu/events/fulbright-student-program-zoom-andor-person</loc>
   </url>
   <url>
     <loc>https://international.ucmerced.edu/events/study-abroad-111-affordability-aid-16</loc>
@@ -1082,10 +1082,10 @@
     <loc>https://international.ucmerced.edu/events/study-abroad-101-general-info-session-zoom-20</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/cancelled-fj-student-visa-virtual-office-hour-1</loc>
+    <loc>https://international.ucmerced.edu/events/oia-trivia-night</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/oia-trivia-night</loc>
+    <loc>https://international.ucmerced.edu/events/cancelled-fj-student-visa-virtual-office-hour-1</loc>
   </url>
   <url>
     <loc>https://international.ucmerced.edu/events/fj-student-visa-office-hour-person-36</loc>
@@ -1571,10 +1571,10 @@
     <loc>https://international.ucmerced.edu/events/fj-student-visa-office-hour-person-16</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/study-abroad-101-general-info-session-person-3</loc>
+    <loc>https://international.ucmerced.edu/events/opt-workshop-7</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/opt-workshop-7</loc>
+    <loc>https://international.ucmerced.edu/events/study-abroad-101-general-info-session-person-3</loc>
   </url>
   <url>
     <loc>https://international.ucmerced.edu/events/cpt-workshop-2</loc>
@@ -1604,10 +1604,10 @@
     <loc>https://international.ucmerced.edu/events/coffee-pastries-peer-advisors</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/study-abroad-day-2022</loc>
+    <loc>https://international.ucmerced.edu/events/scholarship-drop-advising</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/scholarship-drop-advising</loc>
+    <loc>https://international.ucmerced.edu/events/study-abroad-day-2022</loc>
   </url>
   <url>
     <loc>https://international.ucmerced.edu/events/fj-student-visa-virtual-office-hour-15</loc>
@@ -1790,10 +1790,10 @@
     <loc>https://international.ucmerced.edu/events/study-abroad-india-and-japan</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/courses-and-credit-abroad</loc>
+    <loc>https://international.ucmerced.edu/events/international-student-hangout-gsa</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/international-student-hangout-gsa</loc>
+    <loc>https://international.ucmerced.edu/events/courses-and-credit-abroad</loc>
   </url>
   <url>
     <loc>https://international.ucmerced.edu/events/uceap-scholarships-making-your-application-shine</loc>
@@ -1808,16 +1808,16 @@
     <loc>https://international.ucmerced.edu/events/uceap-101-your-adventure-starts-here-1</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/study-abroad-hispanic-and-latinx-students</loc>
-  </url>
-  <url>
     <loc>https://international.ucmerced.edu/events/study-abroad-tabling-6</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/study-abroad-england-ireland-and-scotland</loc>
+    <loc>https://international.ucmerced.edu/events/study-abroad-hispanic-and-latinx-students</loc>
   </url>
   <url>
     <loc>https://international.ucmerced.edu/events/uceap-virtual-study-abroad-fair-2021-1</loc>
+  </url>
+  <url>
+    <loc>https://international.ucmerced.edu/events/study-abroad-england-ireland-and-scotland</loc>
   </url>
   <url>
     <loc>https://international.ucmerced.edu/events/study-abroad-korea-singapore-and-thailand</loc>
@@ -1835,10 +1835,10 @@
     <loc>https://international.ucmerced.edu/events/study-abroad-africa-and-middle-east</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/ask-me-anything-uceap-0</loc>
+    <loc>https://international.ucmerced.edu/events/studying-abroad-during-pandemic</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/studying-abroad-during-pandemic</loc>
+    <loc>https://international.ucmerced.edu/events/ask-me-anything-uceap-0</loc>
   </url>
   <url>
     <loc>https://international.ucmerced.edu/events/canceledstudy-abroad-101-general-info-session</loc>
@@ -1850,10 +1850,10 @@
     <loc>https://international.ucmerced.edu/events/study-abroad-mediterranean</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/uceap-virtual-study-abroad-fair-2021-0</loc>
+    <loc>https://international.ucmerced.edu/events/eco-friendly-study-abroad</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/eco-friendly-study-abroad</loc>
+    <loc>https://international.ucmerced.edu/events/uceap-virtual-study-abroad-fair-2021-0</loc>
   </url>
   <url>
     <loc>https://international.ucmerced.edu/events/study-abroad-china-hong-kong-and-taiwan</loc>
@@ -2276,10 +2276,10 @@
     <loc>https://international.ucmerced.edu/events/study-abroad-101-general-info-session-30</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/iew-univ-college-dublin-ireland</loc>
+    <loc>https://international.ucmerced.edu/events/iew-carlos-iii-univ-madrid-spain</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/iew-carlos-iii-univ-madrid-spain</loc>
+    <loc>https://international.ucmerced.edu/events/iew-univ-college-dublin-ireland</loc>
   </url>
   <url>
     <loc>https://international.ucmerced.edu/events/iew-international-lgbtq-panel</loc>
@@ -2810,10 +2810,10 @@
     <loc>https://international.ucmerced.edu/events/fulbright-scholarship-information-session</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/iop-summer-2020-deadline</loc>
+    <loc>https://international.ucmerced.edu/events/global-lounge-5</loc>
   </url>
   <url>
-    <loc>https://international.ucmerced.edu/events/global-lounge-5</loc>
+    <loc>https://international.ucmerced.edu/events/iop-summer-2020-deadline</loc>
   </url>
   <url>
     <loc>https://international.ucmerced.edu/events/optcpt-workshop</loc>
