@@ -131,7 +131,7 @@
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-30</lastmod>
+    <lastmod>2026-03-31</lastmod>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/expandedtravelban</loc>
@@ -240,6 +240,9 @@
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/students/current/completion</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/filingfeestatus</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/students/current/leave</loc>
