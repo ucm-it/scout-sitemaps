@@ -245,7 +245,7 @@
   enable_javascript: false
 
 - name: brand
-  url: https://brand.ucmerced.edu
+  url: https://uc-merced.foleon.com/
   concurrency: 1
   max_depth: 10
   enable_javascript: false
