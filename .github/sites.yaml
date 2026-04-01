@@ -334,12 +334,6 @@
   max_depth: 10
   enable_javascript: false
 
-- name: cattracks
-  url: https://cattracks.ucmerced.edu
-  concurrency: 1
-  max_depth: 10
-  enable_javascript: false
-
 - name: cayuse
   url: https://cayuse.ucmerced.edu
   concurrency: 1
