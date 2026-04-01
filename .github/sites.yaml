@@ -1850,12 +1850,6 @@
   max_depth: 10
   enable_javascript: false
 
-- name: sparc
-  url: https://sparc.ucmerced.edu
-  concurrency: 1
-  max_depth: 10
-  enable_javascript: false
-
 - name: spo
   url: https://spo.ucmerced.edu
   concurrency: 1
