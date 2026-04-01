@@ -37,6 +37,11 @@ jobs:
       - name: Check for existing sitemap
         id: check
         run: |
+          if [ "${{ matrix.site.force }}" = "true" ]; then
+            echo "skip=false" >> $GITHUB_OUTPUT
+            echo "Force flag set — skipping existing sitemap check for ${{ matrix.site.name }}"
+            exit 0
+          fi
           body=$(curl -s -w "\n%{http_code}" "${{ matrix.site.url }}/sitemap.xml")
           status=$(echo "$body" | tail -n1)
           content=$(echo "$body" | head -n -1)
