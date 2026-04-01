@@ -1211,12 +1211,6 @@
   max_depth: 10
   enable_javascript: false
 
-- name: marketing
-  url: https://marketing.ucmerced.edu
-  concurrency: 1
-  max_depth: 10
-  enable_javascript: false
-
 - name: mathcenter
   url: https://mathcenter.ucmerced.edu
   concurrency: 1
