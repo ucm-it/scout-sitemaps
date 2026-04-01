@@ -86,13 +86,16 @@
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-31</lastmod>
+    <lastmod>2026-04-01</lastmod>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/making-human-refugee-education-humanitarian-and-national-pedagogy</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/public-humanities-boot-camp-0</loc>
+  </url>
+  <url>
+    <loc>https://centerforhumanities.ucmerced.edu/events/symposium-incarceration-humanities-and-humanity</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/sites/g/files/ufvvjh576/f/page/documents/campus_map_0.pdf</loc>
@@ -133,9 +136,6 @@
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/entangled-communities-immigration-routes-across-ancient-andes</loc>
-  </url>
-  <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/merced%E2%80%99s-2nd-annual-litfest-hope-hard-times</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events?page=1</loc>
@@ -283,6 +283,9 @@
     <loc>https://centerforhumanities.ucmerced.edu/form/rsvp-public-humanities-boot-camp-0</loc>
   </url>
   <url>
+    <loc>https://centerforhumanities.ucmerced.edu/form/rsvp-symposium-incarceration-humanities-and-humanity</loc>
+  </url>
+  <url>
     <loc>https://centerforhumanities.ucmerced.edu/form/rsvp-working-irb-humanities-research</loc>
   </url>
   <url>
@@ -314,6 +317,9 @@
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/form/rsvp-entangled-communities-immigration-routes-across-ancient-andes</loc>
+  </url>
+  <url>
+    <loc>https://centerforhumanities.ucmerced.edu/events/merced%E2%80%99s-2nd-annual-litfest-hope-hard-times</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/local-author-fair-1</loc>
@@ -430,10 +436,10 @@
     <loc>https://centerforhumanities.ucmerced.edu/events/drawing-deportation-art-resistance-among-immigrant-children</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/unruly-monuments-disrupting-state-delhi%E2%80%99s-islamic-architecture</loc>
+    <loc>https://centerforhumanities.ucmerced.edu/events?page=5</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events?page=5</loc>
+    <loc>https://centerforhumanities.ucmerced.edu/events/unruly-monuments-disrupting-state-delhi%E2%80%99s-islamic-architecture</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/telling-your-research-story-through-comics-0</loc>
@@ -475,10 +481,10 @@
     <loc>https://centerforhumanities.ucmerced.edu/events/unveiling-hidden-challenges-first-year-writing-classes-needs-analysis-multilingual-first</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/m%C3%BAsica-contestataria-and-collective-resistance-central-america</loc>
+    <loc>https://centerforhumanities.ucmerced.edu/events?page=6</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events?page=6</loc>
+    <loc>https://centerforhumanities.ucmerced.edu/events/lecture-paul-spickard</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/music-and-religious-change-shakespeares-tempest-katherine-steele-brokaw-asst-prof-english-uc</loc>
@@ -721,7 +727,7 @@
     <loc>https://centerforhumanities.ucmerced.edu/form/rsvp-digital-accessibility-academics</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/form/rsvp-unruly-monuments-disrupting-state-delhi%E2%80%99s-islamic-architecture</loc>
+    <loc>https://centerforhumanities.ucmerced.edu/events/m%C3%BAsica-contestataria-and-collective-resistance-central-america</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/annual-creative-writing-collaboratorium</loc>
@@ -763,10 +769,10 @@
     <loc>https://centerforhumanities.ucmerced.edu/events/career-pathways-humanities-graduate-students</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/telling-your-research-story-through-comics</loc>
+    <loc>https://centerforhumanities.ucmerced.edu/events?page=7</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events?page=7</loc>
+    <loc>https://centerforhumanities.ucmerced.edu/form/rsvp-unruly-monuments-disrupting-state-delhi%E2%80%99s-islamic-architecture</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/form/rsvp-telling-your-research-story-through-comics</loc>
@@ -792,6 +798,9 @@
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/dolores_huerta_-_event_parking.pdf</loc>
     <lastmod>2023-04-24</lastmod>
+  </url>
+  <url>
+    <loc>https://centerforhumanities.ucmerced.edu/events/telling-your-research-story-through-comics</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/local-author-fair-merced-county</loc>
@@ -833,14 +842,14 @@
     <loc>https://centerforhumanities.ucmerced.edu/events/anzald%C3%BAing-it-podcast-creating-digital-sonic-spaces</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/panel-graduate-research-fellows-projects</loc>
-  </url>
-  <url>
     <loc>https://centerforhumanities.ucmerced.edu/events?page=8</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/finalfallcalendarforprint.pdf</loc>
     <lastmod>2013-08-27</lastmod>
+  </url>
+  <url>
+    <loc>https://centerforhumanities.ucmerced.edu/events/merced-seminar-humanities-posthuman-philosophy-made-visual-anime-affective-technology</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/human-rights-film-festival-unreal-dream-michael-morton-story</loc>
@@ -885,7 +894,7 @@
     <loc>https://centerforhumanities.ucmerced.edu/events/lecture-juliet-hooker-associate-professor-government-university-texas-austin</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/lecture-paul-spickard</loc>
+    <loc>https://centerforhumanities.ucmerced.edu/events/bag-tricks-tricksters-and-humor-early-modern-english-literature</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/contested-heaven-immigrant-urban-community-gardens</loc>
@@ -930,13 +939,13 @@
     <loc>https://centerforhumanities.ucmerced.edu/events/%E2%80%9Cinteractive-scholarly-works-humanities-pragmatic-plan-publication%E2%80%9D-karl-grossner-and-elijah</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/%E2%80%9Cterror-and-colonial-modernity%E2%80%9D-eli-jelly-schapiro</loc>
-  </url>
-  <url>
     <loc>https://centerforhumanities.ucmerced.edu/events?page=21</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events?page=20</loc>
+  </url>
+  <url>
+    <loc>https://centerforhumanities.ucmerced.edu/events/%E2%80%9Cterror-and-colonial-modernity%E2%80%9D-eli-jelly-schapiro</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/grant-writing-workshop-susan-carter</loc>
@@ -1023,9 +1032,6 @@
     <loc>https://centerforhumanities.ucmerced.edu/events/brownbag-talk-czech-republic-and-slovakia-re-establishing-democracy-heart-europe-patricia</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/merced-seminar-humanities-posthuman-philosophy-made-visual-anime-affective-technology</loc>
-  </url>
-  <url>
     <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/luce_worksop_series_reduced_0.pdf</loc>
     <lastmod>2020-09-30</lastmod>
   </url>
@@ -1046,6 +1052,9 @@
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/node/3871</loc>
+  </url>
+  <url>
+    <loc>https://centerforhumanities.ucmerced.edu/events/panel-graduate-research-fellows-projects</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/collaborative-insights-faunal-and-human-remains-shellmound-site-alameda-ca</loc>
@@ -1072,9 +1081,6 @@
     <loc>https://centerforhumanities.ucmerced.edu/events/surviving-criminal-justice-america</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/art-and-activism-qa-photographer-ernie-lowe</loc>
-  </url>
-  <url>
     <loc>https://centerforhumanities.ucmerced.edu/events?page=9</loc>
   </url>
   <url>
@@ -1085,6 +1091,9 @@
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/node/3381</loc>
+  </url>
+  <url>
+    <loc>https://centerforhumanities.ucmerced.edu/events/art-and-activism-qa-photographer-ernie-lowe</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/dh-tools-looking-back-building-los-angeles-aqueduct-digital-platform-long-term-sustainability</loc>
@@ -1120,9 +1129,6 @@
     <loc>https://centerforhumanities.ucmerced.edu/events/medical-humanities-seminar-language-latinidad-and-latino-health</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/uc-merced-upstart-presents-suddenrush</loc>
-  </url>
-  <url>
     <loc>https://centerforhumanities.ucmerced.edu/events?page=10</loc>
   </url>
   <url>
@@ -1132,6 +1138,10 @@
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/cfh_events_calendar_2015final_0.pdf</loc>
     <lastmod>2015-01-14</lastmod>
+  </url>
+  <url>
+    <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/rhea_riegel.pdf</loc>
+    <lastmod>2015-01-30</lastmod>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/ps.pdf</loc>
@@ -1160,6 +1170,9 @@
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/sholeh_quinn_jan._21.pdf</loc>
     <lastmod>2015-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://centerforhumanities.ucmerced.edu/events/%E2%80%9Cfollowing-tracks-yu-eleventh-century-origins-yellow-river-disaster-regime%E2%80%9D</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/henry-v</loc>
@@ -1204,10 +1217,10 @@
     <loc>https://centerforhumanities.ucmerced.edu/events/public-anthropology-billionaires-and-upside-down-economy</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/bag-tricks-tricksters-and-humor-early-modern-english-literature</loc>
+    <loc>https://centerforhumanities.ucmerced.edu/events?page=19</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events?page=19</loc>
+    <loc>https://centerforhumanities.ucmerced.edu/events/we-are-scottsboro-boys-hideo-nodas-visual-rhetoric-transracial-solidarity</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/writing-water</loc>
@@ -1252,14 +1265,14 @@
     <loc>https://centerforhumanities.ucmerced.edu/events/%E2%80%9Cal-karaji%E2%80%99s-hidden-waters-underground-channels-and-global-connections%E2%80%9D</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/%E2%80%9Cfollowing-tracks-yu-eleventh-century-origins-yellow-river-disaster-regime%E2%80%9D</loc>
-  </url>
-  <url>
     <loc>https://centerforhumanities.ucmerced.edu/events?page=18</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/fall2014eventscalendardraft.pdf</loc>
     <lastmod>2014-08-22</lastmod>
+  </url>
+  <url>
+    <loc>https://centerforhumanities.ucmerced.edu/events/uc-merced-upstart-presents-suddenrush</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/uc-merced-upstart-presents-ellas</loc>
@@ -1298,14 +1311,14 @@
     <loc>https://centerforhumanities.ucmerced.edu/events/digital-humanities-tools-introduction-scrivener</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/designing-and-sustaining-writing-programs-and-multilingual-students</loc>
-  </url>
-  <url>
     <loc>https://centerforhumanities.ucmerced.edu/events?page=11</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/page/documents/local_author_event_waiver_fillable_0.pdf</loc>
     <lastmod>2023-08-28</lastmod>
+  </url>
+  <url>
+    <loc>https://centerforhumanities.ucmerced.edu/events/designing-and-sustaining-writing-programs-and-multilingual-students</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/introduction-oral-history-methodology-workshop</loc>
@@ -1338,14 +1351,15 @@
     <loc>https://centerforhumanities.ucmerced.edu/events/webinar-evaluating-ebola-response-effort-liberia-some-lessons-learned</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/webinar-publishing-workshop-uc-press</loc>
-  </url>
-  <url>
     <loc>https://centerforhumanities.ucmerced.edu/events?page=12</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/fall_2015_events_calendar_5.pdf</loc>
     <lastmod>2015-09-08</lastmod>
+  </url>
+  <url>
+    <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/r.m._flyer.pdf</loc>
+    <lastmod>2015-08-25</lastmod>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/images/event/11896099_1221330161226493_5538843887570146351_o.jpg</loc>
@@ -1388,8 +1402,7 @@
     <lastmod>2015-01-30</lastmod>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/rhea_riegel.pdf</loc>
-    <lastmod>2015-01-30</lastmod>
+    <loc>https://centerforhumanities.ucmerced.edu/events/water%E2%80%99s-double-mirror-aesthetics-water-and-urban-modernism-california</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/%E2%80%9Cengineering-empire-theory-and-practice-yellow-river-flood-management-late-imperial-china%E2%80%9D</loc>
@@ -1434,14 +1447,15 @@
     <loc>https://centerforhumanities.ucmerced.edu/events/violence-and-coloniality-racialization-and-viscerality-latin-americas-new-indigenous</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/we-are-scottsboro-boys-hideo-nodas-visual-rhetoric-transracial-solidarity</loc>
-  </url>
-  <url>
     <loc>https://centerforhumanities.ucmerced.edu/events?page=17</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/documents/event_calendar_2016-final_copy-cfth-2.pdf</loc>
     <lastmod>2016-01-25</lastmod>
+  </url>
+  <url>
+    <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/shipu-final.pdf</loc>
+    <lastmod>2016-02-04</lastmod>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/seminar_flyer-angela_zito.pdf</loc>
@@ -1500,8 +1514,7 @@
     <lastmod>2015-09-28</lastmod>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/r.m._flyer.pdf</loc>
-    <lastmod>2015-08-25</lastmod>
+    <loc>https://centerforhumanities.ucmerced.edu/events/human-responses-climatic-stress</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/surfing-and-aquatic-blood-sports-africa-and-hawai%E2%80%98i-redefining-race-and-white-womanhood</loc>
@@ -1546,14 +1559,14 @@
     <loc>https://centerforhumanities.ucmerced.edu/events/decolonizing-settler-university-critical-ethnic-studies-and-transnational-solidarity</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/water%E2%80%99s-double-mirror-aesthetics-water-and-urban-modernism-california</loc>
-  </url>
-  <url>
     <loc>https://centerforhumanities.ucmerced.edu/events?page=16</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/sallyswag_program_updated.pdf</loc>
     <lastmod>2020-12-11</lastmod>
+  </url>
+  <url>
+    <loc>https://centerforhumanities.ucmerced.edu/events/webinar-publishing-workshop-uc-press</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/postponed-surviving-criminal-justice-america</loc>
@@ -1598,10 +1611,10 @@
     <loc>https://centerforhumanities.ucmerced.edu/events/distant-reader-web-based-text-analysis-tool</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/how-write-article-12-weeks-mini-workshop-graduate-student-write</loc>
+    <loc>https://centerforhumanities.ucmerced.edu/events?page=13</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events?page=13</loc>
+    <loc>https://centerforhumanities.ucmerced.edu/events/how-write-article-12-weeks-mini-workshop-graduate-student-write</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/population-maps-and-time-series-r</loc>
@@ -1646,10 +1659,15 @@
     <loc>https://centerforhumanities.ucmerced.edu/events/wild-scenic-film-festival-0</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/rural-justice-summit</loc>
+    <loc>https://centerforhumanities.ucmerced.edu/events?page=14</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events?page=14</loc>
+    <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/here_0.pdf</loc>
+    <lastmod>2016-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/rina_faletti.pdf</loc>
+    <lastmod>2016-09-19</lastmod>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/here.pdf</loc>
@@ -1715,8 +1733,7 @@
     <lastmod>2016-02-11</lastmod>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/shipu-final.pdf</loc>
-    <lastmod>2016-02-04</lastmod>
+    <loc>https://centerforhumanities.ucmerced.edu/events/poetry-writing-workshop-0</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/sci-fi-workshop-undocumented-students-special-populations</loc>
@@ -1761,10 +1778,11 @@
     <loc>https://centerforhumanities.ucmerced.edu/events/indus-basin-garden-further-explorations-punjab</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/human-responses-climatic-stress</loc>
+    <loc>https://centerforhumanities.ucmerced.edu/events?page=15</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events?page=15</loc>
+    <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/here_24.pdf</loc>
+    <lastmod>2017-01-27</lastmod>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/here_17.pdf</loc>
@@ -1843,12 +1861,7 @@
     <lastmod>2016-09-19</lastmod>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/here_0.pdf</loc>
-    <lastmod>2016-08-17</lastmod>
-  </url>
-  <url>
-    <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/rina_faletti.pdf</loc>
-    <lastmod>2016-09-19</lastmod>
+    <loc>https://centerforhumanities.ucmerced.edu/events/%E2%80%9Cmesoamericans-california-immigrants%E2%80%99-resistance-social-movements-rights-and-memory%E2%80%9D</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/what-history-castro-can-tell-us-about-pinkwashing-israel-palestine-and-queer-market-politics</loc>
@@ -1890,7 +1903,7 @@
     <loc>https://centerforhumanities.ucmerced.edu/events/water-war-and-empire-refugee-bodies-sea</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/poetry-writing-workshop-0</loc>
+    <loc>https://centerforhumanities.ucmerced.edu/events/rural-justice-summit</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/discussion-and-qa-faculty-and-graduate-students-dean-schilinger</loc>
@@ -1932,9 +1945,6 @@
     <loc>https://centerforhumanities.ucmerced.edu/events/crisis-democr%C3%A1tica-y-movimientos-sociales-en-honduras</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/collateral-consequences-incarceration-symposium</loc>
-  </url>
-  <url>
     <loc>https://centerforhumanities.ucmerced.edu/form/peacemaking-workshop-114-2-4-pm-cob-2-295</loc>
   </url>
   <url>
@@ -1942,8 +1952,7 @@
     <lastmod>2019-01-24</lastmod>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/spring2019calendarfinal_1.pdf</loc>
-    <lastmod>2019-01-24</lastmod>
+    <loc>https://centerforhumanities.ucmerced.edu/events/collateral-consequences-incarceration-symposium</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/eugenio-sosa-qa-graduate-and-undergraduate-students</loc>
@@ -1986,9 +1995,6 @@
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/distinguished-lecture-humanities-insubordinate-spaces-why-humanities-matter-now</loc>
-  </url>
-  <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/persian-woman%E2%80%99s-carmelite-relic-and-its-travels-madrid-isfahan-rome</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/here_27.pdf</loc>
@@ -2035,8 +2041,7 @@
     <lastmod>2017-01-27</lastmod>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/here_24.pdf</loc>
-    <lastmod>2017-01-27</lastmod>
+    <loc>https://centerforhumanities.ucmerced.edu/events/persian-woman%E2%80%99s-carmelite-relic-and-its-travels-madrid-isfahan-rome</loc>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/events/los-cenzontles-concert</loc>
@@ -2078,9 +2083,6 @@
     <loc>https://centerforhumanities.ucmerced.edu/events/supporting-liberation-palestine-through-local-grassroots-activism</loc>
   </url>
   <url>
-    <loc>https://centerforhumanities.ucmerced.edu/events/%E2%80%9Cmesoamericans-california-immigrants%E2%80%99-resistance-social-movements-rights-and-memory%E2%80%9D</loc>
-  </url>
-  <url>
     <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/fall2017_events_calendar1.pdf</loc>
     <lastmod>2017-08-28</lastmod>
   </url>
@@ -2098,6 +2100,10 @@
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/here_15.pdf</loc>
     <lastmod>2017-01-27</lastmod>
+  </url>
+  <url>
+    <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/spring2019calendarfinal_1.pdf</loc>
+    <lastmod>2019-01-24</lastmod>
   </url>
   <url>
     <loc>https://centerforhumanities.ucmerced.edu/sites/centerforhumanities.ucmerced.edu/files/event/documents/spring2019calendarfinal_2.pdf</loc>

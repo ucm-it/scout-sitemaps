@@ -29,19 +29,13 @@
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-31</lastmod>
+    <lastmod>2026-04-01</lastmod>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/text-signup-details</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://admitted.ucmerced.edu/events/become-bobcat-next-steps-presentation-%E2%80%93-international</loc>
-  </url>
-  <url>
-    <loc>https://admitted.ucmerced.edu/events/overview-%E2%80%AF-data-science-and-analytics-and-management-innovation-sustainability-and-technology</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/events/become-bobcat-introduction-chemical-engineering-and-materials-science-and-engineering</loc>
@@ -69,6 +63,9 @@
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/events/become-bobcat-webinar-liberal-studies-welcome</loc>
+  </url>
+  <url>
+    <loc>https://admitted.ucmerced.edu/events/become-bobcat-find-your-people-find-your-purpose-getting-involved-uc-merced</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/events/become-bobcat-webinar-you-rule-us-out-uc-merced-money-reality-check</loc>
@@ -130,7 +127,7 @@
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/register</loc>
-    <lastmod>2026-03-31</lastmod>
+    <lastmod>2026-04-01</lastmod>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/sites/g/files/ufvvjh326/f/documents/coa/fall_2026_fy_conditions_of_admission2.pdf</loc>
@@ -141,7 +138,13 @@
     <lastmod>2025-12-16</lastmod>
   </url>
   <url>
+    <loc>https://admitted.ucmerced.edu/events/overview-%E2%80%AF-data-science-and-analytics-and-management-innovation-sustainability-and-technology</loc>
+  </url>
+  <url>
+    <loc>https://admitted.ucmerced.edu/events/become-bobcat-next-steps-presentation-%E2%80%93-international</loc>
+  </url>
+  <url>
     <loc>https://admitted.ucmerced.edu/taxonomy/term/26/feed</loc>
-    <lastmod>2026-03-31</lastmod>
+    <lastmod>2026-04-01</lastmod>
   </url>
 </urlset>

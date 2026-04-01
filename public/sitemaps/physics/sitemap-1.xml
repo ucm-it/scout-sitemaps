@@ -173,7 +173,7 @@
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-31</lastmod>
+    <lastmod>2026-04-01</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/academics/graduate-studies</loc>
@@ -1475,7 +1475,7 @@
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-03-31</lastmod>
+    <lastmod>2026-04-01</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/node/4171</loc>
@@ -2261,9 +2261,6 @@
     <loc>https://physics.ucmerced.edu/news/2023/astronomy-club-hosts-solar-eclipse-event</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2023/2023-physics-graduate-student-achievements</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/news/2023/appreciation-physics-postdocs</loc>
   </url>
   <url>
@@ -2291,7 +2288,7 @@
     <loc>https://physics.ucmerced.edu/news/2023/cheer-campus%E2%80%99s-10-grad-slam-finalists-april-10</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
+    <loc>https://physics.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2023/wilson-selected-2023-american-astronomical-society-fellow</loc>
@@ -2493,6 +2490,9 @@
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2024?page=1</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/news/2023/2023-physics-graduate-student-achievements</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2023?page=1</loc>
@@ -2840,23 +2840,23 @@
     <loc>https://physics.ucmerced.edu/news/2016/brainstorm-professors-take-holistic-approach-study-thinking-learning-and-neuroscience</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
+    <loc>https://physics.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/taxonomy/term/1191/feed</loc>
-    <lastmod>2026-03-31</lastmod>
+    <lastmod>2026-04-01</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/taxonomy/term/381/feed</loc>
-    <lastmod>2026-03-31</lastmod>
+    <lastmod>2026-04-01</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/taxonomy/term/19/feed</loc>
-    <lastmod>2026-03-31</lastmod>
+    <lastmod>2026-04-01</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/taxonomy/term/981/feed</loc>
-    <lastmod>2026-03-31</lastmod>
+    <lastmod>2026-04-01</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/media-contact/elizabeth-arakelian</loc>
@@ -2867,6 +2867,6 @@
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/taxonomy/term/331/feed</loc>
-    <lastmod>2026-03-31</lastmod>
+    <lastmod>2026-04-01</lastmod>
   </url>
 </urlset>
