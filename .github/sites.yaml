@@ -880,12 +880,6 @@
   max_depth: 10
   enable_javascript: false
 
-- name: freespeech
-  url: https://freespeech.ucmerced.edu
-  concurrency: 1
-  max_depth: 10
-  enable_javascript: false
-
 - name: friendscircle
   url: https://friendscircle.ucmerced.edu
   concurrency: 1
