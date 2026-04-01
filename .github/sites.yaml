@@ -82,12 +82,6 @@
   max_depth: 10
   enable_javascript: false
 
-- name: alphafinancials
-  url: https://alphafinancials.ucmerced.edu
-  concurrency: 1
-  max_depth: 10
-  enable_javascript: false
-
 - name: alumni
   url: https://alumni.ucmerced.edu
   concurrency: 1
