@@ -745,12 +745,6 @@
   max_depth: 10
   enable_javascript: false
 
-- name: eoc
-  url: https://eoc.ucmerced.edu
-  concurrency: 1
-  max_depth: 10
-  enable_javascript: false
-
 - name: eors
   url: https://eors.ucmerced.edu
   concurrency: 1
