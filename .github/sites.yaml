@@ -532,12 +532,6 @@
   max_depth: 10
   enable_javascript: false
 
-- name: costpolicy
-  url: https://costpolicy.ucmerced.edu
-  concurrency: 1
-  max_depth: 10
-  enable_javascript: false
-
 - name: counseling
   url: https://counseling.ucmerced.edu
   concurrency: 1
