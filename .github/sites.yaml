@@ -124,12 +124,6 @@
   max_depth: 10
   enable_javascript: false
 
-- name: ascend
-  url: https://ascend.ucmerced.edu
-  concurrency: 1
-  max_depth: 10
-  enable_javascript: false
-
 - name: assessment
   url: https://assessment.ucmerced.edu
   concurrency: 1
