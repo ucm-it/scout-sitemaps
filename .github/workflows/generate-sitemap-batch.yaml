@@ -57,7 +57,7 @@ jobs:
         run: |
           mkdir -p db sitemaps/${{ matrix.site.name }}
           cd PHP-XML-Sitemap-Generator
-          php bin/sitemap \
+          php -d memory_limit=-1 bin/sitemap \
             --url=${{ matrix.site.url }} \
             --out=../sitemaps/${{ matrix.site.name }} \
             --concurrency=${{ matrix.site.concurrency }} \
