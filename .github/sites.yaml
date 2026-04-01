@@ -1089,12 +1089,6 @@
   max_depth: 10
   enable_javascript: false
 
-- name: irds
-  url: https://irds.ucmerced.edu
-  concurrency: 1
-  max_depth: 10
-  enable_javascript: false
-
 - name: irise
   url: https://irise.ucmerced.edu
   concurrency: 1
