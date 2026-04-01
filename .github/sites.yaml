@@ -1765,6 +1765,7 @@
   concurrency: 1
   max_depth: 10
   enable_javascript: false
+  force: true
 
 - name: sfac
   url: https://sfac.ucmerced.edu
