@@ -2156,12 +2156,6 @@
   max_depth: 10
   enable_javascript: false
 
-- name: ucpath
-  url: https://ucpath.ucmerced.edu
-  concurrency: 1
-  max_depth: 10
-  enable_javascript: false
-
 - name: ucsolar
   url: https://ucsolar.ucmerced.edu
   concurrency: 1
