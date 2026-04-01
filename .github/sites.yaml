@@ -1142,6 +1142,7 @@
   concurrency: 1
   max_depth: 10
   enable_javascript: false
+  force: true
 
 - name: learninglab
   url: https://learninglab.ucmerced.edu
