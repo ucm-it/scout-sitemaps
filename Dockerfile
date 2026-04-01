@@ -17,4 +17,4 @@ RUN git clone --branch v3.0.0 --depth 1 \
 
 WORKDIR /output
 
-ENTRYPOINT ["php", "/app/sitemap-generator/bin/sitemap"]
+ENTRYPOINT ["php", "-d", "memory_limit=-1", "/app/sitemap-generator/bin/sitemap"]
