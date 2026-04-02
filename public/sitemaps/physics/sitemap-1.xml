@@ -173,7 +173,7 @@
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-02</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/academics/graduate-studies</loc>
@@ -883,10 +883,10 @@
     <loc>https://physics.ucmerced.edu/content/elsa-vazquez</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/aaron-wheeler</loc>
+    <loc>https://physics.ucmerced.edu/content/alauna-wheeler</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/alauna-wheeler</loc>
+    <loc>https://physics.ucmerced.edu/content/aaron-wheeler</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/taylor-whitney</loc>
@@ -1475,7 +1475,7 @@
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-02</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/node/4171</loc>
@@ -2261,6 +2261,9 @@
     <loc>https://physics.ucmerced.edu/news/2023/astronomy-club-hosts-solar-eclipse-event</loc>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/news/2023/2023-physics-graduate-student-achievements</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/news/2023/appreciation-physics-postdocs</loc>
   </url>
   <url>
@@ -2289,6 +2292,9 @@
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2023/wilson-selected-2023-american-astronomical-society-fellow</loc>
@@ -2417,10 +2423,10 @@
     <loc>https://physics.ucmerced.edu/news?page=11</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2020/lab-finds-chitin-surprising-places</loc>
+    <loc>https://physics.ucmerced.edu/news/2020/strubbe-lab-represent-uc-merced-distinction-national-conference</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2020/strubbe-lab-represent-uc-merced-distinction-national-conference</loc>
+    <loc>https://physics.ucmerced.edu/news/2020/lab-finds-chitin-surprising-places</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2020/uc-merced-physics-now-part-aps-bridge-program</loc>
@@ -2462,10 +2468,10 @@
     <loc>https://physics.ucmerced.edu/news/2014/nano-bio-program-provides-unique-research-experience</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2014/uc-solar-2014-symposium</loc>
+    <loc>https://physics.ucmerced.edu/news/2014/campus-highlights-physics-group</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2014/campus-highlights-physics-group</loc>
+    <loc>https://physics.ucmerced.edu/news/2014/uc-solar-2014-symposium</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2014/award-winning-physics-students</loc>
@@ -2490,9 +2496,6 @@
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2024?page=1</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/news/2023/2023-physics-graduate-student-achievements</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2023?page=1</loc>
@@ -2699,10 +2702,10 @@
     <loc>https://physics.ucmerced.edu/news/2019/star-student-and-nasa-standout-preparing-stellar-future</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2019/physicist-found-his-path-future-uc-merced</loc>
+    <loc>https://physics.ucmerced.edu/news/2019/lab-works-understand-molecular-motors-and-cholesterol%E2%80%99s-relation-alzheimer%E2%80%99s</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2019/lab-works-understand-molecular-motors-and-cholesterol%E2%80%99s-relation-alzheimer%E2%80%99s</loc>
+    <loc>https://physics.ucmerced.edu/news/2019/physicist-found-his-path-future-uc-merced</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2019/physicists-revealing-mysteries-biological-fluids</loc>
@@ -2795,10 +2798,10 @@
     <loc>https://physics.ucmerced.edu/news/2015/hirst-elected-aps-committee</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2015/professor-takes-bird%E2%80%99s-eye-view-collective-movements</loc>
+    <loc>https://physics.ucmerced.edu/news/2015/bird%E2%80%99s-eye-view-collective-movements</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2015/bird%E2%80%99s-eye-view-collective-movements</loc>
+    <loc>https://physics.ucmerced.edu/news/2015/professor-takes-bird%E2%80%99s-eye-view-collective-movements</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2015/graduate-students-win-solar-fellowships</loc>
@@ -2840,23 +2843,20 @@
     <loc>https://physics.ucmerced.edu/news/2016/brainstorm-professors-take-holistic-approach-study-thinking-learning-and-neuroscience</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/taxonomy/term/1191/feed</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-02</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/taxonomy/term/381/feed</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-02</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/taxonomy/term/19/feed</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-02</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/taxonomy/term/981/feed</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-02</lastmod>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/media-contact/elizabeth-arakelian</loc>
@@ -2867,6 +2867,6 @@
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/taxonomy/term/331/feed</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-02</lastmod>
   </url>
 </urlset>

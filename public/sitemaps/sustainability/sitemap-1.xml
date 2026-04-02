@@ -28,7 +28,7 @@
     <loc>https://sustainability.ucmerced.edu/about-us/community-partners</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/about-us/sustainability-clubsorgs</loc>
+    <loc>https://sustainability.ucmerced.edu/about-us/student-clubsorganizations</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/about-us/our-living-environment</loc>
@@ -47,6 +47,18 @@
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/living-lab-0</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/living-lab/announcements</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/living-lab/leed-lab</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/living-lab/our-team</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/living-lab/projects</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/climate-action</loc>
@@ -143,7 +155,7 @@
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-02</lastmod>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/contact-us</loc>
@@ -317,10 +329,10 @@
     <loc>https://sustainability.ucmerced.edu/events/world-animal-day</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/tour-ceres-high-school</loc>
+    <loc>https://sustainability.ucmerced.edu/events/charrette-utility-master-plan</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/charrette-utility-master-plan</loc>
+    <loc>https://sustainability.ucmerced.edu/events/tour-ceres-high-school</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/world-habitat-day</loc>
@@ -563,10 +575,10 @@
     <loc>https://sustainability.ucmerced.edu/events/gamws-showcase</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/sustainability-awareness-tabling-2</loc>
+    <loc>https://sustainability.ucmerced.edu/events/campus-garden-volunteering-3</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/campus-garden-volunteering-3</loc>
+    <loc>https://sustainability.ucmerced.edu/events/sustainability-awareness-tabling-2</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/sustainability-awareness-tabling-1</loc>
