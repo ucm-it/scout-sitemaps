@@ -48,7 +48,7 @@ jobs:
                   \"name\": \"$name\",
                   \"source\": \"web\",
                   \"access_type\": \"public\",
-                  \"refresh_freq\": 1800,
+                  \"refresh_freq\": 86400,
                   \"prune_freq\": 2592000,
                   \"indexing_start\": null,
                   \"groups\": []
