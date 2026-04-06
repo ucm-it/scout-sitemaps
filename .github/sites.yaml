@@ -335,12 +335,6 @@
   max_depth: 10
   enable_javascript: false
 
-- name: ccc
-  url: https://ccc.ucmerced.edu
-  concurrency: 1
-  max_depth: 10
-  enable_javascript: false
-
 - name: cccat
   url: https://cccat.ucmerced.edu
   concurrency: 1
