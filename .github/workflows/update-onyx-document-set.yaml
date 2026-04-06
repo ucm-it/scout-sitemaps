@@ -10,6 +10,10 @@ on:
         options:
           - dev
           - prod
+      document_set_id:
+        description: Onyx document set ID to update
+        required: true
+        type: number
 
 jobs:
   update-document-set:
@@ -38,10 +42,10 @@ jobs:
           )
 
           echo "Connector IDs to include: $CC_PAIR_IDS"
-          echo "Updating document set ${{ secrets.ONYX_DOCUMENT_SET_ID }}"
+          echo "Updating document set ${{ inputs.document_set_id }}"
 
           PAYLOAD=$(jq -n \
-            --argjson id '${{ secrets.ONYX_DOCUMENT_SET_ID }}' \
+            --argjson id '${{ inputs.document_set_id }}' \
             --argjson cc_pair_ids "$CC_PAIR_IDS" \
             '{
               id: $id,
