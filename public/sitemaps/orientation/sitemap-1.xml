@@ -7,22 +7,7 @@
     <loc>https://orientation.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://orientation.ucmerced.edu/spring-2026-orientation-registration</loc>
-  </url>
-  <url>
-    <loc>https://orientation.ucmerced.edu/spring-orientation-overview</loc>
-  </url>
-  <url>
-    <loc>https://orientation.ucmerced.edu/student-orientation/transfer-orientation/faqs-transfer-student-summer-orientation</loc>
-  </url>
-  <url>
-    <loc>https://orientation.ucmerced.edu/student-orientation/first-year-orientation/faqs-first-year-student-summer-orientation</loc>
-  </url>
-  <url>
-    <loc>https://orientation.ucmerced.edu/pre-orientation-checklist</loc>
-  </url>
-  <url>
-    <loc>https://orientation.ucmerced.edu/node/901</loc>
+    <loc>https://orientation.ucmerced.edu/fall-2026-orientation-enrollment</loc>
   </url>
   <url>
     <loc>https://orientation.ucmerced.edu/parent-guest-programming</loc>
@@ -49,16 +34,16 @@
   </url>
   <url>
     <loc>https://orientation.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-04-08</lastmod>
+    <lastmod>2026-04-09</lastmod>
+  </url>
+  <url>
+    <loc>https://orientation.ucmerced.edu/student-orientation/first-year-orientation/faqs-first-year-student-summer-orientation</loc>
+  </url>
+  <url>
+    <loc>https://orientation.ucmerced.edu/student-orientation/transfer-orientation/faqs-transfer-student-summer-orientation</loc>
   </url>
   <url>
     <loc>https://orientation.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://orientation.ucmerced.edu/node/18</loc>
-  </url>
-  <url>
-    <loc>https://orientation.ucmerced.edu/student-orientation/summer-transfer-student-orientation</loc>
   </url>
   <url>
     <loc>https://orientation.ucmerced.edu/sites/g/files/ufvvjh1366/f/page/documents/su_25_master_presentation_07.16.25.pdf</loc>
@@ -75,5 +60,11 @@
   <url>
     <loc>https://orientation.ucmerced.edu/sites/orientation.ucmerced.edu/files/page/documents/student_schedule_su23_week_1-2.pdf</loc>
     <lastmod>2023-07-03</lastmod>
+  </url>
+  <url>
+    <loc>https://orientation.ucmerced.edu/node/18</loc>
+  </url>
+  <url>
+    <loc>https://orientation.ucmerced.edu/student-orientation/summer-transfer-student-orientation</loc>
   </url>
 </urlset>
