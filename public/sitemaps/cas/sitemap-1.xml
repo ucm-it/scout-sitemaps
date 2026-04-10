@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://cas.ucmerced.edu</loc>
-    <lastmod>2026-04-09</lastmod>
+    <lastmod>2026-04-10</lastmod>
   </url>
   <url>
     <loc>https://cas.ucmerced.edu/</loc>
-    <lastmod>2026-04-09</lastmod>
+    <lastmod>2026-04-10</lastmod>
   </url>
   <url>
     <loc>https://cas.ucmerced.edu/vision</loc>
-    <lastmod>2026-04-09</lastmod>
+    <lastmod>2026-04-10</lastmod>
   </url>
   <url>
     <loc>https://cas.ucmerced.edu/our-team</loc>
-    <lastmod>2026-04-09</lastmod>
+    <lastmod>2026-04-10</lastmod>
   </url>
   <url>
     <loc>https://cas.ucmerced.edu/funding-opportunities</loc>
-    <lastmod>2026-04-09</lastmod>
+    <lastmod>2026-04-10</lastmod>
   </url>
   <url>
     <loc>https://cas.ucmerced.edu/events</loc>
-    <lastmod>2026-04-09</lastmod>
+    <lastmod>2026-04-10</lastmod>
   </url>
   <url>
     <loc>https://cas.ucmerced.edu/news</loc>
-    <lastmod>2026-04-09</lastmod>
+    <lastmod>2026-04-10</lastmod>
   </url>
   <url>
     <loc>https://cas.ucmerced.edu/contact-support-cas</loc>
-    <lastmod>2026-04-09</lastmod>
+    <lastmod>2026-04-10</lastmod>
   </url>
   <url>
     <loc>https://cas.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-04-09</lastmod>
+    <lastmod>2026-04-10</lastmod>
   </url>
   <url>
     <loc>https://cas.ucmerced.edu/contact-us</loc>
@@ -70,6 +70,10 @@
   <url>
     <loc>https://cas.ucmerced.edu/sites/cas.ucmerced.edu/files/documents/okcello_1x1.png</loc>
     <lastmod>2025-01-24</lastmod>
+  </url>
+  <url>
+    <loc>https://cas.ucmerced.edu/sites/cas.ucmerced.edu/files/documents/christian_alvarado_flyer_final_version.png</loc>
+    <lastmod>2025-01-23</lastmod>
   </url>
   <url>
     <loc>https://cas.ucmerced.edu/sites/cas.ucmerced.edu/files/page/documents/christian_alvarado_flyer_final_version.pdf</loc>
@@ -137,6 +141,6 @@
   </url>
   <url>
     <loc>https://cas.ucmerced.edu/news/2024/sabrina-smith-publishes-new-article-oxford-encyclopedia-african-history</loc>
-    <lastmod>2026-04-09</lastmod>
+    <lastmod>2026-04-10</lastmod>
   </url>
 </urlset>
