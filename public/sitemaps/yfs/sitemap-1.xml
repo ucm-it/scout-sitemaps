@@ -2,33 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://yosemite.ucnature.org/</loc>
-    <lastmod>2026-04-10</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/about/</loc>
+    <lastmod>2026-04-11</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/activities/research/</loc>
+    <lastmod>2026-04-11</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/activities/university-courses/</loc>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/activities/outreach-public-service/</loc>
+    <lastmod>2026-04-11</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/activities/conferences-and-retreats/</loc>
-    <lastmod>2026-04-09</lastmod>
+    <lastmod>2026-04-11</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/visiting/</loc>
+    <lastmod>2026-04-10</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/visiting/facilities/</loc>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/visiting/fees/</loc>
-    <lastmod>2026-04-09</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/resources/</loc>
@@ -38,23 +40,25 @@
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/resources/data/</loc>
-    <lastmod>2026-04-10</lastmod>
+    <lastmod>2026-04-11</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/resources/guidebooks-and-mobile-applications/</loc>
+    <lastmod>2026-04-11</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/about/contact/</loc>
-    <lastmod>2026-04-10</lastmod>
+    <lastmod>2026-04-11</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/about/map-directions/</loc>
-    <lastmod>2026-04-09</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/resources/opportunities/</loc>
+    <lastmod>2026-04-11</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/about/emergency-information/</loc>
+    <lastmod>2026-04-07</lastmod>
   </url>
 </urlset>
