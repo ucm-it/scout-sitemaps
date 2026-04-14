@@ -1,0 +1,61 @@
+name: Generate ServiceNow Knowledge Base Article Sitemap
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate-sitemap:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate ServiceNow API Access Token
+        id: auth
+        run: |
+          response=$(curl --location '${{ vars.SERVICE_NOW_BASE_URL }}/oauth_token.do' \
+              --header 'Content-Type: application/x-www-form-urlencoded' \
+              --data-urlencode 'grant_type=password' \
+              --data-urlencode 'client_id=${{ secrets.SERVICE_NOW_CLIENT_ID }}' \
+              --data-urlencode 'client_secret=${{ secrets.SERVICE_NOW_CLIENT_SECRET }}' \
+              --data-urlencode 'username=${{ secrets.SERVICE_NOW_USERNAME }}' \
+              --data-urlencode 'password=${{ secrets.SERVICE_NOW_PASSWORD }}')
+          access_token=$(echo "$response" | jq -r '.access_token')
+          echo "access_token=$access_token" >> "$GITHUB_OUTPUT"
+
+      - name: Get ServiceNow Knowledge Base Articles
+        id: articles
+        run: |
+          response=$(curl --location '${{ vars.SERVICE_NOW_BASE_URL }}/api/now/table/kb_knowledge?sysparm_query=${{ vars.SYSPARM_QUERY }}&sysparm_fields=${{ vars.SYSPARM_FIELDS }}' \
+            --header 'Authorization: Bearer ${{ steps.auth.outputs.access_token }}')
+          sys_ids_json=$(echo "$response" | jq -c '[.result[].sys_id]')
+          echo "sys_ids=$sys_ids_json" >> "$GITHUB_OUTPUT"
+
+      - name: Generate Knowledge Base Article Links
+        id: links
+        env:
+          BASE_URL: ${{ vars.SERVICE_NOW_BASE_URL }}
+        run: |
+          urls=$(echo '${{ steps.articles.outputs.sys_ids }}' | jq -r '.[]' | while read sys_id; do
+            echo "${BASE_URL}/servicehub?id=sh_kb_article_view&sys_id=${sys_id}"
+          done)
+          urls_json=$(echo "$urls" | jq -R . | jq -sc .)
+          echo "urls=$urls_json" >> "$GITHUB_OUTPUT"
+
+      - name: Generate Sitemap
+        run: |
+          urls_json='${{ steps.links.outputs.urls }}'
+          mkdir -p sitemaps/servicenow-kba
+          {
+            echo '<?xml version="1.0" encoding="UTF-8"?>'
+            echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+            echo "$urls_json" | jq -r '.[]' | while read url; do
+              echo "  <url><loc>$url</loc></url>"
+            done
+            echo '</urlset>'
+          } > sitemaps/servicenow-kba/sitemap.xml
+          cat sitemaps/servicenow-kba/sitemap.xml
+
+      - name: Upload sitemap artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: sitemap-servicenow-kba
+          path: sitemaps/servicenow-kba/
