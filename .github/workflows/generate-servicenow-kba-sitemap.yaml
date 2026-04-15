@@ -49,7 +49,8 @@ jobs:
             echo '<?xml version="1.0" encoding="UTF-8"?>'
             echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">'
             echo "$urls_json" | jq -r '.[]' | while read url; do
-              echo "  <url><loc>$url</loc></url>"
+              escaped_url=$(echo "$url" | sed 's/&/\&amp;/g')
+              echo "  <url><loc>$escaped_url</loc></url>"
             done
             echo '</urlset>'
           } > sitemaps/servicenow-kba/sitemap.xml
