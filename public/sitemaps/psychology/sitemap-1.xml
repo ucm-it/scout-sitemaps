@@ -133,10 +133,6 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/events</loc>
-    <lastmod>2026-04-15</lastmod>
-  </url>
-  <url>
     <loc>https://psychology.ucmerced.edu/events/distinguished-speaker-series-psychological-sciences</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
@@ -186,6 +182,10 @@
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/events</loc>
+    <lastmod>2026-04-15</lastmod>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/sites/psychology.ucmerced.edu/files/page/documents/faculty_publications_since_2015.pdf</loc>
@@ -272,19 +272,19 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/content/jason-isbell</loc>
-    <lastmod>2026-04-15</lastmod>
-  </url>
-  <url>
     <loc>https://psychology.ucmerced.edu/content/elif-isbell</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/content/haiyan-liu</loc>
+    <loc>https://psychology.ucmerced.edu/content/jason-isbell</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/content/ren-liu</loc>
+    <lastmod>2026-04-15</lastmod>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/content/haiyan-liu</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
@@ -568,11 +568,15 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/events/health-psych-colloquium-dr-jacqueline-hua-national-cancer-institute</loc>
+    <loc>https://psychology.ucmerced.edu/media-contact/jody-murray</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/events/health-psych-colloquium-jessica-marino-ucm</loc>
+    <loc>https://psychology.ucmerced.edu/sites/g/files/ufvvjh1496/f/event/documents/uc_merced_california_room_map.pdf</loc>
+    <lastmod>2026-04-13</lastmod>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/events/health-psych-colloquium-dr-jacqueline-hua-national-cancer-institute</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
@@ -580,11 +584,15 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/events/developmental-psychology-colloquium-dr-melis-muradoglu-stanford-university</loc>
+    <loc>https://psychology.ucmerced.edu/events/health-psych-colloquium-jessica-marino-ucm</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/events/health-psych-colloquium-zoe-griffith-ucm</loc>
+    <lastmod>2026-04-15</lastmod>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/events/developmental-psychology-colloquium-dr-melis-muradoglu-stanford-university</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
@@ -676,6 +684,10 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
+    <loc>https://psychology.ucmerced.edu/events/developmental-colloquium-lisa-oakes-uc-davis</loc>
+    <lastmod>2026-04-15</lastmod>
+  </url>
+  <url>
     <loc>https://psychology.ucmerced.edu/events/qmms-colloquium-yue-li</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
@@ -684,15 +696,7 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/events/developmental-colloquium-lisa-oakes-uc-davis</loc>
-    <lastmod>2026-04-15</lastmod>
-  </url>
-  <url>
     <loc>https://psychology.ucmerced.edu/events/developmental-colloquium-serena</loc>
-    <lastmod>2026-04-15</lastmod>
-  </url>
-  <url>
-    <loc>https://psychology.ucmerced.edu/events/health-colloquium-bianca-hinojosa-kaylyn-mcanally-uc-merced</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
@@ -700,7 +704,15 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
+    <loc>https://psychology.ucmerced.edu/events/health-colloquium-bianca-hinojosa-kaylyn-mcanally-uc-merced</loc>
+    <lastmod>2026-04-15</lastmod>
+  </url>
+  <url>
     <loc>https://psychology.ucmerced.edu/events/developmental-colloquium-john-franchak-uc-riverside</loc>
+    <lastmod>2026-04-15</lastmod>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/events/health-colloquium-dr-sylvanna-maria-vargas-ucla</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
@@ -709,10 +721,6 @@
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/events/qmms-colloquium-article-critique</loc>
-    <lastmod>2026-04-15</lastmod>
-  </url>
-  <url>
-    <loc>https://psychology.ucmerced.edu/events/health-colloquium-dr-sylvanna-maria-vargas-ucla</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
@@ -788,11 +796,11 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/events/developmental-psychology-colloquium-yolanda-vasquez-salgado-california-state-university</loc>
+    <loc>https://psychology.ucmerced.edu/events/health-psychology-colloquium-yolanda-vasquez-salgado-csu-northridge</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/events/health-psychology-colloquium-yolanda-vasquez-salgado-csu-northridge</loc>
+    <loc>https://psychology.ucmerced.edu/events/developmental-psychology-colloquium-yolanda-vasquez-salgado-california-state-university</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
@@ -1004,11 +1012,11 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/events/health-psychology-seminar-dr-emily-little-nurterly</loc>
+    <loc>https://psychology.ucmerced.edu/events/quantitative-seminar-ana-simoes-visualization-tools-case-and-model-diagnostics-sem</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/events/quantitative-seminar-ana-simoes-visualization-tools-case-and-model-diagnostics-sem</loc>
+    <loc>https://psychology.ucmerced.edu/events/health-psychology-seminar-dr-emily-little-nurterly</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
@@ -2100,14 +2108,6 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/media-contact/jody-murray</loc>
-    <lastmod>2026-04-15</lastmod>
-  </url>
-  <url>
-    <loc>https://psychology.ucmerced.edu/sites/g/files/ufvvjh1496/f/event/documents/uc_merced_california_room_map.pdf</loc>
-    <lastmod>2026-04-13</lastmod>
-  </url>
-  <url>
     <loc>https://psychology.ucmerced.edu/news/2024/graduate-student-job-success-kaylyn-mcanally-star</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
@@ -2160,15 +2160,23 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2022/martin-hagger-published-article-annals-behavioral-medicine</loc>
-    <lastmod>2026-04-15</lastmod>
-  </url>
-  <url>
     <loc>https://psychology.ucmerced.edu/news/2022/heather-bortfeld-published-article%C2%A0-fnirs-applications-domain-human-brain-function</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
+    <loc>https://psychology.ucmerced.edu/news/2022/martin-hagger-published-article-annals-behavioral-medicine</loc>
+    <lastmod>2026-04-15</lastmod>
+  </url>
+  <url>
     <loc>https://psychology.ucmerced.edu/news/2022/five-students-earn-nsf-graduate-research-fellowships</loc>
+    <lastmod>2026-04-15</lastmod>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/news/2022/article-co-authored-martin-hagger-was-awarded-behavioral-sciences-2020-best-paper-award</loc>
+    <lastmod>2026-04-15</lastmod>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/news/2022/martin-hagger-published-article-european-journal-health-psychology-factors-associated-use</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
@@ -2184,10 +2192,6 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2022/allison-temourians-paper-published-reasons-why-dual-users-may-use-e-cigarettes-and-how</loc>
-    <lastmod>2026-04-15</lastmod>
-  </url>
-  <url>
     <loc>https://psychology.ucmerced.edu/news/2022/dylan-richardson-was-awarded-nsf-graduate-research-fellowship-1st-year-phd-student</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
@@ -2200,27 +2204,15 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2022/ihnwhi-heo-has-been-awarded-year-long-fellowship-graduate-student-opportunity-program</loc>
-    <lastmod>2026-04-15</lastmod>
-  </url>
-  <url>
     <loc>https://psychology.ucmerced.edu/news/2022/psysci-honors-poster-presentation</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
+    <loc>https://psychology.ucmerced.edu/news/2022/ihnwhi-heo-has-been-awarded-year-long-fellowship-graduate-student-opportunity-program</loc>
+    <lastmod>2026-04-15</lastmod>
+  </url>
+  <url>
     <loc>https://psychology.ucmerced.edu/news/2022/psychology-hosted-its-annual-1st-year-phd-student-presentations</loc>
-    <lastmod>2026-04-15</lastmod>
-  </url>
-  <url>
-    <loc>https://psychology.ucmerced.edu/news/2022/martin-hagger-was-made-fellow-society-behavioral-medicine</loc>
-    <lastmod>2026-04-15</lastmod>
-  </url>
-  <url>
-    <loc>https://psychology.ucmerced.edu/news/2022/deb-wiebe-was-awarded-5-year-33-million-nih-grant-national-institutes-diabetes-and</loc>
-    <lastmod>2026-04-15</lastmod>
-  </url>
-  <url>
-    <loc>https://psychology.ucmerced.edu/news/2022/haiyan-liu-and-sarah-depaoli-published-paper-their-graduate-student-lydia-marvin</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
@@ -2232,7 +2224,11 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2022/martin-hagger-published-article-plos-one</loc>
+    <loc>https://psychology.ucmerced.edu/news/2022/martin-hagger-was-made-fellow-society-behavioral-medicine</loc>
+    <lastmod>2026-04-15</lastmod>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/news/2022/deb-wiebe-was-awarded-5-year-33-million-nih-grant-national-institutes-diabetes-and</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
@@ -2241,6 +2237,18 @@
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/news/2022/sarah-depaoli-published-article-structural-equation-modeling-multidisciplinary-journal-0</loc>
+    <lastmod>2026-04-15</lastmod>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/news/2022/martin-hagger-invited-submit-article-annual-review-psychology</loc>
+    <lastmod>2026-04-15</lastmod>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/news/2022/sarah-depaoli-published-article-structural-equation-modeling-multidisciplinary-journal-1</loc>
+    <lastmod>2026-04-15</lastmod>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/news/2022/haiyan-liu-and-sarah-depaoli-published-paper-their-graduate-student-lydia-marvin</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
@@ -2264,6 +2272,14 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
+    <loc>https://psychology.ucmerced.edu/news/2022/article-published-adi-fish%C2%A0based-growing-new-zealand-project</loc>
+    <lastmod>2026-04-15</lastmod>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/news/2022/martin-hagger-published-article-health-psychology</loc>
+    <lastmod>2026-04-15</lastmod>
+  </url>
+  <url>
     <loc>https://psychology.ucmerced.edu/news/2022/sarah-depaoli-published-article-structural-equation-modeling-multidisciplinary-journal</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
@@ -2284,15 +2300,15 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2022/jennifer-howell-discussed-her-work-information-avoidance-radio-new-zealand-program-sunday</loc>
-    <lastmod>2026-04-15</lastmod>
-  </url>
-  <url>
-    <loc>https://psychology.ucmerced.edu/news/2022/eric-walle-authored-introductory-chapter-oxford-handbook-emotional-development</loc>
-    <lastmod>2026-04-15</lastmod>
-  </url>
-  <url>
     <loc>https://psychology.ucmerced.edu/news?page=9</loc>
+    <lastmod>2026-04-15</lastmod>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/news/2022/sarah-depaoli-and-haiyan-liu-co-edited-e-book-using-informative-priors-context-bayesian</loc>
+    <lastmod>2026-04-15</lastmod>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/news/2022/new-article-published-ashley-baker-based-healthy-passages-data</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
@@ -2392,7 +2408,7 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2020/maria-ramirez-loyola-recognized-outstanding-teaching-award</loc>
+    <loc>https://psychology.ucmerced.edu/news/2020/pradyumna-lanka-receives-dr-donald-and-effie-godbold-fellowship</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
@@ -2400,11 +2416,11 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2013/will-shadish-president-elect-society-multivariate-experimental-psychology</loc>
+    <loc>https://psychology.ucmerced.edu/news/2013/kristynn-sullivan-recieves-outstanding-graduate-student-award</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2013/kristynn-sullivan-recieves-outstanding-graduate-student-award</loc>
+    <loc>https://psychology.ucmerced.edu/news/2013/will-shadish-president-elect-society-multivariate-experimental-psychology</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
@@ -2444,11 +2460,11 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2016/researchers-discuss-strong-family-relationships-symposium</loc>
+    <loc>https://psychology.ucmerced.edu/taxonomy/term/1371/feed</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/taxonomy/term/1371/feed</loc>
+    <loc>https://psychology.ucmerced.edu/news/2016/researchers-discuss-strong-family-relationships-symposium</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
@@ -2476,7 +2492,7 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2020/sonja-winter-recognized-will-shadish-graduate-student-fellowship</loc>
+    <loc>https://psychology.ucmerced.edu/news/2020/maria-ramirez-loyola-recognized-outstanding-teaching-award</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
@@ -2513,10 +2529,6 @@
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/news?page=13</loc>
-    <lastmod>2026-04-15</lastmod>
-  </url>
-  <url>
-    <loc>https://psychology.ucmerced.edu/news/2020/grad-students-alums-receive-nsf-research-fellowships</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
@@ -2624,11 +2636,11 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2019/graduate-student-kay-kim-and-professor-jan-wallander-find-influence-parent-involvement</loc>
+    <loc>https://psychology.ucmerced.edu/news/2019/graduate-student-research-recognized</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2019/graduate-student-research-recognized</loc>
+    <loc>https://psychology.ucmerced.edu/news/2019/graduate-student-kay-kim-and-professor-jan-wallander-find-influence-parent-involvement</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
@@ -2872,11 +2884,11 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2015/research-graduate-student-nikko-da-paz-featured-merced-sun-star</loc>
+    <loc>https://psychology.ucmerced.edu/news/2015/professor-jan-wallander-receives-distinguished-research-award</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2015/professor-jan-wallander-receives-distinguished-research-award</loc>
+    <loc>https://psychology.ucmerced.edu/news/2015/research-graduate-student-nikko-da-paz-featured-merced-sun-star</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
@@ -2916,11 +2928,11 @@
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2015/psychological-sciences-faculty-featured-merced-sun-star</loc>
+    <loc>https://psychology.ucmerced.edu/news/2015/psychological-sciences-faculty-host-child-development-conference</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2015/psychological-sciences-faculty-host-child-development-conference</loc>
+    <loc>https://psychology.ucmerced.edu/news/2015/psychological-sciences-faculty-featured-merced-sun-star</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>
@@ -2957,6 +2969,10 @@
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/taxonomy/term/1321/feed</loc>
+    <lastmod>2026-04-15</lastmod>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/news/2020/grad-students-alums-receive-nsf-research-fellowships</loc>
     <lastmod>2026-04-15</lastmod>
   </url>
   <url>

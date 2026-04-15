@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://scicon.ucnature.org/</loc>
-    <lastmod>2026-04-13</lastmod>
+    <lastmod>2026-04-15</lastmod>
   </url>
   <url>
     <loc>https://scicon.ucnature.org/contact-us/</loc>
-    <lastmod>2026-04-13</lastmod>
+    <lastmod>2026-04-15</lastmod>
   </url>
   <url>
     <loc>https://scicon.ucnature.org/plan-your-visit/map-directions/</loc>
@@ -16,8 +16,10 @@
   </url>
   <url>
     <loc>https://scicon.ucnature.org/resources/natural-history/</loc>
+    <lastmod>2026-04-15</lastmod>
   </url>
   <url>
     <loc>https://scicon.ucnature.org/resources/biodiversity/</loc>
+    <lastmod>2026-04-15</lastmod>
   </url>
 </urlset>
