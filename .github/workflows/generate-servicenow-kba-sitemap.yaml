@@ -2,6 +2,7 @@ name: Generate ServiceNow Knowledge Base Article Sitemap
 
 on:
   workflow_dispatch:
+  workflow_call:
 
 jobs:
   generate-sitemap:

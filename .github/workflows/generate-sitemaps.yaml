@@ -36,9 +36,13 @@ jobs:
     with:
       matrix: ${{ matrix.chunk }}
 
+  generate-servicenow-kba-sitemap:
+    uses: ./.github/workflows/generate-servicenow-kba-sitemap.yaml
+    secrets: inherit
+
   commit-sitemaps:
     runs-on: ubuntu-latest
-    needs: [generate-sitemap]
+    needs: [generate-sitemap, generate-servicenow-kba-sitemap]
     if: always()
     permissions:
       contents: write
