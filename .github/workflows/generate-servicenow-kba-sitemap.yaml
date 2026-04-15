@@ -27,16 +27,16 @@ jobs:
         run: |
           response=$(curl --location '${{ vars.SERVICE_NOW_BASE_URL }}/api/now/table/kb_knowledge?sysparm_query=${{ vars.SYSPARM_QUERY }}&sysparm_fields=${{ vars.SYSPARM_FIELDS }}' \
             --header 'Authorization: Bearer ${{ steps.auth.outputs.access_token }}')
-          sys_ids_json=$(echo "$response" | jq -c '[.result[].sys_id]')
-          echo "sys_ids=$sys_ids_json" >> "$GITHUB_OUTPUT"
+          kb_numbers_json=$(echo "$response" | jq -c '[.result[].number]')
+          echo "kb_numbers=$kb_numbers_json" >> "$GITHUB_OUTPUT"
 
       - name: Generate Knowledge Base Article Links
         id: links
         env:
           BASE_URL: ${{ vars.SERVICE_NOW_BASE_URL }}
         run: |
-          urls=$(echo '${{ steps.articles.outputs.sys_ids }}' | jq -r '.[]' | while read sys_id; do
-            echo "${BASE_URL}/servicehub?id=sh_kb_article_view&sys_id=${sys_id}"
+          urls=$(echo '${{ steps.articles.outputs.kb_numbers }}' | jq -r '.[]' | while read kb_number; do
+            echo "${BASE_URL}/kb_view.do?sysparm_article=${kb_number}"
           done)
           urls_json=$(echo "$urls" | jq -R . | jq -sc .)
           echo "urls=$urls_json" >> "$GITHUB_OUTPUT"
@@ -49,8 +49,7 @@ jobs:
             echo '<?xml version="1.0" encoding="UTF-8"?>'
             echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">'
             echo "$urls_json" | jq -r '.[]' | while read url; do
-              escaped_url=$(echo "$url" | sed 's/&/\&amp;/g')
-              echo "  <url><loc>$escaped_url</loc></url>"
+              echo "  <url><loc>$url</loc></url>"
             done
             echo '</urlset>'
           } > sitemaps/servicenow-kba/sitemap.xml
