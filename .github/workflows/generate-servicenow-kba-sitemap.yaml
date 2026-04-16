@@ -25,31 +25,32 @@ jobs:
       - name: Get ServiceNow Knowledge Base Articles
         id: articles
         run: |
-          response=$(curl --location '${{ vars.SERVICE_NOW_BASE_URL }}/api/now/table/kb_knowledge?sysparm_query=${{ vars.SYSPARM_QUERY }}&sysparm_fields=${{ vars.SYSPARM_FIELDS }}' \
-            --header 'Authorization: Bearer ${{ steps.auth.outputs.access_token }}')
-          kb_numbers_json=$(echo "$response" | jq -c '[.result[].number]')
-          echo "kb_numbers=$kb_numbers_json" >> "$GITHUB_OUTPUT"
+          limit=100
+          offset=0
+          all_numbers='[]'
+          total=-1
+          while [ "$total" -eq -1 ] || [ "$(echo "$all_numbers" | jq 'length')" -lt "$total" ]; do
+            response=$(curl --silent --dump-header headers.txt \
+              '${{ vars.SERVICE_NOW_BASE_URL }}/api/now/table/kb_knowledge?sysparm_query=${{ vars.SYSPARM_QUERY }}&sysparm_fields=${{ vars.SYSPARM_FIELDS }}&sysparm_limit='"$limit"'&sysparm_offset='"$offset" \
+              --header 'Authorization: Bearer ${{ steps.auth.outputs.access_token }}')
+            total=$(grep -i 'x-total-count:' headers.txt | awk '{print $2}' | tr -d '[:space:]')
+            page_numbers=$(echo "$response" | jq -c '[.result[].number]')
+            all_numbers=$(echo "$all_numbers $page_numbers" | jq -sc 'add')
+            offset=$((offset + limit))
+          done
+          echo "Total KB articles: $total"
+          echo "kb_numbers=$all_numbers" >> "$GITHUB_OUTPUT"
 
-      - name: Generate Knowledge Base Article Links
-        id: links
+      - name: Generate Sitemap
         env:
           BASE_URL: ${{ vars.SERVICE_NOW_BASE_URL }}
         run: |
-          urls=$(echo '${{ steps.articles.outputs.kb_numbers }}' | jq -r '.[]' | while read kb_number; do
-            echo "${BASE_URL}/kb_view.do?sysparm_article=${kb_number}"
-          done)
-          urls_json=$(echo "$urls" | jq -R . | jq -sc .)
-          echo "urls=$urls_json" >> "$GITHUB_OUTPUT"
-
-      - name: Generate Sitemap
-        run: |
-          urls_json='${{ steps.links.outputs.urls }}'
           mkdir -p sitemaps/servicenow-kba
           {
             echo '<?xml version="1.0" encoding="UTF-8"?>'
             echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">'
-            echo "$urls_json" | jq -r '.[]' | while read url; do
-              echo "  <url><loc>$url</loc></url>"
+            echo '${{ steps.articles.outputs.kb_numbers }}' | jq -r '.[]' | while read kb_number; do
+              echo "  <url><loc>${BASE_URL}/kb_view.do?sysparm_article=${kb_number}</loc></url>"
             done
             echo '</urlset>'
           } > sitemaps/servicenow-kba/sitemap.xml
