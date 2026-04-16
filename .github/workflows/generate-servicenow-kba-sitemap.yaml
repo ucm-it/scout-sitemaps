@@ -33,12 +33,13 @@ jobs:
             response=$(curl --silent --dump-header headers.txt \
               '${{ vars.SERVICE_NOW_BASE_URL }}/api/now/table/kb_knowledge?sysparm_query=${{ vars.SYSPARM_QUERY }}&sysparm_fields=${{ vars.SYSPARM_FIELDS }}&sysparm_limit='"$limit"'&sysparm_offset='"$offset" \
               --header 'Authorization: Bearer ${{ steps.auth.outputs.access_token }}')
-            total=$(grep -i 'x-total-count:' headers.txt | awk '{print $2}' | tr -d '[:space:]')
+            total=$(grep -i 'x-total-count:' headers.txt | tr -d '\r' | awk '{print $2}')
             page_numbers=$(echo "$response" | jq -c '[.result[].number]')
+            page_count=$(echo "$page_numbers" | jq 'length')
             all_numbers=$(echo "$all_numbers $page_numbers" | jq -sc 'add')
+            echo "Fetched offset=$offset count=$page_count accumulated=$(echo "$all_numbers" | jq 'length') total=$total"
             offset=$((offset + limit))
           done
-          echo "Total KB articles: $total"
           echo "kb_numbers=$all_numbers" >> "$GITHUB_OUTPUT"
 
       - name: Generate Sitemap
