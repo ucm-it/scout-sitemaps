@@ -806,6 +806,12 @@
   max_depth: 10
   enable_javascript: false
 
+- name: farm
+  url: https://farm.ucmerced.edu
+  concurrency: 1
+  max_depth: 10
+  enable_javascript: false
+
 - name: fiatlux
   url: https://fiatlux.ucmerced.edu
   concurrency: 1
