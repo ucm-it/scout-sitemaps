@@ -2,139 +2,171 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://cem.ucmerced.edu</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cem.ucmerced.edu/</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cem.ucmerced.edu/building-dashboards</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>http://cem.ucmerced.edu/building-dashboards/cathedral</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cem.ucmerced.edu/building-dashboards/central-plant</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
-    <loc>https://cem.ucmerced.edu/building-dashboards/science-and-engineering-1</loc>
-    <lastmod>2026-04-21</lastmod>
-  </url>
-  <url>
-    <loc>https://cem.ucmerced.edu/building-dashboards/solar-field</loc>
-    <lastmod>2026-04-21</lastmod>
-  </url>
-  <url>
-    <loc>http://cem.ucmerced.edu/building-dashboards/student-athletics-activities-center</loc>
-    <lastmod>2026-04-21</lastmod>
-  </url>
-  <url>
-    <loc>https://cem.ucmerced.edu/building-dashboards/gallo-recreation-center</loc>
-    <lastmod>2026-04-21</lastmod>
-  </url>
-  <url>
-    <loc>https://cem.ucmerced.edu/building-dashboards/yablokoff-wallace-dining-center</loc>
-    <lastmod>2026-04-21</lastmod>
-  </url>
-  <url>
-    <loc>http://cem.ucmerced.edu/building-dashboards/facilities-services</loc>
-    <lastmod>2026-04-21</lastmod>
-  </url>
-  <url>
-    <loc>http://cem.ucmerced.edu/building-dashboards/sierra-terraces</loc>
-    <lastmod>2026-04-21</lastmod>
-  </url>
-  <url>
-    <loc>http://cem.ucmerced.edu/roomdashboard</loc>
-    <lastmod>2026-04-21</lastmod>
-  </url>
-  <url>
-    <loc>https://cem.ucmerced.edu/roomdashboard</loc>
-    <lastmod>2026-04-21</lastmod>
-  </url>
-  <url>
-    <loc>https://cem.ucmerced.edu/room-management/office-scheduler</loc>
-    <lastmod>2026-04-21</lastmod>
-  </url>
-  <url>
-    <loc>https://cem.ucmerced.edu/requestroom</loc>
-    <lastmod>2026-04-21</lastmod>
-  </url>
-  <url>
-    <loc>https://cem.ucmerced.edu/projects</loc>
-    <lastmod>2026-04-21</lastmod>
-  </url>
-  <url>
-    <loc>https://cem.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-04-21</lastmod>
+    <loc>https://cem.ucmerced.edu/building-dashboards/classroom-and-office-building</loc>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cem.ucmerced.edu/building-dashboards/kolligian-library</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
+  </url>
+  <url>
+    <loc>https://cem.ucmerced.edu/building-dashboards/science-and-engineering-1</loc>
+    <lastmod>2026-04-22</lastmod>
+  </url>
+  <url>
+    <loc>https://cem.ucmerced.edu/building-dashboards/social-science-and-management</loc>
+    <lastmod>2026-04-22</lastmod>
+  </url>
+  <url>
+    <loc>https://cem.ucmerced.edu/building-dashboards/solar-field</loc>
+    <lastmod>2026-04-22</lastmod>
+  </url>
+  <url>
+    <loc>http://cem.ucmerced.edu/building-dashboards/student-athletics-activities-center</loc>
+    <lastmod>2026-04-22</lastmod>
+  </url>
+  <url>
+    <loc>https://cem.ucmerced.edu/building-dashboards/gallo-recreation-center</loc>
+    <lastmod>2026-04-22</lastmod>
+  </url>
+  <url>
+    <loc>https://cem.ucmerced.edu/building-dashboards/yablokoff-wallace-dining-center</loc>
+    <lastmod>2026-04-22</lastmod>
+  </url>
+  <url>
+    <loc>http://cem.ucmerced.edu/building-dashboards/facilities-services</loc>
+    <lastmod>2026-04-22</lastmod>
+  </url>
+  <url>
+    <loc>http://cem.ucmerced.edu/building-dashboards/sierra-terraces</loc>
+    <lastmod>2026-04-22</lastmod>
+  </url>
+  <url>
+    <loc>http://cem.ucmerced.edu/roomdashboard</loc>
+    <lastmod>2026-04-22</lastmod>
+  </url>
+  <url>
+    <loc>https://cem.ucmerced.edu/roomdashboard</loc>
+    <lastmod>2026-04-22</lastmod>
+  </url>
+  <url>
+    <loc>https://cem.ucmerced.edu/room-management/office-scheduler</loc>
+    <lastmod>2026-04-22</lastmod>
+  </url>
+  <url>
+    <loc>https://cem.ucmerced.edu/requestroom</loc>
+    <lastmod>2026-04-22</lastmod>
+  </url>
+  <url>
+    <loc>https://cem.ucmerced.edu/projects</loc>
+    <lastmod>2026-04-22</lastmod>
+  </url>
+  <url>
+    <loc>https://cem.ucmerced.edu/node/13</loc>
+    <lastmod>2026-04-22</lastmod>
+  </url>
+  <url>
+    <loc>https://cem.ucmerced.edu/rss.xml</loc>
+    <lastmod>2026-04-22</lastmod>
+  </url>
+  <url>
+    <loc>https://cem.ucmerced.edu/contact-us</loc>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cem.ucmerced.edu/building-dashboards/cathedral</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cem.ucmerced.edu/building-dashboards/sierra-terraces</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cem.ucmerced.edu/building-dashboards/facilities-services</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cem.ucmerced.edu/building-dashboards/student-athletics-activities-center</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>http://cem.ucmerced.edu/</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>http://cem.ucmerced.edu/building-dashboards</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>http://cem.ucmerced.edu/building-dashboards/central-plant</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
+  </url>
+  <url>
+    <loc>http://cem.ucmerced.edu/building-dashboards/classroom-and-office-building</loc>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>http://cem.ucmerced.edu/building-dashboards/kolligian-library</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>http://cem.ucmerced.edu/building-dashboards/science-and-engineering-1</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
+  </url>
+  <url>
+    <loc>http://cem.ucmerced.edu/building-dashboards/social-science-and-management</loc>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>http://cem.ucmerced.edu/building-dashboards/solar-field</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>http://cem.ucmerced.edu/building-dashboards/gallo-recreation-center</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>http://cem.ucmerced.edu/building-dashboards/yablokoff-wallace-dining-center</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>http://cem.ucmerced.edu/room-management/office-scheduler</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>http://cem.ucmerced.edu/requestroom</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>http://cem.ucmerced.edu/projects</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
+  </url>
+  <url>
+    <loc>http://cem.ucmerced.edu/node/13</loc>
+    <lastmod>2026-04-22</lastmod>
+  </url>
+  <url>
+    <loc>http://cem.ucmerced.edu/contact-us</loc>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cem.ucmerced.edu/sites/cem.ucmerced.edu/files/page/documents/rfp_campus_kw_kwh_2012.xlsx</loc>
@@ -154,6 +186,6 @@
   </url>
   <url>
     <loc>http://cem.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
 </urlset>
