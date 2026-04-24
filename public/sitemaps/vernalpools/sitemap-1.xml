@@ -2,7 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://mvpgr.ucnature.org/</loc>
-    <lastmod>2026-04-23</lastmod>
   </url>
   <url>
     <loc>https://mvpgr.ucnature.org/about/</loc>
@@ -15,21 +14,26 @@
   </url>
   <url>
     <loc>https://mvpgr.ucnature.org/research/</loc>
+    <lastmod>2026-04-23</lastmod>
   </url>
   <url>
     <loc>https://mvpgr.ucnature.org/resources/</loc>
   </url>
   <url>
     <loc>https://mvpgr.ucnature.org/about/mission/</loc>
+    <lastmod>2026-04-23</lastmod>
   </url>
   <url>
     <loc>https://mvpgr.ucnature.org/about/history/</loc>
+    <lastmod>2026-04-23</lastmod>
   </url>
   <url>
     <loc>https://mvpgr.ucnature.org/about/future-vision/</loc>
+    <lastmod>2026-04-23</lastmod>
   </url>
   <url>
     <loc>https://mvpgr.ucnature.org/resources/natural-history/</loc>
+    <lastmod>2026-04-23</lastmod>
   </url>
   <url>
     <loc>https://mvpgr.ucnature.org/resources/biodiversity/</loc>
