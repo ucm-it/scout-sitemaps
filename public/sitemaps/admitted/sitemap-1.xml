@@ -29,16 +29,13 @@
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-04-25</lastmod>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/text-signup-details</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://admitted.ucmerced.edu/events/become-bobcat-webinar-liberal-studies-welcome</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/events/transfer-day</loc>
@@ -108,13 +105,13 @@
     <loc>https://admitted.ucmerced.edu/fall</loc>
   </url>
   <url>
-    <loc>https://admitted.ucmerced.edu/event-location/webinar</loc>
-  </url>
-  <url>
     <loc>https://admitted.ucmerced.edu/event-location/person</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/audience/transfer</loc>
+  </url>
+  <url>
+    <loc>https://admitted.ucmerced.edu/event-location/webinar</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/how-to-use-your-student-portal</loc>
@@ -133,7 +130,7 @@
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/register</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-04-25</lastmod>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/sites/g/files/ufvvjh326/f/documents/coa/fall_2026_fy_conditions_of_admission2.pdf</loc>
@@ -142,6 +139,14 @@
   <url>
     <loc>https://admitted.ucmerced.edu/sites/g/files/ufvvjh326/f/documents/coa/fall_2026_tr_conditions_of_admission.pdf</loc>
     <lastmod>2025-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://admitted.ucmerced.edu/taxonomy/term/31/feed</loc>
+    <lastmod>2026-04-25</lastmod>
+  </url>
+  <url>
+    <loc>https://admitted.ucmerced.edu/taxonomy/term/56/feed</loc>
+    <lastmod>2026-04-25</lastmod>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/events/become-bobcat-webinar-your-path-medicine-starts-uc-merced</loc>
@@ -156,15 +161,10 @@
     <loc>https://admitted.ucmerced.edu/events/become-bobcat-webinar-school-natural-sciences</loc>
   </url>
   <url>
+    <loc>https://admitted.ucmerced.edu/events/become-bobcat-webinar-liberal-studies-welcome</loc>
+  </url>
+  <url>
     <loc>https://admitted.ucmerced.edu/taxonomy/term/26/feed</loc>
-    <lastmod>2026-04-24</lastmod>
-  </url>
-  <url>
-    <loc>https://admitted.ucmerced.edu/taxonomy/term/31/feed</loc>
-    <lastmod>2026-04-24</lastmod>
-  </url>
-  <url>
-    <loc>https://admitted.ucmerced.edu/taxonomy/term/56/feed</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-04-25</lastmod>
   </url>
 </urlset>
