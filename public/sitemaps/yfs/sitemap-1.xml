@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://yosemite.ucnature.org/</loc>
-    <lastmod>2026-04-25</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/about/</loc>
+    <lastmod>2026-04-26</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/activities/research/</loc>
@@ -21,14 +21,13 @@
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/visiting/</loc>
+    <lastmod>2026-04-16</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/visiting/facilities/</loc>
-    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/visiting/fees/</loc>
-    <lastmod>2026-04-21</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/resources/</loc>
@@ -38,15 +37,12 @@
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/resources/data/</loc>
-    <lastmod>2026-04-24</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/resources/guidebooks-and-mobile-applications/</loc>
-    <lastmod>2026-04-24</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/about/contact/</loc>
-    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/about/map-directions/</loc>
@@ -56,6 +52,5 @@
   </url>
   <url>
     <loc>https://yosemite.ucnature.org/about/emergency-information/</loc>
-    <lastmod>2026-04-24</lastmod>
   </url>
 </urlset>
