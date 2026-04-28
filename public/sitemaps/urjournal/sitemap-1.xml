@@ -10,6 +10,9 @@
     <loc>https://urjournal.ucmerced.edu/about-us/</loc>
   </url>
   <url>
+    <loc>https://urjournal.ucmerced.edu/sample-page/</loc>
+  </url>
+  <url>
     <loc>https://urjournal.ucmerced.edu/publications/</loc>
   </url>
   <url>
@@ -20,8 +23,5 @@
   </url>
   <url>
     <loc>https://urjournal.ucmerced.edu/announcements/</loc>
-  </url>
-  <url>
-    <loc>https://urjournal.ucmerced.edu/sample-page/</loc>
   </url>
 </urlset>
