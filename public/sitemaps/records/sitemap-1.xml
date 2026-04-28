@@ -2,66 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://records.ucmerced.edu</loc>
-    <lastmod>2026-04-28</lastmod>
   </url>
   <url>
     <loc>https://records.ucmerced.edu/</loc>
-    <lastmod>2026-04-28</lastmod>
-  </url>
-  <url>
-    <loc>https://records.ucmerced.edu/about-us/staff</loc>
-    <lastmod>2026-04-28</lastmod>
-  </url>
-  <url>
-    <loc>https://records.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-04-28</lastmod>
   </url>
   <url>
     <loc>https://records.ucmerced.edu/public-records</loc>
-    <lastmod>2026-04-28</lastmod>
   </url>
   <url>
     <loc>https://records.ucmerced.edu/public-records/faculty-faq-public-records-requests</loc>
-    <lastmod>2026-04-28</lastmod>
   </url>
   <url>
     <loc>https://records.ucmerced.edu/public-records/public-records-policies-and-resources</loc>
-    <lastmod>2026-04-28</lastmod>
   </url>
   <url>
     <loc>https://records.ucmerced.edu/privacy</loc>
-    <lastmod>2026-04-28</lastmod>
   </url>
   <url>
     <loc>https://records.ucmerced.edu/privacy/privacy-resources</loc>
-    <lastmod>2026-04-28</lastmod>
   </url>
   <url>
     <loc>https://records.ucmerced.edu/privacy/contact</loc>
-    <lastmod>2026-04-28</lastmod>
   </url>
   <url>
     <loc>https://records.ucmerced.edu/services/our-services</loc>
-    <lastmod>2026-04-28</lastmod>
   </url>
   <url>
     <loc>https://records.ucmerced.edu/policies-and-procedures</loc>
-    <lastmod>2026-04-28</lastmod>
   </url>
   <url>
     <loc>https://records.ucmerced.edu/training-materials</loc>
-    <lastmod>2026-04-28</lastmod>
   </url>
   <url>
     <loc>https://records.ucmerced.edu/about-us-0</loc>
-    <lastmod>2026-04-28</lastmod>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/form/schedule-consultation</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
     <loc>https://records.ucmerced.edu/contact-us</loc>
-    <lastmod>2026-04-28</lastmod>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/privacy/data-privacy-fliers</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/services</loc>
   </url>
   <url>
     <loc>https://records.ucmerced.edu/sites/records.ucmerced.edu/files/page/documents/trash_or_treasure_-_retaining_university_records_0.pptx</loc>
-    <lastmod>2021-03-09</lastmod>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/sites/records.ucmerced.edu/files/images/privacy_word_collage.jpg</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/sites/records.ucmerced.edu/files/images/allow_access.jpg</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/sites/records.ucmerced.edu/files/images/think_before_you_post.jpg</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/sites/records.ucmerced.edu/files/images/outsmart_your_phone.jpg</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/sites/records.ucmerced.edu/files/images/allow_access_ipad.jpg</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/sites/records.ucmerced.edu/files/images/alldataprivacymonth2015posters.pdf</loc>
   </url>
 </urlset>

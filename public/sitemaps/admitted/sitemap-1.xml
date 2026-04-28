@@ -29,7 +29,6 @@
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/rss.xml</loc>
-    <lastmod>2026-04-28</lastmod>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/text-signup-details</loc>
@@ -39,6 +38,9 @@
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/events/transfer-day</loc>
+  </url>
+  <url>
+    <loc>https://admitted.ucmerced.edu/events/become-bobcat-webinar-why-chemistry-and-biochemistry-uc-merced</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/events/become-bobcat-webinar-writing-studies-mixer</loc>
@@ -99,7 +101,6 @@
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/sites/admitted.ucmerced.edu/files/documents/ucmerced_student_resources_map.pdf</loc>
-    <lastmod>2023-02-24</lastmod>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/fall</loc>
@@ -118,44 +119,33 @@
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/sites/g/files/ufvvjh326/f/documents/coa/spring_2026_fy_conditions_of_admission.pdf</loc>
-    <lastmod>2025-10-02</lastmod>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/sites/g/files/ufvvjh326/f/documents/coa/spring_2026_transfer_conditions_of_admission.pdf</loc>
-    <lastmod>2025-10-02</lastmod>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/sites/admitted.ucmerced.edu/files/images/academichistory.png</loc>
-    <lastmod>2023-06-13</lastmod>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/register</loc>
-    <lastmod>2026-04-28</lastmod>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/sites/g/files/ufvvjh326/f/documents/coa/fall_2026_fy_conditions_of_admission2.pdf</loc>
-    <lastmod>2025-12-16</lastmod>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/sites/g/files/ufvvjh326/f/documents/coa/fall_2026_tr_conditions_of_admission.pdf</loc>
-    <lastmod>2025-12-16</lastmod>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/taxonomy/term/31/feed</loc>
-    <lastmod>2026-04-28</lastmod>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/taxonomy/term/56/feed</loc>
-    <lastmod>2026-04-28</lastmod>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/events/become-bobcat-webinar-your-path-medicine-starts-uc-merced</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/events/become-bobcat-webinar-school-engineering</loc>
-  </url>
-  <url>
-    <loc>https://admitted.ucmerced.edu/events/become-bobcat-webinar-why-chemistry-and-biochemistry-uc-merced</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/events/become-bobcat-webinar-school-natural-sciences</loc>
@@ -165,6 +155,5 @@
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/taxonomy/term/26/feed</loc>
-    <lastmod>2026-04-28</lastmod>
   </url>
 </urlset>
