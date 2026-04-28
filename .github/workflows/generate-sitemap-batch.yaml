@@ -38,11 +38,18 @@ jobs:
         id: check
         run: |
           if [ "${{ matrix.site.force }}" = "true" ]; then
+            echo "curl_exit=0" >> $GITHUB_OUTPUT
             echo "skip=false" >> $GITHUB_OUTPUT
             echo "Force flag set — skipping existing sitemap check for ${{ matrix.site.name }}"
             exit 0
           fi
           body=$(curl -s -w "\n%{http_code}" "${{ matrix.site.url }}/sitemap.xml")
+          curl_exit=$?
+          echo "curl_exit=$curl_exit" >> $GITHUB_OUTPUT
+          if [ $curl_exit -ne 0 ]; then
+            echo "curl failed with exit code $curl_exit for ${{ matrix.site.url }}/sitemap.xml"
+            exit 0
+          fi
           status=$(echo "$body" | tail -n1)
           content=$(echo "$body" | head -n -1)
           if [ "$status" = "200" ] && echo "$content" | grep -qE '<(urlset|sitemapindex)'; then
@@ -53,7 +60,7 @@ jobs:
           fi
 
       - name: Generate sitemap for ${{ matrix.site.name }}
-        if: steps.check.outputs.skip != 'true'
+        if: steps.check.outputs.curl_exit == '0' && steps.check.outputs.skip != 'true'
         run: |
           mkdir -p db sitemaps/${{ matrix.site.name }}
           cd PHP-XML-Sitemap-Generator
@@ -69,18 +76,18 @@ jobs:
             --verbose
 
       - name: Upload sitemap artifact
-        if: steps.check.outputs.skip != 'true'
+        if: steps.check.outputs.curl_exit == '0' && steps.check.outputs.skip != 'true'
         uses: actions/upload-artifact@v4
         with:
           name: sitemap-${{ matrix.site.name }}
           path: sitemaps/${{ matrix.site.name }}/
 
       - name: Upload skip marker
-        if: steps.check.outputs.skip == 'true'
+        if: steps.check.outputs.curl_exit == '0' && steps.check.outputs.skip == 'true'
         run: mkdir -p sitemaps/${{ matrix.site.name }} && touch sitemaps/${{ matrix.site.name }}/skip
 
       - name: Upload skip marker artifact
-        if: steps.check.outputs.skip == 'true'
+        if: steps.check.outputs.curl_exit == '0' && steps.check.outputs.skip == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: sitemap-${{ matrix.site.name }}
