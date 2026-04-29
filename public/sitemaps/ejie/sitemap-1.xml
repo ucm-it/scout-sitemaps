@@ -10,9 +10,6 @@
     <loc>https://ejie.ucmerced.edu/eije-about-us</loc>
   </url>
   <url>
-    <loc>https://ejie.ucmerced.edu/about%20us/contact%20us</loc>
-  </url>
-  <url>
     <loc>https://ejie.ucmerced.edu/collaborators</loc>
   </url>
   <url>
@@ -40,9 +37,6 @@
     <loc>https://ejie.ucmerced.edu/resources</loc>
   </url>
   <url>
-    <loc>https://ejie.ucmerced.edu/Toloma%205k</loc>
-  </url>
-  <url>
     <loc>https://ejie.ucmerced.edu/ejie.ucmerced.edu/donate</loc>
   </url>
   <url>
@@ -50,6 +44,9 @@
   </url>
   <url>
     <loc>https://ejie.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://ejie.ucmerced.edu/about%20us/contact%20us</loc>
   </url>
   <url>
     <loc>https://ejie.ucmerced.edu/form/feedback</loc>
@@ -85,9 +82,6 @@
     <loc>https://ejie.ucmerced.edu/node/10446</loc>
   </url>
   <url>
-    <loc>https://ejie.ucmerced.edu/node/10951</loc>
-  </url>
-  <url>
     <loc>https://ejie.ucmerced.edu/form/ejie-monthly-digest</loc>
   </url>
   <url>
@@ -106,16 +100,10 @@
     <loc>https://ejie.ucmerced.edu/customizedtrainings</loc>
   </url>
   <url>
-    <loc>https://ejie.ucmerced.edu/node/11116</loc>
-  </url>
-  <url>
     <loc>https://ejie.ucmerced.edu/institute-inclusive-excellence</loc>
   </url>
   <url>
     <loc>https://ejie.ucmerced.edu/latinxheritagecelebrations</loc>
-  </url>
-  <url>
-    <loc>https://ejie.ucmerced.edu/blackhistorymonthcelebrations</loc>
   </url>
   <url>
     <loc>https://ejie.ucmerced.edu/VBL</loc>
@@ -157,9 +145,6 @@
     <loc>https://ejie.ucmerced.edu/content/alexis-reimers-contreras</loc>
   </url>
   <url>
-    <loc>https://ejie.ucmerced.edu/content/alondra-maravilla</loc>
-  </url>
-  <url>
     <loc>https://ejie.ucmerced.edu/content/annika-juaneza</loc>
   </url>
   <url>
@@ -185,6 +170,9 @@
   </url>
   <url>
     <loc>https://ejie.ucmerced.edu/content/sarai-roman</loc>
+  </url>
+  <url>
+    <loc>https://ejie.ucmerced.edu/content/steven-umbarger</loc>
   </url>
   <url>
     <loc>https://ejie.ucmerced.edu/content/virginia-mateo</loc>

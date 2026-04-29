@@ -181,10 +181,10 @@
     <loc>https://decisionmaking.ucmerced.edu/news/all</loc>
   </url>
   <url>
-    <loc>https://decisionmaking.ucmerced.edu/events/2019-valley-fever-summit</loc>
+    <loc>https://decisionmaking.ucmerced.edu/events/2019-uc-valley-fever-summit</loc>
   </url>
   <url>
-    <loc>https://decisionmaking.ucmerced.edu/events/2019-uc-valley-fever-summit</loc>
+    <loc>https://decisionmaking.ucmerced.edu/events/2019-valley-fever-summit</loc>
   </url>
   <url>
     <loc>https://decisionmaking.ucmerced.edu/events/lyceum-lunchtime-speaker-series</loc>
@@ -214,10 +214,10 @@
     <loc>https://decisionmaking.ucmerced.edu/events/valley-fever-seminar-series-sarah-m-rios</loc>
   </url>
   <url>
-    <loc>https://decisionmaking.ucmerced.edu/events/valley-fever-seminar-series-anita-sil-md-phd</loc>
+    <loc>https://decisionmaking.ucmerced.edu/events/valley-fever-seminar-series-john-taylor-phd</loc>
   </url>
   <url>
-    <loc>https://decisionmaking.ucmerced.edu/events/valley-fever-seminar-series-john-taylor-phd</loc>
+    <loc>https://decisionmaking.ucmerced.edu/events/valley-fever-seminar-series-anita-sil-md-phd</loc>
   </url>
   <url>
     <loc>https://decisionmaking.ucmerced.edu/events/valley-fever-seminar-series-kirt-emery-mph</loc>
@@ -517,10 +517,10 @@
     <loc>https://decisionmaking.ucmerced.edu/news/2023/national-public-health-week-includes-research-symposium-and-food-drive</loc>
   </url>
   <url>
-    <loc>https://decisionmaking.ucmerced.edu/news/2023/research-week-highlights-solutions-urgent-environmental-issues</loc>
+    <loc>https://decisionmaking.ucmerced.edu/news/2023/study-finds-childhood-exposure-weed-killer-may-increase-risk-disease-young-adulthood</loc>
   </url>
   <url>
-    <loc>https://decisionmaking.ucmerced.edu/news/2023/study-finds-childhood-exposure-weed-killer-may-increase-risk-disease-young-adulthood</loc>
+    <loc>https://decisionmaking.ucmerced.edu/news/2023/research-week-highlights-solutions-urgent-environmental-issues</loc>
   </url>
   <url>
     <loc>https://decisionmaking.ucmerced.edu/news?page=11</loc>
@@ -682,10 +682,10 @@
     <loc>https://decisionmaking.ucmerced.edu/news/2022/baby-formula-shortages-and-covid-19-led-risky-feeding-practices-study-suggests</loc>
   </url>
   <url>
-    <loc>https://decisionmaking.ucmerced.edu/news/2022/lab-aims-understand-transporter-protein-protects-cells-damage</loc>
+    <loc>https://decisionmaking.ucmerced.edu/news/2022/bioengineer-invited-join-nih-review-board</loc>
   </url>
   <url>
-    <loc>https://decisionmaking.ucmerced.edu/news/2022/bioengineer-invited-join-nih-review-board</loc>
+    <loc>https://decisionmaking.ucmerced.edu/news/2022/lab-aims-understand-transporter-protein-protects-cells-damage</loc>
   </url>
   <url>
     <loc>https://decisionmaking.ucmerced.edu/news/2022/systemwide-climate-justice-course-debuts-fall</loc>
@@ -931,6 +931,9 @@
     <loc>https://decisionmaking.ucmerced.edu/news/2016/undocumented-student-makes-history-phd</loc>
   </url>
   <url>
+    <loc>https://decisionmaking.ucmerced.edu/news/2016/nih-funds-research-stem-cells-bone-disease</loc>
+  </url>
+  <url>
     <loc>https://decisionmaking.ucmerced.edu/news/2016/nih-funds-research-stem-cells-bone-disease-0</loc>
   </url>
   <url>
@@ -1120,13 +1123,13 @@
     <loc>https://decisionmaking.ucmerced.edu/news/2021/bobcat-won%E2%80%99t-be-stopped-pandemic-creates-resource-students-%E2%80%AFworldwide</loc>
   </url>
   <url>
+    <loc>https://decisionmaking.ucmerced.edu/news/2021/public-health-professor-shows-food-dye-linked-neurological-childhood-development-epa-study</loc>
+  </url>
+  <url>
     <loc>https://decisionmaking.ucmerced.edu/news/2021/public-health-professor-shows-food-dye-linked-neurological-childhood-development</loc>
   </url>
   <url>
     <loc>https://decisionmaking.ucmerced.edu/news/2021/public-health-professor-shows-food-dye-linked-childhood-behavior-california-epa-study</loc>
-  </url>
-  <url>
-    <loc>https://decisionmaking.ucmerced.edu/news/2021/public-health-professor-shows-food-dye-linked-neurological-childhood-development-epa-study</loc>
   </url>
   <url>
     <loc>https://decisionmaking.ucmerced.edu/news/2021/collaboration-furthers-understanding-immune-cell-development</loc>
@@ -1162,16 +1165,16 @@
     <loc>https://decisionmaking.ucmerced.edu/news/2021/grow-grants-nurture-vital-projects-during-pandemic</loc>
   </url>
   <url>
-    <loc>https://decisionmaking.ucmerced.edu/news/2021/how-public-health-research-can-shape-inclusive-immigration-policies</loc>
-  </url>
-  <url>
     <loc>https://decisionmaking.ucmerced.edu/news/2021/qa-how-public-health-research-can-shape-inclusive-immigration-policies</loc>
   </url>
   <url>
-    <loc>https://decisionmaking.ucmerced.edu/news/2021/prestigious-academy-recognizes-microbiology-advances-liwang-lab</loc>
+    <loc>https://decisionmaking.ucmerced.edu/news/2021/how-public-health-research-can-shape-inclusive-immigration-policies</loc>
   </url>
   <url>
     <loc>https://decisionmaking.ucmerced.edu/news/2021/uc-merced-reaches-out-all-virtual-research-week</loc>
+  </url>
+  <url>
+    <loc>https://decisionmaking.ucmerced.edu/news/2021/prestigious-academy-recognizes-microbiology-advances-liwang-lab</loc>
   </url>
   <url>
     <loc>https://decisionmaking.ucmerced.edu/news?page=18</loc>
@@ -1186,10 +1189,10 @@
     <loc>https://decisionmaking.ucmerced.edu/media-contact/desiree-lopez</loc>
   </url>
   <url>
-    <loc>https://decisionmaking.ucmerced.edu/news/2021/asthma-intervention-project-gets-green-light-genentech</loc>
+    <loc>https://decisionmaking.ucmerced.edu/news/2021/asthma-intervention-project-gets-green-light-genentech-foundation</loc>
   </url>
   <url>
-    <loc>https://decisionmaking.ucmerced.edu/news/2021/asthma-intervention-project-gets-green-light-genentech-foundation</loc>
+    <loc>https://decisionmaking.ucmerced.edu/news/2021/asthma-intervention-project-gets-green-light-genentech</loc>
   </url>
   <url>
     <loc>https://decisionmaking.ucmerced.edu/news/2021/eight-stories-read-black-history-month</loc>
@@ -1402,9 +1405,6 @@
     <loc>https://decisionmaking.ucmerced.edu/news/all?page=23</loc>
   </url>
   <url>
-    <loc>https://decisionmaking.ucmerced.edu/news/2016/nih-funds-research-stem-cells-bone-disease</loc>
-  </url>
-  <url>
     <loc>https://decisionmaking.ucmerced.edu/news/2020/35-million-hellman-endowment-expands-future-research-uc-merced</loc>
   </url>
   <url>
@@ -1507,10 +1507,10 @@
     <loc>https://decisionmaking.ucmerced.edu/news/2019/biochemistry-researcher-named-nih-review-board</loc>
   </url>
   <url>
-    <loc>https://decisionmaking.ucmerced.edu/news/2019/public-health-phd-student-earns-fellowship-study-health-equity</loc>
+    <loc>https://decisionmaking.ucmerced.edu/news/2019/university-promotes-social-mobility-through-local-and-regional-programs</loc>
   </url>
   <url>
-    <loc>https://decisionmaking.ucmerced.edu/news/2019/university-promotes-social-mobility-through-local-and-regional-programs</loc>
+    <loc>https://decisionmaking.ucmerced.edu/news/2019/public-health-phd-student-earns-fellowship-study-health-equity</loc>
   </url>
   <url>
     <loc>https://decisionmaking.ucmerced.edu/news/2019/undergrad-research-fuels-opportunities-grad-school-careers</loc>
@@ -1519,10 +1519,10 @@
     <loc>https://decisionmaking.ucmerced.edu/news/2019/overdose-suicide-among-leading-reasons-postpartum-maternal-deaths</loc>
   </url>
   <url>
-    <loc>https://decisionmaking.ucmerced.edu/news/2019/ncpc-workshop-empowers-stakeholders-craft-compelling-anti-smoking-policy-messages</loc>
+    <loc>https://decisionmaking.ucmerced.edu/news/2019/uc-merced-undergrad-alumna-wins-fulbright-will-study-health-disparities-among-indian-women</loc>
   </url>
   <url>
-    <loc>https://decisionmaking.ucmerced.edu/news/2019/uc-merced-undergrad-alumna-wins-fulbright-will-study-health-disparities-among-indian-women</loc>
+    <loc>https://decisionmaking.ucmerced.edu/news/2019/ncpc-workshop-empowers-stakeholders-craft-compelling-anti-smoking-policy-messages</loc>
   </url>
   <url>
     <loc>https://decisionmaking.ucmerced.edu/news/2019/physics-professor%E2%80%99s-work-liquid-crystals-earns-prestigious-medal</loc>

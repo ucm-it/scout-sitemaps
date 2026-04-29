@@ -43,7 +43,13 @@
     <loc>https://records.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://records.ucmerced.edu/contact-us</loc>
+    <loc>https://records.ucmerced.edu/public-records/how-make-request-records</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/public-records/what-do-if-your-department-receives-request-records</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/public-records/guidelines-access-uc-merced-public-records</loc>
   </url>
   <url>
     <loc>https://records.ucmerced.edu/privacy/data-privacy-fliers</loc>
@@ -52,7 +58,25 @@
     <loc>https://records.ucmerced.edu/services</loc>
   </url>
   <url>
+    <loc>https://records.ucmerced.edu/resources</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/resources/administrative-records-related-research</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/resources/electronic-message-management</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/resources/3-electronic-information-security</loc>
+  </url>
+  <url>
     <loc>https://records.ucmerced.edu/sites/records.ucmerced.edu/files/page/documents/trash_or_treasure_-_retaining_university_records_0.pptx</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/about-us/staff</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://records.ucmerced.edu/sites/records.ucmerced.edu/files/images/privacy_word_collage.jpg</loc>
