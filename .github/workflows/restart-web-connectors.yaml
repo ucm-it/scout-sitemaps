@@ -1,4 +1,4 @@
-name: Restart Paused Onyx Connectors
+name: Restart Paused Web Onyx Connectors
 
 on:
   # schedule:
@@ -88,7 +88,7 @@ jobs:
             const success = [];
             const failed  = [];
 
-            // 3. Resume + trigger each one
+            // 3. Resume 
             for (const c of paused) {
               const ccId   = c.cc_pair_id;
               const name   = c.name ?? `CC-Pair ID ${ccId}`;
@@ -96,40 +96,12 @@ jobs:
 
               console.log(`  [cc_pair=${ccId}] ${name} (source: ${source})`);
 
-              // Fetch cc-pair details to get connector_id and credential_id
-              let connectorId, credentialId;
-              try {
-                const detailRes  = await execute("GET", `/api/manage/admin/cc-pair/${ccId}`);
-                const detail     = await detailRes.json();
-                connectorId  = detail.connector.id;
-                credentialId = detail.credential.id;
-              } catch (err) {
-                console.log(`        ✗ Fetch details FAILED: ${err.message}`);
-                failed.push(name);
-                continue;
-              }
-
-              // Resume
               try {
                 await execute("PUT", `/api/manage/admin/cc-pair/${ccId}/status`, { status: "ACTIVE" });
                 console.log(`        ✓ Resumed`);
-              } catch (err) {
-                console.log(`        ✗ Resume FAILED: ${err.message}`);
-                failed.push(name);
-                continue;
-              }
-
-              // Trigger run
-              try {
-                await execute("POST", "/api/manage/admin/connector/run-once", {
-                  connector_id: connectorId,
-                  credentialIds: [credentialId],
-                  from_beginning: false,
-                });
-                console.log(`        ✓ Run triggered`);
                 success.push(name);
               } catch (err) {
-                console.log(`        ✗ Run trigger FAILED: ${err.message}`);
+                console.log(`        ✗ Resume FAILED: ${err.message}`);
                 failed.push(name);
               }
             }
