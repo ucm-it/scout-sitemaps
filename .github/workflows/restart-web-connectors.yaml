@@ -90,12 +90,24 @@ jobs:
 
             // 3. Resume + trigger each one
             for (const c of paused) {
-              const ccId        = c.cc_pair_id;
-              const connectorId = c.connector_id;
-              const name        = c.name ?? `CC-Pair ID ${ccId}`;
-              const source      = c.source ?? "unknown";
+              const ccId   = c.cc_pair_id;
+              const name   = c.name ?? `CC-Pair ID ${ccId}`;
+              const source = c.source ?? "unknown";
 
               console.log(`  [cc_pair=${ccId}] ${name} (source: ${source})`);
+
+              // Fetch cc-pair details to get connector_id and credential_id
+              let connectorId, credentialId;
+              try {
+                const detailRes  = await execute("GET", `/api/manage/admin/cc-pair/${ccId}`);
+                const detail     = await detailRes.json();
+                connectorId  = detail.connector.id;
+                credentialId = detail.credential.id;
+              } catch (err) {
+                console.log(`        ✗ Fetch details FAILED: ${err.message}`);
+                failed.push(name);
+                continue;
+              }
 
               // Resume
               try {
@@ -109,7 +121,11 @@ jobs:
 
               // Trigger run
               try {
-                await execute("POST", "/api/manage/admin/connector/run-once", { connector_id: connectorId });
+                await execute("POST", "/api/manage/admin/connector/run-once", {
+                  connector_id: connectorId,
+                  credentialIds: [credentialId],
+                  from_beginning: false,
+                });
                 console.log(`        ✓ Run triggered`);
                 success.push(name);
               } catch (err) {
