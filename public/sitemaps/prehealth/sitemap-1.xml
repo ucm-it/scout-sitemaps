@@ -73,9 +73,6 @@
     <loc>https://prehealth.ucmerced.edu/events</loc>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/partnership-programs</loc>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/prospective</loc>
   </url>
   <url>
@@ -91,7 +88,7 @@
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/page/documents/pathway_to_practice-with_new_logo_.pdf</loc>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/page/documents/ap-credit-for-prehealth_0.pdf</loc>
+    <loc>https://prehealth.ucmerced.edu/node/3476</loc>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/resources/explore/frequently-asked-questions-about-exploring</loc>
@@ -199,9 +196,6 @@
     <loc>https://prehealth.ucmerced.edu/events/ucsf-school-pharmacy-info-session-2</loc>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/ucsf-school-pharmacy-info-session-1</loc>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/events/institute-human-nutrition-ms-program-webinar-0</loc>
   </url>
   <url>
@@ -209,15 +203,6 @@
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/haku-healthcare-american-indian-student-summit</loc>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/events/med-school-personal-statement-where-do-i-start</loc>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/events/sfsu-pre-health-professions-post-bac-application-guidance-info-session</loc>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/events/mcat-overview</loc>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/mesa-stem-pre-health-conference</loc>
@@ -232,12 +217,6 @@
     <loc>https://prehealth.ucmerced.edu/events/sfsu-writing-compelling-personal-statement</loc>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/institute-human-nutrition-ms-program-webinar</loc>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/events/greet-grads-insight-grad-school</loc>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/events/bridge-podiatric-medicine-webinar</loc>
   </url>
   <url>
@@ -248,9 +227,6 @@
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/webinar-leveraging-innovation-improve-healthcare-access-policy-perspectives-new-congress</loc>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/events/reaching-out-aspiring-doctors-road-conference</loc>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/pharmacy-unplugged-exploring-dynamic-career-paths-pharmacists</loc>
@@ -268,10 +244,10 @@
     <loc>https://prehealth.ucmerced.edu/events/uc-davis-school-medicine-info-session</loc>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/loma-linda-univ-school-nursing-adult-primary-and-pediatric-care-dnp-programs</loc>
+    <loc>https://prehealth.ucmerced.edu/events/llu-school-allied-healths-entry-level-doctorate-occupational-therapy</loc>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/llu-school-allied-healths-entry-level-doctorate-occupational-therapy</loc>
+    <loc>https://prehealth.ucmerced.edu/events/loma-linda-univ-school-nursing-adult-primary-and-pediatric-care-dnp-programs</loc>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/med-student-panel-campus</loc>
@@ -281,6 +257,9 @@
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/ucsf-school-pharmacy-info-session</loc>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/events/loma-linda-univ-school-nursing-info-session</loc>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/ucsf-school-pharmacy-current-student-panel</loc>
@@ -394,9 +373,6 @@
     <loc>https://prehealth.ucmerced.edu/events/information-session-zoom-uc-davis-school-medicine-postbaccalaureate-consortium-program</loc>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/information-session-zoom-uc-berkeley-public-health</loc>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/events/information-session-zoom-rocky-vista-university-master-science-biomedical-sciences</loc>
   </url>
   <url>
@@ -497,9 +473,6 @@
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/information-session-zoom-western-university-health-sciences-college-pharmacy</loc>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-physician-assistant-zoom</loc>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/introduction-pre-medicine-zoom-2</loc>
@@ -619,9 +592,6 @@
     <loc>https://prehealth.ucmerced.edu/events/uc-davis-health-prep-medico-program-presentation</loc>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-dentistry-zoom</loc>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/events/so-you-want-be-healthcare-professional-workshop</loc>
   </url>
   <url>
@@ -637,19 +607,16 @@
     <loc>https://prehealth.ucmerced.edu/events/introduction-pre-veterinary-medicine-se1-270k</loc>
   </url>
   <url>
+    <loc>https://prehealth.ucmerced.edu/events/health-professional-school-application-series-personal-statement-se1-270k-0</loc>
+  </url>
+  <url>
     <loc>https://prehealth.ucmerced.edu/events/pre-med-pre-health-public-health-career-meet-upsvalley-childrens-hospital</loc>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/introduction-pre-dentistry-se1-270k-0</loc>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-nursing-se1-270k-0</loc>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/events/pre-med-pre-health-public-health-career-meet-ups-golden-valley-health-centers</loc>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-medicine-se1-270k-0</loc>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/health-professional-school-application-series-application-overview-se1-270k-1</loc>
@@ -709,9 +676,6 @@
     <loc>https://prehealth.ucmerced.edu/events/pre-medpre-health-meet-ups-madera-community-hospital</loc>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/ucsf-nursing-information-session</loc>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/events/uag-school-medicine-information-session-se1-270k-0</loc>
   </url>
   <url>
@@ -754,9 +718,6 @@
     <loc>https://prehealth.ucmerced.edu/events/introduction-pre-dentistry-5</loc>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/pre-medpre-health-career-meet-ups-california-health-sciences-university</loc>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/events/pre-medpre-health-career-meet-ups-introduction-your-natural-science-specialist</loc>
   </url>
   <url>
@@ -764,9 +725,6 @@
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/health-professional-school-application-series-interview-preparation-se1-270k</loc>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/events/health-professional-school-application-series-experience-and-letters-reference-se1-270k</loc>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/introduction-pre-veterinary-se1-270k</loc>
@@ -860,9 +818,6 @@
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/introduction-occupational-therapy-physical-therapy-physicians-assistant-2</loc>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/events/pre-health-career-meet-ups-dr-gonzalez-ucsffresno-mobile-clinic</loc>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/public-health-panel-alumni-panel</loc>
@@ -997,9 +952,6 @@
     <loc>https://prehealth.ucmerced.edu/events/information-pre-nursing-students-0</loc>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-occupational-therapy-physical-therapy-and-physicians-assistant</loc>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/events/introduction-pre-medicine-2</loc>
   </url>
   <url>
@@ -1106,6 +1058,12 @@
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/so-you-want-be-health-professional-doctor-dentist-pharmacist-or-veterinarian</loc>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/partnership-programs</loc>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/page/documents/ap-credit-for-prehealth_0.pdf</loc>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/event/documents/uc_merced.poster_johns_hopkins_flyer_fall_2023.pdf</loc>
