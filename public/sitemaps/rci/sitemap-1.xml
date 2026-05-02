@@ -1036,6 +1036,15 @@
     <loc>http://rci.ucmerced.edu/iacuc/general-information</loc>
   </url>
   <url>
+    <loc>http://rci.ucmerced.edu/iacuc/general-information/contact-us</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/iacuc/policies-guidance-and-other-resources</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/coi</loc>
+  </url>
+  <url>
     <loc>https://rci.ucmerced.edu/taxonomy/term/1521/feed</loc>
   </url>
 </urlset>

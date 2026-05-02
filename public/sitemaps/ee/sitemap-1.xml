@@ -37,13 +37,13 @@
     <loc>https://ee.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://ee.ucmerced.edu/news/2026/turning-carbon-footprint-carbon-wave</loc>
+  </url>
+  <url>
     <loc>https://ee.ucmerced.edu/news/2026/uc-merced-opens-flexible-routes-stem-degrees-teaching-and-beyond</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2026/states-first-solar-canal-project-moves-uc-merced-lab-real-world</loc>
-  </url>
-  <url>
-    <loc>https://ee.ucmerced.edu/news/2026/what-causes-chronic-inflammation-uc-merced-project-aims-find-out</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/rss.xml</loc>
@@ -109,6 +109,9 @@
     <loc>https://ee.ucmerced.edu/content/zhi-jackie-yao</loc>
   </url>
   <url>
+    <loc>https://ee.ucmerced.edu/news/2026/what-causes-chronic-inflammation-uc-merced-project-aims-find-out</loc>
+  </url>
+  <url>
     <loc>https://ee.ucmerced.edu/news/2026/uc-merced-researchers-explain-how-mechanical-force-can-trigger-chemical-reactions</loc>
   </url>
   <url>
@@ -151,16 +154,13 @@
     <loc>https://ee.ucmerced.edu/news/2026/uc-merced-climate-experts-explain-why-march-heat-wave-dangerous</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2026/wildfire-seasons-are-starting-overlap-spells-trouble-firefighting</loc>
-  </url>
-  <url>
     <loc>https://ee.ucmerced.edu/news/2026/turner-construction-foundation-gifts-future-engineers</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2026/ready-set-slam-10-uc-merced-scholars-battle-champion-title</loc>
+    <loc>https://ee.ucmerced.edu/news/2026/wildfire-seasons-are-starting-overlap-spells-trouble-firefighting</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2026/amazon-funds-research-making-ai-more-efficient</loc>
+    <loc>https://ee.ucmerced.edu/news/2026/ready-set-slam-10-uc-merced-scholars-battle-champion-title</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news?page=1</loc>
@@ -241,16 +241,19 @@
     <loc>https://ee.ucmerced.edu/content/introducing-uc-merced-electrical-engineering-blog</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/media-contact/lorena-anderson</loc>
+    <loc>https://ee.ucmerced.edu/media-contact/patty-guerra</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/media-contact/patty-guerra</loc>
+    <loc>https://ee.ucmerced.edu/media-contact/lorena-anderson</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/media-contact/jody-murray</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/media-contact/brenda-ortiz</loc>
+  </url>
+  <url>
+    <loc>https://ee.ucmerced.edu/news/2026/amazon-funds-research-making-ai-more-efficient</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2026/avalanche-survivors-would-have-had-only-minutes-help-save-others</loc>
@@ -400,10 +403,10 @@
     <loc>https://ee.ucmerced.edu/news/2025/san-francisco-chronicle-trump%E2%80%99s-immigration-raids-are-wreaking-havoc-california</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2025/new-york-times-climate-change-making-fire-weather-worse-world%E2%80%99s-forests</loc>
+    <loc>https://ee.ucmerced.edu/news/2025/liwang%E2%80%99s-research-biological-clocks-earns-protein-society-honors</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2025/liwang%E2%80%99s-research-biological-clocks-earns-protein-society-honors</loc>
+    <loc>https://ee.ucmerced.edu/news/2025/new-york-times-climate-change-making-fire-weather-worse-world%E2%80%99s-forests</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2025/uc-merced-breakthrough-could-transform-how-california-monitors-toxic-algae</loc>
@@ -490,10 +493,10 @@
     <loc>https://ee.ucmerced.edu/news/2025/uc-merced-student%E2%80%99s-photography-joins-exhibit-young-valley-talent</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2025/chemistry-phd-student-wins-campus-grad-slam-top-prize-advances-uc-wide-final</loc>
+    <loc>https://ee.ucmerced.edu/news/2025/carnegie-recognizes-uc-merced-student-access-grad-earnings</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2025/carnegie-recognizes-uc-merced-student-access-grad-earnings</loc>
+    <loc>https://ee.ucmerced.edu/news/2025/chemistry-phd-student-wins-campus-grad-slam-top-prize-advances-uc-wide-final</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2025/team-advances-aviation-prize-contest</loc>
@@ -538,10 +541,10 @@
     <loc>https://ee.ucmerced.edu/news/2025/thymus-research-could-unlock-immune-system-improvements</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2025/finalists-vie-campus-grad-slam-champion-title-during-research-week</loc>
+    <loc>https://ee.ucmerced.edu/news/2025/health-california-dairy-workers-was-compromised-bird-flu-spread-new-study-says</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2025/health-california-dairy-workers-was-compromised-bird-flu-spread-new-study-says</loc>
+    <loc>https://ee.ucmerced.edu/news/2025/finalists-vie-campus-grad-slam-champion-title-during-research-week</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2025/latinos-often-struggle-keep-their-footing-middle-class-fires-made-it-even-harder-these</loc>
@@ -550,10 +553,10 @@
     <loc>https://ee.ucmerced.edu/news/2025/%E2%80%98-someone-put-blanket-over-ocean%E2%80%99-kelp-could-be-among-fires%E2%80%99-casualties</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2025/healthiest-way-clean-your-house</loc>
+    <loc>https://ee.ucmerced.edu/news?page=9</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news?page=9</loc>
+    <loc>https://ee.ucmerced.edu/news/2025/healthiest-way-clean-your-house</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2025/physiological-society-recognizes-rudy-ortiz-mentoring-underrepresented-students</loc>
@@ -613,13 +616,16 @@
     <loc>https://ee.ucmerced.edu/news/2024/calmatters-california-got-millions-train-workers-disaster-relief-it%E2%80%99s-leaving-money-table</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2024/innovate-grow-highlights-engineering-software-capstone-projects</loc>
-  </url>
-  <url>
     <loc>https://ee.ucmerced.edu/news?page=10</loc>
   </url>
   <url>
+    <loc>https://ee.ucmerced.edu/news/2024/innovate-grow-highlights-engineering-software-capstone-projects</loc>
+  </url>
+  <url>
     <loc>https://ee.ucmerced.edu/news/2024/us-solar-industry-downplays-climate-strategy-trump-era</loc>
+  </url>
+  <url>
+    <loc>https://ee.ucmerced.edu/news/2024/reuters-us-solar-industry-downplays-climate-strategy-trump-era</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2024/high-school-student-part-ai-art-project-uc-merced</loc>
@@ -658,13 +664,13 @@
     <loc>https://ee.ucmerced.edu/news/2024/guardian-%E2%80%98mass-deportations-would-disrupt-food-chain%E2%80%99-californians-warn-ripple-effect</loc>
   </url>
   <url>
+    <loc>https://ee.ucmerced.edu/news/2024/chicago-tribune-can-america-heal-after-election-local-clergy-researchers-tackle-political</loc>
+  </url>
+  <url>
     <loc>https://ee.ucmerced.edu/news/2024/inaugural-mechanical-engineering-graduate-symposium-celebrates-student-research-excellence</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2024/3-new-majors-meet-crossroads-communication-and-science</loc>
-  </url>
-  <url>
-    <loc>https://ee.ucmerced.edu/news/2024/chicago-tribune-can-america-heal-after-election-local-clergy-researchers-tackle-political</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2024/engineering-majors-uc-merced-grow-meet-workforce-demands</loc>
@@ -733,7 +739,7 @@
     <loc>https://ee.ucmerced.edu/news/2024/california-banning-artificial-food-dyes-school-snacks-and-drinks-here%E2%80%99s-what-science-says</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2024/phd-student-named-2024-dole-caregiver-fellow</loc>
+    <loc>https://ee.ucmerced.edu/news/2024/politico-mexicos-new-president-climate-scientist-could-be-boon-california</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2024/lighting-path-thank-you-and-farewell-charles-nies</loc>
@@ -766,10 +772,10 @@
     <loc>https://ee.ucmerced.edu/blogs/xthao2</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/taxonomy/term/27/feed</loc>
+    <loc>https://ee.ucmerced.edu/taxonomy/term/14/feed</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/taxonomy/term/14/feed</loc>
+    <loc>https://ee.ucmerced.edu/taxonomy/term/27/feed</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/taxonomy/term/51/feed</loc>
@@ -779,6 +785,9 @@
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/media-contact/alyssa-johansen</loc>
+  </url>
+  <url>
+    <loc>https://ee.ucmerced.edu/news/2024/phd-student-named-2024-dole-caregiver-fellow</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2024/uc-merced-research-growing-blood-vessels-earns-nih-grant</loc>
@@ -856,10 +865,10 @@
     <loc>https://ee.ucmerced.edu/news/2024/mercury-news-newsom-warns-worsening-california-fire-season-reiterates-support-biden-says</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2024/calmatters-uc-merced-medical-program-slowly-taking-shape-why-california-wants-more-doctors</loc>
+    <loc>https://ee.ucmerced.edu/news/2024/nsf-funded-project-promotes-reuse-greywater-households-integrating-ai-toward-equity</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2024/nsf-funded-project-promotes-reuse-greywater-households-integrating-ai-toward-equity</loc>
+    <loc>https://ee.ucmerced.edu/news/2024/calmatters-uc-merced-medical-program-slowly-taking-shape-why-california-wants-more-doctors</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2024/vox-scientists-want-bring-back-one-ocean%E2%80%99s-most-unexpected-predators</loc>
@@ -896,9 +905,6 @@
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2024/how-scientific-research-can-inform-visitor-and-environmental-management-national-parks</loc>
-  </url>
-  <url>
-    <loc>https://ee.ucmerced.edu/news/2024/politico-mexicos-new-president-climate-scientist-could-be-boon-california</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/taxonomy/term/586/feed</loc>
