@@ -1045,6 +1045,36 @@
     <loc>http://rci.ucmerced.edu/coi</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/taxonomy/term/1521/feed</loc>
+    <loc>http://rci.ucmerced.edu/coi/federal-disclosures</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/coi/federal-disclosures/department-energy-doe</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/coi/federal-disclosures/department-energy-doe/forms</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/coi/federal-disclosures/public-health-service-phs</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/coi/federal-disclosures/public-health-service-phs/forms</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/coi/federal-disclosures/nsf-and-other-non-phs-disclosures</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/coi/federal-disclosures/nsf-and-other-non-phs-disclosures/forms</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/coi/federal-disclosures/nsf-and-other-non-phs-disclosures/policies</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/coi/state-california-financial-disclosure</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/coi/state-california-financial-disclosure/guidance</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/coi/state-california-financial-disclosure/policies</loc>
   </url>
 </urlset>
