@@ -775,9 +775,6 @@
     <loc>https://snri.ucmerced.edu/news/2022/environmental-systems-student-earns-graduate-student-policy-award</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2022/hotter-drier-nights-mean-more-runaway-fires</loc>
-  </url>
-  <url>
     <loc>https://snri.ucmerced.edu/news/2022/update-tid-accepts-grant-solar-panels-canals-when-where-will-project-happen</loc>
   </url>
   <url>
@@ -790,13 +787,13 @@
     <loc>https://snri.ucmerced.edu/news/2022/faculty-report-ids-top-climate-challenges-facing-valley</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2021/microorganisms-consume-last-bits-oxygen-low-oxygen-ocean-zones-study-shows</loc>
-  </url>
-  <url>
     <loc>https://snri.ucmerced.edu/news/2021/hotter-summer-days-mean-more-sierra-nevada-wildfires-study-finds</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2021/california%E2%80%99s-water-supplies-are-trouble-climate-change-worsens-natural-dry-spells</loc>
+  </url>
+  <url>
+    <loc>https://snri.ucmerced.edu/news/2021/microorganisms-consume-last-bits-oxygen-low-oxygen-ocean-zones-study-shows</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2021/kurtz%E2%80%99s-latest-publication-examines-renewable-energy-expansion</loc>
@@ -1081,13 +1078,13 @@
     <loc>https://snri.ucmerced.edu/news?page=14</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2020/californias-ancient-asbestos-forests-no-longer-seem-immune</loc>
-  </url>
-  <url>
     <loc>https://snri.ucmerced.edu/news/2020/wests-infernos-are-melting-our-sense-how-fire-works</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2020/how-wine-country-became-epicenter-fires-california</loc>
+  </url>
+  <url>
+    <loc>https://snri.ucmerced.edu/news/2020/climate-change-hits-poor-and-people-color-hardest</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2020/global-fire-outlook-not-good-news-mitigation-possible-analysis-shows</loc>
@@ -1126,6 +1123,9 @@
     <loc>https://snri.ucmerced.edu/news/2020/past-wildfires-offer-future-roadmap-forest-management%E2%80%99s-effects-water</loc>
   </url>
   <url>
+    <loc>https://snri.ucmerced.edu/news/2020/these-changes-are-needed-amid-worsening-wildfires-experts-say</loc>
+  </url>
+  <url>
     <loc>https://snri.ucmerced.edu/news/2020/trauma-fear-homelessness-life-after-californias-deadliest-fire-shows-future-climate-crisis</loc>
   </url>
   <url>
@@ -1133,9 +1133,6 @@
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2020/extreme-end-2020-northwest-fire-season-reminds-1910-%E2%80%98big-burn%E2%80%99</loc>
-  </url>
-  <url>
-    <loc>https://snri.ucmerced.edu/news/2020/%E2%80%98ground-zero%E2%80%99-dead-trees-how-california-mega-drought-turned-creek-fire-inferno</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/node/4081</loc>
@@ -1204,10 +1201,10 @@
     <loc>https://snri.ucmerced.edu/news/2019/climate-change-negatively-affecting-waterbirds-american-west</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2019/uc-merced-researcher-tapan-pathak-recognized-ag-climate-leader</loc>
+    <loc>https://snri.ucmerced.edu/news/2019/research-week-offers-events-education-tours-and-more</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2019/research-week-offers-events-education-tours-and-more</loc>
+    <loc>https://snri.ucmerced.edu/news/2019/uc-merced-researcher-tapan-pathak-recognized-ag-climate-leader</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2019/scientists-simulate-forest-fire-dynamics-understand-area-burn-future-wildfires</loc>
@@ -1405,6 +1402,9 @@
     <loc>https://snri.ucmerced.edu/taxonomy/term/281/feed</loc>
   </url>
   <url>
+    <loc>https://snri.ucmerced.edu/news/2020/%E2%80%98ground-zero%E2%80%99-dead-trees-how-california-mega-drought-turned-creek-fire-inferno</loc>
+  </url>
+  <url>
     <loc>https://snri.ucmerced.edu/news/2020/snri-executive-named-director-state-parks</loc>
   </url>
   <url>
@@ -1420,13 +1420,13 @@
     <loc>https://snri.ucmerced.edu/news/2020/world%E2%80%99s-oldest-trees-shape-diversity-life-their-soils-study-shows</loc>
   </url>
   <url>
+    <loc>https://snri.ucmerced.edu/news/2020/uc-president-honors-radiobio</loc>
+  </url>
+  <url>
     <loc>https://snri.ucmerced.edu/news/2020/partner-profile-dr-tapan-pathak-climate-adaptation-specialist</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2020/new-engineering-research-center-focus-agriculture-technology</loc>
-  </url>
-  <url>
-    <loc>https://snri.ucmerced.edu/news/2020/uc-president-honors-radiobio</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2020/new-tools-indicate-how-thinning-and-fire-affect-forest-water-use-and-boost-runoff</loc>
@@ -1628,5 +1628,419 @@
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/content/adeyemi-adebiyi</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/david-ardell</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/asmeret-asefaw-berhe-0</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/roger-bales</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/michael-beman</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/marc-beutel</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/jessica-blois</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/asa-bradman</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/yangquan-chen</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/jeanette-cobian</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/martha-conklin</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/lilian-davila</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/michael-dawson</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/gerardo-diaz</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/carolin-frank</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/teamrat-ghezzehei</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/thomas-harmon</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/stephen-hart</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/erin-hestir</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/kathleen-hull</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/jeffrey-jenkins</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/andrea-joyce</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/catherine-keske</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/safeeq-khan</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/crystal-kolden</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/sarah-kurtz</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/valerie-leppert</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/claire-lukens</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/samuel-markolf</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/teenie-matlock</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/josu%C3%A9-medell%C3%ADn-azuara</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/emily-moran</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/holley-moyes</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/colleen-naughton</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/clarissa-nobile</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/peggy-oday</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/tracey-osborne</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/james-palko</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/tapan-pathak</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/robert-rice</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/wolfgang-rogge</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/rebecca-ryals</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/jason-sexton</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/samuel-traina</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/joshua-viers</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/leroy-westerling-0</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/roland-winston</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/xuan-zhang</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/joy-baccei</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/jonathan-baldwin</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/ryan-bart-0</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/khagendra-bharambe</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/abhishek-chakraborty</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/leticia-classen-rodriguez</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/sarah-duroff</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/angel-fernandez-bou</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/han-guo</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/peter-hartsough-0</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/katherine-hegewisch</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/samuel-ikendi</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/breeanne-jackson</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/prakash-jha</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/panmei-jiang</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/dmitri-kalashnikov</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/nicole-lambrou</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/xiaoxuan-li</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/jessica-malisch</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/brandi-mckuin</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/j-andres-morande-lecaros</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/deb-morrison</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/nick-morrow</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/philip-myint</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/saswata-nandi</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/joshua-olsen</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/nigel-quinn</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/molly-stephens-0</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/samrajya-thapa</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/melissa-thaw</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/emily-williams</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/cong-yin</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/asmeret-asefaw-berhe</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/molly-stephens</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/melissa-tatham</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/kristyn-sackett</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/anna-boyanovsky</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/savina-hernandez</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/simran-sunar</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/sarah-brown</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/john-burkhart</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/alyssa-carrell</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/min-gon-chung</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/michele-conrad</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/meghan-cook</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/guotao-cui</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/max-erikkson</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/qinghua-guo-0</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/weichao-guo</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/carolyn-hunsaker</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/lara-kueppers</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/jian-lin</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/kaitlin-maguire</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/xiande-meng</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/aliva-nanda</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/norman-pelak</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/michael-pickard-0</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/nicole-rangel</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/shankar-sharma</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/jim-stinecipher</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/emily-wilson</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/content/yang-yang</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2026/rising-simultaneous-fire-weather-threatens-international-firefighting-efforts</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2026/innovative-solutions-turn-rural-energy-challenges-opportunities</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2025/climate-speaker-series-uc-merced-kicks-warnings-%E2%80%A6-and-hope</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2025/professor-and-environmental-champion-bales-retires-research-and-advocacy-continue</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2025/thinning-burning-forests-provide-multiple-benefits-some-them-surprising</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2025/soil-climate-solutions-berhe-leads-sierra-nevada-research-institute-its-next-chapter</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2025/damaging-lightning-caused-wildfires-likely-increase-few-years-researchers-find</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news?page=1</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news?page=2</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news?page=3</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news?page=4</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news?page=5</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news?page=6</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news?page=7</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news?page=8</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news?page=23</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/media-contact/patty-guerra</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/media-contact/lorena-anderson</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2025/uc-merced%E2%80%99s-berhe-joins-scientists-warning-global-land-mine-crisis</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2025/uc-merced-brings-climate-justice-course-title-i-high-school-students-across-nation</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2025/researchers-look-ahead-fire-season-2025</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2025/uc-awards-support-tackling-big-questions-health-physics-agriculture-and-climate</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2024/study-climate-change-extends-drought-recovery-least-three-months</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2024/2024-sierra-nevada-science-symposium-convenes-sierra-researchers-uc-merced</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2024/new-film-profiles-immediate-actions-restore-californias-wildfire-vulnerable-forests</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2024/warming-climate-pushes-rain-higher-elevations-raising-flooding-risks</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2023/grant-funds-research-wildfire-behavior-and-ecological-effects-fuel-treatments</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2023/new-nsf-award-funds-study-worker-robot-collaborations-agriculture</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2023/new-major-trains-students-tell-planet%E2%80%99s-urgent-stories</loc>
   </url>
 </urlset>
