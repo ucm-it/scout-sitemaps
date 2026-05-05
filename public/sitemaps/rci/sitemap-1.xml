@@ -1080,4 +1080,19 @@
   <url>
     <loc>http://rci.ucmerced.edu/coi/coi-faqs</loc>
   </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/coi/coi-sops</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/scro</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/export-controls</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/exp-ctrl/fundamental-research-exclusion</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/export-controls/are-you-exporter</loc>
+  </url>
 </urlset>

@@ -28,9 +28,6 @@
     <loc>http://stemcenter.ucmerced.edu/academic-services/tutor-program</loc>
   </url>
   <url>
-    <loc>http://stemcenter.ucmerced.edu/opportunities</loc>
-  </url>
-  <url>
     <loc>https://stemcenter.ucmerced.edu/academic-services/tutor-program</loc>
   </url>
   <url>
@@ -53,6 +50,9 @@
   </url>
   <url>
     <loc>http://stemcenter.ucmerced.edu/academic-services/study-group-sessions</loc>
+  </url>
+  <url>
+    <loc>http://stemcenter.ucmerced.edu/opportunities</loc>
   </url>
   <url>
     <loc>http://stemcenter.ucmerced.edu/outreach</loc>
