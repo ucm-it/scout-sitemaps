@@ -241,9 +241,6 @@
     <loc>https://academicpersonnel.ucmerced.edu/Current_Events</loc>
   </url>
   <url>
-    <loc>https://academicpersonnel.ucmerced.edu/past_events</loc>
-  </url>
-  <url>
     <loc>https://academicpersonnel.ucmerced.edu/Academic_Personnel_Payroll_Deadlines</loc>
   </url>
   <url>
@@ -643,6 +640,12 @@
     <loc>http://academicpersonnel.ucmerced.edu/resources/digitalmeasures</loc>
   </url>
   <url>
+    <loc>http://academicpersonnel.ucmerced.edu/resources/training/digital-measurers-training-materials</loc>
+  </url>
+  <url>
+    <loc>http://academicpersonnel.ucmerced.edu/tools/faculty-success/fs-enhancement-requests</loc>
+  </url>
+  <url>
     <loc>http://academicpersonnel.ucmerced.edu/tools/academic-case-review-system-acrs/acrs-support</loc>
   </url>
   <url>
@@ -718,9 +721,6 @@
     <loc>http://academicpersonnel.ucmerced.edu/Current_Events</loc>
   </url>
   <url>
-    <loc>http://academicpersonnel.ucmerced.edu/past_events</loc>
-  </url>
-  <url>
     <loc>http://academicpersonnel.ucmerced.edu/Academic_Personnel_Payroll_Deadlines</loc>
   </url>
   <url>
@@ -764,12 +764,6 @@
   </url>
   <url>
     <loc>http://academicpersonnel.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/dm_introductionpdf_-_login_and_navigation_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/biobib_mapping_document_-_instructions.pdf</loc>
   </url>
   <url>
     <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/page/documents/acrs_promotion_info-session_slide_deck.pptx</loc>
@@ -872,42 +866,6 @@
   </url>
   <url>
     <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/calendar23-24_final.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/2025_Spring_Events</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/Fall_2024</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/Spring_2024</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/Fall_2023_Events</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/Spring_2023Events</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/Fall_2022_Events</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/Spring_2022_Events</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/Fall_2021_Events</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/Spring_2021_Events</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/Fall_2020_Events</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/Spring_2020_Events</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/Fall_2019_Events</loc>
   </url>
   <url>
     <loc>https://academicpersonnel.ucmerced.edu/APO_Deadlines_Calendar_Monthly_2026</loc>
@@ -1229,143 +1187,5 @@
   </url>
   <url>
     <loc>http://academicpersonnel.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
-    <loc>http://academicpersonnel.ucmerced.edu/resources/training/digital-measurers-training-materials</loc>
-  </url>
-  <url>
-    <loc>http://academicpersonnel.ucmerced.edu/tools/faculty-success/fs-enhancement-requests</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/page/documents/spring_2023_ssww.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/event/new_faculty_welcome_reception_invite_final.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/event/22convocationflyer.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/page/documents/dei-questions-cw-8-penultimate.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/page/documents/cw9-retaining-faculty-final-to-distribute.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/cw1-2021-fall-final.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/fall_2021_dept_chair_wksp_-_complaints_.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/uc_merced-fall_2021_department_chair_series.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/chairs-workshop-4-2021-fall-for-presentation62_-_read-only.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/deptchair_leaves_workshop_dec2021_.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/event/fall21-departmet-chair-workshops.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/page/documents/spring21-department-chair-workshops.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/page/documents/spring_2021_self-statement_workshops_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/page/documents/teaching_professor_connection-1.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/page/documents/spring_2021_social_hour_with_provost_camfield.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/page/documents/spring_2021_wfoc_2.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/page/documents/spring_2021_parents_pandemic_happy_hour_1.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/page/documents/spring_2021_early_career_faculty_meet_greet_2.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/event/office_hours_-_vpf.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/event/office_hours_-_avpf_1.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/event/vpf-chairs-workshop-2020-21-1-final.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/event/ucm_-_chair_leadership_-_herbie_lee_ucsc.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/page/documents/dept_chair_wksp_3_-_complaints.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/event/fall_2020_department_chair_workshops.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/responsible_employee_faqs_-_stand_alone_final.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/title_ix_regs_faq_uc_merced.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/presentation_10-21-2020.docx</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/faculty_presentation_oct_2020.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/event/women_faculty_of_color_5.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/event/coffee-hour-with-the-vpf-avpf.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/event/fall_2020_on_the_path_to_success_qa_session_for_pre-tenure_faculty_with_cap_vpf_apo.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/event/cap.vpf_qa_slides_09.10.20.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/event/fall_2020_qa_for_department_chairs_with_the_vpf_cap_and_apo_discussion_of_academic_personnel_processes.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/event/cap-annual-meeting-slides-chairs-pdf.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/event/writing_a_good_case_analysis-pdf.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/event/fall_2020_new_faculty_orientation.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/event/new_faculty_orientation_slides.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/event/fall_2020_on_the_path_to_success_some_tips_on_managing_work_in_the_context_of_covid-19_4.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/event/on_the_path_to_success_some_tips_on_managing_work_in_the_context_of_covid-19.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/event/fall_2020_on_the_path_to_tenure_getting_started.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/event/_on_the_path_to_tenure_getting_started.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/page/documents/social_hour_with_provost_camfield_1.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/application_covid-related_dependent_care_modified_duties.docx</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/page/documents/2022.05.04senatechairandevcprovost2campusinstructional_modalities_and_accommodations_fall_2022.pdf</loc>
   </url>
 </urlset>
