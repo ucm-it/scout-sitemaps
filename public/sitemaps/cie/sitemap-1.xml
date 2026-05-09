@@ -19,9 +19,6 @@
     <loc>https://cie.ucmerced.edu/analytics-hub/academic-program-review</loc>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/archive/institutional-research-reports</loc>
-  </url>
-  <url>
     <loc>https://cie.ucmerced.edu/analytics-hub/tableau-server</loc>
   </url>
   <url>
@@ -76,15 +73,6 @@
     <loc>https://cie.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/archive/shared-resources</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/shared-resources/models</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/archive/glossary</loc>
-  </url>
-  <url>
     <loc>https://cie.ucmerced.edu/undergraduate-enrollments</loc>
   </url>
   <url>
@@ -101,6 +89,69 @@
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/summer_2022_financial_aid_dashboard.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/take-the-new-student-survey</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/take-the-graduating-senior-survey</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/archive/idea-project</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/archive/shared-resources</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/archive/initiative-collaborations</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/archive/institutional-research-reports</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/archive/external-reporting</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/archive/functional-domains</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/archive/glossary</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/archive/tableau-how-to</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/archive/archived-updates</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/analytics-hub/surveys/new-student-survey-data</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/admissions-mart</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/people-mart</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/idea-future-themes</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/shared-resources/models</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/data_for_student_success_guide_final_2020.10.02_1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/moderning_systems_and_processes_tco_and_models_20180515_2.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/peer_institutions_report.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/enrollment_management_-_enrollment_flow_2.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/enrollment_dynamics_v1.0_09-13-19.pdf</loc>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/ReportPDFs/2023/fall_2022_canvas_alert_pilot_summary_v2.pdf</loc>
@@ -134,117 +185,6 @@
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/analytics-hub/archived-IR-reports</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/take-the-new-student-survey</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/take-the-graduating-senior-survey</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/archive/idea-project</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/archive/initiative-collaborations</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/archive/external-reporting</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/archive/tableau-how-to</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/archive/archived-updates</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/data_for_student_success_guide_final_2020.10.02_1.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/moderning_systems_and_processes_tco_and_models_20180515_2.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/peer_institutions_report.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/enrollment_management_-_enrollment_flow_2.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/enrollment_dynamics_v1.0_09-13-19.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/academicanalyticsedition.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/fslssept8.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/august2016reportaug31.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/paper0620.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/relationshipoffreshmangpatograduationrate.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/educationalprogression.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/summer_session_analysis.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/attrition_before_the_junior_year_academic_standing_ustu010_fiat_lux_scholars.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/ten_facts_about_ucm_phds.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/on_academic_good_standing_introduction_to_university_studies.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/transfer_student_experience.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/graduating_from_uc_merced_october_17.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/transferreport.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/composite.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/1stpolicypieceucpoliciescomposite.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2ndpieceaveragegalorguy.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/3rdpiecesummersessionsnewcomposite.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/nationalgraduationratemodels.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/facultyandstaffretentionreportupdatedecember_12.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/postcairucmversionss.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/first_year_success_and_four_year_graduation_rates.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/analytics-hub/surveys/new-student-survey-data</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/admissions-mart</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/people-mart</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/idea-future-themes</loc>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/ead_participants_2012_13.pdf</loc>
@@ -656,6 +596,69 @@
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2014_nss_analyses_gpa_retention_2015.9.14.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/academicanalyticsedition.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/fslssept8.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/august2016reportaug31.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/paper0620.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/relationshipoffreshmangpatograduationrate.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/educationalprogression.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/summer_session_analysis.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/attrition_before_the_junior_year_academic_standing_ustu010_fiat_lux_scholars.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/ten_facts_about_ucm_phds.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/on_academic_good_standing_introduction_to_university_studies.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/transfer_student_experience.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/graduating_from_uc_merced_october_17.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/transferreport.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/composite.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/1stpolicypieceucpoliciescomposite.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/2ndpieceaveragegalorguy.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/3rdpiecesummersessionsnewcomposite.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/nationalgraduationratemodels.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/facultyandstaffretentionreportupdatedecember_12.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/postcairucmversionss.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/irds/first_year_success_and_four_year_graduation_rates.pdf</loc>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/page/documents/2022-23_graduating_senior_survey_final.pdf</loc>
