@@ -175,16 +175,16 @@
     <loc>https://eecs.ucmerced.edu/content/varnika-chauhan</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/content/jianan-chen</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/qingyun-chen</loc>
-  </url>
-  <url>
     <loc>https://eecs.ucmerced.edu/content/yi-wen-chen</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/yuning-chen</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/jianan-chen</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/qingyun-chen</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/annesha-dasgupta</loc>
@@ -256,10 +256,10 @@
     <loc>https://eecs.ucmerced.edu/content/haolin-liang</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/content/chieh-lin</loc>
+    <loc>https://eecs.ucmerced.edu/content/mao-lin</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/content/mao-lin</loc>
+    <loc>https://eecs.ucmerced.edu/content/chieh-lin</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/jiawen-liu</loc>
@@ -283,10 +283,10 @@
     <loc>https://eecs.ucmerced.edu/content/laxmi-pandey</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/content/mohammad-partohaghighi-0</loc>
+    <loc>https://eecs.ucmerced.edu/content/mohammad-partohaghighi</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/content/mohammad-partohaghighi</loc>
+    <loc>https://eecs.ucmerced.edu/content/mohammad-partohaghighi-0</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/aditya-petety</loc>
@@ -352,6 +352,9 @@
     <loc>https://eecs.ucmerced.edu/content/dong-xu</loc>
   </url>
   <url>
+    <loc>https://eecs.ucmerced.edu/content/shuangyan-yang</loc>
+  </url>
+  <url>
     <loc>https://eecs.ucmerced.edu/content/kang-yang</loc>
   </url>
   <url>
@@ -359,9 +362,6 @@
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/yuanzhou-yang</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/shuangyan-yang</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/chun-han-yao</loc>
