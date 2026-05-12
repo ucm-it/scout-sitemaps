@@ -130,24 +130,6 @@
     <loc>https://engr-advising.ucmerced.edu/forms/engineering-forms</loc>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/form/course-approval</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/form/excess-units</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/forms/engineering-forms/multiple-major-application</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/form/petition-program-variance</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/form/taking-classes-another-institution-limited</loc>
-  </url>
-  <url>
-    <loc>https://engr-advising.ucmerced.edu/form/subsequent-repeat-petition</loc>
-  </url>
-  <url>
     <loc>https://engr-advising.ucmerced.edu/form/concerned-student-form</loc>
   </url>
   <url>
@@ -274,7 +256,16 @@
     <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/me_flow_19_20.pdf</loc>
   </url>
   <url>
+    <loc>https://engr-advising.ucmerced.edu/form/subsequent-repeat-petition</loc>
+  </url>
+  <url>
     <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/2019policyonlaptopssoecomputer.pdf</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/form/course-approval</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/form/excess-units</loc>
   </url>
   <url>
     <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/grad_school_presentation.pdf</loc>
@@ -320,6 +311,9 @@
   </url>
   <url>
     <loc>https://engr-advising.ucmerced.edu/sites/engr-advising.ucmerced.edu/files/page/documents/taking_summer_courses_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/form/taking-classes-another-institution-limited</loc>
   </url>
   <url>
     <loc>https://engr-advising.ucmerced.edu/resources/career-resources/internships-research-opportunities</loc>
