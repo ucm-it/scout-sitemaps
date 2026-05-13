@@ -625,7 +625,7 @@
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/iacuc_policy_101.pdf</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/102.pdf</loc>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/policy_102_5.2026.pdf</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/policy_103_11apr25.pdf</loc>
@@ -640,7 +640,7 @@
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/iacuc_policy_106.pdf</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/iacuc_policy_107.pdf</loc>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/policy_107_5.2026.pdf</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/iacuc_policy108.pdf</loc>
@@ -689,6 +689,9 @@
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/pam_policy_approved_fe.pdf</loc>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/policy_124_5.2026.pdf</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/adverse_event_guidance_2024.pdf</loc>
@@ -1268,5 +1271,11 @@
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/taxonomy/term/1521/feed</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/media-contact/alyssa-johansen</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/taxonomy/term/1521/feed</loc>
   </url>
 </urlset>
