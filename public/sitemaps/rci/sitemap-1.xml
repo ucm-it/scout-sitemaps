@@ -1039,6 +1039,18 @@
     <loc>http://rci.ucmerced.edu/iacuc/general-information</loc>
   </url>
   <url>
+    <loc>http://rci.ucmerced.edu/iacuc/general-information/contact-us</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/iacuc/policies-guidance-and-other-resources</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/coi</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/coi/federal-disclosures</loc>
+  </url>
+  <url>
     <loc>http://rci.ucmerced.edu/coi/federal-disclosures/department-energy-doe</loc>
   </url>
   <url>
@@ -1234,6 +1246,15 @@
     <loc>http://rci.ucmerced.edu/contact-us-0</loc>
   </url>
   <url>
+    <loc>http://rci.ucmerced.edu/resources-and-news</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/resources-and-news/drone-use-federally-funded-projects</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/resources-and-news/recent-regulatory-updates</loc>
+  </url>
+  <url>
     <loc>http://rci.ucmerced.edu/news/2025/2025-26-curtailment-schedule</loc>
   </url>
   <url>
@@ -1250,5 +1271,11 @@
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/taxonomy/term/1521/feed</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/media-contact/alyssa-johansen</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/taxonomy/term/1521/feed</loc>
   </url>
 </urlset>

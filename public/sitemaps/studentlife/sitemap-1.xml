@@ -511,10 +511,10 @@
     <loc>https://studentlife.ucmerced.edu/events/bobcat-bonanza</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/events/wii-and-game-night</loc>
+    <loc>https://studentlife.ucmerced.edu/events/bobcat-leadership-series-info-session</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/events/bobcat-leadership-series-info-session</loc>
+    <loc>https://studentlife.ucmerced.edu/events/wii-and-game-night</loc>
   </url>
   <url>
     <loc>https://studentlife.ucmerced.edu/events/bobcat-leadership-series-info-session-0</loc>
@@ -562,10 +562,10 @@
     <loc>https://studentlife.ucmerced.edu/events/vip-program-gleek-out-speak-out</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/events/vip-program-stalking-know-it-name-it-stop-it</loc>
+    <loc>https://studentlife.ucmerced.edu/events/karaoke-night</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/events/karaoke-night</loc>
+    <loc>https://studentlife.ucmerced.edu/events/vip-program-stalking-know-it-name-it-stop-it</loc>
   </url>
   <url>
     <loc>https://studentlife.ucmerced.edu/events/vip-program-help-friend-0</loc>
@@ -577,25 +577,25 @@
     <loc>https://studentlife.ucmerced.edu/events/vip-program-project-rewind-1</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/events/vip-program-project-rewind-0</loc>
-  </url>
-  <url>
     <loc>https://studentlife.ucmerced.edu/events/bike-and-electronic-registration-and-ucmpds-resources</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/events/minute-win-it</loc>
+    <loc>https://studentlife.ucmerced.edu/events/vip-program-project-rewind-0</loc>
   </url>
   <url>
     <loc>https://studentlife.ucmerced.edu/events/lets-make-deal</loc>
   </url>
   <url>
+    <loc>https://studentlife.ucmerced.edu/events/minute-win-it</loc>
+  </url>
+  <url>
     <loc>https://studentlife.ucmerced.edu/events/vip-program-project-rewind</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/events/vip-program-help-friend</loc>
+    <loc>https://studentlife.ucmerced.edu/events/1-vs-100</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/events/1-vs-100</loc>
+    <loc>https://studentlife.ucmerced.edu/events/vip-program-help-friend</loc>
   </url>
   <url>
     <loc>https://studentlife.ucmerced.edu/events/vip-program-see-say-do-something</loc>
@@ -820,10 +820,22 @@
     <loc>http://studentlife.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>http://studentlife.ucmerced.edu/content/joseph-romero</loc>
+    <loc>http://studentlife.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>http://studentlife.ucmerced.edu/content/ixchel-chagoya</loc>
+    <loc>http://studentlife.ucmerced.edu/content/enrique-guzman</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/content/jaejae-julian</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/content/nidia-hartford</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/content/jim-greenwood</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/content/catrina-parr-abundiz</loc>
   </url>
   <url>
     <loc>http://studentlife.ucmerced.edu/content/adyan-zaman</loc>
@@ -902,5 +914,347 @@
   </url>
   <url>
     <loc>http://studentlife.ucmerced.edu/events/m4k-showcase</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/grad-cap-making-event</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/fsl-req-programming-day</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/paa-barrio-fiesta</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/pgtl-cultural-fashion-show</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/osi-national-pickle-day</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/test</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-controversy-civility-5</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-controversy-civility-4</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-controversy-civility-3</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-common-purpose-6</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-common-purpose-5</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-collaboration-5</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-collaboration-4</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-common-purpose-4</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-commitment-6</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-commitment-5</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/blsl-collaboration</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/equal-means-equal-film-screening</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-congruence-6</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/deconstructing-political-rhetoric-wonder-womxn-wednesday</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/integrity-week-speaker-gary-pavela</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-congruence-5</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/integrity-week-2016</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-commitment-4</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-consciousness-self-8</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-consciousness-self-7</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-congruence-4</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-consciousness-self-9</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-controversy-civility-6</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-controversy-civility-2</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-common-purpose-3</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-common-purpose-2</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/2016-leadership-conference</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-collaboration-3</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-collaboration-2</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-commitment-3</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-commitment-2</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-congruence-3</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-congruence-2</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-consciousness-self-6</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-consciousness-self-5</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-citizenship-2</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-controversy-civility-1</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-common-purpose-1</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-collaboration-1</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-consciousness-self-2</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-commitment-1</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-congruence-1</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-consciousness-self-4</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-consciousness-self-3</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-consciousness-self-1</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-citizenship-1</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-citizenship-0</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-controversy-civility-0</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-controversy-civility</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-common-purpose</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-common-purpose-0</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-collaboration</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-collaboration-0</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-commitment-0</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-commitment</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/2015-leadership-conference</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-congruence-0</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-congruence</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-consciousness-self-0</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-consciousness-self</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/dinner-movie</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/skywalk-trampoline-arena</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/yoga-breakfast-0</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/billiards-ice-cream</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/summer-programs-kickoff-human-foosball</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bobcat-leadership-series-collaboration-part-2</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bobcat-leadership-series-collaboration-part-1</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bobcat-leadership-series-common-purpose-part-2</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bobcat-leadership-series-common-purpose-part-1</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/2015-leadership-awards-deadline</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bobcat-leadership-series-controversy-civility-part-2</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bobcat-leadership-series-controversy-civility-part-1</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bobcat-leadership-series-citizenship-part-1</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/paws-celebration</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-citizenship</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/paws-evaluate-encourage</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-commitment-part-2</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-controversy-civility-part-2</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/paws-service-education</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-commitment-part-1</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/paws-empower</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-controversy-civility-part-1</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-congruence-part-2</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/paws-emotional-wellness</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-common-purpose-part-2</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/paws-service-activity-1</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-congruence-part-1</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/paws-embody</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-common-purpose-part-1</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/paws-enlist</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-consciousness-self-part-2</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/paws-physical-wellness</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-collaboration-part-2</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/paws-envision</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-consciousness-self-part-1</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/intro-paws</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bls-collaboration-part-1</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/new-beginnings-festival</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/spirit-day-0</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/mind-games-james-david</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/rainbow-social</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bobcat-bonanza</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bobcat-leadership-series-info-session</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/wii-and-game-night</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/bobcat-leadership-series-info-session-0</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/dinner-and-movie</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/comedianhypnotist-event</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/annual-san-francisco-multicultural-odyssey</loc>
   </url>
 </urlset>

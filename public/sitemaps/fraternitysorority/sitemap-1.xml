@@ -367,9 +367,6 @@
     <loc>http://fraternitysorority.ucmerced.edu/programs/personal-development</loc>
   </url>
   <url>
-    <loc>http://fraternitysorority.ucmerced.edu/programs/developmental-programs/recruitment</loc>
-  </url>
-  <url>
     <loc>http://fraternitysorority.ucmerced.edu/how-join</loc>
   </url>
   <url>
@@ -440,32 +437,5 @@
   </url>
   <url>
     <loc>http://fraternitysorority.ucmerced.edu/news</loc>
-  </url>
-  <url>
-    <loc>http://fraternitysorority.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
-    <loc>http://fraternitysorority.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/ucm_fraternity_and_sorority_life_expectations_of_recognition_08.27.19.pdf</loc>
-  </url>
-  <url>
-    <loc>https://fraternitysorority.ucmerced.edu/fraternity-sorority-affiliates/order-omega</loc>
-  </url>
-  <url>
-    <loc>https://fraternitysorority.ucmerced.edu/who-we-are/social-greek-chapters/expansion-chapters/delta-sigma-theta</loc>
-  </url>
-  <url>
-    <loc>https://fraternitysorority.ucmerced.edu/how-join/expansion-forming-new-chapters/nphc-expansion</loc>
-  </url>
-  <url>
-    <loc>https://fraternitysorority.ucmerced.edu/how-join/upcoming-recruitment</loc>
-  </url>
-  <url>
-    <loc>https://fraternitysorority.ucmerced.edu/hazing-prevention</loc>
-  </url>
-  <url>
-    <loc>https://fraternitysorority.ucmerced.edu/news/2023/fraternity-and-sorority-members-sharing-their-experiences</loc>
   </url>
 </urlset>
