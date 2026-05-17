@@ -55,6 +55,9 @@
     <loc>https://admitted.ucmerced.edu/events/i-am-bobcat-almost-there-move-bills-first-week-prep</loc>
   </url>
   <url>
+    <loc>https://admitted.ucmerced.edu/events/transfer-day</loc>
+  </url>
+  <url>
     <loc>https://admitted.ucmerced.edu/events/become-bobcat-webinar-liberal-studies-welcome</loc>
   </url>
   <url>
@@ -136,6 +139,12 @@
     <loc>https://admitted.ucmerced.edu/event-location/webinar</loc>
   </url>
   <url>
+    <loc>https://admitted.ucmerced.edu/event-location/person</loc>
+  </url>
+  <url>
+    <loc>https://admitted.ucmerced.edu/audience/transfer</loc>
+  </url>
+  <url>
     <loc>https://admitted.ucmerced.edu/how-to-use-your-student-portal</loc>
   </url>
   <url>
@@ -164,5 +173,11 @@
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/taxonomy/term/26/feed</loc>
+  </url>
+  <url>
+    <loc>https://admitted.ucmerced.edu/taxonomy/term/31/feed</loc>
+  </url>
+  <url>
+    <loc>https://admitted.ucmerced.edu/taxonomy/term/56/feed</loc>
   </url>
 </urlset>

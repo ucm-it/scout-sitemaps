@@ -961,13 +961,13 @@
     <loc>https://chemistry.ucmerced.edu/news?page=12</loc>
   </url>
   <url>
+    <loc>https://chemistry.ucmerced.edu/news/2013/graduate-eric-josephs-featured-uc-newsroom</loc>
+  </url>
+  <url>
     <loc>https://chemistry.ucmerced.edu/news/2013/hein-lab-featured-merced-magazine</loc>
   </url>
   <url>
     <loc>https://chemistry.ucmerced.edu/news/2013/noy-featured-science-article</loc>
-  </url>
-  <url>
-    <loc>https://chemistry.ucmerced.edu/news/2013/graduate-eric-josephs-featured-uc-newsroom</loc>
   </url>
   <url>
     <loc>https://chemistry.ucmerced.edu/news/2013/gary-abel-wins-outstanding-ta-award</loc>
@@ -1342,10 +1342,10 @@
     <loc>https://chemistry.ucmerced.edu/news/2015/anne-and-david-kelley-receive-3-year-510000-grant-nsf-studying-electron-phonon-coupling</loc>
   </url>
   <url>
-    <loc>https://chemistry.ucmerced.edu/news/2015/professor-andy-liwangs-research-published-science</loc>
+    <loc>https://chemistry.ucmerced.edu/news/2015/gary-abel-receives-deans-dissertation-fellowship</loc>
   </url>
   <url>
-    <loc>https://chemistry.ucmerced.edu/news/2015/gary-abel-receives-deans-dissertation-fellowship</loc>
+    <loc>https://chemistry.ucmerced.edu/news/2015/professor-andy-liwangs-research-published-science</loc>
   </url>
   <url>
     <loc>https://chemistry.ucmerced.edu/news/2015/new-nanomaterials-center-energy-and-sensing</loc>
@@ -1421,6 +1421,12 @@
   </url>
   <url>
     <loc>http://chemistry.ucmerced.edu/content/anne-kelley</loc>
+  </url>
+  <url>
+    <loc>http://chemistry.ucmerced.edu/content/david-kelley-0</loc>
+  </url>
+  <url>
+    <loc>http://chemistry.ucmerced.edu/content/patricia-liwang</loc>
   </url>
   <url>
     <loc>http://chemistry.ucmerced.edu/content/victor-mu%C3%B1oz</loc>
@@ -1556,8 +1562,5 @@
   </url>
   <url>
     <loc>http://chemistry.ucmerced.edu/content/anjan-maity</loc>
-  </url>
-  <url>
-    <loc>http://chemistry.ucmerced.edu/content/darwin-martinez</loc>
   </url>
 </urlset>
