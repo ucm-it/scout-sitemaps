@@ -838,10 +838,10 @@
     <loc>https://publichealth.ucmerced.edu/news/2022/congratulations-jamie-yan</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2022/%E2%80%98molecular-lego%E2%80%99-study-analyzes-building-blocks-partially-disordered-protein</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2022/mucus-molecules-can-thwart-fungal-infection-researchers-discover</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2022/mucus-molecules-can-thwart-fungal-infection-researchers-discover</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2022/%E2%80%98molecular-lego%E2%80%99-study-analyzes-building-blocks-partially-disordered-protein</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news/2022/bioengineers-work-new-technology-look-deep-inside-living-tissue-and-tumors</loc>
@@ -1192,10 +1192,10 @@
     <loc>https://publichealth.ucmerced.edu/news/2017/campus-efforts-improve-community%E2%80%99s-access-healthy-foods</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2017/new-mesoamerican-studies-center%E2%80%99s-conference-being-held-uc-merced</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2017/new-center-conference-focus-mesoamerican-studies</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2017/new-center-conference-focus-mesoamerican-studies</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2017/new-mesoamerican-studies-center%E2%80%99s-conference-being-held-uc-merced</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news/2017/another-first-nobile-nih-outstanding-investigator-award</loc>
@@ -1303,10 +1303,10 @@
     <loc>https://publichealth.ucmerced.edu/news/2016/researcher-works-end-hiv-stigma-ethiopia-india-0</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2016/study-home-parent-training-levels-field-low-income-kids</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2016/study-home-parent-training-levels-field-low-income-kids-0</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2016/study-home-parent-training-levels-field-low-income-kids-0</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2016/study-home-parent-training-levels-field-low-income-kids</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news/2016/researchers-identify-drug-could-treat-melanoma</loc>
@@ -1588,13 +1588,13 @@
     <loc>https://publichealth.ucmerced.edu/news/2020/uc-professors-shelter-place-orders-are-working</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2020/congratulations-andrea-lopez</loc>
-  </url>
-  <url>
     <loc>https://publichealth.ucmerced.edu/news/2020/assistant-professor-public-health-denise-payan-has-been-awarded-50000-citris-pilot-grant</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news/2020/congratulations-david-veloz</loc>
+  </url>
+  <url>
+    <loc>https://publichealth.ucmerced.edu/news/2020/congratulations-andrea-lopez</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news/2020/uc-merced-part-citris%E2%80%99s-covid-19-rapid-response-grants</loc>
@@ -1625,9 +1625,6 @@
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news/2018/society-applied-anthropology-conference-philadephia</loc>
-  </url>
-  <url>
-    <loc>https://publichealth.ucmerced.edu/news/2018/professor-and-students-recognized-research-excellence-health-communication-conference</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news/2018/researchers-examine-barriers-organ-donation-and-possible-remedies</loc>
@@ -1898,6 +1895,9 @@
   </url>
   <url>
     <loc>http://publichealth.ucmerced.edu/events/uc-merced-public-health-wargame</loc>
+  </url>
+  <url>
+    <loc>http://publichealth.ucmerced.edu/events/nphw-research-symposium-2025</loc>
   </url>
   <url>
     <loc>http://publichealth.ucmerced.edu/events/ncpc-tobacco-endgame-scholarship-symposium-tess-2025</loc>

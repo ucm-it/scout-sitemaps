@@ -121,7 +121,7 @@
     <loc>https://uav.ucmerced.edu/news/2020/opencv-pixel-recognition</loc>
   </url>
   <url>
-    <loc>https://uav.ucmerced.edu/news/2020/opencv-image-stitching-team</loc>
+    <loc>https://uav.ucmerced.edu/news/2020/uavs-graphical-user-interface</loc>
   </url>
   <url>
     <loc>https://uav.ucmerced.edu/news?page=1</loc>
@@ -187,6 +187,9 @@
     <loc>https://uav.ucmerced.edu/events/flight-test</loc>
   </url>
   <url>
+    <loc>https://uav.ucmerced.edu/news/2020/opencv-image-stitching-team</loc>
+  </url>
+  <url>
     <loc>https://uav.ucmerced.edu/news/2020/uav-drone-cage-flight</loc>
   </url>
   <url>
@@ -212,9 +215,6 @@
   </url>
   <url>
     <loc>https://uav.ucmerced.edu/news/2019/uav-fall-2019</loc>
-  </url>
-  <url>
-    <loc>https://uav.ucmerced.edu/news/2019/uav-presentation</loc>
   </url>
   <url>
     <loc>https://uav.ucmerced.edu/news/2019/fall-2019-drone-pilot</loc>
