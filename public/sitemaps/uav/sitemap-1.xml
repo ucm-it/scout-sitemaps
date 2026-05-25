@@ -121,7 +121,7 @@
     <loc>https://uav.ucmerced.edu/news/2020/opencv-pixel-recognition</loc>
   </url>
   <url>
-    <loc>https://uav.ucmerced.edu/news/2020/uavs-graphical-user-interface</loc>
+    <loc>https://uav.ucmerced.edu/news/2020/opencv-image-stitching-team</loc>
   </url>
   <url>
     <loc>https://uav.ucmerced.edu/news?page=1</loc>
@@ -187,16 +187,13 @@
     <loc>https://uav.ucmerced.edu/events/flight-test</loc>
   </url>
   <url>
-    <loc>https://uav.ucmerced.edu/news/2020/opencv-image-stitching-team</loc>
-  </url>
-  <url>
     <loc>https://uav.ucmerced.edu/news/2020/uav-drone-cage-flight</loc>
   </url>
   <url>
-    <loc>https://uav.ucmerced.edu/news/2020/uas-2020-world-ag-expo</loc>
+    <loc>https://uav.ucmerced.edu/news/2020/pdr-presentation</loc>
   </url>
   <url>
-    <loc>https://uav.ucmerced.edu/news/2020/pdr-presentation</loc>
+    <loc>https://uav.ucmerced.edu/news/2020/uas-2020-world-ag-expo</loc>
   </url>
   <url>
     <loc>https://uav.ucmerced.edu/news/2020/uav-spring-2020</loc>
@@ -215,6 +212,9 @@
   </url>
   <url>
     <loc>https://uav.ucmerced.edu/news/2019/uav-fall-2019</loc>
+  </url>
+  <url>
+    <loc>https://uav.ucmerced.edu/news/2019/uav-presentation</loc>
   </url>
   <url>
     <loc>https://uav.ucmerced.edu/news/2019/fall-2019-drone-pilot</loc>
@@ -280,10 +280,10 @@
     <loc>https://uav.ucmerced.edu/news/2018/spring-2018-flight-test</loc>
   </url>
   <url>
-    <loc>https://uav.ucmerced.edu/news/2018/spring-2018-platform-teams-drone-update</loc>
+    <loc>https://uav.ucmerced.edu/news/2018/2018-spring-imaging-teams-update</loc>
   </url>
   <url>
-    <loc>https://uav.ucmerced.edu/news/2018/2018-spring-imaging-teams-update</loc>
+    <loc>https://uav.ucmerced.edu/news/2018/spring-2018-platform-teams-drone-update</loc>
   </url>
   <url>
     <loc>https://uav.ucmerced.edu/news/2018/spring-2018-preliminary-design-review-presentation-analysis</loc>
@@ -358,10 +358,13 @@
     <loc>https://uav.ucmerced.edu/news/2016/flight-test-mesa-lab</loc>
   </url>
   <url>
-    <loc>https://uav.ucmerced.edu/Training_Day01</loc>
+    <loc>https://uav.ucmerced.edu/PDR_Presentation</loc>
   </url>
   <url>
-    <loc>https://uav.ucmerced.edu/PDR_Presentation</loc>
+    <loc>https://uav.ucmerced.edu/Preview_Day_2015</loc>
+  </url>
+  <url>
+    <loc>https://uav.ucmerced.edu/Training_Day01</loc>
   </url>
   <url>
     <loc>https://uav.ucmerced.edu/news/2015/platform-subteam-update-0</loc>
@@ -383,6 +386,9 @@
   </url>
   <url>
     <loc>https://uav.ucmerced.edu/news/2015/international-agricultural-expo-tulare-ca</loc>
+  </url>
+  <url>
+    <loc>https://uav.ucmerced.edu/news/2014/patricks-imaging-team-update</loc>
   </url>
   <url>
     <loc>https://uav.ucmerced.edu/news/2014/averys-update</loc>
