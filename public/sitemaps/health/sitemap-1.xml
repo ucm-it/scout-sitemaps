@@ -58,10 +58,10 @@
     <loc>https://health.ucmerced.edu/services/dispensary-medications</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/services/fees-common-services</loc>
+    <loc>https://health.ucmerced.edu/services/prescription-delivery</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/services/prescription-delivery</loc>
+    <loc>https://health.ucmerced.edu/services/fees-common-services</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/emergencycare</loc>
@@ -308,5 +308,8 @@
   </url>
   <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/privacynotice_1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/about/appointment-information</loc>
   </url>
 </urlset>
