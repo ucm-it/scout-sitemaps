@@ -13,6 +13,9 @@
     <loc>https://health.ucmerced.edu/about/hours-operation</loc>
   </url>
   <url>
+    <loc>https://health.ucmerced.edu/about/appointment-information</loc>
+  </url>
+  <url>
     <loc>https://health.ucmerced.edu/staff</loc>
   </url>
   <url>
@@ -82,9 +85,6 @@
     <loc>https://health.ucmerced.edu/resources/campus-partners</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/immunizations</loc>
-  </url>
-  <url>
     <loc>https://health.ucmerced.edu/flu-vaccination-information</loc>
   </url>
   <url>
@@ -98,6 +98,9 @@
   </url>
   <url>
     <loc>https://health.ucmerced.edu/immunizations/immunization-medical-exemptions</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/immunizationlocations</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/immunizations/tb-risk-screening-requirements</loc>
@@ -308,8 +311,5 @@
   </url>
   <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/privacynotice_1.pdf</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/about/appointment-information</loc>
   </url>
 </urlset>
