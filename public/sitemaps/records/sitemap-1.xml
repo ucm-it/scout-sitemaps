@@ -7,10 +7,16 @@
     <loc>https://records.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://records.ucmerced.edu/services</loc>
+    <loc>https://records.ucmerced.edu/public-records</loc>
   </url>
   <url>
-    <loc>https://records.ucmerced.edu/public-records</loc>
+    <loc>https://records.ucmerced.edu/public-records/how-make-request-records</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/public-records/what-do-if-your-department-receives-request-records</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/public-records/guidelines-access-uc-merced-public-records</loc>
   </url>
   <url>
     <loc>https://records.ucmerced.edu/public-records/faculty-faq-public-records-requests</loc>
@@ -22,13 +28,46 @@
     <loc>https://records.ucmerced.edu/privacy</loc>
   </url>
   <url>
+    <loc>https://records.ucmerced.edu/privacy/privacy-resources</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/privacy/contact</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/privacy/data-privacy-fliers</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/services</loc>
+  </url>
+  <url>
     <loc>https://records.ucmerced.edu/services/our-services</loc>
   </url>
   <url>
     <loc>https://records.ucmerced.edu/policies-and-procedures</loc>
   </url>
   <url>
+    <loc>https://records.ucmerced.edu/resources</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/resources/administrative-records-related-research</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/resources/electronic-message-management</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/resources/3-electronic-information-security</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/training-materials</loc>
+  </url>
+  <url>
     <loc>https://records.ucmerced.edu/about-us-0</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/about-us/staff</loc>
+  </url>
+  <url>
+    <loc>https://records.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
     <loc>https://records.ucmerced.edu/contact-us</loc>
