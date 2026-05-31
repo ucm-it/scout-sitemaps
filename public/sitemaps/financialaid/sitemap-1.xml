@@ -46,6 +46,9 @@
     <loc>https://financialaid.ucmerced.edu/FWS</loc>
   </url>
   <url>
+    <loc>https://financialaid.ucmerced.edu/receiving-your-aid</loc>
+  </url>
+  <url>
     <loc>https://financialaid.ucmerced.edu/AwardLetter</loc>
   </url>
   <url>
@@ -67,10 +70,19 @@
     <loc>https://financialaid.ucmerced.edu/withdrawing</loc>
   </url>
   <url>
+    <loc>https://financialaid.ucmerced.edu/Forms_Reqs</loc>
+  </url>
+  <url>
     <loc>https://financialaid.ucmerced.edu/forms</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/submit-tax</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/processingtimelines</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/resources</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/blue-gold</loc>
@@ -88,6 +100,9 @@
     <loc>https://financialaid.ucmerced.edu/helpful_links</loc>
   </url>
   <url>
+    <loc>https://financialaid.ucmerced.edu/parentguide</loc>
+  </url>
+  <url>
     <loc>https://financialaid.ucmerced.edu/terms-conditions</loc>
   </url>
   <url>
@@ -95,6 +110,9 @@
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/YourAccount</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/UCMOFASAppeals</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/academic-activity</loc>
@@ -106,13 +124,25 @@
     <loc>https://financialaid.ucmerced.edu/DependencyAppeal</loc>
   </url>
   <url>
+    <loc>https://financialaid.ucmerced.edu/SAP_Appeal_Process</loc>
+  </url>
+  <url>
     <loc>https://financialaid.ucmerced.edu/scholarship-appeal</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/special-circumstances-appeal</loc>
   </url>
   <url>
+    <loc>https://financialaid.ucmerced.edu/finaidfaqs</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/about</loc>
+  </url>
+  <url>
     <loc>https://financialaid.ucmerced.edu/contact_us</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/virtualappts</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/advisors</loc>
@@ -140,6 +170,9 @@
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/federal-loans</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/DREAMloan</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/alternativeloans</loc>
@@ -172,6 +205,9 @@
     <loc>https://financialaid.ucmerced.edu/withdrawing-Spanish</loc>
   </url>
   <url>
+    <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/page/documents/r2t4_aid_guide.pdf</loc>
+  </url>
+  <url>
     <loc>https://financialaid.ucmerced.edu/form/2025-2026</loc>
   </url>
   <url>
@@ -184,22 +220,259 @@
     <loc>https://financialaid.ucmerced.edu/submit-tax/2026-2027</loc>
   </url>
   <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/documents/corbett_disclosure.pdf</loc>
+  </url>
+  <url>
     <loc>https://financialaid.ucmerced.edu/DirectLoans</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/exit-counseling</loc>
   </url>
   <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/documents/code_of_conduct.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/documents/missing_persons_notification_policy_-_ucmpd.pdf</loc>
+  </url>
+  <url>
     <loc>https://financialaid.ucmerced.edu/covid-19-spanish</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/website_update_-_heerf_iii_08-10-2023_v3-_pdf_cropped.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/page/monthly_cares_report_as_of_5.29.20_1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/page/monthly_cares_report_as_of_6.30.20.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/page/monthly_cares_report_as_of_7.30.20.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/page/monthly_cares_report_as_of_8.31.20.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/page/monthly_cares_report_as_of_9.30.20.pdf</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/page/monthly_cares_report_as_of_10.30.20.pdf</loc>
   </url>
   <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/page/monthly_cares_report_as_of_11.30.20.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/page/monthly_cares_report_as_of_12.17.20_2.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/page/monthly_cares_report_as_of_1.29.21_1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/page/monthly_cares_report_as_of_2.26.21_1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/page/monthly_cares_report_as_of_3.28.21_1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/page/monthly_cares_report_as_of_4.28.21_1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/page/monthly_cares_report_as_of_5.27.21.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-I-Monthly/monthly_cares_report_as_of_6.30.21.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-I-Monthly/monthly_cares_report_as_of_7.30.21.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-I-Monthly/monthly_cares_report_as_of_8.31.21.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-I-Monthly/monthly_cares_report_as_of_9.30.21.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-I-Monthly/monthly_cares_report_as_of_10.31.21.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-I-Monthly/monthly_cares_report_as_of_11.30.21.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-I-Monthly/monthly_cares_report_as_of_12.31.21_1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-I-Monthly/monthly_cares_report_as_of_1.31.22.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-I-Monthly/monthly_cares_report_as_of_2.28.22.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-I-Monthly/monthly_cares_report_as_of_3.31.22.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-I-Monthly/monthly_cares_report_as_of_4.30.22.pdf</loc>
+  </url>
+  <url>
     <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-I-Monthly/monthly_cares_report_as_of_5.31.22.pdf</loc>
   </url>
   <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-I-Monthly/monthly_cares_report_as_of_6.30.22.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-II-Monthly/monthly_crrsaa_report_as_of_4.29.21.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-II-Monthly/monthly_crrsaa_report_as_of_5.27.21.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-II-Monthly/monthly_crrsaa_report_as_of_6.30.21.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-II-Monthly/monthly_crrsaa_report_as_of_7.30.21_1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-II-Monthly/monthly_crrsaa_report_as_of_8.31.21.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-II-Monthly/monthly_crrsaa_report_as_of_9.30.21.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-II-Monthly/monthly_crrsaa_report_as_of_10.31.21.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-II-Monthly/monthly_crrsaa_report_as_of_11.30.21.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-II-Monthly/monthly_crrsaa_report_as_of_12.31.21.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-II-Monthly/monthly_crrsaa_report_as_of_1.31.22.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-II-Monthly/monthly_crrsaa_report_as_of_2.28.22.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-II-Monthly/monthly_crrsaa_report_as_of_3.31.22.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-II-Monthly/monthly_crrsaa_report_as_of_4.30.22.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-II-Monthly/monthly_crrsaa_report_as_of_5.31.22.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-II-Monthly/monthly_crrsaa_report_as_of_6.30.22.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-III-Monthly/monthly_arp_report_as_of_12.31.21.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-III-Monthly/monthly_arp_report_as_of_1.31.22.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-III-Monthly/monthly_arp_report_as_of_2.28.22.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-III-Monthly/monthly_arp_report_as_of_3.31.22.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-III-Monthly/monthly_arp_report_as_of_4.30.22.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/page/monthly_arp_report_as_of_5.31.22.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/page/monthly_arp_report_as_of_6.30.22.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/page/monthly_arp_report_as_of_7.31.22_.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/page/monthly_arp_report_as_of_8.31.22.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/documents/monthly_arp_report_as_of_9.30.22.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/documents/monthly_arp_report_as_of_10.31.22.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/documents/monthly_arp_report_as_of_11.30.22.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/documents/monthly_arp_report_as_of_12.31.22.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/page/new_monthly_arp_report_as_of_1.31.23.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/page/new_monthly_arp_report_as_of_2.28.23.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-III-Monthly/monthly_arp_report_as_of_4.30.23_.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-III-Monthly/monthly_arp_report_as_of_5.31.23.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/HEERF-III-Monthly/monthly_arp_report_as_of_6.30.23.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/documents/heerf-quarterly-reporting-_oct_30_revised2.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/documents/heerf-quarterly-reporting-_jan_10_2021_revised.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/Quarterly-Reports/heerf-quarterly-reporting-_mar_31-21-rev2.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/Quarterly-Reports/heerf-quarterly-reporting-_june_30-rev_9-21.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/Quarterly-Reports/heerf_quarterly_reporting_sep_30_2021.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/Quarterly-Reports/q2_21-22_reporting_dec_31-revised.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/Quarterly-Reports/q3_21-22_reporting_march_31.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/Quarterly-Reports/04127100_heerf_q42022_07112022-_revised_6.13.24.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/Quarterly-Reports/04127100_heerf_q42022_10062022-revised_10.26.23_1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/Quarterly-Reports/04127100_heerf_q22023_01102023-revised_10.26.23.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/Quarterly-Reports/04127100_heerf_q32023_03312023-revised_6.13.24.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/Quarterly-Reports/04127100_heerf_q42023_07102023_revised_6.13.24.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/Quarterly-Reports/04127100_heerf_q42023_09302023.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/event/Quarterly-Reports/04127100_heerf_q22023_01102024.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/parentguide-Spanish</loc>
+  </url>
+  <url>
     <loc>https://financialaid.ucmerced.edu/outsidescholarships</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/documents/25-26/addexp_2526.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/documents/26-27/adexp2_2627.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/documents/budgeting_money_worksheet_002.pdf</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/special-circumstances-appeal-Spanish</loc>
@@ -208,16 +481,70 @@
     <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/documents/25-26/spcirc_2526.pdf</loc>
   </url>
   <url>
+    <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/documents/26-27/spcir2_2627.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/documents/26-27/gfaver_2627.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/ParentPLUS</loc>
+  </url>
+  <url>
     <loc>https://financialaid.ucmerced.edu/events</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/form/financial-aid-event-and-outreach-request-form</loc>
   </url>
   <url>
-    <loc>https://financialaid.ucmerced.edu/ParentPLUS</loc>
+    <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/documents/Newsletter/may_2026.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/news/Newsletters/april_2026.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/news/Newsletters/march_2026.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/news/Newsletters/february_2026.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/news/Newsletters/january_2026.pdf</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/GradPLUS</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/documents/25-26/apsa_2526.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/documents/24-25/4506_-_t_form.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/documents/25-26/hchng_2526.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/documents/General_Forms/budgetingmoneyworksheet.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/documents/25-26/adjl_2526.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/documents/25-26/padjl_2526.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/documents/26-27/2024_form_4506-t.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/documents/26-27/hchng2_2627.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/documents/25-26/2023_form_1040_-_sample.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/documents/26-27/2024_form_1040_sample.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/documents/24-25/spcir2_2425.pdf</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/events/fafsa-cadaa-workshop-4</loc>
@@ -233,6 +560,9 @@
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/events/fafsa-cadaa-workshop-3</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/events/fafsa-cadaa-workshop-2</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/events/fafsa-cadaa-workshop-1</loc>
@@ -259,6 +589,9 @@
     <loc>https://financialaid.ucmerced.edu/events/financial-aid-application-priority-deadline</loc>
   </url>
   <url>
+    <loc>https://financialaid.ucmerced.edu/events/california-dream-act-application-priority-deadline</loc>
+  </url>
+  <url>
     <loc>https://financialaid.ucmerced.edu/events/fafsacadaa-workshop-6</loc>
   </url>
   <url>
@@ -275,6 +608,9 @@
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/events/fafsacadaa-workshop-1</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/events/fafsacadaa-workshop-0</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/events/fafsacadaa-workshop</loc>
@@ -353,6 +689,9 @@
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/events/start-here-fafsacadaa-workshop-13</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/events/start-here-fafsacadaa-workshop-7</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/events/start-here-fafsacadaa-workshop-6</loc>
@@ -469,7 +808,13 @@
     <loc>https://financialaid.ucmerced.edu/events/start-here-fafsacadaa-workshop-9</loc>
   </url>
   <url>
+    <loc>https://financialaid.ucmerced.edu/events/start-here-financial-aid-advisor-virtual-appointments-0</loc>
+  </url>
+  <url>
     <loc>https://financialaid.ucmerced.edu/events/start-here-financial-aid-advisor-virtual-appointments</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/events/start-here-fafsacadaa-workshop-8</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/events/2021-22-financial-aid-applications-open</loc>
@@ -506,6 +851,12 @@
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/events/satisfactory-academic-progress-appeal-deadline-0</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/events/refund-disbursement-begins</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/event/documents/merced_cal-soap_countywide_evening_financial_aid_workshops_002_0.pdf</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/institutionalscholarships</loc>

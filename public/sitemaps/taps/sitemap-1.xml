@@ -7,10 +7,40 @@
     <loc>https://taps.ucmerced.edu/</loc>
   </url>
   <url>
+    <loc>https://taps.ucmerced.edu/about</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/form/feedback</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/about/testimonials</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/about/taps-advisory-committe</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/about/taps-advisory-committee/2020-meeting-minutes</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/about/taps-advisory-committee/2019-meeting-minutes</loc>
+  </url>
+  <url>
     <loc>https://taps.ucmerced.edu/transportation</loc>
   </url>
   <url>
+    <loc>https://taps.ucmerced.edu/transportation/cattracks-and-route-uc/routes</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/transportation/cattracks-and-route-uc/trip-planner</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/transportation/policies</loc>
+  </url>
+  <url>
     <loc>https://taps.ucmerced.edu/transportation/zipcar</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/transportation/bicycle-program</loc>
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/transportation/airport</loc>
@@ -19,13 +49,34 @@
     <loc>https://taps.ucmerced.edu/transportation/amtrak</loc>
   </url>
   <url>
+    <loc>https://taps.ucmerced.edu/transportation/getting-around-campus-0</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/transportation/north-transit-hub</loc>
+  </url>
+  <url>
     <loc>https://taps.ucmerced.edu/permits</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/permits/students</loc>
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/permits/students/commuter</loc>
   </url>
   <url>
+    <loc>https://taps.ucmerced.edu/permits/students/campus-residents</loc>
+  </url>
+  <url>
     <loc>https://taps.ucmerced.edu/facultystaff</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/permits/facultystaff/emeritus</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/permits/facultystaff/reciprocity</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/permits/facultystaff/payroll-information</loc>
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/permits/graduate-students</loc>
@@ -34,7 +85,13 @@
     <loc>https://taps.ucmerced.edu/permits/visitorsvendors</loc>
   </url>
   <url>
+    <loc>https://taps.ucmerced.edu/permits/carpool</loc>
+  </url>
+  <url>
     <loc>https://taps.ucmerced.edu/permits/accessible-parking</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/permits/vip-campus-service-program</loc>
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/permits/electric-vehicle-charging</loc>
@@ -46,13 +103,67 @@
     <loc>https://taps.ucmerced.edu/citations/regulations</loc>
   </url>
   <url>
+    <loc>https://taps.ucmerced.edu/citations/violations-fines</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/citations/appeals-process</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/citations/citation-payment-plan</loc>
+  </url>
+  <url>
     <loc>https://taps.ucmerced.edu/citations/campus-housing-permits-and-enforcement</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/event-services</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/event-services/rates</loc>
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/events/parking-impacts</loc>
   </url>
   <url>
+    <loc>https://taps.ucmerced.edu/fleet</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/fleet/vehicle-cart-rentals</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/fleet/recharge-rates</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/fleet/service-requests</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/fleet/vehicle-purchasing</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/fleet/forms-links</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/fleet/forms-links/voyager-card-serviceslocations</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/fleet/emergency-phone-numbers</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/fleet/incidentaccident-procedures</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/campusparkingmap</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/catcart-program</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/faq-0</loc>
+  </url>
+  <url>
     <loc>https://taps.ucmerced.edu/about/FAQ/general</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/faq/transit</loc>
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/faq/faculty-staff-parking</loc>
@@ -61,9 +172,207 @@
     <loc>https://taps.ucmerced.edu/about/FAQ/citations</loc>
   </url>
   <url>
+    <loc>https://taps.ucmerced.edu/about/FAQ/lpr</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/faq/payroll-deduction-0</loc>
+  </url>
+  <url>
     <loc>https://taps.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>https://taps.ucmerced.edu/news/2026/2026-27-campus-resident-freshman-commuter-exception</loc>
+  </url>
+  <url>
     <loc>https://taps.ucmerced.edu/news/2026/micromobility-safety-campus</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/meeting_minutes_feb.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/meeting_minutes_jan.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/meeting_minutes_december.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/meeting_minutes_november.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/meeting_minutes_october.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/meeting_minutes_september.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/meeting_minutes_july_2019.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/meeting_minutes_may_2019.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/meeting_minutes_april_2019.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/meeting_minutes_march_2019.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/meeting_minutes_february_2019.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/meeting_minutes_january_2019.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/node/4711</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/node/4816</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/node/4821</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/node/4831</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/node/4841</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/Fall/2025/route_uc_fall_2025_8_18_25.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/Fall/2025/m-1_fall_2025_8_18_2025.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/Fall/2025/m-2_fall_2025_8_18_2025.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/Fall/2025/m-3_fall_2025_8_18_2025.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/Fall/2025/m-4_fall_2025_8_18_2025pdf.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/Fall/2025/m-5_fall_2025_8_18_2025.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/Fall/2025/m-6_fall_2025_8_18_2025.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/Fall/2025/m-7_fall_2025_8_18_2025.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/lprprocedures_2.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/how_to_park_temp.png</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/release_of_liability.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/revised_citation_appeal_process.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/nuparkprivacypolicy.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/request_for_administrative_hearing_v2_5.2023.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/request_to_waive_administrative_hearing_penalty_deposit_-_05.2023.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/appeal_procedures_cr-141-info.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/request_for_payment_plan_application_04.2024.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/bus-staging</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/taps.ucmerced.edu/files/documents/james_website_photo.jpg</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/faster_asset_solutions_portal_login_request_form.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/vehicle_usage_policies.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/cart_usage_policies.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/images/100848.jpg</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/images/100844.jpg</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/images/100847.jpg</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/page/images/microsoftteams-image_9_0.png</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/page/images/cart_51.jpg</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/cart_87_88.jpeg</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/page/documents/faster_asset_solutions_portal_login_request_form_2026_update.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/vehicle_inspection_form2026.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/page/documents/mileage_log.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/page/documents/fleet_services_vehicle_order_request_update_2026.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/page/documents/driver_accident_reporting_process.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/accident_reporting_kit.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/page/documents/verification_of_insurance.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/claims_reporting_changes_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/revised_evidence_of_financial_responsibility_8-27-09.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/certificate_of_self-insurance.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/drivers_accident_reporting_process.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/page/documents/cart_pickup_map_december_2025.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/Spring/2026/bobcat_express_spring_2026_1_20_26.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/Spring/2026/c-1_line_spring_2026_1_20_26.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/Spring/2026/c-2_line_fall_spring_2026_1_20_26.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/Spring/2026/fastcat_spring_2026_1_20_26.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/Spring/2026/g_line_spring_2026_1_20_26.pdf</loc>
   </url>
 </urlset>

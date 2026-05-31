@@ -6,4 +6,10 @@
   <url>
     <loc>https://heroes.ucmerced.edu/</loc>
   </url>
+  <url>
+    <loc>https://heroes.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://heroes.ucmerced.edu/contact</loc>
+  </url>
 </urlset>

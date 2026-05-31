@@ -34,6 +34,9 @@
     <loc>https://ahs.ucmerced.edu/student-resources</loc>
   </url>
   <url>
+    <loc>https://ahs.ucmerced.edu/student-resources/careers</loc>
+  </url>
+  <url>
     <loc>https://ahs.ucmerced.edu/student-resources/field-schools</loc>
   </url>
   <url>
@@ -61,7 +64,16 @@
     <loc>https://ahs.ucmerced.edu/content/linda-anne-rebhun</loc>
   </url>
   <url>
+    <loc>https://ahs.ucmerced.edu/content/karl-e-ryavec</loc>
+  </url>
+  <url>
+    <loc>https://ahs.ucmerced.edu/content/beth-scaffidi</loc>
+  </url>
+  <url>
     <loc>https://ahs.ucmerced.edu/content/daniel-thompson</loc>
+  </url>
+  <url>
+    <loc>https://ahs.ucmerced.edu/content/stephen-wooding</loc>
   </url>
   <url>
     <loc>https://ahs.ucmerced.edu/content/mark-s-aldenderfer</loc>
@@ -74,5 +86,8 @@
   </url>
   <url>
     <loc>https://ahs.ucmerced.edu/content/jayson-beaster-jones</loc>
+  </url>
+  <url>
+    <loc>https://ahs.ucmerced.edu/content/nancy-burke</loc>
   </url>
 </urlset>

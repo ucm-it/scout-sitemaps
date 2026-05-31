@@ -10,7 +10,22 @@
     <loc>https://dc.ucmerced.edu/aboutus</loc>
   </url>
   <url>
+    <loc>https://dc.ucmerced.edu/staff</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/Contact</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects-0</loc>
+  </url>
+  <url>
     <loc>https://dc.ucmerced.edu/construction</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/active-projects/classroom-and-office-building-3</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/active-projects/field-education-and-research-center</loc>
   </url>
   <url>
     <loc>https://dc.ucmerced.edu/projects/active-projects/medical-education-building</loc>
@@ -19,13 +34,46 @@
     <loc>https://dc.ucmerced.edu/projects/active-projects/promise-housing</loc>
   </url>
   <url>
+    <loc>https://dc.ucmerced.edu/projects/administrative-buildings</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/academic-research-buildings/administration-building</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/administrative-buildings/downtown-campus-center</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/completed-academic-projects</loc>
+  </url>
+  <url>
     <loc>https://dc.ucmerced.edu/projects/academic-research-buildings/arts-computational-sciences</loc>
   </url>
   <url>
     <loc>https://dc.ucmerced.edu/projects/academic-research-buildings/biomedical-sciences-and-physics</loc>
   </url>
   <url>
+    <loc>https://dc.ucmerced.edu/projects/academic-research-buildings/classroom-office-building-1</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/academic-research-buildings/classroom-office-building-2</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/academic-research-buildings/greenhouse</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/leo-and-dottie-kolligian-library</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/academic-research-buildings/science-and-engineering-1</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/academic-research-buildings/science-and-engineering-2</loc>
+  </url>
+  <url>
     <loc>https://dc.ucmerced.edu/projects/academic-research-buildings/social-sciences-and-management-building</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/academic-research-buildings/student-services-building</loc>
   </url>
   <url>
     <loc>https://dc.ucmerced.edu/projects/academic-research-buildings/sustainability-research-engineering</loc>
@@ -34,13 +82,64 @@
     <loc>https://dc.ucmerced.edu/residential</loc>
   </url>
   <url>
+    <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/aquatic-center</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/conference-center</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/cathedral-and-tenaya-halls</loc>
+  </url>
+  <url>
     <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/early-childhood-education-center</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/el-portal-residence-hall</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/gallo-recreation-and-wellness-center</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/glacier-point-residence-hall</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/granite-pass-residence-hall</loc>
   </url>
   <url>
     <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/half-dome-student-residences</loc>
   </url>
   <url>
+    <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/health-and-athletic-center</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/recreation-field</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/sentinel-rock</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/sierra-terraces-student-residences</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/student-activities-and-athletics-center</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/pavilion</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/valley-terraces-student-residences</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/infrastructure</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/infrastructure-buildings/central-plant-and-telecommunications-complex</loc>
+  </url>
+  <url>
     <loc>https://dc.ucmerced.edu/projects/infrastructure-buildings/logistical-supportservices-facility</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/bidding</loc>
   </url>
   <url>
     <loc>https://dc.ucmerced.edu/bidding/annual-announcement</loc>
@@ -52,12 +151,24 @@
     <loc>https://dc.ucmerced.edu/bidding/plan-room</loc>
   </url>
   <url>
+    <loc>https://dc.ucmerced.edu/bidding/sbe-reporting-requirements-b2gnow</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/bidding/ucm-bidding-resources</loc>
+  </url>
+  <url>
     <loc>https://dc.ucmerced.edu/resources</loc>
   </url>
   <url>
     <loc>https://dc.ucmerced.edu/resources/key-terms</loc>
   </url>
   <url>
-    <loc>https://dc.ucmerced.edu/projects/academic-research-buildings/classroom-office-building-1</loc>
+    <loc>https://dc.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/sites/g/files/ufvvjh706/f/page/documents/construction-contracting-table.pdf</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/resources/key-terms/acronyms</loc>
   </url>
 </urlset>

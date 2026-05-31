@@ -10,6 +10,9 @@
     <loc>https://ns-advising.ucmerced.edu/contact-us/about/ns-advsing-responsibilities</loc>
   </url>
   <url>
+    <loc>https://ns-advising.ucmerced.edu/about/contact-us</loc>
+  </url>
+  <url>
     <loc>https://ns-advising.ucmerced.edu/office-hours</loc>
   </url>
   <url>
@@ -22,22 +25,52 @@
     <loc>https://ns-advising.ucmerced.edu/peermentors</loc>
   </url>
   <url>
+    <loc>https://ns-advising.ucmerced.edu/academics</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/academics/course-syllabi</loc>
+  </url>
+  <url>
     <loc>https://ns-advising.ucmerced.edu/academics/applied-mathematical-sciences</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/academics/biochemistry</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/academics/biological-sciences</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/academics/chemistry</loc>
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/academics/data-science-computing</loc>
   </url>
   <url>
+    <loc>https://ns-advising.ucmerced.edu/academics/ecology-evolution-conservation-biology</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/academics/environmental-systems-science</loc>
+  </url>
+  <url>
     <loc>https://ns-advising.ucmerced.edu/academics/physics</loc>
   </url>
   <url>
+    <loc>https://ns-advising.ucmerced.edu/policies/ns-advising-policies</loc>
+  </url>
+  <url>
     <loc>https://ns-advising.ucmerced.edu/ns-advising-policies/academic-re-entry</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/policies/ns-advising-policies/appointment-policy</loc>
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/policies/ns-advising-policies/communication-policy</loc>
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/ns-advising-policies/declaration-major</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/policies/ns-academic-policies/demajored-information</loc>
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/policies/ns-academic-policies/early-progress-policy</loc>
@@ -49,13 +82,31 @@
     <loc>https://ns-advising.ucmerced.edu/policies/ns-advising-policies/ns-advising_syllabus</loc>
   </url>
   <url>
+    <loc>https://ns-advising.ucmerced.edu/ns-advising-policies/prerequisite-coursework-taken-outside-uc-merced</loc>
+  </url>
+  <url>
     <loc>https://ns-advising.ucmerced.edu/registration</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/jumpstart3</loc>
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/summer</loc>
   </url>
   <url>
+    <loc>https://ns-advising.ucmerced.edu/registration/required-academic-advising-new-transfers</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/registration/sns-planned-course-offerings</loc>
+  </url>
+  <url>
     <loc>https://ns-advising.ucmerced.edu/placement</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/calculuscompetencyexam</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/forms</loc>
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/news-events</loc>
@@ -64,12 +115,126 @@
     <loc>https://ns-advising.ucmerced.edu/events</loc>
   </url>
   <url>
+    <loc>https://ns-advising.ucmerced.edu/news-events/advising-alerts</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/resources</loc>
+  </url>
+  <url>
     <loc>https://ns-advising.ucmerced.edu/resources/faq</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/study-abroad</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/useful-resources</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/resources/calculus-i-ii-faq</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/biological-sciences-course-series</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/Handouts/math_major_flow_chart_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/bio_major_flow_chart_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/Handouts/chem_major_flow_chart_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/dsc_major_course_flow_chart_2-2025.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/eecb_major_flow_chart_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/Handouts/ess_major_flow_chart_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/Handouts/phys_major_flow_chart_final.pdf</loc>
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/lower_div_major_declaration</loc>
   </url>
   <url>
+    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/ns_advising_syllabus_2016-ilovepdf-compressed.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/Handouts/graduation_plan_guide.pdf</loc>
+  </url>
+  <url>
     <loc>https://ns-advising.ucmerced.edu/form/course-approval-form</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/form/subsequent-course-repeat</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/form/ns-student-general-petition</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/sites/g/files/ufvvjh2111/f/documents/ns_internship_learning_contract_8-22-2025.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/sites/g/files/ufvvjh2111/f/documents/ns_summer_internship_learning_contract_8-22-2025.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/form/student-concernresolution-form</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/events/experience-degrees-biology-chemistry-and-environmental-systems-science-0</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/events/experience-degrees-applied-math-and-physics-1</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/events/school-natural-sciences-faculty-mixer-0</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/events/school-natural-sciences-featuring-robert-goodmancareer-fair-prep-guide-networking-and-being</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/events/school-natural-sciences-student-panel-0</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/events/academic-advisors-academic-coaches-meet-greet</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/events/experience-degrees-applied-math-and-physics-0</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/events/experience-degrees-biology-chemistry-and-environmental-systems-science</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/events/experience-degrees-biologychemistryenvironmental-systems-science</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/events/school-natural-sciences-student-panel</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/events/school-natural-sciences-faculty-mixer</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/events/school-natural-sciences-advisor-meet-and-greet</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/events/school-natural-sciences-open-house-presentation-event</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/events/experience-degrees-applied-math-and-physics</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/events/experience-degrees-biology-and-chemistry</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/page/documents/graduation_planner_final_5-18-15_with_tabs_4.pdf</loc>
   </url>
 </urlset>

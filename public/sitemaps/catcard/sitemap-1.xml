@@ -40,10 +40,19 @@
     <loc>https://catcard.ucmerced.edu/Plans_usage</loc>
   </url>
   <url>
+    <loc>https://catcard.ucmerced.edu/plans</loc>
+  </url>
+  <url>
+    <loc>https://catcard.ucmerced.edu/Building_Access</loc>
+  </url>
+  <url>
     <loc>https://catcard.ucmerced.edu/plans-usages/cattracks-pass</loc>
   </url>
   <url>
     <loc>https://catcard.ucmerced.edu/plans-usages/dining</loc>
+  </url>
+  <url>
+    <loc>https://catcard.ucmerced.edu/plans-usages/dining/purchasing-meal-plan</loc>
   </url>
   <url>
     <loc>https://catcard.ucmerced.edu/services</loc>
@@ -53,6 +62,9 @@
   </url>
   <url>
     <loc>https://catcard.ucmerced.edu/MobileID</loc>
+  </url>
+  <url>
+    <loc>https://catcard.ucmerced.edu/icatcard-web-services/ice</loc>
   </url>
   <url>
     <loc>https://catcard.ucmerced.edu/services/appreciation-recognition</loc>
@@ -68,6 +80,9 @@
   </url>
   <url>
     <loc>https://catcard.ucmerced.edu/Terms_Conditions</loc>
+  </url>
+  <url>
+    <loc>https://catcard.ucmerced.edu/catcard-policy</loc>
   </url>
   <url>
     <loc>https://catcard.ucmerced.edu/catcard-policies/affiliate-card</loc>
@@ -88,13 +103,37 @@
     <loc>https://catcard.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>https://catcard.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
     <loc>https://catcard.ucmerced.edu/services/patron-lookup</loc>
   </url>
   <url>
     <loc>http://catcard.ucmerced.edu</loc>
   </url>
   <url>
+    <loc>https://catcard.ucmerced.edu/sites/g/files/ufvvjh521/f/page/documents/ice_1_3_releasenotes_finalweb.pdf</loc>
+  </url>
+  <url>
+    <loc>https://catcard.ucmerced.edu/sites/g/files/ufvvjh521/f/page/documents/icatcard_tutorial_how_to_create_a_event.pdf</loc>
+  </url>
+  <url>
+    <loc>https://catcard.ucmerced.edu/sites/g/files/ufvvjh521/f/page/documents/icatcard_tutorial_how_to_track.pdf</loc>
+  </url>
+  <url>
+    <loc>https://catcard.ucmerced.edu/services/mobile-icheck-in</loc>
+  </url>
+  <url>
+    <loc>https://catcard.ucmerced.edu/icheck-in-download</loc>
+  </url>
+  <url>
+    <loc>https://catcard.ucmerced.edu/sites/g/files/ufvvjh521/f/page/images/qr-code5.png</loc>
+  </url>
+  <url>
     <loc>https://catcard.ucmerced.edu/sites/g/files/ufvvjh521/f/page/images/qrcode2.png</loc>
+  </url>
+  <url>
+    <loc>https://catcard.ucmerced.edu/sites/g/files/ufvvjh521/f/page/documents/catcard_refund_request_form.pdf</loc>
   </url>
   <url>
     <loc>https://catcard.ucmerced.edu/sites/g/files/ufvvjh521/f/documents/were_here_to_help.png</loc>
@@ -136,10 +175,19 @@
     <loc>http://catcard.ucmerced.edu/Plans_usage</loc>
   </url>
   <url>
+    <loc>http://catcard.ucmerced.edu/plans</loc>
+  </url>
+  <url>
+    <loc>http://catcard.ucmerced.edu/Building_Access</loc>
+  </url>
+  <url>
     <loc>http://catcard.ucmerced.edu/plans-usages/cattracks-pass</loc>
   </url>
   <url>
     <loc>http://catcard.ucmerced.edu/plans-usages/dining</loc>
+  </url>
+  <url>
+    <loc>http://catcard.ucmerced.edu/plans-usages/dining/purchasing-meal-plan</loc>
   </url>
   <url>
     <loc>http://catcard.ucmerced.edu/services</loc>
@@ -149,6 +197,9 @@
   </url>
   <url>
     <loc>http://catcard.ucmerced.edu/MobileID</loc>
+  </url>
+  <url>
+    <loc>http://catcard.ucmerced.edu/icatcard-web-services/ice</loc>
   </url>
   <url>
     <loc>http://catcard.ucmerced.edu/services/appreciation-recognition</loc>
@@ -166,6 +217,9 @@
     <loc>http://catcard.ucmerced.edu/Terms_Conditions</loc>
   </url>
   <url>
+    <loc>http://catcard.ucmerced.edu/catcard-policy</loc>
+  </url>
+  <url>
     <loc>http://catcard.ucmerced.edu/catcard-policies/affiliate-card</loc>
   </url>
   <url>
@@ -179,5 +233,8 @@
   </url>
   <url>
     <loc>http://catcard.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>http://catcard.ucmerced.edu/contact-us</loc>
   </url>
 </urlset>

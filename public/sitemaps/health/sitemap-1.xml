@@ -13,10 +13,16 @@
     <loc>https://health.ucmerced.edu/about/hours-operation</loc>
   </url>
   <url>
+    <loc>https://health.ucmerced.edu/about/appointment-information</loc>
+  </url>
+  <url>
     <loc>https://health.ucmerced.edu/staff</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/about/patient-rights-responsibilities</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/about/confidentiality</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/services</loc>
@@ -28,19 +34,43 @@
     <loc>https://health.ucmerced.edu/services/sexual-health</loc>
   </url>
   <url>
+    <loc>https://health.ucmerced.edu/services/nurses-clinic</loc>
+  </url>
+  <url>
     <loc>https://health.ucmerced.edu/services/sick-notes</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/services/travel-clinic</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/services/addadhd</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/services/sensitive-exams/notice-chaperone-policy</loc>
   </url>
   <url>
+    <loc>https://health.ucmerced.edu/services/sensitive-examschaperone-policy/sensitive-exams-brochure</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/services/over-counter-products</loc>
+  </url>
+  <url>
     <loc>https://health.ucmerced.edu/kioskproducts%26pricing</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/services/dispensary-medications</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/services/prescription-delivery</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/services/fees-common-services</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/emergencycare</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/resources</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/resources/transportation-campus-medical-appointments</loc>
@@ -62,6 +92,9 @@
   </url>
   <url>
     <loc>https://health.ucmerced.edu/immunizations/immunizationrequirements</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/immunizations/immunization-faqs</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/immunizations/immunization-plan-and-policy</loc>
@@ -115,19 +148,37 @@
     <loc>https://health.ucmerced.edu/insurance/campus-medical-care-assistance-fund-program</loc>
   </url>
   <url>
+    <loc>https://health.ucmerced.edu/insurance/insurance-confidentiality</loc>
+  </url>
+  <url>
     <loc>https://health.ucmerced.edu/mybill</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/How-to-Make-a-Report-of-Sexual-Harassment-and-Notice-of-Nondiscrimination</loc>
   </url>
   <url>
+    <loc>https://health.ucmerced.edu/resources/new-students</loc>
+  </url>
+  <url>
     <loc>https://health.ucmerced.edu/news/2026/2026-2027-uc-ship-waiver-open</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/news/2024/attention-ship-students</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/news/2024/lyrauc-ship</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/healthbrochure.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/minorconsent.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/documents/confidential-communications-request.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/privacynotice.pdf</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/routine-screening-exams</loc>
@@ -142,27 +193,126 @@
     <loc>https://health.ucmerced.edu/pregnancy-services</loc>
   </url>
   <url>
+    <loc>https://health.ucmerced.edu/sites/g/files/ufvvjh1001/f/documents/pregnancy_options.docx</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/g/files/ufvvjh1001/f/page/documents/emergency_contraception_for_all_students.docx</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/documents/sensitive_exams_brochure_2.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/privacynotice_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/minor.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/g/files/ufvvjh1001/f/documents/immunizationplan2025.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/how_to_submit_your_tb_clearance_ucm_fall2017-revised_8.17.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/tbhealthassessmentform_merced.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/immunizationexemptionpolicy_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/medicalexemptionrequestform_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/medical_records_release.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/g/files/ufvvjh1001/f/documents/flu_consent_2025.2026.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/authorizationfinancial.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/revocationauthorizationfinancial.pdf</loc>
+  </url>
+  <url>
     <loc>https://health.ucmerced.edu/sites/g/files/ufvvjh1001/f/documents/ucship_administrative_referral_form_pdf.pdf</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/sites/g/files/ufvvjh1001/f/documents/medi-cal_waiver_instructions25_26.pdf</loc>
   </url>
   <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/uc_ship_mandate.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/glossary_of_medical_insurance_terminology.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/medil15-32_-_medi-cal_college_students.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/fact_sheet_-_uc_ship_premium_increase_final_4-5-24_ee_fix.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/waiver_cancellation_form_25-26.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucship_eap_mandate.pdf</loc>
+  </url>
+  <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/medi-cal_insurance_cards_for_merced_county.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/g/files/ufvvjh1001/f/documents/26-27_ucmerced_undergrad_vol_pc.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/g/files/ufvvjh1001/f/documents/26-27_ucmerced_grad_vol_pc.pdf</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshipfraudletter.pdf</loc>
   </url>
   <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshipidentityprotection.pdf</loc>
+  </url>
+  <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/suspiciousactivityfaqs.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshipacatips.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshipregulatorycompliance.pdf</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/acafederal.pdf</loc>
   </url>
   <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/1095b.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshipfaqs.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshipglossary.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshipstudentprofiles.pdf</loc>
+  </url>
+  <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshiptipsheet.pdf</loc>
   </url>
   <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/campus_medical_care_assistance_fund_faq_2024-25.pdf</loc>
+  </url>
+  <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/cmcaf_application_2024-25.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/confidential_communications_request.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/pacaos_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/privacynotice_1.pdf</loc>
   </url>
 </urlset>
