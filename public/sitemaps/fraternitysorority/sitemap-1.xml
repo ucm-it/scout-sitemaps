@@ -361,9 +361,6 @@
     <loc>http://fraternitysorority.ucmerced.edu/programs/developmental-programs/academic-success</loc>
   </url>
   <url>
-    <loc>http://fraternitysorority.ucmerced.edu/programs/developmental-programs/leadership-development</loc>
-  </url>
-  <url>
     <loc>http://fraternitysorority.ucmerced.edu/programs/personal-development</loc>
   </url>
   <url>
@@ -389,6 +386,9 @@
   </url>
   <url>
     <loc>http://fraternitysorority.ucmerced.edu/how-join/difference-between-npc-sororities-cultural-sororities-and-nphc-sororities</loc>
+  </url>
+  <url>
+    <loc>http://fraternitysorority.ucmerced.edu/parents-family</loc>
   </url>
   <url>
     <loc>http://fraternitysorority.ucmerced.edu/parents-family/familys-role</loc>
@@ -1012,6 +1012,6 @@
     <loc>https://fraternitysorority.ucmerced.edu/news/2023/fraternity-and-sorority-members-sharing-their-experiences</loc>
   </url>
   <url>
-    <loc>http://fraternitysorority.ucmerced.edu/parents-family</loc>
+    <loc>http://fraternitysorority.ucmerced.edu/programs/developmental-programs/leadership-development</loc>
   </url>
 </urlset>
