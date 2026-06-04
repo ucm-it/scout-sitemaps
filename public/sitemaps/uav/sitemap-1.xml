@@ -121,7 +121,7 @@
     <loc>https://uav.ucmerced.edu/news/2020/opencv-pixel-recognition</loc>
   </url>
   <url>
-    <loc>https://uav.ucmerced.edu/news/2020/opencv-image-stitching-team</loc>
+    <loc>https://uav.ucmerced.edu/news/2020/uavs-graphical-user-interface</loc>
   </url>
   <url>
     <loc>https://uav.ucmerced.edu/news?page=1</loc>
@@ -187,6 +187,9 @@
     <loc>https://uav.ucmerced.edu/events/flight-test</loc>
   </url>
   <url>
+    <loc>https://uav.ucmerced.edu/news/2020/opencv-image-stitching-team</loc>
+  </url>
+  <url>
     <loc>https://uav.ucmerced.edu/news/2020/uav-drone-cage-flight</loc>
   </url>
   <url>
@@ -211,13 +214,10 @@
     <loc>https://uav.ucmerced.edu/news/2019/uas-sample-testing-kare-103019</loc>
   </url>
   <url>
-    <loc>https://uav.ucmerced.edu/news/2019/uav-fall-2019</loc>
+    <loc>https://uav.ucmerced.edu/news/2019/fall-2019-drone-pilot</loc>
   </url>
   <url>
     <loc>https://uav.ucmerced.edu/news/2019/uav-presentation</loc>
-  </url>
-  <url>
-    <loc>https://uav.ucmerced.edu/news/2019/fall-2019-drone-pilot</loc>
   </url>
   <url>
     <loc>https://uav.ucmerced.edu/news/2019/uav-uc-merceds-innovate-grow-event</loc>
@@ -358,6 +358,9 @@
     <loc>https://uav.ucmerced.edu/news/2016/flight-test-mesa-lab</loc>
   </url>
   <url>
+    <loc>https://uav.ucmerced.edu/Training_Day01</loc>
+  </url>
+  <url>
     <loc>https://uav.ucmerced.edu/PDR_Presentation</loc>
   </url>
   <url>
@@ -385,13 +388,13 @@
     <loc>https://uav.ucmerced.edu/news/2015/international-agricultural-expo-tulare-ca</loc>
   </url>
   <url>
+    <loc>https://uav.ucmerced.edu/news/2014/patricks-imaging-team-update</loc>
+  </url>
+  <url>
     <loc>https://uav.ucmerced.edu/news/2014/averys-update</loc>
   </url>
   <url>
     <loc>https://uav.ucmerced.edu/news/2014/chriss-update</loc>
-  </url>
-  <url>
-    <loc>https://uav.ucmerced.edu/news/2014/patricks-imaging-team-update</loc>
   </url>
   <url>
     <loc>https://uav.ucmerced.edu/news/2014/trip-mesa-lab</loc>

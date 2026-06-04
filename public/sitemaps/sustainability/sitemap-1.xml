@@ -16,6 +16,15 @@
     <loc>https://sustainability.ucmerced.edu/about-us/fellows-0</loc>
   </url>
   <url>
+    <loc>https://sustainability.ucmerced.edu/accomplishments</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/accomplishments/princeton-review</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/initiatives/leed</loc>
+  </url>
+  <url>
     <loc>https://sustainability.ucmerced.edu/about-us/chancellors-advisory-committee-sustainabiity</loc>
   </url>
   <url>
@@ -41,6 +50,33 @@
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/facs/sustainability-faculty-0</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/facs</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/facs/history</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/facs/sustainability-initiatives</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/facs/biodiversity</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/facs/grants-0</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/facs/partners</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/facs/charge</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/facs/charge/operation</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/facs/charge/organization-structure</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/living-lab-0</loc>
@@ -80,15 +116,6 @@
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/climate-action/net-zero-green-house-gas-emissions</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/accomplishments</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/accomplishments/princeton-review</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/initiatives/leed</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/photo-gallery</loc>
@@ -154,33 +181,6 @@
     <loc>https://sustainability.ucmerced.edu/resources/live-waste-tracking</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/facs</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/facs/history</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/facs/sustainability-initiatives</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/facs/biodiversity</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/facs/grants-0</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/facs/partners</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/facs/charge</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/facs/charge/operation</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/facs/charge/organization-structure</loc>
-  </url>
-  <url>
     <loc>https://sustainability.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
@@ -200,6 +200,27 @@
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/facs/sustainability-faculty/past-faculty-highlights</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/facs/facs/past-committees</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/facs/points-interest</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/facs/biodiversity-projects-campus</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/facs/photo-galleries</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/facs/additionals-links-and-resources</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/facs/seed-grant-funded-projects</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/facs/mini-grants/mini-seed-grant-funded-projects</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/sites/sustainability.ucmerced.edu/files/documents/decarbonization_survey_report_1_.pdf</loc>
@@ -649,10 +670,10 @@
     <loc>https://sustainability.ucmerced.edu/events/gamws-showcase</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/sustainability-awareness-tabling-2</loc>
+    <loc>https://sustainability.ucmerced.edu/events/campus-garden-volunteering-3</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/campus-garden-volunteering-3</loc>
+    <loc>https://sustainability.ucmerced.edu/events/sustainability-awareness-tabling-2</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/sustainability-awareness-tabling-1</loc>
@@ -707,27 +728,6 @@
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/sites/g/files/ufvvjh1806/f/page/documents/2017_wap_update.docx</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/facs/facs/past-committees</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/facs/points-interest</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/facs/biodiversity-projects-campus</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/facs/photo-galleries</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/facs/additionals-links-and-resources</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/facs/seed-grant-funded-projects</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/facs/mini-grants/mini-seed-grant-funded-projects</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/more-about-skurtz</loc>
