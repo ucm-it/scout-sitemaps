@@ -16,7 +16,7 @@
     <loc>https://iss.ucmerced.edu/students/newlyadmitted</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/students/transfer-students</loc>
+    <loc>https://iss.ucmerced.edu/students/transfers</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/students/current</loc>
@@ -163,6 +163,9 @@
     <loc>https://iss.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://iss.ucmerced.edu/summerenrollment</loc>
+  </url>
+  <url>
     <loc>https://iss.ucmerced.edu/students/prospective/finances</loc>
   </url>
   <url>
@@ -250,7 +253,7 @@
     <loc>https://iss.ucmerced.edu/students/current/cpt</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/initial-optional-practical-training-opt</loc>
+    <loc>https://iss.ucmerced.edu/current/opt</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/students/current/opt_extension</loc>

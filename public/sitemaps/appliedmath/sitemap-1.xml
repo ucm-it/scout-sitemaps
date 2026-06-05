@@ -301,6 +301,9 @@
     <loc>https://appliedmath.ucmerced.edu/content/grant-nebel</loc>
   </url>
   <url>
+    <loc>https://appliedmath.ucmerced.edu/content/james-ogaja-0</loc>
+  </url>
+  <url>
     <loc>https://appliedmath.ucmerced.edu/content/christopher-sandoval</loc>
   </url>
   <url>
@@ -320,12 +323,6 @@
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/previous_postdocs</loc>
-  </url>
-  <url>
-    <loc>https://appliedmath.ucmerced.edu/content/hardeep-bassi</loc>
-  </url>
-  <url>
-    <loc>https://appliedmath.ucmerced.edu/content/matthew-blomquist</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/lucas-cabral</loc>
@@ -370,9 +367,6 @@
     <loc>https://appliedmath.ucmerced.edu/content/asees-kaur</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/content/anna-kucherova</loc>
-  </url>
-  <url>
     <loc>https://appliedmath.ucmerced.edu/content/pratham-lalwani</loc>
   </url>
   <url>
@@ -386,9 +380,6 @@
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/moitrish-majumdar</loc>
-  </url>
-  <url>
-    <loc>https://appliedmath.ucmerced.edu/content/sarah-malone</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/jeremy-mathew</loc>
@@ -427,9 +418,6 @@
     <loc>https://appliedmath.ucmerced.edu/content/satinderpreet-singh</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/content/masato-terasaki</loc>
-  </url>
-  <url>
     <loc>https://appliedmath.ucmerced.edu/content/jeffrey-tucker</loc>
   </url>
   <url>
@@ -463,10 +451,16 @@
     <loc>https://appliedmath.ucmerced.edu/content/mario-banuelos</loc>
   </url>
   <url>
+    <loc>https://appliedmath.ucmerced.edu/content/hardeep-bassi</loc>
+  </url>
+  <url>
     <loc>https://appliedmath.ucmerced.edu/content/shayna-bennett</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/adam-binswanger</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/content/matthew-blomquist</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/johannes-brust</loc>
@@ -487,10 +481,10 @@
     <loc>https://appliedmath.ucmerced.edu/content/omar-deguchy</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/content/kylie-freitas</loc>
+    <loc>https://appliedmath.ucmerced.edu/content/indar-freitas</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/content/indar-freitas</loc>
+    <loc>https://appliedmath.ucmerced.edu/content/kylie-freitas</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/cayce-fylling</loc>
@@ -517,6 +511,9 @@
     <loc>https://appliedmath.ucmerced.edu/content/amandeep-kaur</loc>
   </url>
   <url>
+    <loc>https://appliedmath.ucmerced.edu/content/anna-kucherova</loc>
+  </url>
+  <url>
     <loc>https://appliedmath.ucmerced.edu/content/benjamin-latham</loc>
   </url>
   <url>
@@ -527,6 +524,9 @@
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/yu-lu</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/content/sarah-malone</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/cory-mccullough</loc>
@@ -559,10 +559,10 @@
     <loc>https://appliedmath.ucmerced.edu/content/eric-roberts</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/content/fabian-santiago</loc>
+    <loc>https://appliedmath.ucmerced.edu/content/matea-santiago</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/content/matea-santiago</loc>
+    <loc>https://appliedmath.ucmerced.edu/content/fabian-santiago</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/jared-stewart</loc>
@@ -575,6 +575,9 @@
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/jessica-r-taylor</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/content/masato-terasaki</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/radoslav-vuchkov</loc>
@@ -4090,10 +4093,10 @@
     <loc>https://appliedmath.ucmerced.edu/events/coffee-and-tea-time</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/events/fall-instruction-begins</loc>
+    <loc>https://appliedmath.ucmerced.edu/events/mathbio-seminar-23</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/events/mathbio-seminar-23</loc>
+    <loc>https://appliedmath.ucmerced.edu/events/fall-instruction-begins</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/events/fall-instructors-remote-teaching-orientation</loc>
@@ -5545,10 +5548,10 @@
     <loc>https://appliedmath.ucmerced.edu/news/2023/cheer-campus%E2%80%99s-10-grad-slam-finalists-april-10</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
+    <loc>https://appliedmath.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
+    <loc>https://appliedmath.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/news/2023/maia-powell-selected-black-history-month-2023-honoree-mathematically-gifted-black</loc>
@@ -5566,7 +5569,7 @@
     <loc>https://appliedmath.ucmerced.edu/news/2022/tucker-hartland-has-successfully-defended-his-phd-thesis</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/news/2022/prof-mayya-tokman-featured-special-section-inside-uc-merced-meet-faculty-and-staff-who</loc>
+    <loc>https://appliedmath.ucmerced.edu/news/2022/applied-math-department-had-its-second-secret-santa-event</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/news/2022/continuing-lecturer-david-hambley-title-role-merced-shakespearefest%E2%80%99s-%E2%80%9Ctitus-andronicus%E2%80%9D</loc>
@@ -6235,6 +6238,63 @@
     <loc>https://appliedmath.ucmerced.edu/media-contact/jason-alvarez</loc>
   </url>
   <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2026/uc-merced-talent-finds-its-future-national-lab-research</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2026/uc-merced-opens-flexible-routes-stem-degrees-teaching-and-beyond</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2026/ready-set-slam-10-uc-merced-scholars-battle-champion-title</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2026/uc-merced-students-invited-tackle-real-world-ai-challenges-2026-data-science-program</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2026/graduate-student-hardeep-bassi-defends-phd-dissertation</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2025/phd-alum-omar-deguchy-delivers-commencement-address</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2025/graduate-student-jacqueline-alvarez-defends-phd-dissertation</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2025/graduate-student-kyle-wright-defends-phd-dissertation</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2025/applied-mathematics-faculty-receive-school-natural-sciences-faculty-awards</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2025/uc-merced-leads-national-effort-unlock-quantum-secrets-twisty-molecules</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news?page=1</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news?page=2</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news?page=3</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news?page=4</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news?page=5</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news?page=6</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news?page=7</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news?page=8</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news?page=14</loc>
+  </url>
+  <url>
     <loc>https://appliedmath.ucmerced.edu/taxonomy/term/541/feed</loc>
   </url>
   <url>
@@ -6245,5 +6305,227 @@
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/taxonomy/term/10/feed</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/media-contact/brenda-ortiz</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/media-contact/lorena-anderson</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2025/merced-math-teachers%E2%80%99-circle-hosts-%CF%80-themed-workshop-local-k-12-stem-teachers</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2025/prof-lei-yue-receives-uc-merced-senate-award-distinguished-undergraduate-teaching</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2025/graduate-student-lu-yu-defends-phd-dissertation</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2025/graduate-student-jocelyn-ornelas-munoz-defends-phd-dissertation</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2025/applied-mathematics-department-having-fun-hosting-tables-bobcat-day-2025</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2024/graduate-student-mohammed-aburidi-defends-phd-dissertation</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2024/applied-mathematics-department-hosts-ejie-seminar-dr-mary-ann-leung</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2024/tri-alex-nguyen-has-successfully-defended-his-phd-thesis</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2024/hellman-awards-deepening-research-genomes-health-and-computer-science</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2024/matteo-polimeno-has-successfully-defended-his-phd-thesis</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2024/jocelyn-receives-outstanding-poster-presentation-award-awm-siam-annual-meeting-2024</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2024/jared-stewart-has-successfully-defended-his-phd-thesis</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2024/maia-powell-has-successfully-defended-her-phd-thesis</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2024/jordan-collignon-has-successfully-defended-his-phd-thesis</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2024/graduate-division-hosts-10th-grad-slam-competition</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2024/fellowship-expands-quantum-ai-training-fill-industry-demand</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2024/our-former-graduate-student-andrew-lazar-featured-modesto-bee</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2024/2nd-distinguished-applied-mathematics-graduate-alumni-award-dr-john-loffeld</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2023/new-collaborations-designed-increase-access-data-science-all-students</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2023/arcs-scholars-work-advance-stem-research</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2023/our-faculty-members-profs-erica-rutter-noemi-petra-and-maya-tokman-win-2022-2023-sns</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2023/ali-heydari-has-successfully-defended-his-phd-thesis</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2023/thank-you-prof-noemi-petra-your-great-service-siam-student-chapter</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2023/department-energy-awards-37-million-build-research-capacity</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2023/eunji-yoo-has-successfully-defended-her-phd-thesis</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2023/data-science-challenge-offers-students-learning-and-growth-opportunities</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2023/majerle-reeves-has-successfully-defended-her-phd-thesis</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2023/campus-adds-new-areas-studies-students-choose</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2023/siam-student-chapter-conference-showcases-math-students-around-region-and-coast</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2023/uc-merced%E2%80%99s-graduate-programs-rank-among-best-nation</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2023/cheer-campus%E2%80%99s-10-grad-slam-finalists-april-10</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2023/maia-powell-selected-black-history-month-2023-honoree-mathematically-gifted-black</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2023/phd-student-maia-powells-research-featured-siam-news</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2023/alumni-success-celebrated-inaugural-math-event</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2023/applied-math-graduate-program-alumni-elected-siam-activity-group-officers</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/dr-zhaos-research-featured-siam-news</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/tucker-hartland-has-successfully-defended-his-phd-thesis</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/prof-mayya-tokman-featured-special-section-inside-uc-merced-meet-faculty-and-staff-who</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/applied-math-department-had-its-second-secret-santa-event</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/continuing-lecturer-david-hambley-title-role-merced-shakespearefest%E2%80%99s-%E2%80%9Ctitus-andronicus%E2%80%9D</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/research-reveals-easy-way-dairy-farmers-can-dramatically-reduce-their-climate-impact</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/xu-chosen-one-four-new-council-members-biophysical-organization</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/undergrad-stem-cell-training-positions-students-careers-after-graduation</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/uc-merced-lands-125m-nsf-grant-predict-impact-climate-change-symbiotic-systems</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/our-faculty-members-profs-roummel-marcia-arnold-kim-and-lei-yue-win-2021-2022-sns-awards</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/applied-math-grad-student-awarded-prestigious-nih-fellowship</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/phoebe-adamyan-selected-2022-23-livermore-lab-foundation-fellow</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/new-bioinformatics-training-opportunity-opening-undergraduates</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news?page=9</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/applied-math-challenge-high-school-students</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/valentin-dallerit-has-successfully-defended-his-phd-thesis</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/our-graduate-student-eunji-yoos-internship-experience-story-featured-orise-oak-ridge</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/high-achiever-delano-headed-uc-merced</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/uc-merced-students-work-llnl-mentors-potential-new-drugs-combat-covid-19</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/radoslav-vuchkov-has-successfully-defended-his-phd-thesis</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/dod-fellowship-helps-grad-student-advance-machine-learning-research</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/meza-honored-scholarship-contributions-diversity</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/matea-santiago%E2%80%99s-paper-published-physical-review-fluids-editors%E2%80%99-suggestion</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/finalists-compete-grad-slam-champion-title-april-8</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news?page=10</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/uc-merced-grad-programs-see-uptick-us-news-rankings</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/prof-suzanne-sindi-featured-m%CF%83%CF%83t-mathematician</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/new-program-prepare-students-academic-career-success-stem-fields</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/grad-students-invited-uc-merced%E2%80%99s-first-%E2%80%98nanoengineering-environmental-sensors%E2%80%99-incubator</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/postdoc-awarded-fellowship-support-computation-and-immunology-cross-training</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2022/our-alumnus-dr-mario-ba%C3%B1uelos-wins-siam-science-policy-fellowship</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2021/phd-student-goes-former-inmate-teaching-prisoners</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2021/welcome-new-cohort-2021</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2021/new-collaboration-aims-help-students-understand-hows-and-whys-calculus</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/news/2021/uc-merced-faculty-land-three-uc-hbcu-grants-most-system</loc>
   </url>
 </urlset>
