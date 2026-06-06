@@ -352,13 +352,13 @@
     <loc>https://chemistry.ucmerced.edu/content/anjan-maity</loc>
   </url>
   <url>
+    <loc>https://chemistry.ucmerced.edu/content/darwin-martinez</loc>
+  </url>
+  <url>
     <loc>https://chemistry.ucmerced.edu/content/katherina-martinez</loc>
   </url>
   <url>
     <loc>https://chemistry.ucmerced.edu/content/isabella-martinez</loc>
-  </url>
-  <url>
-    <loc>https://chemistry.ucmerced.edu/content/darwin-martinez</loc>
   </url>
   <url>
     <loc>https://chemistry.ucmerced.edu/content/kyle-meyer</loc>
@@ -781,10 +781,10 @@
     <loc>https://chemistry.ucmerced.edu/news/2023/cheer-campus%E2%80%99s-10-grad-slam-finalists-april-10</loc>
   </url>
   <url>
-    <loc>https://chemistry.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
+    <loc>https://chemistry.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
   </url>
   <url>
-    <loc>https://chemistry.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
+    <loc>https://chemistry.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
   </url>
   <url>
     <loc>https://chemistry.ucmerced.edu/news/2023/student-researchers-working-national-lab-mercury-remediation</loc>
@@ -1309,10 +1309,10 @@
     <loc>https://chemistry.ucmerced.edu/news/2016/professor-christine-isborn-wins-acs-junior-faculty-computational-chemistry-award</loc>
   </url>
   <url>
-    <loc>https://chemistry.ucmerced.edu/news/2016/professor-elected-leadership-role-american-physical-society-0</loc>
+    <loc>https://chemistry.ucmerced.edu/news/2016/professor-elected-leadership-role-american-physical-society</loc>
   </url>
   <url>
-    <loc>https://chemistry.ucmerced.edu/news/2016/professor-elected-leadership-role-american-physical-society</loc>
+    <loc>https://chemistry.ucmerced.edu/news/2016/professor-elected-leadership-role-american-physical-society-0</loc>
   </url>
   <url>
     <loc>https://chemistry.ucmerced.edu/news/2015/campus-research-taking-healthy-approach</loc>
@@ -1339,10 +1339,10 @@
     <loc>https://chemistry.ucmerced.edu/news/2015/anne-and-david-kelley-receive-3-year-510000-grant-nsf-studying-electron-phonon-coupling</loc>
   </url>
   <url>
-    <loc>https://chemistry.ucmerced.edu/news/2015/gary-abel-receives-deans-dissertation-fellowship</loc>
+    <loc>https://chemistry.ucmerced.edu/news/2015/professor-andy-liwangs-research-published-science</loc>
   </url>
   <url>
-    <loc>https://chemistry.ucmerced.edu/news/2015/professor-andy-liwangs-research-published-science</loc>
+    <loc>https://chemistry.ucmerced.edu/news/2015/gary-abel-receives-deans-dissertation-fellowship</loc>
   </url>
   <url>
     <loc>https://chemistry.ucmerced.edu/news/2015/new-nanomaterials-center-energy-and-sensing</loc>
@@ -1573,13 +1573,13 @@
     <loc>http://chemistry.ucmerced.edu/content/anjan-maity</loc>
   </url>
   <url>
+    <loc>http://chemistry.ucmerced.edu/content/darwin-martinez</loc>
+  </url>
+  <url>
     <loc>http://chemistry.ucmerced.edu/content/katherina-martinez</loc>
   </url>
   <url>
     <loc>http://chemistry.ucmerced.edu/content/isabella-martinez</loc>
-  </url>
-  <url>
-    <loc>http://chemistry.ucmerced.edu/content/darwin-martinez</loc>
   </url>
   <url>
     <loc>http://chemistry.ucmerced.edu/content/kyle-meyer</loc>
@@ -1634,12 +1634,6 @@
   </url>
   <url>
     <loc>http://chemistry.ucmerced.edu/content/cristian-sarabia</loc>
-  </url>
-  <url>
-    <loc>http://chemistry.ucmerced.edu/content/mohit-saraswat</loc>
-  </url>
-  <url>
-    <loc>http://chemistry.ucmerced.edu/content/behnoush-seifinoferest</loc>
   </url>
   <url>
     <loc>http://chemistry.ucmerced.edu/content/diksha-sharma</loc>
@@ -1804,9 +1798,6 @@
     <loc>http://chemistry.ucmerced.edu/news/2024/nsf-grant-opens-opportunities-students-materials-research</loc>
   </url>
   <url>
-    <loc>http://chemistry.ucmerced.edu/news/2024/campus-hosts-computational-chemistry-conference</loc>
-  </url>
-  <url>
     <loc>http://chemistry.ucmerced.edu/news/2024/new-summer-research-opportunities-undergraduates-across-us</loc>
   </url>
   <url>
@@ -1849,10 +1840,10 @@
     <loc>http://chemistry.ucmerced.edu/news/2023/cheer-campus%E2%80%99s-10-grad-slam-finalists-april-10</loc>
   </url>
   <url>
-    <loc>http://chemistry.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
+    <loc>http://chemistry.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
   </url>
   <url>
-    <loc>http://chemistry.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
+    <loc>http://chemistry.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
   </url>
   <url>
     <loc>http://chemistry.ucmerced.edu/news/2023/student-researchers-working-national-lab-mercury-remediation</loc>
@@ -1894,6 +1885,9 @@
     <loc>http://chemistry.ucmerced.edu/news/2022/professor-brings-her-computational-expertise-new-field-chemistry</loc>
   </url>
   <url>
+    <loc>http://chemistry.ucmerced.edu/news/2022/uc-merced-grad-programs-see-uptick-us-news-rankings</loc>
+  </url>
+  <url>
     <loc>http://chemistry.ucmerced.edu/news/2022/grad-students-invited-uc-merced%E2%80%99s-first-%E2%80%98nanoengineering-environmental-sensors%E2%80%99-incubator</loc>
   </url>
   <url>
@@ -1907,5 +1901,23 @@
   </url>
   <url>
     <loc>http://chemistry.ucmerced.edu/news/2021/researcher-studies-cloud-formation-key-climate-change-modeling</loc>
+  </url>
+  <url>
+    <loc>http://chemistry.ucmerced.edu/news/2021/research-clarifying%C2%A0benefits-transforming-human-waste-useable-resources</loc>
+  </url>
+  <url>
+    <loc>http://chemistry.ucmerced.edu/news/2021/nsf-grant-help-grad-students-find-solutions-environmental-challenges</loc>
+  </url>
+  <url>
+    <loc>http://chemistry.ucmerced.edu/news/2021/hiv-preventative-developed-liwang-lab-takes-one-big-step-forward</loc>
+  </url>
+  <url>
+    <loc>http://chemistry.ucmerced.edu/news/2021/scientists-assemble-biological-clock-test-tube-study-how-it-works</loc>
+  </url>
+  <url>
+    <loc>http://chemistry.ucmerced.edu/news/2021/researchers-unraveling-mysteries-electrosensory-gel-sharks-skates</loc>
+  </url>
+  <url>
+    <loc>http://chemistry.ucmerced.edu/news?page=9</loc>
   </url>
 </urlset>
