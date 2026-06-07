@@ -823,9 +823,6 @@
     <loc>http://teel.ucmerced.edu/social-events?page=2</loc>
   </url>
   <url>
-    <loc>https://teel.ucmerced.edu/sites/g/files/ufvvjh1836/f/news/image/img_4635.jpg</loc>
-  </url>
-  <url>
     <loc>https://teel.ucmerced.edu/sites/g/files/ufvvjh1836/f/news/image/image_2017-07-12_00-17-24-380.jpg</loc>
   </url>
   <url>
@@ -836,9 +833,6 @@
   </url>
   <url>
     <loc>https://teel.ucmerced.edu/sites/g/files/ufvvjh1836/f/news/documents/internship_program_enhances_students_academic_experiences_panorama.pdf</loc>
-  </url>
-  <url>
-    <loc>http://teel.ucmerced.edu/news/2015/visit-csics-wuhan-institute-marine-electric-propulsion</loc>
   </url>
   <url>
     <loc>https://teel.ucmerced.edu/sites/g/files/ufvvjh1836/f/17903741_294351440998420_755650923327612446_n.jpg</loc>
@@ -1220,5 +1214,11 @@
   </url>
   <url>
     <loc>http://teel.ucmerced.edu/content/may-2015-laboratory-gathering</loc>
+  </url>
+  <url>
+    <loc>https://teel.ucmerced.edu/sites/g/files/ufvvjh1836/f/news/image/img_4635.jpg</loc>
+  </url>
+  <url>
+    <loc>http://teel.ucmerced.edu/news/2015/visit-csics-wuhan-institute-marine-electric-propulsion</loc>
   </url>
 </urlset>
