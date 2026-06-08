@@ -235,10 +235,10 @@
     <loc>https://staffassembly.ucmerced.edu/events/events-calendar</loc>
   </url>
   <url>
-    <loc>https://staffassembly.ucmerced.edu/news/2026/new-study-urges-earlier-detection-valley-fever-cases-climb</loc>
+    <loc>https://staffassembly.ucmerced.edu/news/2026/sociology-phd-student-receives-prestigious-dissertation-fellowship</loc>
   </url>
   <url>
-    <loc>https://staffassembly.ucmerced.edu/news/2026/sociology-phd-student-receives-prestigious-dissertation-fellowship</loc>
+    <loc>https://staffassembly.ucmerced.edu/news/2026/new-study-urges-earlier-detection-valley-fever-cases-climb</loc>
   </url>
   <url>
     <loc>https://staffassembly.ucmerced.edu/news/2026/brand-new-degree-and-stellar-job-offer-accompany-it</loc>
@@ -271,10 +271,10 @@
     <loc>https://staffassembly.ucmerced.edu/content/ericka-garcia</loc>
   </url>
   <url>
-    <loc>https://staffassembly.ucmerced.edu/content/yazmin-colin</loc>
+    <loc>https://staffassembly.ucmerced.edu/content/holly-auyeung</loc>
   </url>
   <url>
-    <loc>https://staffassembly.ucmerced.edu/content/holly-auyeung</loc>
+    <loc>https://staffassembly.ucmerced.edu/content/yazmin-colin</loc>
   </url>
   <url>
     <loc>https://staffassembly.ucmerced.edu/content/lizzy-leonard-hartman</loc>
@@ -385,46 +385,16 @@
     <loc>https://staffassembly.ucmerced.edu/node/31046</loc>
   </url>
   <url>
-    <loc>https://staffassembly.ucmerced.edu/media-contact/lorena-anderson</loc>
+    <loc>https://staffassembly.ucmerced.edu/media-contact/brenda-ortiz</loc>
   </url>
   <url>
-    <loc>https://staffassembly.ucmerced.edu/media-contact/brenda-ortiz</loc>
+    <loc>https://staffassembly.ucmerced.edu/media-contact/lorena-anderson</loc>
   </url>
   <url>
     <loc>https://staffassembly.ucmerced.edu/media-contact/patty-guerra</loc>
   </url>
   <url>
     <loc>https://staffassembly.ucmerced.edu/form/development-fund-report-submission</loc>
-  </url>
-  <url>
-    <loc>https://staffassembly.ucmerced.edu/news/2026/elephant-dung-piles-are-crucial-biodiversity-study-shows</loc>
-  </url>
-  <url>
-    <loc>https://staffassembly.ucmerced.edu/news/2026/degrees-cheers-and-record-number-graduates-under-open-sky</loc>
-  </url>
-  <url>
-    <loc>https://staffassembly.ucmerced.edu/news/2026/uc-merced-opens-flexible-routes-stem-degrees-teaching-and-beyond</loc>
-  </url>
-  <url>
-    <loc>https://staffassembly.ucmerced.edu/news/2026/uc-merced-student-makes-campus-history-goldwater-scholarship</loc>
-  </url>
-  <url>
-    <loc>https://staffassembly.ucmerced.edu/news/2026/two-uc-merced-researchers-among-year%E2%80%99s-aaas-fellows</loc>
-  </url>
-  <url>
-    <loc>https://staffassembly.ucmerced.edu/news/2026/calteach-and-local-schools-team-energize-learning-across-merced-county</loc>
-  </url>
-  <url>
-    <loc>https://staffassembly.ucmerced.edu/news/2026/ants-endurance-and-phd-finish-line</loc>
-  </url>
-  <url>
-    <loc>https://staffassembly.ucmerced.edu/news/2026/ocean-chemistry-now-substantially-shaped-humans</loc>
-  </url>
-  <url>
-    <loc>https://staffassembly.ucmerced.edu/news/2026/researchers-rebuild-microscopic-circadian-clock-can-control-genes</loc>
-  </url>
-  <url>
-    <loc>https://staffassembly.ucmerced.edu/taxonomy/term/9/feed</loc>
   </url>
   <url>
     <loc>https://staffassembly.ucmerced.edu/news/2026/uc-merced-talent-finds-its-future-national-lab-research</loc>
@@ -455,6 +425,36 @@
   </url>
   <url>
     <loc>https://staffassembly.ucmerced.edu/taxonomy/term/20/feed</loc>
+  </url>
+  <url>
+    <loc>https://staffassembly.ucmerced.edu/news/2026/elephant-dung-piles-are-crucial-biodiversity-study-shows</loc>
+  </url>
+  <url>
+    <loc>https://staffassembly.ucmerced.edu/news/2026/degrees-cheers-and-record-number-graduates-under-open-sky</loc>
+  </url>
+  <url>
+    <loc>https://staffassembly.ucmerced.edu/news/2026/uc-merced-opens-flexible-routes-stem-degrees-teaching-and-beyond</loc>
+  </url>
+  <url>
+    <loc>https://staffassembly.ucmerced.edu/news/2026/uc-merced-student-makes-campus-history-goldwater-scholarship</loc>
+  </url>
+  <url>
+    <loc>https://staffassembly.ucmerced.edu/news/2026/two-uc-merced-researchers-among-year%E2%80%99s-aaas-fellows</loc>
+  </url>
+  <url>
+    <loc>https://staffassembly.ucmerced.edu/news/2026/calteach-and-local-schools-team-energize-learning-across-merced-county</loc>
+  </url>
+  <url>
+    <loc>https://staffassembly.ucmerced.edu/news/2026/ants-endurance-and-phd-finish-line</loc>
+  </url>
+  <url>
+    <loc>https://staffassembly.ucmerced.edu/news/2026/ocean-chemistry-now-substantially-shaped-humans</loc>
+  </url>
+  <url>
+    <loc>https://staffassembly.ucmerced.edu/news/2026/researchers-rebuild-microscopic-circadian-clock-can-control-genes</loc>
+  </url>
+  <url>
+    <loc>https://staffassembly.ucmerced.edu/taxonomy/term/9/feed</loc>
   </url>
   <url>
     <loc>https://staffassembly.ucmerced.edu/news/2026/bobcats-outbuild-bears-timber-strong-competition</loc>
