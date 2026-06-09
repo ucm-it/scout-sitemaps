@@ -796,10 +796,10 @@
     <loc>https://physics.ucmerced.edu/content/elsa-vazquez</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/aaron-wheeler</loc>
+    <loc>https://physics.ucmerced.edu/content/alauna-wheeler</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/alauna-wheeler</loc>
+    <loc>https://physics.ucmerced.edu/content/aaron-wheeler</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/taylor-whitney</loc>
@@ -1504,10 +1504,10 @@
     <loc>http://physics.ucmerced.edu/content/elsa-vazquez</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/aaron-wheeler</loc>
+    <loc>http://physics.ucmerced.edu/content/alauna-wheeler</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/alauna-wheeler</loc>
+    <loc>http://physics.ucmerced.edu/content/aaron-wheeler</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/content/taylor-whitney</loc>
@@ -1523,6 +1523,12 @@
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/content/de-zhen-zhou</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/events/colloquium-oskar-hallatschek-uc-berkeley</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/events/colloquium-nicola-spaldin-eth-zurich</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/colloquium-julia-yeomans-oxford</loc>
@@ -1844,6 +1850,9 @@
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/events/physics-seminar-massimiliano-di-ventra-uc-san-diego</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/images/event/atis_figures.jpg</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/es23_abstractbooklet.pdf</loc>
@@ -2239,10 +2248,10 @@
     <loc>https://physics.ucmerced.edu/news?page=12</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2014/ajay-gopinathan-named-scialog-fellow-research-corporation-and-gordon-betty-moore</loc>
+    <loc>https://physics.ucmerced.edu/news/2014/sharping-and-chiao-win-darpa-grant</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2014/sharping-and-chiao-win-darpa-grant</loc>
+    <loc>https://physics.ucmerced.edu/news/2014/ajay-gopinathan-named-scialog-fellow-research-corporation-and-gordon-betty-moore</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news?page=15</loc>
@@ -2557,10 +2566,10 @@
     <loc>https://physics.ucmerced.edu/news/2016/winston-feted-golden-anniversary-landmark-discovery</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2016/computational-training-expanding-uc-merced-through-new-grants</loc>
+    <loc>https://physics.ucmerced.edu/news/2016/society-physics-students-recognized-outreach</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2016/society-physics-students-recognized-outreach</loc>
+    <loc>https://physics.ucmerced.edu/news/2016/computational-training-expanding-uc-merced-through-new-grants</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2016/xu-wins-nih-biophysics-grant</loc>
@@ -2581,10 +2590,10 @@
     <loc>https://physics.ucmerced.edu/news/2016/uc-merced-receives-5-million-interdisciplinary-research-center</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2015/professor-joins-executive-board-american-physical-society</loc>
+    <loc>https://physics.ucmerced.edu/news/2015/hirst-elected-aps-committee</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2015/hirst-elected-aps-committee</loc>
+    <loc>https://physics.ucmerced.edu/news/2015/professor-joins-executive-board-american-physical-society</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2015/professor-takes-bird%E2%80%99s-eye-view-collective-movements</loc>
@@ -2594,12 +2603,6 @@
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2015/graduate-students-win-solar-fellowships</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/events/colloquium-oskar-hallatschek-uc-berkeley</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/events/colloquium-nicola-spaldin-eth-zurich</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/taxonomy/term/1191/feed</loc>

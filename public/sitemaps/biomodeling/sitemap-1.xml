@@ -214,10 +214,10 @@
     <loc>https://biomodeling.ucmerced.edu/news/all</loc>
   </url>
   <url>
-    <loc>https://biomodeling.ucmerced.edu/events/2019-valley-fever-summit</loc>
+    <loc>https://biomodeling.ucmerced.edu/events/2019-uc-valley-fever-summit</loc>
   </url>
   <url>
-    <loc>https://biomodeling.ucmerced.edu/events/2019-uc-valley-fever-summit</loc>
+    <loc>https://biomodeling.ucmerced.edu/events/2019-valley-fever-summit</loc>
   </url>
   <url>
     <loc>https://biomodeling.ucmerced.edu/events/lyceum-lunchtime-speaker-series</loc>
@@ -247,10 +247,10 @@
     <loc>https://biomodeling.ucmerced.edu/events/valley-fever-seminar-series-sarah-m-rios</loc>
   </url>
   <url>
-    <loc>https://biomodeling.ucmerced.edu/events/valley-fever-seminar-series-anita-sil-md-phd</loc>
+    <loc>https://biomodeling.ucmerced.edu/events/valley-fever-seminar-series-john-taylor-phd</loc>
   </url>
   <url>
-    <loc>https://biomodeling.ucmerced.edu/events/valley-fever-seminar-series-john-taylor-phd</loc>
+    <loc>https://biomodeling.ucmerced.edu/events/valley-fever-seminar-series-anita-sil-md-phd</loc>
   </url>
   <url>
     <loc>https://biomodeling.ucmerced.edu/events/valley-fever-seminar-series-kirt-emery-mph</loc>
@@ -583,10 +583,10 @@
     <loc>https://biomodeling.ucmerced.edu/news/2023/national-public-health-week-includes-research-symposium-and-food-drive</loc>
   </url>
   <url>
-    <loc>https://biomodeling.ucmerced.edu/news/2023/research-week-highlights-solutions-urgent-environmental-issues</loc>
+    <loc>https://biomodeling.ucmerced.edu/news/2023/study-finds-childhood-exposure-weed-killer-may-increase-risk-disease-young-adulthood</loc>
   </url>
   <url>
-    <loc>https://biomodeling.ucmerced.edu/news/2023/study-finds-childhood-exposure-weed-killer-may-increase-risk-disease-young-adulthood</loc>
+    <loc>https://biomodeling.ucmerced.edu/news/2023/research-week-highlights-solutions-urgent-environmental-issues</loc>
   </url>
   <url>
     <loc>https://biomodeling.ucmerced.edu/news/2023/community-and-labor-centers-new-study-highlights-farmworkers-health-challenges</loc>
@@ -838,10 +838,10 @@
     <loc>https://biomodeling.ucmerced.edu/news/2021/research-shows-sleep-and-social-support-are-vital-latina-teen-mothers-mental-health</loc>
   </url>
   <url>
-    <loc>https://biomodeling.ucmerced.edu/news/2021/researchers-unraveling-mysteries-electrosensory-gel-sharks-skates</loc>
+    <loc>https://biomodeling.ucmerced.edu/news/2021/hsri-receives-12-million-research-health-impacts-vehicle-related-air-pollution</loc>
   </url>
   <url>
-    <loc>https://biomodeling.ucmerced.edu/news/2021/hsri-receives-12-million-research-health-impacts-vehicle-related-air-pollution</loc>
+    <loc>https://biomodeling.ucmerced.edu/news/2021/researchers-unraveling-mysteries-electrosensory-gel-sharks-skates</loc>
   </url>
   <url>
     <loc>https://biomodeling.ucmerced.edu/news/2021/antibiotic-resistance-found-insecticides-commonly-used-california</loc>
@@ -1039,10 +1039,10 @@
     <loc>https://biomodeling.ucmerced.edu/news/2015/campus-research-taking-healthy-approach</loc>
   </url>
   <url>
-    <loc>https://biomodeling.ucmerced.edu/news/2015/study-skewed-academic-expectations-linked-sexual-risk</loc>
+    <loc>https://biomodeling.ucmerced.edu/news/2015/study-skewed-academic-expectations-linked-sexual-risk-0</loc>
   </url>
   <url>
-    <loc>https://biomodeling.ucmerced.edu/news/2015/study-skewed-academic-expectations-linked-sexual-risk-0</loc>
+    <loc>https://biomodeling.ucmerced.edu/news/2015/study-skewed-academic-expectations-linked-sexual-risk</loc>
   </url>
   <url>
     <loc>https://biomodeling.ucmerced.edu/news/2015/project-aims-fight-breast-cancer-one-message-time</loc>
@@ -1198,13 +1198,13 @@
     <loc>https://biomodeling.ucmerced.edu/news/2021/bobcat-won%E2%80%99t-be-stopped-pandemic-creates-resource-students-%E2%80%AFworldwide</loc>
   </url>
   <url>
+    <loc>https://biomodeling.ucmerced.edu/news/2021/public-health-professor-shows-food-dye-linked-childhood-behavior-california-epa-study</loc>
+  </url>
+  <url>
     <loc>https://biomodeling.ucmerced.edu/news/2021/public-health-professor-shows-food-dye-linked-neurological-childhood-development-epa-study</loc>
   </url>
   <url>
     <loc>https://biomodeling.ucmerced.edu/news/2021/public-health-professor-shows-food-dye-linked-neurological-childhood-development</loc>
-  </url>
-  <url>
-    <loc>https://biomodeling.ucmerced.edu/news/2021/public-health-professor-shows-food-dye-linked-childhood-behavior-california-epa-study</loc>
   </url>
   <url>
     <loc>https://biomodeling.ucmerced.edu/news?page=17</loc>
@@ -1250,6 +1250,9 @@
   </url>
   <url>
     <loc>https://biomodeling.ucmerced.edu/media-contact/desiree-lopez</loc>
+  </url>
+  <url>
+    <loc>https://biomodeling.ucmerced.edu/news/2021/qa-how-public-health-research-can-shape-inclusive-immigration-policies</loc>
   </url>
   <url>
     <loc>https://biomodeling.ucmerced.edu/news/2021/uc-merced-reaches-out-all-virtual-research-week</loc>
@@ -1354,7 +1357,7 @@
     <loc>https://biomodeling.ucmerced.edu/news/2017/process-kills-damaged-cells-hints-new-cancer-therapies</loc>
   </url>
   <url>
-    <loc>https://biomodeling.ucmerced.edu/news/2019/uc-merced-undergrad-alumna-wins-fulbright-will-study-health-disparities-among-indian-women</loc>
+    <loc>https://biomodeling.ucmerced.edu/news/2019/ncpc-workshop-empowers-stakeholders-craft-compelling-anti-smoking-policy-messages</loc>
   </url>
   <url>
     <loc>https://biomodeling.ucmerced.edu/news/2019/physics-professor%E2%80%99s-work-liquid-crystals-earns-prestigious-medal</loc>
@@ -1552,16 +1555,13 @@
     <loc>https://biomodeling.ucmerced.edu/news/2019/lab-works-understand-molecular-motors-and-cholesterol%E2%80%99s-relation-alzheimer%E2%80%99s</loc>
   </url>
   <url>
-    <loc>https://biomodeling.ucmerced.edu/news/2019/valley-fever-focus-public-event</loc>
-  </url>
-  <url>
     <loc>https://biomodeling.ucmerced.edu/news/2019/nobile-awarded-kamangar-family-endowed-chair</loc>
   </url>
   <url>
-    <loc>https://biomodeling.ucmerced.edu/news/2019/physicists-revealing-mysteries-biological-fluids</loc>
+    <loc>https://biomodeling.ucmerced.edu/news/2019/valley-fever-focus-public-event</loc>
   </url>
   <url>
-    <loc>https://biomodeling.ucmerced.edu/news/2021/qa-how-public-health-research-can-shape-inclusive-immigration-policies</loc>
+    <loc>https://biomodeling.ucmerced.edu/news/2019/physicists-revealing-mysteries-biological-fluids</loc>
   </url>
   <url>
     <loc>https://biomodeling.ucmerced.edu/taxonomy/term/1611/feed</loc>
@@ -1582,10 +1582,10 @@
     <loc>https://biomodeling.ucmerced.edu/news/2019/biochemistry-researcher-named-nih-review-board</loc>
   </url>
   <url>
-    <loc>https://biomodeling.ucmerced.edu/news/2019/university-promotes-social-mobility-through-local-and-regional-programs</loc>
+    <loc>https://biomodeling.ucmerced.edu/news/2019/public-health-phd-student-earns-fellowship-study-health-equity</loc>
   </url>
   <url>
-    <loc>https://biomodeling.ucmerced.edu/news/2019/public-health-phd-student-earns-fellowship-study-health-equity</loc>
+    <loc>https://biomodeling.ucmerced.edu/news/2019/university-promotes-social-mobility-through-local-and-regional-programs</loc>
   </url>
   <url>
     <loc>https://biomodeling.ucmerced.edu/news/2019/undergrad-research-fuels-opportunities-grad-school-careers</loc>
@@ -1615,7 +1615,7 @@
     <loc>https://biomodeling.ucmerced.edu/news/all?page=20</loc>
   </url>
   <url>
-    <loc>https://biomodeling.ucmerced.edu/news/2019/ncpc-workshop-empowers-stakeholders-craft-compelling-anti-smoking-policy-messages</loc>
+    <loc>https://biomodeling.ucmerced.edu/news/2019/uc-merced-undergrad-alumna-wins-fulbright-will-study-health-disparities-among-indian-women</loc>
   </url>
   <url>
     <loc>https://biomodeling.ucmerced.edu/media-contact/michelle-morgante</loc>
