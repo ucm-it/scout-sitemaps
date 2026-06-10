@@ -667,12 +667,6 @@
     <loc>http://academicpersonnel.ucmerced.edu/FAQs</loc>
   </url>
   <url>
-    <loc>http://academicpersonnel.ucmerced.edu/Training</loc>
-  </url>
-  <url>
-    <loc>http://academicpersonnel.ucmerced.edu/resources/training/training-centers-campus</loc>
-  </url>
-  <url>
     <loc>http://academicpersonnel.ucmerced.edu/recruitment</loc>
   </url>
   <url>
@@ -1202,6 +1196,12 @@
   </url>
   <url>
     <loc>http://academicpersonnel.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>http://academicpersonnel.ucmerced.edu/Training</loc>
+  </url>
+  <url>
+    <loc>http://academicpersonnel.ucmerced.edu/resources/training/training-centers-campus</loc>
   </url>
   <url>
     <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/application_covid-related_dependent_care_modified_duties.docx</loc>
