@@ -181,10 +181,10 @@
     <loc>https://coehealth.ucmerced.edu/news/all</loc>
   </url>
   <url>
-    <loc>https://coehealth.ucmerced.edu/events/2019-uc-valley-fever-summit</loc>
+    <loc>https://coehealth.ucmerced.edu/events/2019-valley-fever-summit</loc>
   </url>
   <url>
-    <loc>https://coehealth.ucmerced.edu/events/2019-valley-fever-summit</loc>
+    <loc>https://coehealth.ucmerced.edu/events/2019-uc-valley-fever-summit</loc>
   </url>
   <url>
     <loc>https://coehealth.ucmerced.edu/events/lyceum-lunchtime-speaker-series</loc>
@@ -214,10 +214,10 @@
     <loc>https://coehealth.ucmerced.edu/events/valley-fever-seminar-series-sarah-m-rios</loc>
   </url>
   <url>
-    <loc>https://coehealth.ucmerced.edu/events/valley-fever-seminar-series-john-taylor-phd</loc>
+    <loc>https://coehealth.ucmerced.edu/events/valley-fever-seminar-series-anita-sil-md-phd</loc>
   </url>
   <url>
-    <loc>https://coehealth.ucmerced.edu/events/valley-fever-seminar-series-anita-sil-md-phd</loc>
+    <loc>https://coehealth.ucmerced.edu/events/valley-fever-seminar-series-john-taylor-phd</loc>
   </url>
   <url>
     <loc>https://coehealth.ucmerced.edu/events/valley-fever-seminar-series-kirt-emery-mph</loc>
@@ -703,16 +703,13 @@
     <loc>https://coehealth.ucmerced.edu/news/2022/baby-formula-shortages-and-covid-19-led-risky-feeding-practices-study-suggests</loc>
   </url>
   <url>
-    <loc>https://coehealth.ucmerced.edu/news/2022/lab-aims-understand-transporter-protein-protects-cells-damage</loc>
+    <loc>https://coehealth.ucmerced.edu/news/2022/bioengineer-invited-join-nih-review-board</loc>
   </url>
   <url>
     <loc>https://coehealth.ucmerced.edu/news?page=13</loc>
   </url>
   <url>
     <loc>https://coehealth.ucmerced.edu/media-contact/samuel-yniquez</loc>
-  </url>
-  <url>
-    <loc>https://coehealth.ucmerced.edu/news/2022/bioengineer-invited-join-nih-review-board</loc>
   </url>
   <url>
     <loc>https://coehealth.ucmerced.edu/news/2022/systemwide-climate-justice-course-debuts-fall</loc>
@@ -784,10 +781,10 @@
     <loc>https://coehealth.ucmerced.edu/news/2021/research-shows-sleep-and-social-support-are-vital-latina-teen-mothers-mental-health</loc>
   </url>
   <url>
-    <loc>https://coehealth.ucmerced.edu/news/2021/researchers-unraveling-mysteries-electrosensory-gel-sharks-skates</loc>
+    <loc>https://coehealth.ucmerced.edu/news/2021/hsri-receives-12-million-research-health-impacts-vehicle-related-air-pollution</loc>
   </url>
   <url>
-    <loc>https://coehealth.ucmerced.edu/news/2021/hsri-receives-12-million-research-health-impacts-vehicle-related-air-pollution</loc>
+    <loc>https://coehealth.ucmerced.edu/news/2021/researchers-unraveling-mysteries-electrosensory-gel-sharks-skates</loc>
   </url>
   <url>
     <loc>https://coehealth.ucmerced.edu/news/2021/antibiotic-resistance-found-insecticides-commonly-used-california</loc>
@@ -952,10 +949,10 @@
     <loc>https://coehealth.ucmerced.edu/news/2016/undocumented-student-makes-history-phd</loc>
   </url>
   <url>
-    <loc>https://coehealth.ucmerced.edu/news/2016/nih-funds-research-stem-cells-bone-disease-0</loc>
+    <loc>https://coehealth.ucmerced.edu/news/2016/nih-funds-research-stem-cells-bone-disease</loc>
   </url>
   <url>
-    <loc>https://coehealth.ucmerced.edu/news/2016/nih-funds-research-stem-cells-bone-disease</loc>
+    <loc>https://coehealth.ucmerced.edu/news/2016/nih-funds-research-stem-cells-bone-disease-0</loc>
   </url>
   <url>
     <loc>https://coehealth.ucmerced.edu/news/2016/uc-merced-receives-5-million-interdisciplinary-research-center</loc>
@@ -985,10 +982,10 @@
     <loc>https://coehealth.ucmerced.edu/news/2015/campus-research-taking-healthy-approach</loc>
   </url>
   <url>
-    <loc>https://coehealth.ucmerced.edu/news/2015/study-skewed-academic-expectations-linked-sexual-risk</loc>
+    <loc>https://coehealth.ucmerced.edu/news/2015/study-skewed-academic-expectations-linked-sexual-risk-0</loc>
   </url>
   <url>
-    <loc>https://coehealth.ucmerced.edu/news/2015/study-skewed-academic-expectations-linked-sexual-risk-0</loc>
+    <loc>https://coehealth.ucmerced.edu/news/2015/study-skewed-academic-expectations-linked-sexual-risk</loc>
   </url>
   <url>
     <loc>https://coehealth.ucmerced.edu/news/2015/project-aims-fight-breast-cancer-one-message-time</loc>
@@ -1186,7 +1183,7 @@
     <loc>https://coehealth.ucmerced.edu/news/2021/grow-grants-nurture-vital-projects-during-pandemic</loc>
   </url>
   <url>
-    <loc>https://coehealth.ucmerced.edu/news/2021/qa-how-public-health-research-can-shape-inclusive-immigration-policies</loc>
+    <loc>https://coehealth.ucmerced.edu/news/2021/how-public-health-research-can-shape-inclusive-immigration-policies</loc>
   </url>
   <url>
     <loc>https://coehealth.ucmerced.edu/news?page=18</loc>
@@ -1196,6 +1193,9 @@
   </url>
   <url>
     <loc>https://coehealth.ucmerced.edu/media-contact/desiree-lopez</loc>
+  </url>
+  <url>
+    <loc>https://coehealth.ucmerced.edu/news/2021/qa-how-public-health-research-can-shape-inclusive-immigration-policies</loc>
   </url>
   <url>
     <loc>https://coehealth.ucmerced.edu/news/2021/uc-merced-reaches-out-all-virtual-research-week</loc>
@@ -1276,10 +1276,10 @@
     <loc>https://coehealth.ucmerced.edu/news/2018/lifetime-achievement-award-honors-distinguished-psychology-professor</loc>
   </url>
   <url>
-    <loc>https://coehealth.ucmerced.edu/news/2018/uc-professor-finds-drug-resistant-cancer-smarter-imagined</loc>
+    <loc>https://coehealth.ucmerced.edu/news/2018/study-drug-resistant-cancer-cleverer-imagined</loc>
   </url>
   <url>
-    <loc>https://coehealth.ucmerced.edu/news/2018/study-drug-resistant-cancer-cleverer-imagined</loc>
+    <loc>https://coehealth.ucmerced.edu/news/2018/uc-professor-finds-drug-resistant-cancer-smarter-imagined</loc>
   </url>
   <url>
     <loc>https://coehealth.ucmerced.edu/news/2018/study-kitchen-and-culture-clash-when-promoting-healthy-eating-latinos</loc>
@@ -1390,6 +1390,9 @@
     <loc>https://coehealth.ucmerced.edu/news/2018/researchers-examine-barriers-organ-donation-and-possible-remedies</loc>
   </url>
   <url>
+    <loc>https://coehealth.ucmerced.edu/news/2022/lab-aims-understand-transporter-protein-protects-cells-damage</loc>
+  </url>
+  <url>
     <loc>https://coehealth.ucmerced.edu/news/all?page=13</loc>
   </url>
   <url>
@@ -1498,16 +1501,13 @@
     <loc>https://coehealth.ucmerced.edu/news/2019/lab-works-understand-molecular-motors-and-cholesterol%E2%80%99s-relation-alzheimer%E2%80%99s</loc>
   </url>
   <url>
-    <loc>https://coehealth.ucmerced.edu/news/2019/nobile-awarded-kamangar-family-endowed-chair</loc>
-  </url>
-  <url>
     <loc>https://coehealth.ucmerced.edu/news/2019/valley-fever-focus-public-event</loc>
   </url>
   <url>
-    <loc>https://coehealth.ucmerced.edu/news/2019/physicists-revealing-mysteries-biological-fluids</loc>
+    <loc>https://coehealth.ucmerced.edu/news/2019/nobile-awarded-kamangar-family-endowed-chair</loc>
   </url>
   <url>
-    <loc>https://coehealth.ucmerced.edu/news/2021/how-public-health-research-can-shape-inclusive-immigration-policies</loc>
+    <loc>https://coehealth.ucmerced.edu/news/2019/physicists-revealing-mysteries-biological-fluids</loc>
   </url>
   <url>
     <loc>https://coehealth.ucmerced.edu/taxonomy/term/1611/feed</loc>
@@ -1540,9 +1540,6 @@
     <loc>https://coehealth.ucmerced.edu/news/2019/overdose-suicide-among-leading-reasons-postpartum-maternal-deaths</loc>
   </url>
   <url>
-    <loc>https://coehealth.ucmerced.edu/news/2019/ncpc-workshop-empowers-stakeholders-craft-compelling-anti-smoking-policy-messages</loc>
-  </url>
-  <url>
     <loc>https://coehealth.ucmerced.edu/taxonomy/term/201/feed</loc>
   </url>
   <url>
@@ -1571,6 +1568,9 @@
   </url>
   <url>
     <loc>https://coehealth.ucmerced.edu/taxonomy/term/1311/feed</loc>
+  </url>
+  <url>
+    <loc>https://coehealth.ucmerced.edu/news/2019/ncpc-workshop-empowers-stakeholders-craft-compelling-anti-smoking-policy-messages</loc>
   </url>
   <url>
     <loc>https://coehealth.ucmerced.edu/taxonomy/term/1691/feed</loc>
