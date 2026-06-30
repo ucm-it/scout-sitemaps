@@ -7,6 +7,9 @@
     <loc>https://accessibility.ucmerced.edu/</loc>
   </url>
   <url>
+    <loc>https://accessibility.ucmerced.edu/about</loc>
+  </url>
+  <url>
     <loc>https://accessibility.ucmerced.edu/about/contacts</loc>
   </url>
   <url>
@@ -25,7 +28,16 @@
     <loc>https://accessibility.ucmerced.edu/accommodations/visitors</loc>
   </url>
   <url>
+    <loc>https://accessibility.ucmerced.edu/getting-around</loc>
+  </url>
+  <url>
+    <loc>https://accessibility.ucmerced.edu/getting-around/athletics-recreation</loc>
+  </url>
+  <url>
     <loc>https://accessibility.ucmerced.edu/getting-around/emergency-preparedness</loc>
+  </url>
+  <url>
+    <loc>https://accessibility.ucmerced.edu/getting-around/library</loc>
   </url>
   <url>
     <loc>https://accessibility.ucmerced.edu/getting-around/transportation-parking</loc>
@@ -34,31 +46,61 @@
     <loc>https://accessibility.ucmerced.edu/web-accessibility</loc>
   </url>
   <url>
+    <loc>https://accessibility.ucmerced.edu/digital-accessibility/converting-existing-documents-accessible-formats</loc>
+  </url>
+  <url>
     <loc>https://accessibility.ucmerced.edu/digital-accessibility/creating-content-checklists</loc>
   </url>
   <url>
     <loc>https://accessibility.ucmerced.edu/digital-accessibility/digital-accessibility-consultation</loc>
   </url>
   <url>
+    <loc>https://accessibility.ucmerced.edu/digital-accessibility/learning-about-accessible-documents-and-media</loc>
+  </url>
+  <url>
     <loc>https://accessibility.ucmerced.edu/digital-accessibility/learning-about-accessible-web-content</loc>
+  </url>
+  <url>
+    <loc>https://accessibility.ucmerced.edu/digital-accessibility/pdf-accessibility-guidance</loc>
   </url>
   <url>
     <loc>https://accessibility.ucmerced.edu/fundamental-accessible-skills</loc>
   </url>
   <url>
+    <loc>https://accessibility.ucmerced.edu/digital-accessibility/social-media-accessibility-links</loc>
+  </url>
+  <url>
+    <loc>https://accessibility.ucmerced.edu/digital-accessibility/tools-web-content-accessibility</loc>
+  </url>
+  <url>
     <loc>https://accessibility.ucmerced.edu/digital-accessibility/video-accessible-content</loc>
+  </url>
+  <url>
+    <loc>https://accessibility.ucmerced.edu/digital-accessibility/yuja-panorama-accessibility-catcourse-platform</loc>
   </url>
   <url>
     <loc>https://accessibility.ucmerced.edu/website-accessibility-tips</loc>
   </url>
   <url>
+    <loc>https://accessibility.ucmerced.edu/barriers-grievances</loc>
+  </url>
+  <url>
     <loc>https://accessibility.ucmerced.edu/barriers-grievances/report-barrier</loc>
+  </url>
+  <url>
+    <loc>https://accessibility.ucmerced.edu/barriers-grievances/grievances</loc>
   </url>
   <url>
     <loc>https://accessibility.ucmerced.edu/resources</loc>
   </url>
   <url>
     <loc>https://accessibility.ucmerced.edu/resources/planning-accessible-events</loc>
+  </url>
+  <url>
+    <loc>https://accessibility.ucmerced.edu/resources/planning-accessible-events/venue-accessibility</loc>
+  </url>
+  <url>
+    <loc>https://accessibility.ucmerced.edu/resources/planning-accessible-events/food-accessibility-%C2%A0dietary-restrictions</loc>
   </url>
   <url>
     <loc>https://accessibility.ucmerced.edu/resources/planning-accessible-events/communication-considerations-presenters</loc>
@@ -70,10 +112,31 @@
     <loc>https://accessibility.ucmerced.edu/resources/planning-accessible-events/accommodation-requests</loc>
   </url>
   <url>
+    <loc>https://accessibility.ucmerced.edu/resources/planning-accessible-events/accessible-event-checklists</loc>
+  </url>
+  <url>
+    <loc>https://accessibility.ucmerced.edu/resources/planning-accessible-events/additional-resources</loc>
+  </url>
+  <url>
+    <loc>https://accessibility.ucmerced.edu/policies-regulations</loc>
+  </url>
+  <url>
+    <loc>https://accessibility.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://accessibility.ucmerced.edu/form/report-technology-barrier</loc>
+  </url>
+  <url>
+    <loc>https://accessibility.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
     <loc>https://accessibility.ucmerced.edu/digital-accessibility/creating-content-checklists/website-accessibility-checklist</loc>
   </url>
   <url>
     <loc>https://accessibility.ucmerced.edu/digital-accessibility/creating-content-checklists/document-accessibility-checklist</loc>
+  </url>
+  <url>
+    <loc>https://accessibility.ucmerced.edu/digital-accessibility/creating-content-checklists/audiovideo-accessibility-checklist</loc>
   </url>
   <url>
     <loc>https://accessibility.ucmerced.edu/digital-accessibility/creating-content-checklists/presentation-accessibility-checklist</loc>
@@ -89,5 +152,8 @@
   </url>
   <url>
     <loc>https://accessibility.ucmerced.edu/digital-accessibility/creating-content-checklists/images-and-graphics-accessibility-checklist</loc>
+  </url>
+  <url>
+    <loc>https://accessibility.ucmerced.edu/sites/g/files/ufvvjh296/f/page/documents/word_and_excel_templates.zip</loc>
   </url>
 </urlset>

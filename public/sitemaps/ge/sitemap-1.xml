@@ -10,6 +10,9 @@
     <loc>https://ge.ucmerced.edu/about-us</loc>
   </url>
   <url>
+    <loc>https://ge.ucmerced.edu/about/hallmarks</loc>
+  </url>
+  <url>
     <loc>https://ge.ucmerced.edu/about/plos</loc>
   </url>
   <url>
@@ -19,10 +22,22 @@
     <loc>https://ge.ucmerced.edu/students</loc>
   </url>
   <url>
+    <loc>https://ge.ucmerced.edu/language-test</loc>
+  </url>
+  <url>
+    <loc>https://ge.ucmerced.edu/students/ge-requirements/spark</loc>
+  </url>
+  <url>
     <loc>https://ge.ucmerced.edu/student-request-forms</loc>
   </url>
   <url>
     <loc>https://ge.ucmerced.edu/students/reciprocity</loc>
+  </url>
+  <url>
+    <loc>https://ge.ucmerced.edu/students/transfer-students</loc>
+  </url>
+  <url>
+    <loc>https://ge.ucmerced.edu/faculty</loc>
   </url>
   <url>
     <loc>https://ge.ucmerced.edu/faculty/ge-designation-guidance</loc>
@@ -31,6 +46,30 @@
     <loc>https://ge.ucmerced.edu/faculty/teaching-spark-seminar</loc>
   </url>
   <url>
+    <loc>https://ge.ucmerced.edu/form/contact-us</loc>
+  </url>
+  <url>
     <loc>https://ge.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://ge.ucmerced.edu/students/ge-requirements/spark/spark-descriptions</loc>
+  </url>
+  <url>
+    <loc>https://ge.ucmerced.edu/sites/ge.ucmerced.edu/files/page/documents/ge_content_1_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ge.ucmerced.edu/form/request-official-letter-reciprocity</loc>
+  </url>
+  <url>
+    <loc>https://ge.ucmerced.edu/sites/ge.ucmerced.edu/files/page/documents/reciprocity_catalog_years_2018-2022_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ge.ucmerced.edu/sites/ge.ucmerced.edu/files/page/documents/sprk_001_v_sprk_010_clo_assessment_activities_differences_.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ge.ucmerced.edu/sites/ge.ucmerced.edu/files/page/documents/spark_001_seminar_proposal_template.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ge.ucmerced.edu/sites/ge.ucmerced.edu/files/page/documents/spark_010_seminar_proposal_template.pdf</loc>
   </url>
 </urlset>

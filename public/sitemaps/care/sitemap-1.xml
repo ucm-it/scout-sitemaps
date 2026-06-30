@@ -40,6 +40,12 @@
     <loc>https://care.ucmerced.edu/resources/faculty-and-staff</loc>
   </url>
   <url>
+    <loc>https://care.ucmerced.edu/resources/faculty-and-staff/resources-faculty-and-staff</loc>
+  </url>
+  <url>
+    <loc>https://care.ucmerced.edu/resources/faculty-and-staff/course-syllabus-language</loc>
+  </url>
+  <url>
     <loc>https://care.ucmerced.edu/resources/graduate-students</loc>
   </url>
   <url>
@@ -52,37 +58,7 @@
     <loc>https://care.ucmerced.edu/resources/other-resources/respondent-services</loc>
   </url>
   <url>
-    <loc>https://care.ucmerced.edu/violence-prevention-programs</loc>
-  </url>
-  <url>
-    <loc>https://care.ucmerced.edu/education/prevention-education-team</loc>
-  </url>
-  <url>
-    <loc>https://care.ucmerced.edu/services/annual-campaign</loc>
-  </url>
-  <url>
-    <loc>https://care.ucmerced.edu/education/how-intervene</loc>
-  </url>
-  <url>
-    <loc>https://care.ucmerced.edu/education/fsl-programs</loc>
-  </url>
-  <url>
-    <loc>https://care.ucmerced.edu/form/request-training-or-event</loc>
-  </url>
-  <url>
-    <loc>https://care.ucmerced.edu/education/trust</loc>
-  </url>
-  <url>
-    <loc>https://care.ucmerced.edu/trust/what-trust</loc>
-  </url>
-  <url>
-    <loc>https://care.ucmerced.edu/trust/what-trust/trust-learning-outcomes</loc>
-  </url>
-  <url>
     <loc>https://care.ucmerced.edu/calendar</loc>
-  </url>
-  <url>
-    <loc>https://care.ucmerced.edu/gallery</loc>
   </url>
   <url>
     <loc>https://care.ucmerced.edu/awareness-months</loc>
@@ -122,6 +98,33 @@
   </url>
   <url>
     <loc>https://care.ucmerced.edu/awareness-months/saam/denim-day</loc>
+  </url>
+  <url>
+    <loc>https://care.ucmerced.edu/prevention-education</loc>
+  </url>
+  <url>
+    <loc>https://care.ucmerced.edu/prevention-education/prevention-education-team</loc>
+  </url>
+  <url>
+    <loc>https://care.ucmerced.edu/services/annual-campaign</loc>
+  </url>
+  <url>
+    <loc>https://care.ucmerced.edu/prevention-education/how-intervene</loc>
+  </url>
+  <url>
+    <loc>https://care.ucmerced.edu/prevention-education/fsl-programs</loc>
+  </url>
+  <url>
+    <loc>https://care.ucmerced.edu/form/request-training-or-event</loc>
+  </url>
+  <url>
+    <loc>https://care.ucmerced.edu/prevention-education/trust</loc>
+  </url>
+  <url>
+    <loc>https://care.ucmerced.edu/trust/what-trust</loc>
+  </url>
+  <url>
+    <loc>https://care.ucmerced.edu/trust/what-trust/trust-learning-outcomes</loc>
   </url>
   <url>
     <loc>http://care.ucmerced.edu/support-services/confidential-advocate-services</loc>
@@ -166,9 +169,6 @@
     <loc>https://care.ucmerced.edu/content/cynthia-martinez-sheherella</loc>
   </url>
   <url>
-    <loc>https://care.ucmerced.edu/sites/care.ucmerced.edu/files/documents/pdf_20230628_144230_0000.pdf</loc>
-  </url>
-  <url>
     <loc>https://care.ucmerced.edu/sites/care.ucmerced.edu/files/documents/resource_referral_23-24.pdf</loc>
   </url>
   <url>
@@ -181,10 +181,16 @@
     <loc>https://care.ucmerced.edu/sites/care.ucmerced.edu/files/page/documents/glosario_de_care-spanish_.pdf</loc>
   </url>
   <url>
-    <loc>https://care.ucmerced.edu/resources/faculty-and-staff/resources-faculty-and-staff</loc>
+    <loc>https://care.ucmerced.edu/sites/care.ucmerced.edu/files/page/documents/resources_referral_options_handout_1.pdf</loc>
   </url>
   <url>
-    <loc>https://care.ucmerced.edu/faculty-and-staff/suggested-syllabus-language</loc>
+    <loc>https://care.ucmerced.edu/sites/care.ucmerced.edu/files/page/documents/care_brochure.pdf</loc>
+  </url>
+  <url>
+    <loc>https://care.ucmerced.edu/sites/care.ucmerced.edu/files/page/documents/step-by-step_guide_how_to_help_a_survivor_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://care.ucmerced.edu/sites/care.ucmerced.edu/files/page/documents/responsible_employee_faqs_-_stand_alone_final.pdf</loc>
   </url>
   <url>
     <loc>https://care.ucmerced.edu/graduate-students/ways-graduate-students-prevent-violence</loc>
@@ -283,6 +289,12 @@
     <loc>http://care.ucmerced.edu/resources/faculty-and-staff</loc>
   </url>
   <url>
+    <loc>http://care.ucmerced.edu/resources/faculty-and-staff/resources-faculty-and-staff</loc>
+  </url>
+  <url>
+    <loc>http://care.ucmerced.edu/resources/faculty-and-staff/course-syllabus-language</loc>
+  </url>
+  <url>
     <loc>http://care.ucmerced.edu/resources/graduate-students</loc>
   </url>
   <url>
@@ -295,37 +307,7 @@
     <loc>http://care.ucmerced.edu/resources/other-resources/respondent-services</loc>
   </url>
   <url>
-    <loc>http://care.ucmerced.edu/violence-prevention-programs</loc>
-  </url>
-  <url>
-    <loc>http://care.ucmerced.edu/education/prevention-education-team</loc>
-  </url>
-  <url>
-    <loc>http://care.ucmerced.edu/services/annual-campaign</loc>
-  </url>
-  <url>
-    <loc>http://care.ucmerced.edu/education/how-intervene</loc>
-  </url>
-  <url>
-    <loc>http://care.ucmerced.edu/education/fsl-programs</loc>
-  </url>
-  <url>
-    <loc>http://care.ucmerced.edu/form/request-training-or-event</loc>
-  </url>
-  <url>
-    <loc>http://care.ucmerced.edu/education/trust</loc>
-  </url>
-  <url>
-    <loc>http://care.ucmerced.edu/trust/what-trust</loc>
-  </url>
-  <url>
-    <loc>http://care.ucmerced.edu/trust/what-trust/trust-learning-outcomes</loc>
-  </url>
-  <url>
     <loc>http://care.ucmerced.edu/calendar</loc>
-  </url>
-  <url>
-    <loc>http://care.ucmerced.edu/gallery</loc>
   </url>
   <url>
     <loc>http://care.ucmerced.edu/awareness-months</loc>
@@ -367,19 +349,34 @@
     <loc>http://care.ucmerced.edu/awareness-months/saam/denim-day</loc>
   </url>
   <url>
+    <loc>http://care.ucmerced.edu/prevention-education</loc>
+  </url>
+  <url>
+    <loc>http://care.ucmerced.edu/prevention-education/prevention-education-team</loc>
+  </url>
+  <url>
+    <loc>http://care.ucmerced.edu/services/annual-campaign</loc>
+  </url>
+  <url>
+    <loc>http://care.ucmerced.edu/prevention-education/how-intervene</loc>
+  </url>
+  <url>
+    <loc>http://care.ucmerced.edu/prevention-education/fsl-programs</loc>
+  </url>
+  <url>
+    <loc>http://care.ucmerced.edu/form/request-training-or-event</loc>
+  </url>
+  <url>
+    <loc>http://care.ucmerced.edu/prevention-education/trust</loc>
+  </url>
+  <url>
+    <loc>http://care.ucmerced.edu/trust/what-trust</loc>
+  </url>
+  <url>
+    <loc>http://care.ucmerced.edu/trust/what-trust/trust-learning-outcomes</loc>
+  </url>
+  <url>
     <loc>http://care.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://care.ucmerced.edu/sites/care.ucmerced.edu/files/page/documents/resources_referral_options_handout_1.pdf</loc>
-  </url>
-  <url>
-    <loc>https://care.ucmerced.edu/sites/care.ucmerced.edu/files/page/documents/care_brochure.pdf</loc>
-  </url>
-  <url>
-    <loc>https://care.ucmerced.edu/sites/care.ucmerced.edu/files/page/documents/step-by-step_guide_how_to_help_a_survivor_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://care.ucmerced.edu/sites/care.ucmerced.edu/files/page/documents/responsible_employee_faqs_-_stand_alone_final.pdf</loc>
   </url>
   <url>
     <loc>https://care.ucmerced.edu/sites/care.ucmerced.edu/files/documents/supporting_survivors_-_step_by_step_guide_1.pdf</loc>

@@ -7,13 +7,34 @@
     <loc>https://registrar.ucmerced.edu/</loc>
   </url>
   <url>
+    <loc>https://registrar.ucmerced.edu/policies</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/policies/academic-standing</loc>
+  </url>
+  <url>
     <loc>https://registrar.ucmerced.edu/policies/adddropwithdraw</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/policies/change-personal-information</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/policies/course-repetition</loc>
   </url>
   <url>
+    <loc>https://registrar.ucmerced.edu/policies/drop-non-payment</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/policies/enrollment-and-registration</loc>
+  </url>
+  <url>
     <loc>https://registrar.ucmerced.edu/schedules/exams</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/policies/ferpa</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/policies/fees</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/policies/grades</loc>
@@ -55,6 +76,9 @@
     <loc>https://registrar.ucmerced.edu/registration-help-page</loc>
   </url>
   <url>
+    <loc>https://registrar.ucmerced.edu/registration-help-page/FAQs</loc>
+  </url>
+  <url>
     <loc>https://registrar.ucmerced.edu/registration-help-page/registering-classes/access-periods</loc>
   </url>
   <url>
@@ -73,6 +97,9 @@
     <loc>https://registrar.ucmerced.edu/resources/transfer-courses</loc>
   </url>
   <url>
+    <loc>https://registrar.ucmerced.edu/mdp-student-overview</loc>
+  </url>
+  <url>
     <loc>https://registrar.ucmerced.edu/mdp-student-what-it-is</loc>
   </url>
   <url>
@@ -88,6 +115,9 @@
     <loc>https://registrar.ucmerced.edu/resources/mdp-faq</loc>
   </url>
   <url>
+    <loc>https://registrar.ucmerced.edu/resources/mydegreepath-student-overview/mydegreepath-schedule-builder-faq</loc>
+  </url>
+  <url>
     <loc>https://registrar.ucmerced.edu/schedules</loc>
   </url>
   <url>
@@ -97,7 +127,13 @@
     <loc>https://registrar.ucmerced.edu/schedules/deadlines</loc>
   </url>
   <url>
+    <loc>https://registrar.ucmerced.edu/UC_Online</loc>
+  </url>
+  <url>
     <loc>https://registrar.ucmerced.edu/services</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/services/room-reservations</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/services/special-programs</loc>
@@ -106,13 +142,25 @@
     <loc>https://registrar.ucmerced.edu/services/transcripts</loc>
   </url>
   <url>
+    <loc>https://registrar.ucmerced.edu/services/verifications</loc>
+  </url>
+  <url>
     <loc>https://registrar.ucmerced.edu/forms</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/faculty-and-staff</loc>
   </url>
   <url>
+    <loc>https://registrar.ucmerced.edu/faculty</loc>
+  </url>
+  <url>
     <loc>https://registrar.ucmerced.edu/faculty-and-staff/faculty/calendars</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/faculty-and-staff/faculty/class-roster</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/faculty-and-staff/faculty/ferpa</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/faculty-and-staff/faculty/faculty-drop</loc>
@@ -124,7 +172,19 @@
     <loc>https://registrar.ucmerced.edu/faculty-and-staff/faculty/grades</loc>
   </url>
   <url>
+    <loc>https://registrar.ucmerced.edu/faculty-and-staff/faculty/registration-override-exclusion-request</loc>
+  </url>
+  <url>
     <loc>https://registrar.ucmerced.edu/faculty-and-staff/faculty/student-accommodations</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/faculty-and-staff/faculty/waitlist</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/staff</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/schedules/academic-scheduling</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/staff/banner-documentation</loc>
@@ -133,13 +193,82 @@
     <loc>https://registrar.ucmerced.edu/form/data-request</loc>
   </url>
   <url>
+    <loc>https://registrar.ucmerced.edu/mdp-advisor-overview</loc>
+  </url>
+  <url>
     <loc>https://registrar.ucmerced.edu/mdp-audit-run-and-read</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/mdp-exceptions</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/mdp-advisors-troubleshooting-and-reporting</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/mdp-upgrade-faq</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/faculty-and-staff/e-services</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/form/training-request</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/Contact_us</loc>
   </url>
   <url>
+    <loc>https://registrar.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/EOT</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/name_change.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/address_change.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/dnp_philosophy.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/PriorityRegistration</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/content/ferpa-quiz</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/student_record_confidentiality_update.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/ferpa_review_request.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/ferpa_request_amend.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/student_record_confidentiality_update.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/policies/ferpa/sr_table</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/node/301</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/gpa_calculator.xls</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/node/981</loc>
+  </url>
+  <url>
     <loc>https://registrar.ucmerced.edu/Certified-Electronic-Credential-Overview</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/call_to_active_duty.pdf</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/major_change_policy</loc>
@@ -151,13 +280,40 @@
     <loc>https://registrar.ucmerced.edu/nonresident_to_caresident</loc>
   </url>
   <url>
+    <loc>https://registrar.ucmerced.edu/node/1766</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/campus_map_recent.pdf</loc>
+  </url>
+  <url>
     <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/admin.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/acs.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/bsp.pdf</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/cob.pdf</loc>
   </url>
   <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/cob2.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/glcr.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/gran.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/kl.pdf</loc>
+  </url>
+  <url>
     <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/s_e1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/se2.pdf</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/ssm.pdf</loc>
@@ -169,10 +325,52 @@
     <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/sre.pdf</loc>
   </url>
   <url>
+    <loc>https://registrar.ucmerced.edu/registration-help-page/registering-classes/registration-errors</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/resources/registration-help/registering-classes/course-waitlist</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/registration-help-page/finishing-registration/change-your-schedule</loc>
+  </url>
+  <url>
     <loc>https://registrar.ucmerced.edu/go/schedule</loc>
   </url>
   <url>
-    <loc>https://registrar.ucmerced.edu/registration-help-page/registering-classes/registration-errors</loc>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/holds.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/expiration_waitlist</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/admitted.ucmerced.edu/files/page/images/myregistration_lg.png</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/admitted.ucmerced.edu/files/page/images/reg-errors_lg.png</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/admitted.ucmerced.edu/files/page/images/student-schedule-menu_lg.png</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/admitted.ucmerced.edu/files/page/images/crn-details_lg.png</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/admitted.ucmerced.edu/files/page/images/course-detail_lg.png</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/admitted.ucmerced.edu/files/page/documents/weekly_schedule_planning_worksheet.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/bannerdoc/registration_documentation.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/mdp-student-staying-on-track</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/mdp-student-transfer-credit</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/mdp-student-who-can-use-it-and-when</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2034-2035</loc>
@@ -184,13 +382,28 @@
     <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2032-2033</loc>
   </url>
   <url>
+    <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2031-2032</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2030-2031</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2029-2030</loc>
+  </url>
+  <url>
     <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2028-2029</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2027-2028</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2026-2027</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2025-2026</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2024-2025</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2023-2024</loc>
@@ -202,7 +415,76 @@
     <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2021-2022</loc>
   </url>
   <url>
+    <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2020-2021</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2019-2020</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2018-2019</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2017-2018</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2016-2017</loc>
+  </url>
+  <url>
     <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2015-2016</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2014-2015</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2013-2014</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2012-2013</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2011-2012</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2010-2011</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2009-2010</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2008-2009</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2007-2008</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2006-2007</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/schedules/academic-calendar/academic-calendar-2005-2006</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/documents/request_a_room_reservation.docx</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/calendar_view_instructions.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/content/room-reservations-room-availability</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/content/general-practices</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/content/scheduling-procedures</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/intercampus_exchange_program.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/intercampus_visitor_program.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/ug_simultaneous_enrollment.pdf</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/mc2ucm_application.pdf</loc>
@@ -214,25 +496,208 @@
     <loc>https://registrar.ucmerced.edu/AcademicTranscriptFAQ</loc>
   </url>
   <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/electronic_transcript_exchange.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/myhub_info.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/Enrollment_Verifications</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/stu_org_request.pdf</loc>
+  </url>
+  <url>
     <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/multiple_major_packet_-_fall_2025.pdf</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/grade-deadlines</loc>
   </url>
   <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/incomplete_grade.pdf</loc>
+  </url>
+  <url>
     <loc>https://registrar.ucmerced.edu/grade-changes</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/revised_p_np.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/name_change_1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/gr_take_ug_fillable_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/documents/student_guide_-_independent_study_request_form-1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/ug_take_gr.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/reg_checklist.pdf</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/verification_enr.pdf</loc>
   </url>
   <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/verification_fa.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/credit_by_exam.pdf</loc>
+  </url>
+  <url>
     <loc>http://registrar.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/bannerstudentcodelist_5.pdf</loc>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/ferpatopten_faculty.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/faculty_student_ferpa_release.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/faculty_drop_email_sample.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/documents/late_add_faculty_guide.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/documents/course_withdrawal_faculty_guide.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/documents/faculty_guide_-_how_to_approve_independent_study_requests_in_onbase-1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/faculty_guide_-_how_to_approve_petition_of_academic_policy_requests_in_onbase.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/requisite_override_faculty_guide.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/documents/time_conflict_override_faculty_guide.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/requisite_override.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/time_conflict_override.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/LastDayAttendance</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/Assigning-I</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/ga_classroom_scheduling_practices.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/room_max_capacities.xls</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/summer_scheduling_grid.xlsx</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/computer_lab_scheduling_grid.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/definitions_of_instructional_activity_types.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/min_class_size_policy.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/test_equivalent_cheat_sheet.xlsx</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/curriculum_planning_tool_box.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/schedule_production_timeline_202620.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/schedule_production_timeline_fall.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/schedule_production_timeline_spring.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/banner_9_cheat_sheet.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/bannerstudentcodelist_7.pdf</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/my_banner_personal_menu.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/exporting_data_from_a_banner_form_to_an_excel_spreadsheet.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/bannernamingconventions.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/dsd.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/MDP/academic_record_review_request_to_registrar_guide.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/staff/mydegreepath-advisor-resources/what-it-is</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/staff/mydegreepath-advisor-resources/how-to-access</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/staff/mydegreepath-advisor-resources/adding-exceptions</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/staff/mydegreepath-advisor-resources/troubleshooting</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/documents/sns_graduate_pseudo_cheat_sheet061724.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/soe_pseudo_cheat_sheet.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/documents/exceptions_documentations.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/staff/mydegreepath-advisor-resources/student-audit-run-read</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/staff/mydegreepath-advisor-resources/transfer-credit-in-the-audit</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/documents/academic_record_review_request_to_registrar_guide.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/CatCourses</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/orgchart_3.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/users/ewebb2</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/credential-validation</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/budget_forms_-_fin_independence_3.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/users/jandrade5</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/room-reservation/room-reservations-room-availability</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/room-reservation/general-practices</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/room-reservation/scheduling-procedures</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/electronic_transcript_exchange_0.pdf</loc>
@@ -241,13 +706,34 @@
     <loc>http://registrar.ucmerced.edu/</loc>
   </url>
   <url>
+    <loc>http://registrar.ucmerced.edu/policies</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/policies/academic-standing</loc>
+  </url>
+  <url>
     <loc>http://registrar.ucmerced.edu/policies/adddropwithdraw</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/policies/change-personal-information</loc>
   </url>
   <url>
     <loc>http://registrar.ucmerced.edu/policies/course-repetition</loc>
   </url>
   <url>
+    <loc>http://registrar.ucmerced.edu/policies/drop-non-payment</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/policies/enrollment-and-registration</loc>
+  </url>
+  <url>
     <loc>http://registrar.ucmerced.edu/schedules/exams</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/policies/ferpa</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/policies/fees</loc>
   </url>
   <url>
     <loc>http://registrar.ucmerced.edu/policies/grades</loc>
@@ -289,6 +775,9 @@
     <loc>http://registrar.ucmerced.edu/registration-help-page</loc>
   </url>
   <url>
+    <loc>http://registrar.ucmerced.edu/registration-help-page/FAQs</loc>
+  </url>
+  <url>
     <loc>http://registrar.ucmerced.edu/registration-help-page/registering-classes/access-periods</loc>
   </url>
   <url>
@@ -307,6 +796,9 @@
     <loc>http://registrar.ucmerced.edu/resources/transfer-courses</loc>
   </url>
   <url>
+    <loc>http://registrar.ucmerced.edu/mdp-student-overview</loc>
+  </url>
+  <url>
     <loc>http://registrar.ucmerced.edu/mdp-student-what-it-is</loc>
   </url>
   <url>
@@ -319,6 +811,9 @@
     <loc>http://registrar.ucmerced.edu/resources/mdp-faq</loc>
   </url>
   <url>
+    <loc>http://registrar.ucmerced.edu/resources/mydegreepath-student-overview/mydegreepath-schedule-builder-faq</loc>
+  </url>
+  <url>
     <loc>http://registrar.ucmerced.edu/schedules</loc>
   </url>
   <url>
@@ -328,7 +823,13 @@
     <loc>http://registrar.ucmerced.edu/schedules/deadlines</loc>
   </url>
   <url>
+    <loc>http://registrar.ucmerced.edu/UC_Online</loc>
+  </url>
+  <url>
     <loc>http://registrar.ucmerced.edu/services</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/services/room-reservations</loc>
   </url>
   <url>
     <loc>http://registrar.ucmerced.edu/services/special-programs</loc>
@@ -337,13 +838,25 @@
     <loc>http://registrar.ucmerced.edu/services/transcripts</loc>
   </url>
   <url>
+    <loc>http://registrar.ucmerced.edu/services/verifications</loc>
+  </url>
+  <url>
     <loc>http://registrar.ucmerced.edu/forms</loc>
   </url>
   <url>
     <loc>http://registrar.ucmerced.edu/faculty-and-staff</loc>
   </url>
   <url>
+    <loc>http://registrar.ucmerced.edu/faculty</loc>
+  </url>
+  <url>
     <loc>http://registrar.ucmerced.edu/faculty-and-staff/faculty/calendars</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/faculty-and-staff/faculty/class-roster</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/faculty-and-staff/faculty/ferpa</loc>
   </url>
   <url>
     <loc>http://registrar.ucmerced.edu/faculty-and-staff/faculty/faculty-drop</loc>
@@ -355,7 +868,19 @@
     <loc>http://registrar.ucmerced.edu/faculty-and-staff/faculty/grades</loc>
   </url>
   <url>
+    <loc>http://registrar.ucmerced.edu/faculty-and-staff/faculty/registration-override-exclusion-request</loc>
+  </url>
+  <url>
     <loc>http://registrar.ucmerced.edu/faculty-and-staff/faculty/student-accommodations</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/faculty-and-staff/faculty/waitlist</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/staff</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/schedules/academic-scheduling</loc>
   </url>
   <url>
     <loc>http://registrar.ucmerced.edu/staff/banner-documentation</loc>
@@ -364,6 +889,57 @@
     <loc>http://registrar.ucmerced.edu/form/data-request</loc>
   </url>
   <url>
+    <loc>http://registrar.ucmerced.edu/faculty-and-staff/e-services</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/form/training-request</loc>
+  </url>
+  <url>
     <loc>http://registrar.ucmerced.edu/Contact_us</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/taxonomy/term/1/feed</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/taxonomy/term/11/feed</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/taxonomy/term/21/feed</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/content/room-reservations-room-availability</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/content/general-practices</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/content/scheduling-procedures</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/users/jandrade5</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/room-reservation/room-reservations-room-availability</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/room-reservation/general-practices</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/room-reservation/scheduling-procedures</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/taxonomy/term/1/feed</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/taxonomy/term/11/feed</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/taxonomy/term/21/feed</loc>
   </url>
 </urlset>

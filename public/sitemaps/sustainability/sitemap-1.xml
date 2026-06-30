@@ -109,7 +109,7 @@
     <loc>https://sustainability.ucmerced.edu/climate-action/4-rs-sustainability/reduce</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/triple-zero/zero-waste/reduce/centralized-waste-locations</loc>
+    <loc>https://sustainability.ucmerced.edu/climate-action/4-rs-sustainability/reduce/centralized-waste-locations</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/climate-action/4-rs-sustainability/reuse</loc>
@@ -143,9 +143,6 @@
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/programs/sustainability-tour</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/programs/carson-house</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/programs/campus-water</loc>
@@ -197,6 +194,9 @@
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/get-involved/student/yosemite-leadership-program</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/facs/sustainability-faculty/engineering</loc>
@@ -263,9 +263,6 @@
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/node/14</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/climate-action-town-hall</loc>
@@ -712,10 +709,10 @@
     <loc>https://sustainability.ucmerced.edu/events/campus-garden-volunteering</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/earth-day-celebration</loc>
+    <loc>https://sustainability.ucmerced.edu/events/sustainability-tabling</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/sustainability-tabling</loc>
+    <loc>https://sustainability.ucmerced.edu/events/earth-day-celebration</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/horseback-riding</loc>
@@ -739,6 +736,15 @@
     <loc>https://sustainability.ucmerced.edu/sites/g/files/ufvvjh1806/f/page/documents/2017_wap_update.docx</loc>
   </url>
   <url>
+    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects/tea-project</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects/air-quality-project</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects/local-food-project</loc>
+  </url>
+  <url>
     <loc>https://sustainability.ucmerced.edu/more-about-skurtz</loc>
   </url>
   <url>
@@ -749,15 +755,6 @@
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/facs/sustainability-faculty/more-about-brokaw</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects/tea-project</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects/air-quality-project</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects/local-food-project</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/community-discussions/mission-joy-community-discussion</loc>

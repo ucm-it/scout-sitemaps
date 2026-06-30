@@ -19,6 +19,9 @@
     <loc>https://payroll.ucmerced.edu/our-services/workforce-onboarding-hub</loc>
   </url>
   <url>
+    <loc>https://payroll.ucmerced.edu/our-services/hcm</loc>
+  </url>
+  <url>
     <loc>https://payroll.ucmerced.edu/forms</loc>
   </url>
   <url>
@@ -34,6 +37,9 @@
     <loc>https://payroll.ucmerced.edu/payroll-systems/ucpath</loc>
   </url>
   <url>
+    <loc>https://payroll.ucmerced.edu/resources</loc>
+  </url>
+  <url>
     <loc>https://payroll.ucmerced.edu/resources/deadlines-calendars</loc>
   </url>
   <url>
@@ -43,6 +49,9 @@
     <loc>https://payroll.ucmerced.edu/resources/union-matrix</loc>
   </url>
   <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/payroll_roles_and_responsibilities_matrix.pdf</loc>
+  </url>
+  <url>
     <loc>https://payroll.ucmerced.edu/resources/glossary</loc>
   </url>
   <url>
@@ -50,6 +59,15 @@
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/news-and-updates</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/news/2025/advisory-ucpath-dcp-and-fica-adjustments</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/graduate-student-time-reporting</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/payroll-services-roadmap</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/contacts</loc>
@@ -64,6 +82,12 @@
     <loc>https://payroll.ucmerced.edu/reverification</loc>
   </url>
   <url>
+    <loc>https://payroll.ucmerced.edu/payroll-systems/trs/faq</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/bx-br-updates</loc>
+  </url>
+  <url>
     <loc>https://payroll.ucmerced.edu/payroll-systems/ucpath/direct-deposit</loc>
   </url>
   <url>
@@ -76,6 +100,9 @@
     <loc>https://payroll.ucmerced.edu/i-9-acceptable-documents</loc>
   </url>
   <url>
+    <loc>https://payroll.ucmerced.edu/work-auth-requirements</loc>
+  </url>
+  <url>
     <loc>https://payroll.ucmerced.edu/i-9-receipts</loc>
   </url>
   <url>
@@ -85,10 +112,34 @@
     <loc>https://payroll.ucmerced.edu/form/payroll-records-request</loc>
   </url>
   <url>
+    <loc>https://payroll.ucmerced.edu/form/employee-work-location</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/webform/cto_election_form_doc.pdf</loc>
+  </url>
+  <url>
     <loc>https://payroll.ucmerced.edu/form/damage-payment-request</loc>
   </url>
   <url>
+    <loc>https://payroll.ucmerced.edu/damage-payment-process</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/form/academic-promotion</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/form/academic-merit</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/form/academic-separation</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/form/academic-short-work-break-request</loc>
+  </url>
+  <url>
     <loc>https://payroll.ucmerced.edu/form/salary-cost-transfer-sct-benefits-cost-transfer-bct-academic</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/form/postdoc-anniversary-update</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/form/fund-change-academic</loc>
@@ -97,45 +148,216 @@
     <loc>https://payroll.ucmerced.edu/form/reclassification-staff</loc>
   </url>
   <url>
+    <loc>https://payroll.ucmerced.edu/form/staff-separation</loc>
+  </url>
+  <url>
     <loc>https://payroll.ucmerced.edu/form/fund-andor-home-department-change-staff</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/form/salary-cost-transfer-sctbenefits-cost-transferbct-staff</loc>
   </url>
   <url>
+    <loc>https://payroll.ucmerced.edu/form/individual-trs-approverucpath-reports-update</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/form/student-rate-change-andor-job-extension-0</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/form/student-separation-non-academic-0</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/form/fund-change-student-non-academic</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/form/salary-cost-transfer-student-non-academic</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/form/reclassification-student-non-academic</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/form/request-short-work-break-student-non-academic</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/form/return-swb-student-non-academic</loc>
+  </url>
+  <url>
     <loc>https://payroll.ucmerced.edu/form/student-cal-fresh-verification-employment</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/form/contingent-worker-intake-appointment-request</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/form/end-contingent-worker</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/form/mass-trs-approver-change-request</loc>
   </url>
   <url>
+    <loc>https://payroll.ucmerced.edu/form/staff-intake-appointment-request</loc>
+  </url>
+  <url>
     <loc>https://payroll.ucmerced.edu/form/academic-intake-appointment-request</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/homepage_timesheet_policy_reminder.pdf</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/ucpath-self-service</loc>
   </url>
   <url>
-    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/page/documents/payroll-calendar-bw-2026.pdf</loc>
+    <loc>https://payroll.ucmerced.edu/resources/ucm-location-list</loc>
   </url>
   <url>
-    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/2025_bi_weekly_pay_period_pay_dates_calendar.pdf</loc>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/page/documents/2026_payroll_processing_transactional_calendar-campus_0.xlsx</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/2025_payroll_processing_transactional_deadline_calendar_-_09.25.25.xlsx</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/payroll-processing-schedule-2023.xlsx</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/transactional_and_deadlines_2022.xlsx</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/transactional_and_deadlines_2021.xlsx</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/page/documents/payroll-calendar-bw-2026.pdf</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/page/documents/payroll-calendar-mo-2026.pdf</loc>
   </url>
   <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/2025_bi_weekly_pay_period_pay_dates_calendar.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/2024_bi_weekly_pay_period_pay_dates_calendar.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/2023_bi_weekly_pay_period_pay_dates_calendar.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/2022_bi_weekly_pay_period_pay_dates_calendar.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/2021_bi_weekly_pay_period_pay_dates_calendar.pdf</loc>
+  </url>
+  <url>
     <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/2025_monthly_pay_period_pay_dates_calendar.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/2024_monthly_pay_period_pay_dates_calendar.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/2023_monthly_pay_period_pay_dates_calendar.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/2022_monthly_pay_period_pay_dates_calendar.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/2021_monthly_pay_period_pay_dates_calendar.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/2025_benefits_deduction_calendar.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/2024_benefits_deduction_calendar.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/2023_benefits_deduction_calendar.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/2022_benefits_deduction_calendar.pdf</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/2021_benefits_deduction_calendar.pdf</loc>
   </url>
   <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/2025_voluntary_retirement_savings_program_enrollment_change_effective_dates.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/2024_voluntary_retirement_savings_program_enrollment_change_effective_dates.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/2023_voluntary_retirement_savings_program_enrollment_change_effective_dates.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/2022_voluntary_retirement_savings_program_enrollment_change_effective_dates.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/2021_voluntary_retirement_savings_program_enrollment_change_effective_dates.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/page/documents/gl_processing_calendar_2026_q1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/gl_processing_calendar_2025_q4.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/gl_processing_calendar_2025_q3_v2.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/gl_processing_calendar_2025_q2.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/gl_processing_calendar_2025_q1_v1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/gl_processing_calendar_2024_q4.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/gl_processing_calendar_2024_q3.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/gl_processing_calendar_2024_q2.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/gl_processing_calendar_2024_q1_v2.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/gl_processing_calendar_2023_q4_v2.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/gl_processing_calendar_2023_q3.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/gl_processing_calendar_2023_q2.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/gl_processing_calendar_2023_q1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/gl_processing_calendar_2022_q4.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/gl_processing_calendar_2022_q3.pdf</loc>
+  </url>
+  <url>
     <loc>https://payroll.ucmerced.edu/termination-and-final-pay</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/page/documents/template_new_hire_checklist_docx_0.docx</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/2023_-_2028_km_complete_contract.pdf</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/summersalaryescalation</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/news/2025/summer-salary-guide</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/form/student-separation-non-academic</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/form/student-rate-change-andor-job-extension</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/form/verification-employment</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/bfs.ucmerced.edu/files/documents/escalation_questionnaire_1.pdf</loc>
   </url>
 </urlset>

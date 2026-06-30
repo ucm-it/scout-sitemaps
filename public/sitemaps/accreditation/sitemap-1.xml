@@ -7,9 +7,6 @@
     <loc>https://accreditation.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://accreditation.ucmerced.edu/welcome</loc>
-  </url>
-  <url>
     <loc>https://accreditation.ucmerced.edu/2028-reaffirmation</loc>
   </url>
   <url>
@@ -17,6 +14,9 @@
   </url>
   <url>
     <loc>https://accreditation.ucmerced.edu/leadership</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/leadership/2028-reaffirmation-accreditation</loc>
   </url>
   <url>
     <loc>https://accreditation.ucmerced.edu/leadership/2021-interim-report-committee</loc>
@@ -76,22 +76,13 @@
     <loc>https://accreditation.ucmerced.edu/archive/2003-eligibility</loc>
   </url>
   <url>
-    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/cal_180720_ucm_av.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/ucm_-_team_report_av_spring_2018.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/uc_merced_institutional_report_for_reaffirmation_of_accreditation_july_25_2017_campus_version_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
     <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/cal_180720_ucm_av.pdf</loc>
   </url>
   <url>
     <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/irc_220112_ucm_accept_ir.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
     <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/2025.08.25_charge_wscuc_steering_committee_finalwnames_1.pdf</loc>
@@ -112,7 +103,16 @@
     <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/irc_220112_ucm_accept_ir.pdf</loc>
   </url>
   <url>
+    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/cal_180720_ucm_av.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/uc_merced_institutional_report_for_reaffirmation_of_accreditation_july_25_2017_campus_version_0.pdf</loc>
+  </url>
+  <url>
     <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/uc_merced_response_additional_docs_infor_request_12.19.2017_final_ucm_website.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/ucm_-_team_report_av_spring_2018.pdf</loc>
   </url>
   <url>
     <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/2013_handbook_of_accreditation_revised_2016.pdf</loc>
@@ -164,6 +164,12 @@
   </url>
   <url>
     <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/irc_140717_ucm_receive_interim_report_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/expectations_for_two_reviews_1_09.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/educational_effectiveness_framework_0.pdf</loc>
   </url>
   <url>
     <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/wasc_official_letter_7-12-11_w_revised_list_approved_degrees_0.pdf</loc>
