@@ -139,10 +139,10 @@
     <loc>https://eecs.ucmerced.edu/content/meng-tang</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/content/qian-wang</loc>
+    <loc>https://eecs.ucmerced.edu/content/yiwei-wang</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/content/yiwei-wang</loc>
+    <loc>https://eecs.ucmerced.edu/content/qian-wang</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/ming-hsuan-yang</loc>
@@ -262,13 +262,13 @@
     <loc>https://eecs.ucmerced.edu/content/chieh-lin</loc>
   </url>
   <url>
+    <loc>https://eecs.ucmerced.edu/content/miaomiao-liu</loc>
+  </url>
+  <url>
     <loc>https://eecs.ucmerced.edu/content/jiawen-liu</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/jie-liu</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/miaomiao-liu</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/brian-matamet</loc>
@@ -307,10 +307,10 @@
     <loc>https://eecs.ucmerced.edu/content/aditya-ranganath</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/content/jie-ren</loc>
+    <loc>https://eecs.ucmerced.edu/content/yuan-ren</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/content/yuan-ren</loc>
+    <loc>https://eecs.ucmerced.edu/content/jie-ren</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/shubham-rohal</loc>
@@ -352,6 +352,9 @@
     <loc>https://eecs.ucmerced.edu/content/dong-xu</loc>
   </url>
   <url>
+    <loc>https://eecs.ucmerced.edu/content/yuanzhou-yang</loc>
+  </url>
+  <url>
     <loc>https://eecs.ucmerced.edu/content/shuangyan-yang</loc>
   </url>
   <url>
@@ -359,9 +362,6 @@
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/sikai-yang</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/yuanzhou-yang</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/chun-han-yao</loc>
@@ -491,9 +491,6 @@
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/sites/eecs.ucmerced.edu/files/page/documents/eeecs_05.01.20_flyer.pdf</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/sites/eecs.ucmerced.edu/files/page/documents/2016-11-04.pdf</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/sites/eecs.ucmerced.edu/files/page/documents/2016-04-08-slides.pdf</loc>
