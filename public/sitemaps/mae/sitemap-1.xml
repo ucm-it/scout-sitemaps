@@ -73,9 +73,6 @@
     <loc>https://mae.ucmerced.edu/form/contact-us</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/researchnews/tribology</loc>
-  </url>
-  <url>
     <loc>https://mae.ucmerced.edu/news/2026/professor-reza-ehsani-named-christine-nemec-long-endowed-chair-agricultural-technology</loc>
   </url>
   <url>
@@ -116,6 +113,9 @@
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/researchnews/thermal-science-and-energy-conversion</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/researchnews/tribology</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/get-started</loc>
@@ -172,10 +172,10 @@
     <loc>https://mae.ucmerced.edu/content/alejandro-gutierrez</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/content/marcus-lee</loc>
+    <loc>https://mae.ucmerced.edu/content/min-hwan-lee-0</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/content/min-hwan-lee-0</loc>
+    <loc>https://mae.ucmerced.edu/content/marcus-lee</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/content/yanbao-ma</loc>
@@ -703,10 +703,10 @@
     <loc>https://mae.ucmerced.edu/news/2021/mechanical-engineering-students-come-solution-expensive-farm-problem</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/news/2021/me%C2%A0phd-student-jairo-viola-wins-outstanding-paper-ieee-first-international%C2%A0conference</loc>
+    <loc>https://mae.ucmerced.edu/news/2021/jairo-viola-and-derek-hollenbeck%C2%A0named-ieee-2021-conference-ccta-best-student-paper-award</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/news/2021/jairo-viola-and-derek-hollenbeck%C2%A0named-ieee-2021-conference-ccta-best-student-paper-award</loc>
+    <loc>https://mae.ucmerced.edu/news/2021/me%C2%A0phd-student-jairo-viola-wins-outstanding-paper-ieee-first-international%C2%A0conference</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/news/2021/west-coast-researchers-turn-biochar-fight-against-climate-change</loc>
@@ -742,10 +742,10 @@
     <loc>https://mae.ucmerced.edu/news/2021/shayna-bennett-wins-grad-slam-uc-merced</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/news/2021/us-news-world-report-rankings-showcase-growing-engineering-program-debuts-history-and</loc>
+    <loc>https://mae.ucmerced.edu/news/2021/us-news-world-report-rankings-showcase-growing-engineering-program-debuts</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/news/2021/us-news-world-report-rankings-showcase-growing-engineering-program-debuts</loc>
+    <loc>https://mae.ucmerced.edu/news/2021/us-news-world-report-rankings-showcase-growing-engineering-program-debuts-history-and</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/media-contact/desiree-lopez</loc>
@@ -778,10 +778,13 @@
     <loc>https://mae.ucmerced.edu/news/2020/new-grant-more-doubles-campus-supercomputing-power</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/news/2020/new-nsf-center-intersects-chemistry-and-mechanics</loc>
+    <loc>https://mae.ucmerced.edu/news/2020/new-engineering-research-center-focus-agriculture-technology</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/media-contact/elizabeth-arakelian</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/news/2020/new-nsf-center-intersects-chemistry-and-mechanics</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/news/2020/uc-merced-grad-student-alumnus-play-significant-role-mars-2020-mission</loc>
@@ -1153,9 +1156,6 @@
     <loc>http://mae.ucmerced.edu/news/2015/gasification-projects-could-benefit-environment-economy</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/news/2020/new-engineering-research-center-focus-agriculture-technology</loc>
-  </url>
-  <url>
     <loc>http://mae.ucmerced.edu/content/venkattraman-venkatt-ayyaswamy</loc>
   </url>
   <url>
@@ -1183,10 +1183,10 @@
     <loc>http://mae.ucmerced.edu/content/alejandro-gutierrez</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/content/marcus-lee</loc>
+    <loc>http://mae.ucmerced.edu/content/min-hwan-lee-0</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/content/min-hwan-lee-0</loc>
+    <loc>http://mae.ucmerced.edu/content/marcus-lee</loc>
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/content/yanbao-ma</loc>
@@ -1675,10 +1675,10 @@
     <loc>http://mae.ucmerced.edu/news/2021/mechanical-engineering-students-come-solution-expensive-farm-problem</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/news/2021/me%C2%A0phd-student-jairo-viola-wins-outstanding-paper-ieee-first-international%C2%A0conference</loc>
+    <loc>http://mae.ucmerced.edu/news/2021/jairo-viola-and-derek-hollenbeck%C2%A0named-ieee-2021-conference-ccta-best-student-paper-award</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/news/2021/jairo-viola-and-derek-hollenbeck%C2%A0named-ieee-2021-conference-ccta-best-student-paper-award</loc>
+    <loc>http://mae.ucmerced.edu/news/2021/me%C2%A0phd-student-jairo-viola-wins-outstanding-paper-ieee-first-international%C2%A0conference</loc>
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/news/2021/west-coast-researchers-turn-biochar-fight-against-climate-change</loc>
@@ -1714,10 +1714,10 @@
     <loc>http://mae.ucmerced.edu/news/2021/shayna-bennett-wins-grad-slam-uc-merced</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/news/2021/us-news-world-report-rankings-showcase-growing-engineering-program-debuts-history-and</loc>
+    <loc>http://mae.ucmerced.edu/news/2021/us-news-world-report-rankings-showcase-growing-engineering-program-debuts</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/news/2021/us-news-world-report-rankings-showcase-growing-engineering-program-debuts</loc>
+    <loc>http://mae.ucmerced.edu/news/2021/us-news-world-report-rankings-showcase-growing-engineering-program-debuts-history-and</loc>
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/media-contact/desiree-lopez</loc>
@@ -1750,10 +1750,13 @@
     <loc>http://mae.ucmerced.edu/news/2020/new-grant-more-doubles-campus-supercomputing-power</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/news/2020/new-nsf-center-intersects-chemistry-and-mechanics</loc>
+    <loc>http://mae.ucmerced.edu/news/2020/new-engineering-research-center-focus-agriculture-technology</loc>
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/media-contact/elizabeth-arakelian</loc>
+  </url>
+  <url>
+    <loc>http://mae.ucmerced.edu/news/2020/new-nsf-center-intersects-chemistry-and-mechanics</loc>
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/news/2020/uc-merced-grad-student-alumnus-play-significant-role-mars-2020-mission</loc>
@@ -2018,9 +2021,6 @@
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/media-contact/jason-alvarez</loc>
-  </url>
-  <url>
-    <loc>http://mae.ucmerced.edu/news/2020/new-engineering-research-center-focus-agriculture-technology</loc>
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/taxonomy/term/261/feed</loc>

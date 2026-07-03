@@ -85,6 +85,9 @@
     <loc>https://health.ucmerced.edu/resources/campus-partners</loc>
   </url>
   <url>
+    <loc>https://health.ucmerced.edu/immunizations</loc>
+  </url>
+  <url>
     <loc>https://health.ucmerced.edu/flu-vaccination-information</loc>
   </url>
   <url>
@@ -98,9 +101,6 @@
   </url>
   <url>
     <loc>https://health.ucmerced.edu/immunizations/immunization-medical-exemptions</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/immunizationlocations</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/immunizations/tb-risk-screening-requirements</loc>
@@ -158,9 +158,6 @@
   </url>
   <url>
     <loc>https://health.ucmerced.edu/news/2026/2026-2027-uc-ship-waiver-open</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/news/2024/attention-ship-students</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/news/2024/lyrauc-ship</loc>
