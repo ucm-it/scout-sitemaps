@@ -7,9 +7,6 @@
     <loc>https://inclusiveaccess.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://inclusiveaccess.ucmerced.edu/events</loc>
-  </url>
-  <url>
     <loc>https://inclusiveaccess.ucmerced.edu/people</loc>
   </url>
   <url>
@@ -25,6 +22,12 @@
     <loc>https://inclusiveaccess.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://inclusiveaccess.ucmerced.edu/events</loc>
+  </url>
+  <url>
+    <loc>https://inclusiveaccess.ucmerced.edu/content/emma-llamas</loc>
+  </url>
+  <url>
     <loc>https://inclusiveaccess.ucmerced.edu/events/inclusive-access-payments</loc>
   </url>
   <url>
@@ -32,8 +35,5 @@
   </url>
   <url>
     <loc>https://inclusiveaccess.ucmerced.edu/events/first-day-instruction</loc>
-  </url>
-  <url>
-    <loc>https://inclusiveaccess.ucmerced.edu/content/emma-llamas</loc>
   </url>
 </urlset>

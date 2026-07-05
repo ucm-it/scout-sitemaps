@@ -10,9 +10,6 @@
     <loc>https://academicactivity.ucmerced.edu/information-faculty</loc>
   </url>
   <url>
-    <loc>https://academicactivity.ucmerced.edu/information-staff</loc>
-  </url>
-  <url>
     <loc>https://academicactivity.ucmerced.edu/information-students</loc>
   </url>
   <url>
@@ -20,6 +17,9 @@
   </url>
   <url>
     <loc>https://academicactivity.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://academicactivity.ucmerced.edu/information-staff</loc>
   </url>
   <url>
     <loc>https://academicactivity.ucmerced.edu/sites/academicactivity.ucmerced.edu/files/page/documents/student-pages.pdf</loc>

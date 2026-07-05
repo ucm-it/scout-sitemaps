@@ -19,9 +19,6 @@
     <loc>https://ssha.ucmerced.edu/people/staff</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/spendlove-prize</loc>
-  </url>
-  <url>
     <loc>https://ssha.ucmerced.edu/contact-us</loc>
   </url>
   <url>
@@ -178,6 +175,9 @@
     <loc>https://ssha.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>https://ssha.ucmerced.edu/spendlove-prize</loc>
+  </url>
+  <url>
     <loc>https://ssha.ucmerced.edu/content/faustino-aguilar</loc>
   </url>
   <url>
@@ -301,12 +301,6 @@
     <loc>https://ssha.ucmerced.edu/content/anne-zanzucchi</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/events/spendlove-prize/history</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/spendlove-prize-archive</loc>
-  </url>
-  <url>
     <loc>https://ssha.ucmerced.edu/content/virginia-adan-lifante-0</loc>
   </url>
   <url>
@@ -382,10 +376,10 @@
     <loc>https://ssha.ucmerced.edu/content/linda-cameron-0</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/eileen-camfield-0</loc>
+    <loc>https://ssha.ucmerced.edu/content/gregg-camfield</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/gregg-camfield</loc>
+    <loc>https://ssha.ucmerced.edu/content/eileen-camfield-0</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/alec-chan-golston</loc>
@@ -442,10 +436,10 @@
     <loc>https://ssha.ucmerced.edu/content/christian-fons-rosen-0</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/weisong-gao</loc>
+    <loc>https://ssha.ucmerced.edu/content/xing-gao</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/xing-gao</loc>
+    <loc>https://ssha.ucmerced.edu/content/weisong-gao</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/humberto-garcia</loc>
@@ -529,10 +523,10 @@
     <loc>https://ssha.ucmerced.edu/content/robert-innes</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/jason-isbell</loc>
+    <loc>https://ssha.ucmerced.edu/content/elif-isbell</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/elif-isbell</loc>
+    <loc>https://ssha.ucmerced.edu/content/jason-isbell</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/carolyn-dicey-jennings-2</loc>
@@ -914,6 +908,12 @@
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/maria-elena-de-trinidad-young</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/events/spendlove-prize/history</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/spendlove-prize-archive</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/type/staff</loc>
@@ -1660,10 +1660,10 @@
     <loc>http://ssha.ucmerced.edu/content/christian-fons-rosen-0</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/weisong-gao</loc>
+    <loc>http://ssha.ucmerced.edu/content/xing-gao</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/xing-gao</loc>
+    <loc>http://ssha.ucmerced.edu/content/weisong-gao</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/humberto-garcia</loc>
@@ -1676,6 +1676,9 @@
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/jeffrey-gilger-0</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/content/jan-goggans-0</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/tanya-golash-boza-0</loc>
@@ -1744,10 +1747,10 @@
     <loc>http://ssha.ucmerced.edu/content/robert-innes</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/jason-isbell</loc>
+    <loc>http://ssha.ucmerced.edu/content/elif-isbell</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/elif-isbell</loc>
+    <loc>http://ssha.ucmerced.edu/content/jason-isbell</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/carolyn-dicey-jennings-2</loc>
@@ -1843,10 +1846,10 @@
     <loc>http://ssha.ucmerced.edu/content/amanda-mireles</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/nathan-monroe</loc>
+    <loc>http://ssha.ucmerced.edu/content/courtenay-r-monroe</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/courtenay-r-monroe</loc>
+    <loc>http://ssha.ucmerced.edu/content/nathan-monroe</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/holley-moyes-0</loc>
@@ -4178,8 +4181,5 @@
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/sites/ssha.ucmerced.edu/files/page/documents/psychology_curricmap_april2010.pdf</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/content/jan-goggans-0</loc>
   </url>
 </urlset>

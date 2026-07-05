@@ -19,9 +19,6 @@
     <loc>https://studentjobs.ucmerced.edu/students/direct-deposit</loc>
   </url>
   <url>
-    <loc>https://studentjobs.ucmerced.edu/students/undergraduate-student-resources</loc>
-  </url>
-  <url>
     <loc>https://studentjobs.ucmerced.edu/students/undergraduate-student-resources/general-tax-resources-students</loc>
   </url>
   <url>
@@ -104,6 +101,9 @@
   </url>
   <url>
     <loc>https://studentjobs.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://studentjobs.ucmerced.edu/students/undergraduate-student-resources</loc>
   </url>
   <url>
     <loc>https://studentjobs.ucmerced.edu/form/student-intake-request</loc>

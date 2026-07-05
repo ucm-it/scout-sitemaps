@@ -10,9 +10,6 @@
     <loc>https://ssi.ucmerced.edu/about-program</loc>
   </url>
   <url>
-    <loc>https://ssi.ucmerced.edu/about-program/purpose</loc>
-  </url>
-  <url>
     <loc>https://ssi.ucmerced.edu/students</loc>
   </url>
   <url>
@@ -41,5 +38,8 @@
   </url>
   <url>
     <loc>https://ssi.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://ssi.ucmerced.edu/about-program/purpose</loc>
   </url>
 </urlset>

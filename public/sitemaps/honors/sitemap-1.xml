@@ -13,9 +13,6 @@
     <loc>https://honors.ucmerced.edu/students/uhp-academic-honor-roll</loc>
   </url>
   <url>
-    <loc>https://honors.ucmerced.edu/home/student-advisory-committee</loc>
-  </url>
-  <url>
     <loc>https://honors.ucmerced.edu/home/student-spotlights</loc>
   </url>
   <url>
@@ -110,6 +107,9 @@
   </url>
   <url>
     <loc>https://honors.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://honors.ucmerced.edu/home/student-advisory-committee</loc>
   </url>
   <url>
     <loc>https://honors.ucmerced.edu/content/beth-scaffidi</loc>
@@ -535,10 +535,10 @@
     <loc>https://honors.ucmerced.edu/events/undergraduate-spring-commencement-ceremonies</loc>
   </url>
   <url>
-    <loc>https://honors.ucmerced.edu/events/spring-semester-ends</loc>
+    <loc>https://honors.ucmerced.edu/events/graduate-spring-commencement-ceremony</loc>
   </url>
   <url>
-    <loc>https://honors.ucmerced.edu/events/graduate-spring-commencement-ceremony</loc>
+    <loc>https://honors.ucmerced.edu/events/spring-semester-ends</loc>
   </url>
   <url>
     <loc>https://honors.ucmerced.edu/events/final-exams-0</loc>
@@ -1252,10 +1252,10 @@
     <loc>http://honors.ucmerced.edu/content/shahar-sukenik</loc>
   </url>
   <url>
-    <loc>http://honors.ucmerced.edu/content/daniel-thompson</loc>
+    <loc>http://honors.ucmerced.edu/content/keith-thompson</loc>
   </url>
   <url>
-    <loc>http://honors.ucmerced.edu/content/keith-thompson</loc>
+    <loc>http://honors.ucmerced.edu/content/daniel-thompson</loc>
   </url>
   <url>
     <loc>http://honors.ucmerced.edu/content/tommy-tran</loc>
@@ -1282,10 +1282,10 @@
     <loc>http://honors.ucmerced.edu/content/frederick-wolf</loc>
   </url>
   <url>
-    <loc>http://honors.ucmerced.edu/content/jing-xu</loc>
+    <loc>http://honors.ucmerced.edu/content/yiran-xu</loc>
   </url>
   <url>
-    <loc>http://honors.ucmerced.edu/content/yiran-xu</loc>
+    <loc>http://honors.ucmerced.edu/content/jing-xu</loc>
   </url>
   <url>
     <loc>http://honors.ucmerced.edu/content/jeffrey-yoshimi</loc>

@@ -13,9 +13,6 @@
     <loc>https://ncpc.ucmerced.edu/about/why-ncpc-needed</loc>
   </url>
   <url>
-    <loc>https://ncpc.ucmerced.edu/about/main-aims</loc>
-  </url>
-  <url>
     <loc>https://ncpc.ucmerced.edu/about/ncpc-catchment-area</loc>
   </url>
   <url>
@@ -163,10 +160,13 @@
     <loc>https://ncpc.ucmerced.edu/news/2026/all-faculty-rock-band-cuts-album-uc-merced-recording-studio</loc>
   </url>
   <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/global-film-highlights-faculty-voice-future-soil</loc>
+    <loc>https://ncpc.ucmerced.edu/news/2026/pioneer-bobcat-blazes-path-through-law-and-technology</loc>
   </url>
   <url>
     <loc>https://ncpc.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://ncpc.ucmerced.edu/about/main-aims</loc>
   </url>
   <url>
     <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-image_of_people_in_a_field_near_a_barn.pdf</loc>
@@ -691,9 +691,6 @@
     <loc>https://ncpc.ucmerced.edu/media-contact/jody-murray</loc>
   </url>
   <url>
-    <loc>https://ncpc.ucmerced.edu/media-contact/lorena-anderson</loc>
-  </url>
-  <url>
     <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-dr_arturo_durazo.pdf</loc>
   </url>
   <url>
@@ -701,9 +698,6 @@
   </url>
   <url>
     <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-dr_irene_h_yen.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/pioneer-bobcat-blazes-path-through-law-and-technology</loc>
   </url>
   <url>
     <loc>https://ncpc.ucmerced.edu/news/2026/new-business-administration-accounting-majors-address-high-demand</loc>
@@ -728,35 +722,5 @@
   </url>
   <url>
     <loc>https://ncpc.ucmerced.edu/taxonomy/term/1081/feed</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/new-study-urges-earlier-detection-valley-fever-cases-climb</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/elephant-dung-piles-are-crucial-biodiversity-study-shows</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/degrees-cheers-and-record-number-graduates-under-open-sky</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/uc-merced-opens-flexible-routes-stem-degrees-teaching-and-beyond</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/uc-merced-student-makes-campus-history-goldwater-scholarship</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/two-uc-merced-researchers-among-year%E2%80%99s-aaas-fellows</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/calteach-and-local-schools-team-energize-learning-across-merced-county</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/ants-endurance-and-phd-finish-line</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/ocean-chemistry-now-substantially-shaped-humans</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/taxonomy/term/29/feed</loc>
   </url>
 </urlset>

@@ -19,12 +19,6 @@
     <loc>https://studentsfirst.ucmerced.edu/socialmediaplatforms</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/contact-us-0</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/datesdeadlines</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/processing-timelines</loc>
   </url>
   <url>
@@ -253,9 +247,6 @@
     <loc>https://studentsfirst.ucmerced.edu/node/17841</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/continuing-students-deadline-cancel-housing-contract-without-penalty-0</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/new-fy-students-deadline-cancel-housing-contract-without-penalty</loc>
   </url>
   <url>
@@ -263,6 +254,9 @@
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/student-housing-%E2%80%93-accommodations-priority-deadline-all-students-0</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/continuing-students-deadline-cancel-housing-contract-without-penalty-0</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/transfer-admission-guarantee-tag-application-spring-closes-0</loc>
@@ -379,9 +373,6 @@
     <loc>https://studentsfirst.ucmerced.edu/events/continuing-students-signed-contracts-form-roomate-groups-opens</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/continuing-student-scholarship-application-closes-1</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/fafsacadaa-application-priority-deadline-1</loc>
   </url>
   <url>
@@ -394,16 +385,19 @@
     <loc>https://studentsfirst.ucmerced.edu/node/17976</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/continuing-students-priority-deadline-sign-housing-contract-1</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/continuing-student-scholarship-application-closes-1</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/node/17776</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/continuing-students-priority-deadline-sign-housing-contract-1</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/housing-application-close-continuing-students</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/node/17816</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/node/17776</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/spring-deferred-payment-plan-dpp-installment-2-due-1</loc>
@@ -427,10 +421,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/add-class-online-w-instructor-approval-close</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/deadline-students-submit-academic-dismissal-appeals</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/academic-dismissal-appeal-deadline</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/academic-dismissal-appeal-deadline</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/deadline-students-submit-academic-dismissal-appeals</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/add-class-online-w-instructor-approval-open</loc>
@@ -511,10 +505,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/housing-application-opens-new-first-year-students</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/transfer-academic-update-tau-opens-1</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/campus-move-new-first-year-and-transfer-students</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/campus-move-new-first-year-and-transfer-students</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/transfer-academic-update-tau-opens-1</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/grad-fair-0</loc>
@@ -559,10 +553,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/spring-health-insurance-waiver-opens-0</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/withdraw-course-w-instructor-dean-approval-closes</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/statement-legal-residence-slr-deadline-sp26-admits</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/statement-legal-residence-slr-deadline-sp26-admits</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/withdraw-course-w-instructor-dean-approval-closes</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/continuing-student-registration-spring-begins</loc>
@@ -673,13 +667,13 @@
     <loc>https://studentsfirst.ucmerced.edu/events/orientation-21</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/final-test-scores-deadline-fall-admits-2</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-c-deadline-drop-courses-online-100-refund</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-c-deadline-add-course-instructor-approval</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/final-test-scores-deadline-fall-admits-2</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/orientation-20</loc>
@@ -811,16 +805,16 @@
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-d-application-deadline</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/continuing-students-deadline-cancel-housing-contract-without-penalty</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/billing-statement-available-mybill-students-enrolled-after-april-1</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/statement-intent-register-sir-deadline-fall-first-years</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/transfer-admission-guarantee-tag-application-spring-opens</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/continuing-students-deadline-cancel-housing-contract-without-penalty</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/billing-statement-available-mybill-students-enrolled-after-april-1</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/health-insurance-waiver-opens</loc>
@@ -859,13 +853,13 @@
     <loc>https://studentsfirst.ucmerced.edu/events/continuing-students-signed-contracts-form-roommate-groups-closes</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/fall-time-tickets-availiable</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/continuing-student-scholarship-application-closes-0</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/fall-course-schedule-availiable</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/fall-time-tickets-availiable</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/housing-application-opens-new-first-year-transfer-students-1pm-0</loc>
@@ -1078,13 +1072,13 @@
     <loc>https://studentsfirst.ucmerced.edu/events/math-and-chem-placement-exams-due-fall-admits-0</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/stem-person-campus-summer-program-ends</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/session-c-courses-ends</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-d-ends</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/stem-person-campus-summer-program-ends</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-edge-stem-and-non-stem-program-end</loc>
@@ -1096,10 +1090,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/spring-uc-application-closes-1</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/session-c-deadline-withdraw-course-signature-and-no-refund-0</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/writing-readiness-review-wrr-closes-fall-admits-0</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/writing-readiness-review-wrr-closes-fall-admits-0</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/session-c-deadline-withdraw-course-signature-and-no-refund-0</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/orientation-18</loc>
@@ -1156,9 +1150,6 @@
     <loc>https://studentsfirst.ucmerced.edu/events/session-c-deadline-add-courses-online-1</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/first-year-transfer-student-sir-deadline</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/new-fall-admits-move-datetime-selection-begins-0</loc>
   </url>
   <url>
@@ -1183,19 +1174,22 @@
     <loc>https://studentsfirst.ucmerced.edu/events/final-official-transcripts-deadline-fall-admits-1</loc>
   </url>
   <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/first-year-transfer-student-sir-deadline</loc>
+  </url>
+  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/online-room-selection-closes-housing-time-tickets</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-ends-1</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/session-b-add-class-online-instructor-permission-0</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-b-deadline-drop-individual-courses-online-100-refund</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/session-b-deadline-drop-individual-courses-100-refund-1</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/session-b-add-class-online-instructor-permission-0</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-edge-stem-and-non-stem-program-starts</loc>
@@ -1267,19 +1261,19 @@
     <loc>https://studentsfirst.ucmerced.edu/events/deadline-visiting-students-apply-online-session-b-0</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/statement-intent-register-sir-priority-deadline-fall-transfer-students-0</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/deadline-cancel-housing-contract-without-300-fee-new-first-year-students</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/student-housing-%E2%80%93-accommodations-priority-deadline-all-students</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-sessions-d-deadline-drop-individual-courses-online-100-refund</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/statement-intent-register-sir-priority-deadline-fall-transfer-students-0</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/sessions-d-deadline-drop-individual-courses-online-100-refund-0</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-sessions-d-deadline-drop-individual-courses-online-100-refund</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/memorial-day-no-claseses-admin-office-closed</loc>
@@ -1399,10 +1393,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/withdraw-course-w-instructor-dean-approval-deadline</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/billing-statement-available-mybill-students-enrolled-time</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/fall-registration-opens-priority-groups</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/fall-registration-opens-priority-groups</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/billing-statement-available-mybill-students-enrolled-time</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/cesar-chavez-day-no-classes-admin-office-closed</loc>
@@ -1501,13 +1495,13 @@
     <loc>https://studentsfirst.ucmerced.edu/events/new-student-orientation-5</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/spring-admit-transcriptexam-deadline</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/spring-fee-payment-deadline-0</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/spring-deferred-payment-plan-dpp-installment-1-due-0</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/spring-admit-transcriptexam-deadline</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/spring-health-insurance-waiver-deadline</loc>
@@ -1624,10 +1618,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/spring-schedule-time-tickets-available</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/uc-application-fall-opens-0</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/bs-md-supplemental-application-open</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/bs-md-supplemental-application-open</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/uc-application-fall-opens-0</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/deferred-payment-plan-dpp-installment-2-due-fall-0</loc>
@@ -1840,10 +1834,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/deferred-payment-plan-dpp-installment-4-due-0</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-2023-orientation-registration-opens</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-edge-application-opens</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-edge-application-opens</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-2023-orientation-registration-opens</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/fall-2023-registration-open</loc>
@@ -1855,10 +1849,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/deadline-withdraw-course-instructor-dean-approval-0</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/fasfacadaa-application-priority-deadline</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/fafsacadaa-application-priority-deadline-0</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/fafsacadaa-application-priority-deadline-0</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/fasfacadaa-application-priority-deadline</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/cesar-chavez-day-no-classesadmin-offices-closed</loc>
@@ -1972,10 +1966,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/transfer-academic-updatetau-opens</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/new-student-registration</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/fall-2022-final-exams-0</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/fall-2022-final-exams-0</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/new-student-registration</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/fall-2022-final-exams</loc>
@@ -2092,10 +2086,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/deadline-add-courses-online-without-instructor-permissions</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/immunization-requirements-due-student-health-center-new-fall-admits</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/fall-2022-instruction-begins</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/fall-2022-instruction-begins</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/immunization-requirements-due-student-health-center-new-fall-admits</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/ascend-conference</loc>
@@ -2218,10 +2212,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/sessions-e-deadline-drop-class-online-100-refund</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-b-8-wk-begins</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/deadline-visiting-students-apply-online-session-c-0</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/deadline-visiting-students-apply-online-session-c-0</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-b-8-wk-begins</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/juneteenth</loc>
@@ -2233,10 +2227,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/deadline-submit-housing-application-transfer-students</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/statement-intent-register-sir-priority-deadline-fall-transfer-students</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-graduation-application-deadline-0</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-graduation-application-deadline-0</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/statement-intent-register-sir-priority-deadline-fall-transfer-students</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/fee-payment-deadline-students-who-registered-after-516</loc>
@@ -2296,10 +2290,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/summer-2022-session-1st-six-week-begins</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-2022-session-d-twelve-weeks-begins</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/session-e-second-8-wk-session-begins</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/session-e-second-8-wk-session-begins</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-2022-session-d-twelve-weeks-begins</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/new-fy-student-deadline-change-major-and-upload-unofficial-college-credit</loc>
@@ -2326,10 +2320,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/shaa-commencement-0</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/spring-2021-commencement</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/spring-2022-semester-ends</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/spring-2022-semester-ends</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/spring-2021-commencement</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/deadline-visiting-students-apply-summer-ad-session-0</loc>
@@ -2350,10 +2344,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/uc-merced-wri-placement-exam</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/merced-automatic-admission-program-maap-guarantee-admission-application-opens</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-sessions-d-billing-statements-posted</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-sessions-d-billing-statements-posted</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/merced-automatic-admission-program-maap-guarantee-admission-application-opens</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/transfer-admission-guarantee-tag-application-spring-term-opens</loc>
@@ -2380,10 +2374,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/study-abroad-iop-summer-deadline</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/holiday-presidents-day-holiday-no-classes-admin-offices-closed-0</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/spring-deferred-payment-plan-dpp-installment-2-due</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/spring-deferred-payment-plan-dpp-installment-2-due</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/holiday-presidents-day-holiday-no-classes-admin-offices-closed-0</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/spring-graduation-application-deadline</loc>
@@ -2395,10 +2389,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/spring-2022-deadline-add-courses-online-instructor-approval</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/spring-2022-last-day-adddrop-courses-4pm</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/deadline-drop-courses-online-spring-semester</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/deadline-drop-courses-online-spring-semester</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/spring-2022-last-day-adddrop-courses-4pm</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/continuing-student-scholarship-app-opens</loc>
@@ -2410,13 +2404,13 @@
     <loc>https://studentsfirst.ucmerced.edu/events/deadline-add-courses-online</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/spring-last-day-drop-all-classes-100-refund</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/immunization-requirements-due-health-center-spring-2022-new-admits</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/spring-2022-instruction-begins</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/immunization-requirements-due-health-center-spring-2022-new-admits</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/spring-last-day-drop-all-classes-100-refund</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/holiday-martin-luther-king-jr-holiday-no-classes-admin-offices-closed-1</loc>
@@ -2473,16 +2467,16 @@
     <loc>https://studentsfirst.ucmerced.edu/events/fall-2021-final-grades-due-noon</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/fall-2021-commencement-ceremony</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/residence-halls-close-10am</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/fall-2021-semester-ends</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/fall-2021-commencement-ceremony</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/winter-break-intersession-reservation-closes</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/fall-2021-semester-ends</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/winter-break-intersession-reservation-opens</loc>
@@ -2581,10 +2575,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/deferred-payment-plan-dpp-installment-2-due-fall-2021</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/fall-2021-last-day-adddrop-courses-4pm</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/deadline-add-class-online-instructor-permission-fall-semester</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/deadline-add-class-online-instructor-permission-fall-semester</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/fall-2021-last-day-adddrop-courses-4pm</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/transfer-academic-update-tau-deadline-spring</loc>
@@ -2776,10 +2770,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/session-b-deadline-add-courses-online-0</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/deadline-cancel-housing-contract-without-300-fee-0</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/deadline-sign-housing-contract-transfer-second-year-and-continuing-students-ends</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/math-and-chem-placement-exams-due-fall-admits</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/roommate-selection-begins-first-year-and-new-transfer-students</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/pre-orientation-event-goes-live-online</loc>
@@ -2788,19 +2782,19 @@
     <loc>https://studentsfirst.ucmerced.edu/events/statement-intent-register-sir-priority-deadline-transfer-students-0</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/deadline-sign-housing-contract-transfer-second-year-and-continuing-students-ends</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/financial-aid-document-deadline-1</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/roommate-selection-begins-first-year-and-new-transfer-students</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/housing-exemption-request-deadline-first-years-admits</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/housing-residency-exemption-requests-deadline</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/financial-aid-document-deadline-1</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/deadline-cancel-housing-contract-without-300-fee-0</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/housing-exemption-request-deadline-first-years-admits</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/math-and-chem-placement-exams-due-fall-admits</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/holiday-memorial-day-holiday-no-classes-admin-office-closed</loc>
@@ -2818,10 +2812,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/session-first-6-wk-and-session-d-12-wk-begin</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-ad-move-new-transfer-students</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/analytical-writing-placement-exam-virtual-event</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/analytical-writing-placement-exam-virtual-event</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-ad-move-new-transfer-students</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-ad-move-continuing-students-end-2021</loc>
@@ -2830,28 +2824,28 @@
     <loc>https://studentsfirst.ucmerced.edu/events/summer-ad-move-continuing-students-2021</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/early-registration-fee-payment-deadline</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/deadline-pay-fees-summer-session-early-registration-fee-payment-deadline-2021</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/deadline-pay-fees-summer-session-early-registration-fee-payment-deadline-2021</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/early-registration-fee-payment-deadline</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/school-natural-science-engineering-commencement</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/spring-commencement-ceremonies</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/shaa-commencement</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/shaa-commencement</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/spring-commencement-ceremonies</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/spring-2021-semester-ends</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/deadline-visiting-students-apply-summer-ad-session</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/spring-2021-final-exams-0</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/spring-2021-final-exams-0</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/deadline-visiting-students-apply-summer-ad-session</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/new-first-year-major-change-form</loc>
@@ -2869,16 +2863,16 @@
     <loc>https://studentsfirst.ucmerced.edu/events/statement-legal-residenceslr-deadline-first-year-admits-fall-2021</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/statement-intent-register-sir-2021-priority-deadline</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/transfer-admission-guarantee-tag-application-spring-term</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-2021-session-billing-statement-enrolled-students-after-april</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/health-insurance-waiver-opens-fall-2021-0</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-2021-session-billing-statement-enrolled-students-after-april</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/statement-intent-register-sir-2021-priority-deadline</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/transfer-admission-guarantee-tag-application-spring-term</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/dpp-4th-payment-deadline-spring-2021</loc>
@@ -2896,13 +2890,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/summer-2021-session-billing-statement-enrolled-students</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/holiday-cesar-chavez-holiday-no-classes-admin-offices-closed-1</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/orientation-online</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-registration-opens-visiting-students</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/holiday-cesar-chavez-holiday-no-classes-admin-offices-closed-1</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/dpp-3rd-payment-deadline-spring-2021</loc>
@@ -2911,7 +2902,13 @@
     <loc>https://studentsfirst.ucmerced.edu/events/spring-2021-spring-recess-no-classes-admin-offices-open</loc>
   </url>
   <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-registration-opens-visiting-students</loc>
+  </url>
+  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/fall-2021-course-schedule-available</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/fafsa-cadaa-continuing-student-scholarship-deadline</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/continuing-student-scholarship-deadline</loc>
@@ -2923,19 +2920,16 @@
     <loc>https://studentsfirst.ucmerced.edu/events/start-here-fafsacadaa-app-crunch-all-day-workshop-10am-6pm</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/fafsa-cadaa-continuing-student-scholarship-deadline</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-financial-aid-application-opens</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/housing-application-opens-summer-fall-2021</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/dpp-2nd-payment-deadline-spring-2021</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-2021-registration-begins-continuing-student</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-2021-registration-begins-continuing-student</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/dpp-2nd-payment-deadline-spring-2021</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/holiday-presidents-day-holiday-no-classes-admin-offices-closed</loc>
@@ -2947,10 +2941,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/withdraw-course-instructor-and-dean-signature-spring-2021</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/spring-2021-last-day-adddrop-courses-4pm</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/last-day-add-class-instruction-signature-spring-2021</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/last-day-add-class-instruction-signature-spring-2021</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/spring-2021-last-day-adddrop-courses-4pm</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/transfer-academic-updatetau-deadline-fall-due</loc>
@@ -2965,10 +2959,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/last-day-add-classes-online-spring-2021</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/spring-2021-instruction-begins</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/immunization-requirements-due-health-center-spring-2020-new-admits</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/immunization-requirements-due-health-center-spring-2020-new-admits</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/spring-2021-instruction-begins</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/last-day-drop-all-classes-100-refund-spring-2021</loc>
@@ -3010,10 +3004,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/fall-2020-semester-ends</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/fall-2020-final-exams-0</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/online-course-registration-open-incoming-spring-2021-first-year-and-transfer-student</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/online-course-registration-open-incoming-spring-2021-first-year-and-transfer-student</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/fall-2020-final-exams-0</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/fall-2020-final-exams</loc>
@@ -3076,13 +3070,13 @@
     <loc>https://studentsfirst.ucmerced.edu/events/first-day-withdrawal-class-instruction-and-dean-signature-fall-2020</loc>
   </url>
   <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/last-day-drop-class-online-fall-2020</loc>
+  </url>
+  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/last-day-add-class-instructor-signature-fall-2020</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/fall-2020-last-day-adddrop-courses-1159pm</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/last-day-drop-class-online-fall-2020</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/holiday-labor-day-university-closed-no-classes-0</loc>
@@ -3103,19 +3097,16 @@
     <loc>https://studentsfirst.ucmerced.edu/events/start-hands-onin-personhybrid-course-instruction-group-b</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/start-hands-onin-personhybrid-course-instruction-group</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/immunization-proof-deadline</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/fall-2020-instruction-begins</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/immunization-proof-deadline</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/start-hands-onin-personhybrid-course-instruction-group</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/fall-2020-move</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/fall-2020-payment-deadline</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/fall-2020-semester-begins</loc>
@@ -3124,13 +3115,16 @@
     <loc>https://studentsfirst.ucmerced.edu/events/dpp-1st-payment-fall-2020</loc>
   </url>
   <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/fall-2020-payment-deadline</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/deadline-change-grading-option-sfc-summer-session-bc-d</loc>
+  </url>
+  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/fall-2020-online-book-reservation-closes</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-2020-sessions-b-c-d-end</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/deadline-change-grading-option-sfc-summer-session-bc-d</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/housing-assignments-completed-move-information-communicated</loc>
@@ -3160,10 +3154,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/new-student-orientation-2</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/final-fall-2020-schedule</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/communication-regarding-course-modifications-goes-out-students</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/communication-regarding-course-modifications-goes-out-students</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/final-fall-2020-schedule</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/last-date-submit-fall-2020-housing-needs-survey</loc>
@@ -3202,13 +3196,13 @@
     <loc>https://studentsfirst.ucmerced.edu/events/postmark-deadline-final-official-transcripts-all-fall-admits</loc>
   </url>
   <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/deadline-add-course-session-b-instructor-signature-sfc</loc>
+  </url>
+  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/new-student-spanish-orientation</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/deadline-drop-courses-online-session-b-100-refund</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/deadline-add-course-session-b-instructor-signature-sfc</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/preliminary-housing-assignments-available</loc>
@@ -3220,13 +3214,13 @@
     <loc>https://studentsfirst.ucmerced.edu/events/deadline-visiting-student-apply-online-session-c</loc>
   </url>
   <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/session-b-deadline-add-courses-online</loc>
+  </url>
+  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/first-new-student-orientation-session</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/fall-2020-online-textbooks-reservations-goes-live</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/session-b-deadline-add-courses-online</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/new-transfer-student-registration</loc>
@@ -3235,10 +3229,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/online-analytical-writing-placement-exam</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-bc-fee-payment-deadline-enrolled-after-may-19</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/ada-accommodation-request-priority</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/ada-accommodation-request-priority</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-bc-fee-payment-deadline-enrolled-after-may-19</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/chemistry-and-math-placement-exam-deadline</loc>
@@ -3250,6 +3244,9 @@
     <loc>https://studentsfirst.ucmerced.edu/events/deadline-visiting-students-apply-session-b</loc>
   </url>
   <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/deadline-add-course-instructor-signature-session-ad</loc>
+  </url>
+  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/deadline-transfers-join-llc</loc>
   </url>
   <url>
@@ -3259,16 +3256,25 @@
     <loc>https://studentsfirst.ucmerced.edu/events/roommate-selection-begins-freshman-and-transfer-students</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/deadline-add-course-instructor-signature-session-ad</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/deadline-take-math-chem-placement-exams</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/room-selection-opens-freshman-students</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/deadline-submit-statement-intent-register-sir-fall-2020-first-year-admits</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/deadline-cancel-housing-contract-without-300-fee</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/deadline-submit-housing-live-exemption</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/deadline-submit-statement-intent-register-sir-fall-2020-transfer-admits</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-bc-billing-post</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-bc-billing-post</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/deadline-submit-statement-intent-register-sir-fall-2020-transfer-admits</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/deadline-change-roommeal-plan-preferences</loc>
@@ -3280,22 +3286,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/health-insurance-waiver-fall-2020-opens</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/room-selection-opens-freshman-students</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/deadline-take-math-chem-placement-exams</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/deadline-cancel-housing-contract-without-300-fee</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/deadline-submit-statement-intent-register-sir-fall-2020-first-year-admits</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/holiday-memorial-day-no-classes-admin-offices-closed-0</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/holiday-memorial-day-no-classes-admin-offices-closed-1</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/holiday-memorial-day-no-classes-admin-offices-closed-0</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-fee-payment-deadline-0</loc>
@@ -3313,6 +3307,9 @@
     <loc>https://studentsfirst.ucmerced.edu/events/spring-2020-instruction-ends</loc>
   </url>
   <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-fee-payment-deadline-enrolled-after-april-1</loc>
+  </url>
+  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/room-selection-closes-continuing-students</loc>
   </url>
   <url>
@@ -3320,9 +3317,6 @@
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/deadline-apply-llc-new-freshman</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-fee-payment-deadline-enrolled-after-april-1</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/dpp-3rd-payment-spring-2020</loc>
@@ -3370,16 +3364,19 @@
     <loc>https://studentsfirst.ucmerced.edu/events/spring-2020-spring-recess-no-classes-admin-offices-open</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/deadline-select-llc-continuing-students</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/priority-housing-application-deadline-current-first-year-students</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/priority-housing-application-deadline-current-first-year-students</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/deadline-select-llc-continuing-students</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/mid-semester-grades-post</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/fall-2020-schedule-available</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/financial-aid-application-workshop-saac-219-1000-600</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-2020-financial-aid-application-opens-8am</loc>
@@ -3391,22 +3388,19 @@
     <loc>https://studentsfirst.ucmerced.edu/events/deadline-20202021-fafsa-priority-filing-deadline-httpsfafsaedgov</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/financial-aid-application-workshop-saac-219-1000-600</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/financial-aid-application-workshop-cob-113-900-1000</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/financial-aid-application-workshop-california-room-1100-100</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-2020-priority-registration-opens</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/study-abroad-iop-summer-2020-deadline</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/study-abroad-uc-summer-abroad-2020-deadline</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-2020-priority-registration-opens</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/dpp-2nd-payment-spring-2020</loc>
@@ -3418,10 +3412,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/holiday-presidents-day-no-classes-admin-offices-closed</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/spring-2020-last-day-add-instructor-signature-drop-classes-online-4pm</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/finanacial-aid-application-workshop-cob-113-1000-1100</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/finanacial-aid-application-workshop-cob-113-1000-1100</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/spring-2020-last-day-add-instructor-signature-drop-classes-online-4pm</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/financial-aid-application-workshop-granite-pass-135-315-415</loc>
@@ -3442,10 +3436,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/last-day-add-classes-online-spring-2020</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/immunization-requirements-due-health-center-spring-2020</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/spring-2020-instruction-begins</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/spring-2020-instruction-begins</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/immunization-requirements-due-health-center-spring-2020</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/holiday-martin-luther-king-jr-no-classes-admin-offices-closed-0</loc>
@@ -3457,10 +3451,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/new-student-orientation-spring-2020</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/residence-halls-open-new-student-move-starting-10-am</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/late-health-insurance-waiver-deadline-spring-2020</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/late-health-insurance-waiver-deadline-spring-2020</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/residence-halls-open-new-student-move-starting-10-am</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/payment-deadline-spring-2020</loc>
@@ -3478,19 +3472,19 @@
     <loc>https://studentsfirst.ucmerced.edu/events/spring-new-student-and-transfer-housing-application-deadline</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/official-test-scores-due-office-admissions-spring-2020</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/official-transcripts-postmarked-or-transmitted-office-admissions-spring-2020</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/official-transcripts-postmarked-or-transmitted-office-admissions-spring-2020</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/official-test-scores-due-office-admissions-spring-2020</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/deadline-submit-health-ins-waiver-spring-2020</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/deadline-register-new-student-orientation</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/fall-2020-transfer-students-admissions-deadline-apply</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/fall-2020-transfer-students-admissions-deadline-apply</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/deadline-register-new-student-orientation</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/holiday-new-years</loc>
@@ -3499,25 +3493,25 @@
     <loc>https://studentsfirst.ucmerced.edu/events/holiday-closed-winter-break</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/fall-2019-final-grades-due-noon</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/holds-late-fees-posted-student-accounts</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/holds-late-fees-posted-student-accounts</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/fall-2019-final-grades-due-noon</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/residence-halls-close-10-am-winter</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/fall-2019-semester-ends</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/fall-2020-first-year-students-admissions-deadline-apply</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/fall-2019-final-exams-0</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/fall-2019-semester-ends</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/spring-dpp-enrollment-opens</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/fall-2019-final-exams-0</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/fall-2019-final-exams</loc>
@@ -3550,13 +3544,13 @@
     <loc>https://studentsfirst.ucmerced.edu/events/math-chem-placement-exams-due-spring-2020-admits</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/spring-2020-registration-open-november-12-november-19</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/financial-aid-application-workshops-fafsa-cadaa-1215p-clssrm-116</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/health-insurance-waiver-opens-spring-2020</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/spring-2020-registration-open-november-12-november-19</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/holiday-veterans-day-no-classes-admin-offices-closed-0</loc>
@@ -3565,10 +3559,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/last-day-submit-statement-intent-register-sir</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/fall-2019-deadline-withdraw-class-w</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/financial-aid-application-workshops-fafsa-cadaa-6pm-kolligian-217</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/financial-aid-application-workshops-fafsa-cadaa-6pm-kolligian-217</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/fall-2019-deadline-withdraw-class-w</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/slr-deadline-spring-2020-admits</loc>
@@ -3613,10 +3607,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/holiday-labor-day-university-closed-no-classes</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/immunization-requirements-due-health-center-fall-2019</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/fall-2019-instruction-begins</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/fall-2019-instruction-begins</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/immunization-requirements-due-health-center-fall-2019</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/housing-move-day-first-year-students-transfer-students</loc>
@@ -3637,16 +3631,16 @@
     <loc>https://studentsfirst.ucmerced.edu/events/summer-grades-due-noon</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-2019-session-c-ends-august-16</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-2019-session-d-ends-august-16</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/online-textbook-reservations-closes-fall-2019</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-2019-session-b-ends-august-16</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-2019-session-c-ends-august-16</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-2019-session-d-ends-august-16</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/housing-continuing-students-housing-will-begin-sending-your-final-assignment-details-and-move</loc>
@@ -3661,13 +3655,13 @@
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-c-deadline-withdraw-course-and-receive-w-no-refund-4-pm</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/fall-2019-bills-posted</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/fall-2019-deferred-payment-plan-dpp-opens</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/deadline-submit-health-insurance-waiver-fall-2019</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/fall-2019-bills-posted</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/orientation-4</loc>
@@ -3700,13 +3694,13 @@
     <loc>https://studentsfirst.ucmerced.edu/events/final-test-scores-due-office-admissions-fall-2019-admits</loc>
   </url>
   <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-2019-financial-aid-application-closes</loc>
+  </url>
+  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-c-deadline-drop-individual-courses-online-100-percent-refund-may-not-drop-last</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/orientation-0</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-2019-financial-aid-application-closes</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/orientation</loc>
@@ -3739,6 +3733,12 @@
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-b-deadline-drop-individual-courses-online-100-percent-refund-may-not-drop-last</loc>
   </url>
   <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/new-student-registration-fall-2019-students-june-24-june-28</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-deadline-withdraw-course-and-receive-w-no-refund-4pm</loc>
+  </url>
+  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-c-application-deadline-visiting-students</loc>
   </url>
   <url>
@@ -3746,12 +3746,6 @@
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/online-textbook-reservations-open-fall-2019</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/new-student-registration-fall-2019-students-june-24-june-28</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-deadline-withdraw-course-and-receive-w-no-refund-4pm</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-b-deadline-add-courses-online-myregistration-%E2%80%94-no-permission-required</loc>
@@ -3772,6 +3766,9 @@
     <loc>https://studentsfirst.ucmerced.edu/events/orientation-registration-deadline-0</loc>
   </url>
   <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-deadline-change-grading-option-sfc-4pm</loc>
+  </url>
+  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-d-deadline-change-grading-option-sfc-4pm</loc>
   </url>
   <url>
@@ -3784,13 +3781,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-d-deadline-adddrop-course-winstructor-signature-no-refund-4pm</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-deadline-change-grading-option-sfc-4pm</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/statement-legal-residence-slr-due-transfer-admits-fall-2019</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/housing-transfer-student-priority-deadline-apply</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/statement-legal-residence-slr-due-transfer-admits-fall-2019</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-deadline-drop-individual-courses-online-100-refund-may-not-drop-last-class</loc>
@@ -3800,6 +3794,15 @@
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/housing-first-year-student-roommate-selection-begins</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-deadline-drop-courses-100-refund-3pm</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/financial-aid-document-deadline</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-d-deadline-drop-courses-100-refund-3pm</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/housing-deadline-submit-campus-housing-preferences-or-request-housing-requirement-exemption</loc>
@@ -3817,22 +3820,16 @@
     <loc>https://studentsfirst.ucmerced.edu/events/slr-document-deadline-frosh</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-deadline-drop-courses-100-refund-3pm</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-d-deadline-drop-courses-100-refund-3pm</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/financial-aid-document-deadline</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/math-chemistry-placement-exams-due-fall-2019-admits</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-2019-session-may-28-july-5</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-2019-session-d-may-28-august-16</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-2019-session-may-28-july-5</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-d-last-day-add-courses-online-no-permission-required</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-last-day-add-courses-online-no-permission-required</loc>
@@ -3841,13 +3838,13 @@
     <loc>https://studentsfirst.ucmerced.edu/events/holiday-memorial-day-no-classes-admin-offices-closed</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-d-last-day-add-courses-online-no-permission-required</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-deadline-withdraw-all-your-summer-session-courses-online</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-late-fees-posted-accounts-holds-placed</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/spring-2019-final-grades-due-noon</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-priority-payment-deadline-summer-session</loc>
@@ -3856,25 +3853,22 @@
     <loc>https://studentsfirst.ucmerced.edu/events/staff-appreciation-week</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/spring-2019-final-grades-due-noon</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/spring-2019-commencement-school-social-sciences-humanities-arts</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/spring-2019-commencement-school-natural-sciences-school-engineering</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/housing-spring-2019-move-out</loc>
   </url>
   <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/spring-2019-commencement-school-natural-sciences-school-engineering</loc>
+  </url>
+  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/spring-2019-semester-ends</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-d-application-deadline-visiting-students</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-application-deadline-visiting-students</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-application-deadline-visiting-students</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-d-application-deadline-visiting-students</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/spring-2019-final-exams-0</loc>
@@ -3901,13 +3895,13 @@
     <loc>https://studentsfirst.ucmerced.edu/events/statement-legal-residence-slr-due-frosh-admits-fall-2019</loc>
   </url>
   <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/housing-deadline-sign-housing-contract-continuing-students-if-you-do-not-sign-your-contract</loc>
+  </url>
+  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/health-waiver-opens-fall-2019</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/statement-intent-register-sir-priority-deadline-first-year-students</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/housing-deadline-sign-housing-contract-continuing-students-if-you-do-not-sign-your-contract</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/spring-2019-4thlast-deferred-payment-plan-dpp-payment-due-today</loc>
@@ -3949,10 +3943,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/spring-2019-3rd-deferred-payment-plan-dpp-payment-due-today</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/housing-application-opens-noon-continuing-students-0</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/fall-2019-time-tickets-available</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/fall-2019-time-tickets-available</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/housing-application-opens-noon-continuing-students-0</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/housing-application-opens-noon-continuing-students</loc>
@@ -4003,16 +3997,19 @@
     <loc>https://studentsfirst.ucmerced.edu/events/holiday-presidents-day-no-classes-admin-office-closed-0</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/graduation-application-summer-2019-students-wanting-participate-spring-2019-commencement</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/graduation-application-deadline-spring-2019</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/graduation-application-deadline-spring-2019</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/graduation-application-summer-2019-students-wanting-participate-spring-2019-commencement</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/financial-aid-workshop-fafsa-cada-continuing-student-scholarship-11am-12pm-click-more-info</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/verify-you-are-registered-least-12-units-4pm-today</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/financial-aid-workshop-fafsa-cada-continuing-student-scholarship-2pm-3pm-click-more-info</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/spring-2019-census-day</loc>
@@ -4022,9 +4019,6 @@
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/last-day-drop-online-4pm</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/financial-aid-workshop-fafsa-cada-continuing-student-scholarship-2pm-3pm-click-more-info</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/financial-aid-workshop-fafsa-cada-continuing-student-scholarship-9am-10am-click-more-info</loc>
@@ -4126,10 +4120,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/ns-placement-exams-due-new-spring-2019-students</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/spring-2019-health-insurance-waiver-opens-closes-january-8-2019</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/holiday-veterans-day-no-instruction-admin-offices-closed</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/holiday-veterans-day-no-instruction-admin-offices-closed</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/spring-2019-health-insurance-waiver-opens-closes-january-8-2019</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/spring-2019-registration-open</loc>
@@ -4201,16 +4195,16 @@
     <loc>https://studentsfirst.ucmerced.edu/events/online-text-book-reservation-closes-fall-2018</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/fall-2018-semester-begins-0</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/fall-2018-fee-payment-deadline</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/housing-summer-session-b-c-d-move-out-10am</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/deferred-payment-plan-dpp-1st-payment-due</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/fall-2018-semester-begins-0</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/fall-2018-fee-payment-deadline</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/session-b-session-c-textbook-rental-returns-buyback-deadline</loc>
@@ -4258,10 +4252,16 @@
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-c-deadline-change-grading-option-students-first-center</loc>
   </url>
   <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/housing-initial-room-assignments-sent-incoming-frosh-transfers</loc>
+  </url>
+  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/official-test-scores-due-fall-2018-students</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/housing-initial-room-assignments-sent-incoming-frosh-transfers</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/orientation-transfer-student</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-2018-deadline-withdraw-course-session-d-receive-w-no-refund</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-c-deadline-adddrop-course-instructor-signature-no-refund</loc>
@@ -4270,22 +4270,16 @@
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-b-deadline-withdraw-course-receive-w-no-refund</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-2018-deadline-withdraw-course-session-d-receive-w-no-refund</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/orientation-transfer-student</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/orientation-new-student-2</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/orientation-new-student-1</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-c-deadline-drop-courses-100-refund-4pm</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-c-last-day-reserve-textbooks-purchase-inclusive-access</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-c-last-day-reserve-textbooks-purchase-inclusive-access</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-c-deadline-drop-courses-100-refund-4pm</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/orientation-new-student-0</loc>
@@ -4318,16 +4312,16 @@
     <loc>https://studentsfirst.ucmerced.edu/events/housing-session-move-out-day-10am</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-b-deadline-adddrop-course-instructor-signature-no-refund</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-b-deadline-change-grading-option-sfc</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-2018-last-day-return-session-rentals-buyback</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-2018-session-ends-first-six-week-session-may-21-june-29-2018</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-2018-last-day-return-session-rentals-buyback</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-b-deadline-adddrop-course-instructor-signature-no-refund</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-session-b-deadline-change-grading-option-sfc</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/new-student-orientation-0</loc>
@@ -4336,10 +4330,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/housing-session-c-application-deadline-1159pm</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/new-student-orientation</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/online-textbook-reservation-opens-fall-2018</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/online-textbook-reservation-opens-fall-2018</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/new-student-orientation</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/last-day-reserve-session-b-textbooks-and-purchase-inclusive-access</loc>
@@ -4351,16 +4345,10 @@
     <loc>https://studentsfirst.ucmerced.edu/events/bookstore-drop-slips-sfc-required-return-text-book-summer-session-b</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/last-day-return-summer-session-b-textbooks-receipt</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/new-student-fall-2018-registration-time-ticket</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-2018-session-b-courses-begin</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-2018-session-d-deadline-withdraw-course-receive-w-no-refund</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/last-day-return-summer-session-b-textbooks-receipt</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-2018-deadline-visiting-student-apply-summer-session-c</loc>
@@ -4369,10 +4357,16 @@
     <loc>https://studentsfirst.ucmerced.edu/events/summer-2018-session-b-begins-8-week-session-june-18-august-10-2018</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/housing-session-b-year-round-move-10am</loc>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-2018-session-b-courses-begin</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-2018-session-d-deadline-withdraw-course-receive-w-no-refund</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-session-b-deadline-add-courses-online-myregistration-no-permissions-required</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/housing-session-b-year-round-move-10am</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/statement-legal-residence-slr-deadline</loc>
@@ -4387,13 +4381,13 @@
     <loc>https://studentsfirst.ucmerced.edu/events/housing-priority-deadline-housing-application-transfer-students</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/summer-2018-deadline-visiting-student-apply-summer-session-b</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-2018-session-d-deadline-adddrop-course-instructor-signature-no-refund</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/summer-2018-session-ad-deadline-change-grading-option-sfc</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/summer-2018-deadline-visiting-student-apply-summer-session-b</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/financial-aid-priority-document-deadline-fall-2018-verification</loc>
@@ -4525,13 +4519,13 @@
     <loc>https://studentsfirst.ucmerced.edu/events/spring-2018-semester-begins</loc>
   </url>
   <url>
+    <loc>https://studentsfirst.ucmerced.edu/events/housing-deadline-sign-housing-contract-today</loc>
+  </url>
+  <url>
     <loc>https://studentsfirst.ucmerced.edu/events/health-services-health-insurance-waiver-spring-2018-deadline</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/housing-move-and-assignment-details-sent-out-week-january-8-2018</loc>
-  </url>
-  <url>
-    <loc>https://studentsfirst.ucmerced.edu/events/housing-deadline-sign-housing-contract-today</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/events/housing-application-deadline-due-today</loc>
@@ -4624,6 +4618,12 @@
     <loc>https://studentsfirst.ucmerced.edu/events/fafsa-opens-2018-2019-academic-year</loc>
   </url>
   <url>
+    <loc>https://studentsfirst.ucmerced.edu/contact-us-0</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/datesdeadlines</loc>
+  </url>
+  <url>
     <loc>https://studentsfirst.ucmerced.edu/node/59</loc>
   </url>
   <url>
@@ -4675,10 +4675,10 @@
     <loc>https://studentsfirst.ucmerced.edu/content/david-lee-hernandez</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/content/isaac-sanchez</loc>
+    <loc>https://studentsfirst.ucmerced.edu/content/Isaac-Munoz</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/content/Isaac-Munoz</loc>
+    <loc>https://studentsfirst.ucmerced.edu/content/isaac-sanchez</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/content/jonathan-lopez-hernandez</loc>
@@ -4714,9 +4714,6 @@
     <loc>https://studentsfirst.ucmerced.edu/socialmedia</loc>
   </url>
   <url>
-    <loc>https://studentsfirst.ucmerced.edu/form/feedback-form-0</loc>
-  </url>
-  <url>
     <loc>https://studentsfirst.ucmerced.edu/event-type/fee-payment-deadlines</loc>
   </url>
   <url>
@@ -4742,6 +4739,9 @@
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/event-type/other</loc>
+  </url>
+  <url>
+    <loc>https://studentsfirst.ucmerced.edu/form/feedback-form-0</loc>
   </url>
   <url>
     <loc>https://studentsfirst.ucmerced.edu/staff-or-student/staff</loc>

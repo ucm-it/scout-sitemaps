@@ -7,9 +7,6 @@
     <loc>https://healthpromotion.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://healthpromotion.ucmerced.edu/about-us</loc>
-  </url>
-  <url>
     <loc>https://healthpromotion.ucmerced.edu/programs-and-services</loc>
   </url>
   <url>
@@ -28,10 +25,7 @@
     <loc>https://healthpromotion.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://healthpromotion.ucmerced.edu/who-we-are</loc>
-  </url>
-  <url>
-    <loc>https://healthpromotion.ucmerced.edu/what-we-do</loc>
+    <loc>https://healthpromotion.ucmerced.edu/about-us</loc>
   </url>
   <url>
     <loc>https://healthpromotion.ucmerced.edu/wellness-supplies</loc>
@@ -73,6 +67,18 @@
     <loc>https://healthpromotion.ucmerced.edu/node/111</loc>
   </url>
   <url>
+    <loc>https://healthpromotion.ucmerced.edu/who-we-are</loc>
+  </url>
+  <url>
+    <loc>https://healthpromotion.ucmerced.edu/what-we-do</loc>
+  </url>
+  <url>
+    <loc>https://healthpromotion.ucmerced.edu/node/106</loc>
+  </url>
+  <url>
+    <loc>https://healthpromotion.ucmerced.edu/form/request-workshop</loc>
+  </url>
+  <url>
     <loc>https://healthpromotion.ucmerced.edu/content/kristin-hlubik</loc>
   </url>
   <url>
@@ -83,11 +89,5 @@
   </url>
   <url>
     <loc>https://healthpromotion.ucmerced.edu/flyer</loc>
-  </url>
-  <url>
-    <loc>https://healthpromotion.ucmerced.edu/node/106</loc>
-  </url>
-  <url>
-    <loc>https://healthpromotion.ucmerced.edu/form/request-workshop</loc>
   </url>
 </urlset>

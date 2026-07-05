@@ -16,9 +16,6 @@
     <loc>https://finance.ucmerced.edu/about-us/office-hours</loc>
   </url>
   <url>
-    <loc>https://finance.ucmerced.edu/campus-budget</loc>
-  </url>
-  <url>
     <loc>https://finance.ucmerced.edu/budget-call</loc>
   </url>
   <url>
@@ -74,6 +71,9 @@
   </url>
   <url>
     <loc>https://finance.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://finance.ucmerced.edu/campus-budget</loc>
   </url>
   <url>
     <loc>https://finance.ucmerced.edu/news/2025/budget-request-guidelines</loc>

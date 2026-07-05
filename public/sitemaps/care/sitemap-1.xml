@@ -13,9 +13,6 @@
     <loc>https://care.ucmerced.edu/people</loc>
   </url>
   <url>
-    <loc>https://care.ucmerced.edu/about-us/care-advisory-board-ccrt</loc>
-  </url>
-  <url>
     <loc>https://care.ucmerced.edu/support-services</loc>
   </url>
   <url>
@@ -131,6 +128,9 @@
   </url>
   <url>
     <loc>https://care.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://care.ucmerced.edu/about-us/care-advisory-board-ccrt</loc>
   </url>
   <url>
     <loc>https://care.ucmerced.edu/content/simone-gonclaves-sheher</loc>

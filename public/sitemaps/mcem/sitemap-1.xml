@@ -10,9 +10,6 @@
     <loc>https://mcem.ucmerced.edu/project-requests</loc>
   </url>
   <url>
-    <loc>https://mcem.ucmerced.edu/media-cats-work</loc>
-  </url>
-  <url>
     <loc>https://mcem.ucmerced.edu/mediacats-team</loc>
   </url>
   <url>
@@ -20,5 +17,8 @@
   </url>
   <url>
     <loc>https://mcem.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://mcem.ucmerced.edu/media-cats-work</loc>
   </url>
 </urlset>

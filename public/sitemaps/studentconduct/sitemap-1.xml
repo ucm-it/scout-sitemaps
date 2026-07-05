@@ -28,9 +28,6 @@
     <loc>https://studentconduct.ucmerced.edu/student-conduct/student-conduct-process</loc>
   </url>
   <url>
-    <loc>https://studentconduct.ucmerced.edu/student-conduct/student-rights-responsibilities</loc>
-  </url>
-  <url>
     <loc>https://studentconduct.ucmerced.edu/student-conduct/ucm-code-student-conduct</loc>
   </url>
   <url>
@@ -65,6 +62,9 @@
   </url>
   <url>
     <loc>https://studentconduct.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://studentconduct.ucmerced.edu/student-conduct/student-rights-responsibilities</loc>
   </url>
   <url>
     <loc>https://studentconduct.ucmerced.edu/content/destiny-bower</loc>

@@ -7,9 +7,6 @@
     <loc>https://learning.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://learning.ucmerced.edu/about-us/staff</loc>
-  </url>
-  <url>
     <loc>https://learning.ucmerced.edu/about-us/contact-us</loc>
   </url>
   <url>
@@ -38,6 +35,9 @@
   </url>
   <url>
     <loc>https://learning.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://learning.ucmerced.edu/about-us/staff</loc>
   </url>
   <url>
     <loc>https://learning.ucmerced.edu/sites/g/files/ufvvjh2401/f/documents/gateway_overview.pdf</loc>

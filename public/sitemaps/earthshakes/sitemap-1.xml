@@ -16,9 +16,6 @@
     <loc>https://earthshakes.ucmerced.edu/about/how-join</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/members-organizations-and-individuals</loc>
-  </url>
-  <url>
     <loc>https://earthshakes.ucmerced.edu/members-organizations-and-individuals/north-america</loc>
   </url>
   <url>
@@ -83,6 +80,9 @@
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://earthshakes.ucmerced.edu/members-organizations-and-individuals</loc>
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/node/24</loc>

@@ -13,9 +13,6 @@
     <loc>https://policies.ucmerced.edu/policies-under-review</loc>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/recently-issued-policies</loc>
-  </url>
-  <url>
     <loc>https://policies.ucmerced.edu/Academic_Affairs</loc>
   </url>
   <url>
@@ -79,6 +76,9 @@
     <loc>https://policies.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://policies.ucmerced.edu/recently-issued-policies</loc>
+  </url>
+  <url>
     <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/alpr_info_systems.pdf</loc>
   </url>
   <url>
@@ -115,30 +115,6 @@
     <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/interim_ucm_policy_micromobility_escooter_ebike.pdf</loc>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/ucm_procedure_communicable_diseases_cep.pdf</loc>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/ucm_policy_micromobility_escooter_ebike.pdf</loc>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/ucm_policy_consensual_relationships.pdf</loc>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/guidelines_for_use_of_campus_announcements.pdf</loc>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/uc_policy_-_research_misconduct_final_03-19-2026.pdf</loc>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/high-containment_research-policy_2026.03.11_a.pdf</loc>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/g-28_travel_regulations_clean_version_1-26-26.pdf</loc>
-  </url>
-  <url>
-    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/ppsm-2.210_ab_406_edits_pac_clean_12-12-25.pdf</loc>
-  </url>
-  <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/ucm_procedure_abusive_conduct_in_the_workplace.pdf</loc>
   </url>
   <url>
@@ -172,6 +148,9 @@
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/final_policy_on_naming_uc_merced_properties_and_facilities.pdf</loc>
   </url>
   <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/guidelines_for_use_of_campus_announcements.pdf</loc>
+  </url>
+  <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/ucm_guidelines_statements_not_involving_ucm.pdf</loc>
   </url>
   <url>
@@ -185,6 +164,9 @@
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/tsm_april_2025.pdf</loc>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/ucm_policy_consensual_relationships.pdf</loc>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/response_protocol_to_death_of_ucm_community_member.pdf</loc>
@@ -220,6 +202,9 @@
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/canra_procedures.pdf</loc>
   </url>
   <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/ucm_policy_micromobility_escooter_ebike.pdf</loc>
+  </url>
+  <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/daapp_notification_and_review_procedure.pdf</loc>
   </url>
   <url>
@@ -227,6 +212,9 @@
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/uc_merced_procedure_communicable_diseases_ecec.pdf</loc>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/ucm_procedure_communicable_diseases_cep.pdf</loc>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/sites/policies.ucmerced.edu/files/documents/policies/ucm_police_accountability_board_procedures.pdf</loc>
@@ -569,6 +557,18 @@
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/form/policy-initiation-form</loc>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/uc_policy_-_research_misconduct_final_03-19-2026.pdf</loc>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/high-containment_research-policy_2026.03.11_a.pdf</loc>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/g-28_travel_regulations_clean_version_1-26-26.pdf</loc>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/UC/ppsm-2.210_ab_406_edits_pac_clean_12-12-25.pdf</loc>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/acsf-openid-factory/login?destination=node/236</loc>

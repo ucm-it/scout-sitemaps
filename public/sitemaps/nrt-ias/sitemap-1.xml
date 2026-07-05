@@ -7,9 +7,6 @@
     <loc>https://nrt-ias.ucmerced.edu/about-us</loc>
   </url>
   <url>
-    <loc>https://nrt-ias.ucmerced.edu/faculty</loc>
-  </url>
-  <url>
     <loc>https://nrt-ias.ucmerced.edu/cohort-1</loc>
   </url>
   <url>
@@ -52,79 +49,7 @@
     <loc>https://nrt-ias.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/%E2%80%8Bramesh-balasubramaniam</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/%E2%80%8Bchris-%E2%80%8B-kello</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/stefano-carpin</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/suzanne-sindi</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/dave-ardell</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/harish-bhat</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/marcelo-kallmann</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/%E2%80%8Bmiguel-carreira-perpi%C3%B1%C3%A1n</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/paul-maglio</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/michael-spivey</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/ajay-gopinathan</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/yangquan-chen</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/alberto-cerpa</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/%E2%80%8Brick-dale</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/emilia-huerta-sanchez</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/%E2%80%8Bshilpa-khatri</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/%E2%80%8Barnold-kim</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/teenie-matlock</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/%E2%80%8B%E2%80%8Bemily-jane-mctavish</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/florin-rusu</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/stephanie-shih</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/paul-smaldino</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/%E2%80%8Bfred-wolf-qsb</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/jeff-yoshimi-philosophycis</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/david-noelle</loc>
+    <loc>https://nrt-ias.ucmerced.edu/faculty</loc>
   </url>
   <url>
     <loc>https://nrt-ias.ucmerced.edu/content/jordan-ackerman</loc>
@@ -236,5 +161,80 @@
   </url>
   <url>
     <loc>https://nrt-ias.ucmerced.edu/content/brian-wang</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/%E2%80%8Bramesh-balasubramaniam</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/%E2%80%8Bchris-%E2%80%8B-kello</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/stefano-carpin</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/suzanne-sindi</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/dave-ardell</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/harish-bhat</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/marcelo-kallmann</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/%E2%80%8Bmiguel-carreira-perpi%C3%B1%C3%A1n</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/paul-maglio</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/michael-spivey</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/ajay-gopinathan</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/yangquan-chen</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/alberto-cerpa</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/%E2%80%8Brick-dale</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/emilia-huerta-sanchez</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/%E2%80%8Bshilpa-khatri</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/%E2%80%8Barnold-kim</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/teenie-matlock</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/%E2%80%8B%E2%80%8Bemily-jane-mctavish</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/florin-rusu</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/stephanie-shih</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/paul-smaldino</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/%E2%80%8Bfred-wolf-qsb</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/jeff-yoshimi-philosophycis</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/david-noelle</loc>
   </url>
 </urlset>

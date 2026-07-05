@@ -19,9 +19,6 @@
     <loc>https://placement.ucmerced.edu/chem-placement-exam/frequently-asked-questions</loc>
   </url>
   <url>
-    <loc>https://placement.ucmerced.edu/cse-placement-exam</loc>
-  </url>
-  <url>
     <loc>https://placement.ucmerced.edu/cse-placement-exam/cse-about</loc>
   </url>
   <url>
@@ -59,5 +56,8 @@
   </url>
   <url>
     <loc>https://placement.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://placement.ucmerced.edu/cse-placement-exam</loc>
   </url>
 </urlset>

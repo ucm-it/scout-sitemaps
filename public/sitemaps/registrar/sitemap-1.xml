@@ -25,9 +25,6 @@
     <loc>https://registrar.ucmerced.edu/policies/drop-non-payment</loc>
   </url>
   <url>
-    <loc>https://registrar.ucmerced.edu/policies/enrollment-and-registration</loc>
-  </url>
-  <url>
     <loc>https://registrar.ucmerced.edu/schedules/exams</loc>
   </url>
   <url>
@@ -223,6 +220,9 @@
     <loc>https://registrar.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://registrar.ucmerced.edu/policies/enrollment-and-registration</loc>
+  </url>
+  <url>
     <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/name_change.pdf</loc>
   </url>
   <url>
@@ -230,9 +230,6 @@
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/dnp_philosophy.pdf</loc>
-  </url>
-  <url>
-    <loc>https://registrar.ucmerced.edu/PriorityRegistration</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/content/ferpa-quiz</loc>
@@ -674,6 +671,9 @@
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/orgchart_3.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/PriorityRegistration</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/users/ewebb2</loc>

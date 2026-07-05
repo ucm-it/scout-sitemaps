@@ -10,9 +10,6 @@
     <loc>https://mathcenter.ucmerced.edu/math</loc>
   </url>
   <url>
-    <loc>https://mathcenter.ucmerced.edu/computer-science</loc>
-  </url>
-  <url>
     <loc>https://mathcenter.ucmerced.edu/engineering</loc>
   </url>
   <url>
@@ -32,5 +29,8 @@
   </url>
   <url>
     <loc>https://mathcenter.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://mathcenter.ucmerced.edu/computer-science</loc>
   </url>
 </urlset>

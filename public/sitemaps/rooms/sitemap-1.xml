@@ -28,9 +28,6 @@
     <loc>https://rooms.ucmerced.edu/resources/room-approver-exception-form</loc>
   </url>
   <url>
-    <loc>https://rooms.ucmerced.edu/feature_descriptions</loc>
-  </url>
-  <url>
     <loc>https://rooms.ucmerced.edu/setup_types</loc>
   </url>
   <url>
@@ -38,6 +35,9 @@
   </url>
   <url>
     <loc>https://rooms.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://rooms.ucmerced.edu/feature_descriptions</loc>
   </url>
   <url>
     <loc>https://rooms.ucmerced.edu/training-support/resolve-bookings-conflict-status-web-app</loc>

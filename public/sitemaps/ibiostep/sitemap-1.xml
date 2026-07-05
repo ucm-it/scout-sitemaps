@@ -7,9 +7,6 @@
     <loc>https://ibiostep.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://ibiostep.ucmerced.edu/about</loc>
-  </url>
-  <url>
     <loc>https://ibiostep.ucmerced.edu/about/research-areas</loc>
   </url>
   <url>
@@ -47,6 +44,9 @@
   </url>
   <url>
     <loc>https://ibiostep.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://ibiostep.ucmerced.edu/about</loc>
   </url>
   <url>
     <loc>https://ibiostep.ucmerced.edu/content/ajay-gopinathan</loc>
@@ -529,10 +529,10 @@
     <loc>https://ibiostep.ucmerced.edu/news/2025/graduate-student-earns-fellowship-study-fusion-livermore-lab</loc>
   </url>
   <url>
-    <loc>https://ibiostep.ucmerced.edu/news/2025/pew-celebrates-40-years-support-innovative-biomedical-research</loc>
+    <loc>https://ibiostep.ucmerced.edu/news/2025/wilson-among-year%E2%80%99s-aaas-fellows-recognized-science-and-outreach</loc>
   </url>
   <url>
-    <loc>https://ibiostep.ucmerced.edu/news/2025/wilson-among-year%E2%80%99s-aaas-fellows-recognized-science-and-outreach</loc>
+    <loc>https://ibiostep.ucmerced.edu/news/2025/pew-celebrates-40-years-support-innovative-biomedical-research</loc>
   </url>
   <url>
     <loc>https://ibiostep.ucmerced.edu/news/2025/research-team-focuses-next-generations-scientists</loc>
@@ -949,16 +949,16 @@
     <loc>https://ibiostep.ucmerced.edu/news/2022/dod-fellowship-helps-grad-student-advance-machine-learning-research</loc>
   </url>
   <url>
-    <loc>https://ibiostep.ucmerced.edu/news/2022/%E2%80%98molecular-lego%E2%80%99-study-analyzes-building-blocks-partially-disordered-protein</loc>
-  </url>
-  <url>
     <loc>https://ibiostep.ucmerced.edu/news/2022/mucus-molecules-can-thwart-fungal-infection-researchers-discover</loc>
   </url>
   <url>
-    <loc>https://ibiostep.ucmerced.edu/news/2022/bioengineer-invited-join-nih-review-board</loc>
+    <loc>https://ibiostep.ucmerced.edu/news/2022/%E2%80%98molecular-lego%E2%80%99-study-analyzes-building-blocks-partially-disordered-protein</loc>
   </url>
   <url>
     <loc>https://ibiostep.ucmerced.edu/news/2022/lab-aims-understand-transporter-protein-protects-cells-damage</loc>
+  </url>
+  <url>
+    <loc>https://ibiostep.ucmerced.edu/news/2022/bioengineer-invited-join-nih-review-board</loc>
   </url>
   <url>
     <loc>https://ibiostep.ucmerced.edu/taxonomy/term/1471/feed</loc>

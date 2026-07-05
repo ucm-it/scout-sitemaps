@@ -10,12 +10,6 @@
     <loc>https://cacsw.ucmerced.edu/about-us-0</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/people</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/history</loc>
-  </url>
-  <url>
     <loc>https://cacsw.ucmerced.edu/sites/cacsw.ucmerced.edu/files/documents/cacsw_charter_2023_final.pdf</loc>
   </url>
   <url>
@@ -112,43 +106,10 @@
     <loc>https://cacsw.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/content/estee-beck</loc>
+    <loc>https://cacsw.ucmerced.edu/people</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/content/pamelyn-gingold</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/content/vanessa-hauser</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/content/elizabeth-salmon</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/content/saima-aktar-sumaiya</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/content/danielle-waite</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/content/pam-moody</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/content/ailyn-palancares</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/content/vacant-position</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/content/vacant-position-0</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/content/joan-rich</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/content/rubi-turner</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/content/valara-villanueva</loc>
+    <loc>https://cacsw.ucmerced.edu/history</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/events/womxn-spotlight</loc>
@@ -214,10 +175,43 @@
     <loc>https://cacsw.ucmerced.edu/media-contact/alyssa-johansen</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/cacsw-position/general-membership</loc>
+    <loc>https://cacsw.ucmerced.edu/content/estee-beck</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/cacsw-position/appointed-officers</loc>
+    <loc>https://cacsw.ucmerced.edu/content/pamelyn-gingold</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/content/vanessa-hauser</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/content/elizabeth-salmon</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/content/saima-aktar-sumaiya</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/content/danielle-waite</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/content/pam-moody</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/content/ailyn-palancares</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/content/vacant-position</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/content/vacant-position-0</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/content/joan-rich</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/content/rubi-turner</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/content/valara-villanueva</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/sites/cacsw.ucmerced.edu/files/event/documents/ht_janfilm_final.pdf</loc>
@@ -293,6 +287,12 @@
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/taxonomy/term/1351/feed</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/cacsw-position/general-membership</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/cacsw-position/appointed-officers</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/taxonomy/term/18/feed</loc>

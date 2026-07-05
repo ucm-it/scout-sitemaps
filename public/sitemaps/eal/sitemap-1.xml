@@ -19,9 +19,6 @@
     <loc>https://eal.ucmerced.edu/instruments/icp-ms</loc>
   </url>
   <url>
-    <loc>https://eal.ucmerced.edu/instrumentation/icp-oes</loc>
-  </url>
-  <url>
     <loc>https://eal.ucmerced.edu/instruments/gfaa</loc>
   </url>
   <url>
@@ -62,6 +59,9 @@
   </url>
   <url>
     <loc>https://eal.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://eal.ucmerced.edu/instrumentation/icp-oes</loc>
   </url>
   <url>
     <loc>https://eal.ucmerced.edu/sites/eal.ucmerced.edu/files/page/documents/record_of_initial_safety_training.pdf</loc>

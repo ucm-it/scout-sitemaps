@@ -22,9 +22,6 @@
     <loc>https://bfs.ucmerced.edu/our-services/accounts-payable-tax-payment-services</loc>
   </url>
   <url>
-    <loc>https://bfs.ucmerced.edu/our-services/financial-accounting-services</loc>
-  </url>
-  <url>
     <loc>https://bfs.ucmerced.edu/gift</loc>
   </url>
   <url>
@@ -47,6 +44,9 @@
   </url>
   <url>
     <loc>https://bfs.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://bfs.ucmerced.edu/our-services/financial-accounting-services</loc>
   </url>
   <url>
     <loc>https://bfs.ucmerced.edu/payroll-services</loc>
@@ -131,33 +131,6 @@
   </url>
   <url>
     <loc>https://bfs.ucmerced.edu/our-services/accounts-payable-tax-payment-services/payment-services/gift-card-purchases-and</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/our-services/financial-accounting-services/office-hours-training</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/our-services/financial-accounting-services/helpful-resources</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/news/2023/collaborating-success-fas-begins-monthly-information-sessions</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/departments/general-accounting/roles-responsibilities</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/our-services/financial-accounting-services/general-accounting/fy26-year-end-close-deadlines</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/our-services/financial-accounting-services/general-accounting/monthly-close-schedules</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/our-services/financial-accounting-services/general-accounting/annual-financial-reports</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/departments/general-accounting/plant-accounting</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/our-services/financial-accounting-services/gifts-endowments-accounting</loc>
   </url>
   <url>
     <loc>https://bfs.ucmerced.edu/news/2026/jan-2026-status-update-gift-and-endowment-clean-initiative</loc>
@@ -277,6 +250,33 @@
     <loc>https://bfs.ucmerced.edu/news/tax-services</loc>
   </url>
   <url>
+    <loc>https://bfs.ucmerced.edu/our-services/financial-accounting-services/office-hours-training</loc>
+  </url>
+  <url>
+    <loc>https://bfs.ucmerced.edu/our-services/financial-accounting-services/helpful-resources</loc>
+  </url>
+  <url>
+    <loc>https://bfs.ucmerced.edu/news/2023/collaborating-success-fas-begins-monthly-information-sessions</loc>
+  </url>
+  <url>
+    <loc>https://bfs.ucmerced.edu/departments/general-accounting/roles-responsibilities</loc>
+  </url>
+  <url>
+    <loc>https://bfs.ucmerced.edu/our-services/financial-accounting-services/general-accounting/fy26-year-end-close-deadlines</loc>
+  </url>
+  <url>
+    <loc>https://bfs.ucmerced.edu/our-services/financial-accounting-services/general-accounting/monthly-close-schedules</loc>
+  </url>
+  <url>
+    <loc>https://bfs.ucmerced.edu/our-services/financial-accounting-services/general-accounting/annual-financial-reports</loc>
+  </url>
+  <url>
+    <loc>https://bfs.ucmerced.edu/departments/general-accounting/plant-accounting</loc>
+  </url>
+  <url>
+    <loc>https://bfs.ucmerced.edu/our-services/financial-accounting-services/gifts-endowments-accounting</loc>
+  </url>
+  <url>
     <loc>https://bfs.ucmerced.edu/news/2025/advisory-ucpath-dcp-and-fica-adjustments</loc>
   </url>
   <url>
@@ -335,39 +335,6 @@
   </url>
   <url>
     <loc>https://bfs.ucmerced.edu/news-categories/financial</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/financial_report_fy_2019-20.pdf</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/financial_report_fy_2018-2019_-_final.pdf</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/2017-18_financial_report_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/uc_merced_financial_statements_-_june_2017_-_final.pdf</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/uc_merced_financial_statements_-_june_2016_-_final.pdf</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/uc_merced_financial_statements_-_june_2015_-_final.pdf</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/uc_merced_financial_statements_-_june_2014_-_final.pdf</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/uc_merced_financial_statements_-_june_2013_-_final.pdf</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/uc_merced_financial_statements_-_june_2012_-_final.pdf</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/sites/g/files/ufvvjh426/f/page/documents/faqs_-_gifts_endowments.docx</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/endowment_similar_funds_accounting_manual_am-e525.pdf</loc>
   </url>
   <url>
     <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/merced_fully_executed_12.5.2022_fa_rate_agreeement_until_2025.pdf</loc>
@@ -451,10 +418,10 @@
     <loc>https://bfs.ucmerced.edu/news/2024/student-employment-year-end-updates-reminders</loc>
   </url>
   <url>
-    <loc>https://bfs.ucmerced.edu/news/2024/early-deadlines-november-december-payroll</loc>
+    <loc>https://bfs.ucmerced.edu/news/2024/end-semester-employee-separations</loc>
   </url>
   <url>
-    <loc>https://bfs.ucmerced.edu/news/2024/end-semester-employee-separations</loc>
+    <loc>https://bfs.ucmerced.edu/news/2024/early-deadlines-november-december-payroll</loc>
   </url>
   <url>
     <loc>https://bfs.ucmerced.edu/news/2024/trs-modernization-coming-november-1st-2024</loc>
@@ -586,6 +553,39 @@
     <loc>https://bfs.ucmerced.edu/news/central-payroll?page=2</loc>
   </url>
   <url>
+    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/financial_report_fy_2019-20.pdf</loc>
+  </url>
+  <url>
+    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/financial_report_fy_2018-2019_-_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/2017-18_financial_report_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/uc_merced_financial_statements_-_june_2017_-_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/uc_merced_financial_statements_-_june_2016_-_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/uc_merced_financial_statements_-_june_2015_-_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/uc_merced_financial_statements_-_june_2014_-_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/uc_merced_financial_statements_-_june_2013_-_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/uc_merced_financial_statements_-_june_2012_-_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://bfs.ucmerced.edu/sites/g/files/ufvvjh426/f/page/documents/faqs_-_gifts_endowments.docx</loc>
+  </url>
+  <url>
+    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/endowment_similar_funds_accounting_manual_am-e525.pdf</loc>
+  </url>
+  <url>
     <loc>https://bfs.ucmerced.edu/news-categories/tax-services</loc>
   </url>
   <url>
@@ -652,10 +652,10 @@
     <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/job_aid_ucpath_cognos_dope_report_r-268.pdf</loc>
   </url>
   <url>
-    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/documents/job_aid_trs_supervisor_-_edit_timesheet_for_employee.pdf</loc>
+    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/job_aid_understanding_payroll_separation_request_process_.pdf</loc>
   </url>
   <url>
-    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/job_aid_understanding_payroll_separation_request_process_.pdf</loc>
+    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/documents/job_aid_trs_supervisor_-_edit_timesheet_for_employee.pdf</loc>
   </url>
   <url>
     <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/6_11_24_employee_communication_final.pdf</loc>

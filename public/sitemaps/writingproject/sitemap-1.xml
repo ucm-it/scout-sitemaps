@@ -13,9 +13,6 @@
     <loc>https://writingproject.ucmerced.edu/leadership-team</loc>
   </url>
   <url>
-    <loc>https://writingproject.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
     <loc>https://writingproject.ucmerced.edu/invitational-summer-institute</loc>
   </url>
   <url>
@@ -38,6 +35,9 @@
   </url>
   <url>
     <loc>https://writingproject.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://writingproject.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://writingproject.ucmerced.edu/sites/writingproject.ucmerced.edu/files/documents/2011_summer_institute_ppt.pptx</loc>

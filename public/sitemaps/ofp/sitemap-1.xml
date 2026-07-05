@@ -7,9 +7,6 @@
     <loc>https://ofp.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://ofp.ucmerced.edu/mentors</loc>
-  </url>
-  <url>
     <loc>https://ofp.ucmerced.edu/scholars</loc>
   </url>
   <url>
@@ -29,6 +26,9 @@
   </url>
   <url>
     <loc>https://ofp.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://ofp.ucmerced.edu/mentors</loc>
   </url>
   <url>
     <loc>https://ofp.ucmerced.edu/events/new-due-date-ofp-scholar-applications</loc>

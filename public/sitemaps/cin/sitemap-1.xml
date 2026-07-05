@@ -13,9 +13,6 @@
     <loc>https://cin.ucmerced.edu/news</loc>
   </url>
   <url>
-    <loc>https://cin.ucmerced.edu/faculty</loc>
-  </url>
-  <url>
     <loc>https://cin.ucmerced.edu/news/2026/neuroscience-poster-showcase-mixer-april-24th</loc>
   </url>
   <url>
@@ -26,6 +23,9 @@
   </url>
   <url>
     <loc>https://cin.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://cin.ucmerced.edu/faculty</loc>
   </url>
   <url>
     <loc>https://cin.ucmerced.edu/news/2024/dr-xuecai-susan-ge-interviewed-biomedical-beat-nih-blog-investigating-primary-cilium-qa</loc>

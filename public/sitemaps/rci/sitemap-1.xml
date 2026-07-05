@@ -22,9 +22,6 @@
     <loc>https://rci.ucmerced.edu/irb/researchers/sop-self-exemption-determination-tool</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/irb/researchers/resources-self-exempt</loc>
-  </url>
-  <url>
     <loc>https://rci.ucmerced.edu/irb/researchers/types-review</loc>
   </url>
   <url>
@@ -373,6 +370,9 @@
     <loc>https://rci.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://rci.ucmerced.edu/irb/researchers/resources-self-exempt</loc>
+  </url>
+  <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/cayuse_iacuc_-_iacuc_researcher_manual_0.pdf</loc>
   </url>
   <url>
@@ -383,9 +383,6 @@
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/pamphlet.pdf</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/webform/pamphlet.pdf</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/exempt_categories.pdf</loc>
@@ -905,6 +902,9 @@
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/media-contact/alyssa-johansen</loc>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/webform/pamphlet.pdf</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/irb</loc>

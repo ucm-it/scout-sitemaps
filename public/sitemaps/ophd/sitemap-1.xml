@@ -13,9 +13,6 @@
     <loc>https://ophd.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://ophd.ucmerced.edu/university-obligations</loc>
-  </url>
-  <url>
     <loc>https://ophd.ucmerced.edu/report</loc>
   </url>
   <url>
@@ -140,6 +137,9 @@
   </url>
   <url>
     <loc>https://ophd.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://ophd.ucmerced.edu/university-obligations</loc>
   </url>
   <url>
     <loc>https://ophd.ucmerced.edu/sites/ophd.ucmerced.edu/files/images/kl.jpg</loc>

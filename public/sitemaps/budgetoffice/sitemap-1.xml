@@ -16,9 +16,6 @@
     <loc>https://budgetoffice.ucmerced.edu/about-us/office-hours</loc>
   </url>
   <url>
-    <loc>https://budgetoffice.ucmerced.edu/campus-budget</loc>
-  </url>
-  <url>
     <loc>https://budgetoffice.ucmerced.edu/budget-call</loc>
   </url>
   <url>
@@ -68,6 +65,9 @@
   </url>
   <url>
     <loc>https://budgetoffice.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://budgetoffice.ucmerced.edu/campus-budget</loc>
   </url>
   <url>
     <loc>https://budgetoffice.ucmerced.edu/news/2026/office-name-update-budget-and-financial-planning</loc>

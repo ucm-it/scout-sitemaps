@@ -16,9 +16,6 @@
     <loc>https://ucmeri.ucmerced.edu/about-us/undergraduate-students</loc>
   </url>
   <url>
-    <loc>https://ucmeri.ucmerced.edu/projects</loc>
-  </url>
-  <url>
     <loc>https://ucmeri.ucmerced.edu/projects/energy-harvesting-road-traffic</loc>
   </url>
   <url>
@@ -50,6 +47,9 @@
   </url>
   <url>
     <loc>https://ucmeri.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://ucmeri.ucmerced.edu/projects</loc>
   </url>
   <url>
     <loc>https://ucmeri.ucmerced.edu/news/2008/how-fast-can-plants-absorb-our-carbon-emissions-uc-merced-professor-develops-new</loc>

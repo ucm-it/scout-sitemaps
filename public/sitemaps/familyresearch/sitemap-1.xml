@@ -19,9 +19,6 @@
     <loc>https://familyresearch.ucmerced.edu/sign-up</loc>
   </url>
   <url>
-    <loc>https://familyresearch.ucmerced.edu/contact-us-0</loc>
-  </url>
-  <url>
     <loc>https://familyresearch.ucmerced.edu/child-development-minor</loc>
   </url>
   <url>
@@ -29,5 +26,8 @@
   </url>
   <url>
     <loc>https://familyresearch.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://familyresearch.ucmerced.edu/contact-us-0</loc>
   </url>
 </urlset>

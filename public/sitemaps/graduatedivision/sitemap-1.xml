@@ -10,9 +10,6 @@
     <loc>https://graduatedivision.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://graduatedivision.ucmerced.edu/about/graddiv</loc>
-  </url>
-  <url>
     <loc>https://graduatedivision.ucmerced.edu/about/deans-corner</loc>
   </url>
   <url>
@@ -146,6 +143,9 @@
   </url>
   <url>
     <loc>https://graduatedivision.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://graduatedivision.ucmerced.edu/about/graddiv</loc>
   </url>
   <url>
     <loc>https://graduatedivision.ucmerced.edu/prospective-students/choose-merced</loc>

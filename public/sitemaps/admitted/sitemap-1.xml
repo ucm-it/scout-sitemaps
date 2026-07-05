@@ -10,16 +10,10 @@
     <loc>https://admitted.ucmerced.edu/events</loc>
   </url>
   <url>
-    <loc>https://admitted.ucmerced.edu/explore</loc>
-  </url>
-  <url>
     <loc>https://admitted.ucmerced.edu/first-year-and-transfer</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/parents-families</loc>
-  </url>
-  <url>
-    <loc>https://admitted.ucmerced.edu/student-resources</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/next-steps</loc>
@@ -35,6 +29,12 @@
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://admitted.ucmerced.edu/explore</loc>
+  </url>
+  <url>
+    <loc>https://admitted.ucmerced.edu/student-resources</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/receptions</loc>
@@ -148,10 +148,10 @@
     <loc>https://admitted.ucmerced.edu/faqs</loc>
   </url>
   <url>
-    <loc>https://admitted.ucmerced.edu/sites/admitted.ucmerced.edu/files/documents/ucmerced_student_resources_map.pdf</loc>
+    <loc>https://admitted.ucmerced.edu/fall</loc>
   </url>
   <url>
-    <loc>https://admitted.ucmerced.edu/fall</loc>
+    <loc>https://admitted.ucmerced.edu/sites/admitted.ucmerced.edu/files/documents/ucmerced_student_resources_map.pdf</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/event-location/webinar</loc>

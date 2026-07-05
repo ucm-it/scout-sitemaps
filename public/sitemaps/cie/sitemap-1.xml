@@ -13,9 +13,6 @@
     <loc>https://cie.ucmerced.edu/analytics-hub/student-statistics</loc>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/analytics-hub/faculty-staff-statistics</loc>
-  </url>
-  <url>
     <loc>https://cie.ucmerced.edu/analytics-hub/academic-program-review</loc>
   </url>
   <url>
@@ -71,6 +68,9 @@
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/analytics-hub/faculty-staff-statistics</loc>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/undergraduate-enrollments</loc>

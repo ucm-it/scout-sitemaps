@@ -28,9 +28,6 @@
     <loc>https://osrr.ucmerced.edu/student-conduct/student-conduct-process</loc>
   </url>
   <url>
-    <loc>https://osrr.ucmerced.edu/student-conduct/student-rights-responsibilities</loc>
-  </url>
-  <url>
     <loc>https://osrr.ucmerced.edu/advisorinformation</loc>
   </url>
   <url>
@@ -80,6 +77,9 @@
   </url>
   <url>
     <loc>https://osrr.ucmerced.edu/resources</loc>
+  </url>
+  <url>
+    <loc>https://osrr.ucmerced.edu/student-conduct/student-rights-responsibilities</loc>
   </url>
   <url>
     <loc>https://osrr.ucmerced.edu/content/destiny-bower</loc>

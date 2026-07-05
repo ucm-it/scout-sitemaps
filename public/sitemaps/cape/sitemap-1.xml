@@ -22,9 +22,6 @@
     <loc>https://cape.ucmerced.edu/affiliates/affiliate-resources</loc>
   </url>
   <url>
-    <loc>https://cape.ucmerced.edu/affiliates/cape-office-use-affiliates</loc>
-  </url>
-  <url>
     <loc>https://cape.ucmerced.edu/events/upcoming-events</loc>
   </url>
   <url>
@@ -92,6 +89,9 @@
   </url>
   <url>
     <loc>https://cape.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://cape.ucmerced.edu/affiliates/cape-office-use-affiliates</loc>
   </url>
   <url>
     <loc>https://cape.ucmerced.edu/hs-teacher-showcase</loc>
@@ -163,7 +163,7 @@
     <loc>https://cape.ucmerced.edu/news/2026/uc-merced-climate-experts-explain-why-march-heat-wave-dangerous</loc>
   </url>
   <url>
-    <loc>https://cape.ucmerced.edu/news/2026/uc-merced-launches-california-government-and-policy-certificate-program</loc>
+    <loc>https://cape.ucmerced.edu/news/2026/uc-merced-launches-california-government-and-policy-certificate-program-0</loc>
   </url>
   <url>
     <loc>https://cape.ucmerced.edu/news?page=1</loc>
@@ -245,9 +245,6 @@
   </url>
   <url>
     <loc>https://cape.ucmerced.edu/media-contact/brenda-ortiz</loc>
-  </url>
-  <url>
-    <loc>https://cape.ucmerced.edu/news/2026/uc-merced-launches-california-government-and-policy-certificate-program-0</loc>
   </url>
   <url>
     <loc>https://cape.ucmerced.edu/news/2026/turlock-high-grad-uc-merced-just-far-enough-home</loc>
@@ -394,10 +391,10 @@
     <loc>https://cape.ucmerced.edu/news/2024/ssha-honors-outstanding-graduating-students</loc>
   </url>
   <url>
-    <loc>https://cape.ucmerced.edu/news/2024/ca-20-special-election-will-fill-mccarthys-vacant-seat</loc>
+    <loc>https://cape.ucmerced.edu/news/2024/uc-merced-led-collaborative-awards-106-million-community-education-partners</loc>
   </url>
   <url>
-    <loc>https://cape.ucmerced.edu/news/2024/uc-merced-led-collaborative-awards-106-million-community-education-partners</loc>
+    <loc>https://cape.ucmerced.edu/news/2024/ca-20-special-election-will-fill-mccarthys-vacant-seat</loc>
   </url>
   <url>
     <loc>https://cape.ucmerced.edu/news/2024/causes-and-consequences-refugee-flows-contemporary-reanalysis</loc>
@@ -458,6 +455,9 @@
   </url>
   <url>
     <loc>https://cape.ucmerced.edu/taxonomy/term/401/feed</loc>
+  </url>
+  <url>
+    <loc>https://cape.ucmerced.edu/news/2026/uc-merced-launches-california-government-and-policy-certificate-program</loc>
   </url>
   <url>
     <loc>https://cape.ucmerced.edu/taxonomy/term/1351/feed</loc>

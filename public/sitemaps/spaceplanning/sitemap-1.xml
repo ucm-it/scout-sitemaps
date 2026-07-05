@@ -16,9 +16,6 @@
     <loc>https://spaceplanning.ucmerced.edu/about/staff</loc>
   </url>
   <url>
-    <loc>https://spaceplanning.ucmerced.edu/about/principles-campus-space-management</loc>
-  </url>
-  <url>
     <loc>https://spaceplanning.ucmerced.edu/about/contact-us</loc>
   </url>
   <url>
@@ -67,16 +64,7 @@
     <loc>https://spaceplanning.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://spaceplanning.ucmerced.edu/sites/spaceplanning.ucmerced.edu/files/documents/space_management/campus_space_management_principles.pdf</loc>
-  </url>
-  <url>
-    <loc>https://spaceplanning.ucmerced.edu/sites/spaceplanning.ucmerced.edu/files/documents/space_management/campus_space_policy.pdf</loc>
-  </url>
-  <url>
-    <loc>https://spaceplanning.ucmerced.edu/sites/spaceplanning.ucmerced.edu/files/documents/space_management/space_assignments.pdf</loc>
-  </url>
-  <url>
-    <loc>https://spaceplanning.ucmerced.edu/sites/spaceplanning.ucmerced.edu/files/documents/ucmspace_management_glossary_of_terms_and_phrases.pdf</loc>
+    <loc>https://spaceplanning.ucmerced.edu/about/principles-campus-space-management</loc>
   </url>
   <url>
     <loc>https://spaceplanning.ucmerced.edu/sites/spaceplanning.ucmerced.edu/files/documents/project-request-form_02012022.pdf</loc>
@@ -89,5 +77,17 @@
   </url>
   <url>
     <loc>https://spaceplanning.ucmerced.edu/sites/g/files/ufvvjh1686/f/documents/campus_space_study_files/space_sensor_installation_memo_9-26-2025.pdf</loc>
+  </url>
+  <url>
+    <loc>https://spaceplanning.ucmerced.edu/sites/spaceplanning.ucmerced.edu/files/documents/space_management/campus_space_management_principles.pdf</loc>
+  </url>
+  <url>
+    <loc>https://spaceplanning.ucmerced.edu/sites/spaceplanning.ucmerced.edu/files/documents/space_management/campus_space_policy.pdf</loc>
+  </url>
+  <url>
+    <loc>https://spaceplanning.ucmerced.edu/sites/spaceplanning.ucmerced.edu/files/documents/space_management/space_assignments.pdf</loc>
+  </url>
+  <url>
+    <loc>https://spaceplanning.ucmerced.edu/sites/spaceplanning.ucmerced.edu/files/documents/ucmspace_management_glossary_of_terms_and_phrases.pdf</loc>
   </url>
 </urlset>

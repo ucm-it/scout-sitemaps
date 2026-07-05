@@ -28,9 +28,6 @@
     <loc>https://calculus.ucmerced.edu/resources/resources-stem-faculty</loc>
   </url>
   <url>
-    <loc>https://calculus.ucmerced.edu/resources/resources-students</loc>
-  </url>
-  <url>
     <loc>https://calculus.ucmerced.edu/resources/references</loc>
   </url>
   <url>
@@ -50,5 +47,8 @@
   </url>
   <url>
     <loc>https://calculus.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://calculus.ucmerced.edu/resources/resources-students</loc>
   </url>
 </urlset>
