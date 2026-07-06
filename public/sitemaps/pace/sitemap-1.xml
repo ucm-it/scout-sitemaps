@@ -19,6 +19,9 @@
     <loc>https://pace.ucmerced.edu/professional-learning/healthcare-wellness</loc>
   </url>
   <url>
+    <loc>https://pace.ucmerced.edu/professional-learning/management-and-policy</loc>
+  </url>
+  <url>
     <loc>https://pace.ucmerced.edu/professional-learning/online-learning</loc>
   </url>
   <url>
@@ -118,9 +121,6 @@
     <loc>https://pace.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://pace.ucmerced.edu/professional-learning/management-and-policy</loc>
-  </url>
-  <url>
     <loc>https://pace.ucmerced.edu/content/computer-science-authorization</loc>
   </url>
   <url>
@@ -166,7 +166,10 @@
     <loc>https://pace.ucmerced.edu/content/medical-terminology</loc>
   </url>
   <url>
-    <loc>https://pace.ucmerced.edu/content/american-heart-association-aha-cardiopulmonary-resuscitation-cpr-training-0</loc>
+    <loc>https://pace.ucmerced.edu/content/associate-project-management-specialized-certificate-capm%C2%AE</loc>
+  </url>
+  <url>
+    <loc>https://pace.ucmerced.edu/content/professional-certificate-project-management-pmp%C2%AE</loc>
   </url>
   <url>
     <loc>https://pace.ucmerced.edu/content/associate-project-management-exam-preparation-bootcamp</loc>
@@ -181,16 +184,10 @@
     <loc>https://pace.ucmerced.edu/content/california-legislature-process-drafting</loc>
   </url>
   <url>
-    <loc>https://pace.ucmerced.edu/content/california-lobbying-budget</loc>
-  </url>
-  <url>
     <loc>https://pace.ucmerced.edu/content/california-state-government-overview</loc>
   </url>
   <url>
-    <loc>https://pace.ucmerced.edu/content/community-health-worker-specialized-training-0</loc>
-  </url>
-  <url>
-    <loc>https://pace.ucmerced.edu/content/developing-positive-classroom-culture</loc>
+    <loc>https://pace.ucmerced.edu/content/california-lobbying-budget</loc>
   </url>
   <url>
     <loc>https://pace.ucmerced.edu/content/emotional-intelligence-leaders</loc>
@@ -202,28 +199,31 @@
     <loc>https://pace.ucmerced.edu/content/introduction-project-management</loc>
   </url>
   <url>
-    <loc>https://pace.ucmerced.edu/content/mcat-study-guide-test-prep</loc>
-  </url>
-  <url>
-    <loc>https://pace.ucmerced.edu/content/project-management-capstone</loc>
-  </url>
-  <url>
     <loc>https://pace.ucmerced.edu/content/project-management-execution-risk</loc>
   </url>
   <url>
     <loc>https://pace.ucmerced.edu/content/project-management-methods</loc>
   </url>
   <url>
+    <loc>https://pace.ucmerced.edu/content/project-management-capstone</loc>
+  </url>
+  <url>
     <loc>https://pace.ucmerced.edu/content/project-planning</loc>
   </url>
   <url>
+    <loc>https://pace.ucmerced.edu/content/american-heart-association-aha-cardiopulmonary-resuscitation-cpr-training-0</loc>
+  </url>
+  <url>
+    <loc>https://pace.ucmerced.edu/content/community-health-worker-specialized-training-0</loc>
+  </url>
+  <url>
+    <loc>https://pace.ucmerced.edu/content/developing-positive-classroom-culture</loc>
+  </url>
+  <url>
+    <loc>https://pace.ucmerced.edu/content/mcat-study-guide-test-prep</loc>
+  </url>
+  <url>
     <loc>https://pace.ucmerced.edu/form/study-abroad-uc-merced-application</loc>
-  </url>
-  <url>
-    <loc>https://pace.ucmerced.edu/content/associate-project-management-specialized-certificate-capm%C2%AE</loc>
-  </url>
-  <url>
-    <loc>https://pace.ucmerced.edu/content/professional-certificate-project-management-pmp%C2%AE</loc>
   </url>
   <url>
     <loc>https://pace.ucmerced.edu/sites/g/files/ufvvjh1386/f/documents/concurrent_enrollment_instructor_approval_form_2020v29_1.pdf</loc>

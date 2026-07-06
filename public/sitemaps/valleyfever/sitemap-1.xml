@@ -25,6 +25,9 @@
     <loc>https://valleyfever.ucmerced.edu/explore-research-topics/epidemiological-resources</loc>
   </url>
   <url>
+    <loc>https://valleyfever.ucmerced.edu/news</loc>
+  </url>
+  <url>
     <loc>https://valleyfever.ucmerced.edu/research-advocacy-news/prevention-tips</loc>
   </url>
   <url>
@@ -85,49 +88,7 @@
     <loc>https://valleyfever.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://valleyfever.ucmerced.edu/news</loc>
-  </url>
-  <url>
     <loc>https://valleyfever.ucmerced.edu/find-valley-fever-resources/related-misdiagnosis</loc>
-  </url>
-  <url>
-    <loc>https://valleyfever.ucmerced.edu/sites/valleyfever.ucmerced.edu/files/page/documents/gaab_coccikids_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://valleyfever.ucmerced.edu/content/wei-chun-chin</loc>
-  </url>
-  <url>
-    <loc>https://valleyfever.ucmerced.edu/content/eva-deabla</loc>
-  </url>
-  <url>
-    <loc>https://valleyfever.ucmerced.edu/content/arvind-gopinath</loc>
-  </url>
-  <url>
-    <loc>https://valleyfever.ucmerced.edu/content/juris-grasis</loc>
-  </url>
-  <url>
-    <loc>https://valleyfever.ucmerced.edu/content/aaron-hernday</loc>
-  </url>
-  <url>
-    <loc>https://valleyfever.ucmerced.edu/content/katrina-hoyer</loc>
-  </url>
-  <url>
-    <loc>https://valleyfever.ucmerced.edu/content/changqing-li</loc>
-  </url>
-  <url>
-    <loc>https://valleyfever.ucmerced.edu/content/emily-jane-mctavish</loc>
-  </url>
-  <url>
-    <loc>https://valleyfever.ucmerced.edu/content/clarissa-nobile</loc>
-  </url>
-  <url>
-    <loc>https://valleyfever.ucmerced.edu/content/paul-brown</loc>
-  </url>
-  <url>
-    <loc>https://valleyfever.ucmerced.edu/media-contact/lorena-anderson</loc>
-  </url>
-  <url>
-    <loc>https://valleyfever.ucmerced.edu/media-contact/brenda-ortiz</loc>
   </url>
   <url>
     <loc>https://valleyfever.ucmerced.edu/news/2025/dust-danger-central-valley-health-and-will-likely-get-worse-researchers-find</loc>
@@ -175,28 +136,61 @@
     <loc>https://valleyfever.ucmerced.edu/news?page=9</loc>
   </url>
   <url>
-    <loc>https://valleyfever.ucmerced.edu/news/2019/valley-fever-focus-public-event</loc>
+    <loc>https://valleyfever.ucmerced.edu/sites/valleyfever.ucmerced.edu/files/page/documents/gaab_coccikids_0.pdf</loc>
   </url>
   <url>
-    <loc>https://valleyfever.ucmerced.edu/taxonomy/term/23/feed</loc>
+    <loc>https://valleyfever.ucmerced.edu/content/wei-chun-chin</loc>
   </url>
   <url>
-    <loc>https://valleyfever.ucmerced.edu/news/2019/radiobio-breaks-down-science-through-airwaves</loc>
+    <loc>https://valleyfever.ucmerced.edu/content/eva-deabla</loc>
   </url>
   <url>
-    <loc>https://valleyfever.ucmerced.edu/news/2019/anh-diep-wins-grad-slam-uc-merced-heads-uc-finals</loc>
+    <loc>https://valleyfever.ucmerced.edu/content/arvind-gopinath</loc>
   </url>
   <url>
-    <loc>https://valleyfever.ucmerced.edu/news/2019/grad-students-vie-spot-uc-grad-slam-finals</loc>
+    <loc>https://valleyfever.ucmerced.edu/content/juris-grasis</loc>
   </url>
   <url>
-    <loc>https://valleyfever.ucmerced.edu/taxonomy/term/191/feed</loc>
+    <loc>https://valleyfever.ucmerced.edu/content/aaron-hernday</loc>
+  </url>
+  <url>
+    <loc>https://valleyfever.ucmerced.edu/content/katrina-hoyer</loc>
+  </url>
+  <url>
+    <loc>https://valleyfever.ucmerced.edu/content/changqing-li</loc>
+  </url>
+  <url>
+    <loc>https://valleyfever.ucmerced.edu/content/emily-jane-mctavish</loc>
+  </url>
+  <url>
+    <loc>https://valleyfever.ucmerced.edu/content/clarissa-nobile</loc>
+  </url>
+  <url>
+    <loc>https://valleyfever.ucmerced.edu/content/paul-brown</loc>
+  </url>
+  <url>
+    <loc>https://valleyfever.ucmerced.edu/media-contact/lorena-anderson</loc>
+  </url>
+  <url>
+    <loc>https://valleyfever.ucmerced.edu/media-contact/brenda-ortiz</loc>
   </url>
   <url>
     <loc>https://valleyfever.ucmerced.edu/media-contact/juan-flores</loc>
   </url>
   <url>
     <loc>https://valleyfever.ucmerced.edu/media-contact/michelle-morgante</loc>
+  </url>
+  <url>
+    <loc>https://valleyfever.ucmerced.edu/news/2019/radiobio-breaks-down-science-through-airwaves</loc>
+  </url>
+  <url>
+    <loc>https://valleyfever.ucmerced.edu/news/2019/valley-fever-focus-public-event</loc>
+  </url>
+  <url>
+    <loc>https://valleyfever.ucmerced.edu/news/2019/anh-diep-wins-grad-slam-uc-merced-heads-uc-finals</loc>
+  </url>
+  <url>
+    <loc>https://valleyfever.ucmerced.edu/news/2019/grad-students-vie-spot-uc-grad-slam-finals</loc>
   </url>
   <url>
     <loc>https://valleyfever.ucmerced.edu/news/2017/valley-fever-cases-spike-experts-say-awareness-vital</loc>
@@ -259,16 +253,16 @@
     <loc>https://valleyfever.ucmerced.edu/news/2014/valley-fever-increased-dangers-desert-dust</loc>
   </url>
   <url>
-    <loc>https://valleyfever.ucmerced.edu/news/2014/dangers-desert-dust-new-diagnostic-tool-valley-fever</loc>
-  </url>
-  <url>
-    <loc>https://valleyfever.ucmerced.edu/news/2014/student-led-research-could-lead-faster-valley-fever-diagnosis</loc>
-  </url>
-  <url>
     <loc>https://valleyfever.ucmerced.edu/news/2014/woman-fighting-valley-fever-my-life-has-been-hold</loc>
   </url>
   <url>
     <loc>https://valleyfever.ucmerced.edu/news/2014/first-look-walk-bring-awareness-valley-fever</loc>
+  </url>
+  <url>
+    <loc>https://valleyfever.ucmerced.edu/news/2014/dangers-desert-dust-new-diagnostic-tool-valley-fever</loc>
+  </url>
+  <url>
+    <loc>https://valleyfever.ucmerced.edu/news/2014/student-led-research-could-lead-faster-valley-fever-diagnosis</loc>
   </url>
   <url>
     <loc>https://valleyfever.ucmerced.edu/news/2014/local-valley-fever-research-be-published-scientific-journal</loc>
@@ -382,10 +376,10 @@
     <loc>https://valleyfever.ucmerced.edu/news/2013/experts-share-latest-research-valley-fever</loc>
   </url>
   <url>
-    <loc>https://valleyfever.ucmerced.edu/news/2013/valley-fever-cases-skyrocketing-most-cases-arizona</loc>
+    <loc>https://valleyfever.ucmerced.edu/news/2013/arizona-sees-majority-valley-fever-cases</loc>
   </url>
   <url>
-    <loc>https://valleyfever.ucmerced.edu/news/2013/arizona-sees-majority-valley-fever-cases</loc>
+    <loc>https://valleyfever.ucmerced.edu/news/2013/valley-fever-cases-skyrocketing-most-cases-arizona</loc>
   </url>
   <url>
     <loc>https://valleyfever.ucmerced.edu/news/2013/just-one-breath-woman-lost-two-years-valley-fever-and-remains-fearful-return</loc>
@@ -440,6 +434,12 @@
   </url>
   <url>
     <loc>https://valleyfever.ucmerced.edu/news/1955/san-joaquin-fever-regional-problem</loc>
+  </url>
+  <url>
+    <loc>https://valleyfever.ucmerced.edu/taxonomy/term/23/feed</loc>
+  </url>
+  <url>
+    <loc>https://valleyfever.ucmerced.edu/taxonomy/term/191/feed</loc>
   </url>
   <url>
     <loc>https://valleyfever.ucmerced.edu/taxonomy/term/611/feed</loc>

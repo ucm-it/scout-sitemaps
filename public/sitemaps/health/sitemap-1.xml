@@ -16,9 +16,6 @@
     <loc>https://health.ucmerced.edu/about/appointment-information</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/staff</loc>
-  </url>
-  <url>
     <loc>https://health.ucmerced.edu/about/patient-rights-responsibilities</loc>
   </url>
   <url>
@@ -85,6 +82,9 @@
     <loc>https://health.ucmerced.edu/resources/campus-partners</loc>
   </url>
   <url>
+    <loc>https://health.ucmerced.edu/immunizations</loc>
+  </url>
+  <url>
     <loc>https://health.ucmerced.edu/flu-vaccination-information</loc>
   </url>
   <url>
@@ -98,9 +98,6 @@
   </url>
   <url>
     <loc>https://health.ucmerced.edu/immunizations/immunization-medical-exemptions</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/immunizationlocations</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/immunizations/tb-risk-screening-requirements</loc>
@@ -130,6 +127,9 @@
     <loc>https://health.ucmerced.edu/insurance/insurance-rates-and-dates</loc>
   </url>
   <url>
+    <loc>https://health.ucmerced.edu/insurance/uc-ship-benefit-plan</loc>
+  </url>
+  <url>
     <loc>https://health.ucmerced.edu/advisorycommittee</loc>
   </url>
   <url>
@@ -148,13 +148,13 @@
     <loc>https://health.ucmerced.edu/mybill</loc>
   </url>
   <url>
+    <loc>https://health.ucmerced.edu/How-to-Make-a-Report-of-Sexual-Harassment-and-Notice-of-Nondiscrimination</loc>
+  </url>
+  <url>
     <loc>https://health.ucmerced.edu/resources/new-students</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/news/2026/2026-2027-uc-ship-waiver-open</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/news/2024/attention-ship-students</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/news/2024/lyrauc-ship</loc>
@@ -305,5 +305,8 @@
   </url>
   <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/privacynotice_1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/staff</loc>
   </url>
 </urlset>

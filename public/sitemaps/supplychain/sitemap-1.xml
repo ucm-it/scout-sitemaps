@@ -28,6 +28,9 @@
     <loc>https://supplychain.ucmerced.edu/procurement/how-buy-uc-merced</loc>
   </url>
   <url>
+    <loc>https://supplychain.ucmerced.edu/procurement/how-buy-uc-merced/RSSP</loc>
+  </url>
+  <url>
     <loc>https://supplychain.ucmerced.edu/procurement/bobcatbuy</loc>
   </url>
   <url>
@@ -211,9 +214,6 @@
     <loc>https://supplychain.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://supplychain.ucmerced.edu/procurement/how-buy-uc-merced/RSSP</loc>
-  </url>
-  <url>
     <loc>https://supplychain.ucmerced.edu/news/2026/software-purchases-prior-approval-reminder</loc>
   </url>
   <url>
@@ -283,6 +283,15 @@
     <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/ucm_unauthorized_purchase_policy_2026_accessible.pdf</loc>
   </url>
   <url>
+    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/self-service_procurement_catalog_requisition_step-by-step_guide_accessible_2026-04-17.pdf</loc>
+  </url>
+  <url>
+    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/self-service_procurement_non-catalog_requisition_goods_step-by-step_guide_accessible_2026-04-17.pdf</loc>
+  </url>
+  <url>
+    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/self-service_procurement_non-catalog_requisition_services_step-by-step_guide_accessible_2026-04-17.pdf</loc>
+  </url>
+  <url>
     <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/pcard_application_3-2026_fillable_accessible.pdf</loc>
   </url>
   <url>
@@ -311,15 +320,6 @@
   </url>
   <url>
     <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/uc_merced_supplier_onboarding_and_invoice_insturctions_lettera.pdf</loc>
-  </url>
-  <url>
-    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/self-service_procurement_catalog_requisition_step-by-step_guide_accessible_2026-04-17.pdf</loc>
-  </url>
-  <url>
-    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/self-service_procurement_non-catalog_requisition_goods_step-by-step_guide_accessible_2026-04-17.pdf</loc>
-  </url>
-  <url>
-    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/self-service_procurement_non-catalog_requisition_services_step-by-step_guide_accessible_2026-04-17.pdf</loc>
   </url>
   <url>
     <loc>https://supplychain.ucmerced.edu/SupplierShowcase2025</loc>

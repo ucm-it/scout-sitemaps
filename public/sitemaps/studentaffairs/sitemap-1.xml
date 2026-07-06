@@ -28,6 +28,9 @@
     <loc>https://studentaffairs.ucmerced.edu/student-success/student-services</loc>
   </url>
   <url>
+    <loc>https://studentaffairs.ucmerced.edu/dean-students</loc>
+  </url>
+  <url>
     <loc>https://studentaffairs.ucmerced.edu/dean-students/religious-objection-exception-requests-student-immunization-requirements</loc>
   </url>
   <url>
@@ -64,9 +67,6 @@
     <loc>https://studentaffairs.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://studentaffairs.ucmerced.edu/dean-students</loc>
-  </url>
-  <url>
     <loc>https://studentaffairs.ucmerced.edu/community-of-scholars</loc>
   </url>
   <url>
@@ -80,6 +80,9 @@
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/content/brian-obruba</loc>
+  </url>
+  <url>
+    <loc>https://studentaffairs.ucmerced.edu/content/david-dunham</loc>
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/content/esther-wilson</loc>
@@ -101,9 +104,6 @@
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/content/deborah-henderson</loc>
-  </url>
-  <url>
-    <loc>https://studentaffairs.ucmerced.edu/content/david-dunham</loc>
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/content/vacant-position</loc>

@@ -22,6 +22,9 @@
     <loc>https://procurement.ucmerced.edu/procurement/how-buy-uc-merced</loc>
   </url>
   <url>
+    <loc>https://procurement.ucmerced.edu/procurement/how-buy-uc-merced/RSSP</loc>
+  </url>
+  <url>
     <loc>https://procurement.ucmerced.edu/procurement/procurement-card</loc>
   </url>
   <url>
@@ -200,8 +203,5 @@
   </url>
   <url>
     <loc>https://procurement.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://procurement.ucmerced.edu/procurement/how-buy-uc-merced/RSSP</loc>
   </url>
 </urlset>

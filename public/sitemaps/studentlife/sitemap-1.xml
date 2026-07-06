@@ -13,6 +13,9 @@
     <loc>https://studentlife.ucmerced.edu/professional-staff</loc>
   </url>
   <url>
+    <loc>https://studentlife.ucmerced.edu/student-staff</loc>
+  </url>
+  <url>
     <loc>https://studentlife.ucmerced.edu/get-involved</loc>
   </url>
   <url>
@@ -70,9 +73,6 @@
     <loc>https://studentlife.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/student-staff</loc>
-  </url>
-  <url>
     <loc>https://studentlife.ucmerced.edu/content/enrique-guzman</loc>
   </url>
   <url>
@@ -92,6 +92,72 @@
   </url>
   <url>
     <loc>https://studentlife.ucmerced.edu/content/ixchel-chagoya</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/content/adyan-zaman</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/content/ashley-atonal</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/content/ceci-estrada</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/content/jasmine-monreal</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/content/chinomoso-nwadike</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/content/elizabeth-castaneda-herrera</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/content/tyler-tupuanai</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/content/yiannis-karydis</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/content/christian-sanderford</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/content/daniel-pardo-lopez</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/content/evan-lee</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/content/brandon-moua</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/content/jessica-cervantes</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/content/cayla-burks</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/content/james-dyer</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/content/lindsay-cal</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/content/casey-ansen</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/content/daisy-ansen</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/content/ej-montero</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/content/angelo-pacia</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/content/fatiah-lawal-0</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/content/pavi-dhillon</loc>
   </url>
   <url>
     <loc>http://studentlife.ucmerced.edu/content/campus-activities-board-cab</loc>
@@ -445,10 +511,10 @@
     <loc>https://studentlife.ucmerced.edu/events/bobcat-bonanza</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/events/bobcat-leadership-series-info-session</loc>
+    <loc>https://studentlife.ucmerced.edu/events/wii-and-game-night</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/events/wii-and-game-night</loc>
+    <loc>https://studentlife.ucmerced.edu/events/bobcat-leadership-series-info-session</loc>
   </url>
   <url>
     <loc>https://studentlife.ucmerced.edu/events/bobcat-leadership-series-info-session-0</loc>
@@ -481,13 +547,13 @@
     <loc>https://studentlife.ucmerced.edu/events/vip-program-whats-your-media-feeding-you</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/events/campus-tour</loc>
+    <loc>https://studentlife.ucmerced.edu/events/critical-reading-electronic-age</loc>
   </url>
   <url>
     <loc>https://studentlife.ucmerced.edu/events/financial-institutions-fair</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/events/critical-reading-electronic-age</loc>
+    <loc>https://studentlife.ucmerced.edu/events/campus-tour</loc>
   </url>
   <url>
     <loc>https://studentlife.ucmerced.edu/events/bellevue-neighborhood-clean</loc>
@@ -496,10 +562,10 @@
     <loc>https://studentlife.ucmerced.edu/events/vip-program-gleek-out-speak-out</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/events/karaoke-night</loc>
+    <loc>https://studentlife.ucmerced.edu/events/vip-program-stalking-know-it-name-it-stop-it</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/events/vip-program-stalking-know-it-name-it-stop-it</loc>
+    <loc>https://studentlife.ucmerced.edu/events/karaoke-night</loc>
   </url>
   <url>
     <loc>https://studentlife.ucmerced.edu/events/vip-program-help-friend-0</loc>
@@ -511,16 +577,16 @@
     <loc>https://studentlife.ucmerced.edu/events/vip-program-project-rewind-1</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/events/bike-and-electronic-registration-and-ucmpds-resources</loc>
-  </url>
-  <url>
     <loc>https://studentlife.ucmerced.edu/events/vip-program-project-rewind-0</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/events/lets-make-deal</loc>
+    <loc>https://studentlife.ucmerced.edu/events/bike-and-electronic-registration-and-ucmpds-resources</loc>
   </url>
   <url>
     <loc>https://studentlife.ucmerced.edu/events/minute-win-it</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/events/lets-make-deal</loc>
   </url>
   <url>
     <loc>https://studentlife.ucmerced.edu/events/vip-program-project-rewind</loc>
@@ -689,72 +755,6 @@
   </url>
   <url>
     <loc>https://studentlife.ucmerced.edu/events/social-justice-film-series</loc>
-  </url>
-  <url>
-    <loc>https://studentlife.ucmerced.edu/content/adyan-zaman</loc>
-  </url>
-  <url>
-    <loc>https://studentlife.ucmerced.edu/content/ashley-atonal</loc>
-  </url>
-  <url>
-    <loc>https://studentlife.ucmerced.edu/content/ceci-estrada</loc>
-  </url>
-  <url>
-    <loc>https://studentlife.ucmerced.edu/content/jasmine-monreal</loc>
-  </url>
-  <url>
-    <loc>https://studentlife.ucmerced.edu/content/chinomoso-nwadike</loc>
-  </url>
-  <url>
-    <loc>https://studentlife.ucmerced.edu/content/elizabeth-castaneda-herrera</loc>
-  </url>
-  <url>
-    <loc>https://studentlife.ucmerced.edu/content/tyler-tupuanai</loc>
-  </url>
-  <url>
-    <loc>https://studentlife.ucmerced.edu/content/yiannis-karydis</loc>
-  </url>
-  <url>
-    <loc>https://studentlife.ucmerced.edu/content/christian-sanderford</loc>
-  </url>
-  <url>
-    <loc>https://studentlife.ucmerced.edu/content/daniel-pardo-lopez</loc>
-  </url>
-  <url>
-    <loc>https://studentlife.ucmerced.edu/content/evan-lee</loc>
-  </url>
-  <url>
-    <loc>https://studentlife.ucmerced.edu/content/brandon-moua</loc>
-  </url>
-  <url>
-    <loc>https://studentlife.ucmerced.edu/content/jessica-cervantes</loc>
-  </url>
-  <url>
-    <loc>https://studentlife.ucmerced.edu/content/cayla-burks</loc>
-  </url>
-  <url>
-    <loc>https://studentlife.ucmerced.edu/content/james-dyer</loc>
-  </url>
-  <url>
-    <loc>https://studentlife.ucmerced.edu/content/lindsay-cal</loc>
-  </url>
-  <url>
-    <loc>https://studentlife.ucmerced.edu/content/casey-ansen</loc>
-  </url>
-  <url>
-    <loc>https://studentlife.ucmerced.edu/content/daisy-ansen</loc>
-  </url>
-  <url>
-    <loc>https://studentlife.ucmerced.edu/content/ej-montero</loc>
-  </url>
-  <url>
-    <loc>https://studentlife.ucmerced.edu/content/angelo-pacia</loc>
-  </url>
-  <url>
-    <loc>https://studentlife.ucmerced.edu/content/fatiah-lawal-0</loc>
-  </url>
-  <url>
-    <loc>https://studentlife.ucmerced.edu/content/pavi-dhillon</loc>
   </url>
   <url>
     <loc>http://studentlife.ucmerced.edu/</loc>
@@ -1258,10 +1258,10 @@
     <loc>http://studentlife.ucmerced.edu/events/bobcat-bonanza</loc>
   </url>
   <url>
-    <loc>http://studentlife.ucmerced.edu/events/bobcat-leadership-series-info-session</loc>
+    <loc>http://studentlife.ucmerced.edu/events/wii-and-game-night</loc>
   </url>
   <url>
-    <loc>http://studentlife.ucmerced.edu/events/wii-and-game-night</loc>
+    <loc>http://studentlife.ucmerced.edu/events/bobcat-leadership-series-info-session</loc>
   </url>
   <url>
     <loc>http://studentlife.ucmerced.edu/events/bobcat-leadership-series-info-session-0</loc>
@@ -1294,13 +1294,13 @@
     <loc>http://studentlife.ucmerced.edu/events/vip-program-whats-your-media-feeding-you</loc>
   </url>
   <url>
-    <loc>http://studentlife.ucmerced.edu/events/campus-tour</loc>
+    <loc>http://studentlife.ucmerced.edu/events/critical-reading-electronic-age</loc>
   </url>
   <url>
     <loc>http://studentlife.ucmerced.edu/events/financial-institutions-fair</loc>
   </url>
   <url>
-    <loc>http://studentlife.ucmerced.edu/events/critical-reading-electronic-age</loc>
+    <loc>http://studentlife.ucmerced.edu/events/campus-tour</loc>
   </url>
   <url>
     <loc>http://studentlife.ucmerced.edu/events/bellevue-neighborhood-clean</loc>
@@ -1309,10 +1309,10 @@
     <loc>http://studentlife.ucmerced.edu/events/vip-program-gleek-out-speak-out</loc>
   </url>
   <url>
-    <loc>http://studentlife.ucmerced.edu/events/karaoke-night</loc>
+    <loc>http://studentlife.ucmerced.edu/events/vip-program-stalking-know-it-name-it-stop-it</loc>
   </url>
   <url>
-    <loc>http://studentlife.ucmerced.edu/events/vip-program-stalking-know-it-name-it-stop-it</loc>
+    <loc>http://studentlife.ucmerced.edu/events/karaoke-night</loc>
   </url>
   <url>
     <loc>http://studentlife.ucmerced.edu/events/vip-program-help-friend-0</loc>
@@ -1324,16 +1324,16 @@
     <loc>http://studentlife.ucmerced.edu/events/vip-program-project-rewind-1</loc>
   </url>
   <url>
-    <loc>http://studentlife.ucmerced.edu/events/bike-and-electronic-registration-and-ucmpds-resources</loc>
-  </url>
-  <url>
     <loc>http://studentlife.ucmerced.edu/events/vip-program-project-rewind-0</loc>
   </url>
   <url>
-    <loc>http://studentlife.ucmerced.edu/events/lets-make-deal</loc>
+    <loc>http://studentlife.ucmerced.edu/events/bike-and-electronic-registration-and-ucmpds-resources</loc>
   </url>
   <url>
     <loc>http://studentlife.ucmerced.edu/events/minute-win-it</loc>
+  </url>
+  <url>
+    <loc>http://studentlife.ucmerced.edu/events/lets-make-deal</loc>
   </url>
   <url>
     <loc>http://studentlife.ucmerced.edu/events/vip-program-project-rewind</loc>

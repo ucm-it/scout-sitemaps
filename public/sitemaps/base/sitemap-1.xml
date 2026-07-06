@@ -10,6 +10,9 @@
     <loc>https://base.ucmerced.edu/about-us</loc>
   </url>
   <url>
+    <loc>https://base.ucmerced.edu/services</loc>
+  </url>
+  <url>
     <loc>https://base.ucmerced.edu/resources</loc>
   </url>
   <url>
@@ -20,8 +23,5 @@
   </url>
   <url>
     <loc>https://base.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://base.ucmerced.edu/services</loc>
   </url>
 </urlset>
