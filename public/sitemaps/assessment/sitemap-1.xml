@@ -184,13 +184,13 @@
     <loc>https://assessment.ucmerced.edu/events/graduate-student-support-survey-admitted-incoming-graduate-students</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/uc-undergraduate-cost-attendance-survey-coas-sample-undergraduate-students</loc>
-  </url>
-  <url>
     <loc>https://assessment.ucmerced.edu/events/faculty-academic-appointee-experience-survey</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/faculty-academic-appointee-experience-survey-0</loc>
+  </url>
+  <url>
+    <loc>https://assessment.ucmerced.edu/events/uc-undergraduate-cost-attendance-survey-coas-sample-undergraduate-students</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/uc-graduate-student-experience-survey-ucgses</loc>
@@ -238,12 +238,6 @@
     <loc>https://assessment.ucmerced.edu/events/how-we-work-feedback-tool</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/ucmpd-survey-4</loc>
-  </url>
-  <url>
-    <loc>https://assessment.ucmerced.edu/events/ucmpd-survey-5</loc>
-  </url>
-  <url>
     <loc>https://assessment.ucmerced.edu/events/ucmpd-survey-6</loc>
   </url>
   <url>
@@ -251,6 +245,12 @@
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/ucmpd-survey-3</loc>
+  </url>
+  <url>
+    <loc>https://assessment.ucmerced.edu/events/ucmpd-survey-4</loc>
+  </url>
+  <url>
+    <loc>https://assessment.ucmerced.edu/events/ucmpd-survey-5</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/uc-graduate-student-cost-attendance-survey</loc>
@@ -292,9 +292,6 @@
     <loc>https://assessment.ucmerced.edu/events/cucsasystemwide-hr-staff-engagement-survey</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/ucmpd-survey-2</loc>
-  </url>
-  <url>
     <loc>https://assessment.ucmerced.edu/events/ucmpd-survey</loc>
   </url>
   <url>
@@ -302,6 +299,9 @@
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/ucmpd-survey-1</loc>
+  </url>
+  <url>
+    <loc>https://assessment.ucmerced.edu/events/ucmpd-survey-2</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/uc-systemwide-academic-senate-survey-all-faculty-and-instructors</loc>
@@ -319,10 +319,10 @@
     <loc>https://assessment.ucmerced.edu/events/taps-office-sustainability-survey-2</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/healthy-minds-survey</loc>
+    <loc>https://assessment.ucmerced.edu/events/healthy-minds-survey-0</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/healthy-minds-survey-0</loc>
+    <loc>https://assessment.ucmerced.edu/events/healthy-minds-survey</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/graduating-senior-survey-ay-20-21-graduating-seniors</loc>
@@ -346,10 +346,10 @@
     <loc>https://assessment.ucmerced.edu/events/housing-experience-survey-students-campus-housing-tentative</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/taps-commute-verification-survey-sample-faculty-and-staff-working-campus</loc>
+    <loc>https://assessment.ucmerced.edu/events/taps-commute-verification-survey-sample-faculty-and-staff-working-campus-0</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/taps-commute-verification-survey-sample-faculty-and-staff-working-campus-0</loc>
+    <loc>https://assessment.ucmerced.edu/events/taps-commute-verification-survey-sample-faculty-and-staff-working-campus</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/fiscal-responsibility-survey</loc>
@@ -370,9 +370,6 @@
     <loc>https://assessment.ucmerced.edu/events/merced-clinic-employee-health-care-needs-survey-0</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/october-student-experience-survey-all-undergraduates</loc>
-  </url>
-  <url>
     <loc>https://assessment.ucmerced.edu/events/covid-19-experience-survey-faculty-staff-grad-students-post-docs-0</loc>
   </url>
   <url>
@@ -382,13 +379,16 @@
     <loc>https://assessment.ucmerced.edu/events/covid-19-experience-survey-faculty-staff-grad-students-post-docs-2</loc>
   </url>
   <url>
+    <loc>https://assessment.ucmerced.edu/events/october-student-experience-survey-all-undergraduates</loc>
+  </url>
+  <url>
     <loc>https://assessment.ucmerced.edu/events/no-food-left-behind-survey-nflb-participants</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/ssha-leadership-survey-ssha-faculty-staff-0</loc>
+    <loc>https://assessment.ucmerced.edu/events/ssha-leadership-survey-ssha-faculty-staff</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/ssha-leadership-survey-ssha-faculty-staff</loc>
+    <loc>https://assessment.ucmerced.edu/events/ssha-leadership-survey-ssha-faculty-staff-0</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/september-student-experience-survey-all-undergraduates</loc>
@@ -493,10 +493,10 @@
     <loc>https://assessment.ucmerced.edu/events/national-survey-student-engagement-nsse-all-frosh-and-senior-undergraduates</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/national-college-health-assessment-ncha-0</loc>
+    <loc>https://assessment.ucmerced.edu/events/national-college-health-assessment-ncha</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/national-college-health-assessment-ncha</loc>
+    <loc>https://assessment.ucmerced.edu/events/national-college-health-assessment-ncha-0</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/housing-and-residence-life-satisfaction-survey-all-students-campus-housing</loc>
@@ -616,10 +616,10 @@
     <loc>https://assessment.ucmerced.edu/events/staff-assembly-and-staff-wellness-priorities-survey</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/food-truck-and-dining-center-survey</loc>
+    <loc>https://assessment.ucmerced.edu/events/hsri-5-year-review-survey</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/hsri-5-year-review-survey</loc>
+    <loc>https://assessment.ucmerced.edu/events/food-truck-and-dining-center-survey</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/faculty-senate-service-preference-survey</loc>
@@ -658,13 +658,13 @@
     <loc>https://assessment.ucmerced.edu/events/undergraduate-alumni-survey-alumni-1-3-and-5-years-post-graduation</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/childcare-survey-0</loc>
-  </url>
-  <url>
     <loc>https://assessment.ucmerced.edu/events/childcare-survey-1</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/childcare-survey</loc>
+  </url>
+  <url>
+    <loc>https://assessment.ucmerced.edu/events/childcare-survey-0</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/soe-administrative-assessment-survey-soe-faculty</loc>
@@ -685,10 +685,10 @@
     <loc>https://assessment.ucmerced.edu/events/act-survey-staff-who-use-act-some-facultystudents-may-also-be-surveyed</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/national-college-health-assessment-sample-survey-0</loc>
+    <loc>https://assessment.ucmerced.edu/events/national-college-health-assessment-sample-survey</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/national-college-health-assessment-sample-survey</loc>
+    <loc>https://assessment.ucmerced.edu/events/national-college-health-assessment-sample-survey-0</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/financial-wellness-survey</loc>
@@ -715,10 +715,10 @@
     <loc>https://assessment.ucmerced.edu/events/communications-survey-0</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/housing-and-residence-life-satisfaction-survey-all-students-housing</loc>
+    <loc>https://assessment.ucmerced.edu/events/sns-administrative-services-survey-sns-faculty</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/sns-administrative-services-survey-sns-faculty</loc>
+    <loc>https://assessment.ucmerced.edu/events/housing-and-residence-life-satisfaction-survey-all-students-housing</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/faculty-senate-committee-experience-survey-currentpast-senate-faculty</loc>
@@ -733,10 +733,10 @@
     <loc>https://assessment.ucmerced.edu/events/ssha-undergraduate-research-opportunities-survey-ssha-faculty</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/it-cloud-service-survey</loc>
+    <loc>https://assessment.ucmerced.edu/events/it-cloud-service-survey-0</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/it-cloud-service-survey-0</loc>
+    <loc>https://assessment.ucmerced.edu/events/it-cloud-service-survey</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/students-first-center-satisfaction-survey-sample-survey</loc>
@@ -781,9 +781,6 @@
     <loc>https://assessment.ucmerced.edu/events/identity-management-survey</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/dars-satisfaction-survey-0</loc>
-  </url>
-  <url>
     <loc>https://assessment.ucmerced.edu/events/dars-satisfaction-survey-2</loc>
   </url>
   <url>
@@ -793,7 +790,7 @@
     <loc>https://assessment.ucmerced.edu/events/dars-satisfaction-survey-1</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/cob-leed-award-survey-0</loc>
+    <loc>https://assessment.ucmerced.edu/events/dars-satisfaction-survey-0</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/cob-leed-award-survey-1</loc>
@@ -803,6 +800,9 @@
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/cob-leed-award-survey</loc>
+  </url>
+  <url>
+    <loc>https://assessment.ucmerced.edu/events/cob-leed-award-survey-0</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/graduate-student-support-ucop-survey-graduate-applicants</loc>
@@ -832,10 +832,10 @@
     <loc>https://assessment.ucmerced.edu/events/housing-and-residence-life-satisfaction-survey</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/students-first-center-sfc-satisfaction-survey-undergraduate-and-graduate-students</loc>
+    <loc>https://assessment.ucmerced.edu/events/students-first-center-sfc-satisfaction-survey-undergraduate-and-graduate-students-0</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/students-first-center-sfc-satisfaction-survey-undergraduate-and-graduate-students-0</loc>
+    <loc>https://assessment.ucmerced.edu/events/students-first-center-sfc-satisfaction-survey-undergraduate-and-graduate-students</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/new-student-survey-all-freshmen-transfers</loc>
