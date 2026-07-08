@@ -67,9 +67,6 @@
     <loc>https://naturalsciences.ucmerced.edu/news</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events</loc>
-  </url>
-  <url>
     <loc>https://naturalsciences.ucmerced.edu/resources</loc>
   </url>
   <url>
@@ -86,6 +83,9 @@
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/events</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/about/faculty/faculty-awards-fellowships</loc>
@@ -217,6 +217,102 @@
     <loc>https://naturalsciences.ucmerced.edu/news?page=100</loc>
   </url>
   <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/spring-2020-stem-leaf</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/fall-2020-stem-leaf</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/introducing-school-natural-sciences-new-living-learning-communities-0</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/outstanding-student-awards-2</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/grad-student-words-wisdom-0</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/did-you-hear-4</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/jessica-blois-named-faculty-director-uc-merceds-natural-reserves-0</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/meet-2019-2020-school-natural-sciences-leadership-council</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/giving-back-next-generation</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/sns-staff-spotlight-joyce-yowell-research-administrator</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/summer-stem-outreach-programs</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/welcome-new-sns-faculty</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/clarissa-nobile-asmeret-asefaw-berhe-honored-sns-endowed-chairs</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/did-you-hear-2</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/did-you-hear-3</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/outstanding-student-awards-1</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/alumni-advice-class-2019-0</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/undergraduate-words-wisdom-0</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/living-learning-school-natural-sciences-0</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/uc-merced-faculty-students-support-merced-city-school-district%E2%80%99s-steam-center-0</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/outstanding-student-awards-2018-0</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/radiobio-podcast-all-about-biology-molecules-ecosystems-0</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/helping-undergraduates-answer-eternal-questionnow-what-0</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/did-you-hear-5</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/welcome-new-faculty-1</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/remembering-dr-jinah-choi-0</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/mark-your-calendars-0</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/school-natural-sciences-t-shirts-motivate-youngsters-afar-pursue-their-college-dreams-0</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/promoting-inclusion-science-0</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/alumni-words-wisdom-0</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/content/sns-staff-spotlight-vanessa-ortega-front-desk-specialist-0</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/page/images/campus_map.pdf</loc>
+  </url>
+  <url>
     <loc>https://naturalsciences.ucmerced.edu/events/new-year-holiday-sns-deans-suite-closed-0</loc>
   </url>
   <url>
@@ -265,10 +361,10 @@
     <loc>https://naturalsciences.ucmerced.edu/events/qsb-seminar-kendall-calhoun-uc-davis</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/chemistry-biochemistry-seminar-brook-small-chevron-phillips-chemistry</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/physics-seminar-tim-atherton-tufts</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/physics-seminar-tim-atherton-tufts</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/chemistry-biochemistry-seminar-brook-small-chevron-phillips-chemistry</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/events/applied-mathematics-seminar-45</loc>
@@ -784,10 +880,10 @@
     <loc>https://naturalsciences.ucmerced.edu/events/physics-seminar-61</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/applied-mathematics-seminar-39</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/ccb-seminar-41</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/ccb-seminar-41</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/applied-mathematics-seminar-39</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/events/physics-seminar-60</loc>
@@ -865,10 +961,10 @@
     <loc>https://naturalsciences.ucmerced.edu/events/ccb-seminar-37</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/qsb-seminar-32</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/physics-seminar-55</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/physics-seminar-55</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/qsb-seminar-32</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/events/introduction-pre-vet-zoom</loc>
@@ -886,10 +982,10 @@
     <loc>https://naturalsciences.ucmerced.edu/events/ccb-seminar-36</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/uc-merced-environmental-summit-hosted-natural-resources-defense-council</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/professional-development-virtual-workshop-entrepreneurship</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/professional-development-virtual-workshop-entrepreneurship</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/uc-merced-environmental-summit-hosted-natural-resources-defense-council</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/events/physics-seminar-54</loc>
@@ -931,10 +1027,10 @@
     <loc>https://naturalsciences.ucmerced.edu/events/applied-mathematics-seminar-33</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/physics-seminar-51</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/qsb-seminar-29</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/qsb-seminar-29</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/physics-seminar-51</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/events/applied-mathematics-seminar-32</loc>
@@ -949,10 +1045,10 @@
     <loc>https://naturalsciences.ucmerced.edu/events/physics-seminar-50</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/applied-mathematics-seminar-31</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/closing-whats-next-uroc-take-me-doctorate</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/closing-whats-next-uroc-take-me-doctorate</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/applied-mathematics-seminar-31</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/events/qsb-seminar-27</loc>
@@ -1297,10 +1393,10 @@
     <loc>https://naturalsciences.ucmerced.edu/events/ccb-seminar-15</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/physics-seminar-36</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/qsb-seminar-11</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/qsb-seminar-11</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/physics-seminar-36</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/events/navigating-usa-jobs-finding-applying-federal-jobs</loc>
@@ -1312,10 +1408,10 @@
     <loc>https://naturalsciences.ucmerced.edu/events/ccb-seminar-14</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/physics-seminar-33</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/qsb-seminar-10</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/qsb-seminar-10</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/physics-seminar-33</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/events/applied-mathematics-seminar-13</loc>
@@ -1627,10 +1723,10 @@
     <loc>https://naturalsciences.ucmerced.edu/events/environmental-systems-seminar-0</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/ccb-seminar</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/applied-mathematics-seminar-0</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/applied-mathematics-seminar-0</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/ccb-seminar</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/events/mcb-seminar-0</loc>
@@ -1684,13 +1780,13 @@
     <loc>https://naturalsciences.ucmerced.edu/events/applied-mathematics-seminar-291-42619</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/physics-colloquia-293-42619</loc>
-  </url>
-  <url>
     <loc>https://naturalsciences.ucmerced.edu/events/qsb-seminar-series-42619</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/events/chemistry-seminar-series-291-42619</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/events/physics-colloquia-293-42619</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/events/qsb-seminar-series-41918</loc>
@@ -1972,10 +2068,10 @@
     <loc>https://naturalsciences.ucmerced.edu/events/environmental-systems-seminar-101018</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/chemistry-seminar-series-291-10518</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/applied-mathematics-seminar-291-10518</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/applied-mathematics-seminar-291-10518</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/chemistry-seminar-series-291-10518</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/events/qsb-seminar-series-10518</loc>
@@ -2149,19 +2245,16 @@
     <loc>https://naturalsciences.ucmerced.edu/events/cancelled-physics-colloquia-293-32318</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/qsb-seminar-series-32318</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/chemistry-seminar-series-291-32318</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/chemistry-seminar-series-291-32318</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/qsb-seminar-series-32318</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/events/mcb-seminar-32018</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/events/radiobio-podcast-4</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/chemistry-seminar-series-291-3218</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/events/physics-colloquia-293-31618</loc>
@@ -2171,6 +2264,9 @@
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/events/qsb-seminar-series-31618</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/events/chemistry-seminar-series-291-3218</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/events/radiopodcast</loc>
@@ -2209,10 +2305,10 @@
     <loc>https://naturalsciences.ucmerced.edu/events/radiobio-podcast-5</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/physics-colloquia-293-22318</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/qsb-seminar-series-22318</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/qsb-seminar-series-22318</loc>
+    <loc>https://naturalsciences.ucmerced.edu/events/physics-colloquia-293-22318</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/events/mcb-seminar-22018</loc>
@@ -2521,13 +2617,13 @@
     <loc>https://naturalsciences.ucmerced.edu/events/applied-math-seminar-291-41417</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/events/physics-seminar-series-293-41417</loc>
-  </url>
-  <url>
     <loc>https://naturalsciences.ucmerced.edu/events/chemistry-seminar-series-291-41417</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/events/qsb-seminar-series-291-41417</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/events/physics-seminar-series-293-41417</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/events/life-environmental-sciences-seminar-4102017</loc>
@@ -3439,102 +3535,6 @@
     <loc>https://naturalsciences.ucmerced.edu/events/qsb-seminar</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/spring-2020-stem-leaf</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/fall-2020-stem-leaf</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/introducing-school-natural-sciences-new-living-learning-communities-0</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/outstanding-student-awards-2</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/grad-student-words-wisdom-0</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/did-you-hear-4</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/jessica-blois-named-faculty-director-uc-merceds-natural-reserves-0</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/meet-2019-2020-school-natural-sciences-leadership-council</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/giving-back-next-generation</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/sns-staff-spotlight-joyce-yowell-research-administrator</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/summer-stem-outreach-programs</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/welcome-new-sns-faculty</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/clarissa-nobile-asmeret-asefaw-berhe-honored-sns-endowed-chairs</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/did-you-hear-2</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/did-you-hear-3</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/outstanding-student-awards-1</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/alumni-advice-class-2019-0</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/undergraduate-words-wisdom-0</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/living-learning-school-natural-sciences-0</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/uc-merced-faculty-students-support-merced-city-school-district%E2%80%99s-steam-center-0</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/outstanding-student-awards-2018-0</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/radiobio-podcast-all-about-biology-molecules-ecosystems-0</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/helping-undergraduates-answer-eternal-questionnow-what-0</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/did-you-hear-5</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/welcome-new-faculty-1</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/remembering-dr-jinah-choi-0</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/mark-your-calendars-0</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/school-natural-sciences-t-shirts-motivate-youngsters-afar-pursue-their-college-dreams-0</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/promoting-inclusion-science-0</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/alumni-words-wisdom-0</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/content/sns-staff-spotlight-vanessa-ortega-front-desk-specialist-0</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/page/images/campus_map.pdf</loc>
-  </url>
-  <url>
     <loc>https://naturalsciences.ucmerced.edu/media-contact/brenda-ortiz</loc>
   </url>
   <url>
@@ -3560,9 +3560,6 @@
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/people/linda-s-hirst-0</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2026/northern-california-could-face-fire-prone-summer-%E2%80%94-here-are-wild-cards</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2026/uc-merced-opens-flexible-routes-stem-degrees-teaching-beyond</loc>
@@ -3799,10 +3796,10 @@
     <loc>https://naturalsciences.ucmerced.edu/news/2025/uc-merced-graduates-encouraged-embrace-every-moment</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2025/america%E2%80%99s-%E2%80%98salad-bowl%E2%80%99-farmers-invest-guest-worker-housing-hoping-stabilize-workforce</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/2025/dust-danger-central-valley-health-will-likely-get-worse-researchers-find</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2025/dust-danger-central-valley-health-will-likely-get-worse-researchers-find</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/2025/america%E2%80%99s-%E2%80%98salad-bowl%E2%80%99-farmers-invest-guest-worker-housing-hoping-stabilize-workforce</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2025/one-extreme-weather-event-expected-become-more-common-california-here%E2%80%99s-what-know</loc>
@@ -3868,6 +3865,15 @@
     <loc>https://naturalsciences.ucmerced.edu/news?page=98</loc>
   </url>
   <url>
+    <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/page/documents/fall_2020.pdf</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/people/andy-liwang</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/people/nestor-oviedo</loc>
+  </url>
+  <url>
     <loc>https://naturalsciences.ucmerced.edu/events-locations/personnel</loc>
   </url>
   <url>
@@ -3895,13 +3901,13 @@
     <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/peng_jeffrey_ccb_flyer.pdf</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/irvine_william_physics_flyer.pdf</loc>
-  </url>
-  <url>
     <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/holmes_todd_qsb_flyer.pdf</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/closser_kristi_ccb_flyer_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/irvine_william_physics_flyer.pdf</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/pelanda_roberta_qsb_flyer.pdf</loc>
@@ -4087,10 +4093,10 @@
     <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/20181010_natasha_stavros.pdf</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/mueller_leonard_ccb_flyer.pdf</loc>
+    <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/moore_helen_applied_math_flyer.pdf</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/moore_helen_applied_math_flyer.pdf</loc>
+    <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/mueller_leonard_ccb_flyer.pdf</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/grotjahn_danielle_qsb_flyer.pdf</loc>
@@ -4201,13 +4207,10 @@
     <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/joshua_casara_physics_flyer.pdf</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/rokhsar_physics_flyer.pdf</loc>
-  </url>
-  <url>
     <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/stacy_copp_chemistry_flyer.pdf</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/enrico_tapavicza_chemistry_flyer.pdf</loc>
+    <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/rokhsar_physics_flyer.pdf</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/linda_strubbe_physics_flyer.pdf</loc>
@@ -4217,6 +4220,9 @@
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/sil_flyer.pdf</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/enrico_tapavicza_chemistry_flyer.pdf</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/barbara_jacak_physics_flyer.pdf</loc>
@@ -4237,10 +4243,10 @@
     <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/zikherman_v3.pdf</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/robin_selinger_physics_flyer.pdf</loc>
+    <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/phillips_flyer.pdf</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/phillips_flyer.pdf</loc>
+    <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/robin_selinger_physics_flyer.pdf</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/henryformanflyer.pdf</loc>
@@ -4372,10 +4378,10 @@
     <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/documents/michael_minion-_math_seminar_flyer.pdf</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/documents/xavier_andrade-physics_seminar.pdf</loc>
+    <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/documents/joel_yuen-zhou-_chemistry_seminar.pdf</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/documents/joel_yuen-zhou-_chemistry_seminar.pdf</loc>
+    <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/documents/xavier_andrade-physics_seminar.pdf</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/documents/daniela_calvetti-_math_seminar_flyer.pdf</loc>
@@ -4574,15 +4580,6 @@
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/event/documents/linqing_wen-w-stem_flyer_.pdf</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/sites/naturalsciences.ucmerced.edu/files/page/documents/fall_2020.pdf</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/people/andy-liwang</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/people/nestor-oviedo</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/media-contact/brenda-ortiz?page=1</loc>
@@ -4816,10 +4813,10 @@
     <loc>https://naturalsciences.ucmerced.edu/news/2024/los-angeles-times-california-farmers-were-big-trump-backers-they-may-be-collision-course</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2024/los-angeles-times-political-stress-can-you-stay-engaged-without-sacrificing-your-mental</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/2024/study-sugar-pines-reveals-urgent-issue-protecting-forests-climate-change</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2024/study-sugar-pines-reveals-urgent-issue-protecting-forests-climate-change</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/2024/los-angeles-times-political-stress-can-you-stay-engaged-without-sacrificing-your-mental</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2024/fresno-bee-why-did-donald-trump-win-fresno-county-%E2%80%98people-just-voted-their-pocketbook%E2%80%99</loc>
@@ -4861,10 +4858,10 @@
     <loc>https://naturalsciences.ucmerced.edu/news/uc-merced-students-win-research-awards-sacnas</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/professor-working-stop-melanoma-its-tracks</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/impact-understanding-addiction-fruit-flies-video</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/impact-understanding-addiction-fruit-flies-video</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/professor-working-stop-melanoma-its-tracks</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/uc-merced-faculty-opinion-journal-science</loc>
@@ -4987,10 +4984,10 @@
     <loc>https://naturalsciences.ucmerced.edu/news/new-big-data-program-draws-nsf-funding-uc-merced</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/uc-merced-ucsf-fresno-fresno-state-join-forces-address-valley-fever</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/graduate-student-finds-her-calling-medical-research</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/graduate-student-finds-her-calling-medical-research</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/uc-merced-ucsf-fresno-fresno-state-join-forces-address-valley-fever</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/grant-prepare-undergraduates-research-careers</loc>
@@ -5044,10 +5041,10 @@
     <loc>https://naturalsciences.ucmerced.edu/news/research-explains-why-electric-fields-puncture-biological-cells</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/summer-research-program-undergrads-aims-experience-lifetime</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/future-dentist-brings-smiles-kids-faces</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/future-dentist-brings-smiles-kids-faces</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/summer-research-program-undergrads-aims-experience-lifetime</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/applied-math-professors-expanding-knowledge-about-biology</loc>
@@ -5677,10 +5674,13 @@
     <loc>https://naturalsciences.ucmerced.edu/news/2024/ecologists%E2%80%99-meeting-showcases-uc-merced-student-researchers-faculty</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2024/black-hispanic-faculty-disadvantaged-promotion-tenure-process-study-finds</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/2024/soil-fungus-can-kill-rise-california-what-know-about-valley-fever</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news?page=18</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/news/2024/black-hispanic-faculty-disadvantaged-promotion-tenure-process-study-finds</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2024/%E2%80%98unprecedented%E2%80%99-lawsuit-could-roll-back-farmworker-union-wins-2023-california-law</loc>
@@ -5722,10 +5722,10 @@
     <loc>https://naturalsciences.ucmerced.edu/news/2024/cnbc-why-student-loan-forgiveness-sparks-anger</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2024/la-times-what-difference-between-heat-dome-heat-wave</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/2024/cbs-news-heat-dome-scorches-west-record-temps</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2024/cbs-news-heat-dome-scorches-west-record-temps</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/2024/la-times-what-difference-between-heat-dome-heat-wave</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2024/politico-mexicos-new-president-climate-scientist-could-be-boon-california</loc>
@@ -6358,10 +6358,10 @@
     <loc>https://naturalsciences.ucmerced.edu/news?page=82</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2018/gradslam-finalists-announced</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/2018/helmrich-awarded-delta-science-fellowship</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2018/helmrich-awarded-delta-science-fellowship</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/2018/gradslam-finalists-announced</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2018/hart-elected-lifetime-fellow-ecological-society</loc>
@@ -6380,6 +6380,9 @@
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2018/professor-lin-tian-publishes-article-nature-communications</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/news/2018/assistant-professor-ramendra-saha-publishes-article-environmental-epigenetics</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2018/physics-students-win-national-recognition</loc>
@@ -6404,9 +6407,6 @@
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2017/another-first-nobile-nih-outstanding-investigator-award</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2018/assistant-professor-ramendra-saha-publishes-article-environmental-epigenetics</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/programs/molecular-cell-biology?page=1</loc>
@@ -6493,10 +6493,10 @@
     <loc>https://naturalsciences.ucmerced.edu/news?page=26</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2023/science-us-researchers-brace-likely-government-shutdown</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/2023/us-researchers-brace-likely-government-shutdown</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2023/us-researchers-brace-likely-government-shutdown</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/2023/science-us-researchers-brace-likely-government-shutdown</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2023/hacu-leadership-cohort-%E2%80%98exciting-opportunity-learn%E2%80%99-ortiz-says</loc>
@@ -6565,16 +6565,19 @@
     <loc>https://naturalsciences.ucmerced.edu/news/2018/study-finds-gene-transcription-can-serve-brain%E2%80%99s-timekeeper</loc>
   </url>
   <url>
+    <loc>https://naturalsciences.ucmerced.edu/news/2018/students-discover-cannibal-lizards-remote-aegean-island</loc>
+  </url>
+  <url>
     <loc>https://naturalsciences.ucmerced.edu/news?page=79</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/news/2019/uc-merced-celebrates-international-year-periodic-table-chemical-elements</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2019/first-partner-lieutenant-governor-speak-spring-commencement</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2019/uc-merced-acs-seed-program-selected-host-iypt-event</loc>
-  </url>
-  <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2019/uc-merced-celebrates-international-year-periodic-table-chemical-elements</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2019/professor-among-siam-distinguished-class-2019-fellows</loc>
@@ -6742,10 +6745,10 @@
     <loc>https://naturalsciences.ucmerced.edu/news?page=75</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/media-contact/kenneth-mashinchi</loc>
+    <loc>https://naturalsciences.ucmerced.edu/media-contact/blythe-nobleman</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/media-contact/blythe-nobleman</loc>
+    <loc>https://naturalsciences.ucmerced.edu/media-contact/kenneth-mashinchi</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2019/ccbm-bringing-high-powered-speakers-two-day-workshop</loc>
@@ -6778,10 +6781,10 @@
     <loc>https://naturalsciences.ucmerced.edu/news/2019/computational-chemist-improving-modeling-complex-processes</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2019/siam-student-chapter-conference-unites-valley-regional-applied-mathematics-community</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/2019/older-wiser-2009-graduates-reflect-instrumental-uc-merced-education</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2019/older-wiser-2009-graduates-reflect-instrumental-uc-merced-education</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/2019/siam-student-chapter-conference-unites-valley-regional-applied-mathematics-community</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/media-contact/james-leonard</loc>
@@ -6841,10 +6844,10 @@
     <loc>https://naturalsciences.ucmerced.edu/news/2022/courage-idealism-take-center-stage-fall-2022-commencement</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2022/introducing-sns-fall-2022-outstanding-student-award-winners</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/2022/michael-findlater-receives-grants-study-ionic-liquids-%E2%80%98green%E2%80%99-additives</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2022/michael-findlater-receives-grants-study-ionic-liquids-%E2%80%98green%E2%80%99-additives</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/2022/introducing-sns-fall-2022-outstanding-student-award-winners</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2022/fall-2022-commencement-include-first-graduate-division-ceremony</loc>
@@ -6853,10 +6856,10 @@
     <loc>https://naturalsciences.ucmerced.edu/news/2022/michael-findlater-awarded-help-conversion-greenhouse-gases-valuable-resources</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news?page=35</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/2022/odds-early-death-rise-after-severe-injury-linked-alcohol</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2022/odds-early-death-rise-after-severe-injury-linked-alcohol</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news?page=35</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2022/uc-merced-designated-agricultural-experiment-station</loc>
@@ -6898,10 +6901,10 @@
     <loc>https://naturalsciences.ucmerced.edu/news?page=71</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/taxonomy/term/901/feed</loc>
+    <loc>https://naturalsciences.ucmerced.edu/taxonomy/term/1041/feed</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/taxonomy/term/1041/feed</loc>
+    <loc>https://naturalsciences.ucmerced.edu/taxonomy/term/901/feed</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2020/reinterpreting-modern-quincea%C3%B1era</loc>
@@ -6910,10 +6913,10 @@
     <loc>https://naturalsciences.ucmerced.edu/news/2020/la-times-ca-deserts-mountains-not-good-escape-coronavirus</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2020/turlock-journal-uc-merced-experts-share-insight-covid-19-pandemic</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/2020/capradio-how-cope-anxiety-loneliness-during-californias-stay-home-order</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2020/capradio-how-cope-anxiety-loneliness-during-californias-stay-home-order</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/2020/turlock-journal-uc-merced-experts-share-insight-covid-19-pandemic</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2020/two-grad-students-attend-nobel-laureate-meetings</loc>
@@ -6937,13 +6940,10 @@
     <loc>https://naturalsciences.ucmerced.edu/news?page=70</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2020/merced-sun-star-uc-merced-goes-online-through-spring-semester</loc>
-  </url>
-  <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2020/ny-times-uc-merced-remains-safe-haven-students</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2020/conversation-why-dont-viruses-make-their-original-hosts-sick-5-questions-answered</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/2020/merced-sun-star-uc-merced-goes-online-through-spring-semester</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2020/conversation-why-don%E2%80%99t-viruses-make-their-original-host-sick</loc>
@@ -6952,10 +6952,13 @@
     <loc>https://naturalsciences.ucmerced.edu/news/2020/everything-experts-know-about-skin-cancer-2020</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2020/kfsn-abc30-uc-merced-moves-remote-learning-amid-coronavirus-concerns</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/2020/conversation-why-dont-viruses-make-their-original-hosts-sick-5-questions-answered</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2020/washington-post-china-also-relying-propaganda-tackle-covid-19</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/news/2020/kfsn-abc30-uc-merced-moves-remote-learning-amid-coronavirus-concerns</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2020/la-times-campuses-close-modify-learning-response-covid-19</loc>
@@ -7051,22 +7054,22 @@
     <loc>https://naturalsciences.ucmerced.edu/media-contact/juan-flores</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2022/new-uc-merced-program-gives-former-students-second-chance</loc>
-  </url>
-  <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2022/dalai-lama-receive-15th-annual-prize-ca-university</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2022/uc-merced-students-talk-about-starting-classes-campus</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/2022/new-uc-merced-program-gives-former-students-second-chance</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2022/dalai-lama-receive-uc-merceds-15th-spendlove-prize</loc>
   </url>
   <url>
-    <loc>https://naturalsciences.ucmerced.edu/news/2022/scholars-confirm-what-itsy-bitsy-babies-around-world-already-know</loc>
+    <loc>https://naturalsciences.ucmerced.edu/news/2022/uc-merced-students-talk-about-starting-classes-campus</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2022/scholars-confirm-what-itsy-bitsy-babies-around-world-already-know-0</loc>
+  </url>
+  <url>
+    <loc>https://naturalsciences.ucmerced.edu/news/2022/scholars-confirm-what-itsy-bitsy-babies-around-world-already-know</loc>
   </url>
   <url>
     <loc>https://naturalsciences.ucmerced.edu/news/2022/shrinking-sierra-nevada-snowpack-threatens-california-water-supply</loc>
