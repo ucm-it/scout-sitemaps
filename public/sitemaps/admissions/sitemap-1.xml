@@ -106,9 +106,6 @@
     <loc>https://admissions.ucmerced.edu/family-tours</loc>
   </url>
   <url>
-    <loc>https://admissions.ucmerced.edu/information/parents-families</loc>
-  </url>
-  <url>
     <loc>https://admissions.ucmerced.edu/information/counselors-educators</loc>
   </url>
   <url>
@@ -131,9 +128,6 @@
   </url>
   <url>
     <loc>https://admissions.ucmerced.edu/first-year/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://admissions.ucmerced.edu/appeals</loc>
   </url>
   <url>
     <loc>https://admissions.ucmerced.edu/first-year/selection-process</loc>
@@ -173,6 +167,9 @@
   </url>
   <url>
     <loc>http://admissions.ucmerced.edu</loc>
+  </url>
+  <url>
+    <loc>https://admissions.ucmerced.edu/appeals</loc>
   </url>
   <url>
     <loc>https://admissions.ucmerced.edu/out-of-state/wue</loc>

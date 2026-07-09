@@ -157,10 +157,10 @@
     <loc>https://mechatronics.ucmerced.edu/news/2026/osama-and-shiang-presented-posters-mae-graduate-symposium</loc>
   </url>
   <url>
-    <loc>https://mechatronics.ucmerced.edu/news/2026/prof-chen-was-invited-give-seminar-bls-us-bureau-labor-statistics</loc>
+    <loc>https://mechatronics.ucmerced.edu/news/2026/mesa-lab-selected-offer-cosmos-track-digital-twins</loc>
   </url>
   <url>
-    <loc>https://mechatronics.ucmerced.edu/news/2026/mesa-lab-selected-offer-cosmos-track-digital-twins</loc>
+    <loc>https://mechatronics.ucmerced.edu/news/2026/prof-chen-was-invited-give-seminar-bls-us-bureau-labor-statistics</loc>
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/news/2026/congratulations-dr-derek-hollenbeck-winning-moore-foundation-postdoctoral-fellowship</loc>
@@ -1228,13 +1228,13 @@
     <loc>https://mechatronics.ucmerced.edu/news/2026/mesa-lab-welcomes-new-members-spring-2026</loc>
   </url>
   <url>
+    <loc>https://mechatronics.ucmerced.edu/news/2025/congratulations-justus-nwoke-winning-gem-fellowship</loc>
+  </url>
+  <url>
     <loc>https://mechatronics.ucmerced.edu/news/2025/congratulations-justus-nwoke-me-best-teaching-assistant-award</loc>
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/news/2025/congratulations-shiang-cao-passing-his-phd-dissertation-proposal-defense</loc>
-  </url>
-  <url>
-    <loc>https://mechatronics.ucmerced.edu/news/2025/congratulations-justus-nwoke-winning-gem-fellowship</loc>
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/news/2025/7th-norcal-control-workshop-uc-davis-4-posters-mesa-lab</loc>
@@ -1285,6 +1285,9 @@
     <loc>https://mechatronics.ucmerced.edu/news/2024/welcome-new-arrival-sachin-giri-new-eecs-phd-student</loc>
   </url>
   <url>
+    <loc>https://mechatronics.ucmerced.edu/news/2024/dr-chens-h-index-reaches-100</loc>
+  </url>
+  <url>
     <loc>https://mechatronics.ucmerced.edu/news?page=9</loc>
   </url>
   <url>
@@ -1318,13 +1321,16 @@
     <loc>https://mechatronics.ucmerced.edu/news?page=10</loc>
   </url>
   <url>
+    <loc>https://mechatronics.ucmerced.edu/news/2023/prof-chen-was-invited-serve-new-journal-inauguration-editorial-boards</loc>
+  </url>
+  <url>
     <loc>https://mechatronics.ucmerced.edu/news?page=11</loc>
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/news?page=12</loc>
   </url>
   <url>
-    <loc>https://mechatronics.ucmerced.edu/news/2012/dr-chen-invited-serve-jint-senior-editor</loc>
+    <loc>https://mechatronics.ucmerced.edu/news/2012/dr-chen-serves-program-chair-icuas-2013</loc>
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/news?page=29</loc>
@@ -1651,10 +1657,10 @@
     <loc>http://mechatronics.ucmerced.edu/news/2026/osama-and-shiang-presented-posters-mae-graduate-symposium</loc>
   </url>
   <url>
-    <loc>http://mechatronics.ucmerced.edu/news/2026/prof-chen-was-invited-give-seminar-bls-us-bureau-labor-statistics</loc>
+    <loc>http://mechatronics.ucmerced.edu/news/2026/mesa-lab-selected-offer-cosmos-track-digital-twins</loc>
   </url>
   <url>
-    <loc>http://mechatronics.ucmerced.edu/news/2026/mesa-lab-selected-offer-cosmos-track-digital-twins</loc>
+    <loc>http://mechatronics.ucmerced.edu/news/2026/prof-chen-was-invited-give-seminar-bls-us-bureau-labor-statistics</loc>
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news/2026/congratulations-dr-derek-hollenbeck-winning-moore-foundation-postdoctoral-fellowship</loc>
@@ -2308,9 +2314,6 @@
     <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/news/documents/mesalab-one-ppt-overview-2024may.pptx</loc>
   </url>
   <url>
-    <loc>https://mechatronics.ucmerced.edu/news/2024/dr-chens-h-index-reaches-100</loc>
-  </url>
-  <url>
     <loc>https://mechatronics.ucmerced.edu/methane</loc>
   </url>
   <url>
@@ -2324,9 +2327,6 @@
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/fguc</loc>
-  </url>
-  <url>
-    <loc>https://mechatronics.ucmerced.edu/news/2023/prof-chen-was-invited-serve-new-journal-inauguration-editorial-boards</loc>
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/news/documents/icuas22_icuas22_feb20th_di_an.pdf</loc>
@@ -2575,6 +2575,9 @@
     <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/news/documents/march_ag_bag_invite.pdf</loc>
   </url>
   <url>
+    <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/news/documents/citris-f3-ag-bag-3-20-2025-yangquan-chen_v2_-_copy.pptx</loc>
+  </url>
+  <url>
     <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/news/documents/citris-f3-ag-bag-3-20-2025-yangquan-chen_v2c.pdf</loc>
   </url>
   <url>
@@ -2653,16 +2656,16 @@
     <loc>https://mechatronics.ucmerced.edu/news/2012/dr-chen-founding-editorial-board-member-us-unmanned-systems-journal</loc>
   </url>
   <url>
-    <loc>https://mechatronics.ucmerced.edu/news/2012/ifac-journal-mechatronics-special-issue-fractional-order-modelling-and-control-mechatronic</loc>
+    <loc>https://mechatronics.ucmerced.edu/news/2012/dr-chen-invited-serve-jint-senior-editor</loc>
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/news/2014/phd-student-brendan-smith-was-invited-ag-panelist-auvsi-channel-island-chapters-2014</loc>
   </url>
   <url>
-    <loc>https://mechatronics.ucmerced.edu/news/2014/mesa-lab-manager-brandon-stark-was-invited-serve-panel-event-connecting-dots-unmanned</loc>
+    <loc>https://mechatronics.ucmerced.edu/news/2014/mesa-lab-welcomes-three-new-visiting-scholars</loc>
   </url>
   <url>
-    <loc>https://mechatronics.ucmerced.edu/news/2014/mesa-lab-welcomes-three-new-visiting-scholars</loc>
+    <loc>https://mechatronics.ucmerced.edu/news/2014/mesa-lab-manager-brandon-stark-was-invited-serve-panel-event-connecting-dots-unmanned</loc>
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/aiaa</loc>
@@ -2695,10 +2698,10 @@
     <loc>https://mechatronics.ucmerced.edu/news/2014/mesa-lab-merced-vernal-pools-and-grassland-reserve</loc>
   </url>
   <url>
-    <loc>https://mechatronics.ucmerced.edu/news/2014/congratulations-jinlu-han-calvin-coopmans-and-austin-jensen-passing-final-dissertation</loc>
+    <loc>https://mechatronics.ucmerced.edu/news/2014/mel-torrie-autonomous-solutions-inc-asirobotscom-visits-uc-merced-and-gives-seminar</loc>
   </url>
   <url>
-    <loc>https://mechatronics.ucmerced.edu/news/2014/mel-torrie-autonomous-solutions-inc-asirobotscom-visits-uc-merced-and-gives-seminar</loc>
+    <loc>https://mechatronics.ucmerced.edu/news/2014/congratulations-jinlu-han-calvin-coopmans-and-austin-jensen-passing-final-dissertation</loc>
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/news/2014/mesa-lab-recent-grantscontractsgift-citris-ucanr-hsri-lam-and-margo-souza</loc>
@@ -2711,6 +2714,9 @@
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/news/2014/mesa-lab-welcomes-new-visiting-scholars-prof-dr-jiacai-huang-prof-dr-zhigang-lian-and-mr</loc>
+  </url>
+  <url>
+    <loc>https://mechatronics.ucmerced.edu/news/2014/mesa-lab-welcomes-two-new-visiting-professors-prof-guimei-zhang-and-prof-xiaodong-sun</loc>
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/news/2013/professor-kevin-l-moore-and-prof-deyuan-mengs-visit-uc-merced</loc>
@@ -2737,6 +2743,9 @@
     <loc>https://mechatronics.ucmerced.edu/news/2013/mesa-lab-welcomes-new-member-dr-prof-zhanbing-bai</loc>
   </url>
   <url>
+    <loc>https://mechatronics.ucmerced.edu/news/2013/mesa-lab-welcomes-visitors-professor-malgorzata-klimek-poland-and-professor-primo</loc>
+  </url>
+  <url>
     <loc>https://mechatronics.ucmerced.edu/news/2013/5th-robots-and-ribs</loc>
   </url>
   <url>
@@ -2752,10 +2761,10 @@
     <loc>https://mechatronics.ucmerced.edu/news/2013/mesa-lab-imaa</loc>
   </url>
   <url>
-    <loc>https://mechatronics.ucmerced.edu/news/2013/4th-robots-and-ribs</loc>
+    <loc>https://mechatronics.ucmerced.edu/news/2013/mesa-lab-news</loc>
   </url>
   <url>
-    <loc>https://mechatronics.ucmerced.edu/news/2013/mesa-lab-news</loc>
+    <loc>https://mechatronics.ucmerced.edu/news/2013/4th-robots-and-ribs</loc>
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/news/2013/mesa-lab-welcomes-visitor-michal-podhradsky-csois-dept-ece-utah-state-university-seminar</loc>
@@ -2884,13 +2893,13 @@
     <loc>http://mechatronics.ucmerced.edu/news/2026/mesa-lab-welcomes-new-members-spring-2026</loc>
   </url>
   <url>
+    <loc>http://mechatronics.ucmerced.edu/news/2025/congratulations-justus-nwoke-winning-gem-fellowship</loc>
+  </url>
+  <url>
     <loc>http://mechatronics.ucmerced.edu/news/2025/congratulations-justus-nwoke-me-best-teaching-assistant-award</loc>
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news/2025/congratulations-shiang-cao-passing-his-phd-dissertation-proposal-defense</loc>
-  </url>
-  <url>
-    <loc>http://mechatronics.ucmerced.edu/news/2025/congratulations-justus-nwoke-winning-gem-fellowship</loc>
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news/2025/7th-norcal-control-workshop-uc-davis-4-posters-mesa-lab</loc>
@@ -2941,6 +2950,9 @@
     <loc>http://mechatronics.ucmerced.edu/news/2024/welcome-new-arrival-sachin-giri-new-eecs-phd-student</loc>
   </url>
   <url>
+    <loc>http://mechatronics.ucmerced.edu/news/2024/dr-chens-h-index-reaches-100</loc>
+  </url>
+  <url>
     <loc>http://mechatronics.ucmerced.edu/news?page=9</loc>
   </url>
   <url>
@@ -2974,13 +2986,16 @@
     <loc>http://mechatronics.ucmerced.edu/news?page=10</loc>
   </url>
   <url>
+    <loc>http://mechatronics.ucmerced.edu/news/2023/prof-chen-was-invited-serve-new-journal-inauguration-editorial-boards</loc>
+  </url>
+  <url>
     <loc>http://mechatronics.ucmerced.edu/news?page=11</loc>
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news?page=12</loc>
   </url>
   <url>
-    <loc>http://mechatronics.ucmerced.edu/news/2012/dr-chen-invited-serve-jint-senior-editor</loc>
+    <loc>http://mechatronics.ucmerced.edu/news/2012/dr-chen-serves-program-chair-icuas-2013</loc>
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news?page=29</loc>
@@ -3005,12 +3020,6 @@
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news?page=28</loc>
-  </url>
-  <url>
-    <loc>http://mechatronics.ucmerced.edu/news/2024/dr-chens-h-index-reaches-100</loc>
-  </url>
-  <url>
-    <loc>http://mechatronics.ucmerced.edu/news/2023/prof-chen-was-invited-serve-new-journal-inauguration-editorial-boards</loc>
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news/2021/congratulations-jairo-viola-winning-2021-2022-miguel-velez-scholarship</loc>
@@ -3397,10 +3406,10 @@
     <loc>https://mechatronics.ucmerced.edu/news/2015/8-th-faa-coa-approved-congratulations</loc>
   </url>
   <url>
-    <loc>https://mechatronics.ucmerced.edu/news/2015/dr-chen-gave-invited-seminar-california-melon-research-board-annual-symposium</loc>
+    <loc>https://mechatronics.ucmerced.edu/news/2015/dr-chen-was-invited-introduce-ucmerceds-scientific-data-drone-research-lbnls-fuego</loc>
   </url>
   <url>
-    <loc>https://mechatronics.ucmerced.edu/news/2015/dr-chen-was-invited-introduce-ucmerceds-scientific-data-drone-research-lbnls-fuego</loc>
+    <loc>https://mechatronics.ucmerced.edu/news/2015/dr-chen-gave-invited-seminar-california-melon-research-board-annual-symposium</loc>
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/news/2015/mesa-lab-welcomes-5-new-members-recently-arrived</loc>
@@ -3439,10 +3448,10 @@
     <loc>https://mechatronics.ucmerced.edu/news/2016/drone-legislative-day-capitol-visit-sacramento</loc>
   </url>
   <url>
-    <loc>https://mechatronics.ucmerced.edu/news/2016/mesa-lab-welcome-new-phd-students</loc>
+    <loc>https://mechatronics.ucmerced.edu/news/2016/congratulations-brandon-stark-establishing-and-directing-uc-coe-uas-safety-center</loc>
   </url>
   <url>
-    <loc>https://mechatronics.ucmerced.edu/news/2016/congratulations-brandon-stark-establishing-and-directing-uc-coe-uas-safety-center</loc>
+    <loc>https://mechatronics.ucmerced.edu/news/2016/mesa-lab-welcome-new-phd-students</loc>
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/news/2016/uc-receives-sec-333-approval-uas-drone-uses-congratulation</loc>
@@ -3580,7 +3589,7 @@
     <loc>http://mechatronics.ucmerced.edu/news/2012/dr-chen-founding-editorial-board-member-us-unmanned-systems-journal</loc>
   </url>
   <url>
-    <loc>http://mechatronics.ucmerced.edu/news/2012/ifac-journal-mechatronics-special-issue-fractional-order-modelling-and-control-mechatronic</loc>
+    <loc>http://mechatronics.ucmerced.edu/news/2012/dr-chen-invited-serve-jint-senior-editor</loc>
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news/2014/mesa-lab-presented-two-research-posters-uas-mapping-reno-2014-asprs</loc>
@@ -3589,13 +3598,13 @@
     <loc>http://mechatronics.ucmerced.edu/news/2014/phd-student-brendan-smith-was-invited-ag-panelist-auvsi-channel-island-chapters-2014</loc>
   </url>
   <url>
-    <loc>http://mechatronics.ucmerced.edu/news/2014/mesa-lab-manager-brandon-stark-was-invited-serve-panel-event-connecting-dots-unmanned</loc>
-  </url>
-  <url>
     <loc>http://mechatronics.ucmerced.edu/news/2014/mesa-lab-welcomes-three-new-visiting-scholars</loc>
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news/2014/outreach-lecture-module-age-data-drones-wright-brothers-20</loc>
+  </url>
+  <url>
+    <loc>http://mechatronics.ucmerced.edu/news/2014/mesa-lab-manager-brandon-stark-was-invited-serve-panel-event-connecting-dots-unmanned</loc>
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/aiaa</loc>
@@ -3604,13 +3613,13 @@
     <loc>http://mechatronics.ucmerced.edu/swir</loc>
   </url>
   <url>
-    <loc>http://mechatronics.ucmerced.edu/news/2014/2nd-faa-coa-approved-mesa-labs-scientific-data-drone-research</loc>
-  </url>
-  <url>
     <loc>http://mechatronics.ucmerced.edu/news/2014/madbook-site-released-worldscientific-2014-modeling-analysis-and-design-control-systems</loc>
   </url>
   <url>
-    <loc>http://mechatronics.ucmerced.edu/news/2014/mesa-lab-manager-brandon-stark-will-attend-uas-summit-challenges-and-opportunities-road</loc>
+    <loc>http://mechatronics.ucmerced.edu/news/2014/2nd-faa-coa-approved-mesa-labs-scientific-data-drone-research</loc>
+  </url>
+  <url>
+    <loc>http://mechatronics.ucmerced.edu/news/2014/mesa-lab-manager-brandon-stark-attended-faa-uas-coe-public-meeting-may-28-29-washington-dc</loc>
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news?page=21</loc>
@@ -3623,6 +3632,9 @@
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news?page=20</loc>
+  </url>
+  <url>
+    <loc>http://mechatronics.ucmerced.edu/news/2014/mesa-lab-manager-brandon-stark-will-attend-uas-summit-challenges-and-opportunities-road</loc>
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news/2014/icuas14-tutorial-emerging-suas-technology-precision-agriculture-applications-agdronetech14</loc>
@@ -3640,13 +3652,16 @@
     <loc>http://mechatronics.ucmerced.edu/news/2014/mesa-lab-merced-vernal-pools-and-grassland-reserve</loc>
   </url>
   <url>
-    <loc>http://mechatronics.ucmerced.edu/news/2014/congratulations-jinlu-han-calvin-coopmans-and-austin-jensen-passing-final-dissertation</loc>
-  </url>
-  <url>
     <loc>http://mechatronics.ucmerced.edu/news/2014/drone-day-demo-flight-cosumnes-river-preserve-3282014-uc-merced-mesa-lab</loc>
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news/2014/mel-torrie-autonomous-solutions-inc-asirobotscom-visits-uc-merced-and-gives-seminar</loc>
+  </url>
+  <url>
+    <loc>http://mechatronics.ucmerced.edu/news/2014/congratulations-jinlu-han-calvin-coopmans-and-austin-jensen-passing-final-dissertation</loc>
+  </url>
+  <url>
+    <loc>http://mechatronics.ucmerced.edu/news/2014/brandon-stark-invited-faa-coa-application-tutorial-lecturer-lbnl</loc>
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news/2014/mesa-lab-recent-grantscontractsgift-citris-ucanr-hsri-lam-and-margo-souza</loc>
@@ -3673,10 +3688,13 @@
     <loc>http://mechatronics.ucmerced.edu/news/2014/mesa-lab-water-data-drone-featured-citris-newsletter</loc>
   </url>
   <url>
-    <loc>http://mechatronics.ucmerced.edu/news/2014/fox-26-news-story-data-drone-mesa-lab-uc-merced</loc>
+    <loc>http://mechatronics.ucmerced.edu/news/2014/mesa-lab-uc-merced-listed-among-top-tier</loc>
   </url>
   <url>
-    <loc>http://mechatronics.ucmerced.edu/news/2014/mesa-lab-uc-merced-listed-among-top-tier</loc>
+    <loc>http://mechatronics.ucmerced.edu/news/2014/mesa-lab-welcomes-two-new-visiting-professors-prof-guimei-zhang-and-prof-xiaodong-sun</loc>
+  </url>
+  <url>
+    <loc>http://mechatronics.ucmerced.edu/news/2014/fox-26-news-story-data-drone-mesa-lab-uc-merced</loc>
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news/2013/uc-merced-magazine-inaugural-issue-features-mesa-lab-story</loc>
@@ -3700,10 +3718,10 @@
     <loc>http://mechatronics.ucmerced.edu/news/2013/dr-chen-serves-judge-robotic-business-reviews-2013-game-changer-awards</loc>
   </url>
   <url>
-    <loc>http://mechatronics.ucmerced.edu/news/2013/mesa-lab-welcomes-new-visiting-scholarexchange-phd-student-yanan-qiu</loc>
+    <loc>http://mechatronics.ucmerced.edu/news/2013/bruce-j-wests-visit-uc-merced-mesa-lab-%EF%BD%8Donday-9162013</loc>
   </url>
   <url>
-    <loc>http://mechatronics.ucmerced.edu/news/2013/bruce-j-wests-visit-uc-merced-mesa-lab-%EF%BD%8Donday-9162013</loc>
+    <loc>http://mechatronics.ucmerced.edu/news/2013/mesa-lab-welcomes-new-visiting-scholarexchange-phd-student-yanan-qiu</loc>
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news/2013/mesa-lab-castle-air-museum-open-cockpit-day</loc>
@@ -3724,6 +3742,9 @@
     <loc>http://mechatronics.ucmerced.edu/news/2013/mesa-lab-new-wiley-book-websites</loc>
   </url>
   <url>
+    <loc>http://mechatronics.ucmerced.edu/news/2013/mesa-lab-welcomes-visitors-professor-malgorzata-klimek-poland-and-professor-primo</loc>
+  </url>
+  <url>
     <loc>http://mechatronics.ucmerced.edu/news/2013/mesa-lab-uc-merced-presents-%E2%80%9Cdrones-mechatronics-and-fractional-calculus-%E2%80%93mesa-lab-2013</loc>
   </url>
   <url>
@@ -3742,10 +3763,10 @@
     <loc>http://mechatronics.ucmerced.edu/news/2013/mesa-lab-imaa</loc>
   </url>
   <url>
-    <loc>http://mechatronics.ucmerced.edu/news/2013/4th-robots-and-ribs</loc>
+    <loc>http://mechatronics.ucmerced.edu/news/2013/mesa-lab-news</loc>
   </url>
   <url>
-    <loc>http://mechatronics.ucmerced.edu/news/2013/mesa-lab-news</loc>
+    <loc>http://mechatronics.ucmerced.edu/news/2013/4th-robots-and-ribs</loc>
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news/2013/mesa-lab-welcomes-visitor-michal-podhradsky-csois-dept-ece-utah-state-university-seminar</loc>
@@ -3988,10 +4009,10 @@
     <loc>http://mechatronics.ucmerced.edu/news/2015/8-th-faa-coa-approved-congratulations</loc>
   </url>
   <url>
-    <loc>http://mechatronics.ucmerced.edu/news/2015/dr-chen-gave-invited-seminar-california-melon-research-board-annual-symposium</loc>
+    <loc>http://mechatronics.ucmerced.edu/news/2015/dr-chen-was-invited-introduce-ucmerceds-scientific-data-drone-research-lbnls-fuego</loc>
   </url>
   <url>
-    <loc>http://mechatronics.ucmerced.edu/news/2015/dr-chen-was-invited-introduce-ucmerceds-scientific-data-drone-research-lbnls-fuego</loc>
+    <loc>http://mechatronics.ucmerced.edu/news/2015/dr-chen-gave-invited-seminar-california-melon-research-board-annual-symposium</loc>
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news/2015/mesa-lab-welcomes-5-new-members-recently-arrived</loc>
@@ -4003,10 +4024,10 @@
     <loc>http://mechatronics.ucmerced.edu/news/2014/coming-paper-deadlines-icuas15-fdta15-suavta15</loc>
   </url>
   <url>
-    <loc>http://mechatronics.ucmerced.edu/news/2014/congressman-jim-costa-visited-mesa-lab-tue-10282014-and-ucdc-fgr-chris-carter-visited-mesa</loc>
+    <loc>http://mechatronics.ucmerced.edu/news/2014/4-more-faa-coas-approved-mesa-lab-big-congratulations</loc>
   </url>
   <url>
-    <loc>http://mechatronics.ucmerced.edu/news/2014/4-more-faa-coas-approved-mesa-lab-big-congratulations</loc>
+    <loc>http://mechatronics.ucmerced.edu/news/2014/congressman-jim-costa-visited-mesa-lab-tue-10282014-and-ucdc-fgr-chris-carter-visited-mesa</loc>
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news/2014/dr-calvin-coopmans-aggieair-visits-mesa-lab-112414</loc>
@@ -4033,13 +4054,13 @@
     <loc>http://mechatronics.ucmerced.edu/news/2016/drone-legislative-day-capitol-visit-sacramento</loc>
   </url>
   <url>
-    <loc>http://mechatronics.ucmerced.edu/news/2016/mesa-lab-welcome-new-phd-students</loc>
-  </url>
-  <url>
     <loc>http://mechatronics.ucmerced.edu/news/2016/congratulations-brandon-stark-establishing-and-directing-uc-coe-uas-safety-center</loc>
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news/2016/congratulations-brandon-stark-winning-icuas2015-best-paper-award</loc>
+  </url>
+  <url>
+    <loc>http://mechatronics.ucmerced.edu/news/2016/mesa-lab-welcome-new-phd-students</loc>
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news/2016/uc-receives-sec-333-approval-uas-drone-uses-congratulation</loc>
@@ -4073,6 +4094,9 @@
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/DroneDMV</loc>
+  </url>
+  <url>
+    <loc>http://mechatronics.ucmerced.edu/news/2015/fractional-calculus-day-uc-merced-2015-edition</loc>
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news/2015/dr-chen-will-serve-invited-panelist-nasa-utm-uas-traffic-management-convention</loc>

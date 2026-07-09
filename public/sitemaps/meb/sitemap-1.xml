@@ -19,10 +19,10 @@
     <loc>https://meb.ucmerced.edu/news/2023/uc-merced-medical-education-building-gains-final-approval-uc-regents</loc>
   </url>
   <url>
-    <loc>https://meb.ucmerced.edu/news/2024/ground-broken-medical-education-building-uc-merced</loc>
+    <loc>https://meb.ucmerced.edu/news/2024/following-mission-improve-valley-health-care</loc>
   </url>
   <url>
-    <loc>https://meb.ucmerced.edu/news/2024/following-mission-improve-valley-health-care</loc>
+    <loc>https://meb.ucmerced.edu/news/2024/ground-broken-medical-education-building-uc-merced</loc>
   </url>
   <url>
     <loc>https://meb.ucmerced.edu/rss.xml</loc>
@@ -124,18 +124,6 @@
     <loc>https://meb.ucmerced.edu/news/sjv-prime</loc>
   </url>
   <url>
-    <loc>https://meb.ucmerced.edu/media-contact/patty-guerra</loc>
-  </url>
-  <url>
-    <loc>https://meb.ucmerced.edu/news/2026/wild-mushrooms-punchlines-bobcats-learn-out-box-ways</loc>
-  </url>
-  <url>
-    <loc>https://meb.ucmerced.edu/news/2026/degrees-cheers-and-record-number-graduates-under-open-sky</loc>
-  </url>
-  <url>
-    <loc>https://meb.ucmerced.edu/news/2026/author-mark-arax-wraps-residency-lecture-california%E2%80%99s-%E2%80%98last-extraction%E2%80%99</loc>
-  </url>
-  <url>
     <loc>https://meb.ucmerced.edu/media-contact/jody-murray</loc>
   </url>
   <url>
@@ -175,6 +163,18 @@
     <loc>https://meb.ucmerced.edu/news/leed-certification</loc>
   </url>
   <url>
+    <loc>https://meb.ucmerced.edu/media-contact/patty-guerra</loc>
+  </url>
+  <url>
+    <loc>https://meb.ucmerced.edu/news/2026/wild-mushrooms-punchlines-bobcats-learn-out-box-ways</loc>
+  </url>
+  <url>
+    <loc>https://meb.ucmerced.edu/news/2026/degrees-cheers-and-record-number-graduates-under-open-sky</loc>
+  </url>
+  <url>
+    <loc>https://meb.ucmerced.edu/news/2026/author-mark-arax-wraps-residency-lecture-california%E2%80%99s-%E2%80%98last-extraction%E2%80%99</loc>
+  </url>
+  <url>
     <loc>https://meb.ucmerced.edu/news/2026/ripon-student-turning-heart-and-heritage-path-healing</loc>
   </url>
   <url>
@@ -193,9 +193,6 @@
     <loc>https://meb.ucmerced.edu/taxonomy/term/251/feed</loc>
   </url>
   <url>
-    <loc>https://meb.ucmerced.edu/taxonomy/term/23/feed</loc>
-  </url>
-  <url>
     <loc>https://meb.ucmerced.edu/news/2025/20-years-uc-merced-celebrates-achievements-looks-future</loc>
   </url>
   <url>
@@ -203,5 +200,8 @@
   </url>
   <url>
     <loc>https://meb.ucmerced.edu/taxonomy/term/14/feed</loc>
+  </url>
+  <url>
+    <loc>https://meb.ucmerced.edu/taxonomy/term/23/feed</loc>
   </url>
 </urlset>

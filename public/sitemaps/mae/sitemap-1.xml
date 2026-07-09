@@ -73,6 +73,9 @@
     <loc>https://mae.ucmerced.edu/form/contact-us</loc>
   </url>
   <url>
+    <loc>https://mae.ucmerced.edu/researchnews/tribology</loc>
+  </url>
+  <url>
     <loc>https://mae.ucmerced.edu/news/2026/professor-reza-ehsani-named-christine-nemec-long-endowed-chair-agricultural-technology</loc>
   </url>
   <url>
@@ -113,9 +116,6 @@
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/researchnews/thermal-science-and-energy-conversion</loc>
-  </url>
-  <url>
-    <loc>https://mae.ucmerced.edu/researchnews/tribology</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/get-started</loc>
@@ -172,10 +172,10 @@
     <loc>https://mae.ucmerced.edu/content/alejandro-gutierrez</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/content/marcus-lee</loc>
+    <loc>https://mae.ucmerced.edu/content/min-hwan-lee-0</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/content/min-hwan-lee-0</loc>
+    <loc>https://mae.ucmerced.edu/content/marcus-lee</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/content/yanbao-ma</loc>
@@ -784,9 +784,6 @@
     <loc>https://mae.ucmerced.edu/media-contact/elizabeth-arakelian</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/news/2020/new-nsf-center-intersects-chemistry-and-mechanics</loc>
-  </url>
-  <url>
     <loc>https://mae.ucmerced.edu/news/2020/uc-merced-grad-student-alumnus-play-significant-role-mars-2020-mission</loc>
   </url>
   <url>
@@ -1156,6 +1153,9 @@
     <loc>http://mae.ucmerced.edu/news/2015/gasification-projects-could-benefit-environment-economy</loc>
   </url>
   <url>
+    <loc>https://mae.ucmerced.edu/news/2020/new-nsf-center-intersects-chemistry-and-mechanics</loc>
+  </url>
+  <url>
     <loc>http://mae.ucmerced.edu/content/venkattraman-venkatt-ayyaswamy</loc>
   </url>
   <url>
@@ -1183,10 +1183,10 @@
     <loc>http://mae.ucmerced.edu/content/alejandro-gutierrez</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/content/marcus-lee</loc>
+    <loc>http://mae.ucmerced.edu/content/min-hwan-lee-0</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/content/min-hwan-lee-0</loc>
+    <loc>http://mae.ucmerced.edu/content/marcus-lee</loc>
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/content/yanbao-ma</loc>
@@ -1756,9 +1756,6 @@
     <loc>http://mae.ucmerced.edu/media-contact/elizabeth-arakelian</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/news/2020/new-nsf-center-intersects-chemistry-and-mechanics</loc>
-  </url>
-  <url>
     <loc>http://mae.ucmerced.edu/news/2020/uc-merced-grad-student-alumnus-play-significant-role-mars-2020-mission</loc>
   </url>
   <url>
@@ -2021,6 +2018,9 @@
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/media-contact/jason-alvarez</loc>
+  </url>
+  <url>
+    <loc>http://mae.ucmerced.edu/news/2020/new-nsf-center-intersects-chemistry-and-mechanics</loc>
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/taxonomy/term/261/feed</loc>
