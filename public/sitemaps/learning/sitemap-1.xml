@@ -727,12 +727,6 @@
     <loc>https://learning.ucmerced.edu/events/test-event-spowers</loc>
   </url>
   <url>
-    <loc>https://learning.ucmerced.edu/events/fall-semester</loc>
-  </url>
-  <url>
-    <loc>https://learning.ucmerced.edu/events/fall-instruction-begins</loc>
-  </url>
-  <url>
     <loc>https://learning.ucmerced.edu/events/fall-1st-8-week-session-classes</loc>
   </url>
   <url>
@@ -908,6 +902,12 @@
   </url>
   <url>
     <loc>https://learning.ucmerced.edu/events/halloween</loc>
+  </url>
+  <url>
+    <loc>https://learning.ucmerced.edu/events/fall-semester-begins</loc>
+  </url>
+  <url>
+    <loc>https://learning.ucmerced.edu/events/fall-instruction-begins-0</loc>
   </url>
   <url>
     <loc>https://learning.ucmerced.edu/Success_Mentor_Program</loc>
