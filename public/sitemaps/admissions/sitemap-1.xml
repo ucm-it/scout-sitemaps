@@ -13,9 +13,6 @@
     <loc>https://admissions.ucmerced.edu/first-year/requirements</loc>
   </url>
   <url>
-    <loc>https://admissions.ucmerced.edu/transfer/requirements</loc>
-  </url>
-  <url>
     <loc>https://admissions.ucmerced.edu/out-of-state/requirements</loc>
   </url>
   <url>
@@ -43,9 +40,6 @@
     <loc>https://admissions.ucmerced.edu/academics/career-prep</loc>
   </url>
   <url>
-    <loc>https://admissions.ucmerced.edu/academics/undergraduate-research</loc>
-  </url>
-  <url>
     <loc>https://admissions.ucmerced.edu/academics/resources</loc>
   </url>
   <url>
@@ -65,6 +59,9 @@
   </url>
   <url>
     <loc>https://admissions.ucmerced.edu/Premed-Resources</loc>
+  </url>
+  <url>
+    <loc>https://admissions.ucmerced.edu/cost-aid/applying-for-aid</loc>
   </url>
   <url>
     <loc>https://admissions.ucmerced.edu/visit-us</loc>
@@ -142,30 +139,6 @@
     <loc>https://admissions.ucmerced.edu/transfer/major-preparation-schools</loc>
   </url>
   <url>
-    <loc>https://admissions.ucmerced.edu/sites/admissions.ucmerced.edu/files/documents/ucop-handout_transfer_credit_practice.pdf</loc>
-  </url>
-  <url>
-    <loc>https://admissions.ucmerced.edu/transfer/tag</loc>
-  </url>
-  <url>
-    <loc>https://admissions.ucmerced.edu/UCTIP</loc>
-  </url>
-  <url>
-    <loc>https://admissions.ucmerced.edu/transfer/selection-process</loc>
-  </url>
-  <url>
-    <loc>https://admitted.ucmerced.edu/next-steps</loc>
-  </url>
-  <url>
-    <loc>https://admissions.ucmerced.edu/transfer/faqs</loc>
-  </url>
-  <url>
-    <loc>https://admissions.ucmerced.edu/early-transfer-opportunity</loc>
-  </url>
-  <url>
-    <loc>https://admissions.ucmerced.edu/apply/transfer-requirements/merced-promise</loc>
-  </url>
-  <url>
     <loc>http://admissions.ucmerced.edu</loc>
   </url>
   <url>
@@ -194,6 +167,9 @@
   </url>
   <url>
     <loc>https://admissions.ucmerced.edu/international/english-language-proficiency</loc>
+  </url>
+  <url>
+    <loc>https://admissions.ucmerced.edu/transfer/tag</loc>
   </url>
   <url>
     <loc>https://admissions.ucmerced.edu/international/selection-process</loc>
@@ -227,6 +203,24 @@
   </url>
   <url>
     <loc>https://admissions.ucmerced.edu/admissions-events/educator-tour-program</loc>
+  </url>
+  <url>
+    <loc>https://admissions.ucmerced.edu/early-transfer-opportunity</loc>
+  </url>
+  <url>
+    <loc>https://admissions.ucmerced.edu/UCTIP</loc>
+  </url>
+  <url>
+    <loc>https://admissions.ucmerced.edu/transfer/selection-process</loc>
+  </url>
+  <url>
+    <loc>https://admitted.ucmerced.edu/next-steps</loc>
+  </url>
+  <url>
+    <loc>https://admissions.ucmerced.edu/transfer/faqs</loc>
+  </url>
+  <url>
+    <loc>https://admissions.ucmerced.edu/apply/transfer-requirements/merced-promise</loc>
   </url>
   <url>
     <loc>https://admissions.ucmerced.edu/ssha-pilot</loc>
