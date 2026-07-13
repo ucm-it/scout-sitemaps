@@ -1201,6 +1201,9 @@
     <loc>https://news.ucmerced.edu/content/research-relaunch-plan</loc>
   </url>
   <url>
+    <loc>https://news.ucmerced.edu/content/face-coverings</loc>
+  </url>
+  <url>
     <loc>https://news.ucmerced.edu/content/fiat-lux</loc>
   </url>
   <url>
@@ -1208,9 +1211,6 @@
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/daca-decision</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/content/face-coverings</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/title-ix-services-students-staff-and-faculty</loc>
@@ -1267,10 +1267,10 @@
     <loc>https://news.ucmerced.edu/content/weekly-briefing-chancellor-2</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/1-mayo-covid-19-informe-del-rector</loc>
+    <loc>https://news.ucmerced.edu/content/cares-act-funding-student-aid</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/cares-act-funding-student-aid</loc>
+    <loc>https://news.ucmerced.edu/content/1-mayo-covid-19-informe-del-rector</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/guidance-summer-session-grading</loc>
@@ -1303,10 +1303,10 @@
     <loc>https://news.ucmerced.edu/content/weekly-briefing-chancellor-0</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/telework-extension-and-new-programs-assist-employees</loc>
+    <loc>https://news.ucmerced.edu/content/personal-safety-resources</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/personal-safety-resources</loc>
+    <loc>https://news.ucmerced.edu/content/telework-extension-and-new-programs-assist-employees</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/commencement-update</loc>
@@ -1315,10 +1315,10 @@
     <loc>https://news.ucmerced.edu/content/covid-19-related-leaves-and-job-protections-guidance</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/follow-grading-information</loc>
+    <loc>https://news.ucmerced.edu/content/supporting-our-community-and-each-other</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/supporting-our-community-and-each-other</loc>
+    <loc>https://news.ucmerced.edu/content/follow-grading-information</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/spring-2020-grading</loc>
@@ -1348,10 +1348,10 @@
     <loc>https://news.ucmerced.edu/content/covid-19-summer-session</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/weekly-briefing-chancellor</loc>
+    <loc>https://news.ucmerced.edu/content/covid-19-student-reminders-and-resources</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/covid-19-student-reminders-and-resources</loc>
+    <loc>https://news.ucmerced.edu/content/weekly-briefing-chancellor</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/maintaining-community</loc>
@@ -1363,10 +1363,10 @@
     <loc>https://news.ucmerced.edu/content/covid-19-resources-faculty-instruction-resumes</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/campus-support-producing-remote-teaching-material</loc>
+    <loc>https://news.ucmerced.edu/content/covid-19-transit-and-parking-updates-0</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/covid-19-transit-and-parking-updates-0</loc>
+    <loc>https://news.ucmerced.edu/content/campus-support-producing-remote-teaching-material</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/welcome-back</loc>
@@ -1384,10 +1384,13 @@
     <loc>https://news.ucmerced.edu/content/covid-19-copyright-instructional-materials</loc>
   </url>
   <url>
+    <loc>https://news.ucmerced.edu/content/message-regarding-student-kevin-harris</loc>
+  </url>
+  <url>
     <loc>https://news.ucmerced.edu/content/covid-19-campus-facilities-update</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/message-regarding-student-kevin-harris</loc>
+    <loc>https://news.ucmerced.edu/content/covid-19-weekly-briefing-chancellor</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/covid-19-guidance-academic-appointees-and-supervisors</loc>
@@ -1399,9 +1402,6 @@
     <loc>https://news.ucmerced.edu/content/covid-19-campus-operations-status</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/covid-19-weekly-briefing-chancellor</loc>
-  </url>
-  <url>
     <loc>https://news.ucmerced.edu/content/covid-19-shutdown-all-campus-research</loc>
   </url>
   <url>
@@ -1409,6 +1409,9 @@
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/covid-19-transit-and-parking-updates</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/content/covid-19-research-ramp-down</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/covid-19-campus-update-0</loc>
@@ -1420,7 +1423,7 @@
     <loc>https://news.ucmerced.edu/content/covid-19-update-spring-2020-commencement</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/covid-19-research-ramp-down</loc>
+    <loc>https://news.ucmerced.edu/content/covid-19-spring-break-guidance-students</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/covid-19-information-and-resources-uc-merced-families</loc>
@@ -1429,7 +1432,7 @@
     <loc>https://news.ucmerced.edu/content/covid-19-employee-guidance</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/covid-19-spring-break-guidance-students</loc>
+    <loc>https://news.ucmerced.edu/content/covid-19-campus-update</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/covid-19-weekly-briefing-chancellor-0</loc>
@@ -1444,13 +1447,10 @@
     <loc>https://news.ucmerced.edu/content/covid-19-research-continuity</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/covid-19-campus-update</loc>
+    <loc>https://news.ucmerced.edu/content/covid-19-telecommuting-guidelines</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/covid-19-updated-travel-restrictions</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/content/covid-19-telecommuting-guidelines</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/covid-19-guidance-large-gatherings-updated-campus-efforts</loc>
@@ -1462,25 +1462,25 @@
     <loc>https://news.ucmerced.edu/content/warning-malicious-site-posing-covid-19-information</loc>
   </url>
   <url>
+    <loc>https://news.ucmerced.edu/content/covid-19-guidance-staff</loc>
+  </url>
+  <url>
     <loc>https://news.ucmerced.edu/content/update-moving-toward-remote-learning-student-notification</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/covid-19-live-webinar-today</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/covid-19-guidance-staff</loc>
+    <loc>https://news.ucmerced.edu/content/covid-19-update-academic-operations</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/content/covid-19-and-research-continuity-uc-merced</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/covid-19-live-webinar-tomorrow</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/update-moving-toward-remote-learning</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/content/covid-19-update-academic-operations</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/content/covid-19-and-research-continuity-uc-merced</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/covid-19-instructional-continuity</loc>
@@ -1636,19 +1636,22 @@
     <loc>https://news.ucmerced.edu/content/campus-closure-timesheet-instructions</loc>
   </url>
   <url>
+    <loc>https://news.ucmerced.edu/content/campus-closure-information-faculty-staff</loc>
+  </url>
+  <url>
     <loc>https://news.ucmerced.edu/content/update-campus-reopen-tuesday-classes-resume-nov-26</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/information-students-during-campus-closure</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/campus-closure-information-faculty-staff</loc>
-  </url>
-  <url>
     <loc>https://news.ucmerced.edu/content/update-classes-canceled-through-thanksgiving</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/campus-weekend-activities-and-operations</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/content/bellevue-lot-emergency-phones-offline-friday-nov-16</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/update-campus-remain-closed-friday-nov-16</loc>
@@ -1658,9 +1661,6 @@
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/update-campus-closed-thursday-nov-15</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/content/bellevue-lot-emergency-phones-offline-friday-nov-16</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/air-quality-update-thursday-nov-15</loc>
@@ -1687,10 +1687,10 @@
     <loc>https://news.ucmerced.edu/content/transportation-and-parking-services-update</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/behavioral-intervention-team-bit-training-nov-2</loc>
+    <loc>https://news.ucmerced.edu/content/national-ethics-and-compliance-week-nov-5-9</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/national-ethics-and-compliance-week-nov-5-9</loc>
+    <loc>https://news.ucmerced.edu/content/behavioral-intervention-team-bit-training-nov-2</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/campus-holiday-closure-dates</loc>
@@ -1732,10 +1732,10 @@
     <loc>https://news.ucmerced.edu/content/interim-dean-ssha</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/introducing-room-reservation-system-ems</loc>
+    <loc>https://news.ucmerced.edu/content/help-us-choose-our-commencement-speakers</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/help-us-choose-our-commencement-speakers</loc>
+    <loc>https://news.ucmerced.edu/content/introducing-room-reservation-system-ems</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/mandatory-compliance-training</loc>
@@ -1831,10 +1831,10 @@
     <loc>https://news.ucmerced.edu/content/uc-moratorium-kaspersky-lab-technologies</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/modernizing-processes-retroactive-pay</loc>
+    <loc>https://news.ucmerced.edu/content/benefits-open-enrollment-begins-today</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/benefits-open-enrollment-begins-today</loc>
+    <loc>https://news.ucmerced.edu/content/modernizing-processes-retroactive-pay</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/events-support-diversity-and-inclusion</loc>
@@ -1846,10 +1846,10 @@
     <loc>https://news.ucmerced.edu/content/modernizing-our-university-systems-and-processes</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/changes-uc-travel-policy</loc>
+    <loc>https://news.ucmerced.edu/content/chancellor-leland-california-wildfires-and-how-you-can-help</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/chancellor-leland-california-wildfires-and-how-you-can-help</loc>
+    <loc>https://news.ucmerced.edu/content/changes-uc-travel-policy</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/announcing-our-new-dean-students</loc>
@@ -1864,10 +1864,10 @@
     <loc>https://news.ucmerced.edu/content/business-and-financial-services-launches-updated-website</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/chancellor-provides-update-staff-hiring-plan</loc>
+    <loc>https://news.ucmerced.edu/content/prohibition-state-funded-and-state-sponsored-travel-states-discriminatory-laws</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/content/prohibition-state-funded-and-state-sponsored-travel-states-discriminatory-laws</loc>
+    <loc>https://news.ucmerced.edu/content/chancellor-provides-update-staff-hiring-plan</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/content/summer-2017-road-improvement-activity-and-merced-2020-project-information</loc>
@@ -2110,10 +2110,10 @@
     <loc>https://news.ucmerced.edu/news/all-news?page=5</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2026/uc-merced-alumni-take-stage-commencement-speakers</loc>
+    <loc>https://news.ucmerced.edu/news/2026/uc-merced-talent-finds-its-future-national-lab-research</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2026/uc-merced-talent-finds-its-future-national-lab-research</loc>
+    <loc>https://news.ucmerced.edu/news/2026/uc-merced-alumni-take-stage-commencement-speakers</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2026/work-making-more-sustainable-concrete-earns-award-purdue</loc>
@@ -3376,10 +3376,10 @@
     <loc>https://news.ucmerced.edu/news/2024/western-us-fires-getting-faster-more-dangerous-study-shows</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2024/global-co2-emissions-forest-fires-increase-60</loc>
+    <loc>https://news.ucmerced.edu/news/2024/study-climate-change-extends-drought-recovery-least-three-months</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2024/study-climate-change-extends-drought-recovery-least-three-months</loc>
+    <loc>https://news.ucmerced.edu/news/2024/global-co2-emissions-forest-fires-increase-60</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2024/valley-air-quality-public-health-focus-uc-merced-conference</loc>
@@ -3457,10 +3457,10 @@
     <loc>https://news.ucmerced.edu/news/2021/juneteenth-celebrating-freedom-and-hope-future</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2020/professor-emeritus-mark-aldenderfer-honored-dickson-chair</loc>
+    <loc>https://news.ucmerced.edu/news/2020/professor-mark-aldenderfer-closes-his-time-uc-merced-and-seeks-new-mountains-climb</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2020/professor-mark-aldenderfer-closes-his-time-uc-merced-and-seeks-new-mountains-climb</loc>
+    <loc>https://news.ucmerced.edu/news/2020/professor-emeritus-mark-aldenderfer-honored-dickson-chair</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2020/whiting-fellowship-will-help-build-refugee-view-high-school-curricula</loc>
@@ -4288,10 +4288,10 @@
     <loc>https://news.ucmerced.edu/news/2025/idea-powering-uc-merced-smart-farm-winner-solar-energy-contest</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2025/team-advances-aviation-prize-contest</loc>
+    <loc>https://news.ucmerced.edu/news/2025/sociology-phd-student-examines-why-workers-protest-el-salvador</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2025/sociology-phd-student-examines-why-workers-protest-el-salvador</loc>
+    <loc>https://news.ucmerced.edu/news/2025/team-advances-aviation-prize-contest</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2025/finalists-vie-campus-grad-slam-champion-title-during-research-week</loc>
@@ -6421,10 +6421,10 @@
     <loc>https://news.ucmerced.edu/news/2018/pellissier-speaker-discuss-substance-abuse-and-adolescent-brain</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2018/community-invited-cut-ribbon-new-downtown-center</loc>
+    <loc>https://news.ucmerced.edu/news/2018/explore-nature-get-certified-and-open-world-opportunity</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2018/explore-nature-get-certified-and-open-world-opportunity</loc>
+    <loc>https://news.ucmerced.edu/news/2018/community-invited-cut-ribbon-new-downtown-center</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2017/campus-economic-impact-state-nears-3-billion</loc>
@@ -6445,13 +6445,13 @@
     <loc>https://news.ucmerced.edu/news/2017/service-project-partners-fraternity-west-side-veterans</loc>
   </url>
   <url>
+    <loc>https://news.ucmerced.edu/news/2017/venture-lab-aids-local-startups-free-legal-services</loc>
+  </url>
+  <url>
     <loc>https://news.ucmerced.edu/news/2017/campus-voices-serving-community-brings-benefits-students</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2017/education-service-among-campus-communitys-contributions</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/venture-lab-aids-local-startups-free-legal-services</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2017/homecoming-unites-campus-community</loc>
@@ -7081,10 +7081,10 @@
     <loc>https://news.ucmerced.edu/news/2018/party-it%E2%80%99s-1980s-during-staff-appreciation-week</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2018/professor%E2%80%99s-fellowship-allows-renewed-focus-sociology-race-south-africa</loc>
+    <loc>https://news.ucmerced.edu/news/2018/prestigious-university-press-signs-professor-book-series-editor</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2018/prestigious-university-press-signs-professor-book-series-editor</loc>
+    <loc>https://news.ucmerced.edu/news/2018/professor%E2%80%99s-fellowship-allows-renewed-focus-sociology-race-south-africa</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/staff-and-faculty-news?page=51</loc>
@@ -7903,10 +7903,10 @@
     <loc>https://news.ucmerced.edu/news/2019/researchers-hope-tackle-methane-emissions-manure-through-use-biochar</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2018/researchers-assess-western-forests%E2%80%99-ability-survive-next-drought</loc>
+    <loc>https://news.ucmerced.edu/news/2018/innovative-partnership-aims-restore-sierra-nevada-forest-health</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2018/innovative-partnership-aims-restore-sierra-nevada-forest-health</loc>
+    <loc>https://news.ucmerced.edu/news/2018/researchers-assess-western-forests%E2%80%99-ability-survive-next-drought</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2018/emergence-extinction-massive-ancient-shark-be-explored-nsf-grant</loc>
@@ -9203,6 +9203,9 @@
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2023/uc-merced-well-represented-california-sociological-association-conference</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2023/uc-merced-upstart-presents-quinteto-latino</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news-locations/brief?page=8</loc>
@@ -10504,9 +10507,6 @@
     <loc>https://news.ucmerced.edu/news/public-health?page=14</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2023/uc-merced-upstart-presents-quinteto-latino</loc>
-  </url>
-  <url>
     <loc>https://news.ucmerced.edu/news/2023/annual-tradition-marks-start-native-american-heritage-month-uc-merced</loc>
   </url>
   <url>
@@ -11149,10 +11149,10 @@
     <loc>https://news.ucmerced.edu/news/chancellor?page=6</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2011/dorothy-leland-named-campus-chancellor-regents</loc>
+    <loc>https://news.ucmerced.edu/news/2011/new-chancellor-poised-raise-campus-profile-continue-growth</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2011/new-chancellor-poised-raise-campus-profile-continue-growth</loc>
+    <loc>https://news.ucmerced.edu/news/2011/dorothy-leland-named-campus-chancellor-regents</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2011/uc-president-announces-campus-chancellor-recommendation</loc>
@@ -12409,10 +12409,10 @@
     <loc>https://news.ucmerced.edu/news/research-excellence?page=10</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2017/wells-fargo-partners-education-and-economic-growth</loc>
+    <loc>https://news.ucmerced.edu/news/2017/hellman-fellowships-give-young-professors-leg-research</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2017/hellman-fellowships-give-young-professors-leg-research</loc>
+    <loc>https://news.ucmerced.edu/news/2017/wells-fargo-partners-education-and-economic-growth</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/research-excellence?page=54</loc>
@@ -13378,9 +13378,6 @@
     <loc>https://news.ucmerced.edu/news/mind-body?page=13</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2020/activate-bringing-telehealth-services-vulnerable-merced-county-residents</loc>
-  </url>
-  <url>
     <loc>https://news.ucmerced.edu/news/2020/babies-forage-sounds-contribute-language-acquisition-study-shows</loc>
   </url>
   <url>
@@ -13882,10 +13879,10 @@
     <loc>https://news.ucmerced.edu/news/2013/internal-auditor-here-help</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2013/uc-merced-sends-class-2013-twin-ceremonies</loc>
+    <loc>https://news.ucmerced.edu/news/2013/development-plans-amendment-endorsed-uc-board-regents</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2013/development-plans-amendment-endorsed-uc-board-regents</loc>
+    <loc>https://news.ucmerced.edu/news/2013/uc-merced-sends-class-2013-twin-ceremonies</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2022/location-draws-salinas-senior-uc-merced</loc>
@@ -14137,10 +14134,10 @@
     <loc>https://news.ucmerced.edu/news/2015/fellowship-funds-undergrad%E2%80%99s-research-biofilms</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2015/white-house-recognizes-uc-merced-supporting-latino-community</loc>
+    <loc>https://news.ucmerced.edu/news/2015/uc-merced-celebrates-food-day</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2015/uc-merced-celebrates-food-day</loc>
+    <loc>https://news.ucmerced.edu/news/2015/white-house-recognizes-uc-merced-supporting-latino-community</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news-locations/brief?page=56</loc>
@@ -14167,9 +14164,6 @@
     <loc>https://news.ucmerced.edu/news/2021/uc-merced-offer-simpler-transfer-pathway-central-valley-community-college-students</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2026/northern-california-could-face-fire-prone-summer-%E2%80%94-here-are-wild-cards</loc>
-  </url>
-  <url>
     <loc>https://news.ucmerced.edu/news/2026/california-farms-workers-say-threats-deport-them-are-rise</loc>
   </url>
   <url>
@@ -14194,13 +14188,13 @@
     <loc>https://news.ucmerced.edu/news?page=12</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2017/five-bobcats-earn-california-pacific-all-conference-honors</loc>
+    <loc>https://news.ucmerced.edu/news/2017/career-nights-lead-uc-merced-championship-game</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2017/bobcats-swept-road</loc>
+    <loc>https://news.ucmerced.edu/news/2017/trenado-earns-cal-pac-player-week</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2017/decouto-and-schaefer-earn-player-week-honors</loc>
+    <loc>https://news.ucmerced.edu/news/2017/mens-soccer-adds-13-2017-recruiting-class</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news?page=608</loc>
@@ -15133,6 +15127,9 @@
     <loc>https://news.ucmerced.edu/news/citris?page=5</loc>
   </url>
   <url>
+    <loc>https://news.ucmerced.edu/news/2020/activate-bringing-telehealth-services-vulnerable-merced-county-residents</loc>
+  </url>
+  <url>
     <loc>https://news.ucmerced.edu/news/2020/new-study-finds-media-coverage-could-discourage-many-guiding-groundwater-use</loc>
   </url>
   <url>
@@ -15508,10 +15505,10 @@
     <loc>https://news.ucmerced.edu/news/2015/message-chancellor-leland-campus-community</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2015/update-sheriff-ids-suspect-victims-expected-recover</loc>
+    <loc>https://news.ucmerced.edu/news/2015/statement-chancellor-leland-stabbing-incident</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2015/statement-chancellor-leland-stabbing-incident</loc>
+    <loc>https://news.ucmerced.edu/news/2015/update-sheriff-ids-suspect-victims-expected-recover</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2015/update-four-stabbed-uc-merced-campus-suspect-deceased</loc>
@@ -16087,10 +16084,10 @@
     <loc>http://news.ucmerced.edu/news/2026/what-do-driverless-cars-and-building-evacuation-routes-have-common-lab-uc-merced</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2026/downtown-merced-charms-uc-tech-conference-attendees</loc>
+    <loc>http://news.ucmerced.edu/news/2026/uc-merced-approved-full-ncaa-division-ii-membership</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2026/uc-merced-approved-full-ncaa-division-ii-membership</loc>
+    <loc>http://news.ucmerced.edu/news/2026/downtown-merced-charms-uc-tech-conference-attendees</loc>
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/2026/uc-tech-lands-uc-merced-summer</loc>
@@ -16570,10 +16567,10 @@
     <loc>https://news.ucmerced.edu/news/2026/trump-immigration-sweeps-upended-la%E2%80%99s-economy-some-businesses-losing-big</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news?page=14</loc>
+    <loc>https://news.ucmerced.edu/news/2026/exclusive-hisd-has-lost-nearly-4000-immigrant-students-amid-ice-crackdown-we-fear-coming</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2026/exclusive-hisd-has-lost-nearly-4000-immigrant-students-amid-ice-crackdown-we-fear-coming</loc>
+    <loc>https://news.ucmerced.edu/news?page=14</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2026/sea-star-murder-mystery-what%E2%80%99s-killing-key-ocean-species</loc>
@@ -16585,43 +16582,55 @@
     <loc>https://news.ucmerced.edu/news?page=16</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2017/jennifer-salinger-named-cal-pac-offensive-player-week</loc>
+    <loc>https://news.ucmerced.edu/news/2017/womens-volleyball-drops-conference-opener-eagles</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2017/bobcats-earn-victory-flores-hat-trick</loc>
+    <loc>https://news.ucmerced.edu/news/2017/decouto-continues-shine-3-0-victory</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/canfield-and-diaz-defensive-players-week</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/uc-merced-host-2017-cal-pac-womens-soccer-championships</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/womens-volleyball-drops-home-opener-five-menlo</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/bobcats-and-oaks-play-1-1-draw</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/bobcats-remain-undefeated-0-0-draw-westmont</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2017/2017-womens-soccer-schedule-released</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2017/decouto-highlights-eight-postseason-honors</loc>
+    <loc>https://news.ucmerced.edu/news/2017/bobcats-compete-william-jessup-invite</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2017/mens-soccer-suffers-first-loss-season</loc>
+    <loc>https://news.ucmerced.edu/news/2017/womens-soccer-earns-road-win-over-warriors</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2017/uc-merced-breaks-scoring-record-and-wins-second-straight</loc>
+    <loc>https://news.ucmerced.edu/news/2017/uc-merced-clinches-no-3-seed-win-over-la-sierra</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2017/cross-country-runs-san-francisco-invitational</loc>
+    <loc>https://news.ucmerced.edu/news/2017/uc-merced-drops-five-set-match-against-la-sierra</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2017/journey-5k-run-ryan-registration-open</loc>
+    <loc>https://news.ucmerced.edu/news/2017/mens-soccer-2017-schedule-released</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2017/2017-cross-country-schedule-released</loc>
+    <loc>https://news.ucmerced.edu/news/2017/uc-merced-earns-2-1-conference-victory</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2017/canfield-named-national-defensive-player-week</loc>
+    <loc>https://news.ucmerced.edu/news/2017/flurry-goals-ends-bobcat-loss</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2017/mens-soccer-goes-2-0-win-over-masters</loc>
+    <loc>https://news.ucmerced.edu/news/2017/uc-merced-draws-1-1-2ot</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2017/bobcats-coast-8-0-win</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/womens-soccer-earns-3-0-win-over-academy-art</loc>
+    <loc>https://news.ucmerced.edu/news/2017/bobcats-cant-find-win-over-oaks</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2017/uc-merced-ranked-no-24-coaches-preseason-poll</loc>
@@ -16631,18 +16640,6 @@
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2017/womens-soccer-earns-3-0-conference-win</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/womens-basketball-prospect-clinic-registration-now-open</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/uc-merced-host-2017-cal-pac-womens-soccer-championships</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/womens-volleyball-drops-home-opener-five-menlo</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/womens-soccer-ends-season-against-no-16-embry-riddle-az</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news?page=600</loc>
@@ -16657,100 +16654,10 @@
     <loc>https://news.ucmerced.edu/news?page=599</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2017/uc-merced-draws-1-1-2ot</loc>
+    <loc>https://news.ucmerced.edu/news/2017/two-uc-merced-athletics-teams-earn-naia-scholar-team-distinctions</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2017/bobcats-cant-find-win-over-oaks</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/cross-country-ready-prove-talent-cal-pac-meet</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/uc-merced-clinches-no-3-seed-win-over-la-sierra</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/uc-merced-drops-five-set-match-against-la-sierra</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/three-bobcats-earn-cal-pac-player-week-honors</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/bobcats-drop-home-opener-ot-8</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/uc-merced-falls-500-road-setback</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/2016-2017-student-athlete-academic-distinctions-announced</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/bobcats-battle-back-fall-conference-championship</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/barragan-named-cal-pac-defender-week</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/bobcats-earn-five-set-thriller-first-win-2017</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/fall-sports-ready-cal-pac-championships</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/mens-soccer-2017-schedule-released</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/mens-soccer-draws-road-warriors</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/no-24-uc-merced-2-0-start</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/bobcats-sweep-pick-third-straight-win</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/womens-soccer-comes-back-two-goals-down</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/womens-soccer-recruiting-class-announced</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/schaefer-uc-merced-sweep-simpson</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/uc-merced-rolls-past-la-verne-92-67</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/bobcats-cant-hang-7-warriors-season-opener</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/bobcats-and-oaks-play-1-1-draw</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/bobcats-remain-undefeated-0-0-draw-westmont</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/bobcats-compete-william-jessup-invite</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/womens-soccer-earns-road-win-over-warriors</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/womens-soccer-plays-1-1-draw-thursday-afternoon</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/rodriguez-hat-trick-leads-bobcats-over-eagles</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/uc-merced-earns-1-0-shutout</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/uc-merced-wins-four-straight-close-regular-season</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/career-nights-lead-uc-merced-championship-game</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/trenado-earns-cal-pac-player-week</loc>
+    <loc>https://news.ucmerced.edu/news/2017/womens-basketball-prospect-clinic-registration-now-open</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2017/bobcats-come-short-against-embry-riddle-az</loc>
@@ -16769,6 +16676,93 @@
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2017/uc-merced-drops-home-opener-65-57</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/esparza-banales-lead-mens-soccer-semifinal-win</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/uc-merced-breaks-through-late-earn-victory</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/womens-hoops-picked-finish-first-preseason-poll</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/mens-hoops-tips-2017-18-campaign</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/uc-merced-closes-regular-season-memorable-2-0-win</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/womens-volleyball-takes-home-two-road-wins-week</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/bobcats-sweep-pick-third-straight-win</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/womens-soccer-comes-back-two-goals-down</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/uc-merced-qualifies-four-runners-naia-national-championships</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/mens-basketball-camp-registration-opens</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/bobcats-earn-first-win-over-oregon-tech</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/salinger-named-cal-pac-offensive-player-week</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/uc-merced-earns-1-0-shutout</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/uc-merced-wins-four-straight-close-regular-season</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/barragan-named-cal-pac-defender-week</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/bobcats-earn-five-set-thriller-first-win-2017</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/fall-sports-ready-cal-pac-championships</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/womens-volleyball-schedule-released-2017-campaign</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/mens-soccer-draws-road-warriors</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/no-24-uc-merced-2-0-start</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/tagged-photos-now-available-website</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/hannah-brown-slated-second-head-womens-soccer-coach</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/cross-country-tested-uc-riverside-invitational</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/womens-volleyball-garners-four-all-conference-accolades</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/bobcats-drop-home-game-embry-riddle</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/mens-soccer-goes-2-0-win-over-masters</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/directors-all-academic-team-announced</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/bobcats-coast-8-0-win</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/womens-soccer-earns-3-0-win-over-academy-art</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/awards?page=9</loc>
@@ -17989,12 +17983,6 @@
     <loc>http://news.ucmerced.edu/media-contact/alyssa-johansen</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/community-0</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/campus-community</loc>
-  </url>
-  <url>
     <loc>http://news.ucmerced.edu/news/athletics</loc>
   </url>
   <url>
@@ -18002,6 +17990,12 @@
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/students</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/community-0</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/campus-community</loc>
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/staff</loc>
@@ -18325,19 +18319,7 @@
     <loc>https://news.ucmerced.edu/news?page=20</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2017/mens-soccer-adds-13-2017-recruiting-class</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/womens-hoops-picked-finish-first-preseason-poll</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/mens-hoops-tips-2017-18-campaign</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/uc-merced-closes-regular-season-memorable-2-0-win</loc>
-  </url>
-  <url>
-    <loc>https://news.ucmerced.edu/news/2017/womens-volleyball-takes-home-two-road-wins-week</loc>
+    <loc>https://news.ucmerced.edu/news/2017/cross-country-ready-prove-talent-cal-pac-meet</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news?page=596</loc>
@@ -18403,13 +18385,28 @@
     <loc>https://news.ucmerced.edu/news/2001/leading-administrator-named-uc-merced-post</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2017/two-uc-merced-athletics-teams-earn-naia-scholar-team-distinctions</loc>
+    <loc>https://news.ucmerced.edu/news/2017/four-bobcats-earn-cal-pac-player-week-honors</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2017/bobcats-earn-first-win-over-oregon-tech</loc>
+    <loc>https://news.ucmerced.edu/news/2017/mens-soccer-defeats-northwest-season-opener</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2017/salinger-named-cal-pac-offensive-player-week</loc>
+    <loc>https://news.ucmerced.edu/news/2017/no-24-uc-merced-falls-no-15-southern-oregon</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/bobcats-defeat-pacific-union-senior-night</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/uc-merced-comes-short-against-menlo-college</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/womens-basketball-adds-five-2017-recruiting-class</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/uc-merced-tops-antelope-valley-penalty-kicks-advance-conference-championship</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2017/trenado-leads-bobcats-3-1-win</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/awards?page=11</loc>
@@ -18904,10 +18901,10 @@
     <loc>http://news.ucmerced.edu/news/all-news?page=5</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2026/uc-merced-alumni-take-stage-commencement-speakers</loc>
+    <loc>http://news.ucmerced.edu/news/2026/uc-merced-talent-finds-its-future-national-lab-research</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2026/uc-merced-talent-finds-its-future-national-lab-research</loc>
+    <loc>http://news.ucmerced.edu/news/2026/uc-merced-alumni-take-stage-commencement-speakers</loc>
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/2026/work-making-more-sustainable-concrete-earns-award-purdue</loc>
@@ -19306,10 +19303,10 @@
     <loc>http://news.ucmerced.edu/news/2025/sow-and-grow-workshops-connect-smart-farm-community</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2025/agricultural-leader-jay-mahil-appointed-uc-merced-foundation-board-trustees</loc>
+    <loc>http://news.ucmerced.edu/news/2025/winery-executive-stephanie-gallo-joins-uc-merced-foundation-board-trustees</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2025/winery-executive-stephanie-gallo-joins-uc-merced-foundation-board-trustees</loc>
+    <loc>http://news.ucmerced.edu/news/2025/agricultural-leader-jay-mahil-appointed-uc-merced-foundation-board-trustees</loc>
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/2025/united-education-merced-institutions-forge-stronger-future-together-uc-merced-summit</loc>
@@ -19444,10 +19441,10 @@
     <loc>http://news.ucmerced.edu/news/2025/center-engages-campus-community-africa-and-its-diaspora</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2025/physiological-society-recognizes-rudy-ortiz-mentoring-underrepresented-students</loc>
+    <loc>http://news.ucmerced.edu/news/2025/todo-cambia-festival-takes-new-artistic-directions</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2025/todo-cambia-festival-takes-new-artistic-directions</loc>
+    <loc>http://news.ucmerced.edu/news/2025/physiological-society-recognizes-rudy-ortiz-mentoring-underrepresented-students</loc>
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/2025/5-questions-indigenous-author-acclaimed-memoir-coming-uc-merced</loc>
@@ -19654,10 +19651,10 @@
     <loc>http://news.ucmerced.edu/news/staff-and-faculty-news?page=6</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2017/fulbright-scholar-search-%E2%80%98lost-science%E2%80%99-brazil</loc>
+    <loc>http://news.ucmerced.edu/news/2017/pesquisador-do-programa-fulbright-em-busca-de-ci%C3%AAncia-perdida-no-brasil</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2017/pesquisador-do-programa-fulbright-em-busca-de-ci%C3%AAncia-perdida-no-brasil</loc>
+    <loc>http://news.ucmerced.edu/news/2017/fulbright-scholar-search-%E2%80%98lost-science%E2%80%99-brazil</loc>
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/2017/campus-mainstay-chou-her-named-chief-police</loc>
@@ -20023,10 +20020,10 @@
     <loc>http://news.ucmerced.edu/news/2022/researchers-take-new-approach-quantify-water-use</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2022/professor-brings-her-computational-expertise-new-field-chemistry</loc>
+    <loc>http://news.ucmerced.edu/news/2022/apply-now-paid-summer-internship-real-research-experience</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2022/apply-now-paid-summer-internship-real-research-experience</loc>
+    <loc>http://news.ucmerced.edu/news/2022/professor-brings-her-computational-expertise-new-field-chemistry</loc>
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/2022/celebrate-national-engineers-week-nine-uc-engineering-schools-and-programs</loc>
@@ -20152,10 +20149,10 @@
     <loc>http://news.ucmerced.edu/news/2024/western-us-fires-getting-faster-more-dangerous-study-shows</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2024/global-co2-emissions-forest-fires-increase-60</loc>
+    <loc>http://news.ucmerced.edu/news/2024/study-climate-change-extends-drought-recovery-least-three-months</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2024/study-climate-change-extends-drought-recovery-least-three-months</loc>
+    <loc>http://news.ucmerced.edu/news/2024/global-co2-emissions-forest-fires-increase-60</loc>
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/2024/valley-air-quality-public-health-focus-uc-merced-conference</loc>
@@ -20779,36 +20776,6 @@
     <loc>http://news.ucmerced.edu/media-contact/alyssa-johansen?page=14</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/community-0?page=1</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/community-0?page=2</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/community-0?page=3</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/community-0?page=4</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/community-0?page=13</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/campus-community?page=1</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/campus-community?page=2</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/campus-community?page=3</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/campus-community?page=4</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/campus-community?page=117</loc>
-  </url>
-  <url>
     <loc>http://news.ucmerced.edu/news/2025/campos-foundation%E2%80%99s-5-million-gift-uc-merced-supports-track-and-field-facility-stem</loc>
   </url>
   <url>
@@ -20855,6 +20822,36 @@
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/students?page=90</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/community-0?page=1</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/community-0?page=2</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/community-0?page=3</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/community-0?page=4</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/community-0?page=13</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/campus-community?page=1</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/campus-community?page=2</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/campus-community?page=3</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/campus-community?page=4</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/campus-community?page=117</loc>
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/2025/founding-uc-merced-staffer-wraps-45-years-law-enforcement</loc>
@@ -21526,10 +21523,10 @@
     <loc>https://news.ucmerced.edu/news/2002/uc-merced-seeks-vendor-campus-food-service-operations</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2002/valley-native-selected-uc-merceds-first-director-ofadmissions</loc>
+    <loc>https://news.ucmerced.edu/news/2002/nativo-del-valle-nombrado-primer-director-de-admisiones-en-uc-merced</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2002/nativo-del-valle-nombrado-primer-director-de-admisiones-en-uc-merced</loc>
+    <loc>https://news.ucmerced.edu/news/2002/valley-native-selected-uc-merceds-first-director-ofadmissions</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2002/third-annual-educational-leadership-conference-valley-chicanolatino-students</loc>
@@ -22384,7 +22381,7 @@
     <loc>http://news.ucmerced.edu/news/2016/researchers-find-key-harmful-pathogen%E2%80%99s-transformation</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2017/prachumsri-named-men%E2%80%99s-volleyball-coach</loc>
+    <loc>http://news.ucmerced.edu/news/2017/crest-center-hosts-local-students-science-and-engineering-event</loc>
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/2017/golf-fundraiser-catapults-new-record</loc>
@@ -23038,6 +23035,9 @@
     <loc>http://news.ucmerced.edu/news/2017/kopis-hometown-connections-highlights-merced-2020-project-0</loc>
   </url>
   <url>
+    <loc>http://news.ucmerced.edu/news/2017/prachumsri-named-men%E2%80%99s-volleyball-coach</loc>
+  </url>
+  <url>
     <loc>http://news.ucmerced.edu/news/2018/news-and-notes-yosemite-podcast-features-faculty-free-tacos-and-farewell-summer</loc>
   </url>
   <url>
@@ -23299,9 +23299,6 @@
     <loc>http://news.ucmerced.edu/news/community?page=8</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2017/crest-center-hosts-local-students-science-and-engineering-event</loc>
-  </url>
-  <url>
     <loc>http://news.ucmerced.edu/news/2018/new-scholarship-pays-homage-persistence-and-research</loc>
   </url>
   <url>
@@ -23344,19 +23341,16 @@
     <loc>http://news.ucmerced.edu/news/2017/service-project-partners-fraternity-west-side-veterans</loc>
   </url>
   <url>
+    <loc>http://news.ucmerced.edu/news/2017/education-service-among-campus-communitys-contributions</loc>
+  </url>
+  <url>
     <loc>http://news.ucmerced.edu/news/2017/venture-lab-aids-local-startups-free-legal-services</loc>
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/2017/campus-voices-serving-community-brings-benefits-students</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2017/education-service-among-campus-communitys-contributions</loc>
-  </url>
-  <url>
     <loc>http://news.ucmerced.edu/news/2017/homecoming-unites-campus-community</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2017/water-documentary-featuring-snri-researchers-premiere-merced</loc>
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/2017/nine-merceds-20-under-40-have-ties-uc-merced</loc>
@@ -25471,84 +25465,6 @@
     <loc>http://news.ucmerced.edu/media-contact/alyssa-johansen?page=12</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2025/research-week-highlights-important-work-uc-merced</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2024/uc-merced-led-collaborative-awards-106-million-community-education-partners</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2024/usda-uc-merced-farmers-program-teams-local-ffa</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2024/california-volunteer-program-expansion-effort-makes-uc-merced-stop</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/community-0?page=5</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2024/uc-merced-lands-grant-making-roads-safer-bicyclists-pedestrians</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2024/almond-board-summit-brings-growers-uc-merced</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/community-0?page=6</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2021/fellowship-grad-students-pay-it-forward-community-college-level</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/community-0?page=12</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/community-0?page=9</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/community-0?page=10</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/community-0?page=11</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/campus-community?page=5</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2024/new-ssha-dean-thanks-helping-hands-along-remarkable-journey</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/campus-community?page=6</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2011/student-bridges-generation-gap-finds-acceptance-and-fulfillment</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2011/tulare-county-valedictorians-continue-friendship-academic-dreams</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2011/staffers-find-fitness-benefits-beyond-looks</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2011/inaugural-varsity-sports-schedules-released</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2011/uc-merced-marks-major-milestone-commencement-2011</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2011/uc-merced-employees-serve-community-prominent-positions</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/campus-community?page=116</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/campus-community?page=113</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/campus-community?page=114</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/campus-community?page=115</loc>
-  </url>
-  <url>
     <loc>http://news.ucmerced.edu/news/2025/uc-merced-student%E2%80%99s-photography-joins-exhibit-young-valley-talent</loc>
   </url>
   <url>
@@ -25627,6 +25543,9 @@
     <loc>http://news.ucmerced.edu/news/2011/stanford-runner-researcher-ready-next-step</loc>
   </url>
   <url>
+    <loc>http://news.ucmerced.edu/news/2011/inaugural-varsity-sports-schedules-released</loc>
+  </url>
+  <url>
     <loc>http://news.ucmerced.edu/news/2011/uc-merced-joins-naia-four-sports</loc>
   </url>
   <url>
@@ -25646,6 +25565,9 @@
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/student-life?page=5</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2024/california-volunteer-program-expansion-effort-makes-uc-merced-stop</loc>
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/student-life?page=6</loc>
@@ -25706,6 +25628,78 @@
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/students?page=88</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2025/research-week-highlights-important-work-uc-merced</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2024/uc-merced-led-collaborative-awards-106-million-community-education-partners</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2024/usda-uc-merced-farmers-program-teams-local-ffa</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/community-0?page=5</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2024/uc-merced-lands-grant-making-roads-safer-bicyclists-pedestrians</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2024/almond-board-summit-brings-growers-uc-merced</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/community-0?page=6</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2021/fellowship-grad-students-pay-it-forward-community-college-level</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/community-0?page=12</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/community-0?page=9</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/community-0?page=10</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/community-0?page=11</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/campus-community?page=5</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2024/new-ssha-dean-thanks-helping-hands-along-remarkable-journey</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/campus-community?page=6</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2011/student-bridges-generation-gap-finds-acceptance-and-fulfillment</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2011/tulare-county-valedictorians-continue-friendship-academic-dreams</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2011/staffers-find-fitness-benefits-beyond-looks</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2011/uc-merced-marks-major-milestone-commencement-2011</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2011/uc-merced-employees-serve-community-prominent-positions</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/campus-community?page=116</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/campus-community?page=113</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/campus-community?page=114</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/campus-community?page=115</loc>
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/2025/merced-native-makes-her-mark-university-and-community</loc>
@@ -27328,6 +27322,9 @@
     <loc>http://news.ucmerced.edu/news/san-joaquin-valley?page=6</loc>
   </url>
   <url>
+    <loc>http://news.ucmerced.edu/news/2017/water-documentary-featuring-snri-researchers-premiere-merced</loc>
+  </url>
+  <url>
     <loc>http://news.ucmerced.edu/news/2017/venture-lab-host-conference-promote-women%E2%80%99s-entrepreneurship</loc>
   </url>
   <url>
@@ -27931,6 +27928,9 @@
     <loc>http://news.ucmerced.edu/news/2023/uc-merced-students-help-clean-flooded-storage-facility</loc>
   </url>
   <url>
+    <loc>http://news.ucmerced.edu/news/2021/undergraduate-experience-sean-nguyen</loc>
+  </url>
+  <url>
     <loc>http://news.ucmerced.edu/news/clubs-and-organizations?page=5</loc>
   </url>
   <url>
@@ -28103,9 +28103,6 @@
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/2021/class-2021-takes-part-person-activities-followed-virtual-commencement</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2021/undergraduate-experience-sean-nguyen</loc>
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/2020/virtual-fall-commencement-customized-grads</loc>
@@ -29059,10 +29056,10 @@
     <loc>http://news.ucmerced.edu/news/2018/news-and-notes-downtown-welcomes-uc-merced-student-scores-taylor-farms-scholarship</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2018/summer-outreach-programs-foster-learning-community</loc>
+    <loc>http://news.ucmerced.edu/news/2018/free-children%E2%80%99s-pop-exhibit-returns-merced</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2018/free-children%E2%80%99s-pop-exhibit-returns-merced</loc>
+    <loc>http://news.ucmerced.edu/news/2018/summer-outreach-programs-foster-learning-community</loc>
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/2018/longtime-supporter-fred-ruiz-honored-distinguished-service-education</loc>
@@ -30835,69 +30832,6 @@
     <loc>http://news.ucmerced.edu/media-contact/alyssa-johansen?page=9</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/community-0?page=7</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2023/charles-james-ogletree-jr-native-mercedian-uc-merced-champion-harvard-legal-scholar-dies</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/community-0?page=8</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2022/student-organized-event-prepares-fellow-bobcats-future-careers</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2022/uc-merced-offers-guidance-los-angeles-students-new-partnership</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2022/uc-merced-holds-toloma-5k-run-honor-native-american-heritage-month-slideshow</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2022/alumna-establishes-scholarship-help-future-generations-students</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2022/alumna-becomes-first-latina-fresno-county-pass-immigration-law-legal-specialist-exam</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/campus-community?page=7</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/campus-community?page=8</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2011/students-prepared-success-uc-merced</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2011/first-alumni-association-board-members-named</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2011/impact-students-work-inspire-future-leaders</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2011/health-center-offers-convenient-care-support-students</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2012/campus-diners-pioneering-zero-waste-take-out-system</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2012/book-rental-gives-students-instant-savings</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2012/transfer-student-triumphs-over-foster-care-odds</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/campus-community?page=112</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/campus-community?page=111</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2012/harvard-program-grooms-future-latino-leaders</loc>
-  </url>
-  <url>
-    <loc>http://news.ucmerced.edu/news/2012/research-lends-insight-controlling-cells-addressing-diseases</loc>
-  </url>
-  <url>
     <loc>http://news.ucmerced.edu/news/2018/soccer-teams-inaugurate-new-field-two-games-labor-day</loc>
   </url>
   <url>
@@ -30994,6 +30928,9 @@
     <loc>http://news.ucmerced.edu/news/2012/outdoor-experience-program-offers-trips-educate-inspire</loc>
   </url>
   <url>
+    <loc>http://news.ucmerced.edu/news/2011/health-center-offers-convenient-care-support-students</loc>
+  </url>
+  <url>
     <loc>http://news.ucmerced.edu/news/students?page=7</loc>
   </url>
   <url>
@@ -31043,6 +30980,66 @@
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/2013/new-energy-manager%E2%80%99s-big-plans-require-small-steps</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/community-0?page=7</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2023/charles-james-ogletree-jr-native-mercedian-uc-merced-champion-harvard-legal-scholar-dies</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/community-0?page=8</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2022/student-organized-event-prepares-fellow-bobcats-future-careers</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2022/uc-merced-offers-guidance-los-angeles-students-new-partnership</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2022/uc-merced-holds-toloma-5k-run-honor-native-american-heritage-month-slideshow</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2022/alumna-establishes-scholarship-help-future-generations-students</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2022/alumna-becomes-first-latina-fresno-county-pass-immigration-law-legal-specialist-exam</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/campus-community?page=7</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/campus-community?page=8</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2011/students-prepared-success-uc-merced</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2011/first-alumni-association-board-members-named</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2011/impact-students-work-inspire-future-leaders</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2012/campus-diners-pioneering-zero-waste-take-out-system</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2012/book-rental-gives-students-instant-savings</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2012/transfer-student-triumphs-over-foster-care-odds</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/campus-community?page=112</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/campus-community?page=111</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2012/harvard-program-grooms-future-latino-leaders</loc>
+  </url>
+  <url>
+    <loc>http://news.ucmerced.edu/news/2012/research-lends-insight-controlling-cells-addressing-diseases</loc>
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news/staff?page=7</loc>
@@ -31282,9 +31279,6 @@
     <loc>http://news.ucmerced.edu/news/2026/2025-costliest-year-record-wildfires-study-finds</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2026/northern-california-could-face-fire-prone-summer-%E2%80%94-here-are-wild-cards</loc>
-  </url>
-  <url>
     <loc>http://news.ucmerced.edu/news/2026/california-farms-workers-say-threats-deport-them-are-rise</loc>
   </url>
   <url>
@@ -31309,13 +31303,13 @@
     <loc>http://news.ucmerced.edu/news?page=12</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2017/flurry-goals-ends-bobcat-loss</loc>
+    <loc>http://news.ucmerced.edu/news/2017/womens-basketball-adds-five-2017-recruiting-class</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2017/uc-merced-draws-1-1-2ot</loc>
+    <loc>http://news.ucmerced.edu/news/2017/uc-merced-tops-antelope-valley-penalty-kicks-advance-conference-championship</loc>
   </url>
   <url>
-    <loc>http://news.ucmerced.edu/news/2017/bobcats-cant-find-win-over-oaks</loc>
+    <loc>http://news.ucmerced.edu/news/2017/trenado-leads-bobcats-3-1-win</loc>
   </url>
   <url>
     <loc>http://news.ucmerced.edu/news?page=608</loc>
@@ -31972,10 +31966,10 @@
     <loc>https://news.ucmerced.edu/news/2003/uc-merced-construction-photos</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2003/acclaimed-author-speak-merced-college-during-cinco-de-mayo-celebration-co-sponsored-uc</loc>
+    <loc>https://news.ucmerced.edu/news/2003/premier-physicist-create-world-class-renewable-energyprogram-uc-merced</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2003/premier-physicist-create-world-class-renewable-energyprogram-uc-merced</loc>
+    <loc>https://news.ucmerced.edu/news/2003/acclaimed-author-speak-merced-college-during-cinco-de-mayo-celebration-co-sponsored-uc</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2003/uc-merced-presents-fourth-year-summer-courses-fresno-bakersfield-and-atwater-centers</loc>
@@ -32005,13 +31999,13 @@
     <loc>https://news.ucmerced.edu/news/2003/recent-campus-construction-photos-2</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2003/going-vertical-first-uc-campus-four-decades</loc>
-  </url>
-  <url>
     <loc>https://news.ucmerced.edu/news/2003/photos-kolligian-library-groundbreaking</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2003/more-photos-kolligian-library-groundbreaking</loc>
+  </url>
+  <url>
+    <loc>https://news.ucmerced.edu/news/2003/going-vertical-first-uc-campus-four-decades</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2003/uc-merced-board-trustees-meeting-092403</loc>
@@ -32074,19 +32068,19 @@
     <loc>https://news.ucmerced.edu/news/2003/sba-selects-uc-merced-direct-support-network-small-business-central-california</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2003/merced-housing-affordability-forum-be-held-wednesday-july-2nd</loc>
+    <loc>https://news.ucmerced.edu/news/2003/foro-de-viviendas-asequibles-en-merced-miercoles-2-dejulio</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2003/foro-de-viviendas-asequibles-en-merced-miercoles-2-dejulio</loc>
+    <loc>https://news.ucmerced.edu/news/2003/merced-housing-affordability-forum-be-held-wednesday-july-2nd</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2003/uc-merced-wins-environmental-lawsuit</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2003/uc-merced-geochemist-dr-peggy-oday-focus-arsenicin-californias-environment</loc>
+    <loc>https://news.ucmerced.edu/news/2003/uc-merced-hosts-summer-writing-workshops-teachers</loc>
   </url>
   <url>
-    <loc>https://news.ucmerced.edu/news/2003/uc-merced-hosts-summer-writing-workshops-teachers</loc>
+    <loc>https://news.ucmerced.edu/news/2003/uc-merced-geochemist-dr-peggy-oday-focus-arsenicin-californias-environment</loc>
   </url>
   <url>
     <loc>https://news.ucmerced.edu/news/2003/stanford-professor-kenji-hakuta-named-dean-social-sciences-humanities-and-arts-uc-merced</loc>

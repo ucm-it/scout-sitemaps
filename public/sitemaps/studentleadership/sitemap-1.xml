@@ -49,16 +49,25 @@
     <loc>https://studentleadership.ucmerced.edu/form/event-support-request</loc>
   </url>
   <url>
-    <loc>https://studentleadership.ucmerced.edu/students</loc>
+    <loc>https://studentleadership.ucmerced.edu/incentives</loc>
   </url>
   <url>
-    <loc>https://studentleadership.ucmerced.edu/students/student-advisory-board</loc>
+    <loc>https://studentleadership.ucmerced.edu/incentives/student-awards/leadership-awards-self-nomination-permitted</loc>
   </url>
   <url>
-    <loc>https://studentleadership.ucmerced.edu/form/leadership-training-request-portal</loc>
+    <loc>https://studentleadership.ucmerced.edu/incentives/student-awards/leadership-awards-nomination-only</loc>
   </url>
   <url>
     <loc>https://studentleadership.ucmerced.edu/graduationpin</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/incentives/student-leadership-awards/previous-award-winners</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/student-leadership-awards/faqs</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/form/leadership-training-request</loc>
   </url>
   <url>
     <loc>https://studentleadership.ucmerced.edu/current-events</loc>
@@ -83,39 +92,6 @@
   </url>
   <url>
     <loc>https://studentleadership.ucmerced.edu/2025-student-leadership-conference/workshops</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/awards</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/student-leadership-awards/previous-award-winners</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/student-leadership-awards/leadership-awards-self-nomination-permitted</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/student-leadership-awards/leadership-awards-nomination-only</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/student-leadership-awards/faqs</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/leadershiplessons</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/opportunities</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/leaders-on-campus</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/ca-opportunities</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/local-opportunities</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/uc-opportunities</loc>
   </url>
   <url>
     <loc>https://studentleadership.ucmerced.edu/about</loc>
