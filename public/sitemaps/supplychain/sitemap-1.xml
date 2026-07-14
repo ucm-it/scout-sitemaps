@@ -214,6 +214,9 @@
     <loc>https://supplychain.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://supplychain.ucmerced.edu/news/2026/amazon-business-integration-upgrade-bobcatbuy</loc>
+  </url>
+  <url>
     <loc>https://supplychain.ucmerced.edu/news/2026/software-purchases-prior-approval-reminder</loc>
   </url>
   <url>
@@ -223,13 +226,13 @@
     <loc>https://supplychain.ucmerced.edu/news/2026/spring-2026-bobcatbuy-catalog-and-requisition-training</loc>
   </url>
   <url>
+    <loc>https://supplychain.ucmerced.edu/news/2025/newly-approved-drop-and-go-delivery-local-businesses</loc>
+  </url>
+  <url>
     <loc>https://supplychain.ucmerced.edu/news/2025/policy-update-unauthorized-purchases</loc>
   </url>
   <url>
     <loc>https://supplychain.ucmerced.edu/news/2025/bobcatbuy-enhancement-better-shopping-experience</loc>
-  </url>
-  <url>
-    <loc>https://supplychain.ucmerced.edu/news/2025/newly-approved-drop-and-go-delivery-local-businesses</loc>
   </url>
   <url>
     <loc>https://supplychain.ucmerced.edu/news/2025/new-p-card-expense-report-schedule-effective-november-7-2025</loc>
@@ -239,9 +242,6 @@
   </url>
   <url>
     <loc>https://supplychain.ucmerced.edu/surplus-icloud-removal</loc>
-  </url>
-  <url>
-    <loc>https://supplychain.ucmerced.edu/news/2025/register-now-bobcatbuy-catalog-requisition-training</loc>
   </url>
   <url>
     <loc>https://supplychain.ucmerced.edu/news?page=1</loc>
@@ -322,7 +322,7 @@
     <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/uc_merced_supplier_onboarding_and_invoice_insturctions_lettera.pdf</loc>
   </url>
   <url>
-    <loc>https://supplychain.ucmerced.edu/SupplierShowcase2025</loc>
+    <loc>https://supplychain.ucmerced.edu/news/2025/register-now-bobcatbuy-catalog-requisition-training</loc>
   </url>
   <url>
     <loc>https://supplychain.ucmerced.edu/news/2025/save-date-uc-merced-supplier-showcase</loc>
@@ -436,9 +436,12 @@
     <loc>https://supplychain.ucmerced.edu/news/2021/key-dates-fy21-procurement</loc>
   </url>
   <url>
-    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/f25_supplier_showcase_digital_guide_sensus_accessibility.pdf</loc>
+    <loc>https://supplychain.ucmerced.edu/SupplierShowcase2025</loc>
   </url>
   <url>
     <loc>https://supplychain.ucmerced.edu/SupplierShowcase2024</loc>
+  </url>
+  <url>
+    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/f25_supplier_showcase_digital_guide_sensus_accessibility.pdf</loc>
   </url>
 </urlset>
