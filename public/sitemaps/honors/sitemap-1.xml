@@ -52,6 +52,15 @@
     <loc>https://honors.ucmerced.edu/students/honors-program-requirements/curricular-requirements</loc>
   </url>
   <url>
+    <loc>https://honors.ucmerced.edu/students/list-honors-courses</loc>
+  </url>
+  <url>
+    <loc>https://honors.ucmerced.edu/students/create-honors-course-contract</loc>
+  </url>
+  <url>
+    <loc>https://honors.ucmerced.edu/students/list-honors-courses-contract</loc>
+  </url>
+  <url>
     <loc>https://honors.ucmerced.edu/students/honors-program-requirements/co-curricular-requirements</loc>
   </url>
   <url>
@@ -61,16 +70,10 @@
     <loc>https://honors.ucmerced.edu/students/honors-program-requirements/resources</loc>
   </url>
   <url>
+    <loc>https://honors.ucmerced.edu/students/honors-space</loc>
+  </url>
+  <url>
     <loc>https://honors.ucmerced.edu/students/supplemental-funding-opportunties</loc>
-  </url>
-  <url>
-    <loc>https://honors.ucmerced.edu/students/list-honors-courses</loc>
-  </url>
-  <url>
-    <loc>https://honors.ucmerced.edu/students/list-honors-courses-contract</loc>
-  </url>
-  <url>
-    <loc>https://honors.ucmerced.edu/students/create-honors-course-contract</loc>
   </url>
   <url>
     <loc>https://honors.ucmerced.edu/students/living-learning-community</loc>
@@ -110,6 +113,12 @@
   </url>
   <url>
     <loc>https://honors.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://honors.ucmerced.edu/sites/honors.ucmerced.edu/files/documents/honors_courses_by_contract_proposal.pdf</loc>
+  </url>
+  <url>
+    <loc>https://honors.ucmerced.edu/sites/honors.ucmerced.edu/files/documents/honors_courses_by_contract_completion_form.pdf</loc>
   </url>
   <url>
     <loc>https://honors.ucmerced.edu/content/beth-scaffidi</loc>
@@ -358,10 +367,7 @@
     <loc>https://honors.ucmerced.edu/content/eileen-camfield</loc>
   </url>
   <url>
-    <loc>https://honors.ucmerced.edu/sites/honors.ucmerced.edu/files/documents/honors_courses_by_contract_proposal.pdf</loc>
-  </url>
-  <url>
-    <loc>https://honors.ucmerced.edu/sites/honors.ucmerced.edu/files/documents/honors_courses_by_contract_completion_form.pdf</loc>
+    <loc>https://honors.ucmerced.edu/sites/g/files/ufvvjh1031/f/documents/honors_space_rules_of_engagement_uhp_participation_contract.pdf</loc>
   </url>
   <url>
     <loc>https://honors.ucmerced.edu/content/holley-moyes</loc>
@@ -913,6 +919,15 @@
     <loc>http://honors.ucmerced.edu/students/honors-program-requirements/curricular-requirements</loc>
   </url>
   <url>
+    <loc>http://honors.ucmerced.edu/students/list-honors-courses</loc>
+  </url>
+  <url>
+    <loc>http://honors.ucmerced.edu/students/create-honors-course-contract</loc>
+  </url>
+  <url>
+    <loc>http://honors.ucmerced.edu/students/list-honors-courses-contract</loc>
+  </url>
+  <url>
     <loc>http://honors.ucmerced.edu/students/honors-program-requirements/co-curricular-requirements</loc>
   </url>
   <url>
@@ -922,16 +937,10 @@
     <loc>http://honors.ucmerced.edu/students/honors-program-requirements/resources</loc>
   </url>
   <url>
+    <loc>http://honors.ucmerced.edu/students/honors-space</loc>
+  </url>
+  <url>
     <loc>http://honors.ucmerced.edu/students/supplemental-funding-opportunties</loc>
-  </url>
-  <url>
-    <loc>http://honors.ucmerced.edu/students/list-honors-courses</loc>
-  </url>
-  <url>
-    <loc>http://honors.ucmerced.edu/students/list-honors-courses-contract</loc>
-  </url>
-  <url>
-    <loc>http://honors.ucmerced.edu/students/create-honors-course-contract</loc>
   </url>
   <url>
     <loc>http://honors.ucmerced.edu/students/living-learning-community</loc>
@@ -1252,10 +1261,10 @@
     <loc>http://honors.ucmerced.edu/content/shahar-sukenik</loc>
   </url>
   <url>
-    <loc>http://honors.ucmerced.edu/content/daniel-thompson</loc>
+    <loc>http://honors.ucmerced.edu/content/keith-thompson</loc>
   </url>
   <url>
-    <loc>http://honors.ucmerced.edu/content/keith-thompson</loc>
+    <loc>http://honors.ucmerced.edu/content/daniel-thompson</loc>
   </url>
   <url>
     <loc>http://honors.ucmerced.edu/content/tommy-tran</loc>
@@ -1282,10 +1291,10 @@
     <loc>http://honors.ucmerced.edu/content/frederick-wolf</loc>
   </url>
   <url>
-    <loc>http://honors.ucmerced.edu/content/jing-xu</loc>
+    <loc>http://honors.ucmerced.edu/content/yiran-xu</loc>
   </url>
   <url>
-    <loc>http://honors.ucmerced.edu/content/yiran-xu</loc>
+    <loc>http://honors.ucmerced.edu/content/jing-xu</loc>
   </url>
   <url>
     <loc>http://honors.ucmerced.edu/content/jeffrey-yoshimi</loc>

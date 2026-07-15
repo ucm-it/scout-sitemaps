@@ -64,6 +64,9 @@
     <loc>https://qsb.ucmerced.edu/current-students/phd-program</loc>
   </url>
   <url>
+    <loc>https://qsb.ucmerced.edu/current-students/lab-rotations</loc>
+  </url>
+  <url>
     <loc>https://qsb.ucmerced.edu/current-students/qualifying-exam</loc>
   </url>
   <url>
@@ -100,7 +103,7 @@
     <loc>https://qsb.ucmerced.edu/seminars-and-events/seminar-arrangements/past-qsb-seminars</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/seminars-and-events/seminar-arrangements/seminar-schedule-ay-26-27</loc>
+    <loc>https://qsb.ucmerced.edu/seminars-and-events/seminar-series/seminar-list-ay-26-27</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/form/seminar-travel-form</loc>
@@ -170,6 +173,9 @@
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/sites/g/files/ufvvjh1506/f/images/qsb_roadmap.pdf</loc>
+  </url>
+  <url>
+    <loc>https://qsb.ucmerced.edu/form/lab-rotation-declaration-form</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/sites/g/files/ufvvjh1506/f/documents/qsb_policiesprocedures_2011_2012.pdf</loc>
@@ -493,13 +499,13 @@
     <loc>https://qsb.ucmerced.edu/content/andrea-salinas</loc>
   </url>
   <url>
+    <loc>https://qsb.ucmerced.edu/content/taylor-j-sanchez</loc>
+  </url>
+  <url>
     <loc>https://qsb.ucmerced.edu/content/vanessa-sanchez</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/content/bailey-j-sanchez</loc>
-  </url>
-  <url>
-    <loc>https://qsb.ucmerced.edu/content/taylor-j-sanchez</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/content/mara-schwiesow</loc>
@@ -544,10 +550,10 @@
     <loc>https://qsb.ucmerced.edu/content/andie-venegas</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/content/brian-wang</loc>
+    <loc>https://qsb.ucmerced.edu/content/anthony-wang</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/content/anthony-wang</loc>
+    <loc>https://qsb.ucmerced.edu/content/brian-wang</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/content/reina-warnert</loc>
@@ -556,10 +562,10 @@
     <loc>https://qsb.ucmerced.edu/content/brooke-weinstein</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/content/chantz-williams</loc>
+    <loc>https://qsb.ucmerced.edu/content/tahirah-williams</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/content/tahirah-williams</loc>
+    <loc>https://qsb.ucmerced.edu/content/chantz-williams</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/content/dean-wu</loc>
@@ -568,10 +574,10 @@
     <loc>https://qsb.ucmerced.edu/content/nattanon-wutthituntisil</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/content/xucheng-zhang</loc>
+    <loc>https://qsb.ucmerced.edu/content/jingyi-zhang</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/content/jingyi-zhang</loc>
+    <loc>https://qsb.ucmerced.edu/content/xucheng-zhang</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/sites/g/files/ufvvjh1506/f/documents/qsb_retreat_final.pdf</loc>
@@ -721,10 +727,10 @@
     <loc>https://qsb.ucmerced.edu/news/2024/new-summer-research-opportunities-undergraduates-across-us</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/news/2024/students-alums-awarded-prestigious-nsf-graduate-fellowship</loc>
+    <loc>https://qsb.ucmerced.edu/news/2024/students-alums-awarded-prestigious-nsf-graduate-fellowships</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/news/2024/students-alums-awarded-prestigious-nsf-graduate-fellowships</loc>
+    <loc>https://qsb.ucmerced.edu/news/2024/students-alums-awarded-prestigious-nsf-graduate-fellowship</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/news/2024/graduate-division-hosts-10th-grad-slam-competition</loc>
@@ -847,10 +853,10 @@
     <loc>https://qsb.ucmerced.edu/news/2022/new-program-prepare-students-academic-career-success-stem-fields</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/news/2022/grad-students-invited-uc-merced%E2%80%99s-first-%E2%80%98nanoengineering-environmental-sensors%E2%80%99-incubator</loc>
+    <loc>https://qsb.ucmerced.edu/news/2022/phd-student-lands-competitive-gem-fellowship</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/news/2022/phd-student-lands-competitive-gem-fellowship</loc>
+    <loc>https://qsb.ucmerced.edu/news/2022/grad-students-invited-uc-merced%E2%80%99s-first-%E2%80%98nanoengineering-environmental-sensors%E2%80%99-incubator</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/news/2022/mccloskey-earns-place-among-fellows-prestigious-bioengineering-organization</loc>
@@ -1408,6 +1414,9 @@
     <loc>http://qsb.ucmerced.edu/current-students/molecular-cellular-biology-concentration</loc>
   </url>
   <url>
+    <loc>http://qsb.ucmerced.edu/current-students/lab-rotations</loc>
+  </url>
+  <url>
     <loc>http://qsb.ucmerced.edu/current-students/qualifying-exam</loc>
   </url>
   <url>
@@ -1444,7 +1453,7 @@
     <loc>http://qsb.ucmerced.edu/seminars-and-events/seminar-arrangements/past-qsb-seminars</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/seminars-and-events/seminar-arrangements/seminar-schedule-ay-26-27</loc>
+    <loc>http://qsb.ucmerced.edu/seminars-and-events/seminar-series/seminar-list-ay-26-27</loc>
   </url>
   <url>
     <loc>http://qsb.ucmerced.edu/form/seminar-travel-form</loc>
@@ -1513,10 +1522,10 @@
     <loc>https://qsb.ucmerced.edu/news/2020/researchers-discover-mechanism-proteins-use-find-and-control-genes-0</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/news/2020/breakthrough-stem-cell-research-first-image-niche-environment-0</loc>
+    <loc>https://qsb.ucmerced.edu/news/2020/breakthrough-stem-cell-research-first-image-niche-environment</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/news/2020/breakthrough-stem-cell-research-first-image-niche-environment</loc>
+    <loc>https://qsb.ucmerced.edu/news/2020/breakthrough-stem-cell-research-first-image-niche-environment-0</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/news/2019/new-study-shows-patchy-resources-drove-evolutionary-changes-body-size</loc>
@@ -1540,10 +1549,10 @@
     <loc>https://qsb.ucmerced.edu/news/2019/biodiversity-study-indicates-large-and-small-organisms-react-similarly-environment</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/news/2019/valley-fever-focus-public-event</loc>
+    <loc>https://qsb.ucmerced.edu/news/2019/nobile-awarded-kamangar-family-endowed-chair</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/news/2019/nobile-awarded-kamangar-family-endowed-chair</loc>
+    <loc>https://qsb.ucmerced.edu/news/2019/valley-fever-focus-public-event</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/news/2019/blood-cell-research-taking-groundbreaking-turns-biology-lab</loc>
@@ -1576,10 +1585,10 @@
     <loc>https://qsb.ucmerced.edu/news/2019/pre-health-advising-program-prepares-future-health-professionals</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/news/2019/grad%E2%80%99s-passion-research-leading-her-dartmouth-college</loc>
+    <loc>https://qsb.ucmerced.edu/news/2019/ennis-receives-prestigious-nih-fellowship-research-biofilms</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/news/2019/ennis-receives-prestigious-nih-fellowship-research-biofilms</loc>
+    <loc>https://qsb.ucmerced.edu/news/2019/grad%E2%80%99s-passion-research-leading-her-dartmouth-college</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/news/2019/grad-students-vie-spot-uc-grad-slam-finals</loc>
@@ -1933,10 +1942,10 @@
     <loc>http://qsb.ucmerced.edu/content/andie-venegas</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/content/anthony-wang</loc>
+    <loc>http://qsb.ucmerced.edu/content/brian-wang</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/content/brian-wang</loc>
+    <loc>http://qsb.ucmerced.edu/content/anthony-wang</loc>
   </url>
   <url>
     <loc>http://qsb.ucmerced.edu/content/reina-warnert</loc>
@@ -1957,10 +1966,10 @@
     <loc>http://qsb.ucmerced.edu/content/nattanon-wutthituntisil</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/content/jingyi-zhang</loc>
+    <loc>http://qsb.ucmerced.edu/content/xucheng-zhang</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/content/xucheng-zhang</loc>
+    <loc>http://qsb.ucmerced.edu/content/jingyi-zhang</loc>
   </url>
   <url>
     <loc>http://qsb.ucmerced.edu/news/2026/uc-merced%E2%80%99s-grad-slam-champion-explores-mucus-fungus-battle-behind-valley-fever</loc>
@@ -2104,10 +2113,10 @@
     <loc>http://qsb.ucmerced.edu/news/2024/new-summer-research-opportunities-undergraduates-across-us</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/news/2024/students-alums-awarded-prestigious-nsf-graduate-fellowship</loc>
+    <loc>http://qsb.ucmerced.edu/news/2024/students-alums-awarded-prestigious-nsf-graduate-fellowships</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/news/2024/students-alums-awarded-prestigious-nsf-graduate-fellowships</loc>
+    <loc>http://qsb.ucmerced.edu/news/2024/students-alums-awarded-prestigious-nsf-graduate-fellowship</loc>
   </url>
   <url>
     <loc>http://qsb.ucmerced.edu/news/2024/graduate-division-hosts-10th-grad-slam-competition</loc>
@@ -2230,10 +2239,10 @@
     <loc>http://qsb.ucmerced.edu/news/2022/new-program-prepare-students-academic-career-success-stem-fields</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/news/2022/grad-students-invited-uc-merced%E2%80%99s-first-%E2%80%98nanoengineering-environmental-sensors%E2%80%99-incubator</loc>
+    <loc>http://qsb.ucmerced.edu/news/2022/phd-student-lands-competitive-gem-fellowship</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/news/2022/phd-student-lands-competitive-gem-fellowship</loc>
+    <loc>http://qsb.ucmerced.edu/news/2022/grad-students-invited-uc-merced%E2%80%99s-first-%E2%80%98nanoengineering-environmental-sensors%E2%80%99-incubator</loc>
   </url>
   <url>
     <loc>http://qsb.ucmerced.edu/news/2022/mccloskey-earns-place-among-fellows-prestigious-bioengineering-organization</loc>
@@ -2752,10 +2761,10 @@
     <loc>http://qsb.ucmerced.edu/news/2020/researchers-discover-mechanism-proteins-use-find-and-control-genes-0</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/news/2020/breakthrough-stem-cell-research-first-image-niche-environment-0</loc>
+    <loc>http://qsb.ucmerced.edu/news/2020/breakthrough-stem-cell-research-first-image-niche-environment</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/news/2020/breakthrough-stem-cell-research-first-image-niche-environment</loc>
+    <loc>http://qsb.ucmerced.edu/news/2020/breakthrough-stem-cell-research-first-image-niche-environment-0</loc>
   </url>
   <url>
     <loc>http://qsb.ucmerced.edu/news/2019/new-study-shows-patchy-resources-drove-evolutionary-changes-body-size</loc>
@@ -2779,10 +2788,10 @@
     <loc>http://qsb.ucmerced.edu/news/2019/biodiversity-study-indicates-large-and-small-organisms-react-similarly-environment</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/news/2019/valley-fever-focus-public-event</loc>
+    <loc>http://qsb.ucmerced.edu/news/2019/nobile-awarded-kamangar-family-endowed-chair</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/news/2019/nobile-awarded-kamangar-family-endowed-chair</loc>
+    <loc>http://qsb.ucmerced.edu/news/2019/valley-fever-focus-public-event</loc>
   </url>
   <url>
     <loc>http://qsb.ucmerced.edu/news/2019/blood-cell-research-taking-groundbreaking-turns-biology-lab</loc>
@@ -2815,10 +2824,10 @@
     <loc>http://qsb.ucmerced.edu/news/2019/pre-health-advising-program-prepares-future-health-professionals</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/news/2019/grad%E2%80%99s-passion-research-leading-her-dartmouth-college</loc>
+    <loc>http://qsb.ucmerced.edu/news/2019/ennis-receives-prestigious-nih-fellowship-research-biofilms</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/news/2019/ennis-receives-prestigious-nih-fellowship-research-biofilms</loc>
+    <loc>http://qsb.ucmerced.edu/news/2019/grad%E2%80%99s-passion-research-leading-her-dartmouth-college</loc>
   </url>
   <url>
     <loc>http://qsb.ucmerced.edu/news/2019/grad-students-vie-spot-uc-grad-slam-finals</loc>
