@@ -73,6 +73,9 @@
     <loc>https://mae.ucmerced.edu/form/contact-us</loc>
   </url>
   <url>
+    <loc>https://mae.ucmerced.edu/researchnews/tribology</loc>
+  </url>
+  <url>
     <loc>https://mae.ucmerced.edu/news/2026/student-modesto-ready-make-impact-uc-merced</loc>
   </url>
   <url>
@@ -115,9 +118,6 @@
     <loc>https://mae.ucmerced.edu/researchnews/thermal-science-and-energy-conversion</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/researchnews/tribology</loc>
-  </url>
-  <url>
     <loc>https://mae.ucmerced.edu/get-started</loc>
   </url>
   <url>
@@ -149,9 +149,6 @@
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/content/mehmet-baykara</loc>
-  </url>
-  <url>
-    <loc>https://mae.ucmerced.edu/content/yangquan-chen</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/content/abel-chuang</loc>
@@ -748,13 +745,13 @@
     <loc>https://mae.ucmerced.edu/news/2021/shayna-bennett-wins-grad-slam-uc-merced</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/news/2021/us-news-world-report-rankings-showcase-growing-engineering-program-debuts-history-and</loc>
+    <loc>https://mae.ucmerced.edu/news/2021/us-news-world-report-rankings-showcase-growing-engineering-program-debuts</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/media-contact/desiree-lopez</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/news/2021/us-news-world-report-rankings-showcase-growing-engineering-program-debuts</loc>
+    <loc>https://mae.ucmerced.edu/news/2021/us-news-world-report-rankings-showcase-growing-engineering-program-debuts-history-and</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/news/2021/career-award-will-support-enhanced-renewable-energy-assessments</loc>
@@ -784,10 +781,10 @@
     <loc>https://mae.ucmerced.edu/news/2020/new-grant-more-doubles-campus-supercomputing-power</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/news/2020/new-engineering-research-center-focus-agriculture-technology</loc>
+    <loc>https://mae.ucmerced.edu/news/2020/new-nsf-center-intersects-chemistry-and-mechanics</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/news/2020/new-nsf-center-intersects-chemistry-and-mechanics</loc>
+    <loc>https://mae.ucmerced.edu/news/2020/new-engineering-research-center-focus-agriculture-technology</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/news/2020/uc-merced-grad-student-alumnus-play-significant-role-mars-2020-mission</loc>
@@ -1015,10 +1012,10 @@
     <loc>https://mae.ucmerced.edu/news/2015/gasification-projects-could-benefit-environment-economy</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/news/2015/engineering-professor-and-students-team-chevron</loc>
+    <loc>https://mae.ucmerced.edu/news/2015/engineering-professor-and-students-team-chevron-0</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/news/2015/engineering-professor-and-students-team-chevron-0</loc>
+    <loc>https://mae.ucmerced.edu/news/2015/engineering-professor-and-students-team-chevron</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/news/2015/engineering-student-making-impact-agriculture</loc>
@@ -1162,9 +1159,6 @@
     <loc>http://mae.ucmerced.edu/content/mehmet-baykara</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/content/yangquan-chen</loc>
-  </url>
-  <url>
     <loc>http://mae.ucmerced.edu/content/abel-chuang</loc>
   </url>
   <url>
@@ -1183,10 +1177,10 @@
     <loc>http://mae.ucmerced.edu/content/alejandro-gutierrez</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/content/min-hwan-lee-0</loc>
+    <loc>http://mae.ucmerced.edu/content/marcus-lee</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/content/marcus-lee</loc>
+    <loc>http://mae.ucmerced.edu/content/min-hwan-lee-0</loc>
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/content/yanbao-ma</loc>
@@ -1723,13 +1717,13 @@
     <loc>http://mae.ucmerced.edu/news/2021/shayna-bennett-wins-grad-slam-uc-merced</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/news/2021/us-news-world-report-rankings-showcase-growing-engineering-program-debuts-history-and</loc>
+    <loc>http://mae.ucmerced.edu/news/2021/us-news-world-report-rankings-showcase-growing-engineering-program-debuts</loc>
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/media-contact/desiree-lopez</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/news/2021/us-news-world-report-rankings-showcase-growing-engineering-program-debuts</loc>
+    <loc>http://mae.ucmerced.edu/news/2021/us-news-world-report-rankings-showcase-growing-engineering-program-debuts-history-and</loc>
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/news/2021/career-award-will-support-enhanced-renewable-energy-assessments</loc>
@@ -1759,10 +1753,10 @@
     <loc>http://mae.ucmerced.edu/news/2020/new-grant-more-doubles-campus-supercomputing-power</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/news/2020/new-engineering-research-center-focus-agriculture-technology</loc>
+    <loc>http://mae.ucmerced.edu/news/2020/new-nsf-center-intersects-chemistry-and-mechanics</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/news/2020/new-nsf-center-intersects-chemistry-and-mechanics</loc>
+    <loc>http://mae.ucmerced.edu/news/2020/new-engineering-research-center-focus-agriculture-technology</loc>
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/news/2020/uc-merced-grad-student-alumnus-play-significant-role-mars-2020-mission</loc>
@@ -1978,10 +1972,10 @@
     <loc>http://mae.ucmerced.edu/news/2015/merced-sun-star-chevron-partnership-creates-opportunities</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/news/2015/engineering-professor-and-students-team-chevron</loc>
+    <loc>http://mae.ucmerced.edu/news/2015/engineering-professor-and-students-team-chevron-0</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/news/2015/engineering-professor-and-students-team-chevron-0</loc>
+    <loc>http://mae.ucmerced.edu/news/2015/engineering-professor-and-students-team-chevron</loc>
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/news/2015/engineering-student-making-impact-agriculture</loc>

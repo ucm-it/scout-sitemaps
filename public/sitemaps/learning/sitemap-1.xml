@@ -763,9 +763,6 @@
     <loc>https://learning.ucmerced.edu/events/final-exams</loc>
   </url>
   <url>
-    <loc>https://learning.ucmerced.edu/events/fall-semester-ends</loc>
-  </url>
-  <url>
     <loc>https://learning.ucmerced.edu/events/final-grades-due-noon</loc>
   </url>
   <url>
@@ -892,9 +889,6 @@
     <loc>https://learning.ucmerced.edu/events/random-act-kindness-day</loc>
   </url>
   <url>
-    <loc>https://learning.ucmerced.edu/events/thankgiving</loc>
-  </url>
-  <url>
     <loc>https://learning.ucmerced.edu/events/first-generation-day</loc>
   </url>
   <url>
@@ -908,6 +902,15 @@
   </url>
   <url>
     <loc>https://learning.ucmerced.edu/events/fall-instruction-begins-0</loc>
+  </url>
+  <url>
+    <loc>https://learning.ucmerced.edu/events/final-semester-ends</loc>
+  </url>
+  <url>
+    <loc>https://learning.ucmerced.edu/events/final-exams-0</loc>
+  </url>
+  <url>
+    <loc>https://learning.ucmerced.edu/events/spring-semester-ends</loc>
   </url>
   <url>
     <loc>https://learning.ucmerced.edu/Success_Mentor_Program</loc>
