@@ -151,6 +151,9 @@
     <loc>https://ssha.ucmerced.edu/alumni</loc>
   </url>
   <url>
+    <loc>https://ssha.ucmerced.edu/news/2026/uc-merced-co-hosts-institute-sharpens-instruction-reading-writing</loc>
+  </url>
+  <url>
     <loc>https://ssha.ucmerced.edu/news/2026/all-faculty-rock-band-cuts-album-uc-merced-recording-studio</loc>
   </url>
   <url>
@@ -158,9 +161,6 @@
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/news/2026/sociology-phd-student-receives-prestigious-dissertation-fellowship</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2026/wild-mushrooms-punchlines-bobcats-learn-out-box-ways</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/news/2026/ssha-undergraduates-honored-sparkling-academic-careers</loc>
@@ -250,13 +250,13 @@
     <loc>https://ssha.ucmerced.edu/content/tom-martinez</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/sandra-mora</loc>
-  </url>
-  <url>
     <loc>https://ssha.ucmerced.edu/content/sarah-mora</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/lisa-mora</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/content/sandra-mora</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/christine-panelli</loc>
@@ -907,9 +907,6 @@
     <loc>https://ssha.ucmerced.edu/media-contact/brenda-ortiz</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/media-contact/samuel-yniquez</loc>
-  </url>
-  <url>
     <loc>https://ssha.ucmerced.edu/celebrating-acheivements/celebrating-achievements</loc>
   </url>
   <url>
@@ -1087,6 +1084,9 @@
     <loc>http://ssha.ucmerced.edu/alumni</loc>
   </url>
   <url>
+    <loc>http://ssha.ucmerced.edu/news/2026/uc-merced-co-hosts-institute-sharpens-instruction-reading-writing</loc>
+  </url>
+  <url>
     <loc>http://ssha.ucmerced.edu/news/2026/all-faculty-rock-band-cuts-album-uc-merced-recording-studio</loc>
   </url>
   <url>
@@ -1094,9 +1094,6 @@
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/news/2026/sociology-phd-student-receives-prestigious-dissertation-fellowship</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2026/wild-mushrooms-punchlines-bobcats-learn-out-box-ways</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/news/2026/ssha-undergraduates-honored-sparkling-academic-careers</loc>
@@ -1219,9 +1216,6 @@
     <loc>https://ssha.ucmerced.edu/news/2026/writing-students-help-merced-arts-center-find-fresh-voice</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/news/2026/uc-merced-students-directed-jenni-samuelson-perform-letters-war</loc>
-  </url>
-  <url>
     <loc>https://ssha.ucmerced.edu/media-contact/jody-murray?page=1</loc>
   </url>
   <url>
@@ -1304,27 +1298,6 @@
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/taxonomy/term/190/feed</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/give-uc-merced-2022-breaks-fundraising-record</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2022/year-review-top-stories-2022</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2022/coalition-including-uc-merced-awarded-65-million-build-back-better-funds</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2022/uc-merced-backed-coalition-awarded-65-million-build-back-better-funds</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2022/uc-merced-led-coalition-awarded-65-million-build-back-better-funds</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2022/uc-merced-hosts-college-track-retreat</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/taxonomy/term/1301/feed</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/news/2025/estee-beck-named-free-speech-and-civic-engagement-center-board</loc>
@@ -1474,13 +1447,13 @@
     <loc>http://ssha.ucmerced.edu/content/tom-martinez</loc>
   </url>
   <url>
+    <loc>http://ssha.ucmerced.edu/content/lisa-mora</loc>
+  </url>
+  <url>
     <loc>http://ssha.ucmerced.edu/content/sandra-mora</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/sarah-mora</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/content/lisa-mora</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/christine-panelli</loc>
@@ -1600,10 +1573,10 @@
     <loc>http://ssha.ucmerced.edu/content/linda-cameron-0</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/gregg-camfield</loc>
+    <loc>http://ssha.ucmerced.edu/content/eileen-camfield-0</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/eileen-camfield-0</loc>
+    <loc>http://ssha.ucmerced.edu/content/gregg-camfield</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/alec-chan-golston</loc>
@@ -1660,10 +1633,10 @@
     <loc>http://ssha.ucmerced.edu/content/christian-fons-rosen-0</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/xing-gao</loc>
+    <loc>http://ssha.ucmerced.edu/content/weisong-gao</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/weisong-gao</loc>
+    <loc>http://ssha.ucmerced.edu/content/xing-gao</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/humberto-garcia</loc>
@@ -1747,10 +1720,10 @@
     <loc>http://ssha.ucmerced.edu/content/robert-innes</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/elif-isbell</loc>
+    <loc>http://ssha.ucmerced.edu/content/jason-isbell</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/jason-isbell</loc>
+    <loc>http://ssha.ucmerced.edu/content/elif-isbell</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/carolyn-dicey-jennings-2</loc>
@@ -1798,10 +1771,10 @@
     <loc>http://ssha.ucmerced.edu/content/jiajun-liang</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/haiyan-liu-0</loc>
+    <loc>http://ssha.ucmerced.edu/content/ren-liu-0</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/ren-liu-0</loc>
+    <loc>http://ssha.ucmerced.edu/content/haiyan-liu-0</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/felicia-lopez</loc>
@@ -2044,9 +2017,6 @@
     <loc>http://ssha.ucmerced.edu/media-contact/brenda-ortiz</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/media-contact/samuel-yniquez</loc>
-  </url>
-  <url>
     <loc>http://ssha.ucmerced.edu/celebrating-acheivements/celebrating-achievements</loc>
   </url>
   <url>
@@ -2162,6 +2132,9 @@
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/taxonomy/term/2471/feed</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2026/uc-merced-students-directed-jenni-samuelson-perform-letters-war</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/news/2026/%C2%A0uc-merced-students-directed-jenni-samuelson-perform-letters-war</loc>
@@ -2842,9 +2815,6 @@
     <loc>http://ssha.ucmerced.edu/news/2026/writing-students-help-merced-arts-center-find-fresh-voice</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/news/2026/uc-merced-students-directed-jenni-samuelson-perform-letters-war</loc>
-  </url>
-  <url>
     <loc>http://ssha.ucmerced.edu/media-contact/jody-murray?page=1</loc>
   </url>
   <url>
@@ -2927,27 +2897,6 @@
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/taxonomy/term/190/feed</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/give-uc-merced-2022-breaks-fundraising-record</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2022/year-review-top-stories-2022</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2022/coalition-including-uc-merced-awarded-65-million-build-back-better-funds</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2022/uc-merced-backed-coalition-awarded-65-million-build-back-better-funds</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2022/uc-merced-led-coalition-awarded-65-million-build-back-better-funds</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2022/uc-merced-hosts-college-track-retreat</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/taxonomy/term/1301/feed</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/news/2025/estee-beck-named-free-speech-and-civic-engagement-center-board</loc>
@@ -3386,6 +3335,9 @@
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/taxonomy/term/2471/feed</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2026/uc-merced-students-directed-jenni-samuelson-perform-letters-war</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/news/2026/%C2%A0uc-merced-students-directed-jenni-samuelson-perform-letters-war</loc>

@@ -43,9 +43,6 @@
     <loc>https://admissions.ucmerced.edu/academics/career-prep</loc>
   </url>
   <url>
-    <loc>https://admissions.ucmerced.edu/academics/undergraduate-research</loc>
-  </url>
-  <url>
     <loc>https://admissions.ucmerced.edu/academics/resources</loc>
   </url>
   <url>
@@ -104,6 +101,9 @@
   </url>
   <url>
     <loc>https://admissions.ucmerced.edu/family-tours</loc>
+  </url>
+  <url>
+    <loc>https://admissions.ucmerced.edu/information/parents-families</loc>
   </url>
   <url>
     <loc>https://admissions.ucmerced.edu/information/counselors-educators</loc>

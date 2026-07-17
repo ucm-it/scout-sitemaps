@@ -436,16 +436,16 @@
     <loc>https://chancellor.ucmerced.edu/content/reflecting-2021</loc>
   </url>
   <url>
-    <loc>https://chancellor.ucmerced.edu/content/season-gratitude</loc>
-  </url>
-  <url>
     <loc>https://chancellor.ucmerced.edu/content/season-gratitude-0</loc>
   </url>
   <url>
-    <loc>https://chancellor.ucmerced.edu/content/honoring-all-those-who-have-served-1</loc>
+    <loc>https://chancellor.ucmerced.edu/content/season-gratitude</loc>
   </url>
   <url>
     <loc>https://chancellor.ucmerced.edu/content/honoring-all-those-who-have-served-0</loc>
+  </url>
+  <url>
+    <loc>https://chancellor.ucmerced.edu/content/honoring-all-those-who-have-served-1</loc>
   </url>
   <url>
     <loc>https://chancellor.ucmerced.edu/content/recognition-excellence</loc>
@@ -454,10 +454,13 @@
     <loc>https://chancellor.ucmerced.edu/content/recognition-excellence-0</loc>
   </url>
   <url>
-    <loc>https://chancellor.ucmerced.edu/content/historic-commitment-medical-education-0</loc>
+    <loc>https://chancellor.ucmerced.edu/content/historic-commitment-medical-education</loc>
   </url>
   <url>
     <loc>https://chancellor.ucmerced.edu/writings-remarks/all?page=11</loc>
+  </url>
+  <url>
+    <loc>https://chancellor.ucmerced.edu/content/historic-commitment-medical-education-0</loc>
   </url>
   <url>
     <loc>https://chancellor.ucmerced.edu/content/honoring-indigenous-peoples%E2%80%99-day-1</loc>
@@ -697,10 +700,10 @@
     <loc>https://chancellor.ucmerced.edu/content/message-chancellor-leland-0</loc>
   </url>
   <url>
-    <loc>https://chancellor.ucmerced.edu/content/our-campus-community</loc>
+    <loc>https://chancellor.ucmerced.edu/content/update-chancellor-leland-additional-information-support-and-tonights-vigil</loc>
   </url>
   <url>
-    <loc>https://chancellor.ucmerced.edu/content/update-chancellor-leland-additional-information-support-and-tonights-vigil</loc>
+    <loc>https://chancellor.ucmerced.edu/content/our-campus-community</loc>
   </url>
   <url>
     <loc>https://chancellor.ucmerced.edu/content/update-chancellor-leland-info-campus-opening</loc>
@@ -823,10 +826,10 @@
     <loc>https://chancellor.ucmerced.edu/content/campus-update</loc>
   </url>
   <url>
-    <loc>https://chancellor.ucmerced.edu/content/spring-greeting-students</loc>
+    <loc>https://chancellor.ucmerced.edu/content/new-leadership-council-managers-and-supervisors</loc>
   </url>
   <url>
-    <loc>https://chancellor.ucmerced.edu/content/new-leadership-council-managers-and-supervisors</loc>
+    <loc>https://chancellor.ucmerced.edu/content/spring-greeting-students</loc>
   </url>
   <url>
     <loc>https://chancellor.ucmerced.edu/content/update-campus-planning</loc>
@@ -905,9 +908,6 @@
   </url>
   <url>
     <loc>https://chancellor.ucmerced.edu/content/message-chancellor-leland-regarding-veterans-day</loc>
-  </url>
-  <url>
-    <loc>https://chancellor.ucmerced.edu/content/historic-commitment-medical-education</loc>
   </url>
   <url>
     <loc>https://chancellor.ucmerced.edu/taxonomy/term/2251/feed</loc>
