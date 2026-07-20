@@ -52,9 +52,6 @@
     <loc>https://pace.ucmerced.edu/programs/pre-college/world-languages</loc>
   </url>
   <url>
-    <loc>https://pace.ucmerced.edu/programs/skillrise</loc>
-  </url>
-  <url>
     <loc>https://pace.ucmerced.edu/open-university</loc>
   </url>
   <url>
@@ -116,6 +113,9 @@
   </url>
   <url>
     <loc>https://pace.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://pace.ucmerced.edu/programs/skillrise</loc>
   </url>
   <url>
     <loc>https://pace.ucmerced.edu/content/computer-science-authorization</loc>
