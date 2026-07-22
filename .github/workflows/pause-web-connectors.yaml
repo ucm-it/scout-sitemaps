@@ -1,0 +1,116 @@
+name: Pause Web Onyx Connectors
+
+on:
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: Target environment
+        required: true
+        type: choice
+        options:
+          - dev
+
+jobs:
+  pause-connectors:
+    runs-on: ubuntu-latest
+    environment: ${{ inputs.environment }}
+    steps:
+      - name: Pause all Onyx web connectors
+        uses: actions/github-script@v7
+        env:
+          ONYX_BASE_URL: ${{ secrets.ONYX_API_BASE_URL }}
+          ONYX_API_KEY: ${{ secrets.ONYX_API_TOKEN }}
+        with:
+          script: |
+            const BASE_URL      = process.env.ONYX_BASE_URL.replace(/\/$/, "");
+            const API_KEY       = process.env.ONYX_API_KEY;
+            const headers = {
+              "Authorization": `Bearer ${API_KEY}`,
+              "Content-Type": "application/json",
+            };
+
+            const execute = async (method, path, body) => {
+              const res = await fetch(`${BASE_URL}${path}`, {
+                method,
+                headers,
+                ...(body !== undefined ? { body: JSON.stringify(body) } : {}),
+              });
+              if (!res.ok) throw new Error(`${method} ${path} → HTTP ${res.status}`);
+              return res;
+            };
+
+            console.log(`Connecting to: ${BASE_URL}\n`);
+
+            // 1. Fetch all web connectors (paginated)
+            const allStatuses = [];
+            try {
+              let page = 1;
+              while (true) {
+                const body = {
+                  secondary_index: false,
+                  access_type_filters: [],
+                  last_status_filters: [],
+                  docs_count_operator: null,
+                  docs_count_value: null,
+                  source_to_page: page === 1 ? {} : { web: page },
+                  name_filter: "",
+                };
+                if (page > 1) body.source = "web";
+                const res = await execute("POST", "/api/manage/admin/connector/indexing-status", body);
+                const data = await res.json();
+
+                const sourceEntry = data.find((s) => s.source === "web");
+
+                if (!sourceEntry) break;
+                allStatuses.push(...sourceEntry.indexing_statuses);
+
+                if (page >= sourceEntry.total_pages) break;
+                page++;
+              }
+            } catch (err) {
+              core.setFailed(`Failed to fetch connectors: ${err.message}`);
+              return;
+            }
+
+            // 2. Filter to connectors that are not already paused
+            const active = allStatuses.filter((c) => c.cc_pair_status !== "PAUSED");
+
+            if (active.length === 0) {
+              console.log("No active connectors found. Nothing to do.");
+              return;
+            }
+
+            console.log(`Found ${active.length} connector(s) to pause:\n`);
+
+            const success = [];
+            const failed  = [];
+
+            // 3. Pause
+            for (const c of active) {
+              const ccId   = c.cc_pair_id;
+              const name   = c.name ?? `CC-Pair ID ${ccId}`;
+              const source = c.source ?? "unknown";
+
+              console.log(`  [cc_pair=${ccId}] ${name} (source: ${source})`);
+
+              try {
+                await execute("PUT", `/api/manage/admin/cc-pair/${ccId}/status`, { status: "PAUSED" });
+                console.log(`        ✓ Paused`);
+                success.push(name);
+              } catch (err) {
+                console.log(`        ✗ Pause FAILED: ${err.message}`);
+                failed.push(name);
+              }
+            }
+
+            // 4. Summary
+            console.log(`\n── Summary ──────────────────────────────`);
+            console.log(`  Paused : ${success.length}`);
+            success.forEach((n) => console.log(`    • ${n}`));
+            console.log(`  Failed : ${failed.length}`);
+            failed.forEach((n) => console.log(`    • ${n}`));
+            console.log(`─────────────────────────────────────────`);
+
+            if (failed.length > 0) {
+              core.setFailed(`${failed.length} connector(s) failed to pause.`);
+            }
