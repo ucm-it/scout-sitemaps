@@ -40,9 +40,6 @@
     <loc>https://admitted.ucmerced.edu/receptions</loc>
   </url>
   <url>
-    <loc>https://admitted.ucmerced.edu/events/sjv-prime-bsmd-pathway-webinar-overview</loc>
-  </url>
-  <url>
     <loc>https://admitted.ucmerced.edu/events/uc-merced-regional-welcome-reception-el-segundo</loc>
   </url>
   <url>
@@ -148,10 +145,10 @@
     <loc>https://admitted.ucmerced.edu/fall</loc>
   </url>
   <url>
-    <loc>https://admitted.ucmerced.edu/event-location/webinar</loc>
+    <loc>https://admitted.ucmerced.edu/event-location/person</loc>
   </url>
   <url>
-    <loc>https://admitted.ucmerced.edu/event-location/person</loc>
+    <loc>https://admitted.ucmerced.edu/event-location/webinar</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/audience/transfer</loc>
@@ -181,12 +178,6 @@
     <loc>https://admitted.ucmerced.edu/sites/g/files/ufvvjh326/f/documents/coa/fall_2026_tr_conditions_of_admission.pdf</loc>
   </url>
   <url>
-    <loc>https://admitted.ucmerced.edu/events/i-am-bobcat-webinar-health-insurance-university-must-dos</loc>
-  </url>
-  <url>
-    <loc>https://admitted.ucmerced.edu/taxonomy/term/26/feed</loc>
-  </url>
-  <url>
     <loc>https://admitted.ucmerced.edu/events/uc-merced-regional-welcome-reception-sacramento</loc>
   </url>
   <url>
@@ -194,6 +185,15 @@
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/taxonomy/term/31/feed</loc>
+  </url>
+  <url>
+    <loc>https://admitted.ucmerced.edu/events/sjv-prime-bsmd-pathway-webinar-overview</loc>
+  </url>
+  <url>
+    <loc>https://admitted.ucmerced.edu/events/i-am-bobcat-webinar-health-insurance-university-must-dos</loc>
+  </url>
+  <url>
+    <loc>https://admitted.ucmerced.edu/taxonomy/term/26/feed</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/taxonomy/term/56/feed</loc>
