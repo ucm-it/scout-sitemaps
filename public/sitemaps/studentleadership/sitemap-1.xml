@@ -37,7 +37,7 @@
     <loc>https://studentleadership.ucmerced.edu/graduationpin</loc>
   </url>
   <url>
-    <loc>https://studentleadership.ucmerced.edu/incentives/student-leadership-awards/previous-award-winners</loc>
+    <loc>https://studentleadership.ucmerced.edu/incentives/student-awards/previous-award-winners</loc>
   </url>
   <url>
     <loc>https://studentleadership.ucmerced.edu/student-leadership-awards/faqs</loc>
@@ -76,7 +76,7 @@
     <loc>https://studentleadership.ucmerced.edu/about-us/hours-and-location</loc>
   </url>
   <url>
-    <loc>https://studentleadership.ucmerced.edu/contact-us/meet-our-donor</loc>
+    <loc>https://studentleadership.ucmerced.edu/about-us/meet-our-donor</loc>
   </url>
   <url>
     <loc>https://studentleadership.ucmerced.edu/leadership/staff</loc>
@@ -89,6 +89,9 @@
   </url>
   <url>
     <loc>https://studentleadership.ucmerced.edu/programs/ylp/YLPSI</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/conferences</loc>
   </url>
   <url>
     <loc>https://studentleadership.ucmerced.edu/programs/ylp/about-ylp</loc>
@@ -169,13 +172,16 @@
     <loc>https://studentleadership.ucmerced.edu/Equity</loc>
   </url>
   <url>
-    <loc>https://studentleadership.ucmerced.edu/sites/studentleadership.ucmerced.edu/files/page/documents/souza_center_press_release.pdf</loc>
+    <loc>https://studentleadership.ucmerced.edu/sites/g/files/ufvvjh1756/f/page/documents/souza_center_press_release.pdf</loc>
   </url>
   <url>
     <loc>https://studentleadership.ucmerced.edu/sites/g/files/ufvvjh1756/f/page/documents/ylpsi_position_descriptions_2026.pdf</loc>
   </url>
   <url>
     <loc>https://studentleadership.ucmerced.edu/sites/g/files/ufvvjh1756/f/documents/ylpsi_2026_application.pdf</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/wearehereguestspeakers</loc>
   </url>
   <url>
     <loc>https://studentleadership.ucmerced.edu/sites/g/files/ufvvjh1756/f/documents/chancellors_ambassador_program_job_description_26-27_1.docx</loc>
@@ -448,10 +454,10 @@
     <loc>https://studentleadership.ucmerced.edu/2020-leadership-conference</loc>
   </url>
   <url>
-    <loc>https://studentleadership.ucmerced.edu/sites/studentleadership.ucmerced.edu/files/news/documents/opening_report_-_margo_f._souza_student_leadership_center.pdf</loc>
+    <loc>https://studentleadership.ucmerced.edu/sites/g/files/ufvvjh1756/f/news/documents/opening_report_-_margo_f._souza_student_leadership_center.pdf</loc>
   </url>
   <url>
-    <loc>https://studentleadership.ucmerced.edu/sites/studentleadership.ucmerced.edu/files/news/documents/souza_center_press_release.pdf</loc>
+    <loc>https://studentleadership.ucmerced.edu/sites/g/files/ufvvjh1756/f/news/documents/souza_center_press_release.pdf</loc>
   </url>
   <url>
     <loc>https://studentleadership.ucmerced.edu/conference-day-one</loc>
@@ -464,9 +470,6 @@
   </url>
   <url>
     <loc>https://studentleadership.ucmerced.edu/node/1341</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/sites/studentleadership.ucmerced.edu/files/page/documents/leadership_and_advocacy_resource_guide_by_uc_merced_alumna_natalie_gonzalez_class_of_2015.pdf</loc>
   </url>
   <url>
     <loc>https://studentleadership.ucmerced.edu/sites/g/files/ufvvjh1756/f/page/documents/leadership_and_advocacy_resource_guide_by_uc_merced_alumna_natalie_gonzalez_class_of_2015.pdf</loc>
