@@ -115,9 +115,6 @@
     <loc>https://payroll.ucmerced.edu/form/employee-work-location</loc>
   </url>
   <url>
-    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/webform/cto_election_form_doc.pdf</loc>
-  </url>
-  <url>
     <loc>https://payroll.ucmerced.edu/form/damage-payment-request</loc>
   </url>
   <url>
@@ -131,12 +128,6 @@
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/form/academic-intake-appointment-request</loc>
-  </url>
-  <url>
-    <loc>https://payroll.ucmerced.edu/form/academic-merit</loc>
-  </url>
-  <url>
-    <loc>https://payroll.ucmerced.edu/form/academic-promotion</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/form/postdoc-anniversary-update</loc>
@@ -353,6 +344,9 @@
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/form/student-rate-change-andor-job-extension</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/webform/cto_election_form_doc.pdf</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/sites/bfs.ucmerced.edu/files/documents/escalation_questionnaire_1.pdf</loc>

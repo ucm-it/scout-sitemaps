@@ -250,13 +250,13 @@
     <loc>https://ssha.ucmerced.edu/content/tom-martinez</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/lisa-mora</loc>
-  </url>
-  <url>
     <loc>https://ssha.ucmerced.edu/content/sandra-mora</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/sarah-mora</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/content/lisa-mora</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/christine-panelli</loc>
@@ -382,10 +382,10 @@
     <loc>https://ssha.ucmerced.edu/content/linda-cameron-0</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/gregg-camfield</loc>
+    <loc>https://ssha.ucmerced.edu/content/eileen-camfield-0</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/eileen-camfield-0</loc>
+    <loc>https://ssha.ucmerced.edu/content/gregg-camfield</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/alec-chan-golston</loc>
@@ -505,10 +505,10 @@
     <loc>https://ssha.ucmerced.edu/content/matthew-v-hibbing</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/justin-hicks-0</loc>
+    <loc>https://ssha.ucmerced.edu/content/daniel-hicks-0</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/daniel-hicks-0</loc>
+    <loc>https://ssha.ucmerced.edu/content/justin-hicks-0</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/colin-holbrook-0</loc>
@@ -529,16 +529,16 @@
     <loc>https://ssha.ucmerced.edu/content/robert-innes</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/elif-isbell</loc>
-  </url>
-  <url>
     <loc>https://ssha.ucmerced.edu/content/jason-isbell</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/carolyn-dicey-jennings-2</loc>
+    <loc>https://ssha.ucmerced.edu/content/elif-isbell</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/david-jennings-2</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/content/carolyn-dicey-jennings-2</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/fan-jia</loc>
@@ -580,10 +580,10 @@
     <loc>https://ssha.ucmerced.edu/content/jiajun-liang</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/haiyan-liu-0</loc>
+    <loc>https://ssha.ucmerced.edu/content/ren-liu-0</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/ren-liu-0</loc>
+    <loc>https://ssha.ucmerced.edu/content/haiyan-liu-0</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/felicia-lopez</loc>
@@ -1279,6 +1279,9 @@
     <loc>https://ssha.ucmerced.edu/news/2025/uc-merced-alumna%E2%80%99s-legal-career-soars-silicon-valley</loc>
   </url>
   <url>
+    <loc>https://ssha.ucmerced.edu/news/2026/fresno-student-eager-dive-life-uc-merced</loc>
+  </url>
+  <url>
     <loc>https://ssha.ucmerced.edu/news/2026/uc-merced-scientists-use-sewage-track-nicotine-use-central-valley</loc>
   </url>
   <url>
@@ -1295,9 +1298,6 @@
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/news/2026/prison-documentary-uc-merced%E2%80%99s-sharim-awarded-phoenix-film-festival</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2026/writing-students-help-merced-arts-center-find-fresh-voice</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/media-contact/jody-murray?page=1</loc>
@@ -1325,6 +1325,9 @@
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/taxonomy/term/2541/feed</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2026/turning-research-climate-impact</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/news/2025/two-social-science-graduate-students-earn-fellowships-0</loc>
@@ -1477,13 +1480,13 @@
     <loc>http://ssha.ucmerced.edu/content/tom-martinez</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/lisa-mora</loc>
-  </url>
-  <url>
     <loc>http://ssha.ucmerced.edu/content/sandra-mora</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/sarah-mora</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/content/lisa-mora</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/christine-panelli</loc>
@@ -1603,10 +1606,10 @@
     <loc>http://ssha.ucmerced.edu/content/linda-cameron-0</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/gregg-camfield</loc>
+    <loc>http://ssha.ucmerced.edu/content/eileen-camfield-0</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/eileen-camfield-0</loc>
+    <loc>http://ssha.ucmerced.edu/content/gregg-camfield</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/alec-chan-golston</loc>
@@ -1726,10 +1729,10 @@
     <loc>http://ssha.ucmerced.edu/content/matthew-v-hibbing</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/justin-hicks-0</loc>
+    <loc>http://ssha.ucmerced.edu/content/daniel-hicks-0</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/daniel-hicks-0</loc>
+    <loc>http://ssha.ucmerced.edu/content/justin-hicks-0</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/colin-holbrook-0</loc>
@@ -1750,16 +1753,16 @@
     <loc>http://ssha.ucmerced.edu/content/robert-innes</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/elif-isbell</loc>
-  </url>
-  <url>
     <loc>http://ssha.ucmerced.edu/content/jason-isbell</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/carolyn-dicey-jennings-2</loc>
+    <loc>http://ssha.ucmerced.edu/content/elif-isbell</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/david-jennings-2</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/content/carolyn-dicey-jennings-2</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/fan-jia</loc>
@@ -1801,10 +1804,10 @@
     <loc>http://ssha.ucmerced.edu/content/jiajun-liang</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/haiyan-liu-0</loc>
+    <loc>http://ssha.ucmerced.edu/content/ren-liu-0</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/ren-liu-0</loc>
+    <loc>http://ssha.ucmerced.edu/content/haiyan-liu-0</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/felicia-lopez</loc>
@@ -2326,6 +2329,9 @@
     <loc>https://ssha.ucmerced.edu/news/2023/incoming-fresno-student-prepares-launch-her-health-career-uc-merced</loc>
   </url>
   <url>
+    <loc>https://ssha.ucmerced.edu/news/2026/writing-students-help-merced-arts-center-find-fresh-voice</loc>
+  </url>
+  <url>
     <loc>https://ssha.ucmerced.edu/news/2026/uc-merced-students-directed-jenni-samuelson-perform-letters-war</loc>
   </url>
   <url>
@@ -2779,6 +2785,9 @@
     <loc>http://ssha.ucmerced.edu/news/2025/uc-merced-alumna%E2%80%99s-legal-career-soars-silicon-valley</loc>
   </url>
   <url>
+    <loc>http://ssha.ucmerced.edu/news/2026/fresno-student-eager-dive-life-uc-merced</loc>
+  </url>
+  <url>
     <loc>http://ssha.ucmerced.edu/news/2026/uc-merced-scientists-use-sewage-track-nicotine-use-central-valley</loc>
   </url>
   <url>
@@ -2795,9 +2804,6 @@
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/news/2026/prison-documentary-uc-merced%E2%80%99s-sharim-awarded-phoenix-film-festival</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2026/writing-students-help-merced-arts-center-find-fresh-voice</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/media-contact/jody-murray?page=1</loc>
@@ -2825,6 +2831,9 @@
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/taxonomy/term/2541/feed</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2026/turning-research-climate-impact</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/news/2025/two-social-science-graduate-students-earn-fellowships-0</loc>
@@ -3185,6 +3194,9 @@
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/news/2023/incoming-fresno-student-prepares-launch-her-health-career-uc-merced</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2026/writing-students-help-merced-arts-center-find-fresh-voice</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/news/2026/uc-merced-students-directed-jenni-samuelson-perform-letters-war</loc>

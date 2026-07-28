@@ -10,9 +10,6 @@
     <loc>https://ppfm.ucmerced.edu/faqs</loc>
   </url>
   <url>
-    <loc>https://ppfm.ucmerced.edu/about-us</loc>
-  </url>
-  <url>
     <loc>https://ppfm.ucmerced.edu/services-we-provide</loc>
   </url>
   <url>
@@ -43,6 +40,9 @@
     <loc>https://ppfm.ucmerced.edu/content/how-do-i-know-which-ppfm-ticket-submit-service-now</loc>
   </url>
   <url>
+    <loc>https://ppfm.ucmerced.edu/content/what-are-ecc-project-statement-statuses</loc>
+  </url>
+  <url>
     <loc>https://ppfm.ucmerced.edu/services-we-provide/sponsored-project-financial-administration</loc>
   </url>
   <url>
@@ -50,5 +50,8 @@
   </url>
   <url>
     <loc>https://ppfm.ucmerced.edu/users/kmorgan2</loc>
+  </url>
+  <url>
+    <loc>https://ppfm.ucmerced.edu/users/dhinojosa</loc>
   </url>
 </urlset>
