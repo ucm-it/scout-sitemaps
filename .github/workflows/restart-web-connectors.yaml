@@ -52,7 +52,7 @@ jobs:
                 const body = {
                   secondary_index: false,
                   access_type_filters: [],
-                  last_status_filters: ["failed"],
+                  last_status_filters: [],
                   docs_count_operator: null,
                   docs_count_value: null,
                   source_to_page: page === 1 ? {} : { web: page },
