@@ -11,14 +11,12 @@ on:
         type: choice
         options:
           - dev
+          - prod
 
 jobs:
   restart-connectors:
-    strategy:
-      matrix:
-        environment: ${{ github.event_name == 'schedule' && fromJSON('["dev"]') || fromJSON(format('["{0}"]', inputs.environment)) }}
     runs-on: ubuntu-latest
-    environment: ${{ matrix.environment }}
+    environment: ${{ inputs.environment || 'prod' }}
     steps:
       - name: Restart paused Onyx web connectors
         uses: actions/github-script@v7
