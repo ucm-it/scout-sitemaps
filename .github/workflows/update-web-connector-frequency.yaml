@@ -1,0 +1,134 @@
+name: Update Web Onyx Connector Frequency
+
+on:
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: Target environment
+        required: true
+        type: choice
+        options:
+          - dev
+          - prod
+      refresh_freq_seconds:
+        description: Refresh frequency in seconds (604800 = once a week)
+        required: true
+        default: "604800"
+        type: string
+      dry_run:
+        description: List what would change without updating anything
+        required: false
+        default: true
+        type: boolean
+
+jobs:
+  update-frequency:
+    runs-on: ubuntu-latest
+    environment: ${{ inputs.environment }}
+    steps:
+      - name: Set refresh frequency on all Onyx web connectors
+        uses: actions/github-script@v7
+        env:
+          ONYX_BASE_URL: ${{ secrets.ONYX_API_BASE_URL }}
+          ONYX_API_KEY: ${{ secrets.ONYX_API_TOKEN }}
+          REFRESH_FREQ: ${{ inputs.refresh_freq_seconds }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        with:
+          script: |
+            const BASE_URL      = process.env.ONYX_BASE_URL.replace(/\/$/, "");
+            const API_KEY       = process.env.ONYX_API_KEY;
+            const DRY_RUN       = process.env.DRY_RUN === "true";
+            const REFRESH_FREQ  = Number(process.env.REFRESH_FREQ);
+
+            if (!Number.isInteger(REFRESH_FREQ) || REFRESH_FREQ <= 0) {
+              core.setFailed(`Invalid refresh_freq_seconds: ${process.env.REFRESH_FREQ}`);
+              return;
+            }
+
+            const headers = {
+              "Authorization": `Bearer ${API_KEY}`,
+              "Content-Type": "application/json",
+            };
+
+            const execute = async (method, path, body) => {
+              const res = await fetch(`${BASE_URL}${path}`, {
+                method,
+                headers,
+                ...(body !== undefined ? { body: JSON.stringify(body) } : {}),
+              });
+              if (!res.ok) throw new Error(`${method} ${path} → HTTP ${res.status}`);
+              return res;
+            };
+
+            console.log(`Connecting to: ${BASE_URL}`);
+            console.log(`Target refresh frequency: ${REFRESH_FREQ}s (${(REFRESH_FREQ / 86400).toFixed(2)} days)`);
+            if (DRY_RUN) console.log(`DRY RUN — no changes will be made`);
+            console.log("");
+
+            // 1. Fetch every connector/credential pair
+            let statuses;
+            try {
+              const res = await execute("GET", "/api/manage/admin/connector/status");
+              statuses = await res.json();
+            } catch (err) {
+              core.setFailed(`Failed to fetch connectors: ${err.message}`);
+              return;
+            }
+
+            // 2. Keep web connectors that are not already on the target frequency
+            const web     = statuses.filter((s) => s.connector?.source === "web");
+            const pending = web.filter((s) => s.connector.refresh_freq !== REFRESH_FREQ);
+
+            console.log(`Found ${web.length} web connector(s), ${pending.length} needing an update.\n`);
+
+            if (pending.length === 0) {
+              console.log("Nothing to do.");
+              return;
+            }
+
+            const success = [];
+            const failed  = [];
+
+            // 3. Update. PATCH replaces the connector model, so every existing
+            //    field is echoed back and only refresh_freq is changed.
+            for (const s of pending) {
+              const c    = s.connector;
+              const name = c.name ?? `Connector ID ${c.id}`;
+
+              console.log(`  [connector=${c.id}] ${name}: ${c.refresh_freq}s → ${REFRESH_FREQ}s`);
+
+              if (DRY_RUN) {
+                success.push(name);
+                continue;
+              }
+
+              try {
+                await execute("PATCH", `/api/manage/admin/connector/${c.id}`, {
+                  name: c.name,
+                  source: c.source,
+                  input_type: c.input_type,
+                  connector_specific_config: c.connector_specific_config,
+                  refresh_freq: REFRESH_FREQ,
+                  prune_freq: c.prune_freq,
+                  indexing_start: c.indexing_start,
+                  access_type: s.access_type,
+                  groups: s.groups ?? [],
+                });
+                console.log(`        ✓ Updated`);
+                success.push(name);
+              } catch (err) {
+                console.log(`        ✗ Update FAILED: ${err.message}`);
+                failed.push(name);
+              }
+            }
+
+            // 4. Summary
+            console.log(`\n── Summary ──────────────────────────────`);
+            console.log(`  ${DRY_RUN ? "Would update" : "Updated"} : ${success.length}`);
+            console.log(`  Failed : ${failed.length}`);
+            failed.forEach((n) => console.log(`    • ${n}`));
+            console.log(`─────────────────────────────────────────`);
+
+            if (failed.length > 0) {
+              core.setFailed(`${failed.length} connector(s) failed to update.`);
+            }
