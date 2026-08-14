@@ -16,7 +16,7 @@ on:
         default: "604800"
         type: string
       dry_run:
-        description: List what would change without updating anything
+        description: Dry Run
         required: false
         default: true
         type: boolean
