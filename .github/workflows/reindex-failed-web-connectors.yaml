@@ -1,6 +1,10 @@
 name: Reindex Failed Web Onyx Connectors
 
 on:
+  schedule:
+    # Half past the hour, so paused connectors have already been resumed by
+    # Restart Paused Web Onyx Connectors (which runs on the hour).
+    - cron: "30 * * * *"
   workflow_dispatch:
     inputs:
       environment:
@@ -24,7 +28,7 @@ on:
 jobs:
   reindex-connectors:
     runs-on: ubuntu-latest
-    environment: ${{ inputs.environment }}
+    environment: ${{ inputs.environment || 'prod' }}
     steps:
       - name: Reindex failed Onyx web connectors
         uses: actions/github-script@v7
