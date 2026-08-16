@@ -19,10 +19,7 @@
     <loc>https://eal.ucmerced.edu/instruments/icp-ms</loc>
   </url>
   <url>
-    <loc>https://eal.ucmerced.edu/instrumentation/icp-oes</loc>
-  </url>
-  <url>
-    <loc>https://eal.ucmerced.edu/instruments/gfaa</loc>
+    <loc>https://eal.ucmerced.edu/instruments/icp-oes</loc>
   </url>
   <url>
     <loc>https://eal.ucmerced.edu/instruments/ion-chromatography</loc>
@@ -34,16 +31,13 @@
     <loc>https://eal.ucmerced.edu/instruments/toc-analyzer</loc>
   </url>
   <url>
-    <loc>https://eal.ucmerced.edu/instrumentation/water-isotope-analyzer</loc>
-  </url>
-  <url>
     <loc>https://eal.ucmerced.edu/instrumentation/dma-80-mercury-analyzer</loc>
   </url>
   <url>
     <loc>https://eal.ucmerced.edu/instrumentation/MERXT-%26-MERXM</loc>
   </url>
   <url>
-    <loc>https://eal.ucmerced.edu/instrumentation/multiwave-digestion-system</loc>
+    <loc>https://eal.ucmerced.edu/instruments/multiwave-digestion-system</loc>
   </url>
   <url>
     <loc>https://eal.ucmerced.edu/instrumentation/Other-sample-preparation-devices</loc>
@@ -71,11 +65,5 @@
   </url>
   <url>
     <loc>https://eal.ucmerced.edu/sites/eal.ucmerced.edu/files/page/documents/qc8500_user_manual_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://eal.ucmerced.edu/sites/eal.ucmerced.edu/files/page/documents/recharge_authorization_form.pdf</loc>
-  </url>
-  <url>
-    <loc>https://eal.ucmerced.edu/sites/eal.ucmerced.edu/files/page/documents/eal_recharge_rate_table_2018_internal_rate.pdf</loc>
   </url>
 </urlset>

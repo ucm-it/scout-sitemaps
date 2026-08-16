@@ -193,7 +193,7 @@
     <loc>https://hr.ucmerced.edu/leaves-absence/resources</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/form/request-leave-absence</loc>
+    <loc>https://hr.ucmerced.edu/leaverequest</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/family-medical-leave_0.pdf</loc>
@@ -772,6 +772,9 @@
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/abusive_conduct_report_form.pdf</loc>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/UC_abusive_conduct_in_the_workplace</loc>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/covered_service_contract_7.17.26.docx</loc>
   </url>
   <url>
@@ -1141,9 +1144,6 @@
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/background_check_worksheet_0.pdf</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/ucm_background_check.pdf</loc>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/use_bcia-8016.pdf</loc>
   </url>
   <url>
@@ -1178,9 +1178,6 @@
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/my_uc_career_faqs</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/UC_abusive_conduct_in_the_workplace</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/UC_cyber_security_awareness_fundamentals</loc>

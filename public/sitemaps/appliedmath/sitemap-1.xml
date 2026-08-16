@@ -73,7 +73,22 @@
     <loc>https://appliedmath.ucmerced.edu/undergraduate-education/math-courses</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/academics/undergraduate-education/navigating-your-first-year</loc>
+    <loc>https://appliedmath.ucmerced.edu/academics/undergraduate-education/navigating-your-first-year-math-courses</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/academics/undergraduate-education/math-005-vs-math-008</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/academics/undergraduate-education/math-011-vs-math-021</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/academics/undergraduate-education/math-005</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/academics/undergraduate-education/math-005a</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/academics/undergraduate-education/math-008</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/academics/undergraduate-education/course-flow-chart</loc>
@@ -112,7 +127,7 @@
     <loc>https://appliedmath.ucmerced.edu/sites/appliedmath.ucmerced.edu/files/page/documents/ucmerced_applied_math_flier.pdf</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/academics/graduate-studies/policies-procedures</loc>
+    <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/applied_math_pps_2026.pdf</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/academics/graduate-studies/preliminary-exams</loc>
@@ -232,7 +247,7 @@
     <loc>https://appliedmath.ucmerced.edu/form/contact-graduate-admissions-committee</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/documents/rba08-applied_math_organization.pdf</loc>
+    <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/people/applied_math_organization_chart_20260806.png</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/harish-bhat</loc>
@@ -307,6 +322,9 @@
     <loc>https://appliedmath.ucmerced.edu/content/james-ogaja-0</loc>
   </url>
   <url>
+    <loc>https://appliedmath.ucmerced.edu/content/russell-okino</loc>
+  </url>
+  <url>
     <loc>https://appliedmath.ucmerced.edu/content/christopher-sandoval</loc>
   </url>
   <url>
@@ -341,9 +359,6 @@
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/joon-chun</loc>
-  </url>
-  <url>
-    <loc>https://appliedmath.ucmerced.edu/content/elsie-cortes</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/pablo-curiel</loc>
@@ -382,9 +397,6 @@
     <loc>https://appliedmath.ucmerced.edu/content/saket-karki</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/content/asees-kaur</loc>
-  </url>
-  <url>
     <loc>https://appliedmath.ucmerced.edu/content/pratham-lalwani</loc>
   </url>
   <url>
@@ -404,9 +416,6 @@
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/jeremy-mathew</loc>
-  </url>
-  <url>
-    <loc>https://appliedmath.ucmerced.edu/content/natalie-meacham</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/diego-mendoza</loc>
@@ -430,9 +439,6 @@
     <loc>https://appliedmath.ucmerced.edu/content/ash-rydell</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/content/shashwat-sharan</loc>
-  </url>
-  <url>
     <loc>https://appliedmath.ucmerced.edu/content/joseph-simpson</loc>
   </url>
   <url>
@@ -449,9 +455,6 @@
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/yiming-wang</loc>
-  </url>
-  <url>
-    <loc>https://appliedmath.ucmerced.edu/content/khisal-dilanka-wijesinghe</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/zihan-xu</loc>
@@ -487,7 +490,10 @@
     <loc>https://appliedmath.ucmerced.edu/content/johannes-brust</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/content/jordan-collignon</loc>
+    <loc>https://appliedmath.ucmerced.edu/content/jordan-collignon-0</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/content/elsie-cortes</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/phoebe-coy</loc>
@@ -532,6 +538,9 @@
     <loc>https://appliedmath.ucmerced.edu/content/amandeep-kaur</loc>
   </url>
   <url>
+    <loc>https://appliedmath.ucmerced.edu/content/asees-kaur</loc>
+  </url>
+  <url>
     <loc>https://appliedmath.ucmerced.edu/content/anna-kucherova</loc>
   </url>
   <url>
@@ -551,6 +560,9 @@
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/cory-mccullough</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/content/natalie-meacham</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/tri-alex-nguyen</loc>
@@ -580,10 +592,13 @@
     <loc>https://appliedmath.ucmerced.edu/content/eric-roberts</loc>
   </url>
   <url>
+    <loc>https://appliedmath.ucmerced.edu/content/matea-santiago</loc>
+  </url>
+  <url>
     <loc>https://appliedmath.ucmerced.edu/content/fabian-santiago</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/content/matea-santiago</loc>
+    <loc>https://appliedmath.ucmerced.edu/content/shashwat-sharan</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/jared-stewart</loc>
@@ -686,6 +701,27 @@
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/dirac_summer_research_flyer_1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/math011_syllabus.pdf</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/math012_syllabus.pdf</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/math021_syllabus.pdf</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/math022_syllabus.pdf</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/math005_syllabus.pdf</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/math005a_syllabus.pdf</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/math008_syllabus.pdf</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/math_flow_chart_2024.pdf</loc>
@@ -1297,7 +1333,7 @@
     <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/math_grad_flow_chart_2024.pdf</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/2024.09.04_approved_applied_math_pps_revised_fall2024_clean.pdf</loc>
+    <loc>https://appliedmath.ucmerced.edu/academics/graduate-studies/policies-procedures</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/documents/prelimexam/prelim_calculus_2007.pdf</loc>
@@ -2578,10 +2614,10 @@
     <loc>https://appliedmath.ucmerced.edu/events/appiled-math-seminar-julie-simon</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/events/imaging-and-sensing-seminar-8</loc>
+    <loc>https://appliedmath.ucmerced.edu/events/mathematical-biology-seminar-38</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/events/mathematical-biology-seminar-38</loc>
+    <loc>https://appliedmath.ucmerced.edu/events/imaging-and-sensing-seminar-8</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/events/siam-student-chapter-conference-1</loc>
@@ -4114,10 +4150,10 @@
     <loc>https://appliedmath.ucmerced.edu/events/coffee-and-tea-time</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/events/fall-instruction-begins</loc>
+    <loc>https://appliedmath.ucmerced.edu/events/mathbio-seminar-23</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/events/mathbio-seminar-23</loc>
+    <loc>https://appliedmath.ucmerced.edu/events/fall-instruction-begins</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/events/fall-instructors-remote-teaching-orientation</loc>
@@ -5179,6 +5215,9 @@
     <loc>https://appliedmath.ucmerced.edu/news/2023/alumni-success-celebrated-inaugural-math-event</loc>
   </url>
   <url>
+    <loc>https://appliedmath.ucmerced.edu/content/jacob-bates</loc>
+  </url>
+  <url>
     <loc>https://appliedmath.ucmerced.edu/node/16796</loc>
   </url>
   <url>
@@ -5231,6 +5270,9 @@
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/selma-strango</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/2024.09.04_approved_applied_math_pps_revised_fall2024_clean.pdf</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/images/marsden_memorial_lecture-anil_hirani-pdf2-2.jpg</loc>
@@ -6103,7 +6145,22 @@
     <loc>http://appliedmath.ucmerced.edu/undergraduate-education/math-courses</loc>
   </url>
   <url>
-    <loc>http://appliedmath.ucmerced.edu/academics/undergraduate-education/navigating-your-first-year</loc>
+    <loc>http://appliedmath.ucmerced.edu/academics/undergraduate-education/navigating-your-first-year-math-courses</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/academics/undergraduate-education/math-005-vs-math-008</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/academics/undergraduate-education/math-011-vs-math-021</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/academics/undergraduate-education/math-005</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/academics/undergraduate-education/math-005a</loc>
+  </url>
+  <url>
+    <loc>http://appliedmath.ucmerced.edu/academics/undergraduate-education/math-008</loc>
   </url>
   <url>
     <loc>http://appliedmath.ucmerced.edu/academics/undergraduate-education/course-flow-chart</loc>
@@ -6134,9 +6191,6 @@
   </url>
   <url>
     <loc>http://appliedmath.ucmerced.edu/academics/graduate-studies/courses-prior-fall-2024</loc>
-  </url>
-  <url>
-    <loc>http://appliedmath.ucmerced.edu/academics/graduate-studies/policies-procedures</loc>
   </url>
   <url>
     <loc>http://appliedmath.ucmerced.edu/academics/graduate-studies/preliminary-exams</loc>

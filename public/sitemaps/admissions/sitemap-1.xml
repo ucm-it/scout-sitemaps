@@ -103,9 +103,6 @@
     <loc>https://admissions.ucmerced.edu/visit-us/tour-guides</loc>
   </url>
   <url>
-    <loc>https://admissions.ucmerced.edu/family-tours</loc>
-  </url>
-  <url>
     <loc>https://admissions.ucmerced.edu/information/parents-families</loc>
   </url>
   <url>
@@ -220,13 +217,13 @@
     <loc>https://admissions.ucmerced.edu/visit-us-tours/campus-tours/group-tours</loc>
   </url>
   <url>
+    <loc>https://admissions.ucmerced.edu/family-tours</loc>
+  </url>
+  <url>
     <loc>https://admissions.ucmerced.edu/livetours</loc>
   </url>
   <url>
     <loc>https://admissions.ucmerced.edu/sites/admissions.ucmerced.edu/files/images/Visit_Us_Tours_Page/2023_selfguidedtourflyer.pdf</loc>
-  </url>
-  <url>
-    <loc>https://admissions.ucmerced.edu/in-person-safety-protocol</loc>
   </url>
   <url>
     <loc>https://admissions.ucmerced.edu/admissions-events/educator-tour-program</loc>
@@ -242,6 +239,9 @@
   </url>
   <url>
     <loc>https://admissions.ucmerced.edu/sites/g/files/ufvvjh321/f/documents/pdfs/content/universityofcalifornia_merced_global_scholarship.pdf</loc>
+  </url>
+  <url>
+    <loc>https://admissions.ucmerced.edu/in-person-safety-protocol</loc>
   </url>
   <url>
     <loc>https://admissions.ucmerced.edu/sites/g/files/ufvvjh321/f/page/documents/cc-counseloragenda_20230209_.pdf</loc>

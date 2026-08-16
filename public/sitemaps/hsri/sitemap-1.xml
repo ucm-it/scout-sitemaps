@@ -127,22 +127,19 @@
     <loc>https://hsri.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>https://hsri.ucmerced.edu/news/2026/chancellors-catalyst-awards-ignite-research-humanities-social-sciences</loc>
+  </url>
+  <url>
     <loc>https://hsri.ucmerced.edu/news/2026/fresno-student-eager-dive-life-uc-merced</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2026/uc-merced-scientists-use-sewage-track-nicotine-use-central-valley</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2026/new-study-urges-earlier-detection-valley-fever-cases-climb</loc>
-  </url>
-  <url>
     <loc>https://hsri.ucmerced.edu/content/adeyemi-yemi-adebiyi-phd</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/content/arian-aghilinejad-phd</loc>
-  </url>
-  <url>
-    <loc>https://hsri.ucmerced.edu/content/paul-almeida-phd</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/content/chris-amemiya-phd</loc>
@@ -166,9 +163,6 @@
     <loc>https://hsri.ucmerced.edu/content/mayra-bamaca-phd</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/content/miriam-barlow-phd</loc>
-  </url>
-  <url>
     <loc>https://hsri.ucmerced.edu/content/ryan-baxter-phd</loc>
   </url>
   <url>
@@ -176,9 +170,6 @@
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/content/asa-bradman-phd</loc>
-  </url>
-  <url>
-    <loc>https://hsri.ucmerced.edu/content/paul-brown-phd</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/content/nancy-burke-phd</loc>
@@ -715,16 +706,10 @@
     <loc>https://hsri.ucmerced.edu/content/silas-verrinder</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/sites/hsri.ucmerced.edu/files/page/documents/hsri_community_research_center_agreement_0.pdf</loc>
-  </url>
-  <url>
     <loc>https://hsri.ucmerced.edu/crc-booking</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/sites/hsri.ucmerced.edu/files/page/documents/hsri-sample-budgetjust_0.docx</loc>
-  </url>
-  <url>
-    <loc>https://hsri.ucmerced.edu/sites/hsri.ucmerced.edu/files/page/documents/multiple_irb_review_wo_institutional_approach1.pdf</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/sites/hsri.ucmerced.edu/files/page/documents/hsri_poster_template_4x3.ppt</loc>
@@ -751,6 +736,9 @@
     <loc>https://hsri.ucmerced.edu/sites/hsri.ucmerced.edu/files/page/documents/gift-card-distribution-log-5-2-16.xlsx</loc>
   </url>
   <url>
+    <loc>https://hsri.ucmerced.edu/news/2026/new-study-urges-earlier-detection-valley-fever-cases-climb</loc>
+  </url>
+  <url>
     <loc>https://hsri.ucmerced.edu/news/2026/five-uc-merced-faculty-members-earn-early-career-research-awards</loc>
   </url>
   <url>
@@ -767,9 +755,6 @@
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2026/new-liberal-studies-major-expands-paths-degree-completion-and-future-teachers</loc>
-  </url>
-  <url>
-    <loc>https://hsri.ucmerced.edu/news/2026/uc-merced%E2%80%99s-center-health-equity-convenes-partners-address-patient-trust-gap-san-joaquin</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news?page=1</loc>
@@ -940,40 +925,25 @@
     <loc>https://hsri.ucmerced.edu/sites/hsri.ucmerced.edu/files/page/documents/cheer_workshop_brochure_2018oct-eml.pdf</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/sites/hsri.ucmerced.edu/files/page/documents/cheer_workshop_brochure_2018sep-eml.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hsri.ucmerced.edu/sites/hsri.ucmerced.edu/files/page/documents/nov2013valleyfevermeetingagenda11.7.13_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hsri.ucmerced.edu/form/valley-fever-meeting-registration</loc>
-  </url>
-  <url>
-    <loc>https://hsri.ucmerced.edu/sites/hsri.ucmerced.edu/files/page/documents/2013valley-fever-day-flyeremail.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hsri.ucmerced.edu/sites/hsri.ucmerced.edu/files/page/documents/2013valley-fever-day-flyerprint.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hsri.ucmerced.edu/sites/hsri.ucmerced.edu/files/page/documents/2013health-comms-day-flyer-eml_1.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hsri.ucmerced.edu/sites/hsri.ucmerced.edu/files/page/documents/2013health-comms-day-flyer_2.pdf</loc>
+    <loc>http://hsri.ucmerced.edu/form/valley-fever-meeting-registration</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/media-contact/jody-murray</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/media-contact/lorena-anderson</loc>
+    <loc>http://hsri.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu</loc>
+    <loc>https://hsri.ucmerced.edu/media-contact/lorena-anderson</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/media-contact/alyssa-johansen</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/media-contact/brenda-ortiz</loc>
+  </url>
+  <url>
+    <loc>https://hsri.ucmerced.edu/news/2026/uc-merced%E2%80%99s-center-health-equity-convenes-partners-address-patient-trust-gap-san-joaquin</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2026/ripon-student-turning-heart-and-heritage-path-healing</loc>
@@ -1123,10 +1093,10 @@
     <loc>https://hsri.ucmerced.edu/news/2024/study-offers-steps-speed-research-money-community-partners</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2024/uc-merced-hosts-tobacco-control-summit</loc>
+    <loc>https://hsri.ucmerced.edu/news?page=9</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news?page=9</loc>
+    <loc>https://hsri.ucmerced.edu/news/2024/uc-merced-hosts-tobacco-control-summit</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2024/following-mission-improve-valley-health-care</loc>
@@ -1156,10 +1126,10 @@
     <loc>https://hsri.ucmerced.edu/news/2024/active-matter-researcher-will-further-modeling-education-nsf-career-award</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2024/journal-published-uc-merced-public-health-professors-study-violence-and-suicidal-behavior</loc>
+    <loc>https://hsri.ucmerced.edu/news?page=10</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news?page=10</loc>
+    <loc>https://hsri.ucmerced.edu/news/2024/journal-published-uc-merced-public-health-professors-study-violence-and-suicidal-behavior</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2023/naughton-honored-one-40-under-40-engineering-organization</loc>
@@ -1189,10 +1159,10 @@
     <loc>https://hsri.ucmerced.edu/news/2023/career-award-funds-research-lip-reading-mobile-devices</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2023/uc-merced-commencement-keynote-speakers-ready-inspire</loc>
+    <loc>https://hsri.ucmerced.edu/news?page=11</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news?page=11</loc>
+    <loc>https://hsri.ucmerced.edu/news/2023/uc-merced-commencement-keynote-speakers-ready-inspire</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2023/career-award-will-fund-research-arthritis-cause</loc>
@@ -1204,10 +1174,10 @@
     <loc>https://hsri.ucmerced.edu/news/2023/national-public-health-week-includes-research-symposium-and-food-drive</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2023/study-finds-childhood-exposure-weed-killer-may-increase-risk-disease-young-adulthood</loc>
+    <loc>https://hsri.ucmerced.edu/news/2023/research-week-highlights-solutions-urgent-environmental-issues</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2023/research-week-highlights-solutions-urgent-environmental-issues</loc>
+    <loc>https://hsri.ucmerced.edu/news/2023/study-finds-childhood-exposure-weed-killer-may-increase-risk-disease-young-adulthood</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2023/community-and-labor-centers-new-study-highlights-farmworkers-health-challenges</loc>
@@ -1222,10 +1192,10 @@
     <loc>https://hsri.ucmerced.edu/news/2022/uc-merced-gains-prestigious-uc-agricultural-experiment-station-designation</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2022/webinar-health-effects-hookah-include-doctoral-students-research</loc>
+    <loc>https://hsri.ucmerced.edu/news?page=12</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news?page=12</loc>
+    <loc>https://hsri.ucmerced.edu/news/2012/hsri-research-featured-new-england-journal-medicine</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2012/uc-merced-professor-focused-skin-cancer</loc>
@@ -1423,10 +1393,13 @@
     <loc>https://hsri.ucmerced.edu/events/social-sciences</loc>
   </url>
   <url>
+    <loc>https://hsri.ucmerced.edu/sites/hsri.ucmerced.edu/files/event/documents/lyceum_final.pdf</loc>
+  </url>
+  <url>
     <loc>https://hsri.ucmerced.edu/events/engineering</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/form/2015-research-week-registration</loc>
+    <loc>https://hsri.ucmerced.edu/sites/hsri.ucmerced.edu/files/event/documents/research_on_a_napkin_event_.pdf</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/sites/hsri.ucmerced.edu/files/event/documents/2014_valleyfeverseries_dfilipemail-2.pdf</loc>
@@ -1492,10 +1465,10 @@
     <loc>https://hsri.ucmerced.edu/taxonomy/term/2461/feed</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/taxonomy/term/651/feed</loc>
+    <loc>http://hsri.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/rss.xml</loc>
+    <loc>http://hsri.ucmerced.edu/news/2026/chancellors-catalyst-awards-ignite-research-humanities-social-sciences</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2026/fresno-student-eager-dive-life-uc-merced</loc>
@@ -1504,7 +1477,7 @@
     <loc>http://hsri.ucmerced.edu/news/2026/uc-merced-scientists-use-sewage-track-nicotine-use-central-valley</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2026/new-study-urges-earlier-detection-valley-fever-cases-climb</loc>
+    <loc>https://hsri.ucmerced.edu/taxonomy/term/651/feed</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/taxonomy/term/2371/feed</loc>
@@ -1528,6 +1501,9 @@
     <loc>https://hsri.ucmerced.edu/media-contact/patty-guerra</loc>
   </url>
   <url>
+    <loc>https://hsri.ucmerced.edu/news/2022/webinar-health-effects-hookah-include-doctoral-students-research</loc>
+  </url>
+  <url>
     <loc>https://hsri.ucmerced.edu/news/2022/professors-share-their-research-through-comics-events</loc>
   </url>
   <url>
@@ -1549,10 +1525,10 @@
     <loc>https://hsri.ucmerced.edu/news/2022/%E2%80%98molecular-lego%E2%80%99-study-analyzes-building-blocks-partially-disordered-protein</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2022/bioengineers-work-new-technology-look-deep-inside-living-tissue-and-tumors</loc>
+    <loc>https://hsri.ucmerced.edu/news?page=13</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news?page=13</loc>
+    <loc>https://hsri.ucmerced.edu/news/2022/bioengineers-work-new-technology-look-deep-inside-living-tissue-and-tumors</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2022/baby-formula-shortages-and-covid-19-led-risky-feeding-practices-study-suggests</loc>
@@ -1582,13 +1558,13 @@
     <loc>https://hsri.ucmerced.edu/news/2022/mccloskey-earns-place-among-fellows-prestigious-bioengineering-organization</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2022/b-cell-study-indicates-promising-direction-anti-parasitic-vaccines</loc>
-  </url>
-  <url>
     <loc>https://hsri.ucmerced.edu/news?page=14</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/media-contact/samuel-yniquez</loc>
+  </url>
+  <url>
+    <loc>https://hsri.ucmerced.edu/news/2022/b-cell-study-indicates-promising-direction-anti-parasitic-vaccines</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2022/nsf-award-goes-research-brain-formation-and-what-leads-developmental-disorders</loc>
@@ -1615,13 +1591,13 @@
     <loc>https://hsri.ucmerced.edu/news/2021/hiv-preventative-developed-liwang-lab-takes-one-big-step-forward</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2021/brain-study-turns-brake-understand-how-sympathy-can-be-increased</loc>
-  </url>
-  <url>
     <loc>https://hsri.ucmerced.edu/news?page=15</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/media-contact/juan-flores</loc>
+  </url>
+  <url>
+    <loc>https://hsri.ucmerced.edu/news/2021/brain-study-turns-brake-understand-how-sympathy-can-be-increased</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2021/ncpc-hosting-free-webinar-policy-and-media</loc>
@@ -1633,10 +1609,10 @@
     <loc>https://hsri.ucmerced.edu/news/2021/research-shows-sleep-and-social-support-are-vital-latina-teen-mothers-mental-health</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2021/researchers-unraveling-mysteries-electrosensory-gel-sharks-skates</loc>
+    <loc>https://hsri.ucmerced.edu/news/2021/hsri-receives-12-million-research-health-impacts-vehicle-related-air-pollution</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2021/hsri-receives-12-million-research-health-impacts-vehicle-related-air-pollution</loc>
+    <loc>https://hsri.ucmerced.edu/news/2021/researchers-unraveling-mysteries-electrosensory-gel-sharks-skates</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2021/antibiotic-resistance-found-insecticides-commonly-used-california</loc>
@@ -1651,10 +1627,13 @@
     <loc>https://hsri.ucmerced.edu/news/2021/students-conduct-ag-tech-research-campus-usda-internships</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2021/campus-wastewater-testing-offers-covid-19-early-warning-system-establishes-protocols</loc>
+    <loc>https://hsri.ucmerced.edu/news?page=16</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news?page=16</loc>
+    <loc>https://hsri.ucmerced.edu/sites/hsri.ucmerced.edu/files/news/documents/nejm_2012.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hsri.ucmerced.edu/news/2013/graphic-labels-discourage-smoking-young-adults</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2013/professor%E2%80%99s-fellowship-takes-her-halls-power</loc>
@@ -1684,7 +1663,7 @@
     <loc>https://hsri.ucmerced.edu/news/2012/study-sheds-light-bacterial-cell-division</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2012/hsri-research-featured-new-england-journal-medicine</loc>
+    <loc>https://hsri.ucmerced.edu/news/2017/public-health-professor-honored-early-career-research</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2017/aaas-fellow-brings-groundbreaking-genetics-research-campus</loc>
@@ -1714,9 +1693,6 @@
     <loc>https://hsri.ucmerced.edu/news/2017/announcing-2017-18-uc-smoke-and-tobacco-free-student-fellows</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2017/hsri-member-funding-announcement-professor-suzanne-sindi</loc>
-  </url>
-  <url>
     <loc>https://hsri.ucmerced.edu/news?page=24</loc>
   </url>
   <url>
@@ -1727,6 +1703,9 @@
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news?page=23</loc>
+  </url>
+  <url>
+    <loc>https://hsri.ucmerced.edu/news/2017/hsri-member-funding-announcement-professor-suzanne-sindi</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2017/immigration-status-has-health-implications-young-latinos-study-shows</loc>
@@ -1801,10 +1780,10 @@
     <loc>https://hsri.ucmerced.edu/news/2016/undocumented-student-makes-history-phd</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2016/nih-funds-research-stem-cells-bone-disease</loc>
+    <loc>https://hsri.ucmerced.edu/news/2016/nih-funds-research-stem-cells-bone-disease-0</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2016/nih-funds-research-stem-cells-bone-disease-0</loc>
+    <loc>https://hsri.ucmerced.edu/news/2016/nih-funds-research-stem-cells-bone-disease</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2016/uc-merced-receives-5-million-interdisciplinary-research-center</loc>
@@ -1906,7 +1885,7 @@
     <loc>https://hsri.ucmerced.edu/news/2013/gift-amphitheater-research-strengthens-community-connections</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2013/graphic-labels-discourage-smoking-young-adults</loc>
+    <loc>http://hsri.ucmerced.edu/news/2026/new-study-urges-earlier-detection-valley-fever-cases-climb</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2026/five-uc-merced-faculty-members-earn-early-career-research-awards</loc>
@@ -1925,9 +1904,6 @@
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2026/new-liberal-studies-major-expands-paths-degree-completion-and-future-teachers</loc>
-  </url>
-  <url>
-    <loc>http://hsri.ucmerced.edu/news/2026/uc-merced%E2%80%99s-center-health-equity-convenes-partners-address-patient-trust-gap-san-joaquin</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news?page=1</loc>
@@ -2158,10 +2134,10 @@
     <loc>http://hsri.ucmerced.edu/media-contact/jody-murray</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/media-contact/lorena-anderson</loc>
+    <loc>https://hsri.ucmerced.edu/taxonomy/term/2341/feed</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/taxonomy/term/2341/feed</loc>
+    <loc>https://hsri.ucmerced.edu/news/2021/campus-wastewater-testing-offers-covid-19-early-warning-system-establishes-protocols</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2021/uc-merced-professor-studies-how-best-speed-covid-19-recovery-home</loc>
@@ -2191,13 +2167,16 @@
     <loc>https://hsri.ucmerced.edu/news/2021/bobcat-won%E2%80%99t-be-stopped-pandemic-creates-resource-students-%E2%80%AFworldwide</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2021/public-health-professor-shows-food-dye-linked-neurological-childhood-development</loc>
-  </url>
-  <url>
     <loc>https://hsri.ucmerced.edu/news?page=17</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2021/public-health-professor-shows-food-dye-linked-childhood-behavior-california-epa-study</loc>
+  </url>
+  <url>
+    <loc>https://hsri.ucmerced.edu/news/2021/public-health-professor-shows-food-dye-linked-neurological-childhood-development-epa-study</loc>
+  </url>
+  <url>
+    <loc>https://hsri.ucmerced.edu/news/2021/public-health-professor-shows-food-dye-linked-neurological-childhood-development</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2021/collaboration-furthers-understanding-immune-cell-development</loc>
@@ -2221,9 +2200,6 @@
     <loc>https://hsri.ucmerced.edu/news/2021/female-faculty-know-international-women%E2%80%99s-day</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2021/qa-latinx-community-impacted-food-insecurity-during-covid-19</loc>
-  </url>
-  <url>
     <loc>https://hsri.ucmerced.edu/news?page=18</loc>
   </url>
   <url>
@@ -2234,6 +2210,9 @@
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/media-contact/desiree-lopez</loc>
+  </url>
+  <url>
+    <loc>https://hsri.ucmerced.edu/news/2021/qa-latinx-community-impacted-food-insecurity-during-covid-19</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2021/grow-grants-nurture-vital-projects-during-pandemic</loc>
@@ -2263,9 +2242,6 @@
     <loc>https://hsri.ucmerced.edu/news/2021/bioengineer%E2%80%99s-infectious-cells-research-earns-nsf-career-award</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2021/prestigious-biennial-grant-program-includes-funding-ag-labor-and-wildfire-research</loc>
-  </url>
-  <url>
     <loc>https://hsri.ucmerced.edu/news?page=19</loc>
   </url>
   <url>
@@ -2273,6 +2249,9 @@
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/media-contact/elizabeth-arakelian</loc>
+  </url>
+  <url>
+    <loc>https://hsri.ucmerced.edu/news/2021/prestigious-biennial-grant-program-includes-funding-ag-labor-and-wildfire-research</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2020/breast-milk-shows-promise-treating-covid-19-and-protecting-babies</loc>
@@ -2299,19 +2278,16 @@
     <loc>https://hsri.ucmerced.edu/news/2020/sliding-waves-atoms-lab-first-observe-ripples-and-friction-2d-materials</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2020/researchers-seek-understand-messy-proteins-are-critical-cellular-function</loc>
-  </url>
-  <url>
     <loc>https://hsri.ucmerced.edu/news?page=20</loc>
-  </url>
-  <url>
-    <loc>http://hsri.ucmerced.edu/sites/hsri.ucmerced.edu/files/news/documents/nejm_2012.pdf</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/media-contact/jason-alvarez</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/public-health</loc>
+  </url>
+  <url>
+    <loc>https://hsri.ucmerced.edu/news/2018/alumnae-staff-members-honor-family-endowed-scholarships</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2018/grad%E2%80%99s-ambition-continues-motivate-her-success</loc>
@@ -2326,10 +2302,10 @@
     <loc>https://hsri.ucmerced.edu/news/2018/lifetime-achievement-award-honors-distinguished-psychology-professor</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2018/uc-professor-finds-drug-resistant-cancer-smarter-imagined</loc>
+    <loc>https://hsri.ucmerced.edu/news/2018/study-drug-resistant-cancer-cleverer-imagined</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2018/study-drug-resistant-cancer-cleverer-imagined</loc>
+    <loc>https://hsri.ucmerced.edu/news/2018/uc-professor-finds-drug-resistant-cancer-smarter-imagined</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2018/study-kitchen-and-culture-clash-when-promoting-healthy-eating-latinos</loc>
@@ -2341,7 +2317,7 @@
     <loc>https://hsri.ucmerced.edu/news/2018/local-valley-foundation-helps-seniors-avoid-hospital-re-entry</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2017/public-health-professor-honored-early-career-research</loc>
+    <loc>https://hsri.ucmerced.edu/news/2019/undergrad-research-fuels-opportunities-grad-school-careers</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2019/overdose-suicide-among-leading-reasons-postpartum-maternal-deaths</loc>
@@ -2431,16 +2407,16 @@
     <loc>https://hsri.ucmerced.edu/news/2018/study-finds-gene-transcription-can-serve-brain%E2%80%99s-timekeeper</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2018/alumnae-staff-members-honor-family-endowed-scholarships</loc>
-  </url>
-  <url>
-    <loc>http://hsri.ucmerced.edu/form/valley-fever-meeting-registration</loc>
+    <loc>http://hsri.ucmerced.edu/media-contact/lorena-anderson</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/media-contact/alyssa-johansen</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/media-contact/brenda-ortiz</loc>
+  </url>
+  <url>
+    <loc>http://hsri.ucmerced.edu/news/2026/uc-merced%E2%80%99s-center-health-equity-convenes-partners-address-patient-trust-gap-san-joaquin</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2026/ripon-student-turning-heart-and-heritage-path-healing</loc>
@@ -2590,10 +2566,10 @@
     <loc>http://hsri.ucmerced.edu/news/2024/study-offers-steps-speed-research-money-community-partners</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2024/uc-merced-hosts-tobacco-control-summit</loc>
+    <loc>http://hsri.ucmerced.edu/news?page=9</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news?page=9</loc>
+    <loc>http://hsri.ucmerced.edu/news/2024/uc-merced-hosts-tobacco-control-summit</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2024/following-mission-improve-valley-health-care</loc>
@@ -2623,10 +2599,10 @@
     <loc>http://hsri.ucmerced.edu/news/2024/active-matter-researcher-will-further-modeling-education-nsf-career-award</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2024/journal-published-uc-merced-public-health-professors-study-violence-and-suicidal-behavior</loc>
+    <loc>http://hsri.ucmerced.edu/news?page=10</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news?page=10</loc>
+    <loc>http://hsri.ucmerced.edu/news/2024/journal-published-uc-merced-public-health-professors-study-violence-and-suicidal-behavior</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2023/naughton-honored-one-40-under-40-engineering-organization</loc>
@@ -2656,10 +2632,10 @@
     <loc>http://hsri.ucmerced.edu/news/2023/career-award-funds-research-lip-reading-mobile-devices</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2023/uc-merced-commencement-keynote-speakers-ready-inspire</loc>
+    <loc>http://hsri.ucmerced.edu/news?page=11</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news?page=11</loc>
+    <loc>http://hsri.ucmerced.edu/news/2023/uc-merced-commencement-keynote-speakers-ready-inspire</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2023/career-award-will-fund-research-arthritis-cause</loc>
@@ -2671,10 +2647,10 @@
     <loc>http://hsri.ucmerced.edu/news/2023/national-public-health-week-includes-research-symposium-and-food-drive</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2023/study-finds-childhood-exposure-weed-killer-may-increase-risk-disease-young-adulthood</loc>
+    <loc>http://hsri.ucmerced.edu/news/2023/research-week-highlights-solutions-urgent-environmental-issues</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2023/research-week-highlights-solutions-urgent-environmental-issues</loc>
+    <loc>http://hsri.ucmerced.edu/news/2023/study-finds-childhood-exposure-weed-killer-may-increase-risk-disease-young-adulthood</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2023/community-and-labor-centers-new-study-highlights-farmworkers-health-challenges</loc>
@@ -2689,10 +2665,10 @@
     <loc>http://hsri.ucmerced.edu/news/2022/uc-merced-gains-prestigious-uc-agricultural-experiment-station-designation</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2022/webinar-health-effects-hookah-include-doctoral-students-research</loc>
+    <loc>http://hsri.ucmerced.edu/news?page=12</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news?page=12</loc>
+    <loc>http://hsri.ucmerced.edu/news/2012/hsri-research-featured-new-england-journal-medicine</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2012/uc-merced-professor-focused-skin-cancer</loc>
@@ -2824,7 +2800,7 @@
     <loc>http://hsri.ucmerced.edu/taxonomy/term/2461/feed</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/taxonomy/term/651/feed</loc>
+    <loc>https://hsri.ucmerced.edu/news/2020/researchers-seek-understand-messy-proteins-are-critical-cellular-function</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2020/public-health-professors-study-covid-19-impact-rural-latinx-health</loc>
@@ -2875,9 +2851,6 @@
     <loc>https://hsri.ucmerced.edu/news/2020/researchers-discover-mechanism-proteins-use-find-and-control-genes</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2020/breakthrough-stem-cell-research-first-image-niche-environment</loc>
-  </url>
-  <url>
     <loc>https://hsri.ucmerced.edu/news/2019/new-director-medical-education-ready-unleash-valley%E2%80%99s-untapped-potential</loc>
   </url>
   <url>
@@ -2885,6 +2858,9 @@
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/taxonomy/term/2091/feed</loc>
+  </url>
+  <url>
+    <loc>https://hsri.ucmerced.edu/news/2020/breakthrough-stem-cell-research-first-image-niche-environment</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2020/public-health-grad-student%E2%80%99s-cdc-funded-research-helps-mosquito-control</loc>
@@ -2905,13 +2881,10 @@
     <loc>https://hsri.ucmerced.edu/news/2019/lab-works-understand-molecular-motors-and-cholesterol%E2%80%99s-relation-alzheimer%E2%80%99s</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2019/valley-fever-focus-public-event</loc>
-  </url>
-  <url>
-    <loc>https://hsri.ucmerced.edu/news/2021/public-health-professor-shows-food-dye-linked-neurological-childhood-development-epa-study</loc>
-  </url>
-  <url>
     <loc>https://hsri.ucmerced.edu/taxonomy/term/1611/feed</loc>
+  </url>
+  <url>
+    <loc>https://hsri.ucmerced.edu/news/2019/valley-fever-focus-public-event</loc>
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/news/2019/nobile-awarded-kamangar-family-endowed-chair</loc>
@@ -2941,9 +2914,6 @@
     <loc>https://hsri.ucmerced.edu/news/2019/university-promotes-social-mobility-through-local-and-regional-programs</loc>
   </url>
   <url>
-    <loc>https://hsri.ucmerced.edu/news/2019/undergrad-research-fuels-opportunities-grad-school-careers</loc>
-  </url>
-  <url>
     <loc>https://hsri.ucmerced.edu/taxonomy/term/201/feed</loc>
   </url>
   <url>
@@ -2951,6 +2921,9 @@
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/media-contact/kenneth-mashinchi</loc>
+  </url>
+  <url>
+    <loc>http://hsri.ucmerced.edu/taxonomy/term/651/feed</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/taxonomy/term/2371/feed</loc>
@@ -2974,6 +2947,9 @@
     <loc>http://hsri.ucmerced.edu/media-contact/patty-guerra</loc>
   </url>
   <url>
+    <loc>http://hsri.ucmerced.edu/news/2022/webinar-health-effects-hookah-include-doctoral-students-research</loc>
+  </url>
+  <url>
     <loc>http://hsri.ucmerced.edu/news/2022/professors-share-their-research-through-comics-events</loc>
   </url>
   <url>
@@ -2995,10 +2971,10 @@
     <loc>http://hsri.ucmerced.edu/news/2022/%E2%80%98molecular-lego%E2%80%99-study-analyzes-building-blocks-partially-disordered-protein</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2022/bioengineers-work-new-technology-look-deep-inside-living-tissue-and-tumors</loc>
+    <loc>http://hsri.ucmerced.edu/news?page=13</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news?page=13</loc>
+    <loc>http://hsri.ucmerced.edu/news/2022/bioengineers-work-new-technology-look-deep-inside-living-tissue-and-tumors</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2022/baby-formula-shortages-and-covid-19-led-risky-feeding-practices-study-suggests</loc>
@@ -3028,13 +3004,13 @@
     <loc>http://hsri.ucmerced.edu/news/2022/mccloskey-earns-place-among-fellows-prestigious-bioengineering-organization</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2022/b-cell-study-indicates-promising-direction-anti-parasitic-vaccines</loc>
-  </url>
-  <url>
     <loc>http://hsri.ucmerced.edu/news?page=14</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/media-contact/samuel-yniquez</loc>
+  </url>
+  <url>
+    <loc>http://hsri.ucmerced.edu/news/2022/b-cell-study-indicates-promising-direction-anti-parasitic-vaccines</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2022/nsf-award-goes-research-brain-formation-and-what-leads-developmental-disorders</loc>
@@ -3064,13 +3040,13 @@
     <loc>http://hsri.ucmerced.edu/news/2021/get-and-move-hsri-maps-routes-walking-meetings</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2021/brain-study-turns-brake-understand-how-sympathy-can-be-increased</loc>
-  </url>
-  <url>
     <loc>http://hsri.ucmerced.edu/news?page=15</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/media-contact/juan-flores</loc>
+  </url>
+  <url>
+    <loc>http://hsri.ucmerced.edu/news/2021/brain-study-turns-brake-understand-how-sympathy-can-be-increased</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2021/ncpc-hosting-free-webinar-policy-and-media</loc>
@@ -3082,10 +3058,10 @@
     <loc>http://hsri.ucmerced.edu/news/2021/research-shows-sleep-and-social-support-are-vital-latina-teen-mothers-mental-health</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2021/researchers-unraveling-mysteries-electrosensory-gel-sharks-skates</loc>
+    <loc>http://hsri.ucmerced.edu/news/2021/hsri-receives-12-million-research-health-impacts-vehicle-related-air-pollution</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2021/hsri-receives-12-million-research-health-impacts-vehicle-related-air-pollution</loc>
+    <loc>http://hsri.ucmerced.edu/news/2021/researchers-unraveling-mysteries-electrosensory-gel-sharks-skates</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2021/antibiotic-resistance-found-insecticides-commonly-used-california</loc>
@@ -3100,10 +3076,10 @@
     <loc>http://hsri.ucmerced.edu/news/2021/students-conduct-ag-tech-research-campus-usda-internships</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2021/campus-wastewater-testing-offers-covid-19-early-warning-system-establishes-protocols</loc>
+    <loc>http://hsri.ucmerced.edu/news?page=16</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news?page=16</loc>
+    <loc>http://hsri.ucmerced.edu/news/2013/graphic-labels-discourage-smoking-young-adults</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2013/professor%E2%80%99s-fellowship-takes-her-halls-power</loc>
@@ -3133,7 +3109,7 @@
     <loc>http://hsri.ucmerced.edu/news/2012/study-sheds-light-bacterial-cell-division</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2012/hsri-research-featured-new-england-journal-medicine</loc>
+    <loc>http://hsri.ucmerced.edu/news/2017/public-health-professor-honored-early-career-research</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2017/aaas-fellow-brings-groundbreaking-genetics-research-campus</loc>
@@ -3163,9 +3139,6 @@
     <loc>http://hsri.ucmerced.edu/news/2017/announcing-2017-18-uc-smoke-and-tobacco-free-student-fellows</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2017/hsri-member-funding-announcement-professor-suzanne-sindi</loc>
-  </url>
-  <url>
     <loc>http://hsri.ucmerced.edu/news?page=24</loc>
   </url>
   <url>
@@ -3176,6 +3149,9 @@
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news?page=23</loc>
+  </url>
+  <url>
+    <loc>http://hsri.ucmerced.edu/news/2017/hsri-member-funding-announcement-professor-suzanne-sindi</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2017/immigration-status-has-health-implications-young-latinos-study-shows</loc>
@@ -3250,10 +3226,10 @@
     <loc>http://hsri.ucmerced.edu/news/2016/undocumented-student-makes-history-phd</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2016/nih-funds-research-stem-cells-bone-disease</loc>
+    <loc>http://hsri.ucmerced.edu/news/2016/nih-funds-research-stem-cells-bone-disease-0</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2016/nih-funds-research-stem-cells-bone-disease-0</loc>
+    <loc>http://hsri.ucmerced.edu/news/2016/nih-funds-research-stem-cells-bone-disease</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2016/uc-merced-receives-5-million-interdisciplinary-research-center</loc>
@@ -3355,9 +3331,6 @@
     <loc>http://hsri.ucmerced.edu/news/2013/gift-amphitheater-research-strengthens-community-connections</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2013/graphic-labels-discourage-smoking-young-adults</loc>
-  </url>
-  <url>
     <loc>http://hsri.ucmerced.edu/news/all?page=9</loc>
   </url>
   <url>
@@ -3433,6 +3406,9 @@
     <loc>http://hsri.ucmerced.edu/taxonomy/term/2341/feed</loc>
   </url>
   <url>
+    <loc>http://hsri.ucmerced.edu/news/2021/campus-wastewater-testing-offers-covid-19-early-warning-system-establishes-protocols</loc>
+  </url>
+  <url>
     <loc>http://hsri.ucmerced.edu/news/2021/uc-merced-professor-studies-how-best-speed-covid-19-recovery-home</loc>
   </url>
   <url>
@@ -3460,13 +3436,16 @@
     <loc>http://hsri.ucmerced.edu/news/2021/bobcat-won%E2%80%99t-be-stopped-pandemic-creates-resource-students-%E2%80%AFworldwide</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2021/public-health-professor-shows-food-dye-linked-neurological-childhood-development</loc>
-  </url>
-  <url>
     <loc>http://hsri.ucmerced.edu/news?page=17</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2021/public-health-professor-shows-food-dye-linked-childhood-behavior-california-epa-study</loc>
+  </url>
+  <url>
+    <loc>http://hsri.ucmerced.edu/news/2021/public-health-professor-shows-food-dye-linked-neurological-childhood-development-epa-study</loc>
+  </url>
+  <url>
+    <loc>http://hsri.ucmerced.edu/news/2021/public-health-professor-shows-food-dye-linked-neurological-childhood-development</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2021/collaboration-furthers-understanding-immune-cell-development</loc>
@@ -3490,9 +3469,6 @@
     <loc>http://hsri.ucmerced.edu/news/2021/female-faculty-know-international-women%E2%80%99s-day</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2021/qa-latinx-community-impacted-food-insecurity-during-covid-19</loc>
-  </url>
-  <url>
     <loc>http://hsri.ucmerced.edu/news?page=18</loc>
   </url>
   <url>
@@ -3503,6 +3479,9 @@
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/media-contact/desiree-lopez</loc>
+  </url>
+  <url>
+    <loc>http://hsri.ucmerced.edu/news/2021/qa-latinx-community-impacted-food-insecurity-during-covid-19</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2021/grow-grants-nurture-vital-projects-during-pandemic</loc>
@@ -3532,9 +3511,6 @@
     <loc>http://hsri.ucmerced.edu/news/2021/bioengineer%E2%80%99s-infectious-cells-research-earns-nsf-career-award</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2021/prestigious-biennial-grant-program-includes-funding-ag-labor-and-wildfire-research</loc>
-  </url>
-  <url>
     <loc>http://hsri.ucmerced.edu/news?page=19</loc>
   </url>
   <url>
@@ -3542,6 +3518,9 @@
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/media-contact/elizabeth-arakelian</loc>
+  </url>
+  <url>
+    <loc>http://hsri.ucmerced.edu/news/2021/prestigious-biennial-grant-program-includes-funding-ag-labor-and-wildfire-research</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2020/breast-milk-shows-promise-treating-covid-19-and-protecting-babies</loc>
@@ -3568,9 +3547,6 @@
     <loc>http://hsri.ucmerced.edu/news/2020/sliding-waves-atoms-lab-first-observe-ripples-and-friction-2d-materials</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2020/researchers-seek-understand-messy-proteins-are-critical-cellular-function</loc>
-  </url>
-  <url>
     <loc>http://hsri.ucmerced.edu/news?page=20</loc>
   </url>
   <url>
@@ -3578,6 +3554,9 @@
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/public-health</loc>
+  </url>
+  <url>
+    <loc>http://hsri.ucmerced.edu/news/2018/alumnae-staff-members-honor-family-endowed-scholarships</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2018/grad%E2%80%99s-ambition-continues-motivate-her-success</loc>
@@ -3592,10 +3571,10 @@
     <loc>http://hsri.ucmerced.edu/news/2018/lifetime-achievement-award-honors-distinguished-psychology-professor</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2018/uc-professor-finds-drug-resistant-cancer-smarter-imagined</loc>
+    <loc>http://hsri.ucmerced.edu/news/2018/study-drug-resistant-cancer-cleverer-imagined</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2018/study-drug-resistant-cancer-cleverer-imagined</loc>
+    <loc>http://hsri.ucmerced.edu/news/2018/uc-professor-finds-drug-resistant-cancer-smarter-imagined</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2018/study-kitchen-and-culture-clash-when-promoting-healthy-eating-latinos</loc>
@@ -3607,7 +3586,7 @@
     <loc>http://hsri.ucmerced.edu/news/2018/local-valley-foundation-helps-seniors-avoid-hospital-re-entry</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2017/public-health-professor-honored-early-career-research</loc>
+    <loc>http://hsri.ucmerced.edu/news/2019/undergrad-research-fuels-opportunities-grad-school-careers</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2019/overdose-suicide-among-leading-reasons-postpartum-maternal-deaths</loc>
@@ -3697,9 +3676,6 @@
     <loc>http://hsri.ucmerced.edu/news/2018/study-finds-gene-transcription-can-serve-brain%E2%80%99s-timekeeper</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2018/alumnae-staff-members-honor-family-endowed-scholarships</loc>
-  </url>
-  <url>
     <loc>http://hsri.ucmerced.edu/news/all?page=13</loc>
   </url>
   <url>
@@ -3725,6 +3701,9 @@
   </url>
   <url>
     <loc>https://hsri.ucmerced.edu/taxonomy/term/12/feed</loc>
+  </url>
+  <url>
+    <loc>http://hsri.ucmerced.edu/news/2020/researchers-seek-understand-messy-proteins-are-critical-cellular-function</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2020/public-health-professors-study-covid-19-impact-rural-latinx-health</loc>
@@ -3781,9 +3760,6 @@
     <loc>http://hsri.ucmerced.edu/news/2020/researchers-discover-mechanism-proteins-use-find-and-control-genes</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2020/breakthrough-stem-cell-research-first-image-niche-environment</loc>
-  </url>
-  <url>
     <loc>http://hsri.ucmerced.edu/news/2019/new-director-medical-education-ready-unleash-valley%E2%80%99s-untapped-potential</loc>
   </url>
   <url>
@@ -3791,6 +3767,9 @@
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/taxonomy/term/2091/feed</loc>
+  </url>
+  <url>
+    <loc>http://hsri.ucmerced.edu/news/2020/breakthrough-stem-cell-research-first-image-niche-environment</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2020/public-health-grad-student%E2%80%99s-cdc-funded-research-helps-mosquito-control</loc>
@@ -3817,13 +3796,10 @@
     <loc>http://hsri.ucmerced.edu/news/2019/lab-works-understand-molecular-motors-and-cholesterol%E2%80%99s-relation-alzheimer%E2%80%99s</loc>
   </url>
   <url>
-    <loc>http://hsri.ucmerced.edu/news/2019/valley-fever-focus-public-event</loc>
-  </url>
-  <url>
-    <loc>http://hsri.ucmerced.edu/news/2021/public-health-professor-shows-food-dye-linked-neurological-childhood-development-epa-study</loc>
-  </url>
-  <url>
     <loc>http://hsri.ucmerced.edu/taxonomy/term/1611/feed</loc>
+  </url>
+  <url>
+    <loc>http://hsri.ucmerced.edu/news/2019/valley-fever-focus-public-event</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2019/nobile-awarded-kamangar-family-endowed-chair</loc>
@@ -3851,9 +3827,6 @@
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/news/2019/university-promotes-social-mobility-through-local-and-regional-programs</loc>
-  </url>
-  <url>
-    <loc>http://hsri.ucmerced.edu/news/2019/undergrad-research-fuels-opportunities-grad-school-careers</loc>
   </url>
   <url>
     <loc>http://hsri.ucmerced.edu/taxonomy/term/201/feed</loc>

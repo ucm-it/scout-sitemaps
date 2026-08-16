@@ -85,6 +85,9 @@
     <loc>https://ssha.ucmerced.edu/faculty-resources/department-services</loc>
   </url>
   <url>
+    <loc>https://ssha.ucmerced.edu/ds-scope-of-services</loc>
+  </url>
+  <url>
     <loc>https://ssha.ucmerced.edu/faculty-resources/events</loc>
   </url>
   <url>
@@ -151,6 +154,9 @@
     <loc>https://ssha.ucmerced.edu/alumni</loc>
   </url>
   <url>
+    <loc>https://ssha.ucmerced.edu/news/2026/chancellors-catalyst-awards-ignite-research-humanities-social-sciences</loc>
+  </url>
+  <url>
     <loc>https://ssha.ucmerced.edu/news/2026/uc-merceds-flores-honored-work-community-and-labor-center</loc>
   </url>
   <url>
@@ -160,10 +166,7 @@
     <loc>https://ssha.ucmerced.edu/news/2026/uc-merced-co-hosts-institute-sharpens-instruction-reading-writing</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/news/2026/all-faculty-rock-band-cuts-album-uc-merced-recording-studio</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2026/professor-charts-path-broader-participation-climate-action</loc>
+    <loc>https://ssha.ucmerced.edu/news/2026/turning-research-climate-impact</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/news/2026/ssha-undergraduates-honored-sparkling-academic-careers</loc>
@@ -235,9 +238,6 @@
     <loc>https://ssha.ucmerced.edu/content/yolanda-kyle</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/mahea-larosa</loc>
-  </url>
-  <url>
     <loc>https://ssha.ucmerced.edu/content/stephanie-lopez</loc>
   </url>
   <url>
@@ -287,6 +287,9 @@
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/eddie-torres</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/content/lilly-uvalle</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/elias-eli-vargas</loc>
@@ -442,10 +445,10 @@
     <loc>https://ssha.ucmerced.edu/content/christian-fons-rosen-0</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/xing-gao</loc>
+    <loc>https://ssha.ucmerced.edu/content/weisong-gao</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/weisong-gao</loc>
+    <loc>https://ssha.ucmerced.edu/content/xing-gao</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/humberto-garcia</loc>
@@ -535,10 +538,10 @@
     <loc>https://ssha.ucmerced.edu/content/elif-isbell</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/david-jennings-2</loc>
+    <loc>https://ssha.ucmerced.edu/content/carolyn-dicey-jennings-2</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/carolyn-dicey-jennings-2</loc>
+    <loc>https://ssha.ucmerced.edu/content/david-jennings-2</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/fan-jia</loc>
@@ -580,10 +583,10 @@
     <loc>https://ssha.ucmerced.edu/content/jiajun-liang</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/ren-liu-0</loc>
+    <loc>https://ssha.ucmerced.edu/content/haiyan-liu-0</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/haiyan-liu-0</loc>
+    <loc>https://ssha.ucmerced.edu/content/ren-liu-0</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/felicia-lopez</loc>
@@ -901,13 +904,16 @@
     <loc>https://ssha.ucmerced.edu/content/jan-goggans</loc>
   </url>
   <url>
+    <loc>https://ssha.ucmerced.edu/content/dr-zenaida-aguirre-munoz</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/media-contact/jody-murray</loc>
+  </url>
+  <url>
     <loc>https://ssha.ucmerced.edu/media-contact/patty-guerra</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/media-contact/alyssa-johansen</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/media-contact/jody-murray</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/celebrating-acheivements/celebrating-achievements</loc>
@@ -1021,6 +1027,9 @@
     <loc>http://ssha.ucmerced.edu/faculty-resources/department-services</loc>
   </url>
   <url>
+    <loc>http://ssha.ucmerced.edu/ds-scope-of-services</loc>
+  </url>
+  <url>
     <loc>http://ssha.ucmerced.edu/faculty-resources/events</loc>
   </url>
   <url>
@@ -1087,6 +1096,9 @@
     <loc>http://ssha.ucmerced.edu/alumni</loc>
   </url>
   <url>
+    <loc>http://ssha.ucmerced.edu/news/2026/chancellors-catalyst-awards-ignite-research-humanities-social-sciences</loc>
+  </url>
+  <url>
     <loc>http://ssha.ucmerced.edu/news/2026/uc-merceds-flores-honored-work-community-and-labor-center</loc>
   </url>
   <url>
@@ -1096,10 +1108,7 @@
     <loc>http://ssha.ucmerced.edu/news/2026/uc-merced-co-hosts-institute-sharpens-instruction-reading-writing</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/news/2026/all-faculty-rock-band-cuts-album-uc-merced-recording-studio</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2026/professor-charts-path-broader-participation-climate-action</loc>
+    <loc>http://ssha.ucmerced.edu/news/2026/turning-research-climate-impact</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/news/2026/ssha-undergraduates-honored-sparkling-academic-careers</loc>
@@ -1198,6 +1207,60 @@
     <loc>https://ssha.ucmerced.edu/affiliated-partnerscenters/center-human-adaptive-systems-and-environments</loc>
   </url>
   <url>
+    <loc>https://ssha.ucmerced.edu/news/2025/uc-merced-alumna%E2%80%99s-legal-career-soars-silicon-valley</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2026/fresno-student-eager-dive-life-uc-merced</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2026/uc-merced-scientists-use-sewage-track-nicotine-use-central-valley</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2026/all-faculty-rock-band-cuts-album-uc-merced-recording-studio</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2026/pioneer-bobcat-blazes-path-through-law-and-technology</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2026/new-business-administration-accounting-majors-address-high-demand</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2026/exhibit-traces-heartbeat-merced-through-sound</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2026/five-uc-merced-faculty-members-earn-early-career-research-awards</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/media-contact/jody-murray?page=1</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/media-contact/jody-murray?page=2</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/media-contact/jody-murray?page=3</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/media-contact/jody-murray?page=4</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/media-contact/jody-murray?page=5</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/media-contact/jody-murray?page=6</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/media-contact/jody-murray?page=7</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/media-contact/jody-murray?page=8</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/media-contact/jody-murray?page=9</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/taxonomy/term/2541/feed</loc>
+  </url>
+  <url>
     <loc>https://ssha.ucmerced.edu/news/2025/uc-merced-agricultural-experiment-station-adds-fire-insect-and-soil-researchers</loc>
   </url>
   <url>
@@ -1274,60 +1337,6 @@
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/taxonomy/term/1701/feed</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2025/uc-merced-alumna%E2%80%99s-legal-career-soars-silicon-valley</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2026/fresno-student-eager-dive-life-uc-merced</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2026/uc-merced-scientists-use-sewage-track-nicotine-use-central-valley</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2026/pioneer-bobcat-blazes-path-through-law-and-technology</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2026/new-business-administration-accounting-majors-address-high-demand</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2026/exhibit-traces-heartbeat-merced-through-sound</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2026/five-uc-merced-faculty-members-earn-early-career-research-awards</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2026/prison-documentary-uc-merced%E2%80%99s-sharim-awarded-phoenix-film-festival</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/media-contact/jody-murray?page=1</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/media-contact/jody-murray?page=2</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/media-contact/jody-murray?page=3</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/media-contact/jody-murray?page=4</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/media-contact/jody-murray?page=5</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/media-contact/jody-murray?page=6</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/media-contact/jody-murray?page=7</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/media-contact/jody-murray?page=8</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/taxonomy/term/2541/feed</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2026/turning-research-climate-impact</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/news/2025/two-social-science-graduate-students-earn-fellowships-0</loc>
@@ -1465,9 +1474,6 @@
     <loc>http://ssha.ucmerced.edu/content/yolanda-kyle</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/mahea-larosa</loc>
-  </url>
-  <url>
     <loc>http://ssha.ucmerced.edu/content/stephanie-lopez</loc>
   </url>
   <url>
@@ -1517,6 +1523,9 @@
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/eddie-torres</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/content/lilly-uvalle</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/elias-eli-vargas</loc>
@@ -1666,10 +1675,10 @@
     <loc>http://ssha.ucmerced.edu/content/christian-fons-rosen-0</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/xing-gao</loc>
+    <loc>http://ssha.ucmerced.edu/content/weisong-gao</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/weisong-gao</loc>
+    <loc>http://ssha.ucmerced.edu/content/xing-gao</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/humberto-garcia</loc>
@@ -1759,10 +1768,10 @@
     <loc>http://ssha.ucmerced.edu/content/elif-isbell</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/david-jennings-2</loc>
+    <loc>http://ssha.ucmerced.edu/content/carolyn-dicey-jennings-2</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/carolyn-dicey-jennings-2</loc>
+    <loc>http://ssha.ucmerced.edu/content/david-jennings-2</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/fan-jia</loc>
@@ -1804,10 +1813,10 @@
     <loc>http://ssha.ucmerced.edu/content/jiajun-liang</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/ren-liu-0</loc>
+    <loc>http://ssha.ucmerced.edu/content/haiyan-liu-0</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/haiyan-liu-0</loc>
+    <loc>http://ssha.ucmerced.edu/content/ren-liu-0</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/felicia-lopez</loc>
@@ -2044,13 +2053,13 @@
     <loc>http://ssha.ucmerced.edu/content/matthew-zawadzki-0</loc>
   </url>
   <url>
+    <loc>http://ssha.ucmerced.edu/media-contact/jody-murray</loc>
+  </url>
+  <url>
     <loc>http://ssha.ucmerced.edu/media-contact/patty-guerra</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/media-contact/alyssa-johansen</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/media-contact/jody-murray</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/celebrating-acheivements/celebrating-achievements</loc>
@@ -2170,163 +2179,7 @@
     <loc>https://ssha.ucmerced.edu/taxonomy/term/2471/feed</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/news/2024/uc-merced-curates-sweeping-chicano-art-exhibit-3-galleries</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2024/researchers-work-aimed-helping-people-live-better-lives</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2024/just-how-hazardous-it-live-freeway-uc-merced-researchers-issue-report-fresno</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2024/black-alliance-uc-merced-growing-serving-and-advocating</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2024/journal-published-uc-merced-public-health-professors-study-violence-and-suicidal-behavior</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2024/new-study-suggests-chance-plays-bigger-role-one-might-think-faculty-promotion</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/i2g-highlights-students-solutions-real-world-problems</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/exploration-musics-role-childrens-brain-development</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/first-generation-students-offer-advice-those-who-come-next</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/uc-merced-launches-first-writing-studies-major-cohort</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/three-hellman-fellows-awarded-uc-merced</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/nih-grant-study-immigration-policy-impacts-mental-health-and-access-health-care-latinos</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/collaboration-across-continents-agreement-brings-merced-kyoto-campuses-closer</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/fellowship-will-allow-professor-continue-telling-impactful-stories</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/career-award-funds-research-lip-reading-mobile-devices</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/students-gain-experience-and-money-doing-career-oriented-work-new-program</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/uc-merced-researchers-offer-parents-help-insight-no-cost</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/record-number-students-apply-uc-merced</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/celebration-commemorates-20-years-uc-merced-groundbreaking</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/solar-projects-yielding-exciting-potential-dairies-other-industries</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/uc-merced-led-research-focus-reducing-power-needed-computing</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/innovate-grow-expands-include-inspire-first-year-students</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2022/uc-merced-provides-unique-opportunities-undergrad-research</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2025/finalists-vie-campus-grad-slam-champion-title-during-research-week</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2024/uc-merced-celebrate-hundreds-graduates-fall-commencement</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2025/uc-merced%E2%80%99s-black-excellence-symposium-honor-legacy-and-inspire-future</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2024/chef%E2%80%99s-film-highlights-regional-farmers-collaboration-campus-dining</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2024/give-uc-merced-2024-launch-giving-tuesday</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2024/arbor-day-tree-planting-event-slideshow</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2024/uc-merced-welcomes-future-bobcats-bobcat-day</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2024/two-community-colleges-join-uc-merced-transfer-pathway-students</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2024/pride-week-puts-focus-self-healing</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2024/student-philanthropy-month-encourages-bobcats-give-time-talent-treasure</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2024/womens-history-month-events-uc-merced</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2024/grant-supports-uc-merced-effort-improve-college-readiness-valley</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2024/climate-and-carbon-dioxide-%E2%80%98roads-removal%E2%80%99-discussion-set-uc-merced</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2024/1300-campaign-continues-lift-young-men-color-pursue-higher-education</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2024/give-uc-merced-2023-raises-nearly-13-million-shattering-year-old-record</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/give-uc-merced-2023-invites-campus-and-community-help-create-lasting-impact</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/black-excellence-symposium-uc-merced-aims-advance-racial-justice</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/uc-merced-named-fulbright-hsi-leader-us-department-state</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/toloma-5k-honors-native-american-heritage-uc-merced</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/uc-merced-receives-2023-higher-education-excellence-diversity-heed-award</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/aguirre-mu%C3%B1oz-brings-biliteracy-education-resources-livingston</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/content/dr-zenaida-aguirre-munoz</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/how-tap-your-hispaniclatinx-heritage-uc-merced</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/uc-merced-rises-nearly-40-spots-us-news-college-rankings</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/uc-merced-ranked-15th-best-public-college-nation-wall-street-journal</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/labyrinth-provides-space-reflect-meditate-and-find-peace-campus</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/clovis-native-excited-represent-central-valley-playing-uc-merced-volleyball-team</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/uc-merced-graduate-student-josiah-beharry-appointed-2024-25-uc-student-regent</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/socal-student-says-uc-merced-will-be-%E2%80%98breath-fresh-air%E2%80%99</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/news/2023/incoming-fresno-student-prepares-launch-her-health-career-uc-merced</loc>
+    <loc>https://ssha.ucmerced.edu/news/2026/prison-documentary-uc-merced%E2%80%99s-sharim-awarded-phoenix-film-festival</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/news/2026/writing-students-help-merced-arts-center-find-fresh-voice</loc>
@@ -2572,6 +2425,162 @@
     <loc>https://ssha.ucmerced.edu/academic-programs/undergraduate/majors/gasp</loc>
   </url>
   <url>
+    <loc>https://ssha.ucmerced.edu/news/2024/uc-merced-curates-sweeping-chicano-art-exhibit-3-galleries</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2024/researchers-work-aimed-helping-people-live-better-lives</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2024/just-how-hazardous-it-live-freeway-uc-merced-researchers-issue-report-fresno</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2024/black-alliance-uc-merced-growing-serving-and-advocating</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2024/journal-published-uc-merced-public-health-professors-study-violence-and-suicidal-behavior</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2024/new-study-suggests-chance-plays-bigger-role-one-might-think-faculty-promotion</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/i2g-highlights-students-solutions-real-world-problems</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/exploration-musics-role-childrens-brain-development</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/first-generation-students-offer-advice-those-who-come-next</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/uc-merced-launches-first-writing-studies-major-cohort</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/three-hellman-fellows-awarded-uc-merced</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/nih-grant-study-immigration-policy-impacts-mental-health-and-access-health-care-latinos</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/collaboration-across-continents-agreement-brings-merced-kyoto-campuses-closer</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/fellowship-will-allow-professor-continue-telling-impactful-stories</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/career-award-funds-research-lip-reading-mobile-devices</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/students-gain-experience-and-money-doing-career-oriented-work-new-program</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/uc-merced-researchers-offer-parents-help-insight-no-cost</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/record-number-students-apply-uc-merced</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/celebration-commemorates-20-years-uc-merced-groundbreaking</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/solar-projects-yielding-exciting-potential-dairies-other-industries</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/uc-merced-led-research-focus-reducing-power-needed-computing</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/innovate-grow-expands-include-inspire-first-year-students</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2022/uc-merced-provides-unique-opportunities-undergrad-research</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2025/finalists-vie-campus-grad-slam-champion-title-during-research-week</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2024/uc-merced-celebrate-hundreds-graduates-fall-commencement</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2025/uc-merced%E2%80%99s-black-excellence-symposium-honor-legacy-and-inspire-future</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2024/chef%E2%80%99s-film-highlights-regional-farmers-collaboration-campus-dining</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2024/give-uc-merced-2024-launch-giving-tuesday</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2024/arbor-day-tree-planting-event-slideshow</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2024/uc-merced-welcomes-future-bobcats-bobcat-day</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2024/two-community-colleges-join-uc-merced-transfer-pathway-students</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2024/pride-week-puts-focus-self-healing</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2024/student-philanthropy-month-encourages-bobcats-give-time-talent-treasure</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2024/womens-history-month-events-uc-merced</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2024/grant-supports-uc-merced-effort-improve-college-readiness-valley</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2024/climate-and-carbon-dioxide-%E2%80%98roads-removal%E2%80%99-discussion-set-uc-merced</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2024/1300-campaign-continues-lift-young-men-color-pursue-higher-education</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2024/give-uc-merced-2023-raises-nearly-13-million-shattering-year-old-record</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/give-uc-merced-2023-invites-campus-and-community-help-create-lasting-impact</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/black-excellence-symposium-uc-merced-aims-advance-racial-justice</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/uc-merced-named-fulbright-hsi-leader-us-department-state</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/toloma-5k-honors-native-american-heritage-uc-merced</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/uc-merced-receives-2023-higher-education-excellence-diversity-heed-award</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/aguirre-mu%C3%B1oz-brings-biliteracy-education-resources-livingston</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/how-tap-your-hispaniclatinx-heritage-uc-merced</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/uc-merced-rises-nearly-40-spots-us-news-college-rankings</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/uc-merced-ranked-15th-best-public-college-nation-wall-street-journal</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/labyrinth-provides-space-reflect-meditate-and-find-peace-campus</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/clovis-native-excited-represent-central-valley-playing-uc-merced-volleyball-team</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/uc-merced-graduate-student-josiah-beharry-appointed-2024-25-uc-student-regent</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/socal-student-says-uc-merced-will-be-%E2%80%98breath-fresh-air%E2%80%99</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/news/2023/incoming-fresno-student-prepares-launch-her-health-career-uc-merced</loc>
+  </url>
+  <url>
     <loc>https://ssha.ucmerced.edu/type/faculty?page=9</loc>
   </url>
   <url>
@@ -2704,6 +2713,60 @@
     <loc>http://ssha.ucmerced.edu/affiliated-partnerscenters/center-human-adaptive-systems-and-environments</loc>
   </url>
   <url>
+    <loc>http://ssha.ucmerced.edu/news/2025/uc-merced-alumna%E2%80%99s-legal-career-soars-silicon-valley</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2026/fresno-student-eager-dive-life-uc-merced</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2026/uc-merced-scientists-use-sewage-track-nicotine-use-central-valley</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2026/all-faculty-rock-band-cuts-album-uc-merced-recording-studio</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2026/pioneer-bobcat-blazes-path-through-law-and-technology</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2026/new-business-administration-accounting-majors-address-high-demand</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2026/exhibit-traces-heartbeat-merced-through-sound</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2026/five-uc-merced-faculty-members-earn-early-career-research-awards</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/media-contact/jody-murray?page=1</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/media-contact/jody-murray?page=2</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/media-contact/jody-murray?page=3</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/media-contact/jody-murray?page=4</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/media-contact/jody-murray?page=5</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/media-contact/jody-murray?page=6</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/media-contact/jody-murray?page=7</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/media-contact/jody-murray?page=8</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/media-contact/jody-murray?page=9</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/taxonomy/term/2541/feed</loc>
+  </url>
+  <url>
     <loc>http://ssha.ucmerced.edu/news/2025/uc-merced-agricultural-experiment-station-adds-fire-insect-and-soil-researchers</loc>
   </url>
   <url>
@@ -2782,60 +2845,6 @@
     <loc>http://ssha.ucmerced.edu/taxonomy/term/1701/feed</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/news/2025/uc-merced-alumna%E2%80%99s-legal-career-soars-silicon-valley</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2026/fresno-student-eager-dive-life-uc-merced</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2026/uc-merced-scientists-use-sewage-track-nicotine-use-central-valley</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2026/pioneer-bobcat-blazes-path-through-law-and-technology</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2026/new-business-administration-accounting-majors-address-high-demand</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2026/exhibit-traces-heartbeat-merced-through-sound</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2026/five-uc-merced-faculty-members-earn-early-career-research-awards</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2026/prison-documentary-uc-merced%E2%80%99s-sharim-awarded-phoenix-film-festival</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/media-contact/jody-murray?page=1</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/media-contact/jody-murray?page=2</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/media-contact/jody-murray?page=3</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/media-contact/jody-murray?page=4</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/media-contact/jody-murray?page=5</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/media-contact/jody-murray?page=6</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/media-contact/jody-murray?page=7</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/media-contact/jody-murray?page=8</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/taxonomy/term/2541/feed</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2026/turning-research-climate-impact</loc>
-  </url>
-  <url>
     <loc>http://ssha.ucmerced.edu/news/2025/two-social-science-graduate-students-earn-fellowships-0</loc>
   </url>
   <url>
@@ -2854,13 +2863,13 @@
     <loc>http://ssha.ucmerced.edu/taxonomy/term/2581/feed</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/dr-edward-orozco-flores</loc>
-  </url>
-  <url>
     <loc>https://ssha.ucmerced.edu/events</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/ma-vang</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/content/dr-edward-orozco-flores</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/type/staff?page=1</loc>
@@ -3040,160 +3049,7 @@
     <loc>http://ssha.ucmerced.edu/taxonomy/term/2471/feed</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/news/2024/uc-merced-curates-sweeping-chicano-art-exhibit-3-galleries</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2024/researchers-work-aimed-helping-people-live-better-lives</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2024/just-how-hazardous-it-live-freeway-uc-merced-researchers-issue-report-fresno</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2024/black-alliance-uc-merced-growing-serving-and-advocating</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2024/journal-published-uc-merced-public-health-professors-study-violence-and-suicidal-behavior</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2024/new-study-suggests-chance-plays-bigger-role-one-might-think-faculty-promotion</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/i2g-highlights-students-solutions-real-world-problems</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/exploration-musics-role-childrens-brain-development</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/first-generation-students-offer-advice-those-who-come-next</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/uc-merced-launches-first-writing-studies-major-cohort</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/three-hellman-fellows-awarded-uc-merced</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/nih-grant-study-immigration-policy-impacts-mental-health-and-access-health-care-latinos</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/collaboration-across-continents-agreement-brings-merced-kyoto-campuses-closer</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/fellowship-will-allow-professor-continue-telling-impactful-stories</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/career-award-funds-research-lip-reading-mobile-devices</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/students-gain-experience-and-money-doing-career-oriented-work-new-program</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/uc-merced-researchers-offer-parents-help-insight-no-cost</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/record-number-students-apply-uc-merced</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/celebration-commemorates-20-years-uc-merced-groundbreaking</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/solar-projects-yielding-exciting-potential-dairies-other-industries</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/uc-merced-led-research-focus-reducing-power-needed-computing</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/innovate-grow-expands-include-inspire-first-year-students</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2022/uc-merced-provides-unique-opportunities-undergrad-research</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2025/finalists-vie-campus-grad-slam-champion-title-during-research-week</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2024/uc-merced-celebrate-hundreds-graduates-fall-commencement</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2025/uc-merced%E2%80%99s-black-excellence-symposium-honor-legacy-and-inspire-future</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2024/chef%E2%80%99s-film-highlights-regional-farmers-collaboration-campus-dining</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2024/give-uc-merced-2024-launch-giving-tuesday</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2024/arbor-day-tree-planting-event-slideshow</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2024/uc-merced-welcomes-future-bobcats-bobcat-day</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2024/two-community-colleges-join-uc-merced-transfer-pathway-students</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2024/pride-week-puts-focus-self-healing</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2024/student-philanthropy-month-encourages-bobcats-give-time-talent-treasure</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2024/womens-history-month-events-uc-merced</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2024/grant-supports-uc-merced-effort-improve-college-readiness-valley</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2024/climate-and-carbon-dioxide-%E2%80%98roads-removal%E2%80%99-discussion-set-uc-merced</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2024/1300-campaign-continues-lift-young-men-color-pursue-higher-education</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2024/give-uc-merced-2023-raises-nearly-13-million-shattering-year-old-record</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/give-uc-merced-2023-invites-campus-and-community-help-create-lasting-impact</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/black-excellence-symposium-uc-merced-aims-advance-racial-justice</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/uc-merced-named-fulbright-hsi-leader-us-department-state</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/toloma-5k-honors-native-american-heritage-uc-merced</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/uc-merced-receives-2023-higher-education-excellence-diversity-heed-award</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/aguirre-mu%C3%B1oz-brings-biliteracy-education-resources-livingston</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/how-tap-your-hispaniclatinx-heritage-uc-merced</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/uc-merced-rises-nearly-40-spots-us-news-college-rankings</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/uc-merced-ranked-15th-best-public-college-nation-wall-street-journal</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/labyrinth-provides-space-reflect-meditate-and-find-peace-campus</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/clovis-native-excited-represent-central-valley-playing-uc-merced-volleyball-team</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/uc-merced-graduate-student-josiah-beharry-appointed-2024-25-uc-student-regent</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/socal-student-says-uc-merced-will-be-%E2%80%98breath-fresh-air%E2%80%99</loc>
-  </url>
-  <url>
-    <loc>http://ssha.ucmerced.edu/news/2023/incoming-fresno-student-prepares-launch-her-health-career-uc-merced</loc>
+    <loc>http://ssha.ucmerced.edu/news/2026/prison-documentary-uc-merced%E2%80%99s-sharim-awarded-phoenix-film-festival</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/news/2026/writing-students-help-merced-arts-center-find-fresh-voice</loc>
@@ -3434,6 +3290,162 @@
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/news/2024/human-rights-film-festival-shows-faces-injustice</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2024/uc-merced-curates-sweeping-chicano-art-exhibit-3-galleries</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2024/researchers-work-aimed-helping-people-live-better-lives</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2024/just-how-hazardous-it-live-freeway-uc-merced-researchers-issue-report-fresno</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2024/black-alliance-uc-merced-growing-serving-and-advocating</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2024/journal-published-uc-merced-public-health-professors-study-violence-and-suicidal-behavior</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2024/new-study-suggests-chance-plays-bigger-role-one-might-think-faculty-promotion</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/i2g-highlights-students-solutions-real-world-problems</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/exploration-musics-role-childrens-brain-development</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/first-generation-students-offer-advice-those-who-come-next</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/uc-merced-launches-first-writing-studies-major-cohort</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/three-hellman-fellows-awarded-uc-merced</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/nih-grant-study-immigration-policy-impacts-mental-health-and-access-health-care-latinos</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/collaboration-across-continents-agreement-brings-merced-kyoto-campuses-closer</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/fellowship-will-allow-professor-continue-telling-impactful-stories</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/career-award-funds-research-lip-reading-mobile-devices</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/students-gain-experience-and-money-doing-career-oriented-work-new-program</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/uc-merced-researchers-offer-parents-help-insight-no-cost</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/record-number-students-apply-uc-merced</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/celebration-commemorates-20-years-uc-merced-groundbreaking</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/solar-projects-yielding-exciting-potential-dairies-other-industries</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/uc-merced-led-research-focus-reducing-power-needed-computing</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/innovate-grow-expands-include-inspire-first-year-students</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2022/uc-merced-provides-unique-opportunities-undergrad-research</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2025/finalists-vie-campus-grad-slam-champion-title-during-research-week</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2024/uc-merced-celebrate-hundreds-graduates-fall-commencement</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2025/uc-merced%E2%80%99s-black-excellence-symposium-honor-legacy-and-inspire-future</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2024/chef%E2%80%99s-film-highlights-regional-farmers-collaboration-campus-dining</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2024/give-uc-merced-2024-launch-giving-tuesday</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2024/arbor-day-tree-planting-event-slideshow</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2024/uc-merced-welcomes-future-bobcats-bobcat-day</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2024/two-community-colleges-join-uc-merced-transfer-pathway-students</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2024/pride-week-puts-focus-self-healing</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2024/student-philanthropy-month-encourages-bobcats-give-time-talent-treasure</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2024/womens-history-month-events-uc-merced</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2024/grant-supports-uc-merced-effort-improve-college-readiness-valley</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2024/climate-and-carbon-dioxide-%E2%80%98roads-removal%E2%80%99-discussion-set-uc-merced</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2024/1300-campaign-continues-lift-young-men-color-pursue-higher-education</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2024/give-uc-merced-2023-raises-nearly-13-million-shattering-year-old-record</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/give-uc-merced-2023-invites-campus-and-community-help-create-lasting-impact</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/black-excellence-symposium-uc-merced-aims-advance-racial-justice</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/uc-merced-named-fulbright-hsi-leader-us-department-state</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/toloma-5k-honors-native-american-heritage-uc-merced</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/uc-merced-receives-2023-higher-education-excellence-diversity-heed-award</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/aguirre-mu%C3%B1oz-brings-biliteracy-education-resources-livingston</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/how-tap-your-hispaniclatinx-heritage-uc-merced</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/uc-merced-rises-nearly-40-spots-us-news-college-rankings</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/uc-merced-ranked-15th-best-public-college-nation-wall-street-journal</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/labyrinth-provides-space-reflect-meditate-and-find-peace-campus</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/clovis-native-excited-represent-central-valley-playing-uc-merced-volleyball-team</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/uc-merced-graduate-student-josiah-beharry-appointed-2024-25-uc-student-regent</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/socal-student-says-uc-merced-will-be-%E2%80%98breath-fresh-air%E2%80%99</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/news/2023/incoming-fresno-student-prepares-launch-her-health-career-uc-merced</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/type/faculty?page=9</loc>

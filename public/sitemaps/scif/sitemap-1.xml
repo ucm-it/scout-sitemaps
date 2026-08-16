@@ -16,9 +16,6 @@
     <loc>https://scif.ucmerced.edu/about-scif/staff-and-advisory-committee</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/instruments-and-services</loc>
-  </url>
-  <url>
     <loc>https://scif.ucmerced.edu/cytometry</loc>
   </url>
   <url>
@@ -43,7 +40,7 @@
     <loc>https://scif.ucmerced.edu/node/121</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/news-0</loc>
+    <loc>https://scif.ucmerced.edu/node/591</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/node/81</loc>
@@ -166,18 +163,6 @@
     <loc>https://scif.ucmerced.edu/sites/imf.ucmerced.edu/files/page/documents/ilab_uc_merced_registration_manual.pdf</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/node/61</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/ze5_-_21_color_panel_voltages_and_spillover.pdf</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/2020_scif_annual_report.pdf</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/27</loc>
-  </url>
-  <url>
     <loc>https://scif.ucmerced.edu/node/421</loc>
   </url>
   <url>
@@ -188,6 +173,9 @@
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/ze5_configuration_fluorofinder.pdf</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/ze5_-_21_color_panel_voltages_and_spillover.pdf</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/lsr_configuration_updated_03_2014_dg.pdf</loc>
@@ -368,24 +356,6 @@
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/page/documents/scif_cytometer_training_policy.pdf</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/bl-ucm-24_v3.pdf</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/cg-bdb2024-90807-univcalifmerced-gravano-.pdf</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/28</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/29</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/30</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/31</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/scif_cleanroom_training_protocol_v2.pdf</loc>

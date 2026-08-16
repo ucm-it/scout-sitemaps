@@ -10,6 +10,12 @@
     <loc>https://meded.ucmerced.edu/overview</loc>
   </url>
   <url>
+    <loc>https://meded.ucmerced.edu/department-medical-education/mission-and-vision</loc>
+  </url>
+  <url>
+    <loc>https://meded.ucmerced.edu/about-department-medical-education/staff/our-team</loc>
+  </url>
+  <url>
     <loc>https://meded.ucmerced.edu/office-medical-education/meet-team</loc>
   </url>
   <url>
@@ -19,19 +25,31 @@
     <loc>https://meded.ucmerced.edu/organizational-chart</loc>
   </url>
   <url>
-    <loc>https://meded.ucmerced.edu/form/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://meded.ucmerced.edu/explore-pre-health</loc>
-  </url>
-  <url>
-    <loc>https://meded.ucmerced.edu/meet-current-students</loc>
+    <loc>https://meded.ucmerced.edu/department-medical-education/contact-us</loc>
   </url>
   <url>
     <loc>https://meded.ucmerced.edu/program-partners</loc>
   </url>
   <url>
-    <loc>https://meded.ucmerced.edu/pathway-history</loc>
+    <loc>https://meded.ucmerced.edu/sjv-prime-bs-md-program/prospective-students</loc>
+  </url>
+  <url>
+    <loc>https://meded.ucmerced.edu/sjv-prime-bs-md-program/prospective-students/eligibility</loc>
+  </url>
+  <url>
+    <loc>https://meded.ucmerced.edu/sjv-prime-bs-md-program/current-students/how-apply</loc>
+  </url>
+  <url>
+    <loc>https://meded.ucmerced.edu/sjv-prime-bs-md-program/current-students</loc>
+  </url>
+  <url>
+    <loc>https://meded.ucmerced.edu/sjv-prime-bs-md-program/current-students/meet-dome-student-affairs-team</loc>
+  </url>
+  <url>
+    <loc>https://meded.ucmerced.edu/sjv-prime-bs-md-program/current-students/meded-core-requirements</loc>
+  </url>
+  <url>
+    <loc>https://meded.ucmerced.edu/sjv-prime-bs-md-program/current-students/uc-merced-campus-resources</loc>
   </url>
   <url>
     <loc>https://meded.ucmerced.edu/how-to-apply</loc>
@@ -70,7 +88,7 @@
     <loc>https://meded.ucmerced.edu/student-handbook/curriculum/co-curricular-requirements/Baccalaureate-Research-Experience</loc>
   </url>
   <url>
-    <loc>https://meded.ucmerced.edu/bs-md-program/student-handbook/curriculum/sjv-prime-physician-mentoring-program</loc>
+    <loc>https://meded.ucmerced.edu/sjv-prime-bs-md-program/student-handbook/curriculum/co-curricular-requirements/sjv-prime-physician</loc>
   </url>
   <url>
     <loc>https://meded.ucmerced.edu/bs-md-pathway/student-handbook/procedural-expectations</loc>
@@ -80,6 +98,12 @@
   </url>
   <url>
     <loc>https://meded.ucmerced.edu/bs-md-pathway/student-handbook/curriculum/course-repetition-policy</loc>
+  </url>
+  <url>
+    <loc>https://meded.ucmerced.edu/bs-md-program/student-handbook/curriculum/course-repetition-policy/sjv-prime-major-change-policy</loc>
+  </url>
+  <url>
+    <loc>https://meded.ucmerced.edu/bs-md-program/student-handbook/curriculum/course-repetition-policy/sjv-prime-study-abroad-policy</loc>
   </url>
   <url>
     <loc>https://meded.ucmerced.edu/bs-md-pathway/student-handbook/curriculum/transfer-unit-protocol</loc>
@@ -142,16 +166,22 @@
     <loc>https://meded.ucmerced.edu/bs-md-program/student-handbook/student-feedback-process</loc>
   </url>
   <url>
+    <loc>https://meded.ucmerced.edu/pre-health-resources-uc-merced</loc>
+  </url>
+  <url>
+    <loc>https://meded.ucmerced.edu/sjv-prime-bs-md-program/current-students/uc-merced-campus-resources/pre-health-website</loc>
+  </url>
+  <url>
+    <loc>https://meded.ucmerced.edu/pre-health-resources-uc-merced/medical-education-courses-pre-health-students</loc>
+  </url>
+  <url>
+    <loc>https://meded.ucmerced.edu/pre-health-resources-uc-merced/pre-health-mentorship-program</loc>
+  </url>
+  <url>
     <loc>https://meded.ucmerced.edu/general-faq</loc>
   </url>
   <url>
     <loc>https://meded.ucmerced.edu/get-involved</loc>
-  </url>
-  <url>
-    <loc>https://meded.ucmerced.edu/form/medical-students-and-residents</loc>
-  </url>
-  <url>
-    <loc>https://meded.ucmerced.edu/form/provider-interest-form</loc>
   </url>
   <url>
     <loc>https://meded.ucmerced.edu/rss.xml</loc>
@@ -230,6 +260,9 @@
   </url>
   <url>
     <loc>https://meded.ucmerced.edu/content/julia-alvarez-phd</loc>
+  </url>
+  <url>
+    <loc>https://meded.ucmerced.edu/content/alberto-l-aguilera-phd-mph</loc>
   </url>
   <url>
     <loc>https://meded.ucmerced.edu/form/ask-us-now</loc>

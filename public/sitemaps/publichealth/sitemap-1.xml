@@ -61,6 +61,9 @@
     <loc>https://publichealth.ucmerced.edu/graduate-program/curriculum</loc>
   </url>
   <url>
+    <loc>https://publichealth.ucmerced.edu/graduate-program/program-overview/publications-and-conference-presentations</loc>
+  </url>
+  <url>
     <loc>https://publichealth.ucmerced.edu/graduate-program/how-apply</loc>
   </url>
   <url>
@@ -188,9 +191,6 @@
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/content/maria-elena-young</loc>
-  </url>
-  <url>
-    <loc>https://publichealth.ucmerced.edu/content/miriam-barlow</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/content/linda-cameron</loc>
@@ -604,6 +604,9 @@
     <loc>https://publichealth.ucmerced.edu/content/beatriz-sosa-prado</loc>
   </url>
   <url>
+    <loc>https://publichealth.ucmerced.edu/content/miriam-barlow</loc>
+  </url>
+  <url>
     <loc>https://publichealth.ucmerced.edu/content/tashelle-wright</loc>
   </url>
   <url>
@@ -796,10 +799,10 @@
     <loc>https://publichealth.ucmerced.edu/news/2023/national-public-health-week-includes-research-symposium-and-food-drive</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2023/research-week-highlights-solutions-urgent-environmental-issues</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2023/study-finds-childhood-exposure-weed-killer-may-increase-risk-disease-young-adulthood</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2023/study-finds-childhood-exposure-weed-killer-may-increase-risk-disease-young-adulthood</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2023/research-week-highlights-solutions-urgent-environmental-issues</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news?page=9</loc>
@@ -862,10 +865,10 @@
     <loc>https://publichealth.ucmerced.edu/news/2022/baby-formula-shortages-and-covid-19-led-risky-feeding-practices-study-suggests</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2022/bioengineer-invited-join-nih-review-board</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2022/lab-aims-understand-transporter-protein-protects-cells-damage</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2022/lab-aims-understand-transporter-protein-protects-cells-damage</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2022/bioengineer-invited-join-nih-review-board</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news?page=11</loc>
@@ -1006,10 +1009,10 @@
     <loc>https://publichealth.ucmerced.edu/news/2021/research-clarifying%C2%A0benefits-transforming-human-waste-useable-resources</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2021/hirst-selected-prestigious-fellowship-american-physical-society</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2021/governor-announces-state-funding-uc-merced%E2%80%99s-medical-education-building</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2021/governor-announces-state-funding-uc-merced%E2%80%99s-medical-education-building</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2021/hirst-selected-prestigious-fellowship-american-physical-society</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news/2021/hiv-preventative-developed-liwang-lab-takes-one-big-step-forward</loc>
@@ -1033,10 +1036,10 @@
     <loc>https://publichealth.ucmerced.edu/news/2021/research-shows-sleep-and-social-support-are-vital-latina-teen-mothers-mental-health</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2021/hsri-receives-12-million-research-health-impacts-vehicle-related-air-pollution</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2021/researchers-unraveling-mysteries-electrosensory-gel-sharks-skates</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2021/researchers-unraveling-mysteries-electrosensory-gel-sharks-skates</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2021/hsri-receives-12-million-research-health-impacts-vehicle-related-air-pollution</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news/2021/antibiotic-resistance-found-insecticides-commonly-used-california</loc>
@@ -1369,9 +1372,6 @@
     <loc>https://publichealth.ucmerced.edu/news/2016/gradslam-champion-research-personal</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2016/researcher-works-end-hiv-stigma-ethiopia-india-0</loc>
-  </url>
-  <url>
     <loc>https://publichealth.ucmerced.edu/news/2020/fellowship-advances-student%E2%80%99s-research-arab-american-smoking-behaviors</loc>
   </url>
   <url>
@@ -1447,6 +1447,9 @@
     <loc>http://publichealth.ucmerced.edu/graduate-program/curriculum</loc>
   </url>
   <url>
+    <loc>http://publichealth.ucmerced.edu/graduate-program/program-overview/publications-and-conference-presentations</loc>
+  </url>
+  <url>
     <loc>http://publichealth.ucmerced.edu/graduate-program/how-apply</loc>
   </url>
   <url>
@@ -1516,10 +1519,10 @@
     <loc>https://publichealth.ucmerced.edu/media-contact/desiree-lopez</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2021/prestigious-academy-recognizes-microbiology-advances-liwang-lab</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2021/uc-merced-reaches-out-all-virtual-research-week</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2021/uc-merced-reaches-out-all-virtual-research-week</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2021/prestigious-academy-recognizes-microbiology-advances-liwang-lab</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news/2021/asthma-intervention-project-gets-green-light-genentech</loc>
@@ -1630,13 +1633,13 @@
     <loc>https://publichealth.ucmerced.edu/news/2020/uc-professors-shelter-place-orders-are-working</loc>
   </url>
   <url>
+    <loc>https://publichealth.ucmerced.edu/news/2020/assistant-professor-public-health-denise-payan-has-been-awarded-50000-citris-pilot-grant</loc>
+  </url>
+  <url>
     <loc>https://publichealth.ucmerced.edu/news/2020/congratulations-david-veloz</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news/2020/congratulations-andrea-lopez</loc>
-  </url>
-  <url>
-    <loc>https://publichealth.ucmerced.edu/news/2020/assistant-professor-public-health-denise-payan-has-been-awarded-50000-citris-pilot-grant</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news/2020/uc-merced-part-citris%E2%80%99s-covid-19-rapid-response-grants</loc>
@@ -1699,10 +1702,10 @@
     <loc>https://publichealth.ucmerced.edu/news/2019/academic-senate-honors-faculty-excellence-teaching-research-and-service</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2019/grad-students-vie-spot-uc-grad-slam-finals</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2019/san-joaquin-valley-oral-health-symposium-celebration-collaboration</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2019/san-joaquin-valley-oral-health-symposium-celebration-collaboration</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2019/grad-students-vie-spot-uc-grad-slam-finals</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news/2019/air-pollution-impacts-childhood-development-new-study-shows</loc>
@@ -1814,9 +1817,6 @@
   </url>
   <url>
     <loc>http://publichealth.ucmerced.edu/content/maria-elena-young</loc>
-  </url>
-  <url>
-    <loc>http://publichealth.ucmerced.edu/content/miriam-barlow</loc>
   </url>
   <url>
     <loc>http://publichealth.ucmerced.edu/content/linda-cameron</loc>
@@ -2017,10 +2017,10 @@
     <loc>https://publichealth.ucmerced.edu/news/2020/intersection-math-and-biology-sindi-lab-sees-breakthrough-prion-disease</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2020/merced-county-residents-ask-supervisors-%E2%80%98true%E2%80%99-eviction-moratorium-amid-coronavirus</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2020/covid-19-raises-mental-health-concerns-resources-available</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2020/covid-19-raises-mental-health-concerns-resources-available</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2020/merced-county-residents-ask-supervisors-%E2%80%98true%E2%80%99-eviction-moratorium-amid-coronavirus</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news/2020/covid-19-reveals-gaps-valley%E2%80%99s-public-health-system-improvement-possible</loc>
@@ -2074,10 +2074,10 @@
     <loc>https://publichealth.ucmerced.edu/news/2019/postdoctoral-fellow-awarded-best-presentation-international-conference</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2019/nobile-awarded-kamangar-family-endowed-chair</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2019/valley-fever-focus-public-event</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2019/valley-fever-focus-public-event</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2019/nobile-awarded-kamangar-family-endowed-chair</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news/2019/physicists-revealing-mysteries-biological-fluids</loc>
@@ -2098,13 +2098,13 @@
     <loc>https://publichealth.ucmerced.edu/news/2019/biochemistry-researcher-named-nih-review-board</loc>
   </url>
   <url>
+    <loc>https://publichealth.ucmerced.edu/news/2019/university-promotes-social-mobility-through-local-and-regional-programs</loc>
+  </url>
+  <url>
     <loc>https://publichealth.ucmerced.edu/media-contact/kenneth-mashinchi</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/taxonomy/term/231/feed</loc>
-  </url>
-  <url>
-    <loc>https://publichealth.ucmerced.edu/news/2019/university-promotes-social-mobility-through-local-and-regional-programs</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/taxonomy/term/57/feed</loc>

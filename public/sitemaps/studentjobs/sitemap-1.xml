@@ -46,13 +46,13 @@
     <loc>https://studentjobs.ucmerced.edu/form/job-posting-request</loc>
   </url>
   <url>
-    <loc>https://studentjobs.ucmerced.edu/form/remedial-tutorreader-intake-request</loc>
-  </url>
-  <url>
     <loc>https://studentjobs.ucmerced.edu/form/student-assistant-intake-request</loc>
   </url>
   <url>
     <loc>https://studentjobs.ucmerced.edu/student-payroll-action-forms</loc>
+  </url>
+  <url>
+    <loc>https://studentjobs.ucmerced.edu/form/tutorreader-intake-request</loc>
   </url>
   <url>
     <loc>https://studentjobs.ucmerced.edu/supervisorhiring-manager/additional-information</loc>
