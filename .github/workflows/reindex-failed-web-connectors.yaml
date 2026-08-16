@@ -1,0 +1,155 @@
+name: Reindex Failed Web Onyx Connectors
+
+on:
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: Target environment
+        required: true
+        type: choice
+        options:
+          - dev
+          - prod
+      from_beginning:
+        description: Reindex from beginning (full re-crawl instead of incremental)
+        required: false
+        default: false
+        type: boolean
+      dry_run:
+        description: Dry Run
+        required: false
+        default: true
+        type: boolean
+
+jobs:
+  reindex-connectors:
+    runs-on: ubuntu-latest
+    environment: ${{ inputs.environment }}
+    steps:
+      - name: Reindex failed Onyx web connectors
+        uses: actions/github-script@v7
+        env:
+          ONYX_BASE_URL: ${{ secrets.ONYX_API_BASE_URL }}
+          ONYX_API_KEY: ${{ secrets.ONYX_API_TOKEN }}
+          FROM_BEGINNING: ${{ inputs.from_beginning }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        with:
+          script: |
+            const BASE_URL       = process.env.ONYX_BASE_URL.replace(/\/$/, "");
+            const API_KEY        = process.env.ONYX_API_KEY;
+            const DRY_RUN        = process.env.DRY_RUN === "true";
+            const FROM_BEGINNING = process.env.FROM_BEGINNING === "true";
+
+            const headers = {
+              "Authorization": `Bearer ${API_KEY}`,
+              "Content-Type": "application/json",
+            };
+
+            const execute = async (method, path, body) => {
+              const res = await fetch(`${BASE_URL}${path}`, {
+                method,
+                headers,
+                ...(body !== undefined ? { body: JSON.stringify(body) } : {}),
+              });
+              if (!res.ok) throw new Error(`${method} ${path} → HTTP ${res.status}`);
+              return res;
+            };
+
+            console.log(`Connecting to: ${BASE_URL}`);
+            console.log(`Reindex mode: ${FROM_BEGINNING ? "from beginning (full re-crawl)" : "incremental"}`);
+            if (DRY_RUN) console.log(`DRY RUN — no reindex will be triggered`);
+            console.log("");
+
+            // 1. Fetch the connectors whose latest index attempt failed. This
+            //    endpoint is the only one that hands back connector_id and
+            //    credential_id, which run-once needs.
+            let failed;
+            try {
+              const res = await execute("GET", "/api/manage/admin/connector/failed-indexing-status");
+              failed = await res.json();
+            } catch (err) {
+              core.setFailed(`Failed to fetch failed connectors: ${err.message}`);
+              return;
+            }
+
+            if (failed.length === 0) {
+              console.log("No failed connectors found. Nothing to do.");
+              return;
+            }
+
+            // 2. Fetch every connector/credential pair to resolve each source,
+            //    since failed-indexing-status does not report one.
+            let statuses;
+            try {
+              const res = await execute("GET", "/api/manage/admin/connector/status");
+              statuses = await res.json();
+            } catch (err) {
+              core.setFailed(`Failed to fetch connectors: ${err.message}`);
+              return;
+            }
+
+            const sourceByCcPair = new Map(
+              statuses.map((s) => [s.cc_pair_id, s.connector?.source ?? "unknown"]),
+            );
+
+            // 3. Keep the web ones
+            const web = failed.filter((f) => sourceByCcPair.get(f.cc_pair_id) === "web");
+
+            if (web.length === 0) {
+              console.log(`Found ${failed.length} failed connector(s), none of them web. Nothing to do.`);
+              return;
+            }
+
+            // 4. run-once is per connector, so a connector with several failed
+            //    cc-pairs is triggered once with all of its credentials.
+            const byConnector = new Map();
+            for (const f of web) {
+              const entry = byConnector.get(f.connector_id) ?? { credentialIds: [], names: [] };
+              entry.credentialIds.push(f.credential_id);
+              entry.names.push(f.name ?? `CC-Pair ID ${f.cc_pair_id}`);
+              byConnector.set(f.connector_id, entry);
+            }
+
+            console.log(`Found ${web.length} failed web connector(s) across ${byConnector.size} connector(s):\n`);
+
+            const success = [];
+            const failures = [];
+
+            // 5. Reindex
+            for (const [connectorId, entry] of byConnector) {
+              const label = entry.names.join(", ");
+              const errorMsg = web.find((f) => f.connector_id === connectorId)?.error_msg;
+
+              console.log(`  [connector=${connectorId}] ${label}`);
+              if (errorMsg) console.log(`        last error: ${errorMsg}`);
+
+              if (DRY_RUN) {
+                success.push(label);
+                continue;
+              }
+
+              try {
+                await execute("POST", "/api/manage/admin/connector/run-once", {
+                  connector_id: connectorId,
+                  credential_ids: entry.credentialIds,
+                  from_beginning: FROM_BEGINNING,
+                });
+                console.log(`        ✓ Reindex triggered`);
+                success.push(label);
+              } catch (err) {
+                console.log(`        ✗ Reindex FAILED: ${err.message}`);
+                failures.push(label);
+              }
+            }
+
+            // 6. Summary
+            console.log(`\n── Summary ──────────────────────────────`);
+            console.log(`  ${DRY_RUN ? "Would reindex" : "Reindexed"} : ${success.length}`);
+            success.forEach((n) => console.log(`    • ${n}`));
+            console.log(`  Failed : ${failures.length}`);
+            failures.forEach((n) => console.log(`    • ${n}`));
+            console.log(`─────────────────────────────────────────`);
+
+            if (failures.length > 0) {
+              core.setFailed(`${failures.length} connector(s) failed to reindex.`);
+            }
