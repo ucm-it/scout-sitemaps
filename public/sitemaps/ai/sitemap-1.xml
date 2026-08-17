@@ -2,44 +2,89 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://ai.ucmerced.edu</loc>
+    <lastmod>2026-08-17</lastmod>
   </url>
   <url>
     <loc>https://ai.ucmerced.edu/</loc>
+    <lastmod>2026-08-17</lastmod>
   </url>
   <url>
     <loc>https://ai.ucmerced.edu/advisory-council</loc>
+    <lastmod>2026-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://ai.ucmerced.edu/Scout</loc>
+    <lastmod>2026-08-17</lastmod>
   </url>
   <url>
     <loc>https://ai.ucmerced.edu/news/</loc>
+    <lastmod>2026-08-17</lastmod>
   </url>
   <url>
     <loc>https://ai.ucmerced.edu/news/2026/formation-uc-merced-ai-advisory-council%C2%A0</loc>
+    <lastmod>2026-08-17</lastmod>
   </url>
   <url>
     <loc>https://ai.ucmerced.edu/news/2025/uc-merced-automates-research-data-extraction-amazon-bedrock-llms</loc>
+    <lastmod>2026-08-17</lastmod>
   </url>
   <url>
     <loc>https://ai.ucmerced.edu/news/2025/does-future-need-us-ethics-ai-education</loc>
+    <lastmod>2026-08-17</lastmod>
   </url>
   <url>
     <loc>https://ai.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://ai.ucmerced.edu/sites/g/files/ufvvjh356/f/page/documents/ai_advisory_council_website_v1.1.pdf</loc>
+    <lastmod>2026-02-12</lastmod>
+  </url>
+  <url>
+    <loc>https://ai.ucmerced.edu/Scout-Story</loc>
+    <lastmod>2026-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://ai.ucmerced.edu/Scout-Capabilities</loc>
+    <lastmod>2026-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://ai.ucmerced.edu/Scout-Action</loc>
+    <lastmod>2026-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://ai.ucmerced.edu/Scout-FAQ</loc>
+    <lastmod>2026-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://ai.ucmerced.edu/Scout-Trust-Privacy</loc>
+    <lastmod>2026-08-17</lastmod>
   </url>
   <url>
     <loc>https://ai.ucmerced.edu/news/2025/register-now-uc-ai-essentials</loc>
+    <lastmod>2026-08-17</lastmod>
   </url>
   <url>
     <loc>https://ai.ucmerced.edu/news/2025/speakers-wanted-demystifying-ai-academia-symposium</loc>
+    <lastmod>2026-08-17</lastmod>
   </url>
   <url>
     <loc>https://ai.ucmerced.edu/news/2025/teaching-and-instruction-ai</loc>
+    <lastmod>2026-08-17</lastmod>
   </url>
   <url>
     <loc>https://ai.ucmerced.edu/news/2025/ai-resources-and-considerations-library</loc>
+    <lastmod>2026-08-17</lastmod>
   </url>
   <url>
     <loc>https://ai.ucmerced.edu/news/2025/graduate-division-presents-how-i-ai-series</loc>
+    <lastmod>2026-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://ai.ucmerced.edu/scout_tos</loc>
+    <lastmod>2026-08-17</lastmod>
+  </url>
+  <url>
+    <loc>https://ai.ucmerced.edu/scout_privacy</loc>
+    <lastmod>2026-08-17</lastmod>
   </url>
 </urlset>
