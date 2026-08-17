@@ -30,6 +30,9 @@ jobs:
     runs-on: ubuntu-latest
     environment: ${{ inputs.environment || 'prod' }}
     steps:
+      # Needed for .github/reindex-blacklist.json, which the script reads.
+      - uses: actions/checkout@v4
+
       - name: Reindex failed Onyx web connectors
         uses: actions/github-script@v7
         env:
@@ -59,8 +62,32 @@ jobs:
               return res;
             };
 
+            // Blacklist entries are { match, reason }; `match` is a
+            // case-insensitive substring of the connector name. Bare strings are
+            // accepted too. A missing file means nothing is blacklisted, but a
+            // malformed one fails the run — silently reindexing a site someone
+            // deliberately blocked is worse than a noisy failure.
+            const BLACKLIST_PATH = ".github/reindex-blacklist.json";
+
+            let blacklist = [];
+            try {
+              const raw = require("fs").readFileSync(BLACKLIST_PATH, "utf8").trim();
+              if (raw) blacklist = JSON.parse(raw);
+            } catch (err) {
+              if (err.code !== "ENOENT") {
+                core.setFailed(`Could not read ${BLACKLIST_PATH}: ${err.message}`);
+                return;
+              }
+            }
+
+            const blacklistEntries = blacklist
+              .map((e) => (typeof e === "string" ? { match: e, reason: "" } : e))
+              .filter((e) => e && typeof e.match === "string" && e.match.trim() !== "")
+              .map((e) => ({ match: e.match.toLowerCase(), reason: e.reason ?? "" }));
+
             console.log(`Connecting to: ${BASE_URL}`);
             console.log(`Reindex mode: ${FROM_BEGINNING ? "from beginning (full re-crawl)" : "incremental"}`);
+            console.log(`Blacklist: ${blacklistEntries.length} entr${blacklistEntries.length === 1 ? "y" : "ies"}`);
             if (DRY_RUN) console.log(`DRY RUN — no reindex will be triggered`);
             console.log("");
 
@@ -104,25 +131,52 @@ jobs:
               return;
             }
 
-            // 4. run-once is per connector, so a connector with several failed
+            // 4. Drop blacklisted connectors — sites known to be broken that we
+            //    do not want to keep re-crawling every hour. Matching is per
+            //    cc-pair, so a connector keeps reindexing its non-blacklisted
+            //    cc-pairs.
+            const blacklisted = [];
+            const reindexable = web.filter((f) => {
+              const name = (f.name ?? "").toLowerCase();
+              const hit = blacklistEntries.find((e) => name.includes(e.match));
+              if (!hit) return true;
+              blacklisted.push({
+                name: f.name ?? `CC-Pair ID ${f.cc_pair_id}`,
+                reason: hit.reason,
+              });
+              return false;
+            });
+
+            if (blacklisted.length > 0) {
+              console.log(`Skipping ${blacklisted.length} blacklisted connector(s):`);
+              blacklisted.forEach((b) => console.log(`  • ${b.name}${b.reason ? ` (${b.reason})` : ""}`));
+              console.log("");
+            }
+
+            if (reindexable.length === 0) {
+              console.log(`Found ${web.length} failed web connector(s), all blacklisted. Nothing to do.`);
+              return;
+            }
+
+            // 5. run-once is per connector, so a connector with several failed
             //    cc-pairs is triggered once with all of its credentials.
             const byConnector = new Map();
-            for (const f of web) {
+            for (const f of reindexable) {
               const entry = byConnector.get(f.connector_id) ?? { credentialIds: [], names: [] };
               entry.credentialIds.push(f.credential_id);
               entry.names.push(f.name ?? `CC-Pair ID ${f.cc_pair_id}`);
               byConnector.set(f.connector_id, entry);
             }
 
-            console.log(`Found ${web.length} failed web connector(s) across ${byConnector.size} connector(s):\n`);
+            console.log(`Found ${reindexable.length} failed web connector(s) across ${byConnector.size} connector(s):\n`);
 
             const success = [];
             const failures = [];
 
-            // 5. Reindex
+            // 6. Reindex
             for (const [connectorId, entry] of byConnector) {
               const label = entry.names.join(", ");
-              const errorMsg = web.find((f) => f.connector_id === connectorId)?.error_msg;
+              const errorMsg = reindexable.find((f) => f.connector_id === connectorId)?.error_msg;
 
               console.log(`  [connector=${connectorId}] ${label}`);
               if (errorMsg) console.log(`        last error: ${errorMsg}`);
@@ -146,10 +200,12 @@ jobs:
               }
             }
 
-            // 6. Summary
+            // 7. Summary
             console.log(`\n── Summary ──────────────────────────────`);
             console.log(`  ${DRY_RUN ? "Would reindex" : "Reindexed"} : ${success.length}`);
             success.forEach((n) => console.log(`    • ${n}`));
+            console.log(`  Skipped (blacklisted) : ${blacklisted.length}`);
+            blacklisted.forEach((b) => console.log(`    • ${b.name}${b.reason ? ` (${b.reason})` : ""}`));
             console.log(`  Failed : ${failures.length}`);
             failures.forEach((n) => console.log(`    • ${n}`));
             console.log(`─────────────────────────────────────────`);

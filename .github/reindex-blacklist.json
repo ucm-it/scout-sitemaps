@@ -1,0 +1,6 @@
+[
+    {
+        "match": "hurqalya",
+        "reason": "Contains documents which are too large for document hook ingestion."
+    }
+]
