@@ -217,6 +217,9 @@
     <loc>https://ssha.ucmerced.edu/content/jocelyn-de-la-torre</loc>
   </url>
   <url>
+    <loc>https://ssha.ucmerced.edu/content/sarah-depaoli</loc>
+  </url>
+  <url>
     <loc>https://ssha.ucmerced.edu/content/angela-dixon</loc>
   </url>
   <url>
@@ -250,13 +253,13 @@
     <loc>https://ssha.ucmerced.edu/content/tom-martinez</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/sandra-mora</loc>
-  </url>
-  <url>
     <loc>https://ssha.ucmerced.edu/content/sarah-mora</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/lisa-mora</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/content/sandra-mora</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/christine-panelli</loc>
@@ -1366,6 +1369,9 @@
     <loc>https://ssha.ucmerced.edu/type/staff?page=3</loc>
   </url>
   <url>
+    <loc>https://ssha.ucmerced.edu/type/staff?page=4</loc>
+  </url>
+  <url>
     <loc>https://ssha.ucmerced.edu/taxonomy/term/28/feed</loc>
   </url>
   <url>
@@ -1453,6 +1459,9 @@
     <loc>http://ssha.ucmerced.edu/content/jocelyn-de-la-torre</loc>
   </url>
   <url>
+    <loc>http://ssha.ucmerced.edu/content/sarah-depaoli</loc>
+  </url>
+  <url>
     <loc>http://ssha.ucmerced.edu/content/angela-dixon</loc>
   </url>
   <url>
@@ -1486,13 +1495,13 @@
     <loc>http://ssha.ucmerced.edu/content/tom-martinez</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/sandra-mora</loc>
-  </url>
-  <url>
     <loc>http://ssha.ucmerced.edu/content/sarah-mora</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/lisa-mora</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/content/sandra-mora</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/christine-panelli</loc>
@@ -2879,6 +2888,9 @@
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/type/staff?page=3</loc>
+  </url>
+  <url>
+    <loc>http://ssha.ucmerced.edu/type/staff?page=4</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/taxonomy/term/28/feed</loc>

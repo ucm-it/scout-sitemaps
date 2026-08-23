@@ -10,10 +10,10 @@
     <loc>https://meded.ucmerced.edu/overview</loc>
   </url>
   <url>
-    <loc>https://meded.ucmerced.edu/department-medical-education/mission-and-vision</loc>
+    <loc>https://meded.ucmerced.edu/about-dome/mission-and-vision</loc>
   </url>
   <url>
-    <loc>https://meded.ucmerced.edu/about-department-medical-education/staff/our-team</loc>
+    <loc>https://meded.ucmerced.edu/about-dome/our-team</loc>
   </url>
   <url>
     <loc>https://meded.ucmerced.edu/office-medical-education/meet-team</loc>
@@ -37,7 +37,7 @@
     <loc>https://meded.ucmerced.edu/sjv-prime-bs-md-program/prospective-students/eligibility</loc>
   </url>
   <url>
-    <loc>https://meded.ucmerced.edu/sjv-prime-bs-md-program/current-students/how-apply</loc>
+    <loc>https://meded.ucmerced.edu/sjv-prime-bs-md-program/prospective-students/how-apply</loc>
   </url>
   <url>
     <loc>https://meded.ucmerced.edu/sjv-prime-bs-md-program/current-students</loc>
@@ -50,9 +50,6 @@
   </url>
   <url>
     <loc>https://meded.ucmerced.edu/sjv-prime-bs-md-program/current-students/uc-merced-campus-resources</loc>
-  </url>
-  <url>
-    <loc>https://meded.ucmerced.edu/how-to-apply</loc>
   </url>
   <url>
     <loc>https://meded.ucmerced.edu/bs-md-program/student-handbook</loc>
@@ -160,10 +157,13 @@
     <loc>https://meded.ucmerced.edu/bs-md-program/student-handbook/student-support-services-and-policies</loc>
   </url>
   <url>
-    <loc>https://meded.ucmerced.edu/bs-md-program/student-handbook/student-support-services-and-policies/uc-merced-campus-resources</loc>
+    <loc>https://meded.ucmerced.edu/sjv-prime-bs-md-program/student-handbook/student-support-services-and-policies/sjv-prime-student</loc>
   </url>
   <url>
     <loc>https://meded.ucmerced.edu/bs-md-program/student-handbook/student-feedback-process</loc>
+  </url>
+  <url>
+    <loc>https://meded.ucmerced.edu/sjv-prime-bs-md-program/student-handbook/student-support-services-and-policies/uc-merced-campus</loc>
   </url>
   <url>
     <loc>https://meded.ucmerced.edu/pre-health-resources-uc-merced</loc>
@@ -229,7 +229,7 @@
     <loc>https://meded.ucmerced.edu/content/jose-baeza-moreno-ma</loc>
   </url>
   <url>
-    <loc>https://meded.ucmerced.edu/content/noreen-balos-mba</loc>
+    <loc>https://meded.ucmerced.edu/content/noreen-balos-phd</loc>
   </url>
   <url>
     <loc>https://meded.ucmerced.edu/content/patrice-crowell</loc>
