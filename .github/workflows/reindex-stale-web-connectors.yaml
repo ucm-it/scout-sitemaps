@@ -1,0 +1,296 @@
+name: Reindex Stale Web Onyx Connectors
+
+on:
+  schedule:
+    # Saturdays at 06:15 UTC. Offset from :00 (Restart Paused) and :30 (Reindex
+    # Failed) so the three do not fire at the same minute.
+    - cron: "15 6 * * 6"
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: Target environment
+        required: true
+        type: choice
+        options:
+          - dev
+          - prod
+      stale_days:
+        description: Reindex connectors whose last successful index is older than this many days
+        required: false
+        default: "7"
+        type: string
+      from_beginning:
+        description: Reindex from beginning (full re-crawl instead of incremental)
+        required: false
+        default: false
+        type: boolean
+      dry_run:
+        description: Dry Run
+        required: false
+        default: true
+        type: boolean
+
+jobs:
+  reindex-connectors:
+    runs-on: ubuntu-latest
+    environment: ${{ inputs.environment || 'prod' }}
+    steps:
+      # Needed for .github/reindex-blacklist.json, which the script reads.
+      - uses: actions/checkout@v4
+
+      - name: Reindex stale Onyx web connectors
+        uses: actions/github-script@v7
+        env:
+          ONYX_BASE_URL: ${{ secrets.ONYX_API_BASE_URL }}
+          ONYX_API_KEY: ${{ secrets.ONYX_API_TOKEN }}
+          STALE_DAYS: ${{ inputs.stale_days || '7' }}
+          FROM_BEGINNING: ${{ inputs.from_beginning }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        with:
+          script: |
+            const BASE_URL       = process.env.ONYX_BASE_URL.replace(/\/$/, "");
+            const API_KEY        = process.env.ONYX_API_KEY;
+            const DRY_RUN        = process.env.DRY_RUN === "true";
+            const FROM_BEGINNING = process.env.FROM_BEGINNING === "true";
+            const STALE_DAYS     = Number(process.env.STALE_DAYS);
+
+            if (!Number.isFinite(STALE_DAYS) || STALE_DAYS <= 0) {
+              core.setFailed(`Invalid stale_days: ${process.env.STALE_DAYS}`);
+              return;
+            }
+
+            const STALE_CUTOFF = Date.now() - STALE_DAYS * 86400 * 1000;
+
+            const headers = {
+              "Authorization": `Bearer ${API_KEY}`,
+              "Content-Type": "application/json",
+            };
+
+            const execute = async (method, path, body) => {
+              const res = await fetch(`${BASE_URL}${path}`, {
+                method,
+                headers,
+                ...(body !== undefined ? { body: JSON.stringify(body) } : {}),
+              });
+              if (!res.ok) throw new Error(`${method} ${path} → HTTP ${res.status}`);
+              return res;
+            };
+
+            const daysAgo = (ts) =>
+              ts === null ? "never" : `${((Date.now() - ts) / 86400000).toFixed(1)}d ago`;
+
+            // Blacklist entries are { match, reason }; `match` is a
+            // case-insensitive substring of the connector name. Bare strings are
+            // accepted too. A missing file means nothing is blacklisted, but a
+            // malformed one fails the run — silently reindexing a site someone
+            // deliberately blocked is worse than a noisy failure.
+            const BLACKLIST_PATH = ".github/reindex-blacklist.json";
+
+            let blacklist = [];
+            try {
+              const raw = require("fs").readFileSync(BLACKLIST_PATH, "utf8").trim();
+              if (raw) blacklist = JSON.parse(raw);
+            } catch (err) {
+              if (err.code !== "ENOENT") {
+                core.setFailed(`Could not read ${BLACKLIST_PATH}: ${err.message}`);
+                return;
+              }
+            }
+
+            const blacklistEntries = blacklist
+              .map((e) => (typeof e === "string" ? { match: e, reason: "" } : e))
+              .filter((e) => e && typeof e.match === "string" && e.match.trim() !== "")
+              .map((e) => ({ match: e.match.toLowerCase(), reason: e.reason ?? "" }));
+
+            console.log(`Connecting to: ${BASE_URL}`);
+            console.log(`Stale threshold: ${STALE_DAYS} day(s)`);
+            console.log(`Reindex mode: ${FROM_BEGINNING ? "from beginning (full re-crawl)" : "incremental"}`);
+            console.log(`Blacklist: ${blacklistEntries.length} entr${blacklistEntries.length === 1 ? "y" : "ies"}`);
+            if (DRY_RUN) console.log(`DRY RUN — no reindex will be triggered`);
+            console.log("");
+
+            // 1. Fetch every web connector (paginated). This endpoint is the
+            //    only one that reports last_success alongside the connector and
+            //    credential ids that run-once needs.
+            const allStatuses = [];
+            try {
+              let page = 1;
+              while (true) {
+                const body = {
+                  secondary_index: false,
+                  access_type_filters: [],
+                  last_status_filters: [],
+                  docs_count_operator: null,
+                  docs_count_value: null,
+                  source_to_page: page === 1 ? {} : { web: page },
+                  name_filter: "",
+                };
+                if (page > 1) body.source = "web";
+                const res = await execute("POST", "/api/manage/admin/connector/indexing-status", body);
+                const data = await res.json();
+
+                const sourceEntry = data.find((s) => s.source === "web");
+
+                if (!sourceEntry) break;
+                allStatuses.push(...sourceEntry.indexing_statuses);
+
+                if (page >= sourceEntry.total_pages) break;
+                page++;
+              }
+            } catch (err) {
+              core.setFailed(`Failed to fetch connectors: ${err.message}`);
+              return;
+            }
+
+            if (allStatuses.length === 0) {
+              console.log("No web connectors found. Nothing to do.");
+              return;
+            }
+
+            // 2. Keep the ones whose last successful index is older than the
+            //    cutoff. A connector that has never succeeded counts as stale.
+            //    Anything already indexing is left alone — it is being brought
+            //    up to date right now.
+            const inProgress = [];
+            const paused = [];
+            const stale = [];
+
+            for (const c of allStatuses) {
+              const lastSuccess = c.last_success ? Date.parse(c.last_success) : null;
+              if (lastSuccess !== null && lastSuccess > STALE_CUTOFF) continue;
+
+              const name = c.name ?? `CC-Pair ID ${c.cc_pair_id}`;
+
+              if (c.in_progress) {
+                inProgress.push(name);
+                continue;
+              }
+              // Paused pairs ignore run-once; Restart Paused Web Onyx
+              // Connectors resumes them on the hour, and the next Saturday run
+              // picks them up.
+              if (c.cc_pair_status === "PAUSED") {
+                paused.push(name);
+                continue;
+              }
+
+              stale.push({
+                name,
+                ccPairId: c.cc_pair_id,
+                connectorId: c.connector?.id,
+                credentialId: c.credential?.id,
+                lastSuccess,
+              });
+            }
+
+            if (inProgress.length > 0) {
+              console.log(`Skipping ${inProgress.length} connector(s) already indexing:`);
+              inProgress.forEach((n) => console.log(`  • ${n}`));
+              console.log("");
+            }
+
+            if (paused.length > 0) {
+              console.log(`Skipping ${paused.length} paused connector(s):`);
+              paused.forEach((n) => console.log(`  • ${n}`));
+              console.log("");
+            }
+
+            if (stale.length === 0) {
+              console.log(`Found ${allStatuses.length} web connector(s), none stale. Nothing to do.`);
+              return;
+            }
+
+            // 3. Drop blacklisted connectors — sites known to be broken that we
+            //    do not want to keep re-crawling. Matching is per cc-pair, so a
+            //    connector keeps reindexing its non-blacklisted cc-pairs.
+            const blacklisted = [];
+            const reindexable = stale.filter((s) => {
+              const hit = blacklistEntries.find((e) => s.name.toLowerCase().includes(e.match));
+              if (!hit) return true;
+              blacklisted.push({ name: s.name, reason: hit.reason });
+              return false;
+            });
+
+            if (blacklisted.length > 0) {
+              console.log(`Skipping ${blacklisted.length} blacklisted connector(s):`);
+              blacklisted.forEach((b) => console.log(`  • ${b.name}${b.reason ? ` (${b.reason})` : ""}`));
+              console.log("");
+            }
+
+            if (reindexable.length === 0) {
+              console.log(`Found ${stale.length} stale web connector(s), all blacklisted. Nothing to do.`);
+              return;
+            }
+
+            // 4. run-once is per connector, so a connector with several stale
+            //    cc-pairs is triggered once with all of its credentials.
+            const byConnector = new Map();
+            const unresolved = [];
+            for (const s of reindexable) {
+              if (s.connectorId === undefined || s.credentialId === undefined) {
+                unresolved.push(s.name);
+                continue;
+              }
+              const entry = byConnector.get(s.connectorId) ?? { credentialIds: [], entries: [] };
+              entry.credentialIds.push(s.credentialId);
+              entry.entries.push(s);
+              byConnector.set(s.connectorId, entry);
+            }
+
+            if (unresolved.length > 0) {
+              console.log(`Skipping ${unresolved.length} connector(s) missing a connector/credential id:`);
+              unresolved.forEach((n) => console.log(`  • ${n}`));
+              console.log("");
+            }
+
+            if (byConnector.size === 0) {
+              console.log("Nothing left to reindex.");
+              return;
+            }
+
+            const queued = reindexable.length - unresolved.length;
+            console.log(`Found ${queued} stale web connector(s) across ${byConnector.size} connector(s):\n`);
+
+            const success = [];
+            const failures = [];
+
+            // 5. Reindex
+            for (const [connectorId, entry] of byConnector) {
+              const label = entry.entries.map((s) => s.name).join(", ");
+
+              console.log(`  [connector=${connectorId}] ${label}`);
+              entry.entries.forEach((s) => console.log(`        last success: ${daysAgo(s.lastSuccess)}`));
+
+              if (DRY_RUN) {
+                success.push(label);
+                continue;
+              }
+
+              try {
+                await execute("POST", "/api/manage/admin/connector/run-once", {
+                  connector_id: connectorId,
+                  credential_ids: entry.credentialIds,
+                  from_beginning: FROM_BEGINNING,
+                });
+                console.log(`        ✓ Reindex triggered`);
+                success.push(label);
+              } catch (err) {
+                console.log(`        ✗ Reindex FAILED: ${err.message}`);
+                failures.push(label);
+              }
+            }
+
+            // 6. Summary
+            console.log(`\n── Summary ──────────────────────────────`);
+            console.log(`  ${DRY_RUN ? "Would reindex" : "Reindexed"} : ${success.length}`);
+            success.forEach((n) => console.log(`    • ${n}`));
+            console.log(`  Skipped (in progress) : ${inProgress.length}`);
+            console.log(`  Skipped (paused) : ${paused.length}`);
+            console.log(`  Skipped (blacklisted) : ${blacklisted.length}`);
+            blacklisted.forEach((b) => console.log(`    • ${b.name}${b.reason ? ` (${b.reason})` : ""}`));
+            console.log(`  Failed : ${failures.length}`);
+            failures.forEach((n) => console.log(`    • ${n}`));
+            console.log(`─────────────────────────────────────────`);
+
+            if (failures.length > 0) {
+              core.setFailed(`${failures.length} connector(s) failed to reindex.`);
+            }
