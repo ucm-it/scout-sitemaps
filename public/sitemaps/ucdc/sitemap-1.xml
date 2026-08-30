@@ -13,13 +13,7 @@
     <loc>https://ucdc.ucmerced.edu/about/academic-study</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/about/costs</loc>
-  </url>
-  <url>
     <loc>https://ucdc.ucmerced.edu/about/internships</loc>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/about/dc-experience</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/about/dc-experience/free-dc</loc>
@@ -122,6 +116,12 @@
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/form/apply-now</loc>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/about/costs</loc>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/about/dc-experience</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/engineering</loc>

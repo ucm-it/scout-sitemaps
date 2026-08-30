@@ -40,12 +40,6 @@
     <loc>https://prehealth.ucmerced.edu/health-careers/physician-assistant</loc>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/health-careers/podiatric-medicine</loc>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/health-careers/public-health</loc>
-  </url>
-  <url>
     <loc>https://prehealth.ucmerced.edu/health-careers/veterinary-medicine</loc>
   </url>
   <url>
@@ -86,6 +80,12 @@
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/health-careers/podiatric-medicine</loc>
+  </url>
+  <url>
+    <loc>https://prehealth.ucmerced.edu/health-careers/public-health</loc>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/page/documents/pathway_to_practice-with_new_logo_.pdf</loc>

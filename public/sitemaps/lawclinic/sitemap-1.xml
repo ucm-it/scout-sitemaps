@@ -19,9 +19,6 @@
     <loc>https://lawclinic.ucmerced.edu/tips-and-information/repairs-and-maintenance</loc>
   </url>
   <url>
-    <loc>https://lawclinic.ucmerced.edu/tips-and-information/security-deposits</loc>
-  </url>
-  <url>
     <loc>https://lawclinic.ucmerced.edu/tips-and-information/terminating-lease</loc>
   </url>
   <url>
@@ -44,9 +41,6 @@
   </url>
   <url>
     <loc>https://lawclinic.ucmerced.edu/ContratoDeArrendamiento</loc>
-  </url>
-  <url>
-    <loc>https://lawclinic.ucmerced.edu/Desalojos</loc>
   </url>
   <url>
     <loc>https://lawclinic.ucmerced.edu/ReparacionesYMantenimiento</loc>
@@ -89,6 +83,12 @@
   </url>
   <url>
     <loc>https://lawclinic.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://lawclinic.ucmerced.edu/tips-and-information/security-deposits</loc>
+  </url>
+  <url>
+    <loc>https://lawclinic.ucmerced.edu/Desalojos</loc>
   </url>
   <url>
     <loc>https://lawclinic.ucmerced.edu/sites/lawclinic.ucmerced.edu/files/page/documents/californiatenantrenterguide_0.pdf</loc>

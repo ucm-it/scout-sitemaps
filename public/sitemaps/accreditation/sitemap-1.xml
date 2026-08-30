@@ -61,9 +61,6 @@
     <loc>https://accreditation.ucmerced.edu/archive/2011-initial-accreditation</loc>
   </url>
   <url>
-    <loc>https://accreditation.ucmerced.edu/archive/2011-initial-accreditation/initial-accreditation-review</loc>
-  </url>
-  <url>
     <loc>https://accreditation.ucmerced.edu/archive/2011-initial-accreditation/initial-accreditation-review/capacity-preparatory-review</loc>
   </url>
   <url>
@@ -83,6 +80,9 @@
   </url>
   <url>
     <loc>https://accreditation.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/archive/2011-initial-accreditation/initial-accreditation-review</loc>
   </url>
   <url>
     <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/2025.08.25_charge_wscuc_steering_committee_finalwnames_1.pdf</loc>
@@ -164,18 +164,6 @@
   </url>
   <url>
     <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/irc_140717_ucm_receive_interim_report_final.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/expectations_for_two_reviews_1_09.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/educational_effectiveness_framework_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/wasc_official_letter_7-12-11_w_revised_list_approved_degrees_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/irc_140717_ucm_receive_interim_report_final.pdf</loc>
   </url>
   <url>
     <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/wasc_commission_action_letter_cpr_march_3_2010.pdf</loc>
@@ -353,5 +341,17 @@
   </url>
   <url>
     <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/wasc_action_letter.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/expectations_for_two_reviews_1_09.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/educational_effectiveness_framework_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/wasc_official_letter_7-12-11_w_revised_list_approved_degrees_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/irc_140717_ucm_receive_interim_report_final.pdf</loc>
   </url>
 </urlset>

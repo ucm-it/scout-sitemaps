@@ -19,9 +19,6 @@
     <loc>https://nrt-ias.ucmerced.edu/cohort-3</loc>
   </url>
   <url>
-    <loc>https://nrt-ias.ucmerced.edu/cohort-4</loc>
-  </url>
-  <url>
     <loc>https://nrt-ias.ucmerced.edu/cohort-5</loc>
   </url>
   <url>
@@ -50,6 +47,9 @@
   </url>
   <url>
     <loc>https://nrt-ias.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/cohort-4</loc>
   </url>
   <url>
     <loc>https://nrt-ias.ucmerced.edu/content/%E2%80%8Bramesh-balasubramaniam</loc>
@@ -208,21 +208,6 @@
     <loc>https://nrt-ias.ucmerced.edu/content/yumary-vasquez</loc>
   </url>
   <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/samuel-fellows</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/alex-ho</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/harrison-ho</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/zunaria-iqbal</loc>
-  </url>
-  <url>
-    <loc>https://nrt-ias.ucmerced.edu/content/jacques-ezechiel-nguessan</loc>
-  </url>
-  <url>
     <loc>https://nrt-ias.ucmerced.edu/content/sara-schneider</loc>
   </url>
   <url>
@@ -236,5 +221,20 @@
   </url>
   <url>
     <loc>https://nrt-ias.ucmerced.edu/content/brian-wang</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/samuel-fellows</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/alex-ho</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/harrison-ho</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/zunaria-iqbal</loc>
+  </url>
+  <url>
+    <loc>https://nrt-ias.ucmerced.edu/content/jacques-ezechiel-nguessan</loc>
   </url>
 </urlset>

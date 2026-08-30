@@ -61,9 +61,6 @@
     <loc>https://ns-advising.ucmerced.edu/ns-advising-policies/academic-re-entry</loc>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/policies/ns-advising-policies/appointment-policy</loc>
-  </url>
-  <url>
     <loc>https://ns-advising.ucmerced.edu/policies/ns-advising-policies/communication-policy</loc>
   </url>
   <url>
@@ -140,6 +137,9 @@
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/policies/ns-advising-policies/appointment-policy</loc>
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/sites/g/files/ufvvjh2111/f/documents/Handouts/math_major_flow_chart_final.pdf</loc>

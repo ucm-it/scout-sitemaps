@@ -28,9 +28,6 @@
     <loc>https://uassafety.ucmerced.edu/resources-0</loc>
   </url>
   <url>
-    <loc>https://uassafety.ucmerced.edu/resources/part-107-questions</loc>
-  </url>
-  <url>
     <loc>https://uassafety.ucmerced.edu/resources/pix4d-dji-red-zones</loc>
   </url>
   <url>
@@ -47,6 +44,9 @@
   </url>
   <url>
     <loc>https://uassafety.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://uassafety.ucmerced.edu/resources/part-107-questions</loc>
   </url>
   <url>
     <loc>https://uassafety.ucmerced.edu/news/2018/uc-uas-policy-policy-guidance-issued</loc>

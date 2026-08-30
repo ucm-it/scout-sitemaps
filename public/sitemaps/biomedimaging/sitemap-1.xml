@@ -16,12 +16,6 @@
     <loc>https://biomedimaging.ucmerced.edu/news-0</loc>
   </url>
   <url>
-    <loc>https://biomedimaging.ucmerced.edu/research</loc>
-  </url>
-  <url>
-    <loc>https://biomedimaging.ucmerced.edu/teaching</loc>
-  </url>
-  <url>
     <loc>https://biomedimaging.ucmerced.edu/awards</loc>
   </url>
   <url>
@@ -29,5 +23,11 @@
   </url>
   <url>
     <loc>https://biomedimaging.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://biomedimaging.ucmerced.edu/research</loc>
+  </url>
+  <url>
+    <loc>https://biomedimaging.ucmerced.edu/teaching</loc>
   </url>
 </urlset>

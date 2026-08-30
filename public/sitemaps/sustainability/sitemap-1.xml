@@ -37,6 +37,9 @@
     <loc>https://sustainability.ucmerced.edu/about-us/accomplishments/epeat-purchaser-award</loc>
   </url>
   <url>
+    <loc>https://sustainability.ucmerced.edu/about-us/accomplishments/real-decarbonization-%E2%80%93-2024-campus-wide-survey</loc>
+  </url>
+  <url>
     <loc>https://sustainability.ucmerced.edu/about-us/chancellors-advisory-committee-sustainabiity</loc>
   </url>
   <url>
@@ -44,9 +47,6 @@
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/about-us/community-partners</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/about-us/student-clubsorganizations</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/about-us/our-living-environment</loc>
@@ -116,6 +116,9 @@
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/climate-action/zero-waste-0</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/climate-action/4-rs-sustainability/reduce/centralized-waste-locations</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/climate-action/net-zero-green-house-gas-emissions</loc>
@@ -190,13 +193,22 @@
     <loc>https://sustainability.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://sustainability.ucmerced.edu/about-us/student-clubsorganizations</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/sites/g/files/ufvvjh1806/f/page/documents/decarbonization_survey_report_1_.pdf</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/sites/g/files/ufvvjh1806/f/page/documents/decarbonization_survery_report_2.pdf</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/sites/g/files/ufvvjh1806/f/page/documents/decarbonization_survey_report_2_espanol.pdf</loc>
+  </url>
+  <url>
     <loc>https://sustainability.ucmerced.edu/initiatives/procurement</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/get-involved/student/yosemite-leadership-program</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/facs/sustainability-faculty/more-about-brokaw</loc>
@@ -733,13 +745,7 @@
     <loc>https://sustainability.ucmerced.edu/sites/g/files/ufvvjh1806/f/page/documents/2017_wap_update.docx</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects/tea-project</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects/air-quality-project</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects/local-food-project</loc>
+    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/more-about-skurtz</loc>
@@ -797,5 +803,14 @@
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/pollinators</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects/tea-project</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects/air-quality-project</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects/local-food-project</loc>
   </url>
 </urlset>

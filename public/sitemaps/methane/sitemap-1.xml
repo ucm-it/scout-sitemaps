@@ -19,9 +19,6 @@
     <loc>https://methane.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://methane.ucmerced.edu/news</loc>
-  </url>
-  <url>
     <loc>https://methane.ucmerced.edu/research</loc>
   </url>
   <url>
@@ -32,9 +29,6 @@
   </url>
   <url>
     <loc>https://methane.ucmerced.edu/digital-twins</loc>
-  </url>
-  <url>
-    <loc>https://methane.ucmerced.edu/news/2026/methane-mercury</loc>
   </url>
   <url>
     <loc>https://methane.ucmerced.edu/news/2024/proof-concept-grant-awarded-unpurified-biogas-engine</loc>
@@ -52,6 +46,12 @@
     <loc>https://methane.ucmerced.edu/news/2025/researchers-developing-new-tools-fight-against-methane-emissions</loc>
   </url>
   <url>
+    <loc>https://methane.ucmerced.edu/news</loc>
+  </url>
+  <url>
+    <loc>https://methane.ucmerced.edu/news/2026/methane-mercury</loc>
+  </url>
+  <url>
     <loc>https://methane.ucmerced.edu/content/derek-hollenbeck</loc>
   </url>
   <url>
@@ -64,6 +64,12 @@
     <loc>https://methane.ucmerced.edu/content/jiahe-lu</loc>
   </url>
   <url>
+    <loc>https://methane.ucmerced.edu/biogas</loc>
+  </url>
+  <url>
+    <loc>https://methane.ucmerced.edu/Biochar</loc>
+  </url>
+  <url>
     <loc>https://methane.ucmerced.edu/news/2024/ibm-wins-doe-proposal-characterize-methane-emissions</loc>
   </url>
   <url>
@@ -71,11 +77,5 @@
   </url>
   <url>
     <loc>https://methane.ucmerced.edu/news/2023/cmeri-gets-1m-climate-action-seed-funds</loc>
-  </url>
-  <url>
-    <loc>https://methane.ucmerced.edu/biogas</loc>
-  </url>
-  <url>
-    <loc>https://methane.ucmerced.edu/Biochar</loc>
   </url>
 </urlset>

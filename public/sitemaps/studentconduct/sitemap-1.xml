@@ -22,9 +22,6 @@
     <loc>https://studentconduct.ucmerced.edu/student-conduct</loc>
   </url>
   <url>
-    <loc>https://studentconduct.ucmerced.edu/misconduct/help-ive-been-reported</loc>
-  </url>
-  <url>
     <loc>https://studentconduct.ucmerced.edu/student-conduct/student-conduct-process</loc>
   </url>
   <url>
@@ -65,6 +62,9 @@
   </url>
   <url>
     <loc>https://studentconduct.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://studentconduct.ucmerced.edu/misconduct/help-ive-been-reported</loc>
   </url>
   <url>
     <loc>https://studentconduct.ucmerced.edu/content/letrice-curl-0</loc>

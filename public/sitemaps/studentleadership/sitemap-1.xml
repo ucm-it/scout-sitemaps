@@ -52,9 +52,6 @@
     <loc>https://studentleadership.ucmerced.edu/current-events</loc>
   </url>
   <url>
-    <loc>https://studentleadership.ucmerced.edu/bobactday2026</loc>
-  </url>
-  <url>
     <loc>https://studentleadership.ucmerced.edu/news</loc>
   </url>
   <url>
@@ -64,9 +61,6 @@
     <loc>https://studentleadership.ucmerced.edu/about-us/hours-and-location</loc>
   </url>
   <url>
-    <loc>https://studentleadership.ucmerced.edu/about-us/meet-our-donor</loc>
-  </url>
-  <url>
     <loc>https://studentleadership.ucmerced.edu/leadership/staff</loc>
   </url>
   <url>
@@ -74,6 +68,12 @@
   </url>
   <url>
     <loc>https://studentleadership.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/bobactday2026</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/about-us/meet-our-donor</loc>
   </url>
   <url>
     <loc>https://studentleadership.ucmerced.edu/programs/ylp/YLPSI</loc>

@@ -34,9 +34,6 @@
     <loc>https://taps.ucmerced.edu/transportation/cattracks-and-route-uc/trip-planner</loc>
   </url>
   <url>
-    <loc>https://taps.ucmerced.edu/transportation/policies</loc>
-  </url>
-  <url>
     <loc>https://taps.ucmerced.edu/transportation/zipcar</loc>
   </url>
   <url>
@@ -181,9 +178,6 @@
     <loc>https://taps.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://taps.ucmerced.edu/news/2026/saturdays-special</loc>
-  </url>
-  <url>
     <loc>https://taps.ucmerced.edu/news/2026/2026-27-campus-resident-freshman-commuter-exception</loc>
   </url>
   <url>
@@ -191,6 +185,9 @@
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/transportation/policies</loc>
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/meeting_minutes_feb.pdf</loc>
@@ -227,9 +224,6 @@
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/meeting_minutes_january_2019.pdf</loc>
-  </url>
-  <url>
-    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/page/images/screenshot_2026-07-09_154636.png</loc>
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/node/4711</loc>
@@ -281,6 +275,9 @@
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/Fall/2025/m-7_fall_2025_8_18_2025.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/gold_runner_student_discount_flyer.jpg</loc>
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/lprprocedures_2.pdf</loc>

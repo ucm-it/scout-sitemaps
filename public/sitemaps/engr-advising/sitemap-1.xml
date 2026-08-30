@@ -61,9 +61,6 @@
     <loc>https://engr-advising.ucmerced.edu/majors/data-science-and-analytics-ba</loc>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/majors/electrical-engineering</loc>
-  </url>
-  <url>
     <loc>https://engr-advising.ucmerced.edu/enve</loc>
   </url>
   <url>
@@ -130,9 +127,6 @@
     <loc>https://engr-advising.ucmerced.edu/forms/engineering-forms</loc>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/form/concerned-student-form</loc>
-  </url>
-  <url>
     <loc>https://engr-advising.ucmerced.edu/resources</loc>
   </url>
   <url>
@@ -161,6 +155,12 @@
   </url>
   <url>
     <loc>https://engr-advising.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/majors/electrical-engineering</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/form/concerned-student-form</loc>
   </url>
   <url>
     <loc>https://engr-advising.ucmerced.edu/node/576</loc>

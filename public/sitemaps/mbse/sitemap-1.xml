@@ -16,12 +16,6 @@
     <loc>https://mbse.ucmerced.edu/prospective-students/available-degrees</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/node/34</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/current-students</loc>
-  </url>
-  <url>
     <loc>https://mbse.ucmerced.edu/current-students/forms</loc>
   </url>
   <url>
@@ -35,6 +29,9 @@
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/people/postdoc</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/people/postdoc-alumni</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/research-0</loc>
@@ -73,7 +70,10 @@
     <loc>https://mbse.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/sites/mbse.ucmerced.edu/files/documents/2021.12.21.gc2mbse_re_pps_approval.pdf</loc>
+    <loc>https://mbse.ucmerced.edu/node/34</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/current-students</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/sites/mbse.ucmerced.edu/files/page/documents/2024.11.12_approved_mbse_pps_clean.pdf</loc>
@@ -166,9 +166,6 @@
     <loc>https://mbse.ucmerced.edu/content/edward-kolodka</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/content/sarah-kurtz</loc>
-  </url>
-  <url>
     <loc>https://mbse.ucmerced.edu/content/valerie-leppert</loc>
   </url>
   <url>
@@ -206,6 +203,9 @@
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/content/linda-hirst</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/content/sarah-kurtz</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/content/min-hwan-lee</loc>
@@ -262,19 +262,10 @@
     <loc>https://mbse.ucmerced.edu/content/kazem-akbarnataj</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/content/muzzakkir-amin</loc>
-  </url>
-  <url>
     <loc>https://mbse.ucmerced.edu/content/hoda-arab-zadeh</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/content/nath%C3%A1lia-bellio-da-silva</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/content/sam-chiovoloni</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/content/justin-couvrette</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/content/maged-elshatoury</loc>
@@ -286,13 +277,7 @@
     <loc>https://mbse.ucmerced.edu/content/imran-hasan</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/content/ruth-hernandez</loc>
-  </url>
-  <url>
     <loc>https://mbse.ucmerced.edu/content/diego-jaramillo-pinto</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/content/han-lin-kuo</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/content/dayeon-lee</loc>
@@ -307,9 +292,6 @@
     <loc>https://mbse.ucmerced.edu/content/metzli-montero</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/content/ariell-smith</loc>
-  </url>
-  <url>
     <loc>https://mbse.ucmerced.edu/content/amaya-stanley</loc>
   </url>
   <url>
@@ -319,58 +301,28 @@
     <loc>https://mbse.ucmerced.edu/content/claire-zhang</loc>
   </url>
   <url>
+    <loc>https://mbse.ucmerced.edu/content/kuntal-talit</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/content/di-wu</loc>
+  </url>
+  <url>
     <loc>https://mbse.ucmerced.edu/content/brad-barker</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/content/syeda-tajin-ahmed</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/content/kuntal-talit</loc>
-  </url>
-  <url>
     <loc>https://mbse.ucmerced.edu/content/jose-zamora-alvarado</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2025-9-8_mbse_seminar_tom_devereaux.pdf</loc>
+    <loc>https://mbse.ucmerced.edu/taxonomy/term/1381/feed</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2025-9-15_mbse_seminar_anh_pham.pdf</loc>
+    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2026-8-31_mbse_seminar_ali_emamjomeh.jpg</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2025-9-22_mbse_seminar_hoda.pdf</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2025-9-22_mbse_seminar_yichen_002.pdf</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2025-9-15_mbse_seminar_roberto.pdf</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2025-10-6_mbse_seminar_debora_lyn.pdf</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2025-10-13_mbse_seminar_yan_li.pdf</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2025-10-20_mbse_seminar_younjin_min.pdf</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2025-11-3_mbse_seminar_kathy_lu.pdf</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2025-11-10_mbse_seminar_emily_asenath.pdf</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2025-11-17_mbse_seminar_ali_emamjomeh.pdf</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2025-11-24_mbse_seminar_kevin_de_france.pdf</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2025-12-1_mbse_seminar_usda.pdf</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2025-12-8_mbse_seminar_kuntal_talit.pdf</loc>
+    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2026-9-14_mbse_seminar_jonathan_pham.jpg</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news/2023/career-award-will-fund-research-arthritis-cause</loc>
@@ -427,6 +379,9 @@
     <loc>https://mbse.ucmerced.edu/media-contact/brenda-ortiz</loc>
   </url>
   <url>
+    <loc>https://mbse.ucmerced.edu/sites/mbse.ucmerced.edu/files/documents/2021.12.21.gc2mbse_re_pps_approval.pdf</loc>
+  </url>
+  <url>
     <loc>https://mbse.ucmerced.edu/research-areas/materials-and-interfaces-tailored-functionalities</loc>
   </url>
   <url>
@@ -472,10 +427,10 @@
     <loc>https://mbse.ucmerced.edu/news/2021/five-years-ccbm-looking-expand-research-and-student-opportunities</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2021/professor-sarah-kurtz-writes-article-national-academy-engineers-magazine</loc>
+    <loc>https://mbse.ucmerced.edu/news/2021/professor-jennifer-lu-published-physics-world</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2021/professor-jennifer-lu-published-physics-world</loc>
+    <loc>https://mbse.ucmerced.edu/news/2021/professor-sarah-kurtz-writes-article-national-academy-engineers-magazine</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news/2021/kleckner%E2%80%99s-award-physics-department-nabs-its-third-career-grant-year</loc>
@@ -550,13 +505,13 @@
     <loc>https://mbse.ucmerced.edu/news/2020/researchers-discover-mechanism-proteins-use-find-and-control-genes</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2020/breakthrough-stem-cell-research-first-image-niche-environment</loc>
-  </url>
-  <url>
     <loc>https://mbse.ucmerced.edu/news/2020/national-academy-engineers-elects-kurtz-its-ranks</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news/2020/national-academy-engineering-elects-kurtz-its-ranks</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/news/2020/breakthrough-stem-cell-research-first-image-niche-environment</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news/2020/potential-electric-vehicles-tied-solar-research</loc>
@@ -571,10 +526,10 @@
     <loc>https://mbse.ucmerced.edu/news/2019/star-student-and-nasa-standout-preparing-stellar-future</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2019/lab-works-understand-molecular-motors-and-cholesterol%E2%80%99s-relation-alzheimer%E2%80%99s</loc>
+    <loc>https://mbse.ucmerced.edu/news/2019/physicist-found-his-path-future-uc-merced</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2019/physicist-found-his-path-future-uc-merced</loc>
+    <loc>https://mbse.ucmerced.edu/news/2019/lab-works-understand-molecular-motors-and-cholesterol%E2%80%99s-relation-alzheimer%E2%80%99s</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news/2019/ccbm-bringing-high-powered-speakers-two-day-workshop</loc>
@@ -652,10 +607,13 @@
     <loc>https://mbse.ucmerced.edu/news/2018/career-award-will-help-professor-predict-how-species-respond-climate-change</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2018/campus-lands-1m-howard-hughes-grant-make-stem-more-inclusive</loc>
+    <loc>https://mbse.ucmerced.edu/news/2018/news-and-notes-uc-launches-million-light-bulb-challenge-upcoming-ally-trainings-offered</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news?page=11</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/news/2018/campus-lands-1m-howard-hughes-grant-make-stem-more-inclusive</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news/2018/cancer-systems-biology-identifies-master-regulators-and-new-drug-targets-therapy-resistant</loc>
@@ -880,10 +838,10 @@
     <loc>https://mbse.ucmerced.edu/news/2015/engineering-professor-and-students-team-chevron</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2015/campus-research-taking-healthy-approach</loc>
+    <loc>https://mbse.ucmerced.edu/news/2015/campus-research-taking-healthy-approach-0</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2015/campus-research-taking-healthy-approach-0</loc>
+    <loc>https://mbse.ucmerced.edu/news/2015/campus-research-taking-healthy-approach</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news/2015/professor-helps-identify-new-giant-galapagos-tortoise-species</loc>
@@ -892,10 +850,10 @@
     <loc>https://mbse.ucmerced.edu/news/2015/event-connects-high-school-girls-female-scientists</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2015/new-nanomaterials-taking-research-mexico-possibly-space</loc>
+    <loc>https://mbse.ucmerced.edu/news/2015/new-nanomaterials-taking-research-mexico-possibly-space-0</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2015/new-nanomaterials-taking-research-mexico-possibly-space-0</loc>
+    <loc>https://mbse.ucmerced.edu/news/2015/new-nanomaterials-taking-research-mexico-possibly-space</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news/2016/professor%E2%80%99s-findings-help-illuminate-human-immune-system</loc>
@@ -970,10 +928,10 @@
     <loc>https://mbse.ucmerced.edu/news/2016/researchers-identify-drug-could-treat-melanoma</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2016/biomedical-researcher-earns-respected-keck-award</loc>
+    <loc>https://mbse.ucmerced.edu/news/2016/biomedical-researcher-earns-respected-keck-award-0</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2016/biomedical-researcher-earns-respected-keck-award-0</loc>
+    <loc>https://mbse.ucmerced.edu/news/2016/biomedical-researcher-earns-respected-keck-award</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news/2016/faculty-climate-champion-puts-plan-action</loc>

@@ -28,9 +28,6 @@
     <loc>https://nmr.ucmerced.edu/nmr-systems/sample-preparation</loc>
   </url>
   <url>
-    <loc>https://nmr.ucmerced.edu/nmr-systems/nmr-tubes</loc>
-  </url>
-  <url>
     <loc>https://nmr.ucmerced.edu/nmr-systems/deuterated-solvents</loc>
   </url>
   <url>
@@ -92,6 +89,9 @@
   </url>
   <url>
     <loc>https://nmr.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://nmr.ucmerced.edu/nmr-systems/nmr-tubes</loc>
   </url>
   <url>
     <loc>https://nmr.ucmerced.edu/colors/black</loc>

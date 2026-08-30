@@ -40,13 +40,7 @@
     <loc>https://snri.ucmerced.edu/research/groups</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/research/posters</loc>
-  </url>
-  <url>
     <loc>https://snri.ucmerced.edu/events</loc>
-  </url>
-  <url>
-    <loc>https://snri.ucmerced.edu/events/2026snrieclt</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/events/DCSS-Stokes</loc>
@@ -167,6 +161,12 @@
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://snri.ucmerced.edu/research/posters</loc>
+  </url>
+  <url>
+    <loc>https://snri.ucmerced.edu/events/2026snrieclt</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/sites/snri.ucmerced.edu/files/images/the_history_of_the_founding_of_snri.pdf</loc>
@@ -484,10 +484,10 @@
     <loc>https://snri.ucmerced.edu/content/max-erikkson</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/content/weichao-guo</loc>
+    <loc>https://snri.ucmerced.edu/content/qinghua-guo-0</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/content/qinghua-guo-0</loc>
+    <loc>https://snri.ucmerced.edu/content/weichao-guo</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/content/carolyn-hunsaker</loc>
@@ -530,9 +530,6 @@
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/node/2721</loc>
-  </url>
-  <url>
-    <loc>https://snri.ucmerced.edu/sites/g/files/ufvvjh1651/f/documents/2026_early_career_researcher_lightning_talks_2.pdf</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/sites/g/files/ufvvjh1651/f/documents/leahstokes_2026researchweek_4.pdf</loc>
@@ -688,6 +685,9 @@
     <loc>https://snri.ucmerced.edu/media-contact/lorena-anderson</loc>
   </url>
   <url>
+    <loc>https://snri.ucmerced.edu/sites/g/files/ufvvjh1651/f/documents/2026_early_career_researcher_lightning_talks_2.pdf</loc>
+  </url>
+  <url>
     <loc>https://snri.ucmerced.edu/news/2025/soil-climate-solutions-berhe-leads-sierra-nevada-research-institute-its-next-chapter</loc>
   </url>
   <url>
@@ -781,10 +781,10 @@
     <loc>https://snri.ucmerced.edu/news/2022/last-year%E2%80%99s-drought-cost-ag-industry-more-1-billion-thousands-jobs-new-analysis-shows</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2022/hotter-drier-nights-mean-more-runaway-fires</loc>
+    <loc>https://snri.ucmerced.edu/news/2022/environmental-systems-student-earns-graduate-student-policy-award</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2022/environmental-systems-student-earns-graduate-student-policy-award</loc>
+    <loc>https://snri.ucmerced.edu/news/2022/hotter-drier-nights-mean-more-runaway-fires</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2022/update-tid-accepts-grant-solar-panels-canals-when-where-will-project-happen</loc>
@@ -799,19 +799,19 @@
     <loc>https://snri.ucmerced.edu/news/2022/faculty-report-ids-top-climate-challenges-facing-valley</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2021/california%E2%80%99s-water-supplies-are-trouble-climate-change-worsens-natural-dry-spells</loc>
-  </url>
-  <url>
     <loc>https://snri.ucmerced.edu/news/2021/microorganisms-consume-last-bits-oxygen-low-oxygen-ocean-zones-study-shows</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2021/hotter-summer-days-mean-more-sierra-nevada-wildfires-study-finds</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2021/kurtz%E2%80%99s-latest-publication-examines-renewable-energy-expansion</loc>
+    <loc>https://snri.ucmerced.edu/news/2021/california%E2%80%99s-water-supplies-are-trouble-climate-change-worsens-natural-dry-spells</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2021/uc-merced-uc-davis-are-ground-zero-saving-farms-and-environment</loc>
+  </url>
+  <url>
+    <loc>https://snri.ucmerced.edu/news/2021/kurtz%E2%80%99s-latest-publication-examines-renewable-energy-expansion</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2021/self-serving-garbage-wildfire-experts-escalate-fight-over-saving-california-forests</loc>
@@ -1012,9 +1012,6 @@
     <loc>https://snri.ucmerced.edu/news/2020/california%E2%80%99s-ancient-%E2%80%98asbestos%E2%80%99-forests-no-longer-seem-immune</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2020/high-stakes-college-recruitment-goes-virtual-and-it%E2%80%99s-no-fun-thanks-zoom-fatigue</loc>
-  </url>
-  <url>
     <loc>https://snri.ucmerced.edu/news/2020/amazing-secret-cutting-25-carbon-could-be-under-your-feet</loc>
   </url>
   <url>
@@ -1022,6 +1019,9 @@
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2020/dry-days-ahead-california-year-and-beyond-experts-say</loc>
+  </url>
+  <url>
+    <loc>https://snri.ucmerced.edu/news/2020/restoring-california%E2%80%99s-forests-reduce-wildfire-risks-will-take-time-billions-dollars-and</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news?page=13</loc>
@@ -1033,12 +1033,6 @@
     <loc>https://snri.ucmerced.edu/news/2020/restoring-states-forests-reduce-fire-risks-will-take-time-money-and-broad-commitment</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2020/california-la-zona-cero-de-la-crisis-clim%C3%A1tica</loc>
-  </url>
-  <url>
-    <loc>https://snri.ucmerced.edu/news/2020/anticipan-que-cambio-clim%C3%A1tico-golpear%C3%A1-m%C3%A1s-pobres-y-minor%C3%ADas</loc>
-  </url>
-  <url>
     <loc>https://snri.ucmerced.edu/news/2020/who-or-what-ignited-creek-fire-early-photos-help-narrow-possibilities</loc>
   </url>
   <url>
@@ -1046,6 +1040,12 @@
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2020/4-million-acres-have-burned-california-why-thats-wrong-number-focus</loc>
+  </url>
+  <url>
+    <loc>https://snri.ucmerced.edu/news/2020/california-la-zona-cero-de-la-crisis-clim%C3%A1tica</loc>
+  </url>
+  <url>
+    <loc>https://snri.ucmerced.edu/news/2020/anticipan-que-cambio-clim%C3%A1tico-golpear%C3%A1-m%C3%A1s-pobres-y-minor%C3%ADas</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2020/new-project-focuses-life-soil-earth%E2%80%99s-critical-zone</loc>
@@ -1060,6 +1060,9 @@
     <loc>https://snri.ucmerced.edu/news/2020/skelton-california-failing-treat-wildfires-respect-they-deserve</loc>
   </url>
   <url>
+    <loc>https://snri.ucmerced.edu/news/2020/megafires-are-breaking-climate-models-highlighting-californias-need-focus-prevention</loc>
+  </url>
+  <url>
     <loc>https://snri.ucmerced.edu/news/2020/wests-infernos-are-melting-our-sense-how-fire-works</loc>
   </url>
   <url>
@@ -1070,9 +1073,6 @@
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2020/californias-ancient-asbestos-forests-no-longer-seem-immune</loc>
-  </url>
-  <url>
-    <loc>https://snri.ucmerced.edu/news/2020/megafires-are-breaking-climate-models-highlighting-californias-need-focus-prevention</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2020/global-fire-outlook-not-good-news-mitigation-possible-analysis-shows</loc>
@@ -1090,10 +1090,10 @@
     <loc>https://snri.ucmerced.edu/news?page=15</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2020/what-causing-californias-destructive-wildfires</loc>
+    <loc>https://snri.ucmerced.edu/news/2020/california-wildfires-solutions-connection-climate-change-sound-advice</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2020/california-and-forest-service-have-plan-prevent-future-catastrophic-fires</loc>
+    <loc>https://snri.ucmerced.edu/news/2020/current-aug-26-2020</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2020/california-wildfires-little-relief-horizon-fire-siege-pummels-golden-state</loc>
@@ -1105,25 +1105,19 @@
     <loc>https://snri.ucmerced.edu/news/2020/price-saving-paradise</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2020/california-wildfires-solutions-connection-climate-change-sound-advice</loc>
-  </url>
-  <url>
-    <loc>https://snri.ucmerced.edu/news/2020/current-aug-26-2020</loc>
-  </url>
-  <url>
     <loc>https://snri.ucmerced.edu/news/2020/past-wildfires-offer-future-roadmap-forest-management%E2%80%99s-effects-water</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2020/%E2%80%98ground-zero%E2%80%99-dead-trees-how-california-mega-drought-turned-creek-fire-inferno</loc>
+    <loc>https://snri.ucmerced.edu/news/2020/fire-experts-western-fires-are-%E2%80%98unreal%E2%80%99</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2020/these-changes-are-needed-amid-worsening-wildfires-experts-say</loc>
-  </url>
-  <url>
-    <loc>https://snri.ucmerced.edu/news/2017/how-have-drought-climate-change-impacted-beloved-giant-sequoias-new-study-finds-out</loc>
+    <loc>https://snri.ucmerced.edu/news/2020/extreme-end-2020-northwest-fire-season-reminds-1910-%E2%80%98big-burn%E2%80%99</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2017/over-last-40-years-there-surprising-trend-california-wildfires</loc>
+  </url>
+  <url>
+    <loc>https://snri.ucmerced.edu/news/2017/how-have-drought-climate-change-impacted-beloved-giant-sequoias-new-study-finds-out</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2017/fellow-explore-central-valley-groundwater-problems</loc>
@@ -1135,10 +1129,10 @@
     <loc>https://snri.ucmerced.edu/news/2017/relentless-wildfires-threaten-supplies-drinking-water-western-us</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2017/pge-funds-critical-snri-work-sierra-forest-resiliency</loc>
+    <loc>https://snri.ucmerced.edu/news/2017/campus-voices-partnering-parks-our-first-research-institute</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2017/campus-voices-partnering-parks-our-first-research-institute</loc>
+    <loc>https://snri.ucmerced.edu/news/2017/pge-funds-critical-snri-work-sierra-forest-resiliency</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2017/massive-sensor-network-helps-scientists-monitor-mountain-water-resources</loc>
@@ -1171,13 +1165,13 @@
     <loc>https://snri.ucmerced.edu/news/2019/new-project-build-climate-resilience-through-improved-land-management</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2018/innovative-partnership-aims-restore-sierra-nevada-forest-health</loc>
-  </url>
-  <url>
     <loc>https://snri.ucmerced.edu/news/2018/researchers-assess-western-forests%E2%80%99-ability-survive-next-drought</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2018/innovative-partnership-aims-restore-sierra-nevada-forest-health-0</loc>
+  </url>
+  <url>
+    <loc>https://snri.ucmerced.edu/news/2018/innovative-partnership-aims-restore-sierra-nevada-forest-health</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2018/uc-merced-%E2%80%98university-year%E2%80%99</loc>
@@ -1186,10 +1180,10 @@
     <loc>https://snri.ucmerced.edu/news/2018/environmental-engineers-devising-plan-save-humanity</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2018/anthropology-book-examines-early-california-and-its-native-communities</loc>
+    <loc>https://snri.ucmerced.edu/news/2018/anthropology-book-examines-early-california-and-its-native-communities-0</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2018/anthropology-book-examines-early-california-and-its-native-communities-0</loc>
+    <loc>https://snri.ucmerced.edu/news/2018/anthropology-book-examines-early-california-and-its-native-communities</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2018/professor%E2%80%99s-novel-mercury-mapping-project-wins-state-grant</loc>
@@ -1210,10 +1204,10 @@
     <loc>https://snri.ucmerced.edu/news/2018/sea-stars-started-dissolving-what-helped-some-them-survive</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2018/merced-river-helps-explain-how-soils-capture-and-store-planet-warming-carbon</loc>
+    <loc>https://snri.ucmerced.edu/news/2018/soil-can-sequester-planet-warming-carbon-merced-river-helping-scientists-understand-how</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2018/soil-can-sequester-planet-warming-carbon-merced-river-helping-scientists-understand-how</loc>
+    <loc>https://snri.ucmerced.edu/news/2018/merced-river-helps-explain-how-soils-capture-and-store-planet-warming-carbon</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2018/following-devastating-pandemic-california%E2%80%99s-sea-stars-are-evolving</loc>
@@ -1255,10 +1249,10 @@
     <loc>https://snri.ucmerced.edu/news/2018/wildfire-problem-increase-coming-decades</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2018/study-climate-change-threatens-major-crops-california</loc>
+    <loc>https://snri.ucmerced.edu/news/2018/california-agriculture-faces-serious-threats-climate-change-study-finds</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2018/california-agriculture-faces-serious-threats-climate-change-study-finds</loc>
+    <loc>https://snri.ucmerced.edu/news/2018/study-climate-change-threatens-major-crops-california</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2018/study-finds-%E2%80%98rock-moisture%E2%80%99-spared-california-forest-drought</loc>
@@ -1294,10 +1288,10 @@
     <loc>https://snri.ucmerced.edu/news/2017/southern-california-fires-are-destructive-and-unprecedented-%E2%80%94-and-sign-things-come</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2017/la-fires-why-2017%E2%80%99s-record-wildfire-season-keeps-getting-worse</loc>
+    <loc>https://snri.ucmerced.edu/news/2017/look-climate-change-effects-san-diego-county</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2017/look-climate-change-effects-san-diego-county</loc>
+    <loc>https://snri.ucmerced.edu/news/2017/la-fires-why-2017%E2%80%99s-record-wildfire-season-keeps-getting-worse</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2017/hellman-fellowships-give-young-professors-leg-research</loc>
@@ -1381,10 +1375,13 @@
     <loc>https://snri.ucmerced.edu/taxonomy/term/281/feed</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2020/trauma-fear-homelessness-life-after-californias-deadliest-fire-shows-future-climate-crisis</loc>
+    <loc>https://snri.ucmerced.edu/news/2020/%E2%80%98ground-zero%E2%80%99-dead-trees-how-california-mega-drought-turned-creek-fire-inferno</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2020/fire-experts-western-fires-are-%E2%80%98unreal%E2%80%99</loc>
+    <loc>https://snri.ucmerced.edu/news/2020/these-changes-are-needed-amid-worsening-wildfires-experts-say</loc>
+  </url>
+  <url>
+    <loc>https://snri.ucmerced.edu/news/2020/trauma-fear-homelessness-life-after-californias-deadliest-fire-shows-future-climate-crisis</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2020/snri-executive-named-director-state-parks</loc>
@@ -1411,10 +1408,10 @@
     <loc>https://snri.ucmerced.edu/news/2020/uc-president-honors-radiobio</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2020/snri-sees-leadership-transition</loc>
+    <loc>https://snri.ucmerced.edu/news/2020/new-tools-indicate-how-thinning-and-fire-affect-forest-water-use-and-boost-runoff</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2020/new-tools-indicate-how-thinning-and-fire-affect-forest-water-use-and-boost-runoff</loc>
+    <loc>https://snri.ucmerced.edu/news/2020/snri-sees-leadership-transition</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2020/podcast-focuses-new-agriculture-and-california%E2%80%99s-future</loc>
@@ -1426,10 +1423,10 @@
     <loc>https://snri.ucmerced.edu/news/2020/human-waste-treatment-helps-solve-climate-change-puzzle-new-study-shows-0</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2020/we-salute-your-service-we-will-never-forget-sacrifice</loc>
+    <loc>https://snri.ucmerced.edu/news/2020/low-snowpack-california-mountains-may-mean-more-wildfires-summer</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2020/low-snowpack-california-mountains-may-mean-more-wildfires-summer</loc>
+    <loc>https://snri.ucmerced.edu/news/2020/we-salute-your-service-we-will-never-forget-sacrifice</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2020/researchers-forge-new-weapon-fight-parasites-and-other-infections</loc>
@@ -1447,10 +1444,10 @@
     <loc>https://snri.ucmerced.edu/news/2019/ted-audiences-get-dirt-soil-and-climate-change-berhe</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2019/multiyear-drought-caused-massive-forest-die-sierra-nevada</loc>
+    <loc>https://snri.ucmerced.edu/news/2019/multi-year-drought-caused-massive-forest-die-sierra-nevada</loc>
   </url>
   <url>
-    <loc>https://snri.ucmerced.edu/news/2019/multi-year-drought-caused-massive-forest-die-sierra-nevada</loc>
+    <loc>https://snri.ucmerced.edu/news/2019/multiyear-drought-caused-massive-forest-die-sierra-nevada</loc>
   </url>
   <url>
     <loc>https://snri.ucmerced.edu/news/2019/sierra-seedlings-illustrate-effects-climate-change-next-generation-forests</loc>
@@ -1927,10 +1924,10 @@
     <loc>http://snri.ucmerced.edu/content/max-erikkson</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/content/weichao-guo</loc>
+    <loc>http://snri.ucmerced.edu/content/qinghua-guo-0</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/content/qinghua-guo-0</loc>
+    <loc>http://snri.ucmerced.edu/content/weichao-guo</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/content/carolyn-hunsaker</loc>
@@ -2119,10 +2116,10 @@
     <loc>http://snri.ucmerced.edu/news/2022/last-year%E2%80%99s-drought-cost-ag-industry-more-1-billion-thousands-jobs-new-analysis-shows</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2022/hotter-drier-nights-mean-more-runaway-fires</loc>
+    <loc>http://snri.ucmerced.edu/news/2022/environmental-systems-student-earns-graduate-student-policy-award</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2022/environmental-systems-student-earns-graduate-student-policy-award</loc>
+    <loc>http://snri.ucmerced.edu/news/2022/hotter-drier-nights-mean-more-runaway-fires</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2022/update-tid-accepts-grant-solar-panels-canals-when-where-will-project-happen</loc>
@@ -2137,19 +2134,19 @@
     <loc>http://snri.ucmerced.edu/news/2022/faculty-report-ids-top-climate-challenges-facing-valley</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2021/california%E2%80%99s-water-supplies-are-trouble-climate-change-worsens-natural-dry-spells</loc>
-  </url>
-  <url>
     <loc>http://snri.ucmerced.edu/news/2021/microorganisms-consume-last-bits-oxygen-low-oxygen-ocean-zones-study-shows</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2021/hotter-summer-days-mean-more-sierra-nevada-wildfires-study-finds</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2021/kurtz%E2%80%99s-latest-publication-examines-renewable-energy-expansion</loc>
+    <loc>http://snri.ucmerced.edu/news/2021/california%E2%80%99s-water-supplies-are-trouble-climate-change-worsens-natural-dry-spells</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2021/uc-merced-uc-davis-are-ground-zero-saving-farms-and-environment</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2021/kurtz%E2%80%99s-latest-publication-examines-renewable-energy-expansion</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2021/self-serving-garbage-wildfire-experts-escalate-fight-over-saving-california-forests</loc>
@@ -2335,9 +2332,6 @@
     <loc>http://snri.ucmerced.edu/news/2020/california%E2%80%99s-ancient-%E2%80%98asbestos%E2%80%99-forests-no-longer-seem-immune</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2020/high-stakes-college-recruitment-goes-virtual-and-it%E2%80%99s-no-fun-thanks-zoom-fatigue</loc>
-  </url>
-  <url>
     <loc>http://snri.ucmerced.edu/news/2020/amazing-secret-cutting-25-carbon-could-be-under-your-feet</loc>
   </url>
   <url>
@@ -2345,6 +2339,9 @@
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2020/dry-days-ahead-california-year-and-beyond-experts-say</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2020/restoring-california%E2%80%99s-forests-reduce-wildfire-risks-will-take-time-billions-dollars-and</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news?page=13</loc>
@@ -2356,12 +2353,6 @@
     <loc>http://snri.ucmerced.edu/news/2020/restoring-states-forests-reduce-fire-risks-will-take-time-money-and-broad-commitment</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2020/california-la-zona-cero-de-la-crisis-clim%C3%A1tica</loc>
-  </url>
-  <url>
-    <loc>http://snri.ucmerced.edu/news/2020/anticipan-que-cambio-clim%C3%A1tico-golpear%C3%A1-m%C3%A1s-pobres-y-minor%C3%ADas</loc>
-  </url>
-  <url>
     <loc>http://snri.ucmerced.edu/news/2020/who-or-what-ignited-creek-fire-early-photos-help-narrow-possibilities</loc>
   </url>
   <url>
@@ -2369,6 +2360,12 @@
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2020/4-million-acres-have-burned-california-why-thats-wrong-number-focus</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2020/california-la-zona-cero-de-la-crisis-clim%C3%A1tica</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2020/anticipan-que-cambio-clim%C3%A1tico-golpear%C3%A1-m%C3%A1s-pobres-y-minor%C3%ADas</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2020/new-project-focuses-life-soil-earth%E2%80%99s-critical-zone</loc>
@@ -2383,6 +2380,9 @@
     <loc>http://snri.ucmerced.edu/news/2020/skelton-california-failing-treat-wildfires-respect-they-deserve</loc>
   </url>
   <url>
+    <loc>http://snri.ucmerced.edu/news/2020/megafires-are-breaking-climate-models-highlighting-californias-need-focus-prevention</loc>
+  </url>
+  <url>
     <loc>http://snri.ucmerced.edu/news/2020/wests-infernos-are-melting-our-sense-how-fire-works</loc>
   </url>
   <url>
@@ -2393,9 +2393,6 @@
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2020/californias-ancient-asbestos-forests-no-longer-seem-immune</loc>
-  </url>
-  <url>
-    <loc>http://snri.ucmerced.edu/news/2020/megafires-are-breaking-climate-models-highlighting-californias-need-focus-prevention</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2020/global-fire-outlook-not-good-news-mitigation-possible-analysis-shows</loc>
@@ -2413,10 +2410,10 @@
     <loc>http://snri.ucmerced.edu/news?page=15</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2020/what-causing-californias-destructive-wildfires</loc>
+    <loc>http://snri.ucmerced.edu/news/2020/california-wildfires-solutions-connection-climate-change-sound-advice</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2020/california-and-forest-service-have-plan-prevent-future-catastrophic-fires</loc>
+    <loc>http://snri.ucmerced.edu/news/2020/current-aug-26-2020</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2020/california-wildfires-little-relief-horizon-fire-siege-pummels-golden-state</loc>
@@ -2428,25 +2425,19 @@
     <loc>http://snri.ucmerced.edu/news/2020/price-saving-paradise</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2020/california-wildfires-solutions-connection-climate-change-sound-advice</loc>
-  </url>
-  <url>
-    <loc>http://snri.ucmerced.edu/news/2020/current-aug-26-2020</loc>
-  </url>
-  <url>
     <loc>http://snri.ucmerced.edu/news/2020/past-wildfires-offer-future-roadmap-forest-management%E2%80%99s-effects-water</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2020/%E2%80%98ground-zero%E2%80%99-dead-trees-how-california-mega-drought-turned-creek-fire-inferno</loc>
+    <loc>http://snri.ucmerced.edu/news/2020/fire-experts-western-fires-are-%E2%80%98unreal%E2%80%99</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2020/these-changes-are-needed-amid-worsening-wildfires-experts-say</loc>
-  </url>
-  <url>
-    <loc>http://snri.ucmerced.edu/news/2017/how-have-drought-climate-change-impacted-beloved-giant-sequoias-new-study-finds-out</loc>
+    <loc>http://snri.ucmerced.edu/news/2020/extreme-end-2020-northwest-fire-season-reminds-1910-%E2%80%98big-burn%E2%80%99</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2017/over-last-40-years-there-surprising-trend-california-wildfires</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2017/how-have-drought-climate-change-impacted-beloved-giant-sequoias-new-study-finds-out</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2017/fellow-explore-central-valley-groundwater-problems</loc>
@@ -2458,10 +2449,10 @@
     <loc>http://snri.ucmerced.edu/news/2017/relentless-wildfires-threaten-supplies-drinking-water-western-us</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2017/pge-funds-critical-snri-work-sierra-forest-resiliency</loc>
+    <loc>http://snri.ucmerced.edu/news/2017/campus-voices-partnering-parks-our-first-research-institute</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2017/campus-voices-partnering-parks-our-first-research-institute</loc>
+    <loc>http://snri.ucmerced.edu/news/2017/pge-funds-critical-snri-work-sierra-forest-resiliency</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2017/massive-sensor-network-helps-scientists-monitor-mountain-water-resources</loc>
@@ -2494,13 +2485,13 @@
     <loc>http://snri.ucmerced.edu/news/2019/new-project-build-climate-resilience-through-improved-land-management</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2018/innovative-partnership-aims-restore-sierra-nevada-forest-health</loc>
-  </url>
-  <url>
     <loc>http://snri.ucmerced.edu/news/2018/researchers-assess-western-forests%E2%80%99-ability-survive-next-drought</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2018/innovative-partnership-aims-restore-sierra-nevada-forest-health-0</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2018/innovative-partnership-aims-restore-sierra-nevada-forest-health</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2018/uc-merced-%E2%80%98university-year%E2%80%99</loc>
@@ -2509,10 +2500,10 @@
     <loc>http://snri.ucmerced.edu/news/2018/environmental-engineers-devising-plan-save-humanity</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2018/anthropology-book-examines-early-california-and-its-native-communities</loc>
+    <loc>http://snri.ucmerced.edu/news/2018/anthropology-book-examines-early-california-and-its-native-communities-0</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2018/anthropology-book-examines-early-california-and-its-native-communities-0</loc>
+    <loc>http://snri.ucmerced.edu/news/2018/anthropology-book-examines-early-california-and-its-native-communities</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2018/professor%E2%80%99s-novel-mercury-mapping-project-wins-state-grant</loc>
@@ -2533,10 +2524,10 @@
     <loc>http://snri.ucmerced.edu/news/2018/sea-stars-started-dissolving-what-helped-some-them-survive</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2018/merced-river-helps-explain-how-soils-capture-and-store-planet-warming-carbon</loc>
+    <loc>http://snri.ucmerced.edu/news/2018/soil-can-sequester-planet-warming-carbon-merced-river-helping-scientists-understand-how</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2018/soil-can-sequester-planet-warming-carbon-merced-river-helping-scientists-understand-how</loc>
+    <loc>http://snri.ucmerced.edu/news/2018/merced-river-helps-explain-how-soils-capture-and-store-planet-warming-carbon</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2018/following-devastating-pandemic-california%E2%80%99s-sea-stars-are-evolving</loc>
@@ -2578,10 +2569,10 @@
     <loc>http://snri.ucmerced.edu/news/2018/wildfire-problem-increase-coming-decades</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2018/study-climate-change-threatens-major-crops-california</loc>
+    <loc>http://snri.ucmerced.edu/news/2018/california-agriculture-faces-serious-threats-climate-change-study-finds</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2018/california-agriculture-faces-serious-threats-climate-change-study-finds</loc>
+    <loc>http://snri.ucmerced.edu/news/2018/study-climate-change-threatens-major-crops-california</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2018/study-finds-%E2%80%98rock-moisture%E2%80%99-spared-california-forest-drought</loc>
@@ -2617,10 +2608,10 @@
     <loc>http://snri.ucmerced.edu/news/2017/southern-california-fires-are-destructive-and-unprecedented-%E2%80%94-and-sign-things-come</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2017/la-fires-why-2017%E2%80%99s-record-wildfire-season-keeps-getting-worse</loc>
+    <loc>http://snri.ucmerced.edu/news/2017/look-climate-change-effects-san-diego-county</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2017/look-climate-change-effects-san-diego-county</loc>
+    <loc>http://snri.ucmerced.edu/news/2017/la-fires-why-2017%E2%80%99s-record-wildfire-season-keeps-getting-worse</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2017/hellman-fellowships-give-young-professors-leg-research</loc>
@@ -2689,10 +2680,13 @@
     <loc>http://snri.ucmerced.edu/taxonomy/term/281/feed</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2020/trauma-fear-homelessness-life-after-californias-deadliest-fire-shows-future-climate-crisis</loc>
+    <loc>http://snri.ucmerced.edu/news/2020/%E2%80%98ground-zero%E2%80%99-dead-trees-how-california-mega-drought-turned-creek-fire-inferno</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2020/fire-experts-western-fires-are-%E2%80%98unreal%E2%80%99</loc>
+    <loc>http://snri.ucmerced.edu/news/2020/these-changes-are-needed-amid-worsening-wildfires-experts-say</loc>
+  </url>
+  <url>
+    <loc>http://snri.ucmerced.edu/news/2020/trauma-fear-homelessness-life-after-californias-deadliest-fire-shows-future-climate-crisis</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2020/snri-executive-named-director-state-parks</loc>
@@ -2719,10 +2713,10 @@
     <loc>http://snri.ucmerced.edu/news/2020/uc-president-honors-radiobio</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2020/snri-sees-leadership-transition</loc>
+    <loc>http://snri.ucmerced.edu/news/2020/new-tools-indicate-how-thinning-and-fire-affect-forest-water-use-and-boost-runoff</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2020/new-tools-indicate-how-thinning-and-fire-affect-forest-water-use-and-boost-runoff</loc>
+    <loc>http://snri.ucmerced.edu/news/2020/snri-sees-leadership-transition</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2020/podcast-focuses-new-agriculture-and-california%E2%80%99s-future</loc>
@@ -2734,10 +2728,10 @@
     <loc>http://snri.ucmerced.edu/news/2020/human-waste-treatment-helps-solve-climate-change-puzzle-new-study-shows-0</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2020/we-salute-your-service-we-will-never-forget-sacrifice</loc>
+    <loc>http://snri.ucmerced.edu/news/2020/low-snowpack-california-mountains-may-mean-more-wildfires-summer</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2020/low-snowpack-california-mountains-may-mean-more-wildfires-summer</loc>
+    <loc>http://snri.ucmerced.edu/news/2020/we-salute-your-service-we-will-never-forget-sacrifice</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2020/researchers-forge-new-weapon-fight-parasites-and-other-infections</loc>
@@ -2755,10 +2749,10 @@
     <loc>http://snri.ucmerced.edu/news/2019/ted-audiences-get-dirt-soil-and-climate-change-berhe</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2019/multiyear-drought-caused-massive-forest-die-sierra-nevada</loc>
+    <loc>http://snri.ucmerced.edu/news/2019/multi-year-drought-caused-massive-forest-die-sierra-nevada</loc>
   </url>
   <url>
-    <loc>http://snri.ucmerced.edu/news/2019/multi-year-drought-caused-massive-forest-die-sierra-nevada</loc>
+    <loc>http://snri.ucmerced.edu/news/2019/multiyear-drought-caused-massive-forest-die-sierra-nevada</loc>
   </url>
   <url>
     <loc>http://snri.ucmerced.edu/news/2019/sierra-seedlings-illustrate-effects-climate-change-next-generation-forests</loc>

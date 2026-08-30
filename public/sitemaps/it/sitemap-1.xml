@@ -34,9 +34,6 @@
     <loc>https://it.ucmerced.edu/aet</loc>
   </url>
   <url>
-    <loc>https://it.ucmerced.edu/CIRT</loc>
-  </url>
-  <url>
     <loc>https://it.ucmerced.edu/news/2026/catcourses-outage-57</loc>
   </url>
   <url>
@@ -56,6 +53,9 @@
   </url>
   <url>
     <loc>https://it.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://it.ucmerced.edu/CIRT</loc>
   </url>
   <url>
     <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/page/documents/oit_access_to_student_data_v1.1.pdf</loc>
@@ -187,10 +187,10 @@
     <loc>https://it.ucmerced.edu/news/2026/cenval-arc-symposium</loc>
   </url>
   <url>
-    <loc>https://it.ucmerced.edu/news/2026/campus-computer-lab-grand-re-opening</loc>
+    <loc>https://it.ucmerced.edu/news/2026/update-your-duo-mobile-app-spring-2026</loc>
   </url>
   <url>
-    <loc>https://it.ucmerced.edu/news/2026/update-your-duo-mobile-app-spring-2026</loc>
+    <loc>https://it.ucmerced.edu/news/2026/campus-computer-lab-grand-re-opening</loc>
   </url>
   <url>
     <loc>https://it.ucmerced.edu/news/2025/changes-2-factor-authentication-2fa</loc>

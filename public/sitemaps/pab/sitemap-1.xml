@@ -10,9 +10,6 @@
     <loc>https://pab.ucmerced.edu/about</loc>
   </url>
   <url>
-    <loc>https://pab.ucmerced.edu/about/pab-members-and-administrative-advisory-group</loc>
-  </url>
-  <url>
     <loc>https://pab.ucmerced.edu/about/membership-information</loc>
   </url>
   <url>
@@ -41,6 +38,9 @@
   </url>
   <url>
     <loc>https://pab.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://pab.ucmerced.edu/about/pab-members-and-administrative-advisory-group</loc>
   </url>
   <url>
     <loc>https://pab.ucmerced.edu/form/pab-membership-nomination-form</loc>

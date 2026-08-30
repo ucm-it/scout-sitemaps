@@ -49,9 +49,6 @@
     <loc>https://studentaffairs.ucmerced.edu/dean-students/parenting-student-resources</loc>
   </url>
   <url>
-    <loc>https://studentaffairs.ucmerced.edu/dean-students/parenting-student-resources/campus-lactation-rooms</loc>
-  </url>
-  <url>
     <loc>https://studentaffairs.ucmerced.edu/commencement-student-speaker</loc>
   </url>
   <url>
@@ -65,6 +62,9 @@
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://studentaffairs.ucmerced.edu/dean-students/parenting-student-resources/campus-lactation-rooms</loc>
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/community-of-scholars</loc>
@@ -82,15 +82,6 @@
     <loc>https://studentaffairs.ucmerced.edu/content/brian-obruba</loc>
   </url>
   <url>
-    <loc>https://studentaffairs.ucmerced.edu/content/le%E2%80%99trice-curl</loc>
-  </url>
-  <url>
-    <loc>https://studentaffairs.ucmerced.edu/content/orqu%C3%ADdea-largo</loc>
-  </url>
-  <url>
-    <loc>https://studentaffairs.ucmerced.edu/content/amy-sekhon</loc>
-  </url>
-  <url>
     <loc>https://studentaffairs.ucmerced.edu/content/enrique-guzman</loc>
   </url>
   <url>
@@ -104,6 +95,15 @@
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/content/nancy-higareda-marquez</loc>
+  </url>
+  <url>
+    <loc>https://studentaffairs.ucmerced.edu/content/le%E2%80%99trice-curl</loc>
+  </url>
+  <url>
+    <loc>https://studentaffairs.ucmerced.edu/content/orqu%C3%ADdea-largo</loc>
+  </url>
+  <url>
+    <loc>https://studentaffairs.ucmerced.edu/content/amy-sekhon</loc>
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/content/vacant-position</loc>
@@ -160,9 +160,6 @@
     <loc>https://studentaffairs.ucmerced.edu/sites/studentaffairs.ucmerced.edu/files/documents/2020_recreation_athletics_facility_operations_fee_final-2.docx</loc>
   </url>
   <url>
-    <loc>https://studentaffairs.ucmerced.edu/sites/studentaffairs.ucmerced.edu/files/page/images/ucm_lactation_rooms.png</loc>
-  </url>
-  <url>
     <loc>https://studentaffairs.ucmerced.edu/form/commencement-student-speaker-application</loc>
   </url>
   <url>
@@ -176,5 +173,8 @@
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/ferpa</loc>
+  </url>
+  <url>
+    <loc>https://studentaffairs.ucmerced.edu/sites/studentaffairs.ucmerced.edu/files/page/images/ucm_lactation_rooms.png</loc>
   </url>
 </urlset>

@@ -154,9 +154,6 @@
     <loc>https://iss.ucmerced.edu/visarenewal</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/professors-researchers/j-1/health-insurance</loc>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/contact-us</loc>
   </url>
   <url>
@@ -523,9 +520,6 @@
     <loc>https://iss.ucmerced.edu/tax_scams</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/a-genrollmentform_0.pdf</loc>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/opt_reporting_form_2024.pdf</loc>
   </url>
   <url>
@@ -551,6 +545,18 @@
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/cpt_tutorial_dec2021.pdf</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/cpt_request_form_sep2026.pdf</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/cpt_employer_letter_-_template.pdf</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/student_cpt_responsibility_letter.pdf</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/dissertation_advisor_letter.pdf</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/node/1261</loc>
@@ -595,7 +601,7 @@
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/opt_request_form.pdf</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/cpt_request_form_0.pdf</loc>
+    <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/cpt_request_form_9-2026.pdf</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/opt_reporting_form_2024.pdf</loc>
@@ -635,6 +641,9 @@
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/j2_dependent_ds2019_request_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/professors-researchers/j-1/health-insurance</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/english_language_proficiency_form_12.18.24.pdf</loc>
@@ -731,5 +740,8 @@
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/stem_opt_extension_request_form_fillable.pdf</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/a-genrollmentform_0.pdf</loc>
   </url>
 </urlset>

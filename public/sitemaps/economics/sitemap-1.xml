@@ -97,12 +97,6 @@
     <loc>https://economics.ucmerced.edu/alumni</loc>
   </url>
   <url>
-    <loc>https://economics.ucmerced.edu/graduate-students-alumni</loc>
-  </url>
-  <url>
-    <loc>https://economics.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
     <loc>https://economics.ucmerced.edu/academics/undergraduate</loc>
   </url>
   <url>
@@ -145,6 +139,12 @@
     <loc>https://economics.ucmerced.edu/node?page=17</loc>
   </url>
   <url>
+    <loc>https://economics.ucmerced.edu/graduate-students-alumni</loc>
+  </url>
+  <url>
+    <loc>https://economics.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
     <loc>https://economics.ucmerced.edu/sites/g/files/ufvvjh771/f/documents/ebm_department_majors_plo_map_2025_1_1.pdf</loc>
   </url>
   <url>
@@ -185,6 +185,9 @@
   </url>
   <url>
     <loc>https://economics.ucmerced.edu/content/esra-kose</loc>
+  </url>
+  <url>
+    <loc>https://economics.ucmerced.edu/content/jamie-mccasland</loc>
   </url>
   <url>
     <loc>https://economics.ucmerced.edu/content/jesus-sandoval-hernandez</loc>
@@ -295,9 +298,6 @@
     <loc>https://economics.ucmerced.edu/content/tim-wu</loc>
   </url>
   <url>
-    <loc>https://economics.ucmerced.edu/content/raymond-kim-0</loc>
-  </url>
-  <url>
     <loc>https://economics.ucmerced.edu/media-contact/jody-murray</loc>
   </url>
   <url>
@@ -338,9 +338,6 @@
   </url>
   <url>
     <loc>https://economics.ucmerced.edu/news/2024/professor-andrew-johnston-research-featured-lets-reform-how-we-pay-teachers</loc>
-  </url>
-  <url>
-    <loc>https://economics.ucmerced.edu/news/2024/ebm-student-kanchana-khat-receives-outstanding-research-presentation-award-2024-sacnas</loc>
   </url>
   <url>
     <loc>https://economics.ucmerced.edu/news/2024/3-new-majors-meet-crossroads-communication-and-science</loc>
@@ -401,6 +398,9 @@
   </url>
   <url>
     <loc>https://economics.ucmerced.edu/node?page=15</loc>
+  </url>
+  <url>
+    <loc>https://economics.ucmerced.edu/content/raymond-kim-0</loc>
   </url>
   <url>
     <loc>https://economics.ucmerced.edu/taxonomy/term/1261/feed</loc>

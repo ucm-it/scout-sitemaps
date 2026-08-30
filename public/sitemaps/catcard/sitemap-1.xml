@@ -121,9 +121,6 @@
     <loc>https://catcard.ucmerced.edu/sites/g/files/ufvvjh521/f/page/documents/icatcard_tutorial_how_to_track.pdf</loc>
   </url>
   <url>
-    <loc>https://catcard.ucmerced.edu/services/mobile-icheck-in</loc>
-  </url>
-  <url>
     <loc>https://catcard.ucmerced.edu/icheck-in-download</loc>
   </url>
   <url>
@@ -236,5 +233,8 @@
   </url>
   <url>
     <loc>http://catcard.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://catcard.ucmerced.edu/services/mobile-icheck-in</loc>
   </url>
 </urlset>

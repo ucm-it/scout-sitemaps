@@ -19,9 +19,6 @@
     <loc>https://meb.ucmerced.edu/news/2023/uc-merced-medical-education-building-gains-final-approval-uc-regents</loc>
   </url>
   <url>
-    <loc>https://meb.ucmerced.edu/news/2024/ground-broken-medical-education-building-uc-merced</loc>
-  </url>
-  <url>
     <loc>https://meb.ucmerced.edu/news/2024/following-mission-improve-valley-health-care</loc>
   </url>
   <url>
@@ -29,6 +26,9 @@
   </url>
   <url>
     <loc>https://meb.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://meb.ucmerced.edu/news/2024/ground-broken-medical-education-building-uc-merced</loc>
   </url>
   <url>
     <loc>https://meb.ucmerced.edu/news/all-news</loc>
@@ -94,13 +94,13 @@
     <loc>https://meb.ucmerced.edu/media-contact/alyssa-johansen</loc>
   </url>
   <url>
+    <loc>https://meb.ucmerced.edu/news/2026/record-enrollment-signals-growing-demand-uc-merced</loc>
+  </url>
+  <url>
     <loc>https://meb.ucmerced.edu/news/2026/uc-merced-celebrates-permanent-acquisition-%E2%80%98four-seasons-yosemite%E2%80%99-murals</loc>
   </url>
   <url>
     <loc>https://meb.ucmerced.edu/news/2026/bustling-campus-greets-students-uc-merced%E2%80%99s-21st-academic-year</loc>
-  </url>
-  <url>
-    <loc>https://meb.ucmerced.edu/news/2026/uc-merced-campos-foundation-deepen-commitment-underrepresented-stem-students</loc>
   </url>
   <url>
     <loc>https://meb.ucmerced.edu/news/medical-education-building</loc>
@@ -124,28 +124,16 @@
     <loc>https://meb.ucmerced.edu/news/sjv-prime</loc>
   </url>
   <url>
-    <loc>https://meb.ucmerced.edu/media-contact/patty-guerra</loc>
-  </url>
-  <url>
-    <loc>https://meb.ucmerced.edu/news/2026/uc-merced-co-hosts-institute-sharpens-instruction-reading-writing</loc>
-  </url>
-  <url>
-    <loc>https://meb.ucmerced.edu/news/2026/wild-mushrooms-punchlines-bobcats-learn-out-box-ways</loc>
-  </url>
-  <url>
-    <loc>https://meb.ucmerced.edu/news/2026/degrees-cheers-and-record-number-graduates-under-open-sky</loc>
-  </url>
-  <url>
     <loc>https://meb.ucmerced.edu/media-contact/jody-murray</loc>
+  </url>
+  <url>
+    <loc>https://meb.ucmerced.edu/news/2026/uc-merced-celebrates-its-most-successful-fundraising-year</loc>
   </url>
   <url>
     <loc>https://meb.ucmerced.edu/news/2026/new-book-chronicles-creation-and-impact-uc-merced</loc>
   </url>
   <url>
     <loc>https://meb.ucmerced.edu/news/2026/remodeled-applegate-zoo-including-uc-merced-sponsored-bobcat-exhibit-celebrates-opening</loc>
-  </url>
-  <url>
-    <loc>https://meb.ucmerced.edu/news/2026/uc-merced-launches-communities-valley-series-dutch-american-history</loc>
   </url>
   <url>
     <loc>https://meb.ucmerced.edu/news/research</loc>
@@ -175,6 +163,18 @@
     <loc>https://meb.ucmerced.edu/news/leed-certification</loc>
   </url>
   <url>
+    <loc>https://meb.ucmerced.edu/media-contact/patty-guerra</loc>
+  </url>
+  <url>
+    <loc>https://meb.ucmerced.edu/news/2026/uc-merced-co-hosts-institute-sharpens-instruction-reading-writing</loc>
+  </url>
+  <url>
+    <loc>https://meb.ucmerced.edu/news/2026/wild-mushrooms-punchlines-bobcats-learn-out-box-ways</loc>
+  </url>
+  <url>
+    <loc>https://meb.ucmerced.edu/news/2026/degrees-cheers-and-record-number-graduates-under-open-sky</loc>
+  </url>
+  <url>
     <loc>https://meb.ucmerced.edu/news/2026/ripon-student-turning-heart-and-heritage-path-healing</loc>
   </url>
   <url>
@@ -193,9 +193,6 @@
     <loc>https://meb.ucmerced.edu/taxonomy/term/251/feed</loc>
   </url>
   <url>
-    <loc>https://meb.ucmerced.edu/taxonomy/term/23/feed</loc>
-  </url>
-  <url>
     <loc>https://meb.ucmerced.edu/news/2025/20-years-uc-merced-celebrates-achievements-looks-future</loc>
   </url>
   <url>
@@ -203,5 +200,8 @@
   </url>
   <url>
     <loc>https://meb.ucmerced.edu/taxonomy/term/14/feed</loc>
+  </url>
+  <url>
+    <loc>https://meb.ucmerced.edu/taxonomy/term/23/feed</loc>
   </url>
 </urlset>

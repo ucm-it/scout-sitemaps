@@ -19,12 +19,6 @@
     <loc>https://physics.ucmerced.edu/academics/careers-physics</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/alumni</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/SPS</loc>
-  </url>
-  <url>
     <loc>https://physics.ucmerced.edu/people/women-physics-wip</loc>
   </url>
   <url>
@@ -181,6 +175,12 @@
     <loc>https://physics.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/alumni</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/SPS</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/sites/g/files/ufvvjh1416/f/page/documents/physicsadvisingguide2026w4yrplan_5.pdf</loc>
   </url>
   <url>
@@ -206,9 +206,6 @@
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/physicsadvisingguide2023_with_sample_plans_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/news/2018/physics-students-win-national-recognition</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/physics.ucmerced.edu/files/page/documents/currentundergraduateresearchprojects_1.pdf</loc>
@@ -688,10 +685,10 @@
     <loc>https://physics.ucmerced.edu/content/charles-gannon</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/ankush-gargeshwari-kumar-0</loc>
+    <loc>https://physics.ucmerced.edu/content/ankush-gargeshwari-kumar</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/ankush-gargeshwari-kumar</loc>
+    <loc>https://physics.ucmerced.edu/content/ankush-gargeshwari-kumar-0</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/devika-gireesan-sudha</loc>
@@ -1273,6 +1270,9 @@
     <loc>https://physics.ucmerced.edu/news/2023</loc>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/news/2018/physics-students-win-national-recognition</loc>
+  </url>
+  <url>
     <loc>http://physics.ucmerced.edu/news/2026/uc-merced-talent-finds-its-future-national-lab-research</loc>
   </url>
   <url>
@@ -1363,10 +1363,10 @@
     <loc>http://physics.ucmerced.edu/content/charles-gannon</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/ankush-gargeshwari-kumar-0</loc>
+    <loc>http://physics.ucmerced.edu/content/ankush-gargeshwari-kumar</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/ankush-gargeshwari-kumar</loc>
+    <loc>http://physics.ucmerced.edu/content/ankush-gargeshwari-kumar-0</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/content/devika-gireesan-sudha</loc>
@@ -2065,10 +2065,10 @@
     <loc>https://physics.ucmerced.edu/news/2023/cheer-campus%E2%80%99s-10-grad-slam-finalists-april-10</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
+    <loc>https://physics.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
+    <loc>https://physics.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2023/wilson-selected-2023-american-astronomical-society-fellow</loc>
@@ -2419,10 +2419,10 @@
     <loc>https://physics.ucmerced.edu/news/2019/star-student-and-nasa-standout-preparing-stellar-future</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2019/lab-works-understand-molecular-motors-and-cholesterol%E2%80%99s-relation-alzheimer%E2%80%99s</loc>
+    <loc>https://physics.ucmerced.edu/news/2019/physicist-found-his-path-future-uc-merced</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2019/physicist-found-his-path-future-uc-merced</loc>
+    <loc>https://physics.ucmerced.edu/news/2019/lab-works-understand-molecular-motors-and-cholesterol%E2%80%99s-relation-alzheimer%E2%80%99s</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2019/physicists-revealing-mysteries-biological-fluids</loc>
@@ -2569,10 +2569,10 @@
     <loc>https://physics.ucmerced.edu/news/2016/uc-merced-receives-5-million-interdisciplinary-research-center</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2015/professor-joins-executive-board-american-physical-society</loc>
+    <loc>https://physics.ucmerced.edu/news/2015/hirst-elected-aps-committee</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/news/2015/hirst-elected-aps-committee</loc>
+    <loc>https://physics.ucmerced.edu/news/2015/professor-joins-executive-board-american-physical-society</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/news/2015/professor-takes-bird%E2%80%99s-eye-view-collective-movements</loc>

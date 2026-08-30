@@ -31,9 +31,6 @@
     <loc>https://safetyconference.ucmerced.edu/past-safety-conferences/safety-conference-2023</loc>
   </url>
   <url>
-    <loc>https://safetyconference.ucmerced.edu/past-safety-conferences/safety-conference-2025</loc>
-  </url>
-  <url>
     <loc>https://safetyconference.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
@@ -44,5 +41,8 @@
   </url>
   <url>
     <loc>https://safetyconference.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://safetyconference.ucmerced.edu/past-safety-conferences/safety-conference-2025</loc>
   </url>
 </urlset>

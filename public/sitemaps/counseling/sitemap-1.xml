@@ -13,9 +13,6 @@
     <loc>https://counseling.ucmerced.edu/about/appointments</loc>
   </url>
   <url>
-    <loc>https://counseling.ucmerced.edu/staff</loc>
-  </url>
-  <url>
     <loc>https://counseling.ucmerced.edu/about/confidentiality</loc>
   </url>
   <url>
@@ -128,6 +125,9 @@
   </url>
   <url>
     <loc>https://counseling.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://counseling.ucmerced.edu/staff</loc>
   </url>
   <url>
     <loc>https://counseling.ucmerced.edu/services/long-term-individual-counseling</loc>

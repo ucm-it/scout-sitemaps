@@ -31,13 +31,13 @@
     <loc>https://writingproject.ucmerced.edu/node/8</loc>
   </url>
   <url>
-    <loc>https://writingproject.ucmerced.edu/events-0</loc>
-  </url>
-  <url>
     <loc>https://writingproject.ucmerced.edu/events/community-literacy-speaker-series</loc>
   </url>
   <url>
     <loc>https://writingproject.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://writingproject.ucmerced.edu/events-0</loc>
   </url>
   <url>
     <loc>https://writingproject.ucmerced.edu/sites/writingproject.ucmerced.edu/files/documents/2011_summer_institute_ppt.pptx</loc>
@@ -79,13 +79,10 @@
     <loc>https://writingproject.ucmerced.edu/news/2021/ucm-writing-project-community-literacy-series</loc>
   </url>
   <url>
-    <loc>https://writingproject.ucmerced.edu/news/2017/2017-institute-fellows-preparing-their-renewal-day-oct-21st</loc>
-  </url>
-  <url>
     <loc>https://writingproject.ucmerced.edu/news/2017/ucmwp-advanced-institute-sponsored-national-writing-project-college-career-and-community</loc>
   </url>
   <url>
-    <loc>https://writingproject.ucmerced.edu/sites/writingproject.ucmerced.edu/files/page/documents/deccommunityliteracyevent.pdf</loc>
+    <loc>https://writingproject.ucmerced.edu/news/2017/2017-institute-fellows-preparing-their-renewal-day-oct-21st</loc>
   </url>
   <url>
     <loc>https://writingproject.ucmerced.edu/sites/writingproject.ucmerced.edu/files/page/documents/deccommunityliteracyevent_0.pdf</loc>
@@ -101,6 +98,9 @@
   </url>
   <url>
     <loc>https://writingproject.ucmerced.edu/sites/writingproject.ucmerced.edu/files/page/documents/communityliteracyseriesstudentexpressionhiphopculturechattranscript.pdf</loc>
+  </url>
+  <url>
+    <loc>https://writingproject.ucmerced.edu/sites/writingproject.ucmerced.edu/files/page/documents/deccommunityliteracyevent.pdf</loc>
   </url>
   <url>
     <loc>http://writingproject.ucmerced.edu/professional-development/saturday-workshop-series-2017-2018</loc>
@@ -151,9 +151,9 @@
     <loc>http://writingproject.ucmerced.edu/news/2021/ucm-writing-project-community-literacy-series</loc>
   </url>
   <url>
-    <loc>http://writingproject.ucmerced.edu/news/2017/2017-institute-fellows-preparing-their-renewal-day-oct-21st</loc>
+    <loc>http://writingproject.ucmerced.edu/news/2017/ucmwp-advanced-institute-sponsored-national-writing-project-college-career-and-community</loc>
   </url>
   <url>
-    <loc>http://writingproject.ucmerced.edu/news/2017/ucmwp-advanced-institute-sponsored-national-writing-project-college-career-and-community</loc>
+    <loc>http://writingproject.ucmerced.edu/news/2017/2017-institute-fellows-preparing-their-renewal-day-oct-21st</loc>
   </url>
 </urlset>

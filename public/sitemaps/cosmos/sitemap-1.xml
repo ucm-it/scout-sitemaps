@@ -82,9 +82,6 @@
     <loc>https://cosmos.ucmerced.edu/admitted-students/what-bring</loc>
   </url>
   <url>
-    <loc>https://cosmos.ucmerced.edu/admitted-students/student-conduct</loc>
-  </url>
-  <url>
     <loc>https://cosmos.ucmerced.edu/admitted-students/guidlines-living-together</loc>
   </url>
   <url>
@@ -113,5 +110,8 @@
   </url>
   <url>
     <loc>https://cosmos.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://cosmos.ucmerced.edu/admitted-students/student-conduct</loc>
   </url>
 </urlset>

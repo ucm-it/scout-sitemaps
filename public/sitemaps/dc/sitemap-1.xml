@@ -70,9 +70,6 @@
     <loc>https://dc.ucmerced.edu/projects/academic-research-buildings/science-and-engineering-2</loc>
   </url>
   <url>
-    <loc>https://dc.ucmerced.edu/projects/academic-research-buildings/social-sciences-and-management-building</loc>
-  </url>
-  <url>
     <loc>https://dc.ucmerced.edu/projects/academic-research-buildings/student-services-building</loc>
   </url>
   <url>
@@ -92,9 +89,6 @@
   </url>
   <url>
     <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/early-childhood-education-center</loc>
-  </url>
-  <url>
-    <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/el-portal-residence-hall</loc>
   </url>
   <url>
     <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/gallo-recreation-and-wellness-center</loc>
@@ -164,6 +158,12 @@
   </url>
   <url>
     <loc>https://dc.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/academic-research-buildings/social-sciences-and-management-building</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/el-portal-residence-hall</loc>
   </url>
   <url>
     <loc>https://dc.ucmerced.edu/sites/g/files/ufvvjh706/f/page/documents/construction-contracting-table.pdf</loc>

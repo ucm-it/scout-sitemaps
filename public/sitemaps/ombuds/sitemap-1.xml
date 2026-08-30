@@ -43,9 +43,6 @@
     <loc>https://ombuds.ucmerced.edu/office-information/ombuds-staff</loc>
   </url>
   <url>
-    <loc>https://ombuds.ucmerced.edu/office-information/appointments</loc>
-  </url>
-  <url>
     <loc>https://ombuds.ucmerced.edu/office-information/contact-us</loc>
   </url>
   <url>
@@ -82,13 +79,13 @@
     <loc>https://ombuds.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>https://ombuds.ucmerced.edu/office-information/appointments</loc>
+  </url>
+  <url>
     <loc>https://ombuds.ucmerced.edu/resources/ombuds-trainings</loc>
   </url>
   <url>
     <loc>https://ombuds.ucmerced.edu/sites/ombuds.ucmerced.edu/files/page/documents/ucmerced._agreement-to-mediate.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ombuds.ucmerced.edu/sites/ombuds.ucmerced.edu/files/page/documents/ombuds_flowchart_v2_12-21-2021.pdf</loc>
   </url>
   <url>
     <loc>https://ombuds.ucmerced.edu/sites/ombuds.ucmerced.edu/files/page/documents/ucm_office_of_ombuds_services_charter_-_signed.pdf</loc>
@@ -167,5 +164,8 @@
   </url>
   <url>
     <loc>https://ombuds.ucmerced.edu/content/what-dispute-resolution</loc>
+  </url>
+  <url>
+    <loc>https://ombuds.ucmerced.edu/sites/ombuds.ucmerced.edu/files/page/documents/ombuds_flowchart_v2_12-21-2021.pdf</loc>
   </url>
 </urlset>

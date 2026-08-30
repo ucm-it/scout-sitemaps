@@ -22,12 +22,12 @@
     <loc>https://uccs.ucmerced.edu/form/student-interest-list</loc>
   </url>
   <url>
-    <loc>https://uccs.ucmerced.edu/contact-us-0</loc>
-  </url>
-  <url>
     <loc>https://uccs.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
     <loc>https://uccs.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://uccs.ucmerced.edu/contact-us-0</loc>
   </url>
 </urlset>

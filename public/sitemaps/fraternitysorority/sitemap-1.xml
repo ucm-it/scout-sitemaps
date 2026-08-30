@@ -19,9 +19,6 @@
     <loc>https://fraternitysorority.ucmerced.edu/about/meet-staff</loc>
   </url>
   <url>
-    <loc>https://fraternitysorority.ucmerced.edu/form/contact-us</loc>
-  </url>
-  <url>
     <loc>https://fraternitysorority.ucmerced.edu/chapters-councils</loc>
   </url>
   <url>
@@ -80,9 +77,6 @@
   </url>
   <url>
     <loc>https://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/sorority-chapters/sigma-theta-psi</loc>
-  </url>
-  <url>
-    <loc>https://fraternitysorority.ucmerced.edu/who-we-are/social-greek-chapters/expansion-chapters</loc>
   </url>
   <url>
     <loc>https://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fsc-executive-board</loc>
@@ -227,6 +221,12 @@
   </url>
   <url>
     <loc>https://fraternitysorority.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://fraternitysorority.ucmerced.edu/form/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://fraternitysorority.ucmerced.edu/who-we-are/social-greek-chapters/expansion-chapters</loc>
   </url>
   <url>
     <loc>http://fraternitysorority.ucmerced.edu/about</loc>
@@ -514,12 +514,6 @@
     <loc>https://fraternitysorority.ucmerced.edu/who-we-are/social-greek-chapters/expansion-chapters/delta-sigma-theta</loc>
   </url>
   <url>
-    <loc>https://fraternitysorority.ucmerced.edu/how-join/expansion-forming-new-chapters/nphc-expansion</loc>
-  </url>
-  <url>
-    <loc>https://fraternitysorority.ucmerced.edu/how-join/upcoming-recruitment</loc>
-  </url>
-  <url>
     <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/pfc_master_budget_19-20_finished.xlsx</loc>
   </url>
   <url>
@@ -584,6 +578,9 @@
   </url>
   <url>
     <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/pnm_rights_and_responsibilities_2018_0.docx</loc>
+  </url>
+  <url>
+    <loc>https://fraternitysorority.ucmerced.edu/how-join/expansion-forming-new-chapters/nphc-expansion</loc>
   </url>
   <url>
     <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/letter_to_community_02.13.20.pdf</loc>
@@ -1013,6 +1010,9 @@
   </url>
   <url>
     <loc>https://fraternitysorority.ucmerced.edu/news/2023/fraternity-and-sorority-members-sharing-their-experiences</loc>
+  </url>
+  <url>
+    <loc>https://fraternitysorority.ucmerced.edu/how-join/upcoming-recruitment</loc>
   </url>
   <url>
     <loc>http://fraternitysorority.ucmerced.edu/news/2023/fraternity-and-sorority-members-sharing-their-experiences</loc>

@@ -25,9 +25,6 @@
     <loc>https://studentsuccess.ucmerced.edu/resources/assessment</loc>
   </url>
   <url>
-    <loc>https://studentsuccess.ucmerced.edu/resources/presentations</loc>
-  </url>
-  <url>
     <loc>https://studentsuccess.ucmerced.edu/resources/readings</loc>
   </url>
   <url>
@@ -35,6 +32,9 @@
   </url>
   <url>
     <loc>https://studentsuccess.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://studentsuccess.ucmerced.edu/resources/presentations</loc>
   </url>
   <url>
     <loc>http://studentsuccess.ucmerced.edu/</loc>

@@ -64,9 +64,6 @@
     <loc>https://policies.ucmerced.edu/policy-development-tools/policy-reviews</loc>
   </url>
   <url>
-    <loc>https://policies.ucmerced.edu/cyclical-review</loc>
-  </url>
-  <url>
     <loc>https://policies.ucmerced.edu/revision-steps</loc>
   </url>
   <url>
@@ -86,6 +83,9 @@
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/cyclical-review</loc>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/policies/alpr_info_systems.pdf</loc>
@@ -566,6 +566,9 @@
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/delegations/mda233.pdf</loc>
+  </url>
+  <url>
+    <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/delegations/mda234.pdf</loc>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/sites/g/files/ufvvjh1451/f/documents/owners-writers_policy_dev_steps.pdf</loc>

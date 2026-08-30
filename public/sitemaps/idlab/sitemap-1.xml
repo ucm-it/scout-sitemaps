@@ -13,16 +13,10 @@
     <loc>https://idlab.ucmerced.edu/about-us/students</loc>
   </url>
   <url>
-    <loc>https://idlab.ucmerced.edu/about-us/prospective-graduate-students</loc>
-  </url>
-  <url>
     <loc>https://idlab.ucmerced.edu/CurrentResearchStudies</loc>
   </url>
   <url>
     <loc>https://idlab.ucmerced.edu/research/publications</loc>
-  </url>
-  <url>
-    <loc>https://idlab.ucmerced.edu/id%20Lab%20People</loc>
   </url>
   <url>
     <loc>https://idlab.ucmerced.edu/node/17</loc>
@@ -56,6 +50,12 @@
   </url>
   <url>
     <loc>https://idlab.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://idlab.ucmerced.edu/about-us/prospective-graduate-students</loc>
+  </url>
+  <url>
+    <loc>https://idlab.ucmerced.edu/id%20Lab%20People</loc>
   </url>
   <url>
     <loc>https://idlab.ucmerced.edu/sites/idlab.ucmerced.edu/files/page/documents/walle_dukes_samson_in_press.pdf</loc>

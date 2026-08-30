@@ -16,9 +16,6 @@
     <loc>https://phds.ucmerced.edu/about/phds-lab-space/room-reservations</loc>
   </url>
   <url>
-    <loc>https://phds.ucmerced.edu/about/phds-lab-space/user-responsibilities</loc>
-  </url>
-  <url>
     <loc>https://phds.ucmerced.edu/about/mission</loc>
   </url>
   <url>
@@ -119,6 +116,9 @@
   </url>
   <url>
     <loc>https://phds.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://phds.ucmerced.edu/about/phds-lab-space/user-responsibilities</loc>
   </url>
   <url>
     <loc>https://phds.ucmerced.edu/form/phds-room-reservation-form</loc>

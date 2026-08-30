@@ -130,16 +130,19 @@
     <loc>https://gasp.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>https://gasp.ucmerced.edu/news/2026/school-social-sciences-humanities-and-arts-faculty-named-five-endowed-chairs</loc>
+  </url>
+  <url>
     <loc>https://gasp.ucmerced.edu/news/2026/all-faculty-rock-band-cuts-album-uc-merced-recording-studio</loc>
   </url>
   <url>
     <loc>https://gasp.ucmerced.edu/news/2026/exhibit-traces-heartbeat-merced-through-sound</loc>
   </url>
   <url>
-    <loc>https://gasp.ucmerced.edu/news/2025/uc-merced-arts-opens-season-east-la-band-las-cafeteras</loc>
+    <loc>https://gasp.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://gasp.ucmerced.edu/contact-us</loc>
+    <loc>https://gasp.ucmerced.edu/news/2025/uc-merced-arts-opens-season-east-la-band-las-cafeteras</loc>
   </url>
   <url>
     <loc>https://gasp.ucmerced.edu/news/2025/writer-residence-mark-arax-chronicles-californias-lifeblood-water</loc>
@@ -160,9 +163,6 @@
     <loc>https://gasp.ucmerced.edu/news/2024/uc-merced-curates-sweeping-chicano-art-exhibit-3-galleries</loc>
   </url>
   <url>
-    <loc>https://gasp.ucmerced.edu/news/2024/enthusiasm-high-debut-environmental-humanities-major</loc>
-  </url>
-  <url>
     <loc>https://gasp.ucmerced.edu/news?page=1</loc>
   </url>
   <url>
@@ -178,13 +178,16 @@
     <loc>https://gasp.ucmerced.edu/sites/gasp.ucmerced.edu/files/images/441015643_760563219547715_1236939387303366397_n.jpg</loc>
   </url>
   <url>
-    <loc>https://gasp.ucmerced.edu/media-contact/jody-murray</loc>
-  </url>
-  <url>
     <loc>https://gasp.ucmerced.edu/media-contact/alyssa-johansen</loc>
   </url>
   <url>
+    <loc>https://gasp.ucmerced.edu/media-contact/jody-murray</loc>
+  </url>
+  <url>
     <loc>https://gasp.ucmerced.edu/media-contact/patty-guerra</loc>
+  </url>
+  <url>
+    <loc>https://gasp.ucmerced.edu/news/2024/enthusiasm-high-debut-environmental-humanities-major</loc>
   </url>
   <url>
     <loc>https://gasp.ucmerced.edu/news/2024/free-performance-takes-opera-down-farm</loc>
@@ -298,10 +301,10 @@
     <loc>https://gasp.ucmerced.edu/news/2018/multidisciplinarity-and-reference-solution-inward-focused-approaches-music-composition-dr</loc>
   </url>
   <url>
-    <loc>https://gasp.ucmerced.edu/taxonomy/term/541/feed</loc>
+    <loc>https://gasp.ucmerced.edu/taxonomy/term/531/feed</loc>
   </url>
   <url>
-    <loc>https://gasp.ucmerced.edu/taxonomy/term/531/feed</loc>
+    <loc>https://gasp.ucmerced.edu/taxonomy/term/541/feed</loc>
   </url>
   <url>
     <loc>https://gasp.ucmerced.edu/taxonomy/term/781/feed</loc>

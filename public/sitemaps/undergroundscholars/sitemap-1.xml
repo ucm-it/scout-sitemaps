@@ -19,9 +19,6 @@
     <loc>https://undergroundscholars.ucmerced.edu/Benfits</loc>
   </url>
   <url>
-    <loc>https://undergroundscholars.ucmerced.edu/benefits/emergency-funds</loc>
-  </url>
-  <url>
     <loc>https://undergroundscholars.ucmerced.edu/form/student-success-funds</loc>
   </url>
   <url>
@@ -29,5 +26,8 @@
   </url>
   <url>
     <loc>https://undergroundscholars.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://undergroundscholars.ucmerced.edu/benefits/emergency-funds</loc>
   </url>
 </urlset>

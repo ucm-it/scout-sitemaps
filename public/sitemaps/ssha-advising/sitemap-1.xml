@@ -16,9 +16,6 @@
     <loc>https://ssha-advising.ucmerced.edu/about/ssha-peer-navigator-program</loc>
   </url>
   <url>
-    <loc>https://ssha-advising.ucmerced.edu/about/our-ssha-peer-navigators</loc>
-  </url>
-  <url>
     <loc>https://ssha-advising.ucmerced.edu/meet-your-advisor</loc>
   </url>
   <url>
@@ -88,7 +85,7 @@
     <loc>https://ssha-advising.ucmerced.edu/students/ssha-majors/literatures-cultures</loc>
   </url>
   <url>
-    <loc>https://ssha-advising.ucmerced.edu/students/ssha-majors/english</loc>
+    <loc>https://ssha-advising.ucmerced.edu/students/ssha-majors/literatures-english-0</loc>
   </url>
   <url>
     <loc>https://ssha-advising.ucmerced.edu/students/ssha-majors/management</loc>
@@ -202,9 +199,6 @@
     <loc>https://ssha-advising.ucmerced.edu/students/study-abroad</loc>
   </url>
   <url>
-    <loc>https://ssha-advising.ucmerced.edu/students/world-language-placement-guidelines</loc>
-  </url>
-  <url>
     <loc>https://ssha-advising.ucmerced.edu/pre-health</loc>
   </url>
   <url>
@@ -224,21 +218,6 @@
   </url>
   <url>
     <loc>https://ssha-advising.ucmerced.edu/events</loc>
-  </url>
-  <url>
-    <loc>https://ssha-advising.ucmerced.edu/events/ssha-open-house-event-fall-2023</loc>
-  </url>
-  <url>
-    <loc>https://ssha-advising.ucmerced.edu/events/ssha-open-house-fall-2022</loc>
-  </url>
-  <url>
-    <loc>https://ssha-advising.ucmerced.edu/events/ssha-open-house-fall-2022/ssha-virtual-open-house-videos-fall-2021</loc>
-  </url>
-  <url>
-    <loc>https://ssha-advising.ucmerced.edu/events/ssha-open-house-fall-2024</loc>
-  </url>
-  <url>
-    <loc>https://ssha-advising.ucmerced.edu/events/ssha-open-house-fall-2025</loc>
   </url>
   <url>
     <loc>https://ssha-advising.ucmerced.edu/ssha-transfer-students</loc>
@@ -287,6 +266,9 @@
   </url>
   <url>
     <loc>https://ssha-advising.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://ssha-advising.ucmerced.edu/about/our-ssha-peer-navigators</loc>
   </url>
   <url>
     <loc>https://ssha-advising.ucmerced.edu/policies-and-guidelines/graduation-and-commencement</loc>
@@ -1658,9 +1640,6 @@
   </url>
   <url>
     <loc>https://ssha-advising.ucmerced.edu/events/presidents-day-campus-closed</loc>
-  </url>
-  <url>
-    <loc>https://ssha-advising.ucmerced.edu/sites/ssha-advising.ucmerced.edu/files/page/documents/ssha_academic_advising_fall_2023_open_house_presentation_pdf_0.pdf</loc>
   </url>
   <url>
     <loc>https://ssha-advising.ucmerced.edu/sites/g/files/ufvvjh2121/f/page/documents/ssha_graduation_planning_document_1.pdf</loc>

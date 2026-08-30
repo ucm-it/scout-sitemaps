@@ -13,9 +13,6 @@
     <loc>https://gsa.ucmerced.edu/about-us/current-officers</loc>
   </url>
   <url>
-    <loc>https://gsa.ucmerced.edu/about-us/current-executive-officers/past-executive-officers</loc>
-  </url>
-  <url>
     <loc>https://gsa.ucmerced.edu/about-us/current-delegates</loc>
   </url>
   <url>
@@ -47,9 +44,6 @@
   </url>
   <url>
     <loc>https://gsa.ucmerced.edu/funding/sponsored-event-fund</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/form/sponsored-event-fund-application</loc>
   </url>
   <url>
     <loc>https://gsa.ucmerced.edu/funding/GSO-fund</loc>
@@ -161,6 +155,12 @@
   </url>
   <url>
     <loc>https://gsa.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/about-us/current-executive-officers/past-executive-officers</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/form/sponsored-event-fund-application</loc>
   </url>
   <url>
     <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/Constitution_Bylaws/gsa_constitution_2024_spring.pdf</loc>
@@ -1822,6 +1822,9 @@
     <loc>https://gsa.ucmerced.edu/news/2017/delegate-assembly-meeting</loc>
   </url>
   <url>
+    <loc>https://gsa.ucmerced.edu/news/2017/time-and-place-change-executive-council-meeting-111</loc>
+  </url>
+  <url>
     <loc>https://gsa.ucmerced.edu/news/2017/gsa-executive-council-meeting-111</loc>
   </url>
   <url>
@@ -2483,6 +2486,9 @@
   </url>
   <url>
     <loc>http://gsa.ucmerced.edu/news/2017/delegate-assembly-meeting</loc>
+  </url>
+  <url>
+    <loc>http://gsa.ucmerced.edu/news/2017/time-and-place-change-executive-council-meeting-111</loc>
   </url>
   <url>
     <loc>http://gsa.ucmerced.edu/news/2017/gsa-executive-council-meeting-111</loc>

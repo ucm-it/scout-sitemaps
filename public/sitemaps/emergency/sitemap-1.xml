@@ -58,9 +58,6 @@
     <loc>https://emergency.ucmerced.edu/Natural_Disasters</loc>
   </url>
   <url>
-    <loc>https://emergency.ucmerced.edu/plans-procedures/earthquake-preparedness</loc>
-  </url>
-  <url>
     <loc>https://emergency.ucmerced.edu/staying-healthy</loc>
   </url>
   <url>
@@ -80,6 +77,9 @@
   </url>
   <url>
     <loc>https://emergency.ucmerced.edu/about%20us</loc>
+  </url>
+  <url>
+    <loc>https://emergency.ucmerced.edu/plans-procedures/earthquake-preparedness</loc>
   </url>
   <url>
     <loc>https://emergency.ucmerced.edu/sites/emergency.ucmerced.edu/files/documents/51654_univ_of_ca_merced_wallchart.pdf</loc>

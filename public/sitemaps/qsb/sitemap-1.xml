@@ -52,9 +52,6 @@
     <loc>https://qsb.ucmerced.edu/current-students</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/registration</loc>
-  </url>
-  <url>
     <loc>https://qsb.ucmerced.edu/current-students/courses</loc>
   </url>
   <url>
@@ -68,9 +65,6 @@
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/current-students/qualifying-exam</loc>
-  </url>
-  <url>
-    <loc>https://qsb.ucmerced.edu/current-students/master%E2%80%99s-along-way</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/current-students/thesis-defense-graduation-resources</loc>
@@ -149,6 +143,12 @@
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/news/2026/three-uc-merced-students-receive-fellowships-supporting-future-faculty</loc>
+  </url>
+  <url>
+    <loc>https://qsb.ucmerced.edu/registration</loc>
+  </url>
+  <url>
+    <loc>https://qsb.ucmerced.edu/current-students/master%E2%80%99s-along-way</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/who-we-are/previous-service</loc>
@@ -394,10 +394,10 @@
     <loc>https://qsb.ucmerced.edu/content/maryam-salemi</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/content/taylor-j-sanchez</loc>
+    <loc>https://qsb.ucmerced.edu/content/vanessa-sanchez</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/content/vanessa-sanchez</loc>
+    <loc>https://qsb.ucmerced.edu/content/taylor-j-sanchez</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/content/mara-schwiesow</loc>
@@ -458,6 +458,9 @@
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/taxonomy/term/1761/feed</loc>
+  </url>
+  <url>
+    <loc>https://qsb.ucmerced.edu/sites/g/files/ufvvjh1506/f/page/documents/genevieve_konopka_seminar_flyer.pdf</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/sites/g/files/ufvvjh1506/f/documents/qsb_retreat_final.pdf</loc>
@@ -667,10 +670,10 @@
     <loc>https://qsb.ucmerced.edu/news/2023/cheer-campus%E2%80%99s-10-grad-slam-finalists-april-10</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
+    <loc>https://qsb.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
+    <loc>https://qsb.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/news/2023/student-researchers-working-national-lab-mercury-remediation</loc>
@@ -802,10 +805,10 @@
     <loc>https://qsb.ucmerced.edu/news/2015/fellowship-funds-undergrad%E2%80%99s-research-biofilms</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/news/2015/professor-helps-identify-new-giant-galapagos-tortoise-species-0</loc>
+    <loc>https://qsb.ucmerced.edu/news/2015/professor-helps-identify-new-giant-galapagos-tortoise-species</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/news/2015/professor-helps-identify-new-giant-galapagos-tortoise-species</loc>
+    <loc>https://qsb.ucmerced.edu/news/2015/professor-helps-identify-new-giant-galapagos-tortoise-species-0</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/news/2015/event-connects-high-school-girls-female-scientists-0</loc>
@@ -1450,9 +1453,6 @@
     <loc>https://qsb.ucmerced.edu/news/2020/breakthrough-stem-cell-research-first-image-niche-environment</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/news/2020/breakthrough-stem-cell-research-first-image-niche-environment-0</loc>
-  </url>
-  <url>
     <loc>https://qsb.ucmerced.edu/news/2019/new-study-shows-patchy-resources-drove-evolutionary-changes-body-size</loc>
   </url>
   <url>
@@ -1511,9 +1511,6 @@
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/news/2019/grad%E2%80%99s-passion-research-leading-her-dartmouth-college</loc>
-  </url>
-  <url>
-    <loc>https://qsb.ucmerced.edu/news/2019/ennis-receives-prestigious-nih-fellowship-research-biofilms</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/news/2019/grad-students-vie-spot-uc-grad-slam-finals</loc>
@@ -1702,10 +1699,10 @@
     <loc>http://qsb.ucmerced.edu/content/maryam-salemi</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/content/taylor-j-sanchez</loc>
+    <loc>http://qsb.ucmerced.edu/content/vanessa-sanchez</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/content/vanessa-sanchez</loc>
+    <loc>http://qsb.ucmerced.edu/content/taylor-j-sanchez</loc>
   </url>
   <url>
     <loc>http://qsb.ucmerced.edu/content/mara-schwiesow</loc>
@@ -1933,10 +1930,10 @@
     <loc>http://qsb.ucmerced.edu/news/2023/cheer-campus%E2%80%99s-10-grad-slam-finalists-april-10</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
+    <loc>http://qsb.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
+    <loc>http://qsb.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
   </url>
   <url>
     <loc>http://qsb.ucmerced.edu/news/2023/student-researchers-working-national-lab-mercury-remediation</loc>
@@ -2068,10 +2065,10 @@
     <loc>http://qsb.ucmerced.edu/news/2015/fellowship-funds-undergrad%E2%80%99s-research-biofilms</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/news/2015/professor-helps-identify-new-giant-galapagos-tortoise-species-0</loc>
+    <loc>http://qsb.ucmerced.edu/news/2015/professor-helps-identify-new-giant-galapagos-tortoise-species</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/news/2015/professor-helps-identify-new-giant-galapagos-tortoise-species</loc>
+    <loc>http://qsb.ucmerced.edu/news/2015/professor-helps-identify-new-giant-galapagos-tortoise-species-0</loc>
   </url>
   <url>
     <loc>http://qsb.ucmerced.edu/news/2015/event-connects-high-school-girls-female-scientists-0</loc>
@@ -2554,9 +2551,6 @@
     <loc>http://qsb.ucmerced.edu/news/2020/breakthrough-stem-cell-research-first-image-niche-environment</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/news/2020/breakthrough-stem-cell-research-first-image-niche-environment-0</loc>
-  </url>
-  <url>
     <loc>http://qsb.ucmerced.edu/news/2019/new-study-shows-patchy-resources-drove-evolutionary-changes-body-size</loc>
   </url>
   <url>
@@ -2615,9 +2609,6 @@
   </url>
   <url>
     <loc>http://qsb.ucmerced.edu/news/2019/grad%E2%80%99s-passion-research-leading-her-dartmouth-college</loc>
-  </url>
-  <url>
-    <loc>http://qsb.ucmerced.edu/news/2019/ennis-receives-prestigious-nih-fellowship-research-biofilms</loc>
   </url>
   <url>
     <loc>http://qsb.ucmerced.edu/news/2019/grad-students-vie-spot-uc-grad-slam-finals</loc>

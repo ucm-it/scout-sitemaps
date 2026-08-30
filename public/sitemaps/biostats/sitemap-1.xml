@@ -16,9 +16,6 @@
     <loc>https://biostats.ucmerced.edu/rates-policies</loc>
   </url>
   <url>
-    <loc>https://biostats.ucmerced.edu/past-clients</loc>
-  </url>
-  <url>
     <loc>https://biostats.ucmerced.edu/request-consultation</loc>
   </url>
   <url>
@@ -35,6 +32,9 @@
   </url>
   <url>
     <loc>https://biostats.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://biostats.ucmerced.edu/past-clients</loc>
   </url>
   <url>
     <loc>http://biostats.ucmerced.edu/node/14</loc>

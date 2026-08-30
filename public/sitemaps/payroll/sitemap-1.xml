@@ -19,13 +19,19 @@
     <loc>https://payroll.ucmerced.edu/our-services/workforce-onboarding-hub</loc>
   </url>
   <url>
-    <loc>https://payroll.ucmerced.edu/our-services/hcm</loc>
-  </url>
-  <url>
     <loc>https://payroll.ucmerced.edu/forms</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/forms/payroll-services-inquiry</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/kissflow-forms</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/kissflow-forms/kissflow-implementation</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/kissflow-forms/kissflow-payroll-project-faqs</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/payroll-systems</loc>
@@ -95,6 +101,9 @@
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/payroll-systems/ucpath/w-2</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/our-services/hcm</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/i-9-acceptable-documents</loc>

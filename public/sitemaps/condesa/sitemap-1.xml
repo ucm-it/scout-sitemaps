@@ -43,9 +43,6 @@
     <loc>https://condesa.ucmerced.edu/program-overview</loc>
   </url>
   <url>
-    <loc>https://condesa.ucmerced.edu/program-overview/research-core-1</loc>
-  </url>
-  <url>
     <loc>https://condesa.ucmerced.edu/program-overview/research-core-2</loc>
   </url>
   <url>
@@ -77,6 +74,9 @@
   </url>
   <url>
     <loc>https://condesa.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://condesa.ucmerced.edu/program-overview/research-core-1</loc>
   </url>
   <url>
     <loc>https://condesa.ucmerced.edu/sites/condesa.ucmerced.edu/files/documents/martinez_final_poster_1.png</loc>

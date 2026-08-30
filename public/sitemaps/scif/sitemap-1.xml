@@ -22,12 +22,6 @@
     <loc>https://scif.ucmerced.edu/cleanroom</loc>
   </url>
   <url>
-    <loc>https://scif.ucmerced.edu/rates</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/policies-sops</loc>
-  </url>
-  <url>
     <loc>https://scif.ucmerced.edu/access-training</loc>
   </url>
   <url>
@@ -50,6 +44,12 @@
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/rates</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/policies-sops</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/node/441</loc>
@@ -139,6 +139,18 @@
     <loc>https://scif.ucmerced.edu/node/546</loc>
   </url>
   <url>
+    <loc>https://scif.ucmerced.edu/node/311</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/sites/imf.ucmerced.edu/files/page/documents/ilab_uc_merced_registration_manual.pdf</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/node/421</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/node/431</loc>
+  </url>
+  <url>
     <loc>https://scif.ucmerced.edu/node/331</loc>
   </url>
   <url>
@@ -155,18 +167,6 @@
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/node/411</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/311</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/imf.ucmerced.edu/files/page/documents/ilab_uc_merced_registration_manual.pdf</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/421</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/node/431</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/documents/aurora_users_guide.pdf</loc>
@@ -343,6 +343,9 @@
     <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/sop_spin_coater.pdf</loc>
   </url>
   <url>
+    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/page/documents/scif_cytometer_training_policy.pdf</loc>
+  </url>
+  <url>
     <loc>https://scif.ucmerced.edu/node/17</loc>
   </url>
   <url>
@@ -353,9 +356,6 @@
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/node/526</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/page/documents/scif_cytometer_training_policy.pdf</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/page/documents/scif_cleanroom_training_protocol_v2.pdf</loc>

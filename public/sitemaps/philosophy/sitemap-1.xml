@@ -16,9 +16,6 @@
     <loc>https://philosophy.ucmerced.edu/courses-and-programs</loc>
   </url>
   <url>
-    <loc>https://philosophy.ucmerced.edu/research</loc>
-  </url>
-  <url>
     <loc>https://philosophy.ucmerced.edu/events</loc>
   </url>
   <url>
@@ -28,9 +25,6 @@
     <loc>https://philosophy.ucmerced.edu/after-graduation</loc>
   </url>
   <url>
-    <loc>https://philosophy.ucmerced.edu/after-graduation/career-readiness-philosophy</loc>
-  </url>
-  <url>
     <loc>https://philosophy.ucmerced.edu/after-graduation/thinking-about-graduate-school</loc>
   </url>
   <url>
@@ -38,6 +32,12 @@
   </url>
   <url>
     <loc>https://philosophy.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://philosophy.ucmerced.edu/research</loc>
+  </url>
+  <url>
+    <loc>https://philosophy.ucmerced.edu/after-graduation/career-readiness-philosophy</loc>
   </url>
   <url>
     <loc>https://philosophy.ucmerced.edu/content/hanna-kiri-gunn</loc>

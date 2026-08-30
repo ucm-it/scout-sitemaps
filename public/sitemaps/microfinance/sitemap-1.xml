@@ -16,9 +16,6 @@
     <loc>https://microfinance.ucmerced.edu/team</loc>
   </url>
   <url>
-    <loc>https://microfinance.ucmerced.edu/partners</loc>
-  </url>
-  <url>
     <loc>https://microfinance.ucmerced.edu/learning-objectives</loc>
   </url>
   <url>
@@ -44,5 +41,8 @@
   </url>
   <url>
     <loc>https://microfinance.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://microfinance.ucmerced.edu/partners</loc>
   </url>
 </urlset>

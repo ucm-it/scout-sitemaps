@@ -76,9 +76,6 @@
     <loc>https://senate.ucmerced.edu/COR</loc>
   </url>
   <url>
-    <loc>https://senate.ucmerced.edu/RCAP</loc>
-  </url>
-  <url>
     <loc>https://senate.ucmerced.edu/CRE</loc>
   </url>
   <url>
@@ -146,6 +143,9 @@
   </url>
   <url>
     <loc>https://senate.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://senate.ucmerced.edu/RCAP</loc>
   </url>
   <url>
     <loc>https://senate.ucmerced.edu/Senate_Awards_25-26</loc>
@@ -469,9 +469,6 @@
     <loc>https://senate.ucmerced.edu/node/164</loc>
   </url>
   <url>
-    <loc>https://senate.ucmerced.edu/node/2381</loc>
-  </url>
-  <url>
     <loc>https://senate.ucmerced.edu/node/5481</loc>
   </url>
   <url>
@@ -571,7 +568,7 @@
     <loc>https://senate.ucmerced.edu/sites/g/files/ufvvjh1616/f/page/documents/spring_26_committee_meetings_11.pdf</loc>
   </url>
   <url>
-    <loc>https://senate.ucmerced.edu/sites/g/files/ufvvjh1616/f/page/documents/fall_26_committee_meetings_16.pdf</loc>
+    <loc>https://senate.ucmerced.edu/sites/g/files/ufvvjh1616/f/page/documents/fall_26_committee_meetings_20.pdf</loc>
   </url>
   <url>
     <loc>https://senate.ucmerced.edu/sites/g/files/ufvvjh1616/f/page/documents/rba02-senate_consultation_final.pdf</loc>
@@ -833,6 +830,9 @@
   </url>
   <url>
     <loc>https://senate.ucmerced.edu/node/3881</loc>
+  </url>
+  <url>
+    <loc>https://senate.ucmerced.edu/node/2381</loc>
   </url>
   <url>
     <loc>https://senate.ucmerced.edu/sites/g/files/ufvvjh1616/f/page/documents/rba15-coc_fred_spiess_award_cal.pdf</loc>

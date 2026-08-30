@@ -7,16 +7,10 @@
     <loc>https://mcs.ucmerced.edu/about-mcsmist</loc>
   </url>
   <url>
-    <loc>https://mcs.ucmerced.edu/about-mcsmist/research-areas-faculty</loc>
-  </url>
-  <url>
     <loc>https://mcs.ucmerced.edu/DSA-major</loc>
   </url>
   <url>
     <loc>https://mcs.ucmerced.edu/MAD-minor</loc>
-  </url>
-  <url>
-    <loc>https://mcs.ucmerced.edu/management-ms-curriculum</loc>
   </url>
   <url>
     <loc>https://mcs.ucmerced.edu/masters-students</loc>
@@ -61,6 +55,12 @@
     <loc>https://mcs.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://mcs.ucmerced.edu/about-mcsmist/research-areas-faculty</loc>
+  </url>
+  <url>
+    <loc>https://mcs.ucmerced.edu/management-ms-curriculum</loc>
+  </url>
+  <url>
     <loc>https://mcs.ucmerced.edu/sites/g/files/ufvvjh1216/f/page/documents/soe_dsa_flyer_v2026.pdf</loc>
   </url>
   <url>
@@ -74,9 +74,6 @@
   </url>
   <url>
     <loc>https://mcs.ucmerced.edu/MAD-FAQ</loc>
-  </url>
-  <url>
-    <loc>https://mcs.ucmerced.edu/sites/g/files/ufvvjh1216/f/documents/electives_courseconcentrations_march2025.docx</loc>
   </url>
   <url>
     <loc>https://mcs.ucmerced.edu/student-achievements</loc>
@@ -154,6 +151,9 @@
     <loc>https://mcs.ucmerced.edu/news?page=2</loc>
   </url>
   <url>
+    <loc>https://mcs.ucmerced.edu/sites/g/files/ufvvjh1216/f/documents/electives_courseconcentrations_march2025.docx</loc>
+  </url>
+  <url>
     <loc>http://mcs.ucmerced.edu/news/2026/increasing-tourism-messaging-news-media-promotes-us-national-park-system-integration</loc>
   </url>
   <url>
@@ -199,10 +199,10 @@
     <loc>https://mcs.ucmerced.edu/news/2021/multi-campus-uc-wildfire-project-led-mcs-prof-kolden</loc>
   </url>
   <url>
-    <loc>https://mcs.ucmerced.edu/news/2020/mist-faculty-welcome-professor-john-abatzoglou</loc>
+    <loc>https://mcs.ucmerced.edu/news/2020/mist-faculty-welcome-professor-spencer-castro</loc>
   </url>
   <url>
-    <loc>https://mcs.ucmerced.edu/news/2020/mist-faculty-welcome-professor-spencer-castro</loc>
+    <loc>https://mcs.ucmerced.edu/news/2020/mist-faculty-welcome-professor-john-abatzoglou</loc>
   </url>
   <url>
     <loc>https://mcs.ucmerced.edu/news/2020/mist-faculty-welcome-professor-crystal-kolden</loc>
@@ -241,10 +241,10 @@
     <loc>http://mcs.ucmerced.edu/news/2021/multi-campus-uc-wildfire-project-led-mcs-prof-kolden</loc>
   </url>
   <url>
-    <loc>http://mcs.ucmerced.edu/news/2020/mist-faculty-welcome-professor-john-abatzoglou</loc>
+    <loc>http://mcs.ucmerced.edu/news/2020/mist-faculty-welcome-professor-spencer-castro</loc>
   </url>
   <url>
-    <loc>http://mcs.ucmerced.edu/news/2020/mist-faculty-welcome-professor-spencer-castro</loc>
+    <loc>http://mcs.ucmerced.edu/news/2020/mist-faculty-welcome-professor-john-abatzoglou</loc>
   </url>
   <url>
     <loc>http://mcs.ucmerced.edu/news/2020/mist-faculty-welcome-professor-crystal-kolden</loc>

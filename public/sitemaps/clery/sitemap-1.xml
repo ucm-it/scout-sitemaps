@@ -28,13 +28,7 @@
     <loc>https://clery.ucmerced.edu/reporting</loc>
   </url>
   <url>
-    <loc>https://clery.ucmerced.edu/form/csa-report-form</loc>
-  </url>
-  <url>
     <loc>https://clery.ucmerced.edu/reporting/crime-definitions</loc>
-  </url>
-  <url>
-    <loc>https://clery.ucmerced.edu/reporting/clery-geography</loc>
   </url>
   <url>
     <loc>https://clery.ucmerced.edu/notifications</loc>
@@ -71,6 +65,12 @@
   </url>
   <url>
     <loc>https://clery.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://clery.ucmerced.edu/form/csa-report-form</loc>
+  </url>
+  <url>
+    <loc>https://clery.ucmerced.edu/reporting/clery-geography</loc>
   </url>
   <url>
     <loc>https://clery.ucmerced.edu/sites/clery.ucmerced.edu/files/images/jeanne_clery_clery_center.jpg</loc>

@@ -40,9 +40,6 @@
     <loc>https://travel.ucmerced.edu/travel-entertainment/exception-policy-higher-approval</loc>
   </url>
   <url>
-    <loc>https://travel.ucmerced.edu/travel-entertainment/group-travel</loc>
-  </url>
-  <url>
     <loc>https://travel.ucmerced.edu/travel-entertainment/meals-and-lodging</loc>
   </url>
   <url>
@@ -122,6 +119,9 @@
   </url>
   <url>
     <loc>https://travel.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://travel.ucmerced.edu/travel-entertainment/group-travel</loc>
   </url>
   <url>
     <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/bus-79_bus_meetings_entertainment_updated_12.15.2022.pdf</loc>

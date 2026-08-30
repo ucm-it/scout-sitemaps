@@ -58,9 +58,6 @@
     <loc>https://rci.ucmerced.edu/node/40</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/human-subjects-protections-irb/irb-members</loc>
-  </url>
-  <url>
     <loc>https://rci.ucmerced.edu/irb/irb-members/reviewer-checklists</loc>
   </url>
   <url>
@@ -371,6 +368,9 @@
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/human-subjects-protections-irb/irb-members</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/cayuse_iacuc_-_iacuc_researcher_manual_0.pdf</loc>

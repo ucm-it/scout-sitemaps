@@ -34,9 +34,6 @@
     <loc>https://care.ucmerced.edu/resources/reporting-options</loc>
   </url>
   <url>
-    <loc>https://care.ucmerced.edu/resources/care-glossary</loc>
-  </url>
-  <url>
     <loc>https://care.ucmerced.edu/resources/faculty-and-staff</loc>
   </url>
   <url>
@@ -133,6 +130,9 @@
     <loc>https://care.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://care.ucmerced.edu/resources/care-glossary</loc>
+  </url>
+  <url>
     <loc>https://care.ucmerced.edu/content/simone-gonclaves-sheher</loc>
   </url>
   <url>
@@ -173,12 +173,6 @@
   </url>
   <url>
     <loc>https://care.ucmerced.edu/sites/g/files/ufvvjh511/f/page/documents/resources_referals_25_final.pdf</loc>
-  </url>
-  <url>
-    <loc>https://care.ucmerced.edu/sites/g/files/ufvvjh511/f/page/documents/care_glossary_english_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://care.ucmerced.edu/sites/care.ucmerced.edu/files/page/documents/glosario_de_care-spanish_.pdf</loc>
   </url>
   <url>
     <loc>https://care.ucmerced.edu/sites/care.ucmerced.edu/files/page/documents/resources_referral_options_handout_1.pdf</loc>
@@ -377,6 +371,12 @@
   </url>
   <url>
     <loc>http://care.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://care.ucmerced.edu/sites/g/files/ufvvjh511/f/page/documents/care_glossary_english_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://care.ucmerced.edu/sites/care.ucmerced.edu/files/page/documents/glosario_de_care-spanish_.pdf</loc>
   </url>
   <url>
     <loc>https://care.ucmerced.edu/sites/care.ucmerced.edu/files/documents/supporting_survivors_-_step_by_step_guide_1.pdf</loc>
