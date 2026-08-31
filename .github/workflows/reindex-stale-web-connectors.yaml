@@ -2,9 +2,9 @@ name: Reindex Stale Web Onyx Connectors
 
 on:
   schedule:
-    # Saturdays at 06:15 UTC. Offset from :00 (Restart Paused) and :30 (Reindex
+    # Daily at 06:15 UTC. Offset from :00 (Restart Paused) and :30 (Reindex
     # Failed) so the three do not fire at the same minute.
-    - cron: "15 6 * * 6"
+    - cron: "15 6 * * *"
   workflow_dispatch:
     inputs:
       environment:
