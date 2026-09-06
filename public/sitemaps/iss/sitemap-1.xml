@@ -121,9 +121,6 @@
     <loc>https://iss.ucmerced.edu/students/orientation</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/inttravel</loc>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/social-security</loc>
   </url>
   <url>
@@ -154,7 +151,13 @@
     <loc>https://iss.ucmerced.edu/visarenewal</loc>
   </url>
   <url>
+    <loc>https://iss.ucmerced.edu/professors-researchers/j-1/health-insurance</loc>
+  </url>
+  <url>
     <loc>https://iss.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/inttravel</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/summerenrollment</loc>
@@ -469,12 +472,6 @@
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/event/drivers_license1.pdf</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/node/1431</loc>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/node/1441</loc>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/node/1451</loc>
   </url>
   <url>
@@ -518,6 +515,9 @@
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/tax_scams</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/a-genrollmentform_0.pdf</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/opt_reporting_form_2024.pdf</loc>
@@ -643,9 +643,6 @@
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/j2_dependent_ds2019_request_0.pdf</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/professors-researchers/j-1/health-insurance</loc>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/english_language_proficiency_form_12.18.24.pdf</loc>
   </url>
   <url>
@@ -730,18 +727,9 @@
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/summary_of_recruitment_sources-2021.docx</loc>
   </url>
   <url>
-    <loc>https://iss.ucmerced.edu/form/duration-status-webform-staff-faculty</loc>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/form/duration-status-webform-international-students-scholars</loc>
-  </url>
-  <url>
     <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/page/documents/opt_request_form.pdf</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/stem_opt_extension_request_form_fillable.pdf</loc>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/a-genrollmentform_0.pdf</loc>
   </url>
 </urlset>

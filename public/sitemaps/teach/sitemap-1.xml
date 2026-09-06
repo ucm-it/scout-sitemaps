@@ -34,12 +34,6 @@
     <loc>https://teach.ucmerced.edu/instructional-media</loc>
   </url>
   <url>
-    <loc>https://teach.ucmerced.edu/generative-AI-syllabus</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/faculty-fellows</loc>
-  </url>
-  <url>
     <loc>https://teach.ucmerced.edu/Accessibility</loc>
   </url>
   <url>
@@ -47,6 +41,15 @@
   </url>
   <url>
     <loc>https://teach.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/generative-AI-syllabus</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/faculty-fellows</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/teacher-development</loc>
   </url>
   <url>
     <loc>https://teach.ucmerced.edu/pedagogy-guides</loc>
@@ -106,13 +109,19 @@
     <loc>https://teach.ucmerced.edu/PLA-Students</loc>
   </url>
   <url>
+    <loc>https://teach.ucmerced.edu/yuja-panorama</loc>
+  </url>
+  <url>
     <loc>https://teach.ucmerced.edu/sites/crte.ucmerced.edu/files/page/documents/ai_threats_and_opportunties_ucsd_academic_integrity_symposium_1.docx</loc>
   </url>
   <url>
     <loc>https://teach.ucmerced.edu/pedagogical-partners</loc>
   </url>
   <url>
-    <loc>https://teach.ucmerced.edu/yuja-panorama</loc>
+    <loc>https://teach.ucmerced.edu/instructor-packet</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/course-design-institute</loc>
   </url>
   <url>
     <loc>https://teach.ucmerced.edu/syllabus</loc>
@@ -301,10 +310,22 @@
     <loc>https://teach.ucmerced.edu/satal/Alumnus</loc>
   </url>
   <url>
-    <loc>https://teach.ucmerced.edu/sites/g/files/ufvvjh1831/f/page/documents/faculty_steps_to_get_started.pdf</loc>
+    <loc>https://teach.ucmerced.edu/sites/g/files/ufvvjh1831/f/page/documents/guidelines_for_working_with_las_and_tas_final.pdf</loc>
   </url>
   <url>
-    <loc>https://teach.ucmerced.edu/sites/g/files/ufvvjh1831/f/page/documents/weekly_pedagogy_meetings.pdf</loc>
+    <loc>https://teach.ucmerced.edu/sites/g/files/ufvvjh1831/f/page/documents/faculty_steps_to_get_started_v2.pdf</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/sites/g/files/ufvvjh1831/f/page/documents/weekly_preparatory_meetings.pdf</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/sites/g/files/ufvvjh1831/f/page/documents/classroom_practice_-_active_learning_resources.pdf</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/sites/g/files/ufvvjh1831/f/page/documents/lesson_plan_guide.pdf</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/sites/g/files/ufvvjh1831/f/page/documents/check-in_questions.pdf</loc>
   </url>
   <url>
     <loc>https://teach.ucmerced.edu/sites/g/files/ufvvjh1831/f/page/documents/sample_la_recruiting_letter.docx</loc>

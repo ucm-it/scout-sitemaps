@@ -94,9 +94,6 @@
     <loc>https://publichealth.ucmerced.edu/events</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/speaker-series</loc>
-  </url>
-  <url>
     <loc>https://publichealth.ucmerced.edu/nphw</loc>
   </url>
   <url>
@@ -115,19 +112,25 @@
     <loc>https://publichealth.ucmerced.edu/public-health-newsletter/alumni-field</loc>
   </url>
   <url>
+    <loc>https://publichealth.ucmerced.edu/news</loc>
+  </url>
+  <url>
+    <loc>https://publichealth.ucmerced.edu/contact</loc>
+  </url>
+  <url>
+    <loc>https://publichealth.ucmerced.edu/node/6966</loc>
+  </url>
+  <url>
     <loc>https://publichealth.ucmerced.edu/burke-2026-keynote-speaker</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>https://publichealth.ucmerced.edu/speaker-series</loc>
+  </url>
+  <url>
     <loc>https://publichealth.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://publichealth.ucmerced.edu/news</loc>
-  </url>
-  <url>
-    <loc>https://publichealth.ucmerced.edu/contact</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/sites/g/files/ufvvjh1501/f/documents/ph_2025-30_strategic_plan_v6-1.pdf</loc>
@@ -910,10 +913,10 @@
     <loc>https://publichealth.ucmerced.edu/news?page=12</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2015/project-aims-fight-breast-cancer-one-message-time-0</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2015/project-aims-fight-breast-cancer-one-message-time</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2015/project-aims-fight-breast-cancer-one-message-time</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2015/project-aims-fight-breast-cancer-one-message-time-0</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news/2015/event-connects-high-school-girls-female-scientists</loc>
@@ -1039,10 +1042,10 @@
     <loc>https://publichealth.ucmerced.edu/news/2021/research-shows-sleep-and-social-support-are-vital-latina-teen-mothers-mental-health</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2021/researchers-unraveling-mysteries-electrosensory-gel-sharks-skates</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2021/hsri-receives-12-million-research-health-impacts-vehicle-related-air-pollution</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2021/hsri-receives-12-million-research-health-impacts-vehicle-related-air-pollution</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2021/researchers-unraveling-mysteries-electrosensory-gel-sharks-skates</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news/2021/antibiotic-resistance-found-insecticides-commonly-used-california</loc>
@@ -1126,13 +1129,13 @@
     <loc>https://publichealth.ucmerced.edu/news?page=16</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2016/researcher-works-end-hiv-stigma-ethiopia-india</loc>
-  </url>
-  <url>
-    <loc>https://publichealth.ucmerced.edu/news/2016/study-home-parent-training-levels-field-low-income-kids-0</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2016/researcher-works-end-hiv-stigma-ethiopia-india-0</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news/2016/study-home-parent-training-levels-field-low-income-kids</loc>
+  </url>
+  <url>
+    <loc>https://publichealth.ucmerced.edu/news/2016/study-home-parent-training-levels-field-low-income-kids-0</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news/2016/researchers-identify-drug-could-treat-melanoma</loc>
@@ -1150,10 +1153,10 @@
     <loc>https://publichealth.ucmerced.edu/news/2015/campus-research-taking-healthy-approach</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2015/study-skewed-academic-expectations-linked-sexual-risk-0</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2015/study-skewed-academic-expectations-linked-sexual-risk</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2015/study-skewed-academic-expectations-linked-sexual-risk</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2015/study-skewed-academic-expectations-linked-sexual-risk-0</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news/2018/grad-student-erendira-estrada-awarded-thesis-year-work-public-health</loc>
@@ -1375,7 +1378,7 @@
     <loc>https://publichealth.ucmerced.edu/news/2016/gradslam-champion-research-personal</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2016/researcher-works-end-hiv-stigma-ethiopia-india-0</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2016/researcher-works-end-hiv-stigma-ethiopia-india</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news/2020/fellowship-advances-student%E2%80%99s-research-arab-american-smoking-behaviors</loc>
@@ -1597,10 +1600,10 @@
     <loc>https://publichealth.ucmerced.edu/news/2020/public-health-phd-student-presents-research-sacnas</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2020/public-conference-presents-covid-19-different-angles</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2020/activate-bringing-telehealth-services-vulnerable-merced-county-residents</loc>
   </url>
   <url>
-    <loc>https://publichealth.ucmerced.edu/news/2020/activate-bringing-telehealth-services-vulnerable-merced-county-residents</loc>
+    <loc>https://publichealth.ucmerced.edu/news/2020/public-conference-presents-covid-19-different-angles</loc>
   </url>
   <url>
     <loc>https://publichealth.ucmerced.edu/news/2020/effective-communication-key-follow-care</loc>
@@ -1910,9 +1913,6 @@
   </url>
   <url>
     <loc>http://publichealth.ucmerced.edu/content/lamecia-ward</loc>
-  </url>
-  <url>
-    <loc>http://publichealth.ucmerced.edu/content/guilherme-zamperlin-redondo</loc>
   </url>
   <url>
     <loc>http://publichealth.ucmerced.edu/events/nphw-game-day-picnic</loc>

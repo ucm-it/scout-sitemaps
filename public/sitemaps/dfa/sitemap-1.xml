@@ -91,9 +91,6 @@
     <loc>https://dfa.ucmerced.edu/news/tag-oracle</loc>
   </url>
   <url>
-    <loc>https://dfa.ucmerced.edu/news/2025/ucm-plan-enhancement-now-live-%E2%80%93-key-resources-support</loc>
-  </url>
-  <url>
     <loc>https://dfa.ucmerced.edu/news/2024/updated-guidance-function-76-function-80-agency-funds</loc>
   </url>
   <url>
@@ -544,7 +541,7 @@
     <loc>https://dfa.ucmerced.edu/news/2026/dfa-leadership-update-financial-accounting-services</loc>
   </url>
   <url>
-    <loc>https://dfa.ucmerced.edu/UCMPlanEnhancement</loc>
+    <loc>https://dfa.ucmerced.edu/news/2025/ucm-plan-enhancement-now-live-%E2%80%93-key-resources-support</loc>
   </url>
   <url>
     <loc>https://dfa.ucmerced.edu/news/2024/bobcatbuy-launch-and-trainings</loc>
@@ -559,16 +556,16 @@
     <loc>https://dfa.ucmerced.edu/news/2024/financial-management-and-reporting-update</loc>
   </url>
   <url>
-    <loc>https://dfa.ucmerced.edu/news/2024/enhancing-efficiency-simplifying-chart-string-selection</loc>
-  </url>
-  <url>
     <loc>https://dfa.ucmerced.edu/news/2024/ucm-plan-migration-complete-update-access-links</loc>
   </url>
   <url>
-    <loc>https://dfa.ucmerced.edu/news/2024/ucm-plan-migrating-epbcs-new-oracle-epm-license-environment-april-27-weekend</loc>
+    <loc>https://dfa.ucmerced.edu/news/2024/enhancing-efficiency-simplifying-chart-string-selection</loc>
   </url>
   <url>
     <loc>https://dfa.ucmerced.edu/news/2024/oit-office-hours-departmental-financial-analysts</loc>
+  </url>
+  <url>
+    <loc>https://dfa.ucmerced.edu/news/2024/ucm-plan-migrating-epbcs-new-oracle-epm-license-environment-april-27-weekend</loc>
   </url>
   <url>
     <loc>https://dfa.ucmerced.edu/news/2024/new-oracle-user-interface-launch-summer</loc>
@@ -608,6 +605,9 @@
   </url>
   <url>
     <loc>https://dfa.ucmerced.edu/news/2020/covid-19-position-control-and-fiscal-responsibility-guidelines</loc>
+  </url>
+  <url>
+    <loc>https://dfa.ucmerced.edu/UCMPlanEnhancement</loc>
   </url>
   <url>
     <loc>https://dfa.ucmerced.edu/news/2024/end-semester-employee-separations</loc>
@@ -694,27 +694,6 @@
     <loc>https://dfa.ucmerced.edu/strategic-plan</loc>
   </url>
   <url>
-    <loc>https://dfa.ucmerced.edu/news/2025/ucm-plan-enhancement-project-updates-advisories</loc>
-  </url>
-  <url>
-    <loc>https://dfa.ucmerced.edu/news/2025/ucm-plan-enhancement-project-preparation-friday-321-go-live</loc>
-  </url>
-  <url>
-    <loc>https://dfa.ucmerced.edu/news/2025/training-reminder-access-requests-budget-submission-deadline</loc>
-  </url>
-  <url>
-    <loc>https://dfa.ucmerced.edu/news/2025/ucm-plan-enhancement-project-training-updates-upcoming-dates</loc>
-  </url>
-  <url>
-    <loc>https://dfa.ucmerced.edu/news/2025/ucm-plan-enhancement-project-february-latest-developments</loc>
-  </url>
-  <url>
-    <loc>https://dfa.ucmerced.edu/news/2025/ucm-plan-enhancement-project-administrative-staff-information-and-updates</loc>
-  </url>
-  <url>
-    <loc>https://dfa.ucmerced.edu/news/2025/ucm-plan-enhancement-project-research-administrator-information-and-updates</loc>
-  </url>
-  <url>
     <loc>https://dfa.ucmerced.edu/news/2024/improving-financial-management-and-reporting-task-force-update-0</loc>
   </url>
   <url>
@@ -724,10 +703,10 @@
     <loc>https://dfa.ucmerced.edu/news/2022/research-newsletter-updates-1028-114</loc>
   </url>
   <url>
-    <loc>https://dfa.ucmerced.edu/news/2022/research-newsletter-report-101422</loc>
+    <loc>https://dfa.ucmerced.edu/news/2022/research-newsletter-report-10722</loc>
   </url>
   <url>
-    <loc>https://dfa.ucmerced.edu/news/2022/research-newsletter-report-10722</loc>
+    <loc>https://dfa.ucmerced.edu/news/2022/research-newsletter-report-101422</loc>
   </url>
   <url>
     <loc>https://dfa.ucmerced.edu/news/2022/research-newsletter-report-93022</loc>
@@ -790,6 +769,9 @@
     <loc>https://dfa.ucmerced.edu/news/2022/research-newsletter-report-may-6-2022</loc>
   </url>
   <url>
+    <loc>https://dfa.ucmerced.edu/news/2022/update-ensures-transactions-have-poet-info-heres-how-it-works</loc>
+  </url>
+  <url>
     <loc>https://dfa.ucmerced.edu/news/2022/ucm-plan-data-issue-resolved</loc>
   </url>
   <url>
@@ -809,6 +791,27 @@
   </url>
   <url>
     <loc>https://dfa.ucmerced.edu/DFASnowQA</loc>
+  </url>
+  <url>
+    <loc>https://dfa.ucmerced.edu/news/2025/ucm-plan-enhancement-project-updates-advisories</loc>
+  </url>
+  <url>
+    <loc>https://dfa.ucmerced.edu/news/2025/ucm-plan-enhancement-project-preparation-friday-321-go-live</loc>
+  </url>
+  <url>
+    <loc>https://dfa.ucmerced.edu/news/2025/training-reminder-access-requests-budget-submission-deadline</loc>
+  </url>
+  <url>
+    <loc>https://dfa.ucmerced.edu/news/2025/ucm-plan-enhancement-project-training-updates-upcoming-dates</loc>
+  </url>
+  <url>
+    <loc>https://dfa.ucmerced.edu/news/2025/ucm-plan-enhancement-project-february-latest-developments</loc>
+  </url>
+  <url>
+    <loc>https://dfa.ucmerced.edu/news/2025/ucm-plan-enhancement-project-administrative-staff-information-and-updates</loc>
+  </url>
+  <url>
+    <loc>https://dfa.ucmerced.edu/news/2025/ucm-plan-enhancement-project-research-administrator-information-and-updates</loc>
   </url>
   <url>
     <loc>https://dfa.ucmerced.edu/news/2024/enhanced-planning-and-budgeting-module</loc>

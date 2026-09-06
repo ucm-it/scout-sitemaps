@@ -25,12 +25,6 @@
     <loc>https://appliedmath.ucmerced.edu/lecturers</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/affiliated_researchers</loc>
-  </url>
-  <url>
-    <loc>https://appliedmath.ucmerced.edu/postdocs_and_VAPs</loc>
-  </url>
-  <url>
     <loc>https://appliedmath.ucmerced.edu/graduate-students</loc>
   </url>
   <url>
@@ -44,9 +38,6 @@
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/faculty-research-areas</loc>
-  </url>
-  <url>
-    <loc>https://appliedmath.ucmerced.edu/RTGmain</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/RTGEE</loc>
@@ -241,10 +232,19 @@
     <loc>https://appliedmath.ucmerced.edu/apply</loc>
   </url>
   <url>
+    <loc>https://appliedmath.ucmerced.edu/news/2026/welcome-first-year-and-new-transfer-applied-mathematics-students</loc>
+  </url>
+  <url>
     <loc>https://appliedmath.ucmerced.edu/node/16866</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/events/applied-mathematics-coffee-hour-36</loc>
+    <loc>https://appliedmath.ucmerced.edu/affiliated_researchers</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/postdocs_and_VAPs</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/RTGmain</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/form/contact-graduate-admissions-committee</loc>
@@ -341,12 +341,6 @@
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/julio-zepeda</loc>
-  </url>
-  <url>
-    <loc>https://appliedmath.ucmerced.edu/previous_visiting_assistant_professors</loc>
-  </url>
-  <url>
-    <loc>https://appliedmath.ucmerced.edu/previous_postdocs</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/saleha-begum</loc>
@@ -538,10 +532,10 @@
     <loc>https://appliedmath.ucmerced.edu/content/li-hsuan-huang</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/content/asees-kaur</loc>
+    <loc>https://appliedmath.ucmerced.edu/content/amandeep-kaur</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/content/amandeep-kaur</loc>
+    <loc>https://appliedmath.ucmerced.edu/content/asees-kaur</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/anna-kucherova</loc>
@@ -701,9 +695,6 @@
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/083021_chrysoulatsogka_faculty.pdf</loc>
-  </url>
-  <url>
-    <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/dirac_summer_research_flyer_1.pdf</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/math011_syllabus.pdf</loc>
@@ -1396,6 +1387,9 @@
     <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/prelim_calculus_2025_jan.pdf</loc>
   </url>
   <url>
+    <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/prelim_calc_2026_jan.pdf</loc>
+  </url>
+  <url>
     <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/documents/prelimexam/prelim_ode_2007.pdf</loc>
   </url>
   <url>
@@ -1451,6 +1445,9 @@
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/prelim_ode_2025_jan.pdf</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/prelim_ode_2026_jan.pdf</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/documents/prelimexam/prelim_linalg_2007.pdf</loc>
@@ -1510,10 +1507,19 @@
     <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/prelim_linalg_2025_jan.pdf</loc>
   </url>
   <url>
+    <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/prelim_linalg_2026_jan.pdf</loc>
+  </url>
+  <url>
     <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/documents/am_qe_rubric.pdf</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/documents/am_dissertation_and_defense_rubric.pdf</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/documents/flyer_sept10_leok.pdf</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/documents/flyer_sept_24_charalampidis.png.pdf</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/documents/colloquium_flyer_thomas_strohmer_2.19.26.png</loc>
@@ -1642,9 +1648,6 @@
     <loc>https://appliedmath.ucmerced.edu/graduate/siam/2013-2014</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/news/2026/welcome-first-year-and-new-transfer-applied-mathematics-students</loc>
-  </url>
-  <url>
     <loc>https://appliedmath.ucmerced.edu/news/2026/uc-merced-talent-finds-its-future-national-lab-research</loc>
   </url>
   <url>
@@ -1697,6 +1700,9 @@
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/news?page=14</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/events/applied-mathematics-coffee-hour-36</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/events/applied-mathematics-colloquium-dr-jennifer-mueller</loc>
@@ -3970,10 +3976,10 @@
     <loc>https://appliedmath.ucmerced.edu/events/coffee-and-tea-time-8</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/events/office-hours-graduate-students-3</loc>
+    <loc>https://appliedmath.ucmerced.edu/events/computing-skills-workshop</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/events/computing-skills-workshop</loc>
+    <loc>https://appliedmath.ucmerced.edu/events/office-hours-graduate-students-3</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/events/applied-math-mid-semester-reception-0</loc>
@@ -4675,10 +4681,10 @@
     <loc>https://appliedmath.ucmerced.edu/events/applied-math-seminar-zack-powell</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/events/sample-seminar-tucker-hartland-0</loc>
+    <loc>https://appliedmath.ucmerced.edu/events/fluids-seminar-bin-liu</loc>
   </url>
   <url>
-    <loc>https://appliedmath.ucmerced.edu/events/fluids-seminar-bin-liu</loc>
+    <loc>https://appliedmath.ucmerced.edu/events/sample-seminar-tucker-hartland-0</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/events/optimization-seminar-omar-deguchy-0</loc>
@@ -5273,6 +5279,15 @@
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/content/selma-strango</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/previous_visiting_assistant_professors</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/previous_postdocs</loc>
+  </url>
+  <url>
+    <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/dirac_summer_research_flyer_1.pdf</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/sites/g/files/ufvvjh381/f/page/documents/2024.09.04_approved_applied_math_pps_revised_fall2024_clean.pdf</loc>
@@ -6308,9 +6323,6 @@
   </url>
   <url>
     <loc>http://appliedmath.ucmerced.edu/apply/graduate</loc>
-  </url>
-  <url>
-    <loc>http://appliedmath.ucmerced.edu/events/applied-mathematics-coffee-hour-36</loc>
   </url>
   <url>
     <loc>https://appliedmath.ucmerced.edu/taxonomy/term/901/feed</loc>

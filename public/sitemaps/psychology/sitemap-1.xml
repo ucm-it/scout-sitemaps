@@ -199,16 +199,16 @@
     <loc>https://psychology.ucmerced.edu/content/jennifer-hahn-holbrook</loc>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/content/elif-isbell</loc>
-  </url>
-  <url>
     <loc>https://psychology.ucmerced.edu/content/jason-isbell</loc>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/content/ren-liu</loc>
+    <loc>https://psychology.ucmerced.edu/content/elif-isbell</loc>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/content/haiyan-liu</loc>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/content/ren-liu</loc>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/content/alexandra-main</loc>
@@ -382,10 +382,10 @@
     <loc>https://psychology.ucmerced.edu/news/2024/uc-merced-leads-65-million-initiative-reduce-promotion-and-tenure-bias-against-black-and</loc>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2024/following-mission-improve-valley-health-care</loc>
+    <loc>https://psychology.ucmerced.edu/news/2024/scholar-workshop-studies-genocide-several-angles</loc>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2024/scholar-workshop-studies-genocide-several-angles</loc>
+    <loc>https://psychology.ucmerced.edu/news/2024/following-mission-improve-valley-health-care</loc>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/news/2024/nicotine-and-cannabis-policy-center-gets-39-million-extension</loc>
@@ -748,10 +748,10 @@
     <loc>https://psychology.ucmerced.edu/events/developmental-psychology-seminar-kailee-zhu</loc>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/events/quantitative-seminar-ana-simoes-visualization-tools-case-and-model-diagnostics-sem</loc>
+    <loc>https://psychology.ucmerced.edu/events/health-psychology-seminar-dr-emily-little-nurterly</loc>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/events/health-psychology-seminar-dr-emily-little-nurterly</loc>
+    <loc>https://psychology.ucmerced.edu/events/quantitative-seminar-ana-simoes-visualization-tools-case-and-model-diagnostics-sem</loc>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/events/developmental-psychology-seminar-amanda-turullo-boston-university-zoom</loc>
@@ -1621,16 +1621,16 @@
     <loc>https://psychology.ucmerced.edu/news/2022/five-students-earn-nsf-graduate-research-fellowships</loc>
   </url>
   <url>
+    <loc>https://psychology.ucmerced.edu/news/2022/jan-wallanders-new-publication-linking-early-pre-dating-behavior-and-sex-initiation</loc>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/news/2022/allison-temourians-paper-published-reasons-why-dual-users-may-use-e-cigarettes-and-how</loc>
+  </url>
+  <url>
     <loc>https://psychology.ucmerced.edu/news/2022/article-co-authored-martin-hagger-was-awarded-behavioral-sciences-2020-best-paper-award</loc>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/news/2022/martin-hagger-published-article-european-journal-health-psychology-factors-associated-use</loc>
-  </url>
-  <url>
-    <loc>https://psychology.ucmerced.edu/news/2022/martin-hagger-published-article-psychology-and-health-psychology-predictors-us-parents</loc>
-  </url>
-  <url>
-    <loc>https://psychology.ucmerced.edu/news/2022/dylan-richardson-was-awarded-kavli-summer-institute-cognitive-neuroscience-fellowship</loc>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/news/2022/dylan-richardson-was-awarded-nsf-graduate-research-fellowship-1st-year-phd-student</loc>
@@ -1649,6 +1649,12 @@
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/news/2022/psychology-hosted-its-annual-1st-year-phd-student-presentations</loc>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/news/2022/martin-hagger-invited-submit-article-annual-review-psychology</loc>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/news/2022/sarah-depaoli-published-article-structural-equation-modeling-multidisciplinary-journal-1</loc>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/news/2022/haiyan-liu-and-sarah-depaoli-published-paper-their-graduate-student-lydia-marvin</loc>
@@ -1675,16 +1681,7 @@
     <loc>https://psychology.ucmerced.edu/news/2022/sarah-depaoli-published-article-structural-equation-modeling-multidisciplinary-journal-0</loc>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2022/martin-hagger-invited-submit-article-annual-review-psychology</loc>
-  </url>
-  <url>
-    <loc>https://psychology.ucmerced.edu/news/2022/sarah-depaoli-published-article-structural-equation-modeling-multidisciplinary-journal-1</loc>
-  </url>
-  <url>
     <loc>https://psychology.ucmerced.edu/news/2022/study-cigarette-packs-native-american-imagery-raises-questions-about-safety-cultural</loc>
-  </url>
-  <url>
-    <loc>https://psychology.ucmerced.edu/news/2022/uc-merced-psychology-program-ranked-88-best-psychology-schools-us-news-and-world-reports</loc>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/news/2022/dylan-richardson-was-awarded-nsf-graduate-research-fellowship</loc>
@@ -1694,15 +1691,6 @@
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/news/2022/uc-merced-stanislaus-state-awarded-14-million-help-snuff-out-tobacco-use</loc>
-  </url>
-  <url>
-    <loc>https://psychology.ucmerced.edu/news/2022/eric-walle-authored-introductory-chapter-oxford-handbook-emotional-development</loc>
-  </url>
-  <url>
-    <loc>https://psychology.ucmerced.edu/news/2022/alexandra-main-published-article-journal-pediatric-psychology</loc>
-  </url>
-  <url>
-    <loc>https://psychology.ucmerced.edu/news/2022/martin-hagger-published-article-applied-psychology-health-and-well-being</loc>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/news/2022/oxford-handbook-emotional-development-was-published-which-eric-walle-co-editor</loc>
@@ -1717,22 +1705,22 @@
     <loc>https://psychology.ucmerced.edu/news/2022/article-published-adi-fish%C2%A0based-growing-new-zealand-project</loc>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news?page=9</loc>
+    <loc>https://psychology.ucmerced.edu/news/2022/martin-hagger-published-article-health-psychology</loc>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/news/2022/sarah-depaoli-published-article-structural-equation-modeling-multidisciplinary-journal</loc>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/news/2022/martin-hagger-was-awarded-paper-year-award-scandinavian-journal-medicine-and-science</loc>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2022/jennifer-howell-will-be-awarded-early-career-award-health-decision-making-special-interest</loc>
+    <loc>https://psychology.ucmerced.edu/news?page=9</loc>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2022/eric-walle-authored-chapter-oxford-handbook-emotional-development</loc>
+    <loc>https://psychology.ucmerced.edu/news/2022/alexandra-main-published-article-journal-pediatric-psychology</loc>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2022/elif-isbell-published-article-developmental-psychobiology</loc>
-  </url>
-  <url>
-    <loc>https://psychology.ucmerced.edu/news/2022/jennifer-howell-discussed-her-work-information-avoidance-radio-new-zealand-program-sunday</loc>
+    <loc>https://psychology.ucmerced.edu/news/2022/martin-hagger-published-article-applied-psychology-health-and-well-being</loc>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/news/2022/workshops-train-researchers-art-getting-grants</loc>
@@ -1807,7 +1795,7 @@
     <loc>https://psychology.ucmerced.edu/news/2020/professor-walle-organizes-special-issue-emotional-development</loc>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2020/sonja-winter-recognized-will-shadish-graduate-student-fellowship</loc>
+    <loc>https://psychology.ucmerced.edu/news/2020/pradyumna-lanka-receives-dr-donald-and-effie-godbold-fellowship</loc>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/news?page=12</loc>
@@ -1873,10 +1861,13 @@
     <loc>https://psychology.ucmerced.edu/media-contact/desiree-lopez</loc>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2020/pradyumna-lanka-receives-dr-donald-and-effie-godbold-fellowship</loc>
+    <loc>https://psychology.ucmerced.edu/news/2022/jennifer-howell-will-be-awarded-early-career-award-health-decision-making-special-interest</loc>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/news/2020/maria-ramirez-loyola-recognized-outstanding-teaching-award</loc>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/news/2020/sonja-winter-recognized-will-shadish-graduate-student-fellowship</loc>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/news/2020/sivenesi-subramoney-awarded-oppenheimer-memorial-trust-fellowship</loc>
@@ -1904,6 +1895,9 @@
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/news?page=13</loc>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/news/2020/grad-students-alums-receive-nsf-research-fellowships</loc>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/news/2020/dr-avilla-receives-non-senate-academics-council-grant</loc>
@@ -1993,13 +1987,13 @@
     <loc>https://psychology.ucmerced.edu/news/2019/new-project-aims-predict-people-likely-use-firearms-suicides</loc>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2014/psychology-faculty-receive-senate-awards</loc>
-  </url>
-  <url>
     <loc>https://psychology.ucmerced.edu/news/2014/nikko-da-paz-awarded-faculty-mentor-fellowship</loc>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/news/2014/sarah-scott-awarded-presidents-dissertation-fellowship</loc>
+  </url>
+  <url>
+    <loc>https://psychology.ucmerced.edu/news/2014/psychology-faculty-receive-senate-awards</loc>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/news/2014/quant-phd-students-win-uc-fellowships</loc>
@@ -2032,10 +2026,10 @@
     <loc>https://psychology.ucmerced.edu/news/2017/developmental-psychology-professor-attends-mexican-neuroimaging-conference</loc>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2017/publishing-research-rite-passage-grad-students</loc>
+    <loc>https://psychology.ucmerced.edu/news/2017/campus-voices-reach-potential-students-need-personal-touch</loc>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2017/campus-voices-reach-potential-students-need-personal-touch</loc>
+    <loc>https://psychology.ucmerced.edu/news/2017/publishing-research-rite-passage-grad-students</loc>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/news/2017/developmental-psychology-professors-work-dyslexia-featured-sun-star</loc>
@@ -2119,10 +2113,10 @@
     <loc>https://psychology.ucmerced.edu/news/2016/quantitative-psychology-professor-yang-lui-receives-honors</loc>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2016/psychology-student-earns-ford-predoctoral-fellowship</loc>
+    <loc>https://psychology.ucmerced.edu/news/2016/downtown-center-focuses-child-development</loc>
   </url>
   <url>
-    <loc>https://psychology.ucmerced.edu/news/2016/downtown-center-focuses-child-development</loc>
+    <loc>https://psychology.ucmerced.edu/news/2016/psychology-student-earns-ford-predoctoral-fellowship</loc>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/news/2016/arturo-durazo-wins-uc-merced-gradslam</loc>
@@ -2234,9 +2228,6 @@
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/taxonomy/term/1321/feed</loc>
-  </url>
-  <url>
-    <loc>https://psychology.ucmerced.edu/news/2020/grad-students-alums-receive-nsf-research-fellowships</loc>
   </url>
   <url>
     <loc>https://psychology.ucmerced.edu/taxonomy/term/361/feed</loc>

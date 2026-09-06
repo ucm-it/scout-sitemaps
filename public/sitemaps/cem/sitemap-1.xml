@@ -10,7 +10,16 @@
     <loc>https://cem.ucmerced.edu/building-dashboards</loc>
   </url>
   <url>
+    <loc>http://cem.ucmerced.edu/building-dashboards/cathedral</loc>
+  </url>
+  <url>
+    <loc>https://cem.ucmerced.edu/building-dashboards/central-plant</loc>
+  </url>
+  <url>
     <loc>https://cem.ucmerced.edu/building-dashboards/classroom-and-office-building</loc>
+  </url>
+  <url>
+    <loc>https://cem.ucmerced.edu/building-dashboards/kolligian-library</loc>
   </url>
   <url>
     <loc>https://cem.ucmerced.edu/building-dashboards/science-and-engineering-1</loc>
@@ -25,10 +34,10 @@
     <loc>http://cem.ucmerced.edu/building-dashboards/student-athletics-activities-center</loc>
   </url>
   <url>
-    <loc>https://cem.ucmerced.edu/building-dashboards/yablokoff-wallace-dining-center</loc>
+    <loc>https://cem.ucmerced.edu/building-dashboards/gallo-recreation-center</loc>
   </url>
   <url>
-    <loc>http://cem.ucmerced.edu/building-dashboards/facilities-services</loc>
+    <loc>https://cem.ucmerced.edu/building-dashboards/yablokoff-wallace-dining-center</loc>
   </url>
   <url>
     <loc>http://cem.ucmerced.edu/building-dashboards/sierra-terraces</loc>
@@ -40,6 +49,9 @@
     <loc>https://cem.ucmerced.edu/roomdashboard</loc>
   </url>
   <url>
+    <loc>https://cem.ucmerced.edu/room-management/office-scheduler</loc>
+  </url>
+  <url>
     <loc>https://cem.ucmerced.edu/requestroom</loc>
   </url>
   <url>
@@ -49,13 +61,16 @@
     <loc>https://cem.ucmerced.edu/node/13</loc>
   </url>
   <url>
+    <loc>https://cem.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
     <loc>https://cem.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://cem.ucmerced.edu/room-management/office-scheduler</loc>
+    <loc>http://cem.ucmerced.edu/building-dashboards/facilities-services</loc>
   </url>
   <url>
-    <loc>https://cem.ucmerced.edu/building-dashboards/central-plant</loc>
+    <loc>https://cem.ucmerced.edu/building-dashboards/cathedral</loc>
   </url>
   <url>
     <loc>https://cem.ucmerced.edu/building-dashboards/sierra-terraces</loc>
@@ -73,7 +88,13 @@
     <loc>http://cem.ucmerced.edu/building-dashboards</loc>
   </url>
   <url>
+    <loc>http://cem.ucmerced.edu/building-dashboards/central-plant</loc>
+  </url>
+  <url>
     <loc>http://cem.ucmerced.edu/building-dashboards/classroom-and-office-building</loc>
+  </url>
+  <url>
+    <loc>http://cem.ucmerced.edu/building-dashboards/kolligian-library</loc>
   </url>
   <url>
     <loc>http://cem.ucmerced.edu/building-dashboards/science-and-engineering-1</loc>
@@ -83,6 +104,9 @@
   </url>
   <url>
     <loc>http://cem.ucmerced.edu/building-dashboards/solar-field</loc>
+  </url>
+  <url>
+    <loc>http://cem.ucmerced.edu/building-dashboards/gallo-recreation-center</loc>
   </url>
   <url>
     <loc>http://cem.ucmerced.edu/building-dashboards/yablokoff-wallace-dining-center</loc>
@@ -113,5 +137,8 @@
   </url>
   <url>
     <loc>https://cem.ucmerced.edu/sites/cem.ucmerced.edu/files/page/documents/rooftop_solar_rfp_qa.zip</loc>
+  </url>
+  <url>
+    <loc>http://cem.ucmerced.edu/rss.xml</loc>
   </url>
 </urlset>

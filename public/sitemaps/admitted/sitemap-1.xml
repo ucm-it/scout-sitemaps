@@ -25,6 +25,9 @@
     <loc>https://admitted.ucmerced.edu/next-steps</loc>
   </url>
   <url>
+    <loc>https://admitted.ucmerced.edu/connect</loc>
+  </url>
+  <url>
     <loc>https://admitted.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
@@ -34,9 +37,6 @@
     <loc>https://admitted.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://admitted.ucmerced.edu/connect</loc>
-  </url>
-  <url>
     <loc>https://admitted.ucmerced.edu/receptions</loc>
   </url>
   <url>
@@ -44,9 +44,6 @@
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/events/almost-there-move-bills-first-week-prep</loc>
-  </url>
-  <url>
-    <loc>https://admitted.ucmerced.edu/events/think-bigger-study-abroad-day-one</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/events/uc-merced-regional-welcome-reception-los-angeles</loc>
@@ -191,6 +188,9 @@
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/taxonomy/term/31/feed</loc>
+  </url>
+  <url>
+    <loc>https://admitted.ucmerced.edu/events/think-bigger-study-abroad-day-one</loc>
   </url>
   <url>
     <loc>https://admitted.ucmerced.edu/taxonomy/term/26/feed</loc>

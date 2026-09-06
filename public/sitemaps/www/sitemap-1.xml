@@ -106,9 +106,6 @@
     <loc>https://www.ucmerced.edu/academics/graduate-programs</loc>
   </url>
   <url>
-    <loc>https://www.ucmerced.edu/graduate-international-students</loc>
-  </url>
-  <url>
     <loc>https://www.ucmerced.edu/research</loc>
   </url>
   <url>
@@ -194,6 +191,9 @@
   </url>
   <url>
     <loc>https://www.ucmerced.edu/Site-List</loc>
+  </url>
+  <url>
+    <loc>https://www.ucmerced.edu/graduate-international-students</loc>
   </url>
   <url>
     <loc>https://www.ucmerced.edu/graduate-research-areas</loc>
@@ -481,6 +481,12 @@
     <loc>https://www.ucmerced.edu/news/for-journalists</loc>
   </url>
   <url>
+    <loc>https://www.ucmerced.edu/news/2026/cosmos-completes-first-summer-session-uc-merced</loc>
+  </url>
+  <url>
+    <loc>https://www.ucmerced.edu/news/2026/uc-merced-phd-students-receive-arcs-support-stem-research</loc>
+  </url>
+  <url>
     <loc>https://www.ucmerced.edu/news/2026/record-enrollment-signals-growing-demand-uc-merced</loc>
   </url>
   <url>
@@ -488,12 +494,6 @@
   </url>
   <url>
     <loc>https://www.ucmerced.edu/news/2026/school-social-sciences-humanities-and-arts-faculty-named-five-endowed-chairs</loc>
-  </url>
-  <url>
-    <loc>https://www.ucmerced.edu/news/2026/uc-merced-celebrates-its-most-successful-fundraising-year</loc>
-  </url>
-  <url>
-    <loc>https://www.ucmerced.edu/news/2026/uc-merced-celebrates-permanent-acquisition-%E2%80%98four-seasons-yosemite%E2%80%99-murals</loc>
   </url>
   <url>
     <loc>https://www.ucmerced.edu/news/2026/uc-merced-experts-soil-agriculture-join-uc-anr</loc>
@@ -527,6 +527,12 @@
   </url>
   <url>
     <loc>http://www.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://www.ucmerced.edu/majors-and-minors/computer-science-bs</loc>
+  </url>
+  <url>
+    <loc>https://www.ucmerced.edu/majors-and-minors/artificial-intelligence-bs</loc>
   </url>
   <url>
     <loc>https://www.ucmerced.edu/majors-and-minors/political-science-minor</loc>
@@ -577,10 +583,10 @@
     <loc>https://www.ucmerced.edu/news/2023/how-tap-your-hispaniclatinx-heritage-uc-merced</loc>
   </url>
   <url>
-    <loc>https://www.ucmerced.edu/media-contact/alyssa-johansen</loc>
+    <loc>https://www.ucmerced.edu/media-contact/brenda-ortiz</loc>
   </url>
   <url>
-    <loc>https://www.ucmerced.edu/media-contact/brenda-ortiz</loc>
+    <loc>https://www.ucmerced.edu/media-contact/alyssa-johansen</loc>
   </url>
   <url>
     <loc>https://www.ucmerced.edu/majors-and-minors/spanish-minor</loc>
@@ -616,9 +622,6 @@
     <loc>https://www.ucmerced.edu/news/2026/regional-answers-best-option-address-global-water-energy-problems</loc>
   </url>
   <url>
-    <loc>https://www.ucmerced.edu/news/2026/agreement-opens-new-opportunities-longtime-partners-uc-merced-livermore-lab</loc>
-  </url>
-  <url>
     <loc>https://www.ucmerced.edu/news/2026/bustling-campus-greets-students-uc-merced%E2%80%99s-21st-academic-year</loc>
   </url>
   <url>
@@ -646,24 +649,6 @@
     <loc>https://www.ucmerced.edu/media-contact/lorena-anderson</loc>
   </url>
   <url>
-    <loc>https://www.ucmerced.edu/news/2026/uc-merced-researchers-launch-project-bring-light-tuning-materials-central-valley</loc>
-  </url>
-  <url>
-    <loc>https://www.ucmerced.edu/news/2026/uc-merced-campos-foundation-deepen-commitment-underrepresented-stem-students</loc>
-  </url>
-  <url>
-    <loc>https://www.ucmerced.edu/news/2026/merced-native-sets-sights-career-veterinary-medicine</loc>
-  </url>
-  <url>
-    <loc>https://www.ucmerced.edu/news/2026/dublin-high-grad-drawn-uc-merced%E2%80%99s-growth-and-potential</loc>
-  </url>
-  <url>
-    <loc>https://www.ucmerced.edu/news/2026/healer-shaped-valley-and-devoted-its-future</loc>
-  </url>
-  <url>
-    <loc>https://www.ucmerced.edu/news/2026/journeys-start-boarding-pass-and-change-everything-0</loc>
-  </url>
-  <url>
     <loc>https://www.ucmerced.edu/news/2026/three-uc-merced-students-receive-fellowships-supporting-future-faculty</loc>
   </url>
   <url>
@@ -688,7 +673,28 @@
     <loc>https://www.ucmerced.edu/news/2026/uc-merced-receives-1-million-award-support-postdoctoral-fellows</loc>
   </url>
   <url>
-    <loc>https://www.ucmerced.edu/news/2026/ready-set-slam-10-uc-merced-scholars-battle-champion-title</loc>
+    <loc>https://www.ucmerced.edu/news/2026/uc-merced-celebrates-its-most-successful-fundraising-year</loc>
+  </url>
+  <url>
+    <loc>https://www.ucmerced.edu/news/2026/uc-merced-celebrates-permanent-acquisition-%E2%80%98four-seasons-yosemite%E2%80%99-murals</loc>
+  </url>
+  <url>
+    <loc>https://www.ucmerced.edu/news/2026/uc-merced-researchers-launch-project-bring-light-tuning-materials-central-valley</loc>
+  </url>
+  <url>
+    <loc>https://www.ucmerced.edu/news/2026/uc-merced-campos-foundation-deepen-commitment-underrepresented-stem-students</loc>
+  </url>
+  <url>
+    <loc>https://www.ucmerced.edu/news/2026/merced-native-sets-sights-career-veterinary-medicine</loc>
+  </url>
+  <url>
+    <loc>https://www.ucmerced.edu/news/2026/dublin-high-grad-drawn-uc-merced%E2%80%99s-growth-and-potential</loc>
+  </url>
+  <url>
+    <loc>https://www.ucmerced.edu/news/2026/healer-shaped-valley-and-devoted-its-future</loc>
+  </url>
+  <url>
+    <loc>https://www.ucmerced.edu/news/2026/journeys-start-boarding-pass-and-change-everything-0</loc>
   </url>
   <url>
     <loc>https://www.ucmerced.edu/news/2026/global-film-highlights-faculty-voice-future-soil</loc>

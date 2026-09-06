@@ -16,6 +16,9 @@
     <loc>https://merced2020.ucmerced.edu/2020timeline</loc>
   </url>
   <url>
+    <loc>https://merced2020.ucmerced.edu/project-site</loc>
+  </url>
+  <url>
     <loc>https://merced2020.ucmerced.edu/programdevelopment</loc>
   </url>
   <url>
@@ -44,9 +47,6 @@
   </url>
   <url>
     <loc>https://merced2020.ucmerced.edu/past-development/community</loc>
-  </url>
-  <url>
-    <loc>https://merced2020.ucmerced.edu/presentationarchives</loc>
   </url>
   <url>
     <loc>https://merced2020.ucmerced.edu/newsroom</loc>
@@ -208,7 +208,7 @@
     <loc>https://merced2020.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://merced2020.ucmerced.edu/project-site</loc>
+    <loc>https://merced2020.ucmerced.edu/presentationarchives</loc>
   </url>
   <url>
     <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/uc_merced_change_alignment.pdf</loc>
@@ -278,12 +278,6 @@
   </url>
   <url>
     <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/asucm_2016.pdf</loc>
-  </url>
-  <url>
-    <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/cpsjv_ucmerced2018_slides.pdf</loc>
-  </url>
-  <url>
-    <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/leadershipmerced2018.pdf</loc>
   </url>
   <url>
     <loc>https://merced2020.ucmerced.edu/news/2017/abc-30-visits-campus</loc>
@@ -740,6 +734,12 @@
   </url>
   <url>
     <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/3afinal.jpg</loc>
+  </url>
+  <url>
+    <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/cpsjv_ucmerced2018_slides.pdf</loc>
+  </url>
+  <url>
+    <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/leadershipmerced2018.pdf</loc>
   </url>
   <url>
     <loc>https://merced2020.ucmerced.edu/events/first-delivery</loc>

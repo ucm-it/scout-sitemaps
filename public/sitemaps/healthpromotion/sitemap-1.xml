@@ -19,13 +19,16 @@
     <loc>https://healthpromotion.ucmerced.edu/resources</loc>
   </url>
   <url>
+    <loc>https://healthpromotion.ucmerced.edu/campus-partners</loc>
+  </url>
+  <url>
+    <loc>https://healthpromotion.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
     <loc>https://healthpromotion.ucmerced.edu/contact</loc>
   </url>
   <url>
     <loc>https://healthpromotion.ucmerced.edu/node/86</loc>
-  </url>
-  <url>
-    <loc>https://healthpromotion.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
     <loc>https://healthpromotion.ucmerced.edu/who-we-are</loc>
@@ -40,7 +43,7 @@
     <loc>https://healthpromotion.ucmerced.edu/hot-spots</loc>
   </url>
   <url>
-    <loc>https://healthpromotion.ucmerced.edu/Bobcat-well-bieng-champions</loc>
+    <loc>https://healthpromotion.ucmerced.edu/workshops</loc>
   </url>
   <url>
     <loc>https://healthpromotion.ucmerced.edu/alcohol</loc>
@@ -65,6 +68,15 @@
   </url>
   <url>
     <loc>https://healthpromotion.ucmerced.edu/node/111</loc>
+  </url>
+  <url>
+    <loc>https://healthpromotion.ucmerced.edu/Classroom-toolkit</loc>
+  </url>
+  <url>
+    <loc>https://healthpromotion.ucmerced.edu/Supervisor-toolkit</loc>
+  </url>
+  <url>
+    <loc>https://healthpromotion.ucmerced.edu/Bobcat-well-bieng-champions</loc>
   </url>
   <url>
     <loc>https://healthpromotion.ucmerced.edu/content/kristin-hlubik</loc>

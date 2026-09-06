@@ -10,6 +10,9 @@
     <loc>https://honors.ucmerced.edu/home/about</loc>
   </url>
   <url>
+    <loc>https://honors.ucmerced.edu/students/uhp-academic-honor-roll</loc>
+  </url>
+  <url>
     <loc>https://honors.ucmerced.edu/home/student-advisory-committee</loc>
   </url>
   <url>
@@ -17,6 +20,9 @@
   </url>
   <url>
     <loc>https://honors.ucmerced.edu/home/staff</loc>
+  </url>
+  <url>
+    <loc>https://honors.ucmerced.edu/admissions</loc>
   </url>
   <url>
     <loc>https://honors.ucmerced.edu/admissions/application</loc>
@@ -43,13 +49,10 @@
     <loc>https://honors.ucmerced.edu/students/honors-program-requirements</loc>
   </url>
   <url>
-    <loc>https://honors.ucmerced.edu/students/honors-program-requirements/curricular-requirements</loc>
-  </url>
-  <url>
     <loc>https://honors.ucmerced.edu/students/list-honors-courses</loc>
   </url>
   <url>
-    <loc>https://honors.ucmerced.edu/students/create-honors-course-contract</loc>
+    <loc>https://honors.ucmerced.edu/students/honors-program-requirements/create-honors-course-contract</loc>
   </url>
   <url>
     <loc>https://honors.ucmerced.edu/students/list-honors-courses-contract</loc>
@@ -109,13 +112,10 @@
     <loc>https://honors.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://honors.ucmerced.edu/students/uhp-academic-honor-roll</loc>
+    <loc>https://honors.ucmerced.edu/students/honors-program-requirements/curricular-requirements</loc>
   </url>
   <url>
-    <loc>https://honors.ucmerced.edu/admissions</loc>
-  </url>
-  <url>
-    <loc>https://honors.ucmerced.edu/sites/honors.ucmerced.edu/files/documents/honors_courses_by_contract_proposal.pdf</loc>
+    <loc>https://honors.ucmerced.edu/sites/g/files/ufvvjh1031/f/documents/honors_courses_by_contract_proposal.pdf</loc>
   </url>
   <url>
     <loc>https://honors.ucmerced.edu/sites/honors.ucmerced.edu/files/documents/honors_courses_by_contract_completion_form.pdf</loc>
@@ -619,10 +619,10 @@
     <loc>https://honors.ucmerced.edu/events/fall-2026-mandatory-uhp-cohort-meeting-opportunities-and-overview-community-engagement-0</loc>
   </url>
   <url>
-    <loc>https://honors.ucmerced.edu/events/fall-2026-mandatory-uhp-cohort-meeting-opportunities-and-overview-community-engagement-center</loc>
+    <loc>https://honors.ucmerced.edu/events/last-day-adddrop-courses</loc>
   </url>
   <url>
-    <loc>https://honors.ucmerced.edu/events/last-day-adddrop-courses</loc>
+    <loc>https://honors.ucmerced.edu/events/fall-2026-mandatory-uhp-cohort-meeting-opportunities-and-overview-community-engagement-center</loc>
   </url>
   <url>
     <loc>https://honors.ucmerced.edu/events/fall-2026-mandatory-uhp-cohort-meeting-orientation-inclusion-presented-division-equity</loc>
@@ -640,10 +640,10 @@
     <loc>https://honors.ucmerced.edu/events/fall-2026-mandatory-uhp-meeting-foundations-university-honors-program-your-guide-success</loc>
   </url>
   <url>
-    <loc>https://honors.ucmerced.edu/events/bobcat-compass</loc>
+    <loc>https://honors.ucmerced.edu/events/fall-instruction-begins</loc>
   </url>
   <url>
-    <loc>https://honors.ucmerced.edu/events/fall-instruction-begins</loc>
+    <loc>https://honors.ucmerced.edu/events/bobcat-compass</loc>
   </url>
   <url>
     <loc>https://honors.ucmerced.edu/events/university-honors-program-fall-2026-welcome-dinner</loc>
@@ -949,7 +949,7 @@
     <loc>http://honors.ucmerced.edu/students/list-honors-courses</loc>
   </url>
   <url>
-    <loc>http://honors.ucmerced.edu/students/create-honors-course-contract</loc>
+    <loc>http://honors.ucmerced.edu/students/honors-program-requirements/create-honors-course-contract</loc>
   </url>
   <url>
     <loc>http://honors.ucmerced.edu/students/list-honors-courses-contract</loc>
@@ -1285,10 +1285,10 @@
     <loc>http://honors.ucmerced.edu/content/shahar-sukenik</loc>
   </url>
   <url>
-    <loc>http://honors.ucmerced.edu/content/daniel-thompson</loc>
+    <loc>http://honors.ucmerced.edu/content/keith-thompson</loc>
   </url>
   <url>
-    <loc>http://honors.ucmerced.edu/content/keith-thompson</loc>
+    <loc>http://honors.ucmerced.edu/content/daniel-thompson</loc>
   </url>
   <url>
     <loc>http://honors.ucmerced.edu/content/tommy-tran</loc>
@@ -1315,10 +1315,10 @@
     <loc>http://honors.ucmerced.edu/content/frederick-wolf</loc>
   </url>
   <url>
-    <loc>http://honors.ucmerced.edu/content/jing-xu</loc>
+    <loc>http://honors.ucmerced.edu/content/yiran-xu</loc>
   </url>
   <url>
-    <loc>http://honors.ucmerced.edu/content/yiran-xu</loc>
+    <loc>http://honors.ucmerced.edu/content/jing-xu</loc>
   </url>
   <url>
     <loc>http://honors.ucmerced.edu/content/jeffrey-yoshimi</loc>

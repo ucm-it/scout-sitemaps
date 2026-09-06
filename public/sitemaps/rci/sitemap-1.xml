@@ -49,13 +49,13 @@
     <loc>https://rci.ucmerced.edu/irb/researchers/research-vulnerable-populations</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/irb/researchers/research-vulnerable-populations/research-minors</loc>
-  </url>
-  <url>
     <loc>https://rci.ucmerced.edu/irb/researchers/research-vulnerable-populations/resarch-uc-merced-students-staff-or-faculty</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/node/40</loc>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/human-subjects-protections-irb/irb-members</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/irb/irb-members/reviewer-checklists</loc>
@@ -370,7 +370,7 @@
     <loc>https://rci.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/human-subjects-protections-irb/irb-members</loc>
+    <loc>https://rci.ucmerced.edu/irb/researchers/research-vulnerable-populations/research-minors</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/cayuse_iacuc_-_iacuc_researcher_manual_0.pdf</loc>
@@ -416,12 +416,6 @@
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/offsite_permision_letter_template.doc</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/permissionparent_-_social_behavioral.doc</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/assent-1_1.doc</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/irb_review_form_new_studies_revised.doc</loc>
@@ -524,6 +518,9 @@
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/paren_permission_sber_-_2018_common_rule_0_1.doc</loc>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/assent-1_1.doc</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/request-consent-waiver_revised-common-rule_.doc</loc>
@@ -908,6 +905,9 @@
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/media-contact/alyssa-johansen</loc>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/permissionparent_-_social_behavioral.doc</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/irb</loc>

@@ -40,13 +40,16 @@
     <loc>https://placement.ucmerced.edu/writing-readiness-review</loc>
   </url>
   <url>
+    <loc>https://placement.ucmerced.edu/world-languages-placement</loc>
+  </url>
+  <url>
     <loc>https://placement.ucmerced.edu/world-languages-placement/chinese-course-placement</loc>
   </url>
   <url>
-    <loc>https://placement.ucmerced.edu/world-languages-placement/japanese-course-placement</loc>
+    <loc>https://placement.ucmerced.edu/world-languages-placement/french-course-placement</loc>
   </url>
   <url>
-    <loc>https://placement.ucmerced.edu/world-languages-placement/spanish-course-placement</loc>
+    <loc>https://placement.ucmerced.edu/world-languages-placement/japanese-course-placement</loc>
   </url>
   <url>
     <loc>https://placement.ucmerced.edu/rss.xml</loc>
@@ -55,9 +58,6 @@
     <loc>https://placement.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://placement.ucmerced.edu/world-languages-placement</loc>
-  </url>
-  <url>
-    <loc>https://placement.ucmerced.edu/world-languages-placement/french-course-placement</loc>
+    <loc>https://placement.ucmerced.edu/world-languages-placement/spanish-course-placement</loc>
   </url>
 </urlset>

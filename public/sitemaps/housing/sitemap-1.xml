@@ -28,9 +28,6 @@
     <loc>https://housing.ucmerced.edu/graduate</loc>
   </url>
   <url>
-    <loc>https://housing.ucmerced.edu/cancel</loc>
-  </url>
-  <url>
     <loc>https://housing.ucmerced.edu/resident-resources/faq</loc>
   </url>
   <url>
@@ -148,6 +145,9 @@
     <loc>https://housing.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://housing.ucmerced.edu/cancel</loc>
+  </url>
+  <url>
     <loc>http://housing.ucmerced.edu/</loc>
   </url>
   <url>
@@ -256,9 +256,6 @@
     <loc>https://housing.ucmerced.edu/sites/g/files/ufvvjh1041/f/documents/0285-ep-1-2020p-20200422-b-17x11_floor_plan.pdf</loc>
   </url>
   <url>
-    <loc>https://housing.ucmerced.edu/sites/g/files/ufvvjh1041/f/documents/housing_cancellation_process_-_after_move-in.pdf</loc>
-  </url>
-  <url>
     <loc>https://housing.ucmerced.edu/sites/g/files/ufvvjh1041/f/documents/housing_and_dining_contract_appeals_committee_at_uc_merced_2019.pdf</loc>
   </url>
   <url>
@@ -347,6 +344,9 @@
   </url>
   <url>
     <loc>https://housing.ucmerced.edu/faq</loc>
+  </url>
+  <url>
+    <loc>https://housing.ucmerced.edu/sites/g/files/ufvvjh1041/f/documents/housing_cancellation_process_-_after_move-in.pdf</loc>
   </url>
   <url>
     <loc>http://housing.ucmerced.edu/rss.xml</loc>

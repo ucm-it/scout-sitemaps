@@ -31,9 +31,6 @@
     <loc>https://gallo.ucmerced.edu/news-events/news</loc>
   </url>
   <url>
-    <loc>https://gallo.ucmerced.edu/news-events/events</loc>
-  </url>
-  <url>
     <loc>https://gallo.ucmerced.edu/news-events/division-newsletters</loc>
   </url>
   <url>
@@ -41,6 +38,9 @@
   </url>
   <url>
     <loc>https://gallo.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://gallo.ucmerced.edu/news-events/events</loc>
   </url>
   <url>
     <loc>https://gallo.ucmerced.edu/node/241</loc>
@@ -100,9 +100,6 @@
     <loc>https://gallo.ucmerced.edu/sites/gallo.ucmerced.edu/files/page/documents/update_on_the_future_gallo_school.pdf</loc>
   </url>
   <url>
-    <loc>https://gallo.ucmerced.edu/blackstone-speakers</loc>
-  </url>
-  <url>
     <loc>https://gallo.ucmerced.edu/sites/gallo.ucmerced.edu/files/page/images/new-faculty-orientation-2020.png</loc>
   </url>
   <url>
@@ -110,6 +107,9 @@
   </url>
   <url>
     <loc>https://gallo.ucmerced.edu/sites/gallo.ucmerced.edu/files/page/images/path-tenure.png</loc>
+  </url>
+  <url>
+    <loc>https://gallo.ucmerced.edu/blackstone-speakers</loc>
   </url>
   <url>
     <loc>https://gallo.ucmerced.edu/node/131</loc>

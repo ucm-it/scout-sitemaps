@@ -73,9 +73,6 @@
     <loc>https://registrar.ucmerced.edu/resources/maps</loc>
   </url>
   <url>
-    <loc>https://registrar.ucmerced.edu/registration-help-page</loc>
-  </url>
-  <url>
     <loc>https://registrar.ucmerced.edu/registration-help-page/FAQs</loc>
   </url>
   <url>
@@ -221,6 +218,9 @@
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/registration-help-page</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/name_change.pdf</loc>

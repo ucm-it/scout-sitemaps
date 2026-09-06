@@ -34,6 +34,9 @@
     <loc>https://taps.ucmerced.edu/transportation/cattracks-and-route-uc/trip-planner</loc>
   </url>
   <url>
+    <loc>https://taps.ucmerced.edu/transportation/policies</loc>
+  </url>
+  <url>
     <loc>https://taps.ucmerced.edu/transportation/zipcar</loc>
   </url>
   <url>
@@ -71,9 +74,6 @@
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/permits/facultystaff/reciprocity</loc>
-  </url>
-  <url>
-    <loc>https://taps.ucmerced.edu/permits/facultystaff/payroll-information</loc>
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/permits/graduate-students</loc>
@@ -178,6 +178,9 @@
     <loc>https://taps.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>https://taps.ucmerced.edu/news/2026/labor-day-bus-schedule</loc>
+  </url>
+  <url>
     <loc>https://taps.ucmerced.edu/news/2026/2026-27-campus-resident-freshman-commuter-exception</loc>
   </url>
   <url>
@@ -187,7 +190,7 @@
     <loc>https://taps.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://taps.ucmerced.edu/transportation/policies</loc>
+    <loc>https://taps.ucmerced.edu/permits/facultystaff/payroll-information</loc>
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/meeting_minutes_feb.pdf</loc>

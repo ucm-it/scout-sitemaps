@@ -82,7 +82,7 @@
     <loc>https://hurqalya.ucmerced.edu/node/3001</loc>
   </url>
   <url>
-    <loc>https://hurqalya.ucmerced.edu/node/401</loc>
+    <loc>https://hurqalya.ucmerced.edu/node/3141</loc>
   </url>
   <url>
     <loc>https://hurqalya.ucmerced.edu/node/2851</loc>
@@ -98,9 +98,6 @@
   </url>
   <url>
     <loc>https://hurqalya.ucmerced.edu/node/1601</loc>
-  </url>
-  <url>
-    <loc>https://hurqalya.ucmerced.edu/node/1611</loc>
   </url>
   <url>
     <loc>https://hurqalya.ucmerced.edu/node/3371</loc>
@@ -1151,6 +1148,9 @@
   </url>
   <url>
     <loc>https://hurqalya.ucmerced.edu/sites/hurqalya.ucmerced.edu/files/page/documents/qa_isolated_wi-y.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hurqalya.ucmerced.edu/node/401</loc>
   </url>
   <url>
     <loc>https://hurqalya.ucmerced.edu/node/402</loc>
@@ -3583,10 +3583,10 @@
     <loc>https://hurqalya.ucmerced.edu/sites/hurqalya.ucmerced.edu/files/page/documents/sl-expository_notes.pdf</loc>
   </url>
   <url>
-    <loc>https://hurqalya.ucmerced.edu/node/3141</loc>
+    <loc>https://hurqalya.ucmerced.edu/sites/hurqalya.ucmerced.edu/files/page/documents/ab-l-liqa-makatib-1-102f.c.pdf</loc>
   </url>
   <url>
-    <loc>https://hurqalya.ucmerced.edu/sites/hurqalya.ucmerced.edu/files/page/documents/qa-titles_0.pdf</loc>
+    <loc>https://hurqalya.ucmerced.edu/node/3201</loc>
   </url>
   <url>
     <loc>https://hurqalya.ucmerced.edu/node/226</loc>
@@ -4366,6 +4366,9 @@
     <loc>https://hurqalya.ucmerced.edu/sites/hurqalya.ucmerced.edu/files/page/documents/qa-titles.pdf</loc>
   </url>
   <url>
+    <loc>https://hurqalya.ucmerced.edu/sites/hurqalya.ucmerced.edu/files/page/documents/qa-titles_0.pdf</loc>
+  </url>
+  <url>
     <loc>https://hurqalya.ucmerced.edu/sites/hurqalya.ucmerced.edu/files/page/documents/sbh00.pdf</loc>
   </url>
   <url>
@@ -4433,12 +4436,6 @@
   </url>
   <url>
     <loc>https://hurqalya.ucmerced.edu/node/3091</loc>
-  </url>
-  <url>
-    <loc>https://hurqalya.ucmerced.edu/sites/hurqalya.ucmerced.edu/files/page/documents/ab-l-liqa-makatib-1-102f.c.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hurqalya.ucmerced.edu/node/3201</loc>
   </url>
   <url>
     <loc>https://hurqalya.ucmerced.edu/node/390</loc>
@@ -5000,5 +4997,8 @@
   </url>
   <url>
     <loc>https://hurqalya.ucmerced.edu/sites/hurqalya.ucmerced.edu/files/page/documents/twin_shining_lights_ii.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hurqalya.ucmerced.edu/node/1611</loc>
   </url>
 </urlset>

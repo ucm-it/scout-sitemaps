@@ -13,12 +13,6 @@
     <loc>https://familyresearch.ucmerced.edu/current-projects</loc>
   </url>
   <url>
-    <loc>https://familyresearch.ucmerced.edu/frequently-asked-questions</loc>
-  </url>
-  <url>
-    <loc>https://familyresearch.ucmerced.edu/sign-up</loc>
-  </url>
-  <url>
     <loc>https://familyresearch.ucmerced.edu/contact-us-0</loc>
   </url>
   <url>
@@ -29,5 +23,11 @@
   </url>
   <url>
     <loc>https://familyresearch.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://familyresearch.ucmerced.edu/frequently-asked-questions</loc>
+  </url>
+  <url>
+    <loc>https://familyresearch.ucmerced.edu/sign-up</loc>
   </url>
 </urlset>

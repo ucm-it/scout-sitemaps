@@ -82,6 +82,9 @@
     <loc>https://assessment.ucmerced.edu/academic-program/annual-academic-assessment</loc>
   </url>
   <url>
+    <loc>https://assessment.ucmerced.edu/academic/guidelines-and-templates</loc>
+  </url>
+  <url>
     <loc>https://assessment.ucmerced.edu/node/67</loc>
   </url>
   <url>
@@ -92,6 +95,9 @@
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/staff</loc>
+  </url>
+  <url>
+    <loc>https://assessment.ucmerced.edu/staff/assessment-support-staff</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/node/1861</loc>
@@ -110,9 +116,6 @@
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/calendar</loc>
-  </url>
-  <url>
-    <loc>https://assessment.ucmerced.edu/node/110</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/node/111</loc>
@@ -151,10 +154,7 @@
     <loc>https://assessment.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/academic/guidelines-and-templates</loc>
-  </url>
-  <url>
-    <loc>https://assessment.ucmerced.edu/staff/assessment-support-staff</loc>
+    <loc>https://assessment.ucmerced.edu/node/110</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/sites/assessment.ucmerced.edu/files/page/documents/assessment_principles_draft_jan_2013_final_divco_endorsed_2.pdf</loc>
@@ -328,10 +328,10 @@
     <loc>https://assessment.ucmerced.edu/events/healthy-minds-survey</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/national-collegiate-health-assessment-ncha-survey-sample-undergraduate-students</loc>
+    <loc>https://assessment.ucmerced.edu/events/graduating-senior-survey-ay-20-21-graduating-seniors</loc>
   </url>
   <url>
-    <loc>https://assessment.ucmerced.edu/events/graduating-senior-survey-ay-20-21-graduating-seniors</loc>
+    <loc>https://assessment.ucmerced.edu/events/national-collegiate-health-assessment-ncha-survey-sample-undergraduate-students</loc>
   </url>
   <url>
     <loc>https://assessment.ucmerced.edu/events/national-collegiate-health-assessment-ncha-survey-sample-graduate-students</loc>

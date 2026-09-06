@@ -13,9 +13,6 @@
     <loc>https://eh.ucmerced.edu/what-environmental-humanities/requirements-major</loc>
   </url>
   <url>
-    <loc>https://eh.ucmerced.edu/what-environmental-humanities/requirements-minor</loc>
-  </url>
-  <url>
     <loc>https://eh.ucmerced.edu/blog</loc>
   </url>
   <url>
@@ -26,6 +23,9 @@
   </url>
   <url>
     <loc>https://eh.ucmerced.edu/people</loc>
+  </url>
+  <url>
+    <loc>https://eh.ucmerced.edu/careers-eh</loc>
   </url>
   <url>
     <loc>https://eh.ucmerced.edu/content/careers-eh-spotlight-ben-witzke-science-illustrator-conservation-biologist</loc>
@@ -94,7 +94,7 @@
     <loc>https://eh.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://eh.ucmerced.edu/careers-eh</loc>
+    <loc>https://eh.ucmerced.edu/what-environmental-humanities/requirements-minor</loc>
   </url>
   <url>
     <loc>https://eh.ucmerced.edu/blog/feed</loc>

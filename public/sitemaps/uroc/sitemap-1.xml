@@ -31,13 +31,10 @@
     <loc>https://uroc.ucmerced.edu/camp</loc>
   </url>
   <url>
-    <loc>https://uroc.ucmerced.edu/uroc-opportunities/research/cv-path</loc>
-  </url>
-  <url>
-    <loc>https://uroc.ucmerced.edu/jgi</loc>
-  </url>
-  <url>
     <loc>https://uroc.ucmerced.edu/uroc-opportunities/research/jgi/jgi-alumni</loc>
+  </url>
+  <url>
+    <loc>https://uroc.ucmerced.edu/soar</loc>
   </url>
   <url>
     <loc>https://uroc.ucmerced.edu/surf</loc>
@@ -142,7 +139,10 @@
     <loc>https://uroc.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://uroc.ucmerced.edu/soar</loc>
+    <loc>https://uroc.ucmerced.edu/uroc-opportunities/research/cv-path</loc>
+  </url>
+  <url>
+    <loc>https://uroc.ucmerced.edu/jgi</loc>
   </url>
   <url>
     <loc>https://uroc.ucmerced.edu/node/411</loc>
@@ -227,9 +227,6 @@
   </url>
   <url>
     <loc>https://uroc.ucmerced.edu/sites/g/files/ufvvjh1956/f/page/documents/back_conf_travel.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uroc.ucmerced.edu/sites/g/files/ufvvjh1956/f/documents/summer_2026.jpg</loc>
   </url>
   <url>
     <loc>https://uroc.ucmerced.edu/news/2022/uroc-path-grad-school-workshop-series</loc>

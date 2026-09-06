@@ -91,9 +91,6 @@
     <loc>https://health.ucmerced.edu/flu-vaccination-information</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/immunizations/immunizationrequirements</loc>
-  </url>
-  <url>
     <loc>https://health.ucmerced.edu/immunizations/immunization-faqs</loc>
   </url>
   <url>
@@ -148,9 +145,6 @@
     <loc>https://health.ucmerced.edu/insurance/campus-medical-care-assistance-fund-program</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/insurance/insurance-confidentiality</loc>
-  </url>
-  <url>
     <loc>https://health.ucmerced.edu/mybill</loc>
   </url>
   <url>
@@ -167,6 +161,9 @@
   </url>
   <url>
     <loc>https://health.ucmerced.edu/news/2024/lyrauc-ship</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/insurance/insurance-confidentiality</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/healthbrochure.pdf</loc>

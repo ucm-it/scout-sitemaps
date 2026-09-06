@@ -37,9 +37,6 @@
     <loc>https://recreation.ucmerced.edu/contact-us-0</loc>
   </url>
   <url>
-    <loc>https://recreation.ucmerced.edu/facilities/recreation-fields</loc>
-  </url>
-  <url>
     <loc>https://recreation.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
@@ -55,13 +52,16 @@
     <loc>https://recreation.ucmerced.edu/Reservations</loc>
   </url>
   <url>
-    <loc>https://recreation.ucmerced.edu/equipment-request-form</loc>
+    <loc>https://recreation.ucmerced.edu/Memberships</loc>
   </url>
   <url>
     <loc>https://recreation.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://recreation.ucmerced.edu/Memberships</loc>
+    <loc>https://recreation.ucmerced.edu/facilities/recreation-fields</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/equipment-request-form</loc>
   </url>
   <url>
     <loc>https://recreation.ucmerced.edu/Gallo</loc>

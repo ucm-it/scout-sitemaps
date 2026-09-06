@@ -16,6 +16,9 @@
     <loc>https://eal.ucmerced.edu/instrumentation</loc>
   </url>
   <url>
+    <loc>https://eal.ucmerced.edu/instruments/icp-ms</loc>
+  </url>
+  <url>
     <loc>https://eal.ucmerced.edu/instruments/icp-oes</loc>
   </url>
   <url>
@@ -29,9 +32,6 @@
   </url>
   <url>
     <loc>https://eal.ucmerced.edu/instrumentation/dma-80-mercury-analyzer</loc>
-  </url>
-  <url>
-    <loc>https://eal.ucmerced.edu/instrumentation/MERXT-%26-MERXM</loc>
   </url>
   <url>
     <loc>https://eal.ucmerced.edu/instruments/multiwave-digestion-system</loc>
@@ -55,7 +55,7 @@
     <loc>https://eal.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://eal.ucmerced.edu/instruments/icp-ms</loc>
+    <loc>https://eal.ucmerced.edu/instrumentation/MERXT-%26-MERXM</loc>
   </url>
   <url>
     <loc>https://eal.ucmerced.edu/sites/eal.ucmerced.edu/files/page/documents/record_of_initial_safety_training.pdf</loc>

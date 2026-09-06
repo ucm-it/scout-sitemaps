@@ -16,9 +16,6 @@
     <loc>https://smokefree.ucmerced.edu/cessation-resources</loc>
   </url>
   <url>
-    <loc>https://smokefree.ucmerced.edu/communications</loc>
-  </url>
-  <url>
     <loc>https://smokefree.ucmerced.edu/communications/uc-merced-smoke-free-logo</loc>
   </url>
   <url>
@@ -31,16 +28,19 @@
     <loc>https://smokefree.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>https://smokefree.ucmerced.edu/communications</loc>
+  </url>
+  <url>
     <loc>https://smokefree.ucmerced.edu/sites/smokefree.ucmerced.edu/files/page/documents/111025ucsmokefreeproposal.pdf</loc>
   </url>
   <url>
     <loc>https://smokefree.ucmerced.edu/sites/smokefree.ucmerced.edu/files/documents/PDF/140225ucmercedsmoke_free_policyfinal.pdf</loc>
   </url>
   <url>
-    <loc>https://smokefree.ucmerced.edu/content/when-does-smoke-and-tobacco-free-policy-go-effect</loc>
+    <loc>https://smokefree.ucmerced.edu/faq/general-faq</loc>
   </url>
   <url>
-    <loc>https://smokefree.ucmerced.edu/content/whom-does-policy-affect</loc>
+    <loc>https://smokefree.ucmerced.edu/content/when-does-smoke-and-tobacco-free-policy-go-effect</loc>
   </url>
   <url>
     <loc>https://smokefree.ucmerced.edu/content/what-considered-tobacco-product-and-therefore-prohibited-policy</loc>
@@ -127,12 +127,9 @@
     <loc>https://smokefree.ucmerced.edu/users/jandrade5</loc>
   </url>
   <url>
-    <loc>https://smokefree.ucmerced.edu/faq/general-faq</loc>
+    <loc>https://smokefree.ucmerced.edu/taxonomy/term/1/feed</loc>
   </url>
   <url>
     <loc>https://smokefree.ucmerced.edu/taxonomy/term/2/feed</loc>
-  </url>
-  <url>
-    <loc>https://smokefree.ucmerced.edu/taxonomy/term/1/feed</loc>
   </url>
 </urlset>

@@ -67,6 +67,9 @@
     <loc>https://accessibility.ucmerced.edu/barriers-grievances</loc>
   </url>
   <url>
+    <loc>https://accessibility.ucmerced.edu/barriers-grievances/report-barrier</loc>
+  </url>
+  <url>
     <loc>https://accessibility.ucmerced.edu/barriers-grievances/grievances</loc>
   </url>
   <url>
@@ -103,13 +106,10 @@
     <loc>https://accessibility.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://accessibility.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://accessibility.ucmerced.edu/barriers-grievances/report-barrier</loc>
-  </url>
-  <url>
     <loc>https://accessibility.ucmerced.edu/form/report-technology-barrier</loc>
+  </url>
+  <url>
+    <loc>https://accessibility.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://accessibility.ucmerced.edu/digital-accessibility/tools-web-content-accessibility</loc>

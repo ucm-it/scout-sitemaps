@@ -16,9 +16,6 @@
     <loc>https://clubsorganizations.ucmerced.edu/home/location-and-hours</loc>
   </url>
   <url>
-    <loc>https://clubsorganizations.ucmerced.edu/why-get-involved</loc>
-  </url>
-  <url>
     <loc>https://clubsorganizations.ucmerced.edu/find-club-or-organization</loc>
   </url>
   <url>
@@ -32,6 +29,9 @@
   </url>
   <url>
     <loc>https://clubsorganizations.ucmerced.edu/organization-recognition-status/required-trainings</loc>
+  </url>
+  <url>
+    <loc>https://clubsorganizations.ucmerced.edu/resources/updates-documents</loc>
   </url>
   <url>
     <loc>https://clubsorganizations.ucmerced.edu/resources/event-planning</loc>
@@ -55,7 +55,7 @@
     <loc>https://clubsorganizations.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://clubsorganizations.ucmerced.edu/resources/updates-documents</loc>
+    <loc>https://clubsorganizations.ucmerced.edu/why-get-involved</loc>
   </url>
   <url>
     <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/virtual_hub_for_clubs_and_orgs_0.pdf</loc>
@@ -109,57 +109,6 @@
     <loc>https://clubsorganizations.ucmerced.edu/sites/g/files/ufvvjh641/f/page/documents/sample_constitution_fillable_updated_2021.pdf</loc>
   </url>
   <url>
-    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/final_campus_activities_and_events_2021.pdf</loc>
-  </url>
-  <url>
-    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/2021-2022_club_event_checklist.docx</loc>
-  </url>
-  <url>
-    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/fsl_guide_request_and_reserve_rooms-3.pdf</loc>
-  </url>
-  <url>
-    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/movie_approval_request_form.pdf</loc>
-  </url>
-  <url>
-    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/tabling_requests_reminder.pdf</loc>
-  </url>
-  <url>
-    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/final_osi_event_approval_process_07.31.2020.pdf</loc>
-  </url>
-  <url>
-    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/office_of_student_involvement_clubs_and_organizations_accountability_agreement_final.docx</loc>
-  </url>
-  <url>
-    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/office_of_student_involvement_clubs_and_organizations_accountability_agreement_final.pdf</loc>
-  </url>
-  <url>
-    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/rco_101_training.pdf</loc>
-  </url>
-  <url>
-    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/event_planning_programming_and_policy_awareness_workshop-3.pdf</loc>
-  </url>
-  <url>
-    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/risk_reduction_policy_awareness.pdf</loc>
-  </url>
-  <url>
-    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/virtual_engagement_for_virtual_meetings.pdf</loc>
-  </url>
-  <url>
-    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/rco_bobcat_academy_marketing_ppt.pdf</loc>
-  </url>
-  <url>
-    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/rco_registration_preparation_workshop.pdf</loc>
-  </url>
-  <url>
-    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/rco_jumpstart_planning_for_fall-2_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/student_organization_transition_guide_2020_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/rco_transition_workshop_2020.pptx</loc>
-  </url>
-  <url>
     <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/documents/student_handbook_sec._200_campus_organization.pdf</loc>
   </url>
   <url>
@@ -169,7 +118,16 @@
     <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/final_fraternity_sorority_handbook_-_2023-2024.pdf</loc>
   </url>
   <url>
+    <loc>https://clubsorganizations.ucmerced.edu/sites/g/files/ufvvjh641/f/page/documents/100924_2024-2025_posting_regulations.pdf</loc>
+  </url>
+  <url>
+    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/fsl_guide_request_and_reserve_rooms-3.pdf</loc>
+  </url>
+  <url>
     <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/tabling_regulations.pdf</loc>
+  </url>
+  <url>
+    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/movie_approval_request_form.pdf</loc>
   </url>
   <url>
     <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/2021-2022_end_of_the_year_report_student_organizations.docx</loc>
@@ -221,6 +179,51 @@
   </url>
   <url>
     <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/message_to_rcos_final_4june2020_.docx</loc>
+  </url>
+  <url>
+    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/final_campus_activities_and_events_2021.pdf</loc>
+  </url>
+  <url>
+    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/2021-2022_club_event_checklist.docx</loc>
+  </url>
+  <url>
+    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/tabling_requests_reminder.pdf</loc>
+  </url>
+  <url>
+    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/final_osi_event_approval_process_07.31.2020.pdf</loc>
+  </url>
+  <url>
+    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/office_of_student_involvement_clubs_and_organizations_accountability_agreement_final.docx</loc>
+  </url>
+  <url>
+    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/office_of_student_involvement_clubs_and_organizations_accountability_agreement_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/rco_101_training.pdf</loc>
+  </url>
+  <url>
+    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/event_planning_programming_and_policy_awareness_workshop-3.pdf</loc>
+  </url>
+  <url>
+    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/risk_reduction_policy_awareness.pdf</loc>
+  </url>
+  <url>
+    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/virtual_engagement_for_virtual_meetings.pdf</loc>
+  </url>
+  <url>
+    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/rco_bobcat_academy_marketing_ppt.pdf</loc>
+  </url>
+  <url>
+    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/rco_registration_preparation_workshop.pdf</loc>
+  </url>
+  <url>
+    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/rco_jumpstart_planning_for_fall-2_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/student_organization_transition_guide_2020_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/rco_transition_workshop_2020.pptx</loc>
   </url>
   <url>
     <loc>https://clubsorganizations.ucmerced.edu/content/what-size-should-i-make-images-if-i-want-post-my-organization-or-departmental-logo-my</loc>

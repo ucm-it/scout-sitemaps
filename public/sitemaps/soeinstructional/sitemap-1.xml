@@ -13,16 +13,13 @@
     <loc>https://soeinstructional.ucmerced.edu/instructional-labs</loc>
   </url>
   <url>
+    <loc>https://soeinstructional.ucmerced.edu/instructional-labs/makerspace-rps/makerspace</loc>
+  </url>
+  <url>
     <loc>https://soeinstructional.ucmerced.edu/soeinstructional.ucmerced.edu/instructional-labs/rapid-prototyping-services/makerspace-training</loc>
   </url>
   <url>
-    <loc>https://soeinstructional.ucmerced.edu/instructional-labs/maker-space-rps/3d-printer-rental-program</loc>
-  </url>
-  <url>
     <loc>https://soeinstructional.ucmerced.edu/instructional-labs/maker-space-rps/laser-cutter-training</loc>
-  </url>
-  <url>
-    <loc>https://soeinstructional.ucmerced.edu/instructional-labs/maker-space-rps/soldering-training</loc>
   </url>
   <url>
     <loc>https://soeinstructional.ucmerced.edu/instructional-labs/biomedical-sciences-physics-bsp</loc>
@@ -38,6 +35,9 @@
   </url>
   <url>
     <loc>https://soeinstructional.ucmerced.edu/instructional-labs/science-engineering-1-scieng-se1/se1-100-linux-lab</loc>
+  </url>
+  <url>
+    <loc>https://soeinstructional.ucmerced.edu/instructional-labs/science-engineering-1-scieng-se1/se1-138-linux-lab</loc>
   </url>
   <url>
     <loc>https://soeinstructional.ucmerced.edu/instructional-labs/mechanical-engineering-me/se1-158-fluids-teaching-lab</loc>
@@ -130,16 +130,19 @@
     <loc>https://soeinstructional.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://soeinstructional.ucmerced.edu/instructional-labs/makerspace-rps/makerspace</loc>
+    <loc>https://soeinstructional.ucmerced.edu/instructional-labs/maker-space-rps/3d-printer-rental-program</loc>
   </url>
   <url>
-    <loc>https://soeinstructional.ucmerced.edu/instructional-labs/science-engineering-1-scieng-se1/se1-138-linux-lab</loc>
-  </url>
-  <url>
-    <loc>https://soeinstructional.ucmerced.edu/sites/g/files/ufvvjh1671/f/page/documents/laser_cutting_in_the_makerspace.pdf</loc>
+    <loc>https://soeinstructional.ucmerced.edu/instructional-labs/maker-space-rps/soldering-training</loc>
   </url>
   <url>
     <loc>https://soeinstructional.ucmerced.edu/instructional-labs/makerspace-rps/service-requests</loc>
+  </url>
+  <url>
+    <loc>https://soeinstructional.ucmerced.edu/sites/g/files/ufvvjh1671/f/page/documents/makerspace_equipment_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://soeinstructional.ucmerced.edu/sites/g/files/ufvvjh1671/f/page/documents/laser_cutting_in_the_makerspace.pdf</loc>
   </url>
   <url>
     <loc>https://soeinstructional.ucmerced.edu/sites/g/files/ufvvjh1671/f/page/documents/3dprintingflowchart.pdf</loc>
@@ -152,8 +155,5 @@
   </url>
   <url>
     <loc>https://soeinstructional.ucmerced.edu/sites/soeinstructional.ucmerced.edu/files/page/documents/safety_guidelines_for_instructional_labs.pdf</loc>
-  </url>
-  <url>
-    <loc>https://soeinstructional.ucmerced.edu/sites/g/files/ufvvjh1671/f/page/documents/makerspace_equipment_0.pdf</loc>
   </url>
 </urlset>

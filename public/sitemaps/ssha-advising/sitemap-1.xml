@@ -16,6 +16,9 @@
     <loc>https://ssha-advising.ucmerced.edu/about/ssha-peer-navigator-program</loc>
   </url>
   <url>
+    <loc>https://ssha-advising.ucmerced.edu/about/our-ssha-peer-navigators</loc>
+  </url>
+  <url>
     <loc>https://ssha-advising.ucmerced.edu/meet-your-advisor</loc>
   </url>
   <url>
@@ -37,9 +40,6 @@
     <loc>https://ssha-advising.ucmerced.edu/appointment-policy</loc>
   </url>
   <url>
-    <loc>https://ssha-advising.ucmerced.edu/policies-and-guidelines/declaration-majorminor</loc>
-  </url>
-  <url>
     <loc>https://ssha-advising.ucmerced.edu/policies-and-guidelines/demajored-information</loc>
   </url>
   <url>
@@ -47,9 +47,6 @@
   </url>
   <url>
     <loc>https://ssha-advising.ucmerced.edu/policies-and-guidelines/contacting-academic-advisors</loc>
-  </url>
-  <url>
-    <loc>https://ssha-advising.ucmerced.edu/students</loc>
   </url>
   <url>
     <loc>https://ssha-advising.ucmerced.edu/students/ssha-majors</loc>
@@ -268,7 +265,10 @@
     <loc>https://ssha-advising.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://ssha-advising.ucmerced.edu/about/our-ssha-peer-navigators</loc>
+    <loc>https://ssha-advising.ucmerced.edu/policies-and-guidelines/declaration-majorminor</loc>
+  </url>
+  <url>
+    <loc>https://ssha-advising.ucmerced.edu/students</loc>
   </url>
   <url>
     <loc>https://ssha-advising.ucmerced.edu/policies-and-guidelines/graduation-and-commencement</loc>
@@ -847,22 +847,22 @@
     <loc>https://ssha-advising.ucmerced.edu/sites/ssha-advising.ucmerced.edu/files/documents/ssha_planned_spring_2022_course_offerings_tentative_and_subject_to_change_without_notice_locked.xlsx</loc>
   </url>
   <url>
-    <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meetingjump-start-3rd-year-workshop-10</loc>
+    <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meetingjump-start-3rd-year-workshop-7</loc>
   </url>
   <url>
-    <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meetingjump-start-3rd-year-workshop-9</loc>
+    <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meetingjump-start-3rd-year-workshop-6</loc>
   </url>
   <url>
-    <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meetingjump-start-3rd-year-workshop-8</loc>
+    <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meetingjump-start-3rd-year-workshop-5</loc>
   </url>
   <url>
     <loc>https://ssha-advising.ucmerced.edu/events/pop-advising-l-ssha-academic-advising-4</loc>
   </url>
   <url>
-    <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meetingjump-start-3rd-year-workshop-7</loc>
+    <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meetingjump-start-3rd-year-workshop-4</loc>
   </url>
   <url>
-    <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meetingjump-start-3rd-year-workshop-6</loc>
+    <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meetingjump-start-3rd-year-workshop-3</loc>
   </url>
   <url>
     <loc>https://ssha-advising.ucmerced.edu/events/pop-advising-l-ssha-academic-advising-3</loc>
@@ -874,16 +874,16 @@
     <loc>https://ssha-advising.ucmerced.edu/events/mapping-your-path-ssha-academic-advising</loc>
   </url>
   <url>
-    <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meetingjump-start-3rd-year-workshop-5</loc>
+    <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meetingjump-start-3rd-year-workshop-2</loc>
   </url>
   <url>
-    <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meetingjump-start-3rd-year-workshop-4</loc>
+    <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meetingjump-start-3rd-year-workshop-1</loc>
   </url>
   <url>
     <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meetingjump-start-3rd-year-workshop-step-success-0</loc>
   </url>
   <url>
-    <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meetingjump-start-3rd-year-workshop-3</loc>
+    <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meetingjump-start-3rd-year-workshop-0</loc>
   </url>
   <url>
     <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meetingjump-start-3rd-year-workshop-step-success-18</loc>
@@ -913,10 +913,10 @@
     <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meeting-ttm-3</loc>
   </url>
   <url>
-    <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meetingjump-start-3rd-year-workshop-step-success-17</loc>
+    <loc>https://ssha-advising.ucmerced.edu/events/step-success-create-graduation-plan-workshop</loc>
   </url>
   <url>
-    <loc>https://ssha-advising.ucmerced.edu/events/step-success-create-graduation-plan-workshop</loc>
+    <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meetingjump-start-3rd-year-workshop-step-success-17</loc>
   </url>
   <url>
     <loc>https://ssha-advising.ucmerced.edu/events/fly-ssha-academic-advising</loc>
@@ -1504,10 +1504,10 @@
     <loc>https://ssha-advising.ucmerced.edu/events/jump-start-your-3rd-year-workshop</loc>
   </url>
   <url>
-    <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meeting</loc>
+    <loc>https://ssha-advising.ucmerced.edu/events/jump-start-your-3rd-year</loc>
   </url>
   <url>
-    <loc>https://ssha-advising.ucmerced.edu/events/jump-start-your-3rd-year</loc>
+    <loc>https://ssha-advising.ucmerced.edu/events/transfer-transition-meeting</loc>
   </url>
   <url>
     <loc>https://ssha-advising.ucmerced.edu/events/fall-2020-registration</loc>

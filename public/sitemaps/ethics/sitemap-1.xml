@@ -34,6 +34,9 @@
     <loc>https://ethics.ucmerced.edu/reporting-obligations</loc>
   </url>
   <url>
+    <loc>https://ethics.ucmerced.edu/campus-complaint-processes</loc>
+  </url>
+  <url>
     <loc>https://ethics.ucmerced.edu/confidential-resources</loc>
   </url>
   <url>
@@ -44,9 +47,6 @@
   </url>
   <url>
     <loc>https://ethics.ucmerced.edu/ethics-compliance-program/uc-statement-ethical-values-standards-ethical-conduct</loc>
-  </url>
-  <url>
-    <loc>https://ethics.ucmerced.edu/mandatory-training</loc>
   </url>
   <url>
     <loc>https://ethics.ucmerced.edu/newsletter</loc>
@@ -70,10 +70,10 @@
     <loc>https://ethics.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://ethics.ucmerced.edu/news/2026/tracking-compliance-newsletter-resource-guide-iss2</loc>
+    <loc>https://ethics.ucmerced.edu/news/2026/tracking-compliance-newsletter-resource-guide-issue-2</loc>
   </url>
   <url>
-    <loc>https://ethics.ucmerced.edu/news/2026/tracking-compliance-newsletter-resource-guide</loc>
+    <loc>https://ethics.ucmerced.edu/news/2026/tracking-compliance-newsletter-resource-guide-issue-1</loc>
   </url>
   <url>
     <loc>https://ethics.ucmerced.edu/news/2026/2026-uc-ethics-and-compliance-institute</loc>
@@ -82,7 +82,7 @@
     <loc>https://ethics.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://ethics.ucmerced.edu/campus-complaint-processes</loc>
+    <loc>https://ethics.ucmerced.edu/mandatory-training</loc>
   </url>
   <url>
     <loc>https://ethics.ucmerced.edu/sites/ethics.ucmerced.edu/files/documents/ecp_chart.png</loc>
@@ -97,12 +97,12 @@
     <loc>https://ethics.ucmerced.edu/sites/g/files/ufvvjh861/f/documents/csa_whistleblower_brochure.pdf</loc>
   </url>
   <url>
-    <loc>https://ethics.ucmerced.edu/ethics-compliance-program/help-ethical-decisions-workplace</loc>
-  </url>
-  <url>
     <loc>https://ethics.ucmerced.edu/sites/ethics.ucmerced.edu/files/documents/csa_whistleblower_poster.pdf</loc>
   </url>
   <url>
     <loc>https://ethics.ucmerced.edu/sites/ethics.ucmerced.edu/files/documents/csa_whistleblower_brochure.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ethics.ucmerced.edu/ethics-compliance-program/help-ethical-decisions-workplace</loc>
   </url>
 </urlset>

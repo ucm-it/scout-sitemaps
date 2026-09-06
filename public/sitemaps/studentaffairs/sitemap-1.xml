@@ -16,9 +16,6 @@
     <loc>https://studentaffairs.ucmerced.edu/resources</loc>
   </url>
   <url>
-    <loc>https://studentaffairs.ucmerced.edu/students</loc>
-  </url>
-  <url>
     <loc>https://studentaffairs.ucmerced.edu/students/academic-support</loc>
   </url>
   <url>
@@ -49,6 +46,9 @@
     <loc>https://studentaffairs.ucmerced.edu/dean-students/parenting-student-resources</loc>
   </url>
   <url>
+    <loc>https://studentaffairs.ucmerced.edu/dean-students/parenting-student-resources/campus-lactation-rooms</loc>
+  </url>
+  <url>
     <loc>https://studentaffairs.ucmerced.edu/commencement-student-speaker</loc>
   </url>
   <url>
@@ -64,7 +64,7 @@
     <loc>https://studentaffairs.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://studentaffairs.ucmerced.edu/dean-students/parenting-student-resources/campus-lactation-rooms</loc>
+    <loc>https://studentaffairs.ucmerced.edu/students</loc>
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/community-of-scholars</loc>
@@ -82,15 +82,6 @@
     <loc>https://studentaffairs.ucmerced.edu/content/brian-obruba</loc>
   </url>
   <url>
-    <loc>https://studentaffairs.ucmerced.edu/content/enrique-guzman</loc>
-  </url>
-  <url>
-    <loc>https://studentaffairs.ucmerced.edu/content/deborah-henderson</loc>
-  </url>
-  <url>
-    <loc>https://studentaffairs.ucmerced.edu/content/david-dunham</loc>
-  </url>
-  <url>
     <loc>https://studentaffairs.ucmerced.edu/content/esther-wilson</loc>
   </url>
   <url>
@@ -104,6 +95,15 @@
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/content/amy-sekhon</loc>
+  </url>
+  <url>
+    <loc>https://studentaffairs.ucmerced.edu/content/enrique-guzman</loc>
+  </url>
+  <url>
+    <loc>https://studentaffairs.ucmerced.edu/content/deborah-henderson</loc>
+  </url>
+  <url>
+    <loc>https://studentaffairs.ucmerced.edu/content/david-dunham</loc>
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/content/vacant-position</loc>
@@ -160,6 +160,9 @@
     <loc>https://studentaffairs.ucmerced.edu/sites/studentaffairs.ucmerced.edu/files/documents/2020_recreation_athletics_facility_operations_fee_final-2.docx</loc>
   </url>
   <url>
+    <loc>https://studentaffairs.ucmerced.edu/sites/studentaffairs.ucmerced.edu/files/page/images/ucm_lactation_rooms.png</loc>
+  </url>
+  <url>
     <loc>https://studentaffairs.ucmerced.edu/form/commencement-student-speaker-application</loc>
   </url>
   <url>
@@ -173,8 +176,5 @@
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/ferpa</loc>
-  </url>
-  <url>
-    <loc>https://studentaffairs.ucmerced.edu/sites/studentaffairs.ucmerced.edu/files/page/images/ucm_lactation_rooms.png</loc>
   </url>
 </urlset>

@@ -13,13 +13,7 @@
     <loc>https://valleyfever.ucmerced.edu/valley-fever-research-uc-merced/select-valley-fever-publications</loc>
   </url>
   <url>
-    <loc>https://valleyfever.ucmerced.edu/valley-fever-research-uc-merced/funded-valley-fever-projects</loc>
-  </url>
-  <url>
     <loc>https://valleyfever.ucmerced.edu/find-valley-fever-resources</loc>
-  </url>
-  <url>
-    <loc>https://valleyfever.ucmerced.edu/explore-research-topics/valley-fever-facts-stats</loc>
   </url>
   <url>
     <loc>https://valleyfever.ucmerced.edu/explore-research-topics/epidemiological-resources</loc>
@@ -29,6 +23,9 @@
   </url>
   <url>
     <loc>https://valleyfever.ucmerced.edu/research-advocacy-news/prevention-tips</loc>
+  </url>
+  <url>
+    <loc>https://valleyfever.ucmerced.edu/research-advocacy-news/testing-locations</loc>
   </url>
   <url>
     <loc>https://valleyfever.ucmerced.edu/research-advocacy-news/advocacy-and-support-group-websites</loc>
@@ -85,7 +82,10 @@
     <loc>https://valleyfever.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://valleyfever.ucmerced.edu/research-advocacy-news/testing-locations</loc>
+    <loc>https://valleyfever.ucmerced.edu/valley-fever-research-uc-merced/funded-valley-fever-projects</loc>
+  </url>
+  <url>
+    <loc>https://valleyfever.ucmerced.edu/explore-research-topics/valley-fever-facts-stats</loc>
   </url>
   <url>
     <loc>https://valleyfever.ucmerced.edu/find-valley-fever-resources/related-misdiagnosis</loc>
@@ -256,6 +256,9 @@
     <loc>https://valleyfever.ucmerced.edu/news/2014/valley-fever-increased-dangers-desert-dust</loc>
   </url>
   <url>
+    <loc>https://valleyfever.ucmerced.edu/news/2014/first-look-walk-bring-awareness-valley-fever</loc>
+  </url>
+  <url>
     <loc>https://valleyfever.ucmerced.edu/news/2014/dangers-desert-dust-new-diagnostic-tool-valley-fever</loc>
   </url>
   <url>
@@ -263,9 +266,6 @@
   </url>
   <url>
     <loc>https://valleyfever.ucmerced.edu/news/2014/woman-fighting-valley-fever-my-life-has-been-hold</loc>
-  </url>
-  <url>
-    <loc>https://valleyfever.ucmerced.edu/news/2014/first-look-walk-bring-awareness-valley-fever</loc>
   </url>
   <url>
     <loc>https://valleyfever.ucmerced.edu/news/2014/local-valley-fever-research-be-published-scientific-journal</loc>

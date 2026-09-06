@@ -34,9 +34,6 @@
     <loc>https://cacsw.ucmerced.edu/campus-resources/campus-organizations</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/campus-resources/policies</loc>
-  </url>
-  <url>
     <loc>https://cacsw.ucmerced.edu/resources/interesting-reads</loc>
   </url>
   <url>
@@ -110,6 +107,9 @@
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/campus-resources/campus-statistics</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/campus-resources/policies</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/content/estee-beck</loc>

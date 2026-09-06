@@ -13,9 +13,6 @@
     <loc>https://earthshakes.ucmerced.edu/earthshakes-pledge</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/about/how-join</loc>
-  </url>
-  <url>
     <loc>https://earthshakes.ucmerced.edu/members-organizations-and-individuals</loc>
   </url>
   <url>
@@ -26,9 +23,6 @@
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/members-theatres-and-individuals/caribbean</loc>
-  </url>
-  <url>
-    <loc>https://earthshakes.ucmerced.edu/members-organizations-and-individuals/europe</loc>
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/members-theatres-and-individuals/oceania</loc>
@@ -47,6 +41,9 @@
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/resources</loc>
+  </url>
+  <url>
+    <loc>https://earthshakes.ucmerced.edu/resources/interviews-theatre-makers</loc>
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/resources/books-shakespeare-and-environment</loc>
@@ -82,7 +79,10 @@
     <loc>https://earthshakes.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/resources/interviews-theatre-makers</loc>
+    <loc>https://earthshakes.ucmerced.edu/about/how-join</loc>
+  </url>
+  <url>
+    <loc>https://earthshakes.ucmerced.edu/members-organizations-and-individuals/europe</loc>
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/node/24</loc>
@@ -139,10 +139,7 @@
     <loc>https://earthshakes.ucmerced.edu/node/81</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/node/171</loc>
-  </url>
-  <url>
-    <loc>https://earthshakes.ucmerced.edu/node/251</loc>
+    <loc>https://earthshakes.ucmerced.edu/node/22</loc>
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/node/18</loc>
@@ -152,15 +149,6 @@
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/node/20</loc>
-  </url>
-  <url>
-    <loc>https://earthshakes.ucmerced.edu/node/201</loc>
-  </url>
-  <url>
-    <loc>https://earthshakes.ucmerced.edu/node/22</loc>
-  </url>
-  <url>
-    <loc>https://earthshakes.ucmerced.edu/node/191</loc>
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/sites/earthshakes.ucmerced.edu/files/page/documents/g4g_session-1-1.pdf</loc>
@@ -191,5 +179,17 @@
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/sites/earthshakes.ucmerced.edu/files/page/documents/session_8_greenturgy-worksheet-for-globe4globe.pdf</loc>
+  </url>
+  <url>
+    <loc>https://earthshakes.ucmerced.edu/node/201</loc>
+  </url>
+  <url>
+    <loc>https://earthshakes.ucmerced.edu/node/171</loc>
+  </url>
+  <url>
+    <loc>https://earthshakes.ucmerced.edu/node/251</loc>
+  </url>
+  <url>
+    <loc>https://earthshakes.ucmerced.edu/node/191</loc>
   </url>
 </urlset>

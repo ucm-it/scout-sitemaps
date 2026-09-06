@@ -13,9 +13,6 @@
     <loc>https://cfheds.ucmerced.edu/news</loc>
   </url>
   <url>
-    <loc>https://cfheds.ucmerced.edu/people</loc>
-  </url>
-  <url>
     <loc>https://cfheds.ucmerced.edu/press</loc>
   </url>
   <url>
@@ -28,6 +25,9 @@
     <loc>https://cfheds.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>https://cfheds.ucmerced.edu/people</loc>
+  </url>
+  <url>
     <loc>https://cfheds.ucmerced.edu/contact-us</loc>
   </url>
   <url>
@@ -38,6 +38,9 @@
   </url>
   <url>
     <loc>https://cfheds.ucmerced.edu/news/2026/famu-grad-quoted-doe-news-article</loc>
+  </url>
+  <url>
+    <loc>https://cfheds.ucmerced.edu/news/2026/prof-weatherford-featured-nsbp</loc>
   </url>
   <url>
     <loc>https://cfheds.ucmerced.edu/news/2025/uc-llnl-undergraduate-summer-school</loc>

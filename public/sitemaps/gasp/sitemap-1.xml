@@ -109,9 +109,6 @@
     <loc>https://gasp.ucmerced.edu/requirements</loc>
   </url>
   <url>
-    <loc>https://gasp.ucmerced.edu/ensembles</loc>
-  </url>
-  <url>
     <loc>https://gasp.ucmerced.edu/ensembles/experimental-inter-arts-ensemble</loc>
   </url>
   <url>
@@ -140,6 +137,9 @@
   </url>
   <url>
     <loc>https://gasp.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://gasp.ucmerced.edu/ensembles</loc>
   </url>
   <url>
     <loc>https://gasp.ucmerced.edu/news/2025/uc-merced-arts-opens-season-east-la-band-las-cafeteras</loc>

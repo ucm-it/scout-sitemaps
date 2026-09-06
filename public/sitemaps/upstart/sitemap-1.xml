@@ -25,9 +25,6 @@
     <loc>https://upstart.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://upstart.ucmerced.edu/events/las-cafeteras</loc>
-  </url>
-  <url>
     <loc>https://upstart.ucmerced.edu/events/okcello</loc>
   </url>
   <url>
@@ -35,9 +32,6 @@
   </url>
   <url>
     <loc>https://upstart.ucmerced.edu/events/mariachi-arcoiris-de-los-angeles</loc>
-  </url>
-  <url>
-    <loc>https://upstart.ucmerced.edu/events/bobby-mcferrin-0</loc>
   </url>
   <url>
     <loc>https://upstart.ucmerced.edu/events/quinteto-latino</loc>
@@ -83,9 +77,6 @@
   </url>
   <url>
     <loc>https://upstart.ucmerced.edu/sites/upstart.ucmerced.edu/files/documents/upstart_presents_mariachi_arcoiris_de_los_angeles-3.pdf</loc>
-  </url>
-  <url>
-    <loc>http://upstart.ucmerced.edu/bobby-mcferrin</loc>
   </url>
   <url>
     <loc>http://upstart.ucmerced.edu/quinteto-latino</loc>
@@ -203,6 +194,9 @@
   </url>
   <url>
     <loc>http://upstart.ucmerced.edu/content/collin-lewis</loc>
+  </url>
+  <url>
+    <loc>http://upstart.ucmerced.edu/bobby-mcferrin</loc>
   </url>
   <url>
     <loc>http://upstart.ucmerced.edu/events/antonio-sanchez-migration-concert</loc>

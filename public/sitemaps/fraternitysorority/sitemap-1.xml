@@ -19,6 +19,9 @@
     <loc>https://fraternitysorority.ucmerced.edu/about/meet-staff</loc>
   </url>
   <url>
+    <loc>https://fraternitysorority.ucmerced.edu/form/contact-us</loc>
+  </url>
+  <url>
     <loc>https://fraternitysorority.ucmerced.edu/chapters-councils</loc>
   </url>
   <url>
@@ -34,22 +37,10 @@
     <loc>https://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fraternity-chapters</loc>
   </url>
   <url>
-    <loc>https://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fraternity-chapters/gamma-zeta-alpha-fraternity-inc</loc>
-  </url>
-  <url>
-    <loc>https://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fraternity-chapters/kappa-sigma</loc>
-  </url>
-  <url>
     <loc>https://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fraternity-chapters/sigma-chi</loc>
   </url>
   <url>
-    <loc>https://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fraternity-chapters/omega-delta-phi-fraternity-inc</loc>
-  </url>
-  <url>
     <loc>https://fraternitysorority.ucmerced.edu/who-we-are/social-greek-chapters/pi-kappa-phi</loc>
-  </url>
-  <url>
-    <loc>https://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fraternity-chapters/pi-lambda-phi</loc>
   </url>
   <url>
     <loc>https://fraternitysorority.ucmerced.edu/chapters/sororities</loc>
@@ -73,10 +64,7 @@
     <loc>https://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/sororities/kappa-delta-chi</loc>
   </url>
   <url>
-    <loc>https://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/sororities/lambda-theta-nu</loc>
-  </url>
-  <url>
-    <loc>https://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/sorority-chapters/sigma-theta-psi</loc>
+    <loc>https://fraternitysorority.ucmerced.edu/who-we-are/social-greek-chapters/expansion-chapters</loc>
   </url>
   <url>
     <loc>https://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fsc-executive-board</loc>
@@ -104,12 +92,6 @@
   </url>
   <url>
     <loc>https://fraternitysorority.ucmerced.edu/who-we-are/professional-greek-chapters/delta-sigma-pi</loc>
-  </url>
-  <url>
-    <loc>https://fraternitysorority.ucmerced.edu/who-we-are/professional-greek-chapters/phi-alpha-delta</loc>
-  </url>
-  <url>
-    <loc>https://fraternitysorority.ucmerced.edu/who-we-are/professional-greek-chapters/phi-delta-epsilon</loc>
   </url>
   <url>
     <loc>https://fraternitysorority.ucmerced.edu/who-we-are/professional-greek-chapters/theta-tau</loc>
@@ -148,7 +130,7 @@
     <loc>https://fraternitysorority.ucmerced.edu/how-join</loc>
   </url>
   <url>
-    <loc>https://fraternitysorority.ucmerced.edu/how-join/spring-2026-recruitment</loc>
+    <loc>https://fraternitysorority.ucmerced.edu/how-join/fall-2026-recruitment</loc>
   </url>
   <url>
     <loc>https://fraternitysorority.ucmerced.edu/how-join/requirements-participate</loc>
@@ -217,16 +199,16 @@
     <loc>https://fraternitysorority.ucmerced.edu/news</loc>
   </url>
   <url>
+    <loc>https://fraternitysorority.ucmerced.edu/how-join/spring-2026-recruitment</loc>
+  </url>
+  <url>
     <loc>https://fraternitysorority.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
     <loc>https://fraternitysorority.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://fraternitysorority.ucmerced.edu/form/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://fraternitysorority.ucmerced.edu/who-we-are/social-greek-chapters/expansion-chapters</loc>
+    <loc>https://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/sorority-chapters/sigma-theta-psi</loc>
   </url>
   <url>
     <loc>http://fraternitysorority.ucmerced.edu/about</loc>
@@ -256,22 +238,10 @@
     <loc>http://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fraternity-chapters</loc>
   </url>
   <url>
-    <loc>http://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fraternity-chapters/gamma-zeta-alpha-fraternity-inc</loc>
-  </url>
-  <url>
-    <loc>http://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fraternity-chapters/kappa-sigma</loc>
-  </url>
-  <url>
     <loc>http://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fraternity-chapters/sigma-chi</loc>
   </url>
   <url>
-    <loc>http://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fraternity-chapters/omega-delta-phi-fraternity-inc</loc>
-  </url>
-  <url>
     <loc>http://fraternitysorority.ucmerced.edu/who-we-are/social-greek-chapters/pi-kappa-phi</loc>
-  </url>
-  <url>
-    <loc>http://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fraternity-chapters/pi-lambda-phi</loc>
   </url>
   <url>
     <loc>http://fraternitysorority.ucmerced.edu/chapters/sororities</loc>
@@ -293,9 +263,6 @@
   </url>
   <url>
     <loc>http://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/sororities/kappa-delta-chi</loc>
-  </url>
-  <url>
-    <loc>http://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/sororities/lambda-theta-nu</loc>
   </url>
   <url>
     <loc>http://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/sorority-chapters/sigma-theta-psi</loc>
@@ -329,12 +296,6 @@
   </url>
   <url>
     <loc>http://fraternitysorority.ucmerced.edu/who-we-are/professional-greek-chapters/delta-sigma-pi</loc>
-  </url>
-  <url>
-    <loc>http://fraternitysorority.ucmerced.edu/who-we-are/professional-greek-chapters/phi-alpha-delta</loc>
-  </url>
-  <url>
-    <loc>http://fraternitysorority.ucmerced.edu/who-we-are/professional-greek-chapters/phi-delta-epsilon</loc>
   </url>
   <url>
     <loc>http://fraternitysorority.ucmerced.edu/who-we-are/professional-greek-chapters/theta-tau</loc>
@@ -373,7 +334,7 @@
     <loc>http://fraternitysorority.ucmerced.edu/how-join</loc>
   </url>
   <url>
-    <loc>http://fraternitysorority.ucmerced.edu/how-join/spring-2026-recruitment</loc>
+    <loc>http://fraternitysorority.ucmerced.edu/how-join/fall-2026-recruitment</loc>
   </url>
   <url>
     <loc>http://fraternitysorority.ucmerced.edu/how-join/requirements-participate</loc>
@@ -448,6 +409,27 @@
     <loc>http://fraternitysorority.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fraternity-chapters/gamma-zeta-alpha-fraternity-inc</loc>
+  </url>
+  <url>
+    <loc>https://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fraternity-chapters/kappa-sigma</loc>
+  </url>
+  <url>
+    <loc>https://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fraternity-chapters/omega-delta-phi-fraternity-inc</loc>
+  </url>
+  <url>
+    <loc>https://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fraternity-chapters/pi-lambda-phi</loc>
+  </url>
+  <url>
+    <loc>https://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/sororities/lambda-theta-nu</loc>
+  </url>
+  <url>
+    <loc>https://fraternitysorority.ucmerced.edu/who-we-are/professional-greek-chapters/phi-alpha-delta</loc>
+  </url>
+  <url>
+    <loc>https://fraternitysorority.ucmerced.edu/who-we-are/professional-greek-chapters/phi-delta-epsilon</loc>
+  </url>
+  <url>
     <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/ucm_fraternity_and_sorority_life_expectations_of_recognition_08.27.19.pdf</loc>
   </url>
   <url>
@@ -508,10 +490,13 @@
     <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/fsc_constitution_2-7-15.pdf</loc>
   </url>
   <url>
-    <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/institutional_close_return_agreement_merced_fully_signed.pdf</loc>
+    <loc>https://fraternitysorority.ucmerced.edu/who-we-are/social-greek-chapters/expansion-chapters/delta-sigma-theta</loc>
   </url>
   <url>
-    <loc>https://fraternitysorority.ucmerced.edu/who-we-are/social-greek-chapters/expansion-chapters/delta-sigma-theta</loc>
+    <loc>https://fraternitysorority.ucmerced.edu/how-join/expansion-forming-new-chapters/nphc-expansion</loc>
+  </url>
+  <url>
+    <loc>https://fraternitysorority.ucmerced.edu/how-join/upcoming-recruitment</loc>
   </url>
   <url>
     <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/pfc_master_budget_19-20_finished.xlsx</loc>
@@ -578,9 +563,6 @@
   </url>
   <url>
     <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/pnm_rights_and_responsibilities_2018_0.docx</loc>
-  </url>
-  <url>
-    <loc>https://fraternitysorority.ucmerced.edu/how-join/expansion-forming-new-chapters/nphc-expansion</loc>
   </url>
   <url>
     <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/letter_to_community_02.13.20.pdf</loc>
@@ -1012,10 +994,34 @@
     <loc>https://fraternitysorority.ucmerced.edu/news/2023/fraternity-and-sorority-members-sharing-their-experiences</loc>
   </url>
   <url>
-    <loc>https://fraternitysorority.ucmerced.edu/how-join/upcoming-recruitment</loc>
+    <loc>http://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fraternity-chapters/gamma-zeta-alpha-fraternity-inc</loc>
+  </url>
+  <url>
+    <loc>http://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fraternity-chapters/kappa-sigma</loc>
+  </url>
+  <url>
+    <loc>http://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fraternity-chapters/omega-delta-phi-fraternity-inc</loc>
+  </url>
+  <url>
+    <loc>http://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fraternity-chapters/pi-lambda-phi</loc>
+  </url>
+  <url>
+    <loc>http://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/sororities/lambda-theta-nu</loc>
+  </url>
+  <url>
+    <loc>http://fraternitysorority.ucmerced.edu/who-we-are/professional-greek-chapters/phi-alpha-delta</loc>
+  </url>
+  <url>
+    <loc>http://fraternitysorority.ucmerced.edu/who-we-are/professional-greek-chapters/phi-delta-epsilon</loc>
+  </url>
+  <url>
+    <loc>http://fraternitysorority.ucmerced.edu/how-join/spring-2026-recruitment</loc>
   </url>
   <url>
     <loc>http://fraternitysorority.ucmerced.edu/news/2023/fraternity-and-sorority-members-sharing-their-experiences</loc>
+  </url>
+  <url>
+    <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/institutional_close_return_agreement_merced_fully_signed.pdf</loc>
   </url>
   <url>
     <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/letter_to_community_02.13.20_0.pdf</loc>

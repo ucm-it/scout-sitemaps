@@ -28,9 +28,6 @@
     <loc>https://cie.ucmerced.edu/services/qualtrics</loc>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/about-cie</loc>
-  </url>
-  <url>
     <loc>https://cie.ucmerced.edu/about-cie/institutional-research-decision-support</loc>
   </url>
   <url>
@@ -58,9 +55,6 @@
     <loc>https://cie.ucmerced.edu/archive/institutional-research-reports</loc>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
     <loc>https://cie.ucmerced.edu/applicants-admits-enrollments</loc>
   </url>
   <url>
@@ -80,6 +74,12 @@
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/about-cie</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/undergraduate-enrollments</loc>

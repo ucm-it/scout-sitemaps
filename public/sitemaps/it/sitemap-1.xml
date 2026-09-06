@@ -19,9 +19,6 @@
     <loc>https://it.ucmerced.edu/student-services</loc>
   </url>
   <url>
-    <loc>https://it.ucmerced.edu/BehindTheScenes</loc>
-  </url>
-  <url>
     <loc>https://it.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
@@ -53,6 +50,9 @@
   </url>
   <url>
     <loc>https://it.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://it.ucmerced.edu/BehindTheScenes</loc>
   </url>
   <url>
     <loc>https://it.ucmerced.edu/CIRT</loc>
@@ -118,58 +118,16 @@
     <loc>https://it.ucmerced.edu/student-laptop-recommendation</loc>
   </url>
   <url>
-    <loc>https://it.ucmerced.edu/security-services</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/crashplan-install</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/vpn</loc>
-  </url>
-  <url>
     <loc>https://it.ucmerced.edu/phishing</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/documents/webinar/oit_webinar5_compressed_final.pdf</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/documents/webinar/webinar_6-compressed.pdf</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/our-spaces</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/event_support</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/documents/webinar/oit_webinar7_final.pdf</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/documents/webinar/webinar8_final-compressed.pdf</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/documents/webinar/webinar9_finaldraft.pdf</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/software-list</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/Software</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/page/documents/is-3_ama_webinar_deck_final.pdf</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/ProtectingSensitiveData</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/page/documents/oit_webinar_10_final.pdf</loc>
   </url>
   <url>
     <loc>https://it.ucmerced.edu/in-the-news</loc>
   </url>
   <url>
     <loc>https://it.ucmerced.edu/IS3_Policy</loc>
+  </url>
+  <url>
+    <loc>https://it.ucmerced.edu/security-services</loc>
   </url>
   <url>
     <loc>https://it.ucmerced.edu/security-people</loc>
@@ -217,7 +175,49 @@
     <loc>https://it.ucmerced.edu/instructional_tools</loc>
   </url>
   <url>
+    <loc>https://it.ucmerced.edu/event_support</loc>
+  </url>
+  <url>
+    <loc>https://it.ucmerced.edu/our-spaces</loc>
+  </url>
+  <url>
     <loc>https://it.ucmerced.edu/aet_people</loc>
+  </url>
+  <url>
+    <loc>https://it.ucmerced.edu/crashplan-install</loc>
+  </url>
+  <url>
+    <loc>https://it.ucmerced.edu/vpn</loc>
+  </url>
+  <url>
+    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/documents/webinar/oit_webinar5_compressed_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/documents/webinar/webinar_6-compressed.pdf</loc>
+  </url>
+  <url>
+    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/documents/webinar/oit_webinar7_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/documents/webinar/webinar8_final-compressed.pdf</loc>
+  </url>
+  <url>
+    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/documents/webinar/webinar9_finaldraft.pdf</loc>
+  </url>
+  <url>
+    <loc>https://it.ucmerced.edu/software-list</loc>
+  </url>
+  <url>
+    <loc>https://it.ucmerced.edu/Software</loc>
+  </url>
+  <url>
+    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/page/documents/is-3_ama_webinar_deck_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://it.ucmerced.edu/ProtectingSensitiveData</loc>
+  </url>
+  <url>
+    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/page/documents/oit_webinar_10_final.pdf</loc>
   </url>
   <url>
     <loc>https://it.ucmerced.edu/Research-Computing-Services</loc>
@@ -280,24 +280,6 @@
     <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/documents/CSAM/reportphishing.png</loc>
   </url>
   <url>
-    <loc>https://it.ucmerced.edu/teal</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/canva</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/Mathematica-Tutorials</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/documents/spss_features.pdf</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/documents/spss_v_stata_comparison.pdf</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/page/documents/rba02-spss_features.pdf</loc>
-  </url>
-  <url>
     <loc>https://it.ucmerced.edu/policy_reference</loc>
   </url>
   <url>
@@ -305,6 +287,9 @@
   </url>
   <url>
     <loc>https://it.ucmerced.edu/2FA_PhoneBased_Auth</loc>
+  </url>
+  <url>
+    <loc>https://it.ucmerced.edu/teal</loc>
   </url>
   <url>
     <loc>https://it.ucmerced.edu/remotelab</loc>
@@ -320,6 +305,21 @@
   </url>
   <url>
     <loc>https://it.ucmerced.edu/kaltura</loc>
+  </url>
+  <url>
+    <loc>https://it.ucmerced.edu/canva</loc>
+  </url>
+  <url>
+    <loc>https://it.ucmerced.edu/Mathematica-Tutorials</loc>
+  </url>
+  <url>
+    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/documents/spss_features.pdf</loc>
+  </url>
+  <url>
+    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/documents/spss_v_stata_comparison.pdf</loc>
+  </url>
+  <url>
+    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/page/documents/rba02-spss_features.pdf</loc>
   </url>
   <url>
     <loc>https://it.ucmerced.edu/High-Performance-Computing/Clusters/RequestingAccount</loc>
@@ -355,10 +355,10 @@
     <loc>https://it.ucmerced.edu/Duo_VP</loc>
   </url>
   <url>
-    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/page/documents/teal_lab_use_requirements-rev_october2023.pdf</loc>
+    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/page/ISO/uc-it-21-0550_bfb-is-12_it-recovery_accessible.pdf</loc>
   </url>
   <url>
-    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/page/ISO/uc-it-21-0550_bfb-is-12_it-recovery_accessible.pdf</loc>
+    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/page/documents/teal_lab_use_requirements-rev_october2023.pdf</loc>
   </url>
   <url>
     <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/documents/zoom_cheat_sheet.jpg</loc>

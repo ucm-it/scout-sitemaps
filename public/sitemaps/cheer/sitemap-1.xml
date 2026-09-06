@@ -13,9 +13,6 @@
     <loc>https://cheer.ucmerced.edu/people</loc>
   </url>
   <url>
-    <loc>https://cheer.ucmerced.edu/research-and-policy-briefs</loc>
-  </url>
-  <url>
     <loc>https://cheer.ucmerced.edu/research-and-policy-briefs/burden-chronic-conditions</loc>
   </url>
   <url>
@@ -28,10 +25,16 @@
     <loc>https://cheer.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>https://cheer.ucmerced.edu/research-and-policy-briefs</loc>
+  </url>
+  <url>
     <loc>https://cheer.ucmerced.edu/past-events</loc>
   </url>
   <url>
     <loc>https://cheer.ucmerced.edu/burden-chronic-conditions-0</loc>
+  </url>
+  <url>
+    <loc>https://cheer.ucmerced.edu/roi-chronic-disease-prevention-0</loc>
   </url>
   <url>
     <loc>https://cheer.ucmerced.edu/content/paul-brown-phd</loc>
@@ -88,6 +91,9 @@
     <loc>https://cheer.ucmerced.edu/content/imrinder-toor</loc>
   </url>
   <url>
+    <loc>https://cheer.ucmerced.edu/sites/cheer.ucmerced.edu/files/page/documents/brown_cost_of_chronic_conditions_jphmp_2014.pdf</loc>
+  </url>
+  <url>
     <loc>https://cheer.ucmerced.edu/news/2026/how-much-does-wildfire-reduce-forest-water-use-and-increase-runoff</loc>
   </url>
   <url>
@@ -95,9 +101,6 @@
   </url>
   <url>
     <loc>https://cheer.ucmerced.edu/news/2026/turning-carbon-footprint-carbon-wave</loc>
-  </url>
-  <url>
-    <loc>https://cheer.ucmerced.edu/sites/cheer.ucmerced.edu/files/page/documents/brown_cost_of_chronic_conditions_jphmp_2014.pdf</loc>
   </url>
   <url>
     <loc>https://cheer.ucmerced.edu/media-contact/patty-guerra</loc>

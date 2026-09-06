@@ -16,9 +16,6 @@
     <loc>https://lgbtqpridecenter.ucmerced.edu/about/staff</loc>
   </url>
   <url>
-    <loc>https://lgbtqpridecenter.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
     <loc>https://lgbtqpridecenter.ucmerced.edu/community</loc>
   </url>
   <url>
@@ -29,6 +26,9 @@
   </url>
   <url>
     <loc>https://lgbtqpridecenter.ucmerced.edu/form/volunqueer</loc>
+  </url>
+  <url>
+    <loc>https://lgbtqpridecenter.ucmerced.edu/education-workshops</loc>
   </url>
   <url>
     <loc>https://lgbtqpridecenter.ucmerced.edu/education-workshops/education</loc>
@@ -61,7 +61,7 @@
     <loc>https://lgbtqpridecenter.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://lgbtqpridecenter.ucmerced.edu/education-workshops</loc>
+    <loc>https://lgbtqpridecenter.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://lgbtqpridecenter.ucmerced.edu/sites/lgbtqpridecenter.ucmerced.edu/files/documents/lgbtqi_terminology.pdf</loc>

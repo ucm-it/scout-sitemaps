@@ -37,9 +37,6 @@
     <loc>https://saa.ucmerced.edu/saaevents</loc>
   </url>
   <url>
-    <loc>https://saa.ucmerced.edu/programs</loc>
-  </url>
-  <url>
     <loc>https://saa.ucmerced.edu/interest</loc>
   </url>
   <url>
@@ -65,6 +62,9 @@
   </url>
   <url>
     <loc>https://saa.ucmerced.edu/events</loc>
+  </url>
+  <url>
+    <loc>https://saa.ucmerced.edu/programs</loc>
   </url>
   <url>
     <loc>http://saa.ucmerced.edu/rss.xml</loc>

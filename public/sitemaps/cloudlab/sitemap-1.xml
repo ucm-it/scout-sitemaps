@@ -34,13 +34,7 @@
     <loc>https://cloudlab.ucmerced.edu/people/prof-mukesh-singhal/books</loc>
   </url>
   <url>
-    <loc>https://cloudlab.ucmerced.edu/people/prof-mukesh-singhal/selected-publications</loc>
-  </url>
-  <url>
     <loc>https://cloudlab.ucmerced.edu/node/21</loc>
-  </url>
-  <url>
-    <loc>https://cloudlab.ucmerced.edu/~mehdi-bahrami</loc>
   </url>
   <url>
     <loc>https://cloudlab.ucmerced.edu/~mehdi-bahrami/granted_us_patents</loc>
@@ -86,6 +80,12 @@
   </url>
   <url>
     <loc>https://cloudlab.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://cloudlab.ucmerced.edu/people/prof-mukesh-singhal/selected-publications</loc>
+  </url>
+  <url>
+    <loc>https://cloudlab.ucmerced.edu/~mehdi-bahrami</loc>
   </url>
   <url>
     <loc>http://cloudlab.ucmerced.edu/</loc>
@@ -217,9 +217,6 @@
     <loc>https://cloudlab.ucmerced.edu/~mehdi</loc>
   </url>
   <url>
-    <loc>https://cloudlab.ucmerced.edu/sites/cloudlab.ucmerced.edu/files/page/images/mehdi_bahrami_ucmerced_cloudlab_hq.jpg</loc>
-  </url>
-  <url>
     <loc>https://cloudlab.ucmerced.edu/sites/cloudlab.ucmerced.edu/files/page/images/mehdi_bahrami_graduate_exhibition.jpg</loc>
   </url>
   <url>
@@ -278,6 +275,9 @@
   </url>
   <url>
     <loc>https://cloudlab.ucmerced.edu/sites/cloudlab.ucmerced.edu/files/documents/ieee_smc_2014.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cloudlab.ucmerced.edu/sites/cloudlab.ucmerced.edu/files/page/images/mehdi_bahrami_ucmerced_cloudlab_hq.jpg</loc>
   </url>
   <url>
     <loc>https://cloudlab.ucmerced.edu/sites/cloudlab.ucmerced.edu/files/page/documents/jsc_hybrid.pdf</loc>

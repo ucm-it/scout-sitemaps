@@ -10,9 +10,6 @@
     <loc>https://nmr.ucmerced.edu/content/400-mhz-and-500-mhz-nmr-analytical-structure-determination</loc>
   </url>
   <url>
-    <loc>https://nmr.ucmerced.edu/nmr-systems</loc>
-  </url>
-  <url>
     <loc>https://nmr.ucmerced.edu/nmr-systems/600-mhz-nmr-system</loc>
   </url>
   <url>
@@ -28,13 +25,13 @@
     <loc>https://nmr.ucmerced.edu/nmr-systems/sample-preparation</loc>
   </url>
   <url>
+    <loc>https://nmr.ucmerced.edu/nmr-systems/nmr-tubes</loc>
+  </url>
+  <url>
     <loc>https://nmr.ucmerced.edu/nmr-systems/deuterated-solvents</loc>
   </url>
   <url>
     <loc>https://nmr.ucmerced.edu/nmr-systems/no-deuterium-nmr</loc>
-  </url>
-  <url>
-    <loc>https://nmr.ucmerced.edu/ilab-calendars</loc>
   </url>
   <url>
     <loc>https://nmr.ucmerced.edu/ilab-calendars/avance-iii-600-instructions</loc>
@@ -91,7 +88,10 @@
     <loc>https://nmr.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://nmr.ucmerced.edu/nmr-systems/nmr-tubes</loc>
+    <loc>https://nmr.ucmerced.edu/nmr-systems</loc>
+  </url>
+  <url>
+    <loc>https://nmr.ucmerced.edu/ilab-calendars</loc>
   </url>
   <url>
     <loc>https://nmr.ucmerced.edu/colors/black</loc>

@@ -46,9 +46,6 @@
     <loc>https://economics.ucmerced.edu/undergraduate-programs/minors/accounting-minor</loc>
   </url>
   <url>
-    <loc>https://economics.ucmerced.edu/undergraduate-programs/minors/business-administration-minor</loc>
-  </url>
-  <url>
     <loc>https://economics.ucmerced.edu/undergraduate-programs/minors/economics-minor</loc>
   </url>
   <url>
@@ -82,9 +79,6 @@
     <loc>https://economics.ucmerced.edu/graduate-program/graduate-student-achievements</loc>
   </url>
   <url>
-    <loc>https://economics.ucmerced.edu/sites/g/files/ufvvjh771/f/documents/2025.10.06_econ_pps_clean_accessible.pdf</loc>
-  </url>
-  <url>
     <loc>https://economics.ucmerced.edu/people/people</loc>
   </url>
   <url>
@@ -95,6 +89,12 @@
   </url>
   <url>
     <loc>https://economics.ucmerced.edu/alumni</loc>
+  </url>
+  <url>
+    <loc>https://economics.ucmerced.edu/graduate-students-alumni</loc>
+  </url>
+  <url>
+    <loc>https://economics.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://economics.ucmerced.edu/academics/undergraduate</loc>
@@ -130,19 +130,16 @@
     <loc>https://economics.ucmerced.edu/node?page=6</loc>
   </url>
   <url>
-    <loc>https://economics.ucmerced.edu/node?page=7</loc>
-  </url>
-  <url>
     <loc>https://economics.ucmerced.edu/node?page=8</loc>
   </url>
   <url>
     <loc>https://economics.ucmerced.edu/node?page=17</loc>
   </url>
   <url>
-    <loc>https://economics.ucmerced.edu/graduate-students-alumni</loc>
+    <loc>https://economics.ucmerced.edu/undergraduate-programs/minors/business-administration-minor</loc>
   </url>
   <url>
-    <loc>https://economics.ucmerced.edu/contact-us</loc>
+    <loc>https://economics.ucmerced.edu/node?page=7</loc>
   </url>
   <url>
     <loc>https://economics.ucmerced.edu/sites/g/files/ufvvjh771/f/documents/ebm_department_majors_plo_map_2025_1_1.pdf</loc>
@@ -298,6 +295,9 @@
     <loc>https://economics.ucmerced.edu/content/tim-wu</loc>
   </url>
   <url>
+    <loc>https://economics.ucmerced.edu/content/raymond-kim-0</loc>
+  </url>
+  <url>
     <loc>https://economics.ucmerced.edu/media-contact/jody-murray</loc>
   </url>
   <url>
@@ -340,6 +340,9 @@
     <loc>https://economics.ucmerced.edu/news/2024/professor-andrew-johnston-research-featured-lets-reform-how-we-pay-teachers</loc>
   </url>
   <url>
+    <loc>https://economics.ucmerced.edu/news/2024/ebm-student-kanchana-khat-receives-outstanding-research-presentation-award-2024-sacnas</loc>
+  </url>
+  <url>
     <loc>https://economics.ucmerced.edu/news/2024/3-new-majors-meet-crossroads-communication-and-science</loc>
   </url>
   <url>
@@ -361,18 +364,6 @@
     <loc>https://economics.ucmerced.edu/node?page=10</loc>
   </url>
   <url>
-    <loc>https://economics.ucmerced.edu/news/2024/dcs-immigration-debate-comes-head</loc>
-  </url>
-  <url>
-    <loc>https://economics.ucmerced.edu/news/2023/three-hellman-fellows-awarded-uc-merced</loc>
-  </url>
-  <url>
-    <loc>https://economics.ucmerced.edu/news/2023/soccer-standout-heads-uc-merced-fall</loc>
-  </url>
-  <url>
-    <loc>https://economics.ucmerced.edu/node?page=11</loc>
-  </url>
-  <url>
     <loc>https://economics.ucmerced.edu/news/2023/ebm-faculty-honors-graduating-seniors</loc>
   </url>
   <url>
@@ -380,6 +371,9 @@
   </url>
   <url>
     <loc>https://economics.ucmerced.edu/news/2023/justin-hicks-receives-fall-2022-facultystaff-award-supporting-student-well-being</loc>
+  </url>
+  <url>
+    <loc>https://economics.ucmerced.edu/node?page=11</loc>
   </url>
   <url>
     <loc>https://economics.ucmerced.edu/node?page=12</loc>
@@ -400,7 +394,13 @@
     <loc>https://economics.ucmerced.edu/node?page=15</loc>
   </url>
   <url>
-    <loc>https://economics.ucmerced.edu/content/raymond-kim-0</loc>
+    <loc>https://economics.ucmerced.edu/news/2024/dcs-immigration-debate-comes-head</loc>
+  </url>
+  <url>
+    <loc>https://economics.ucmerced.edu/news/2023/three-hellman-fellows-awarded-uc-merced</loc>
+  </url>
+  <url>
+    <loc>https://economics.ucmerced.edu/news/2023/soccer-standout-heads-uc-merced-fall</loc>
   </url>
   <url>
     <loc>https://economics.ucmerced.edu/taxonomy/term/1261/feed</loc>
@@ -409,10 +409,10 @@
     <loc>https://economics.ucmerced.edu/news/2023/briana-ballis-receives-upjohn-institute-award</loc>
   </url>
   <url>
-    <loc>https://economics.ucmerced.edu/news/2023/ana-tur-prats-publishes-quarterly-journal-economics</loc>
+    <loc>https://economics.ucmerced.edu/news/2023/extra-pay-could-lure-experienced-teachers-poorer-schools</loc>
   </url>
   <url>
-    <loc>https://economics.ucmerced.edu/news/2023/extra-pay-could-lure-experienced-teachers-poorer-schools</loc>
+    <loc>https://economics.ucmerced.edu/news/2023/ana-tur-prats-publishes-quarterly-journal-economics</loc>
   </url>
   <url>
     <loc>https://economics.ucmerced.edu/media-contact/brenda-ortiz</loc>
@@ -425,9 +425,6 @@
   </url>
   <url>
     <loc>https://economics.ucmerced.edu/news/2022/systemwide-climate-justice-course-debuts-fall</loc>
-  </url>
-  <url>
-    <loc>https://economics.ucmerced.edu/media-contact/patty-guerra</loc>
   </url>
   <url>
     <loc>https://economics.ucmerced.edu/news/2022/sticker-shock-inflation-united-states-jumped-85</loc>
@@ -484,10 +481,10 @@
     <loc>https://economics.ucmerced.edu/news/2020/professor-justin-hicks-receives-2020-remote-instruction-excellence-award</loc>
   </url>
   <url>
-    <loc>https://economics.ucmerced.edu/taxonomy/term/861/feed</loc>
+    <loc>https://economics.ucmerced.edu/media-contact/patty-guerra</loc>
   </url>
   <url>
-    <loc>https://economics.ucmerced.edu/taxonomy/term/1021/feed</loc>
+    <loc>https://economics.ucmerced.edu/taxonomy/term/861/feed</loc>
   </url>
   <url>
     <loc>https://economics.ucmerced.edu/media-contact/desiree-lopez</loc>
@@ -503,6 +500,9 @@
   </url>
   <url>
     <loc>https://economics.ucmerced.edu/media-contact/elizabeth-arakelian</loc>
+  </url>
+  <url>
+    <loc>https://economics.ucmerced.edu/taxonomy/term/1021/feed</loc>
   </url>
   <url>
     <loc>https://economics.ucmerced.edu/taxonomy/term/401/feed</loc>

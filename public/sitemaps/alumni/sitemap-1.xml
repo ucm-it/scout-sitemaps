@@ -16,9 +16,6 @@
     <loc>https://alumni.ucmerced.edu/about/alumni-relations-team</loc>
   </url>
   <url>
-    <loc>https://alumni.ucmerced.edu/about/ucmaa</loc>
-  </url>
-  <url>
     <loc>https://alumni.ucmerced.edu/events</loc>
   </url>
   <url>
@@ -46,6 +43,9 @@
     <loc>https://alumni.ucmerced.edu/events/uc-acn-webinar-ensuring-your-professional-longevity</loc>
   </url>
   <url>
+    <loc>https://alumni.ucmerced.edu/events/uc-acn-webinar-when-traditional-career-advice-doesnt-fit-your-brain-adhd-work</loc>
+  </url>
+  <url>
     <loc>https://alumni.ucmerced.edu/events/ucdc-celebrating-25-years-impact</loc>
   </url>
   <url>
@@ -55,7 +55,7 @@
     <loc>https://alumni.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://alumni.ucmerced.edu/events/uc-acn-webinar-when-traditional-career-advice-doesnt-fit-your-brain-adhd-work</loc>
+    <loc>https://alumni.ucmerced.edu/about/ucmaa</loc>
   </url>
   <url>
     <loc>https://alumni.ucmerced.edu/sites/alumni.ucmerced.edu/files/page/documents/ucmaa_board_constitution_4.17.20_1.pdf</loc>
@@ -83,9 +83,6 @@
   </url>
   <url>
     <loc>https://alumni.ucmerced.edu/applynow</loc>
-  </url>
-  <url>
-    <loc>https://alumni.ucmerced.edu/volunteer</loc>
   </url>
   <url>
     <loc>https://alumni.ucmerced.edu/sites/alumni.ucmerced.edu/files/page/documents/my_merced_alma_mater_lyrics_2025_final.pdf</loc>
@@ -143,6 +140,9 @@
   </url>
   <url>
     <loc>http://alumni.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://alumni.ucmerced.edu/volunteer</loc>
   </url>
   <url>
     <loc>https://alumni.ucmerced.edu/sites/g/files/ufvvjh366/f/page/documents/10.18.25_-_ucmaa_board_meeting_minutes.pdf</loc>

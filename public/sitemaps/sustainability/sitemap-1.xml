@@ -22,9 +22,6 @@
     <loc>https://sustainability.ucmerced.edu/about-us/bonnie-reiss-fellows/previous-fellows</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/accomplishments</loc>
-  </url>
-  <url>
     <loc>https://sustainability.ucmerced.edu/about-us/accomplishments/aashe-stars-report</loc>
   </url>
   <url>
@@ -37,7 +34,7 @@
     <loc>https://sustainability.ucmerced.edu/about-us/accomplishments/epeat-purchaser-award</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/about-us/accomplishments/real-decarbonization-%E2%80%93-2024-campus-wide-survey</loc>
+    <loc>https://sustainability.ucmerced.edu/about-us/accomplishments/decarbonization-%E2%80%93-2024-campus-wide-survey</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/about-us/chancellors-advisory-committee-sustainabiity</loc>
@@ -47,6 +44,9 @@
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/about-us/community-partners</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/about-us/student-clubsorganizations</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/about-us/our-living-environment</loc>
@@ -103,6 +103,9 @@
     <loc>https://sustainability.ucmerced.edu/living-lab/projects</loc>
   </url>
   <url>
+    <loc>https://sustainability.ucmerced.edu/living-lab/projects/water-monsters</loc>
+  </url>
+  <url>
     <loc>https://sustainability.ucmerced.edu/sustainability-dashboard</loc>
   </url>
   <url>
@@ -154,10 +157,16 @@
     <loc>https://sustainability.ucmerced.edu/events</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/event-recaps</loc>
+    <loc>https://sustainability.ucmerced.edu/events/event-archive</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/event-recaps/2026-climate-action-town-hall</loc>
+    <loc>https://sustainability.ucmerced.edu/events/event-archive/2026-earth-day-festival</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/event-archive/2026-climate-action-town-hall</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/events/event-archive/2026-women-sustainability-fool-passion-or-success</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/resources</loc>
@@ -193,7 +202,7 @@
     <loc>https://sustainability.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/about-us/student-clubsorganizations</loc>
+    <loc>https://sustainability.ucmerced.edu/accomplishments</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/sites/g/files/ufvvjh1806/f/page/documents/decarbonization_survey_report_1_.pdf</loc>
@@ -209,6 +218,9 @@
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/get-involved/student/yosemite-leadership-program</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/facs/sustainability-faculty/more-about-brokaw</loc>
@@ -685,10 +697,10 @@
     <loc>https://sustainability.ucmerced.edu/events/gamws-showcase</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/sustainability-awareness-tabling-2</loc>
+    <loc>https://sustainability.ucmerced.edu/events/campus-garden-volunteering-3</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/campus-garden-volunteering-3</loc>
+    <loc>https://sustainability.ucmerced.edu/events/sustainability-awareness-tabling-2</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/sustainability-awareness-tabling-1</loc>
@@ -718,10 +730,10 @@
     <loc>https://sustainability.ucmerced.edu/events/campus-garden-volunteering</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/earth-day-celebration</loc>
+    <loc>https://sustainability.ucmerced.edu/events/sustainability-tabling</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/sustainability-tabling</loc>
+    <loc>https://sustainability.ucmerced.edu/events/earth-day-celebration</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/horseback-riding</loc>
@@ -745,7 +757,13 @@
     <loc>https://sustainability.ucmerced.edu/sites/g/files/ufvvjh1806/f/page/documents/2017_wap_update.docx</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects</loc>
+    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects/tea-project</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects/air-quality-project</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects/local-food-project</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/more-about-skurtz</loc>
@@ -803,14 +821,5 @@
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/pollinators</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects/tea-project</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects/air-quality-project</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/resources/carson-house-projects/local-food-project</loc>
   </url>
 </urlset>

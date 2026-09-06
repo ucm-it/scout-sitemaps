@@ -22,12 +22,6 @@
     <loc>https://supplychain.ucmerced.edu/procurement1</loc>
   </url>
   <url>
-    <loc>https://supplychain.ucmerced.edu/officehours</loc>
-  </url>
-  <url>
-    <loc>https://supplychain.ucmerced.edu/procurement/how-buy-uc-merced</loc>
-  </url>
-  <url>
     <loc>https://supplychain.ucmerced.edu/procurement/how-buy-uc-merced/RSSP</loc>
   </url>
   <url>
@@ -214,6 +208,12 @@
     <loc>https://supplychain.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://supplychain.ucmerced.edu/officehours</loc>
+  </url>
+  <url>
+    <loc>https://supplychain.ucmerced.edu/procurement/how-buy-uc-merced</loc>
+  </url>
+  <url>
     <loc>https://supplychain.ucmerced.edu/news/2026/uc-merced-receives-award-responsible-electronics-procurement</loc>
   </url>
   <url>
@@ -232,13 +232,13 @@
     <loc>https://supplychain.ucmerced.edu/news/2026/spring-2026-bobcatbuy-catalog-and-requisition-training</loc>
   </url>
   <url>
+    <loc>https://supplychain.ucmerced.edu/news/2025/bobcatbuy-enhancement-better-shopping-experience</loc>
+  </url>
+  <url>
     <loc>https://supplychain.ucmerced.edu/news/2025/newly-approved-drop-and-go-delivery-local-businesses</loc>
   </url>
   <url>
     <loc>https://supplychain.ucmerced.edu/news/2025/policy-update-unauthorized-purchases</loc>
-  </url>
-  <url>
-    <loc>https://supplychain.ucmerced.edu/news/2025/bobcatbuy-enhancement-better-shopping-experience</loc>
   </url>
   <url>
     <loc>https://supplychain.ucmerced.edu/news/2025/new-p-card-expense-report-schedule-effective-november-7-2025</loc>
@@ -254,36 +254,6 @@
   </url>
   <url>
     <loc>https://supplychain.ucmerced.edu/news?page=4</loc>
-  </url>
-  <url>
-    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/p2p_office_hours_summary_notes_locked_2026-07-23a.docx</loc>
-  </url>
-  <url>
-    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/p2p_office_hours_summary_notes_locked_2026-05-28a.docx</loc>
-  </url>
-  <url>
-    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/p2p_office_hours_summary_notes_locked_2026-04-23a.docx</loc>
-  </url>
-  <url>
-    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/p2p_office_hours_summary_notes_locked_2026-03-26.docx</loc>
-  </url>
-  <url>
-    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/p2p_office_hours_summary_notes_locked_2026-02-26.docx</loc>
-  </url>
-  <url>
-    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/p2p_office_hours_summary_notes_locked_2026-01-22.docx</loc>
-  </url>
-  <url>
-    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/p2p_office_hours_summary_notes_locked_2025-12-11.docx</loc>
-  </url>
-  <url>
-    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/p2p_office_hours_summary_notes_locked_2025-10-23.docx</loc>
-  </url>
-  <url>
-    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/ucm_unauthorized_purchase_policy_violation_form_2026-05_accessible.pdf</loc>
-  </url>
-  <url>
-    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/ucm_unauthorized_purchase_policy_2026_accessible.pdf</loc>
   </url>
   <url>
     <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/self-service_procurement_catalog_requisition_step-by-step_guide_accessible_2026-04-17.pdf</loc>
@@ -326,6 +296,36 @@
   </url>
   <url>
     <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/uc_merced_supplier_onboarding_and_invoice_insturctions_lettera.pdf</loc>
+  </url>
+  <url>
+    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/p2p_office_hours_summary_notes_locked_2026-07-23a.docx</loc>
+  </url>
+  <url>
+    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/p2p_office_hours_summary_notes_locked_2026-05-28a.docx</loc>
+  </url>
+  <url>
+    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/p2p_office_hours_summary_notes_locked_2026-04-23a.docx</loc>
+  </url>
+  <url>
+    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/p2p_office_hours_summary_notes_locked_2026-03-26.docx</loc>
+  </url>
+  <url>
+    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/p2p_office_hours_summary_notes_locked_2026-02-26.docx</loc>
+  </url>
+  <url>
+    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/p2p_office_hours_summary_notes_locked_2026-01-22.docx</loc>
+  </url>
+  <url>
+    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/p2p_office_hours_summary_notes_locked_2025-12-11.docx</loc>
+  </url>
+  <url>
+    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/p2p_office_hours_summary_notes_locked_2025-10-23.docx</loc>
+  </url>
+  <url>
+    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/ucm_unauthorized_purchase_policy_violation_form_2026-08-31_accessible.pdf</loc>
+  </url>
+  <url>
+    <loc>https://supplychain.ucmerced.edu/sites/g/files/ufvvjh1801/f/page/documents/ucm_unauthorized_purchase_policy_2026_accessible.pdf</loc>
   </url>
   <url>
     <loc>https://supplychain.ucmerced.edu/news/2025/streamline-your-orders-mid-november-exclusive-transition-new-purchase-requisition</loc>

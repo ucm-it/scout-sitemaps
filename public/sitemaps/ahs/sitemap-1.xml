@@ -7,9 +7,6 @@
     <loc>https://ahs.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://ahs.ucmerced.edu/faculty</loc>
-  </url>
-  <url>
     <loc>https://ahs.ucmerced.edu/undergraduate-progams</loc>
   </url>
   <url>
@@ -40,6 +37,9 @@
     <loc>https://ahs.ucmerced.edu/student-resources/field-schools</loc>
   </url>
   <url>
+    <loc>https://ahs.ucmerced.edu/student-resources/internships-employment</loc>
+  </url>
+  <url>
     <loc>https://ahs.ucmerced.edu/student-resources/research-funding</loc>
   </url>
   <url>
@@ -52,7 +52,7 @@
     <loc>https://ahs.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://ahs.ucmerced.edu/student-resources/internships-employment</loc>
+    <loc>https://ahs.ucmerced.edu/faculty</loc>
   </url>
   <url>
     <loc>https://ahs.ucmerced.edu/content/holley-moyes</loc>

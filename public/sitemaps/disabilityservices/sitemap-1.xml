@@ -40,9 +40,6 @@
     <loc>https://disabilityservices.ucmerced.edu/student-resources/documentation-guidelines/learning-disability</loc>
   </url>
   <url>
-    <loc>https://disabilityservices.ucmerced.edu/node/11</loc>
-  </url>
-  <url>
     <loc>https://disabilityservices.ucmerced.edu/student-resources/documentation-guidelines/psychological-disabilities</loc>
   </url>
   <url>
@@ -115,9 +112,12 @@
     <loc>https://disabilityservices.ucmerced.edu/animal-policy</loc>
   </url>
   <url>
+    <loc>https://disabilityservices.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
     <loc>https://disabilityservices.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://disabilityservices.ucmerced.edu/rss.xml</loc>
+    <loc>https://disabilityservices.ucmerced.edu/node/11</loc>
   </url>
 </urlset>

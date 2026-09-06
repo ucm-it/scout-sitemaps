@@ -25,9 +25,6 @@
     <loc>https://cosmos.ucmerced.edu/clusters/cluster-1-soft-matter-uc-merced-complex-fluids-and-flows</loc>
   </url>
   <url>
-    <loc>https://cosmos.ucmerced.edu/about-cosmos/our-campus-and-clusters/nanomaterials-accelerating-chemical-reactions</loc>
-  </url>
-  <url>
     <loc>https://cosmos.ucmerced.edu/clusters/cluster-3-exploring-materials</loc>
   </url>
   <url>
@@ -82,6 +79,9 @@
     <loc>https://cosmos.ucmerced.edu/admitted-students/what-bring</loc>
   </url>
   <url>
+    <loc>https://cosmos.ucmerced.edu/admitted-students/student-conduct</loc>
+  </url>
+  <url>
     <loc>https://cosmos.ucmerced.edu/admitted-students/guidlines-living-together</loc>
   </url>
   <url>
@@ -112,6 +112,6 @@
     <loc>https://cosmos.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://cosmos.ucmerced.edu/admitted-students/student-conduct</loc>
+    <loc>https://cosmos.ucmerced.edu/about-cosmos/our-campus-and-clusters/nanomaterials-accelerating-chemical-reactions</loc>
   </url>
 </urlset>

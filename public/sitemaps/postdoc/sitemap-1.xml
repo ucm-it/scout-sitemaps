@@ -16,6 +16,9 @@
     <loc>https://postdoc.ucmerced.edu/current-postdocs/resources/new-postdoctoral-scholar-orientation</loc>
   </url>
   <url>
+    <loc>https://postdoc.ucmerced.edu/current-postdocs/resources/compensationbenefits</loc>
+  </url>
+  <url>
     <loc>https://postdoc.ucmerced.edu/postdoctoral-fellowships</loc>
   </url>
   <url>
@@ -26,9 +29,6 @@
   </url>
   <url>
     <loc>https://postdoc.ucmerced.edu/professional-development/career-planning-resources</loc>
-  </url>
-  <url>
-    <loc>https://postdoc.ucmerced.edu/events</loc>
   </url>
   <url>
     <loc>https://postdoc.ucmerced.edu/events/postdoctoral-scholars-appreciation-week</loc>
@@ -43,40 +43,7 @@
     <loc>https://postdoc.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://postdoc.ucmerced.edu/current-postdocs/resources/compensationbenefits</loc>
-  </url>
-  <url>
-    <loc>https://postdoc.ucmerced.edu/events/new-postdoc-orientation-1</loc>
-  </url>
-  <url>
-    <loc>https://postdoc.ucmerced.edu/events/new-postdoc-orientation</loc>
-  </url>
-  <url>
-    <loc>https://postdoc.ucmerced.edu/events/new-postdoc-orientation-0</loc>
-  </url>
-  <url>
-    <loc>https://postdoc.ucmerced.edu/events/uc-pbsp-open-enrollment-meeting</loc>
-  </url>
-  <url>
-    <loc>https://postdoc.ucmerced.edu/events/ppfp-2024-2025-application-deadline</loc>
-  </url>
-  <url>
-    <loc>https://postdoc.ucmerced.edu/events/psbp-open-enrollment</loc>
-  </url>
-  <url>
-    <loc>https://postdoc.ucmerced.edu/events/postdoc-appreciation-week-coffee-mixer</loc>
-  </url>
-  <url>
-    <loc>https://postdoc.ucmerced.edu/events/postdoc-appreciation-week-pizza-trivia</loc>
-  </url>
-  <url>
-    <loc>https://postdoc.ucmerced.edu/events/postdoc-appreciation-week-headshots</loc>
-  </url>
-  <url>
-    <loc>https://postdoc.ucmerced.edu/events/postdoc-appreciation-week</loc>
-  </url>
-  <url>
-    <loc>https://postdoc.ucmerced.edu/events/new-postdoc-orientation-virtual</loc>
+    <loc>https://postdoc.ucmerced.edu/events</loc>
   </url>
   <url>
     <loc>https://postdoc.ucmerced.edu/news/2026/uc-merced-researchers-launch-project-bring-light-tuning-materials-central-valley</loc>
@@ -110,6 +77,39 @@
   </url>
   <url>
     <loc>https://postdoc.ucmerced.edu/news?page=1</loc>
+  </url>
+  <url>
+    <loc>https://postdoc.ucmerced.edu/events/new-postdoc-orientation-1</loc>
+  </url>
+  <url>
+    <loc>https://postdoc.ucmerced.edu/events/new-postdoc-orientation</loc>
+  </url>
+  <url>
+    <loc>https://postdoc.ucmerced.edu/events/new-postdoc-orientation-0</loc>
+  </url>
+  <url>
+    <loc>https://postdoc.ucmerced.edu/events/uc-pbsp-open-enrollment-meeting</loc>
+  </url>
+  <url>
+    <loc>https://postdoc.ucmerced.edu/events/ppfp-2024-2025-application-deadline</loc>
+  </url>
+  <url>
+    <loc>https://postdoc.ucmerced.edu/events/psbp-open-enrollment</loc>
+  </url>
+  <url>
+    <loc>https://postdoc.ucmerced.edu/events/postdoc-appreciation-week-coffee-mixer</loc>
+  </url>
+  <url>
+    <loc>https://postdoc.ucmerced.edu/events/postdoc-appreciation-week-pizza-trivia</loc>
+  </url>
+  <url>
+    <loc>https://postdoc.ucmerced.edu/events/postdoc-appreciation-week-headshots</loc>
+  </url>
+  <url>
+    <loc>https://postdoc.ucmerced.edu/events/postdoc-appreciation-week</loc>
+  </url>
+  <url>
+    <loc>https://postdoc.ucmerced.edu/events/new-postdoc-orientation-virtual</loc>
   </url>
   <url>
     <loc>https://postdoc.ucmerced.edu/news/2013/postdoctoral-researcher%E2%80%99s-work-international-ecology-journal</loc>

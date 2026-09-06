@@ -10,6 +10,9 @@
     <loc>https://pab.ucmerced.edu/about</loc>
   </url>
   <url>
+    <loc>https://pab.ucmerced.edu/about/pab-members-and-administrative-advisory-group</loc>
+  </url>
+  <url>
     <loc>https://pab.ucmerced.edu/about/membership-information</loc>
   </url>
   <url>
@@ -28,19 +31,16 @@
     <loc>https://pab.ucmerced.edu/file-complaint</loc>
   </url>
   <url>
-    <loc>https://pab.ucmerced.edu/complaints/complaint-resolution</loc>
-  </url>
-  <url>
     <loc>https://pab.ucmerced.edu/data-reports</loc>
-  </url>
-  <url>
-    <loc>https://pab.ucmerced.edu/resources</loc>
   </url>
   <url>
     <loc>https://pab.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://pab.ucmerced.edu/about/pab-members-and-administrative-advisory-group</loc>
+    <loc>https://pab.ucmerced.edu/complaints/complaint-resolution</loc>
+  </url>
+  <url>
+    <loc>https://pab.ucmerced.edu/resources</loc>
   </url>
   <url>
     <loc>https://pab.ucmerced.edu/form/pab-membership-nomination-form</loc>

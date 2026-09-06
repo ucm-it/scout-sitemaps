@@ -16,6 +16,9 @@
     <loc>https://cec.ucmerced.edu/psa</loc>
   </url>
   <url>
+    <loc>https://cec.ucmerced.edu/news</loc>
+  </url>
+  <url>
     <loc>https://cec.ucmerced.edu/students</loc>
   </url>
   <url>
@@ -23,9 +26,6 @@
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/pathways</loc>
-  </url>
-  <url>
-    <loc>https://cec.ucmerced.edu/students/student-collaborations</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/service-hours</loc>
@@ -82,7 +82,7 @@
     <loc>https://cec.ucmerced.edu/staff</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news</loc>
+    <loc>https://cec.ucmerced.edu/students/student-collaborations</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/events/merced-community-health-fair-california-alliance-health</loc>
@@ -430,10 +430,10 @@
     <loc>https://cec.ucmerced.edu/events/food-distribution-1</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/events/mvpgr-clear-cocklebur</loc>
+    <loc>https://cec.ucmerced.edu/events/campus-garden-workday-10</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/events/campus-garden-workday-10</loc>
+    <loc>https://cec.ucmerced.edu/events/mvpgr-clear-cocklebur</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/events/hhaw-empty-bowl-project-trivia-night</loc>
@@ -478,10 +478,10 @@
     <loc>https://cec.ucmerced.edu/events/grill-and-give-bcb-business-society-dsp-and-bsu</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/events/campus-garden-workday-8</loc>
+    <loc>https://cec.ucmerced.edu/events/merced-field-honor-volunteer-opportunities</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/events/merced-field-honor-volunteer-opportunities</loc>
+    <loc>https://cec.ucmerced.edu/events/campus-garden-workday-8</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/events/november-psas-0</loc>
@@ -604,10 +604,10 @@
     <loc>https://cec.ucmerced.edu/Food_Distribution_Sept19</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/events/yosemite-facelift-registration-person-0</loc>
+    <loc>https://cec.ucmerced.edu/events/campus-garden-workday-2</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/events/campus-garden-workday-2</loc>
+    <loc>https://cec.ucmerced.edu/events/yosemite-facelift-registration-person-0</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/events/valley-onward-health-fair</loc>
@@ -1030,10 +1030,10 @@
     <loc>https://cec.ucmerced.edu/lily_preservation_MVPGR</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/events/pioneer-elementary-school-read-across-america</loc>
+    <loc>https://cec.ucmerced.edu/events/campus-garden-15</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/events/campus-garden-15</loc>
+    <loc>https://cec.ucmerced.edu/events/pioneer-elementary-school-read-across-america</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/events/bright-spark-info-session-person-0</loc>
@@ -1153,13 +1153,13 @@
     <loc>https://cec.ucmerced.edu/events/mlk-day-mini-workshop</loc>
   </url>
   <url>
+    <loc>https://cec.ucmerced.edu/events/park-merced-senior-living</loc>
+  </url>
+  <url>
     <loc>https://cec.ucmerced.edu/events/mlk-committee-unity-march-and-mlk-day-program</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/events/cards-encouragement-1</loc>
-  </url>
-  <url>
-    <loc>https://cec.ucmerced.edu/events/park-merced-senior-living</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/events/stephan-gray-park-clean</loc>
@@ -1207,10 +1207,10 @@
     <loc>https://cec.ucmerced.edu/Campus_Garden_Nov19</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/events/hunger-homelessness-awareness-week</loc>
+    <loc>https://cec.ucmerced.edu/events/thanks-giving</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/events/thanks-giving</loc>
+    <loc>https://cec.ucmerced.edu/events/hunger-homelessness-awareness-week</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/events/field-honor-field-tear-down</loc>
@@ -1603,13 +1603,13 @@
     <loc>https://cec.ucmerced.edu/events/d-st-shelter-diner</loc>
   </url>
   <url>
+    <loc>https://cec.ucmerced.edu/events/painting-flattened-oak-leaves-yosemite-national-park</loc>
+  </url>
+  <url>
     <loc>https://cec.ucmerced.edu/events/cards-encouragement</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/events/merced-city-parade-mlk</loc>
-  </url>
-  <url>
-    <loc>https://cec.ucmerced.edu/events/painting-flattened-oak-leaves-yosemite-national-park</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/events/cec-office-closed</loc>
@@ -1819,10 +1819,10 @@
     <loc>https://cec.ucmerced.edu/events/campus-garden-volunteering-12</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/events/usda-food-distribution-6</loc>
+    <loc>https://cec.ucmerced.edu/events/campus-garden-volunteering-11</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/events/campus-garden-volunteering-11</loc>
+    <loc>https://cec.ucmerced.edu/events/usda-food-distribution-6</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/events/campus-garden-volunteering-10</loc>
@@ -1846,13 +1846,13 @@
     <loc>https://cec.ucmerced.edu/events/bobcat-day-2023</loc>
   </url>
   <url>
+    <loc>https://cec.ucmerced.edu/events/usda-food-distribution-5</loc>
+  </url>
+  <url>
     <loc>https://cec.ucmerced.edu/events/springing-service-earth-day-clean</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/events/campus-garden-volunteering-5</loc>
-  </url>
-  <url>
-    <loc>https://cec.ucmerced.edu/events/usda-food-distribution-5</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/events/clean-lake-road-uc-merced-police-department</loc>
@@ -1918,10 +1918,10 @@
     <loc>https://cec.ucmerced.edu/events/collegecorps-info-session-granite-pass-103</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/events/campus-garden-volunteering-3</loc>
+    <loc>https://cec.ucmerced.edu/events/usda-food-distribution-4</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/events/usda-food-distribution-4</loc>
+    <loc>https://cec.ucmerced.edu/events/campus-garden-volunteering-3</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/events/collegecorps-info-session-zoom-1</loc>
@@ -2029,10 +2029,10 @@
     <loc>https://cec.ucmerced.edu/events/hhaw-infographic-quiz-polls-instagram</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/events/hhaw-food-drive-launch</loc>
+    <loc>https://cec.ucmerced.edu/events/hha-week-kick-rco-tabling</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/events/hha-week-kick-rco-tabling</loc>
+    <loc>https://cec.ucmerced.edu/events/hhaw-food-drive-launch</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/events/national-hunger-and-homelessness-awareness-week-0</loc>
@@ -2359,19 +2359,19 @@
     <loc>https://cec.ucmerced.edu/events/zpooky-nights</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/events/tiny-tots-halloween-pumpkin-party</loc>
+    <loc>https://cec.ucmerced.edu/events/merced-county-project-10-info-session-person</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/events/merced-county-project-10-info-session-person</loc>
+    <loc>https://cec.ucmerced.edu/events/tiny-tots-halloween-pumpkin-party</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/events/integrity-week-tabling</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/events/make-difference-day</loc>
+    <loc>https://cec.ucmerced.edu/events/halloween-street-bash</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/events/halloween-street-bash</loc>
+    <loc>https://cec.ucmerced.edu/events/make-difference-day</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/events/lift-while-you-lead-training-session-virtual</loc>
@@ -2404,6 +2404,9 @@
     <loc>https://cec.ucmerced.edu/events/wellness-day-basic-needs-resources</loc>
   </url>
   <url>
+    <loc>https://cec.ucmerced.edu/events/wellness-day-caps-health-services-resource-tabling</loc>
+  </url>
+  <url>
     <loc>https://cec.ucmerced.edu/events/wellness-day-yoga-meditation-recreation-and-athletics</loc>
   </url>
   <url>
@@ -2414,9 +2417,6 @@
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/events/wellness-day-health-promotion-open-house</loc>
-  </url>
-  <url>
-    <loc>https://cec.ucmerced.edu/events/wellness-day-caps-health-services-resource-tabling</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/events/restorative-justice-league-conference-day</loc>
@@ -2650,24 +2650,6 @@
     <loc>https://cec.ucmerced.edu/alzheimers-association</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/responsibility-agreement</loc>
-  </url>
-  <url>
-    <loc>https://cec.ucmerced.edu/confidentiality-agreement</loc>
-  </url>
-  <url>
-    <loc>https://cec.ucmerced.edu/canra</loc>
-  </url>
-  <url>
-    <loc>https://cec.ucmerced.edu/release-form</loc>
-  </url>
-  <url>
-    <loc>https://cec.ucmerced.edu/psl-certificate</loc>
-  </url>
-  <url>
-    <loc>https://cec.ucmerced.edu/UFC_Award</loc>
-  </url>
-  <url>
     <loc>https://cec.ucmerced.edu/sites/g/files/ufvvjh561/f/documents/end_of_semester_report_s25-.pdf</loc>
   </url>
   <url>
@@ -2695,25 +2677,25 @@
     <loc>https://cec.ucmerced.edu/news/2025/uc-merced-directs-program-train-quantum-science-workforce</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/hmong-american-celebration-honors-uc-merced-pioneers</loc>
+    <loc>https://cec.ucmerced.edu/news/2025/dusty-skies-california-farm-country</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/dusty-skies-california-farm-country</loc>
+    <loc>https://cec.ucmerced.edu/news/2025/hmong-american-celebration-honors-uc-merced-pioneers</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/news/2025/uc-merced-brings-climate-justice-course-title-i-high-school-students-across-nation</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/gift-creates-uc-merced%E2%80%99s-first-endowed-chair-agricultural-technology</loc>
-  </url>
-  <url>
     <loc>https://cec.ucmerced.edu/news/2025/uc-merced-project-aims-strengthen-heat-relief-kern-county</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/its-ours-merced-selected-ucs-newest-campus-30-years-ago</loc>
+    <loc>https://cec.ucmerced.edu/news/2025/gift-creates-uc-merced%E2%80%99s-first-endowed-chair-agricultural-technology</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/news/2025/uc-merced-graduates-encouraged-embrace-every-moment</loc>
+  </url>
+  <url>
+    <loc>https://cec.ucmerced.edu/news/2025/its-ours-merced-selected-ucs-newest-campus-30-years-ago</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/news/2025/uc-merced-celebrate-class-2025-spring-commencement-ceremonies</loc>
@@ -2737,31 +2719,31 @@
     <loc>https://cec.ucmerced.edu/news/2025/how-did-covid-19-pandemic-fuel-record-breaking-wildfires-2020-new-study-explains</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/uc-merced-gifted-new-bicycle-fleet</loc>
+    <loc>https://cec.ucmerced.edu/news/2025/nsf-award-supports-young-faculty-member%E2%80%99s-research-building-blocks-universe</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/nsf-award-supports-young-faculty-member%E2%80%99s-research-building-blocks-universe</loc>
+    <loc>https://cec.ucmerced.edu/news/2025/uc-merced-gifted-new-bicycle-fleet</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/news/2025/sociology-graduate-program-debuts-strongly-us-news-rankings</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/first-time-all-avian-evolutionary-relationships-revealed-through-collaboration</loc>
-  </url>
-  <url>
     <loc>https://cec.ucmerced.edu/news/2025/uc-merced-student%E2%80%99s-photography-joins-exhibit-young-valley-talent</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/carnegie-recognizes-uc-merced-student-access-grad-earnings</loc>
+    <loc>https://cec.ucmerced.edu/news/2025/first-time-all-avian-evolutionary-relationships-revealed-through-collaboration</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/news/2025/chemistry-phd-student-wins-campus-grad-slam-top-prize-advances-uc-wide-final</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/team-advances-aviation-prize-contest</loc>
+    <loc>https://cec.ucmerced.edu/news/2025/carnegie-recognizes-uc-merced-student-access-grad-earnings</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/news/2025/sociology-phd-student-examines-why-workers-protest-el-salvador</loc>
+  </url>
+  <url>
+    <loc>https://cec.ucmerced.edu/news/2025/team-advances-aviation-prize-contest</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/news/2025/students-bobcat-day-why-i-chose-uc-merced</loc>
@@ -2776,19 +2758,19 @@
     <loc>https://cec.ucmerced.edu/news/2025/link-between-dementia-and-air-pollution-drives-research-collaboration</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/uc-merced-welcome-future-bobcats-bobcat-day-celebration</loc>
+    <loc>https://cec.ucmerced.edu/news/2025/graduate-student-earns-fellowship-study-fusion-livermore-lab</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/graduate-student-earns-fellowship-study-fusion-livermore-lab</loc>
+    <loc>https://cec.ucmerced.edu/news/2025/uc-merced-welcome-future-bobcats-bobcat-day-celebration</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/news/2025/woods-nature-works-its-magic-shakespeare-yosemite</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/film-documents-struggle-growing-old-behind-bars</loc>
+    <loc>https://cec.ucmerced.edu/news/2025/bringing-ideas-market-topic-event-uc-merced</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/bringing-ideas-market-topic-event-uc-merced</loc>
+    <loc>https://cec.ucmerced.edu/news/2025/film-documents-struggle-growing-old-behind-bars</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/news/2025/uc-merced-celebrates-student-philanthropy-month-leadership-service-and-giving</loc>
@@ -2806,10 +2788,10 @@
     <loc>https://cec.ucmerced.edu/news/2025/three-engineering-programs-ranked-top-100-us-news</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/address-stigma-build-strength-uc-merced-co-leads-project-lower-lgbtq2s-use-nicotine</loc>
+    <loc>https://cec.ucmerced.edu/news/2025/californians-see-undocumented-immigrants-essential-economy-poll-finds</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/californians-see-undocumented-immigrants-essential-economy-poll-finds</loc>
+    <loc>https://cec.ucmerced.edu/news/2025/address-stigma-build-strength-uc-merced-co-leads-project-lower-lgbtq2s-use-nicotine</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/news/2025/machine-learning-research-earns-career-award</loc>
@@ -2872,10 +2854,10 @@
     <loc>https://cec.ucmerced.edu/news/2025/latinos-often-struggle-keep-their-footing-middle-class-fires-made-it-even-harder-these</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/research-team-focuses-next-generations-scientists</loc>
+    <loc>https://cec.ucmerced.edu/news/2025/author-shannon-lee-discuss-dad-bruce-uc-merced-event</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/author-shannon-lee-discuss-dad-bruce-uc-merced-event</loc>
+    <loc>https://cec.ucmerced.edu/news/2025/research-team-focuses-next-generations-scientists</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/news/2025/merced-native-makes-her-mark-university-and-community</loc>
@@ -2887,10 +2869,10 @@
     <loc>https://cec.ucmerced.edu/news/2025/myles-haynes-wins-big-creating-human-help-project</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/stargazing-and-lecture-offer-unique-perspectives-stars-and-exoplanets</loc>
+    <loc>https://cec.ucmerced.edu/news/2025/center-engages-campus-community-africa-and-its-diaspora</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/center-engages-campus-community-africa-and-its-diaspora</loc>
+    <loc>https://cec.ucmerced.edu/news/2025/stargazing-and-lecture-offer-unique-perspectives-stars-and-exoplanets</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/news/2025/new-hmong-school-curriculum-spotlight-uc-merced-conference</loc>
@@ -2944,10 +2926,10 @@
     <loc>https://cec.ucmerced.edu/news/2025/projects-solve-problems-win-awards-i2g</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/study-says-climate-change-made-conditions-fed-california-wildfires-more-likely-more</loc>
+    <loc>https://cec.ucmerced.edu/news/2025/world-spanning-art-earth-kicks-uc-merced-arts-spring-season</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/world-spanning-art-earth-kicks-uc-merced-arts-spring-season</loc>
+    <loc>https://cec.ucmerced.edu/news/2025/study-says-climate-change-made-conditions-fed-california-wildfires-more-likely-more</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/news/2025/covid-lockdown-disrupted-preschoolers%E2%80%99-social-skills-trailblazing-research-shows</loc>
@@ -2977,10 +2959,10 @@
     <loc>https://cec.ucmerced.edu/news/2025/novel-research-reveals-costs-rewards-youth-who-serve-emotion-interpreters</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/its-not-really-typical-time-nasty-california-fires-what-changed</loc>
+    <loc>https://cec.ucmerced.edu/news/2025/former-president-carter-inspired-many-during-visit-uc-merced</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/news/2025/former-president-carter-inspired-many-during-visit-uc-merced</loc>
+    <loc>https://cec.ucmerced.edu/news/2025/its-not-really-typical-time-nasty-california-fires-what-changed</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/news/2025/award-supports-research-what-makes-things-stick-under-water</loc>
@@ -3013,6 +2995,24 @@
     <loc>https://cec.ucmerced.edu/news/2021/recap-fall-2021</loc>
   </url>
   <url>
+    <loc>https://cec.ucmerced.edu/responsibility-agreement</loc>
+  </url>
+  <url>
+    <loc>https://cec.ucmerced.edu/confidentiality-agreement</loc>
+  </url>
+  <url>
+    <loc>https://cec.ucmerced.edu/canra</loc>
+  </url>
+  <url>
+    <loc>https://cec.ucmerced.edu/release-form</loc>
+  </url>
+  <url>
+    <loc>https://cec.ucmerced.edu/psl-certificate</loc>
+  </url>
+  <url>
+    <loc>https://cec.ucmerced.edu/UFC_Award</loc>
+  </url>
+  <url>
     <loc>https://cec.ucmerced.edu/HPEC/Tutor/Mentor/Position</loc>
   </url>
   <url>
@@ -3028,19 +3028,16 @@
     <loc>https://cec.ucmerced.edu/home-holidays</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/philanthropy</loc>
-  </url>
-  <url>
     <loc>https://cec.ucmerced.edu/media-contact/lorena-anderson</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/media-contact/patty-guerra</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/media-contact/alyssa-johansen</loc>
+    <loc>https://cec.ucmerced.edu/media-contact/jody-murray</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/media-contact/jody-murray</loc>
+    <loc>https://cec.ucmerced.edu/media-contact/alyssa-johansen</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/media-contact/brenda-ortiz</loc>
@@ -3106,13 +3103,13 @@
     <loc>https://cec.ucmerced.edu/news/for-journalists</loc>
   </url>
   <url>
+    <loc>https://cec.ucmerced.edu/news/2026/cosmos-completes-first-summer-session-uc-merced</loc>
+  </url>
+  <url>
     <loc>https://cec.ucmerced.edu/news/2026/record-enrollment-signals-growing-demand-uc-merced</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/news/2026/uc-merced-celebrates-permanent-acquisition-%E2%80%98four-seasons-yosemite%E2%80%99-murals</loc>
-  </url>
-  <url>
-    <loc>https://cec.ucmerced.edu/news/2026/bustling-campus-greets-students-uc-merced%E2%80%99s-21st-academic-year</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/news/alumni</loc>
@@ -3151,16 +3148,19 @@
     <loc>https://cec.ucmerced.edu/news/outreach</loc>
   </url>
   <url>
+    <loc>https://cec.ucmerced.edu/philanthropy</loc>
+  </url>
+  <url>
     <loc>https://cec.ucmerced.edu/taxonomy/term/106/feed</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/taxonomy/term/191/feed</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/taxonomy/term/221/feed</loc>
+    <loc>https://cec.ucmerced.edu/taxonomy/term/241/feed</loc>
   </url>
   <url>
-    <loc>https://cec.ucmerced.edu/taxonomy/term/241/feed</loc>
+    <loc>https://cec.ucmerced.edu/taxonomy/term/221/feed</loc>
   </url>
   <url>
     <loc>https://cec.ucmerced.edu/taxonomy/term/411/feed</loc>

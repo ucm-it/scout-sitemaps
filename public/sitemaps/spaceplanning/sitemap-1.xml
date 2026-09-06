@@ -22,9 +22,6 @@
     <loc>https://spaceplanning.ucmerced.edu/about/contact-us</loc>
   </url>
   <url>
-    <loc>https://spaceplanning.ucmerced.edu/about/other-resources</loc>
-  </url>
-  <url>
     <loc>https://spaceplanning.ucmerced.edu/project-space-requests</loc>
   </url>
   <url>
@@ -38,9 +35,6 @@
   </url>
   <url>
     <loc>https://spaceplanning.ucmerced.edu/capital-planning/capital-financial-plan</loc>
-  </url>
-  <url>
-    <loc>https://spaceplanning.ucmerced.edu/capital-planning/minor-capital-projects</loc>
   </url>
   <url>
     <loc>https://spaceplanning.ucmerced.edu/capital-planning/2020-project-backfill-space-allocation</loc>
@@ -65,6 +59,12 @@
   </url>
   <url>
     <loc>https://spaceplanning.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://spaceplanning.ucmerced.edu/about/other-resources</loc>
+  </url>
+  <url>
+    <loc>https://spaceplanning.ucmerced.edu/capital-planning/minor-capital-projects</loc>
   </url>
   <url>
     <loc>https://spaceplanning.ucmerced.edu/sites/spaceplanning.ucmerced.edu/files/documents/space_management/campus_space_management_principles.pdf</loc>

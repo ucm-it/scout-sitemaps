@@ -16,16 +16,10 @@
     <loc>https://asucm.ucmerced.edu/staff</loc>
   </url>
   <url>
-    <loc>https://asucm.ucmerced.edu/about/bylaws</loc>
-  </url>
-  <url>
     <loc>https://asucm.ucmerced.edu/branches</loc>
   </url>
   <url>
     <loc>https://asucm.ucmerced.edu/branches/executive</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/executive/</loc>
   </url>
   <url>
     <loc>https://asucm.ucmerced.edu/branches/legislative</loc>
@@ -122,6 +116,12 @@
   </url>
   <url>
     <loc>https://asucm.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://asucm.ucmerced.edu/about/bylaws</loc>
+  </url>
+  <url>
+    <loc>http://asucm.ucmerced.edu/executive/</loc>
   </url>
   <url>
     <loc>https://asucm.ucmerced.edu/content/enrique-guzman-0</loc>
@@ -310,25 +310,16 @@
     <loc>http://asucm.ucmerced.edu/content/manar-ahmed</loc>
   </url>
   <url>
-    <loc>http://asucm.ucmerced.edu/content/evan-martin</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/content/juliana-torres</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/content/victoria-de-los-angeles</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/content/jocelyn-leon</loc>
-  </url>
-  <url>
-    <loc>http://asucm.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
     <loc>http://asucm.ucmerced.edu/content/miranda-bada</loc>
   </url>
   <url>
+    <loc>http://asucm.ucmerced.edu/content/evan-martin</loc>
+  </url>
+  <url>
     <loc>http://asucm.ucmerced.edu/content/sahil-shelat</loc>
+  </url>
+  <url>
+    <loc>http://asucm.ucmerced.edu/content/juliana-torres</loc>
   </url>
   <url>
     <loc>http://asucm.ucmerced.edu/content/julie-alano</loc>
@@ -355,6 +346,9 @@
     <loc>http://asucm.ucmerced.edu/content/anvi-kudaraya</loc>
   </url>
   <url>
+    <loc>http://asucm.ucmerced.edu/content/jocelyn-leon</loc>
+  </url>
+  <url>
     <loc>http://asucm.ucmerced.edu/content/paola-lopez</loc>
   </url>
   <url>
@@ -368,6 +362,9 @@
   </url>
   <url>
     <loc>http://asucm.ucmerced.edu/content/veronique-vorhis</loc>
+  </url>
+  <url>
+    <loc>http://asucm.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://asucm.ucmerced.edu/official-forms/forms/court-respondent-form-r1</loc>
@@ -389,6 +386,9 @@
   </url>
   <url>
     <loc>https://asucm.ucmerced.edu/sites/g/files/ufvvjh396/f/page/documents/early_rco_funding_-_editable.pdf</loc>
+  </url>
+  <url>
+    <loc>http://asucm.ucmerced.edu/content/victoria-de-los-angeles</loc>
   </url>
   <url>
     <loc>http://asucm.ucmerced.edu/rss.xml</loc>

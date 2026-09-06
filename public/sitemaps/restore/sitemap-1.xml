@@ -7,25 +7,25 @@
     <loc>https://restore.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>http://restore.ucmerced.edu/about</loc>
+    <loc>http://restore.ucmerced.edu/About</loc>
   </url>
   <url>
-    <loc>http://restore.ucmerced.edu/access</loc>
+    <loc>http://restore.ucmerced.edu/Access</loc>
   </url>
   <url>
-    <loc>https://restore.ucmerced.edu/node/11</loc>
+    <loc>https://restore.ucmerced.edu/SummerCourses</loc>
   </url>
   <url>
-    <loc>http://restore.ucmerced.edu/instruments</loc>
+    <loc>http://restore.ucmerced.edu/Instrumentation</loc>
   </url>
   <url>
-    <loc>http://restore.ucmerced.edu/rates</loc>
+    <loc>http://restore.ucmerced.edu/Rates</loc>
   </url>
   <url>
-    <loc>http://restore.ucmerced.edu/sops</loc>
+    <loc>http://restore.ucmerced.edu/Protocols</loc>
   </url>
   <url>
-    <loc>http://restore.ucmerced.edu/publications</loc>
+    <loc>http://restore.ucmerced.edu/Publications</loc>
   </url>
   <url>
     <loc>https://restore.ucmerced.edu/rss.xml</loc>
@@ -61,7 +61,16 @@
     <loc>https://restore.ucmerced.edu/sites/g/files/ufvvjh2221/f/documents/ivis_spectrumct_manual_smaller3.pdf</loc>
   </url>
   <url>
+    <loc>https://restore.ucmerced.edu/sites/g/files/ufvvjh2221/f/documents/micropet_operation_steps.pdf</loc>
+  </url>
+  <url>
     <loc>https://restore.ucmerced.edu/sites/g/files/ufvvjh2221/f/documents/44-00637-04_operators_manual_pericam_psi_mdr.pdf</loc>
+  </url>
+  <url>
+    <loc>https://restore.ucmerced.edu/sites/g/files/ufvvjh2221/f/documents/ras-4_rodent_anesthesia_system_manual.pdf</loc>
+  </url>
+  <url>
+    <loc>https://restore.ucmerced.edu/sites/g/files/ufvvjh2221/f/documents/restore_ras-4_anesthesia_sop-018c-04.pdf</loc>
   </url>
   <url>
     <loc>https://restore.ucmerced.edu/sites/g/files/ufvvjh2221/f/documents/cbis-lecia-sp8-confocal-user-manual.pdf.pdf</loc>
@@ -91,7 +100,13 @@
     <loc>https://restore.ucmerced.edu/sites/g/files/ufvvjh2221/f/documents/operator_guide_-_slide_delivery_system_-_a83910102_04_-_english.pdf</loc>
   </url>
   <url>
-    <loc>https://restore.ucmerced.edu/instruments</loc>
+    <loc>https://restore.ucmerced.edu/sites/g/files/ufvvjh2221/f/documents/restore_slide_printer_sop-018f-03.pdf</loc>
+  </url>
+  <url>
+    <loc>https://restore.ucmerced.edu/sites/g/files/ufvvjh2221/f/documents/protocol-restore_culture_of_human-induced_pluripotent_stem_cells_hipscs.pdf</loc>
+  </url>
+  <url>
+    <loc>https://restore.ucmerced.edu/sites/g/files/ufvvjh2221/f/documents/protocol-restore_stem_cell_differentiation_into_endothelial_cells.pdf</loc>
   </url>
   <url>
     <loc>http://restore.ucmerced.edu/rss.xml</loc>

@@ -40,9 +40,6 @@
     <loc>https://access.ucmerced.edu/student-resources/documentation-guidelines/learning-disability</loc>
   </url>
   <url>
-    <loc>https://access.ucmerced.edu/node/11</loc>
-  </url>
-  <url>
     <loc>https://access.ucmerced.edu/student-resources/documentation-guidelines/psychological-disabilities</loc>
   </url>
   <url>
@@ -100,9 +97,6 @@
     <loc>https://access.ucmerced.edu/myaccess/myaccess-faculty-instructional-videos</loc>
   </url>
   <url>
-    <loc>https://access.ucmerced.edu/myaccess/myaccess-student-instructional-videos</loc>
-  </url>
-  <url>
     <loc>https://access.ucmerced.edu/events-0</loc>
   </url>
   <url>
@@ -121,6 +115,12 @@
     <loc>https://access.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://access.ucmerced.edu/node/11</loc>
+  </url>
+  <url>
+    <loc>https://access.ucmerced.edu/myaccess/myaccess-student-instructional-videos</loc>
+  </url>
+  <url>
     <loc>https://access.ucmerced.edu/sites/access.ucmerced.edu/files/page/documents/sas_note_taking_service_request_form.pdf</loc>
   </url>
   <url>
@@ -134,9 +134,6 @@
   </url>
   <url>
     <loc>https://access.ucmerced.edu/sites/access.ucmerced.edu/files/page/documents/required_documentation_for_learning_disability_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://access.ucmerced.edu/sites/access.ucmerced.edu/files/page/documents/required_documentation_for_physical_and_medical_disabilities_0.pdf</loc>
   </url>
   <url>
     <loc>https://access.ucmerced.edu/sites/access.ucmerced.edu/files/page/documents/required_documentation_for_psychological_disabilities_0.pdf</loc>
@@ -155,6 +152,9 @@
   </url>
   <url>
     <loc>http://access.ucmerced.edu</loc>
+  </url>
+  <url>
+    <loc>https://access.ucmerced.edu/sites/access.ucmerced.edu/files/page/documents/required_documentation_for_physical_and_medical_disabilities_0.pdf</loc>
   </url>
   <url>
     <loc>http://access.ucmerced.edu/</loc>

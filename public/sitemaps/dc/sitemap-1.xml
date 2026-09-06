@@ -70,6 +70,9 @@
     <loc>https://dc.ucmerced.edu/projects/academic-research-buildings/science-and-engineering-2</loc>
   </url>
   <url>
+    <loc>https://dc.ucmerced.edu/projects/academic-research-buildings/social-sciences-and-management-building</loc>
+  </url>
+  <url>
     <loc>https://dc.ucmerced.edu/projects/academic-research-buildings/student-services-building</loc>
   </url>
   <url>
@@ -115,9 +118,6 @@
     <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/sierra-terraces-student-residences</loc>
   </url>
   <url>
-    <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/student-activities-and-athletics-center</loc>
-  </url>
-  <url>
     <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/pavilion</loc>
   </url>
   <url>
@@ -160,10 +160,10 @@
     <loc>https://dc.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://dc.ucmerced.edu/projects/academic-research-buildings/social-sciences-and-management-building</loc>
+    <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/el-portal-residence-hall</loc>
   </url>
   <url>
-    <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/el-portal-residence-hall</loc>
+    <loc>https://dc.ucmerced.edu/projects/auxiliary-buildings/student-activities-and-athletics-center</loc>
   </url>
   <url>
     <loc>https://dc.ucmerced.edu/sites/g/files/ufvvjh706/f/page/documents/construction-contracting-table.pdf</loc>

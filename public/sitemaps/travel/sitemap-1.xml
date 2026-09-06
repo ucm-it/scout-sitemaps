@@ -16,9 +16,6 @@
     <loc>https://travel.ucmerced.edu/travel-entertainment/concur</loc>
   </url>
   <url>
-    <loc>https://travel.ucmerced.edu/travel-entertainment/concur/reminder-supporting-compliance-uc-travel-policy-g-28</loc>
-  </url>
-  <url>
     <loc>https://travel.ucmerced.edu/travel-entertainment/concur/automated-notifications</loc>
   </url>
   <url>
@@ -38,6 +35,9 @@
   </url>
   <url>
     <loc>https://travel.ucmerced.edu/travel-entertainment/exception-policy-higher-approval</loc>
+  </url>
+  <url>
+    <loc>https://travel.ucmerced.edu/travel-entertainment/group-travel</loc>
   </url>
   <url>
     <loc>https://travel.ucmerced.edu/travel-entertainment/meals-and-lodging</loc>
@@ -97,6 +97,9 @@
     <loc>https://travel.ucmerced.edu/student-travel/student-group-travel</loc>
   </url>
   <url>
+    <loc>https://travel.ucmerced.edu/student-travel/student-rental-car-instructions</loc>
+  </url>
+  <url>
     <loc>https://travel.ucmerced.edu/student-travel/student-reimbursement</loc>
   </url>
   <url>
@@ -119,9 +122,6 @@
   </url>
   <url>
     <loc>https://travel.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/travel-entertainment/group-travel</loc>
   </url>
   <url>
     <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/bus-79_bus_meetings_entertainment_updated_12.15.2022.pdf</loc>
@@ -185,6 +185,9 @@
   </url>
   <url>
     <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/student_travel_quick_guide_-_website_version_2.pdf</loc>
+  </url>
+  <url>
+    <loc>https://travel.ucmerced.edu/sites/g/files/ufvvjh1851/f/documents/student_traveler_instructions_enterprise_rental_car_po_instructions_1_003.pdf</loc>
   </url>
   <url>
     <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/copy_of_travel_expense_management_student_employee_-_travel_expense_management_student_employee.pdf</loc>

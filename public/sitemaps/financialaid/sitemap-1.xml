@@ -118,13 +118,13 @@
     <loc>https://financialaid.ucmerced.edu/academic-activity</loc>
   </url>
   <url>
-    <loc>https://financialaid.ucmerced.edu/coa-adjustment</loc>
-  </url>
-  <url>
     <loc>https://financialaid.ucmerced.edu/DependencyAppeal</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/SAP_Appeal_Process</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/scholarship-appeal</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/special-circumstances-appeal</loc>
@@ -169,7 +169,7 @@
     <loc>https://financialaid.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://financialaid.ucmerced.edu/scholarship-appeal</loc>
+    <loc>https://financialaid.ucmerced.edu/coa-adjustment</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/federal-loans</loc>
@@ -469,12 +469,6 @@
     <loc>https://financialaid.ucmerced.edu/outsidescholarships</loc>
   </url>
   <url>
-    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/documents/25-26/addexp_2526.pdf</loc>
-  </url>
-  <url>
-    <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/documents/26-27/adexp2_2627.pdf</loc>
-  </url>
-  <url>
     <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/webform/sap_faq_2627.pdf</loc>
   </url>
   <url>
@@ -499,6 +493,9 @@
     <loc>https://financialaid.ucmerced.edu/form/financial-aid-event-and-outreach-request-form</loc>
   </url>
   <url>
+    <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/documents/Newsletter/september_2026.pdf</loc>
+  </url>
+  <url>
     <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/documents/Newsletter/august_2026.pdf</loc>
   </url>
   <url>
@@ -521,6 +518,12 @@
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/news/Newsletters/january_2026.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/documents/25-26/addexp_2526.pdf</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/documents/26-27/adexp2_2627.pdf</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/GradPLUS</loc>
@@ -850,10 +853,10 @@
     <loc>https://financialaid.ucmerced.edu/events/virtual-financial-aid-advisors-meet-greet</loc>
   </url>
   <url>
-    <loc>https://financialaid.ucmerced.edu/events/financial-aid-online-scavenger-hunt</loc>
+    <loc>https://financialaid.ucmerced.edu/events/fall-instruction-begins-0</loc>
   </url>
   <url>
-    <loc>https://financialaid.ucmerced.edu/events/fall-instruction-begins-0</loc>
+    <loc>https://financialaid.ucmerced.edu/events/financial-aid-online-scavenger-hunt</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/events/electronic-refund-disbursement-begins</loc>

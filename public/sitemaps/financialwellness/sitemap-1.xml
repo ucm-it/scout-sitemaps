@@ -7,16 +7,16 @@
     <loc>https://financialwellness.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://financialwellness.ucmerced.edu/meet-team</loc>
-  </url>
-  <url>
     <loc>https://financialwellness.ucmerced.edu/financial-treks</loc>
   </url>
   <url>
-    <loc>https://financialwellness.ucmerced.edu/financial-treks/earn</loc>
+    <loc>https://financialwellness.ucmerced.edu/financial-treks/spend</loc>
   </url>
   <url>
-    <loc>https://financialwellness.ucmerced.edu/financial-treks/spend</loc>
+    <loc>https://financialwellness.ucmerced.edu/financial-treks/save</loc>
+  </url>
+  <url>
+    <loc>https://financialwellness.ucmerced.edu/financial-treks/borrow</loc>
   </url>
   <url>
     <loc>https://financialwellness.ucmerced.edu/financial-treks/protect</loc>
@@ -73,22 +73,10 @@
     <loc>https://financialwellness.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://financialwellness.ucmerced.edu/financial-treks/save</loc>
+    <loc>https://financialwellness.ucmerced.edu/meet-team</loc>
   </url>
   <url>
-    <loc>https://financialwellness.ucmerced.edu/financial-treks/borrow</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/meet-team/charah-coleman</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/meet-team/yasmin-jama</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/meet-team/kenya-castillo</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/meet-team/melissa-rodriguez</loc>
+    <loc>https://financialwellness.ucmerced.edu/financial-treks/earn</loc>
   </url>
   <url>
     <loc>https://financialwellness.ucmerced.edu/financial-treks/credit</loc>
@@ -149,6 +137,18 @@
   </url>
   <url>
     <loc>https://financialwellness.ucmerced.edu/meet-team/noah-wise</loc>
+  </url>
+  <url>
+    <loc>https://financialwellness.ucmerced.edu/meet-team/charah-coleman</loc>
+  </url>
+  <url>
+    <loc>https://financialwellness.ucmerced.edu/meet-team/yasmin-jama</loc>
+  </url>
+  <url>
+    <loc>https://financialwellness.ucmerced.edu/meet-team/kenya-castillo</loc>
+  </url>
+  <url>
+    <loc>https://financialwellness.ucmerced.edu/meet-team/melissa-rodriguez</loc>
   </url>
   <url>
     <loc>https://financialwellness.ucmerced.edu/news/2022/finding-perfect-bank</loc>
