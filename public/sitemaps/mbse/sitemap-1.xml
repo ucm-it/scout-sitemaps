@@ -16,6 +16,9 @@
     <loc>https://mbse.ucmerced.edu/prospective-students/available-degrees</loc>
   </url>
   <url>
+    <loc>https://mbse.ucmerced.edu/node/34</loc>
+  </url>
+  <url>
     <loc>https://mbse.ucmerced.edu/current-students</loc>
   </url>
   <url>
@@ -73,7 +76,7 @@
     <loc>https://mbse.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/node/34</loc>
+    <loc>https://mbse.ucmerced.edu/sites/mbse.ucmerced.edu/files/documents/2021.12.21.gc2mbse_re_pps_approval.pdf</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/sites/mbse.ucmerced.edu/files/page/documents/2024.11.12_approved_mbse_pps_clean.pdf</loc>
@@ -208,10 +211,10 @@
     <loc>https://mbse.ucmerced.edu/content/sarah-kurtz</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/content/jennifer-d-lee</loc>
+    <loc>https://mbse.ucmerced.edu/content/min-hwan-lee</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/content/min-hwan-lee</loc>
+    <loc>https://mbse.ucmerced.edu/content/jennifer-d-lee</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/content/bin-liu-0</loc>
@@ -391,9 +394,6 @@
     <loc>https://mbse.ucmerced.edu/media-contact/brenda-ortiz</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/sites/mbse.ucmerced.edu/files/documents/2021.12.21.gc2mbse_re_pps_approval.pdf</loc>
-  </url>
-  <url>
     <loc>https://mbse.ucmerced.edu/research-areas/materials-and-interfaces-tailored-functionalities</loc>
   </url>
   <url>
@@ -454,9 +454,6 @@
     <loc>https://mbse.ucmerced.edu/news/2021/prestigious-academy-recognizes-microbiology-advances-liwang-lab</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2021/undergrad-experience-gehad-elhafany</loc>
-  </url>
-  <url>
     <loc>https://mbse.ucmerced.edu/news/2021/undergrad-experience-jacqueline-bustamante</loc>
   </url>
   <url>
@@ -464,6 +461,9 @@
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news/2021/undergrad-experience-anthony-rodriguez</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/news/2021/undergrad-experience-gehad-elhafany</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news/2021/bioengineer%E2%80%99s-infectious-cells-research-earns-nsf-career-award</loc>
@@ -517,13 +517,13 @@
     <loc>https://mbse.ucmerced.edu/news/2020/researchers-discover-mechanism-proteins-use-find-and-control-genes</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2020/national-academy-engineering-elects-kurtz-its-ranks</loc>
-  </url>
-  <url>
     <loc>https://mbse.ucmerced.edu/news/2020/breakthrough-stem-cell-research-first-image-niche-environment</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news/2020/national-academy-engineers-elects-kurtz-its-ranks</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/news/2020/national-academy-engineering-elects-kurtz-its-ranks</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news/2020/potential-electric-vehicles-tied-solar-research</loc>
@@ -532,16 +532,13 @@
     <loc>https://mbse.ucmerced.edu/news/2020/potential-electric-vehicles-tied-solar-research-0</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2019/engineered-protein-assemblies-respond-cues-open-path-smart-protein-based-medicines</loc>
-  </url>
-  <url>
     <loc>https://mbse.ucmerced.edu/news/2019/star-student-and-nasa-standout-preparing-stellar-future</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2019/physicist-found-his-path-future-uc-merced</loc>
+    <loc>https://mbse.ucmerced.edu/news/2019/lab-works-understand-molecular-motors-and-cholesterol%E2%80%99s-relation-alzheimer%E2%80%99s</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2019/lab-works-understand-molecular-motors-and-cholesterol%E2%80%99s-relation-alzheimer%E2%80%99s</loc>
+    <loc>https://mbse.ucmerced.edu/news/2019/physicist-found-his-path-future-uc-merced</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news/2019/ccbm-bringing-high-powered-speakers-two-day-workshop</loc>
@@ -619,10 +616,13 @@
     <loc>https://mbse.ucmerced.edu/news/2018/career-award-will-help-professor-predict-how-species-respond-climate-change</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2018/campus-lands-1m-howard-hughes-grant-make-stem-more-inclusive</loc>
+    <loc>https://mbse.ucmerced.edu/news/2018/news-and-notes-uc-launches-million-light-bulb-challenge-upcoming-ally-trainings-offered</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news?page=11</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/news/2018/campus-lands-1m-howard-hughes-grant-make-stem-more-inclusive</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news/2018/cancer-systems-biology-identifies-master-regulators-and-new-drug-targets-therapy-resistant</loc>

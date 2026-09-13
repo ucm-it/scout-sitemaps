@@ -10,6 +10,9 @@
     <loc>https://hospitality.ucmerced.edu/about</loc>
   </url>
   <url>
+    <loc>https://hospitality.ucmerced.edu/about/directions-and-parking</loc>
+  </url>
+  <url>
     <loc>https://hospitality.ucmerced.edu/team</loc>
   </url>
   <url>
@@ -40,7 +43,7 @@
     <loc>https://hospitality.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://hospitality.ucmerced.edu/about/directions-and-parking</loc>
+    <loc>https://hospitality.ucmerced.edu/sites/hospitality.ucmerced.edu/files/documents/conferencecentercampusmap.pdf</loc>
   </url>
   <url>
     <loc>https://hospitality.ucmerced.edu/sites/hospitality.ucmerced.edu/files/page/documents/final_summer_conference_guidelines_8.5_x_11_in.pdf</loc>
@@ -53,8 +56,5 @@
   </url>
   <url>
     <loc>https://hospitality.ucmerced.edu/sites/hospitality.ucmerced.edu/files/images/conference_center_20210915-8.jpeg</loc>
-  </url>
-  <url>
-    <loc>https://hospitality.ucmerced.edu/sites/hospitality.ucmerced.edu/files/documents/conferencecentercampusmap.pdf</loc>
   </url>
 </urlset>

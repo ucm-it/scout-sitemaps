@@ -25,7 +25,13 @@
     <loc>https://cayuse.ucmerced.edu/form/request-cayuse-report</loc>
   </url>
   <url>
+    <loc>https://cayuse.ucmerced.edu/form/revise-profile-request-form</loc>
+  </url>
+  <url>
     <loc>https://cayuse.ucmerced.edu/form/research</loc>
+  </url>
+  <url>
+    <loc>https://cayuse.ucmerced.edu/home/technical-support</loc>
   </url>
   <url>
     <loc>https://cayuse.ucmerced.edu/form/fastlane-nsf</loc>
@@ -50,12 +56,6 @@
   </url>
   <url>
     <loc>https://cayuse.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
-    <loc>https://cayuse.ucmerced.edu/form/revise-profile-request-form</loc>
-  </url>
-  <url>
-    <loc>https://cayuse.ucmerced.edu/home/technical-support</loc>
   </url>
   <url>
     <loc>https://cayuse.ucmerced.edu/news/2018/cayuse-news</loc>

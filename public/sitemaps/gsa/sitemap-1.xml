@@ -7,6 +7,12 @@
     <loc>https://gsa.ucmerced.edu/</loc>
   </url>
   <url>
+    <loc>https://gsa.ucmerced.edu/about-us</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/about-us/current-officers</loc>
+  </url>
+  <url>
     <loc>https://gsa.ucmerced.edu/about-us/current-executive-officers/past-executive-officers</loc>
   </url>
   <url>
@@ -155,12 +161,6 @@
   </url>
   <url>
     <loc>https://gsa.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/about-us</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/about-us/current-officers</loc>
   </url>
   <url>
     <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/Constitution_Bylaws/gsa_constitution_2024_spring.pdf</loc>
@@ -1801,10 +1801,10 @@
     <loc>https://gsa.ucmerced.edu/news/2020/call-applicants-legislative-affairs-officer</loc>
   </url>
   <url>
-    <loc>https://gsa.ucmerced.edu/news/2020/welcome-back-gsa-president</loc>
+    <loc>https://gsa.ucmerced.edu/news/2020/gsa-fall-2020-election-vote-now</loc>
   </url>
   <url>
-    <loc>https://gsa.ucmerced.edu/news/2020/gsa-fall-2020-election-vote-now</loc>
+    <loc>https://gsa.ucmerced.edu/news/2020/welcome-back-gsa-president</loc>
   </url>
   <url>
     <loc>https://gsa.ucmerced.edu/news/2020/child-care-funding-options-fall-2020</loc>
@@ -2467,10 +2467,10 @@
     <loc>http://gsa.ucmerced.edu/news/2020/call-applicants-legislative-affairs-officer</loc>
   </url>
   <url>
-    <loc>http://gsa.ucmerced.edu/news/2020/welcome-back-gsa-president</loc>
+    <loc>http://gsa.ucmerced.edu/news/2020/gsa-fall-2020-election-vote-now</loc>
   </url>
   <url>
-    <loc>http://gsa.ucmerced.edu/news/2020/gsa-fall-2020-election-vote-now</loc>
+    <loc>http://gsa.ucmerced.edu/news/2020/welcome-back-gsa-president</loc>
   </url>
   <url>
     <loc>http://gsa.ucmerced.edu/news/2020/child-care-funding-options-fall-2020</loc>

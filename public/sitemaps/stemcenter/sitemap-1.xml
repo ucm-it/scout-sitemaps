@@ -16,6 +16,9 @@
     <loc>https://stemcenter.ucmerced.edu/opportunities</loc>
   </url>
   <url>
+    <loc>https://stemcenter.ucmerced.edu/outreach</loc>
+  </url>
+  <url>
     <loc>https://stemcenter.ucmerced.edu/student-organizations</loc>
   </url>
   <url>
@@ -25,10 +28,16 @@
     <loc>http://stemcenter.ucmerced.edu/academic-services/tutor-program</loc>
   </url>
   <url>
-    <loc>https://stemcenter.ucmerced.edu/outreach</loc>
+    <loc>https://stemcenter.ucmerced.edu/academic-services/tutor-program</loc>
   </url>
   <url>
-    <loc>https://stemcenter.ucmerced.edu/academic-services/tutor-program</loc>
+    <loc>https://stemcenter.ucmerced.edu/node/1731</loc>
+  </url>
+  <url>
+    <loc>https://stemcenter.ucmerced.edu/node/1741</loc>
+  </url>
+  <url>
+    <loc>https://stemcenter.ucmerced.edu/node/1761</loc>
   </url>
   <url>
     <loc>http://stemcenter.ucmerced.edu/node/134</loc>
@@ -59,14 +68,5 @@
   </url>
   <url>
     <loc>https://stemcenter.ucmerced.edu/academic-services/tutor-program-learning-outcomes</loc>
-  </url>
-  <url>
-    <loc>https://stemcenter.ucmerced.edu/node/1731</loc>
-  </url>
-  <url>
-    <loc>https://stemcenter.ucmerced.edu/node/1741</loc>
-  </url>
-  <url>
-    <loc>https://stemcenter.ucmerced.edu/node/1761</loc>
   </url>
 </urlset>

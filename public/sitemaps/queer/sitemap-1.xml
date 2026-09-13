@@ -19,10 +19,16 @@
     <loc>https://queer.ucmerced.edu/workshops</loc>
   </url>
   <url>
+    <loc>https://queer.ucmerced.edu/workshops/queer-ally-workshop</loc>
+  </url>
+  <url>
     <loc>https://queer.ucmerced.edu/workshops/gender-expansive</loc>
   </url>
   <url>
     <loc>https://queer.ucmerced.edu/request-a-workshop</loc>
+  </url>
+  <url>
+    <loc>https://queer.ucmerced.edu/homework</loc>
   </url>
   <url>
     <loc>https://queer.ucmerced.edu/allyship-development</loc>
@@ -85,10 +91,7 @@
     <loc>http://queer.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://queer.ucmerced.edu/workshops/queer-ally-workshop</loc>
-  </url>
-  <url>
-    <loc>https://queer.ucmerced.edu/homework</loc>
+    <loc>https://queer.ucmerced.edu/sites/queer.ucmerced.edu/files/documents/queer_ally_homework.pdf</loc>
   </url>
   <url>
     <loc>https://queer.ucmerced.edu/sites/queer.ucmerced.edu/files/page/documents/additional_readings.pdf</loc>
@@ -101,8 +104,5 @@
   </url>
   <url>
     <loc>https://queer.ucmerced.edu/sites/queer.ucmerced.edu/files/documents/ge_continuing_the_journey.pdf</loc>
-  </url>
-  <url>
-    <loc>https://queer.ucmerced.edu/sites/queer.ucmerced.edu/files/documents/queer_ally_homework.pdf</loc>
   </url>
 </urlset>

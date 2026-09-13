@@ -13,6 +13,9 @@
     <loc>https://cfheds.ucmerced.edu/news</loc>
   </url>
   <url>
+    <loc>https://cfheds.ucmerced.edu/people</loc>
+  </url>
+  <url>
     <loc>https://cfheds.ucmerced.edu/press</loc>
   </url>
   <url>
@@ -23,9 +26,6 @@
   </url>
   <url>
     <loc>https://cfheds.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
-    <loc>https://cfheds.ucmerced.edu/people</loc>
   </url>
   <url>
     <loc>https://cfheds.ucmerced.edu/contact-us</loc>

@@ -49,6 +49,9 @@
     <loc>https://merced2020.ucmerced.edu/past-development/community</loc>
   </url>
   <url>
+    <loc>https://merced2020.ucmerced.edu/presentationarchives</loc>
+  </url>
+  <url>
     <loc>https://merced2020.ucmerced.edu/newsroom</loc>
   </url>
   <url>
@@ -208,9 +211,6 @@
     <loc>https://merced2020.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://merced2020.ucmerced.edu/presentationarchives</loc>
-  </url>
-  <url>
     <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/uc_merced_change_alignment.pdf</loc>
   </url>
   <url>
@@ -278,6 +278,12 @@
   </url>
   <url>
     <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/asucm_2016.pdf</loc>
+  </url>
+  <url>
+    <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/cpsjv_ucmerced2018_slides.pdf</loc>
+  </url>
+  <url>
+    <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/leadershipmerced2018.pdf</loc>
   </url>
   <url>
     <loc>https://merced2020.ucmerced.edu/news/2017/abc-30-visits-campus</loc>
@@ -523,10 +529,10 @@
     <loc>http://merced2020.ucmerced.edu/news/2017/mass-notification-testing</loc>
   </url>
   <url>
-    <loc>http://merced2020.ucmerced.edu/news/2017/and-now-its-6-floors</loc>
+    <loc>http://merced2020.ucmerced.edu/news/2017/theres-new-bridge-town</loc>
   </url>
   <url>
-    <loc>http://merced2020.ucmerced.edu/news/2017/theres-new-bridge-town</loc>
+    <loc>http://merced2020.ucmerced.edu/news/2017/and-now-its-6-floors</loc>
   </url>
   <url>
     <loc>http://merced2020.ucmerced.edu/news/2017/dining-facility-takes-shapes</loc>
@@ -736,12 +742,6 @@
     <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/3afinal.jpg</loc>
   </url>
   <url>
-    <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/cpsjv_ucmerced2018_slides.pdf</loc>
-  </url>
-  <url>
-    <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/leadershipmerced2018.pdf</loc>
-  </url>
-  <url>
     <loc>https://merced2020.ucmerced.edu/events/first-delivery</loc>
   </url>
   <url>
@@ -829,10 +829,10 @@
     <loc>https://merced2020.ucmerced.edu/events/thomson-reuterspfi-awards</loc>
   </url>
   <url>
-    <loc>https://merced2020.ucmerced.edu/events/verdexchange-conference</loc>
+    <loc>https://merced2020.ucmerced.edu/events/residence-hall-association</loc>
   </url>
   <url>
-    <loc>https://merced2020.ucmerced.edu/events/residence-hall-association</loc>
+    <loc>https://merced2020.ucmerced.edu/events/verdexchange-conference</loc>
   </url>
   <url>
     <loc>https://merced2020.ucmerced.edu/events/spurhigh-speed-rail-workgroup</loc>
@@ -859,10 +859,10 @@
     <loc>https://merced2020.ucmerced.edu/news/2017/mass-notification-testing</loc>
   </url>
   <url>
-    <loc>https://merced2020.ucmerced.edu/news/2017/and-now-its-6-floors</loc>
+    <loc>https://merced2020.ucmerced.edu/news/2017/theres-new-bridge-town</loc>
   </url>
   <url>
-    <loc>https://merced2020.ucmerced.edu/news/2017/theres-new-bridge-town</loc>
+    <loc>https://merced2020.ucmerced.edu/news/2017/and-now-its-6-floors</loc>
   </url>
   <url>
     <loc>https://merced2020.ucmerced.edu/news/2017/dining-facility-takes-shapes</loc>

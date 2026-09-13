@@ -34,6 +34,9 @@
     <loc>https://scif.ucmerced.edu/access-training/ilab</loc>
   </url>
   <url>
+    <loc>https://scif.ucmerced.edu/video-tutorials</loc>
+  </url>
+  <url>
     <loc>https://scif.ucmerced.edu/node/121</loc>
   </url>
   <url>
@@ -44,9 +47,6 @@
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/video-tutorials</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/contact-us</loc>
@@ -176,6 +176,9 @@
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/documents/aurora_users_guide.pdf</loc>
+  </url>
+  <url>
+    <loc>https://scif.ucmerced.edu/sites/g/files/ufvvjh1611/f/documents/sop_biorad_ze5_2026.pdf</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/ze5_configuration_fluorofinder.pdf</loc>
@@ -380,9 +383,6 @@
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/sop_uc_merced_scif_bsl2_facsaria_sort.pdf</loc>
-  </url>
-  <url>
-    <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/sop_biorad_ze5_1-28-21.pdf</loc>
   </url>
   <url>
     <loc>https://scif.ucmerced.edu/sites/scif.ucmerced.edu/files/documents/sop_uc_merced_scif_cytometer_standardization_beads.pdf</loc>

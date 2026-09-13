@@ -124,6 +124,9 @@
     <loc>https://catcard.ucmerced.edu/services/mobile-icheck-in</loc>
   </url>
   <url>
+    <loc>https://catcard.ucmerced.edu/icheck-in-download</loc>
+  </url>
+  <url>
     <loc>https://catcard.ucmerced.edu/sites/g/files/ufvvjh521/f/page/images/qr-code5.png</loc>
   </url>
   <url>
@@ -233,8 +236,5 @@
   </url>
   <url>
     <loc>http://catcard.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://catcard.ucmerced.edu/icheck-in-download</loc>
   </url>
 </urlset>

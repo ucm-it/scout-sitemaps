@@ -28,6 +28,9 @@
     <loc>https://cie.ucmerced.edu/services/qualtrics</loc>
   </url>
   <url>
+    <loc>https://cie.ucmerced.edu/about-cie</loc>
+  </url>
+  <url>
     <loc>https://cie.ucmerced.edu/about-cie/institutional-research-decision-support</loc>
   </url>
   <url>
@@ -55,34 +58,28 @@
     <loc>https://cie.ucmerced.edu/archive/institutional-research-reports</loc>
   </url>
   <url>
+    <loc>https://cie.ucmerced.edu/overall-enrollment-totals</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/degrees-awarded</loc>
+  </url>
+  <url>
     <loc>https://cie.ucmerced.edu/applicants-admits-enrollments</loc>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/undergraduate-retention-and-graduation</loc>
   </url>
   <url>
-    <loc>https://cie.ucmerced.edu/overall-enrollment-totals</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/faculty-and-staff-interactive-data</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/degrees-awarded</loc>
+    <loc>https://cie.ucmerced.edu/undergraduate-enrollments</loc>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/undergraduate-geographic-origins</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/about-cie</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
-    <loc>https://cie.ucmerced.edu/undergraduate-enrollments</loc>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/analytics-hub/fall-undergraduate-enrollment</loc>
@@ -98,6 +95,9 @@
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/sites/g/files/ufvvjh616/f/documents/summer_2022_financial_aid_dashboard.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cie.ucmerced.edu/faculty-and-staff-interactive-data</loc>
   </url>
   <url>
     <loc>https://cie.ucmerced.edu/take-the-new-student-survey</loc>
