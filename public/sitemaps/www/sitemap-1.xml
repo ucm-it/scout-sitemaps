@@ -322,6 +322,9 @@
     <loc>https://www.ucmerced.edu/majors-and-minors/american-studies</loc>
   </url>
   <url>
+    <loc>https://www.ucmerced.edu/majors-and-minors/artificial-intelligence-bs</loc>
+  </url>
+  <url>
     <loc>https://www.ucmerced.edu/majors-and-minors/biochemistry-bs</loc>
   </url>
   <url>
@@ -335,6 +338,9 @@
   </url>
   <url>
     <loc>https://www.ucmerced.edu/majors-and-minors/community-research-and-service-minor</loc>
+  </url>
+  <url>
+    <loc>https://www.ucmerced.edu/majors-and-minors/computer-science-bs</loc>
   </url>
   <url>
     <loc>https://www.ucmerced.edu/majors-and-minors/ecology-evolution-and-conservation-biology-bs</loc>
@@ -481,19 +487,19 @@
     <loc>https://www.ucmerced.edu/news/for-journalists</loc>
   </url>
   <url>
-    <loc>https://www.ucmerced.edu/news/2026/nasa-administrator-offers-uc-merced-students-glimpse-their-future</loc>
+    <loc>https://www.ucmerced.edu/news/2026/hispanic-heritage-month-kicks-uc-merced</loc>
   </url>
   <url>
-    <loc>https://www.ucmerced.edu/news/2026/technology-revolution-agriculture-needs-investment-humans-well-machines</loc>
+    <loc>https://www.ucmerced.edu/news/2026/study-highlights-hidden-labor-market-facing-california%E2%80%99s-most-vulnerable-workers</loc>
   </url>
   <url>
-    <loc>https://www.ucmerced.edu/news/2026/uc-merced-phd-students-receive-arcs-support-stem-research</loc>
+    <loc>https://www.ucmerced.edu/news/2026/uc-merced-team-earns-best-paper-award-sensys-2026</loc>
   </url>
   <url>
-    <loc>https://www.ucmerced.edu/news/2026/cosmos-completes-first-summer-session-uc-merced</loc>
+    <loc>https://www.ucmerced.edu/news/2026/tour-highlights-how-uc-merced-sustainability-beacon</loc>
   </url>
   <url>
-    <loc>https://www.ucmerced.edu/news/2026/record-enrollment-signals-growing-demand-uc-merced</loc>
+    <loc>https://www.ucmerced.edu/news/2026/uc-merced-launches-earth-institute-uniting-climate-and-environmental-research</loc>
   </url>
   <url>
     <loc>https://www.ucmerced.edu/news/2026/uc-merced-experts-soil-agriculture-join-uc-anr</loc>
@@ -529,12 +535,6 @@
     <loc>http://www.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://www.ucmerced.edu/majors-and-minors/computer-science-bs</loc>
-  </url>
-  <url>
-    <loc>https://www.ucmerced.edu/majors-and-minors/artificial-intelligence-bs</loc>
-  </url>
-  <url>
     <loc>https://www.ucmerced.edu/majors-and-minors/political-science-minor</loc>
   </url>
   <url>
@@ -548,6 +548,9 @@
   </url>
   <url>
     <loc>https://www.ucmerced.edu/majors-and-minors/writing-minor</loc>
+  </url>
+  <url>
+    <loc>https://www.ucmerced.edu/news/2026/alumna-brings-behavioral-science-front-lines-sleep-innovation</loc>
   </url>
   <url>
     <loc>https://www.ucmerced.edu/news/2026/calteach-and-local-schools-team-energize-learning-across-merced-county</loc>
@@ -574,9 +577,6 @@
     <loc>https://www.ucmerced.edu/news/2025/old-friends-and-bold-art-inspire-uc-merced-professor%E2%80%99s-latest-film</loc>
   </url>
   <url>
-    <loc>https://www.ucmerced.edu/news/2025/united-education-merced-institutions-forge-stronger-future-together-uc-merced-summit</loc>
-  </url>
-  <url>
     <loc>https://www.ucmerced.edu/news/2024/creators-telelingo-spanish-immersion-show-children-come-uc-merced</loc>
   </url>
   <url>
@@ -601,6 +601,15 @@
     <loc>https://www.ucmerced.edu/majors-and-minors/philosophy-minor</loc>
   </url>
   <url>
+    <loc>https://www.ucmerced.edu/news/2026/technology-revolution-agriculture-needs-investment-humans-well-machines</loc>
+  </url>
+  <url>
+    <loc>https://www.ucmerced.edu/news/2026/nasa-administrator-offers-uc-merced-students-glimpse-their-future</loc>
+  </url>
+  <url>
+    <loc>https://www.ucmerced.edu/news/2026/cosmos-completes-first-summer-session-uc-merced</loc>
+  </url>
+  <url>
     <loc>https://www.ucmerced.edu/news/2026/uc-merced-team-wins-international-ev-design-competition</loc>
   </url>
   <url>
@@ -611,12 +620,6 @@
   </url>
   <url>
     <loc>https://www.ucmerced.edu/news/2026/remodeled-applegate-zoo-including-uc-merced-sponsored-bobcat-exhibit-celebrates-opening</loc>
-  </url>
-  <url>
-    <loc>https://www.ucmerced.edu/news/2026/what-do-driverless-cars-and-building-evacuation-routes-have-common-lab-uc-merced</loc>
-  </url>
-  <url>
-    <loc>https://www.ucmerced.edu/news/2026/student-modesto-ready-make-impact-uc-merced</loc>
   </url>
   <url>
     <loc>https://www.ucmerced.edu/news/2026/big-smiles-big-collection-new-bobcats-scholars-bridge-crossing</loc>
@@ -649,6 +652,9 @@
     <loc>https://www.ucmerced.edu/media-contact/lorena-anderson</loc>
   </url>
   <url>
+    <loc>https://www.ucmerced.edu/news/2026/uc-merced-phd-students-receive-arcs-support-stem-research</loc>
+  </url>
+  <url>
     <loc>https://www.ucmerced.edu/news/2026/three-uc-merced-students-receive-fellowships-supporting-future-faculty</loc>
   </url>
   <url>
@@ -667,10 +673,7 @@
     <loc>https://www.ucmerced.edu/news/2026/uc-merced-sees-strong-gains-us-news-grad-school-rankings</loc>
   </url>
   <url>
-    <loc>https://www.ucmerced.edu/news/2026/commuter-student-finds-belonging-uc-merced</loc>
-  </url>
-  <url>
-    <loc>https://www.ucmerced.edu/news/2026/uc-merced-receives-1-million-award-support-postdoctoral-fellows</loc>
+    <loc>https://www.ucmerced.edu/news/2026/record-enrollment-signals-growing-demand-uc-merced</loc>
   </url>
   <url>
     <loc>https://www.ucmerced.edu/news/2026/uc-merced-celebrates-its-most-successful-fundraising-year</loc>
@@ -695,9 +698,6 @@
   </url>
   <url>
     <loc>https://www.ucmerced.edu/news/2026/healer-shaped-valley-and-devoted-its-future</loc>
-  </url>
-  <url>
-    <loc>https://www.ucmerced.edu/news/2026/journeys-start-boarding-pass-and-change-everything-0</loc>
   </url>
   <url>
     <loc>https://www.ucmerced.edu/news/2026/global-film-highlights-faculty-voice-future-soil</loc>

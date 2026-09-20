@@ -286,6 +286,9 @@
     <loc>https://rci.ucmerced.edu/foreign-engagement-research-security/research-security</loc>
   </url>
   <url>
+    <loc>https://rci.ucmerced.edu/foreign-engagement-research-security/research-security/covered-individuals-research-security</loc>
+  </url>
+  <url>
     <loc>https://rci.ucmerced.edu/foreign-engagement-research-security/foreign-talent-recruitment-program</loc>
   </url>
   <url>
@@ -619,9 +622,6 @@
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/aaalac_verification_letter_-_001318.pdf</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/_iacuc_amendment_form.doc</loc>
-  </url>
-  <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/iacuc_policy_100_updated.pdf</loc>
   </url>
   <url>
@@ -676,7 +676,7 @@
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/policy_117_12dec25.pdf</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/no_118_dec_updated_fe.pdf</loc>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/policy_118_11sept26.pdf</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/policy_119_6.2025.pdf</loc>
@@ -691,7 +691,7 @@
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/policy_122_updated_fe26.docx</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/pam_policy_approved_fe.pdf</loc>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/policy_123_9.2026.pdf</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/policy_124_5.2026.pdf</loc>
@@ -1190,6 +1190,9 @@
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/foreign-engagement-research-security/research-security</loc>
+  </url>
+  <url>
+    <loc>http://rci.ucmerced.edu/foreign-engagement-research-security/research-security/covered-individuals-research-security</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/foreign-engagement-research-security/foreign-talent-recruitment-program</loc>

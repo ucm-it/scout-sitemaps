@@ -49,9 +49,6 @@
     <loc>https://housing.ucmerced.edu/spring</loc>
   </url>
   <url>
-    <loc>https://housing.ucmerced.edu/apply/summer-housing</loc>
-  </url>
-  <url>
     <loc>https://housing.ucmerced.edu/llc</loc>
   </url>
   <url>
@@ -136,6 +133,9 @@
     <loc>https://housing.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>https://housing.ucmerced.edu/apply/summer-housing</loc>
+  </url>
+  <url>
     <loc>https://housing.ucmerced.edu/thanksgiving</loc>
   </url>
   <url>
@@ -173,9 +173,6 @@
   </url>
   <url>
     <loc>http://housing.ucmerced.edu/spring</loc>
-  </url>
-  <url>
-    <loc>http://housing.ucmerced.edu/apply/summer-housing</loc>
   </url>
   <url>
     <loc>http://housing.ucmerced.edu/llc</loc>
@@ -283,9 +280,6 @@
     <loc>https://housing.ucmerced.edu/sites/g/files/ufvvjh1041/f/documents/recipient_faq.pdf</loc>
   </url>
   <url>
-    <loc>https://housing.ucmerced.edu/sites/g/files/ufvvjh1041/f/documents/2021_summer_application_guide.pdf</loc>
-  </url>
-  <url>
     <loc>https://housing.ucmerced.edu/sites/g/files/ufvvjh1041/f/images/llcs_at_a_glance.pdf</loc>
   </url>
   <url>
@@ -338,6 +332,9 @@
   </url>
   <url>
     <loc>https://housing.ucmerced.edu/rha</loc>
+  </url>
+  <url>
+    <loc>https://housing.ucmerced.edu/sites/g/files/ufvvjh1041/f/documents/2021_summer_application_guide.pdf</loc>
   </url>
   <url>
     <loc>https://housing.ucmerced.edu/sites/g/files/ufvvjh1041/f/documents/ucm_housing_map_2021v2.pdf</loc>

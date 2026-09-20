@@ -19,16 +19,16 @@
     <loc>https://mae.ucmerced.edu/me-and-ae-undergraduate-programs/careers</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/undergraduate-program/me-major-course-requirements</loc>
+    <loc>https://mae.ucmerced.edu/undergraduate-programs/course-requirements</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/me-and-ae-undergraduate-programs/research-opportunities</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/me-graduate-program</loc>
+    <loc>https://mae.ucmerced.edu/graduate-program</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/me-graduate-program/prospective-me-graduate-students</loc>
+    <loc>https://mae.ucmerced.edu/graduate-program/prospective-graduate-students</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/me-graduate-program/prospective-me-graduate-students/degree-options</loc>
@@ -61,13 +61,13 @@
     <loc>https://mae.ucmerced.edu/advisory-board</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/news</loc>
-  </url>
-  <url>
     <loc>https://mae.ucmerced.edu/events</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/events/seminar-archive</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/news</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/form/contact-us</loc>
@@ -163,10 +163,10 @@
     <loc>https://mae.ucmerced.edu/content/alejandro-gutierrez</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/content/marcus-lee</loc>
+    <loc>https://mae.ucmerced.edu/content/min-hwan-lee-0</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/content/min-hwan-lee-0</loc>
+    <loc>https://mae.ucmerced.edu/content/marcus-lee</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/content/yanbao-ma</loc>
@@ -265,52 +265,10 @@
     <loc>https://mae.ucmerced.edu/content/nicholas-walters</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/news/2026/student-modesto-ready-make-impact-uc-merced</loc>
-  </url>
-  <url>
-    <loc>https://mae.ucmerced.edu/news/2026/professor-reza-ehsani-named-christine-nemec-long-endowed-chair-agricultural-technology</loc>
-  </url>
-  <url>
-    <loc>https://mae.ucmerced.edu/news/2026/demitrius-zulevic-and-istafa-sajid-qureshi-receive-2026-oustanding-ta-award-mae</loc>
-  </url>
-  <url>
-    <loc>https://mae.ucmerced.edu/news/2026/projects-make-world-better-promoted-merced-2-market</loc>
-  </url>
-  <url>
-    <loc>https://mae.ucmerced.edu/news/2026/iman-ebrahimi-awarded-graduate-deans-dissertation-fellowship-mechanical-engineering</loc>
-  </url>
-  <url>
-    <loc>https://mae.ucmerced.edu/news/2026/wm-keck-foundation-expands-investment-uc-merced%E2%80%99s-bold-scientific-research</loc>
-  </url>
-  <url>
-    <loc>https://mae.ucmerced.edu/news?page=1</loc>
-  </url>
-  <url>
-    <loc>https://mae.ucmerced.edu/news?page=2</loc>
-  </url>
-  <url>
-    <loc>https://mae.ucmerced.edu/news?page=3</loc>
-  </url>
-  <url>
-    <loc>https://mae.ucmerced.edu/news?page=4</loc>
-  </url>
-  <url>
-    <loc>https://mae.ucmerced.edu/news?page=5</loc>
-  </url>
-  <url>
-    <loc>https://mae.ucmerced.edu/news?page=6</loc>
-  </url>
-  <url>
-    <loc>https://mae.ucmerced.edu/news?page=7</loc>
-  </url>
-  <url>
-    <loc>https://mae.ucmerced.edu/news?page=8</loc>
-  </url>
-  <url>
-    <loc>https://mae.ucmerced.edu/news?page=21</loc>
-  </url>
-  <url>
     <loc>https://mae.ucmerced.edu/sites/g/files/ufvvjh2321/f/event/Seminar_flyers/fall26/dr._donald_docimo_flyer_-_me.png</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/sites/g/files/ufvvjh2321/f/event/Seminar_flyers/fall26/me_seminar_flyer_-_dr._marcello_canova.png</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/sites/g/files/ufvvjh2321/f/event/Seminar_flyers/fall25/c._sugino_-_m.e._seminar_flyer.png</loc>
@@ -356,6 +314,51 @@
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/sites/g/files/ufvvjh2321/f/event/Seminar_flyers/seminar-12012023-douglas-cook.pdf</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/news/2026/student-modesto-ready-make-impact-uc-merced</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/news/2026/professor-reza-ehsani-named-christine-nemec-long-endowed-chair-agricultural-technology</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/news/2026/demitrius-zulevic-and-istafa-sajid-qureshi-receive-2026-oustanding-ta-award-mae</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/news/2026/projects-make-world-better-promoted-merced-2-market</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/news/2026/iman-ebrahimi-awarded-graduate-deans-dissertation-fellowship-mechanical-engineering</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/news/2026/wm-keck-foundation-expands-investment-uc-merced%E2%80%99s-bold-scientific-research</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/news?page=1</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/news?page=2</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/news?page=3</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/news?page=4</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/news?page=5</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/news?page=6</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/news?page=7</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/news?page=8</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/news?page=21</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/media-contact/patty-guerra</loc>
@@ -952,6 +955,9 @@
     <loc>https://mae.ucmerced.edu/news/2016/mechanical-engineering-now-officially-accredited-graduate-degree</loc>
   </url>
   <url>
+    <loc>https://mae.ucmerced.edu/news/2016/mechanical-engineering-program-gets-new-accreditation</loc>
+  </url>
+  <url>
     <loc>https://mae.ucmerced.edu/news/2016/engineering-graduate-students-place-third-major-industry-competition</loc>
   </url>
   <url>
@@ -1066,16 +1072,16 @@
     <loc>http://mae.ucmerced.edu/me-and-ae-undergraduate-programs/careers</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/undergraduate-program/me-major-course-requirements</loc>
+    <loc>http://mae.ucmerced.edu/undergraduate-programs/course-requirements</loc>
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/me-and-ae-undergraduate-programs/research-opportunities</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/me-graduate-program</loc>
+    <loc>http://mae.ucmerced.edu/graduate-program</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/me-graduate-program/prospective-me-graduate-students</loc>
+    <loc>http://mae.ucmerced.edu/graduate-program/prospective-graduate-students</loc>
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/me-graduate-program/prospective-me-graduate-students/degree-options</loc>
@@ -1105,13 +1111,13 @@
     <loc>http://mae.ucmerced.edu/advisory-board</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/news</loc>
-  </url>
-  <url>
     <loc>http://mae.ucmerced.edu/events</loc>
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/events/seminar-archive</loc>
+  </url>
+  <url>
+    <loc>http://mae.ucmerced.edu/news</loc>
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/form/contact-us</loc>
@@ -1186,10 +1192,10 @@
     <loc>http://mae.ucmerced.edu/content/alejandro-gutierrez</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/content/marcus-lee</loc>
+    <loc>http://mae.ucmerced.edu/content/min-hwan-lee-0</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/content/min-hwan-lee-0</loc>
+    <loc>http://mae.ucmerced.edu/content/marcus-lee</loc>
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/content/yanbao-ma</loc>
@@ -1931,6 +1937,9 @@
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/news/2016/mechanical-engineering-now-officially-accredited-graduate-degree</loc>
+  </url>
+  <url>
+    <loc>http://mae.ucmerced.edu/news/2016/mechanical-engineering-program-gets-new-accreditation</loc>
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/news/2016/engineering-graduate-students-place-third-major-industry-competition</loc>

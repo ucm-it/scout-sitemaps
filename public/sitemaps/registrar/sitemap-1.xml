@@ -220,6 +220,9 @@
     <loc>https://registrar.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>http://registrar.ucmerced.edu/forms</loc>
+  </url>
+  <url>
     <loc>https://registrar.ucmerced.edu/contact-us</loc>
   </url>
   <url>
@@ -676,27 +679,6 @@
     <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/orgchart_3.pdf</loc>
   </url>
   <url>
-    <loc>https://registrar.ucmerced.edu/users/ewebb2</loc>
-  </url>
-  <url>
-    <loc>https://registrar.ucmerced.edu/credential-validation</loc>
-  </url>
-  <url>
-    <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/budget_forms_-_fin_independence_3.pdf</loc>
-  </url>
-  <url>
-    <loc>https://registrar.ucmerced.edu/room-reservation/room-reservations-room-availability</loc>
-  </url>
-  <url>
-    <loc>https://registrar.ucmerced.edu/room-reservation/general-practices</loc>
-  </url>
-  <url>
-    <loc>https://registrar.ucmerced.edu/room-reservation/scheduling-procedures</loc>
-  </url>
-  <url>
-    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/electronic_transcript_exchange_0.pdf</loc>
-  </url>
-  <url>
     <loc>http://registrar.ucmerced.edu/</loc>
   </url>
   <url>
@@ -835,9 +817,6 @@
     <loc>http://registrar.ucmerced.edu/services/verifications</loc>
   </url>
   <url>
-    <loc>http://registrar.ucmerced.edu/forms</loc>
-  </url>
-  <url>
     <loc>http://registrar.ucmerced.edu/faculty-and-staff</loc>
   </url>
   <url>
@@ -892,19 +871,31 @@
     <loc>http://registrar.ucmerced.edu/Contact_us</loc>
   </url>
   <url>
-    <loc>http://registrar.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
     <loc>http://registrar.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://registrar.ucmerced.edu/taxonomy/term/1/feed</loc>
+    <loc>https://registrar.ucmerced.edu/users/ewebb2</loc>
   </url>
   <url>
-    <loc>https://registrar.ucmerced.edu/taxonomy/term/11/feed</loc>
+    <loc>https://registrar.ucmerced.edu/credential-validation</loc>
   </url>
   <url>
-    <loc>https://registrar.ucmerced.edu/taxonomy/term/21/feed</loc>
+    <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/budget_forms_-_fin_independence_3.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/room-reservation/room-reservations-room-availability</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/room-reservation/general-practices</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/room-reservation/scheduling-procedures</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/electronic_transcript_exchange_0.pdf</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
     <loc>http://registrar.ucmerced.edu/content/room-reservations-room-availability</loc>
@@ -914,6 +905,15 @@
   </url>
   <url>
     <loc>http://registrar.ucmerced.edu/content/scheduling-procedures</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/taxonomy/term/1/feed</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/taxonomy/term/11/feed</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/taxonomy/term/21/feed</loc>
   </url>
   <url>
     <loc>http://registrar.ucmerced.edu/room-reservation/room-reservations-room-availability</loc>

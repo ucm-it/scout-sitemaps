@@ -19,16 +19,16 @@
     <loc>https://me.ucmerced.edu/me-and-ae-undergraduate-programs/careers</loc>
   </url>
   <url>
-    <loc>https://me.ucmerced.edu/undergraduate-program/me-major-course-requirements</loc>
+    <loc>https://me.ucmerced.edu/undergraduate-programs/course-requirements</loc>
   </url>
   <url>
     <loc>https://me.ucmerced.edu/me-and-ae-undergraduate-programs/research-opportunities</loc>
   </url>
   <url>
-    <loc>https://me.ucmerced.edu/me-graduate-program</loc>
+    <loc>https://me.ucmerced.edu/graduate-program</loc>
   </url>
   <url>
-    <loc>https://me.ucmerced.edu/me-graduate-program/prospective-me-graduate-students</loc>
+    <loc>https://me.ucmerced.edu/graduate-program/prospective-graduate-students</loc>
   </url>
   <url>
     <loc>https://me.ucmerced.edu/me-graduate-program/prospective-me-graduate-students/degree-options</loc>
@@ -58,13 +58,13 @@
     <loc>https://me.ucmerced.edu/advisory-board</loc>
   </url>
   <url>
-    <loc>https://me.ucmerced.edu/news</loc>
-  </url>
-  <url>
     <loc>https://me.ucmerced.edu/events</loc>
   </url>
   <url>
     <loc>https://me.ucmerced.edu/events/seminar-archive</loc>
+  </url>
+  <url>
+    <loc>https://me.ucmerced.edu/news</loc>
   </url>
   <url>
     <loc>https://me.ucmerced.edu/form/contact-us</loc>
@@ -109,10 +109,10 @@
     <loc>https://me.ucmerced.edu/content/alejandro-gutierrez</loc>
   </url>
   <url>
-    <loc>https://me.ucmerced.edu/content/marcus-lee</loc>
+    <loc>https://me.ucmerced.edu/content/min-hwan-lee-0</loc>
   </url>
   <url>
-    <loc>https://me.ucmerced.edu/content/min-hwan-lee-0</loc>
+    <loc>https://me.ucmerced.edu/content/marcus-lee</loc>
   </url>
   <url>
     <loc>https://me.ucmerced.edu/content/yanbao-ma</loc>
@@ -848,6 +848,9 @@
   </url>
   <url>
     <loc>https://me.ucmerced.edu/news/2016/mechanical-engineering-now-officially-accredited-graduate-degree</loc>
+  </url>
+  <url>
+    <loc>https://me.ucmerced.edu/news/2016/mechanical-engineering-program-gets-new-accreditation</loc>
   </url>
   <url>
     <loc>https://me.ucmerced.edu/news/2016/engineering-graduate-students-place-third-major-industry-competition</loc>
