@@ -110,8 +110,9 @@ jobs:
             console.log("");
 
             // 1. Fetch every web connector (paginated). This endpoint is the
-            //    only one that reports last_success alongside the connector and
-            //    credential ids that run-once needs.
+            //    only one that reports last_success, but it identifies a
+            //    connector by cc_pair_id alone — the connector and credential
+            //    ids run-once needs come from /connector/status in step 2.
             const allStatuses = [];
             try {
               let page = 1;
@@ -147,7 +148,24 @@ jobs:
               return;
             }
 
-            // 2. Keep the ones whose last successful index is older than the
+            // 2. Resolve each cc-pair to its connector and credential ids.
+            //    indexing-status does not report them, so /connector/status is
+            //    joined in on cc_pair_id.
+            let idsByCcPair;
+            try {
+              const res = await execute("GET", "/api/manage/admin/connector/status");
+              const statuses = await res.json();
+              idsByCcPair = new Map(
+                statuses
+                  .filter((s) => s.connector?.id !== undefined && s.credential?.id !== undefined)
+                  .map((s) => [s.cc_pair_id, { connectorId: s.connector.id, credentialId: s.credential.id }]),
+              );
+            } catch (err) {
+              core.setFailed(`Failed to fetch connector ids: ${err.message}`);
+              return;
+            }
+
+            // 3. Keep the ones whose last successful index is older than the
             //    cutoff. A connector that has never succeeded counts as stale.
             //    Anything already indexing is left alone — it is being brought
             //    up to date right now.
@@ -173,11 +191,13 @@ jobs:
                 continue;
               }
 
+              const ids = idsByCcPair.get(c.cc_pair_id);
+
               stale.push({
                 name,
                 ccPairId: c.cc_pair_id,
-                connectorId: c.connector?.id,
-                credentialId: c.credential?.id,
+                connectorId: ids?.connectorId,
+                credentialId: ids?.credentialId,
                 lastSuccess,
               });
             }
@@ -199,7 +219,7 @@ jobs:
               return;
             }
 
-            // 3. Drop blacklisted connectors — sites known to be broken that we
+            // 4. Drop blacklisted connectors — sites known to be broken that we
             //    do not want to keep re-crawling. Matching is per cc-pair, so a
             //    connector keeps reindexing its non-blacklisted cc-pairs.
             const blacklisted = [];
@@ -221,7 +241,7 @@ jobs:
               return;
             }
 
-            // 4. run-once is per connector, so a connector with several stale
+            // 5. run-once is per connector, so a connector with several stale
             //    cc-pairs is triggered once with all of its credentials.
             const byConnector = new Map();
             const unresolved = [];
@@ -253,7 +273,7 @@ jobs:
             const success = [];
             const failures = [];
 
-            // 5. Reindex
+            // 6. Reindex
             for (const [connectorId, entry] of byConnector) {
               const label = entry.entries.map((s) => s.name).join(", ");
 
@@ -279,7 +299,7 @@ jobs:
               }
             }
 
-            // 6. Summary
+            // 7. Summary
             console.log(`\n── Summary ──────────────────────────────`);
             console.log(`  ${DRY_RUN ? "Would reindex" : "Reindexed"} : ${success.length}`);
             success.forEach((n) => console.log(`    • ${n}`));
