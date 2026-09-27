@@ -124,9 +124,6 @@
     <loc>https://it.ucmerced.edu/crashplan-install</loc>
   </url>
   <url>
-    <loc>https://it.ucmerced.edu/vpn</loc>
-  </url>
-  <url>
     <loc>https://it.ucmerced.edu/phishing</loc>
   </url>
   <url>
@@ -223,16 +220,10 @@
     <loc>https://it.ucmerced.edu/Research-Computing-Services</loc>
   </url>
   <url>
-    <loc>https://it.ucmerced.edu/Research-Computing-Visualization/WAVE</loc>
-  </url>
-  <url>
     <loc>https://it.ucmerced.edu/High-Performance-Networking</loc>
   </url>
   <url>
     <loc>https://it.ucmerced.edu/High-Performance-Computing</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/Research-Computing-Visualization</loc>
   </url>
   <url>
     <loc>https://it.ucmerced.edu/Research-Computing-Applications</loc>
@@ -320,9 +311,6 @@
   </url>
   <url>
     <loc>https://it.ucmerced.edu/High-Performance-Computing/Clusters/RequestingAccount</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/wp-content/uploads/2016/11/170818_WAVE_OneSheet_V1_PRF1.pdf</loc>
   </url>
   <url>
     <loc>https://it.ucmerced.edu/Research-Computing-Archive-News</loc>
