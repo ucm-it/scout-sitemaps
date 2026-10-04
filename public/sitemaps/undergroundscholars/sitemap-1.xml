@@ -7,9 +7,6 @@
     <loc>https://undergroundscholars.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://undergroundscholars.ucmerced.edu/node/111</loc>
-  </url>
-  <url>
     <loc>https://undergroundscholars.ucmerced.edu/history</loc>
   </url>
   <url>
@@ -29,6 +26,9 @@
   </url>
   <url>
     <loc>https://undergroundscholars.ucmerced.edu/join-bus</loc>
+  </url>
+  <url>
+    <loc>https://undergroundscholars.ucmerced.edu/node/111</loc>
   </url>
   <url>
     <loc>https://undergroundscholars.ucmerced.edu/rss.xml</loc>

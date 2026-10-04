@@ -154,6 +154,9 @@
     <loc>https://it.ucmerced.edu/Software</loc>
   </url>
   <url>
+    <loc>https://it.ucmerced.edu/request-lab-software</loc>
+  </url>
+  <url>
     <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/page/documents/is-3_ama_webinar_deck_final.pdf</loc>
   </url>
   <url>
@@ -220,13 +223,7 @@
     <loc>https://it.ucmerced.edu/Research-Computing-Services</loc>
   </url>
   <url>
-    <loc>https://it.ucmerced.edu/High-Performance-Networking</loc>
-  </url>
-  <url>
     <loc>https://it.ucmerced.edu/High-Performance-Computing</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/Research-Computing-Applications</loc>
   </url>
   <url>
     <loc>https://it.ucmerced.edu/Research-Computing-People</loc>
@@ -289,28 +286,22 @@
     <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/page/documents/rba02-spss_features.pdf</loc>
   </url>
   <url>
+    <loc>https://it.ucmerced.edu/remotelab</loc>
+  </url>
+  <url>
     <loc>https://it.ucmerced.edu/policy_reference</loc>
   </url>
   <url>
     <loc>https://it.ucmerced.edu/sites/it.ucmerced.edu/files/page/ISO/uc-it-21-0550_bfb-is-12_it-recovery_accessible.pdf</loc>
   </url>
   <url>
-    <loc>https://it.ucmerced.edu/remotelab</loc>
-  </url>
-  <url>
     <loc>https://it.ucmerced.edu/Zoom</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/request-lab-software</loc>
   </url>
   <url>
     <loc>https://it.ucmerced.edu/catcourses</loc>
   </url>
   <url>
     <loc>https://it.ucmerced.edu/kaltura</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/High-Performance-Computing/Clusters/RequestingAccount</loc>
   </url>
   <url>
     <loc>https://it.ucmerced.edu/Research-Computing-Archive-News</loc>

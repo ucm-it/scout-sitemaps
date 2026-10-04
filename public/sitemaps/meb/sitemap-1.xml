@@ -7,13 +7,22 @@
     <loc>https://meb.ucmerced.edu/</loc>
   </url>
   <url>
+    <loc>https://meb.ucmerced.edu/sites/meb.ucmerced.edu/files/images/med-ed-floor-rendering-1_large.jpg</loc>
+  </url>
+  <url>
+    <loc>https://meb.ucmerced.edu/sites/meb.ucmerced.edu/files/images/med-ed-floor-rendering-2_large.jpg</loc>
+  </url>
+  <url>
+    <loc>https://meb.ucmerced.edu/sites/meb.ucmerced.edu/files/images/med-ed-floor-rendering-3_large.jpg</loc>
+  </url>
+  <url>
     <loc>https://meb.ucmerced.edu/news/2023/uc-merced-medical-education-building-gains-final-approval-uc-regents</loc>
   </url>
   <url>
-    <loc>https://meb.ucmerced.edu/news/2024/following-mission-improve-valley-health-care</loc>
+    <loc>https://meb.ucmerced.edu/news/2024/ground-broken-medical-education-building-uc-merced</loc>
   </url>
   <url>
-    <loc>https://meb.ucmerced.edu/news/2024/ground-broken-medical-education-building-uc-merced</loc>
+    <loc>https://meb.ucmerced.edu/news/2024/following-mission-improve-valley-health-care</loc>
   </url>
   <url>
     <loc>https://meb.ucmerced.edu/contact-us</loc>
@@ -88,7 +97,7 @@
     <loc>https://meb.ucmerced.edu/news/2026/uc-merced-among-first-campuses-earn-carnegie-classification-sustainability</loc>
   </url>
   <url>
-    <loc>https://meb.ucmerced.edu/news/2026/uc-merced-arts-season-opens-%E2%80%AFmerced-symphonys%E2%80%AFside-side-concert</loc>
+    <loc>https://meb.ucmerced.edu/news/2026/uc-merced-arts-season-opens-merced-symphonys%E2%80%AFside-side-concert</loc>
   </url>
   <url>
     <loc>https://meb.ucmerced.edu/news/2026/uc-merced-named-30th-best-public-university-nation</loc>
@@ -113,6 +122,15 @@
   </url>
   <url>
     <loc>https://meb.ucmerced.edu/news/sjv-prime</loc>
+  </url>
+  <url>
+    <loc>https://meb.ucmerced.edu/media-contact/patty-guerra</loc>
+  </url>
+  <url>
+    <loc>https://meb.ucmerced.edu/news/2026/uc-merced-co-hosts-institute-sharpens-instruction-reading-writing</loc>
+  </url>
+  <url>
+    <loc>https://meb.ucmerced.edu/news/2026/wild-mushrooms-punchlines-bobcats-learn-out-box-ways</loc>
   </url>
   <url>
     <loc>https://meb.ucmerced.edu/media-contact/jody-murray</loc>
@@ -148,15 +166,6 @@
     <loc>https://meb.ucmerced.edu/news/leed-certification</loc>
   </url>
   <url>
-    <loc>https://meb.ucmerced.edu/media-contact/patty-guerra</loc>
-  </url>
-  <url>
-    <loc>https://meb.ucmerced.edu/news/2026/uc-merced-co-hosts-institute-sharpens-instruction-reading-writing</loc>
-  </url>
-  <url>
-    <loc>https://meb.ucmerced.edu/news/2026/wild-mushrooms-punchlines-bobcats-learn-out-box-ways</loc>
-  </url>
-  <url>
     <loc>https://meb.ucmerced.edu/news/2026/bustling-campus-greets-students-uc-merced%E2%80%99s-21st-academic-year</loc>
   </url>
   <url>
@@ -178,6 +187,9 @@
     <loc>https://meb.ucmerced.edu/taxonomy/term/251/feed</loc>
   </url>
   <url>
+    <loc>https://meb.ucmerced.edu/taxonomy/term/23/feed</loc>
+  </url>
+  <url>
     <loc>https://meb.ucmerced.edu/news/2025/20-years-uc-merced-celebrates-achievements-looks-future</loc>
   </url>
   <url>
@@ -185,8 +197,5 @@
   </url>
   <url>
     <loc>https://meb.ucmerced.edu/taxonomy/term/14/feed</loc>
-  </url>
-  <url>
-    <loc>https://meb.ucmerced.edu/taxonomy/term/23/feed</loc>
   </url>
 </urlset>

@@ -25,6 +25,9 @@
     <loc>https://studentleadership.ucmerced.edu/CAP</loc>
   </url>
   <url>
+    <loc>https://studentleadership.ucmerced.edu/conferences</loc>
+  </url>
+  <url>
     <loc>https://studentleadership.ucmerced.edu/incentives</loc>
   </url>
   <url>
@@ -46,13 +49,10 @@
     <loc>https://studentleadership.ucmerced.edu/form/leadership-training-request</loc>
   </url>
   <url>
-    <loc>https://studentleadership.ucmerced.edu/conferences</loc>
-  </url>
-  <url>
     <loc>https://studentleadership.ucmerced.edu/current-events</loc>
   </url>
   <url>
-    <loc>https://studentleadership.ucmerced.edu/bobactday2026</loc>
+    <loc>https://studentleadership.ucmerced.edu/calendar</loc>
   </url>
   <url>
     <loc>https://studentleadership.ucmerced.edu/news</loc>
@@ -103,6 +103,9 @@
     <loc>https://studentleadership.ucmerced.edu/wearehereguestspeakers</loc>
   </url>
   <url>
+    <loc>https://studentleadership.ucmerced.edu/events/leadership-lab-connectfest</loc>
+  </url>
+  <url>
     <loc>https://studentleadership.ucmerced.edu/news/2025/spring-2025-student-leadership-awards</loc>
   </url>
   <url>
@@ -113,63 +116,6 @@
   </url>
   <url>
     <loc>https://studentleadership.ucmerced.edu/news/2023/bobcat-leadership-seminar-concludes-another-successful-cohort</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/calendar</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/news/2023/congratulations-our-2023-leadership-award-winners</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/news/2023/heart-student-experience-panel-student-leaders-bobcat-day</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/news/2023/bobcat-leadership-seminar-returns-2nd-cohort</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/news/2023/now-accepting-nominations-2023-student-leadership-awards</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/news/2023/ufc-community-organization-awards-now-open-student-organizations</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/news/2023/bobcat-leadership-seminar-returns-after-2-years</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/news?page=1</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/news?page=2</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/news?page=3</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/news?page=4</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/news/2025</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/news/2024</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/news/2023</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/Equity</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/sites/g/files/ufvvjh1756/f/page/documents/souza_center_press_release.pdf</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/sites/g/files/ufvvjh1756/f/page/documents/ylpsi_position_descriptions_2026.pdf</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/sites/g/files/ufvvjh1756/f/documents/ylpsi_2026_application.pdf</loc>
-  </url>
-  <url>
-    <loc>https://studentleadership.ucmerced.edu/sites/g/files/ufvvjh1756/f/documents/chancellors_ambassador_program_job_description_26-27_1.docx</loc>
   </url>
   <url>
     <loc>https://studentleadership.ucmerced.edu/events/halloween-open-house</loc>
@@ -338,6 +284,60 @@
   </url>
   <url>
     <loc>https://studentleadership.ucmerced.edu/events/2023-community-service-organizations-awards</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/news/2023/congratulations-our-2023-leadership-award-winners</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/news/2023/heart-student-experience-panel-student-leaders-bobcat-day</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/news/2023/bobcat-leadership-seminar-returns-2nd-cohort</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/news/2023/now-accepting-nominations-2023-student-leadership-awards</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/news/2023/ufc-community-organization-awards-now-open-student-organizations</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/news/2023/bobcat-leadership-seminar-returns-after-2-years</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/news?page=1</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/news?page=2</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/news?page=3</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/news?page=4</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/news/2025</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/news/2024</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/news/2023</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/Equity</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/sites/g/files/ufvvjh1756/f/page/documents/souza_center_press_release.pdf</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/sites/g/files/ufvvjh1756/f/page/documents/ylpsi_position_descriptions_2026.pdf</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/sites/g/files/ufvvjh1756/f/documents/ylpsi_2026_application.pdf</loc>
+  </url>
+  <url>
+    <loc>https://studentleadership.ucmerced.edu/sites/g/files/ufvvjh1756/f/documents/chancellors_ambassador_program_job_description_26-27_1.docx</loc>
   </url>
   <url>
     <loc>https://studentleadership.ucmerced.edu/news/2021/margo-f-souza-student-leadership-center-rolls-out-exciting-month-full-programs</loc>

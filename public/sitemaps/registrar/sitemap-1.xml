@@ -220,9 +220,6 @@
     <loc>https://registrar.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>http://registrar.ucmerced.edu/forms</loc>
-  </url>
-  <url>
     <loc>https://registrar.ucmerced.edu/contact-us</loc>
   </url>
   <url>
@@ -235,7 +232,7 @@
     <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/dnp_philosophy.pdf</loc>
   </url>
   <url>
-    <loc>https://registrar.ucmerced.edu/PriorityRegistration</loc>
+    <loc>http://registrar.ucmerced.edu/PriorityRegistration</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/content/ferpa-quiz</loc>
@@ -818,6 +815,9 @@
   </url>
   <url>
     <loc>http://registrar.ucmerced.edu/services/verifications</loc>
+  </url>
+  <url>
+    <loc>http://registrar.ucmerced.edu/forms</loc>
   </url>
   <url>
     <loc>http://registrar.ucmerced.edu/faculty-and-staff</loc>
