@@ -49,13 +49,7 @@
     <loc>https://bfs.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://bfs.ucmerced.edu/payroll-services</loc>
-  </url>
-  <url>
     <loc>https://bfs.ucmerced.edu/our-services/accounts-payable-tax-payment-services/tax-services/glacier-system</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/form/payroll-services-inquiry</loc>
   </url>
   <url>
     <loc>https://bfs.ucmerced.edu/our-services/accounts-payable-tax-payment-services/accounts-payable</loc>
@@ -277,9 +271,6 @@
     <loc>https://bfs.ucmerced.edu/news/tax-services</loc>
   </url>
   <url>
-    <loc>https://bfs.ucmerced.edu/news/2025/advisory-ucpath-dcp-and-fica-adjustments</loc>
-  </url>
-  <url>
     <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/tax_services_-_ucm_glacier_user_guide_-_completing_your_glacier_record_9-23-21_final.pdf</loc>
   </url>
   <url>
@@ -406,6 +397,9 @@
     <loc>https://bfs.ucmerced.edu/news/2025/coa-clean-1300113002-%E2%80%93-effective-4125</loc>
   </url>
   <url>
+    <loc>https://bfs.ucmerced.edu/news/2025/advisory-ucpath-dcp-and-fica-adjustments</loc>
+  </url>
+  <url>
     <loc>https://bfs.ucmerced.edu/summersalary</loc>
   </url>
   <url>
@@ -424,10 +418,10 @@
     <loc>https://bfs.ucmerced.edu/news/2024/student-employment-year-end-updates-reminders</loc>
   </url>
   <url>
-    <loc>https://bfs.ucmerced.edu/news/2024/end-semester-employee-separations</loc>
+    <loc>https://bfs.ucmerced.edu/news/2024/early-deadlines-november-december-payroll</loc>
   </url>
   <url>
-    <loc>https://bfs.ucmerced.edu/news/2024/early-deadlines-november-december-payroll</loc>
+    <loc>https://bfs.ucmerced.edu/news/2024/end-semester-employee-separations</loc>
   </url>
   <url>
     <loc>https://bfs.ucmerced.edu/news/2024/trs-modernization-coming-november-1st-2024</loc>
@@ -583,9 +577,6 @@
     <loc>https://bfs.ucmerced.edu/taxonomy/term/1/feed</loc>
   </url>
   <url>
-    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/news/documents/questionnaire_for_sct_4.9.2025_1.pdf</loc>
-  </url>
-  <url>
     <loc>https://bfs.ucmerced.edu/taxonomy/term/10/feed</loc>
   </url>
   <url>
@@ -601,34 +592,13 @@
     <loc>https://bfs.ucmerced.edu/form/student-separation-non-academic</loc>
   </url>
   <url>
-    <loc>https://bfs.ucmerced.edu/form/student-rate-change</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/sites/g/files/ufvvjh426/f/documents/roles_and_responsibilities_payroll_services_05_2025pdf.pdf</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/sites/g/files/ufvvjh426/f/documents/job_aid_-_completing_and_submitting_an_sct_bct_request.pdf</loc>
-  </url>
-  <url>
     <loc>https://bfs.ucmerced.edu/form/academic-separation</loc>
   </url>
   <url>
+    <loc>https://bfs.ucmerced.edu/form/student-rate-change</loc>
+  </url>
+  <url>
     <loc>https://bfs.ucmerced.edu/summersalary/escalationprocess</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/form/direct-retro-staff</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/form/direct-retro-academic</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/job_aid_ucpath_cognos_dope_report_r-268.pdf</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/job_aid_understanding_payroll_separation_request_process_.pdf</loc>
-  </url>
-  <url>
-    <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/documents/job_aid_trs_supervisor_-_edit_timesheet_for_employee.pdf</loc>
   </url>
   <url>
     <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/page/documents/6_11_24_employee_communication_final.pdf</loc>
@@ -665,6 +635,9 @@
   </url>
   <url>
     <loc>https://bfs.ucmerced.edu/taxonomy/term/3/feed</loc>
+  </url>
+  <url>
+    <loc>https://bfs.ucmerced.edu/form/payroll-services-inquiry</loc>
   </url>
   <url>
     <loc>https://bfs.ucmerced.edu/sites/bfs.ucmerced.edu/files/documents/escalation_questionnaire_1.pdf</loc>

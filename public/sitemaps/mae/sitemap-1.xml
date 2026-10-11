@@ -31,16 +31,16 @@
     <loc>https://mae.ucmerced.edu/graduate-program/prospective-graduate-students</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/me-graduate-program/prospective-me-graduate-students/degree-options</loc>
+    <loc>https://mae.ucmerced.edu/graduate-program/prospective-graduate-students/degree-options</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/me-graduate-program/prospective-me-graduate-students/financial-support</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/me-graduate-program/current-me-graduate-students</loc>
+    <loc>https://mae.ucmerced.edu/graduate-program/current-graduate-students</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/me-graduate-program/current-me-graduate-students/degree-examinations</loc>
+    <loc>https://mae.ucmerced.edu/graduate-program/current-graduate-students/degree-examinations</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/graduate-program/current-students/centers-institutes-and-resources</loc>
@@ -232,10 +232,13 @@
     <loc>https://mae.ucmerced.edu/content/changqing-li</loc>
   </url>
   <url>
+    <loc>https://mae.ucmerced.edu/content/sunmeet-bhargava</loc>
+  </url>
+  <url>
     <loc>https://mae.ucmerced.edu/content/duval-johnson</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/content/sean-c-y-lim</loc>
+    <loc>https://mae.ucmerced.edu/content/sean-c-y-lin</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/content/harry-e-martz</loc>
@@ -1081,16 +1084,16 @@
     <loc>http://mae.ucmerced.edu/graduate-program/prospective-graduate-students</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/me-graduate-program/prospective-me-graduate-students/degree-options</loc>
+    <loc>http://mae.ucmerced.edu/graduate-program/prospective-graduate-students/degree-options</loc>
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/me-graduate-program/prospective-me-graduate-students/financial-support</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/me-graduate-program/current-me-graduate-students</loc>
+    <loc>http://mae.ucmerced.edu/graduate-program/current-graduate-students</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/me-graduate-program/current-me-graduate-students/degree-examinations</loc>
+    <loc>http://mae.ucmerced.edu/graduate-program/current-graduate-students/degree-examinations</loc>
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/graduate-program/current-students/centers-institutes-and-resources</loc>
@@ -1258,10 +1261,13 @@
     <loc>http://mae.ucmerced.edu/content/changqing-li</loc>
   </url>
   <url>
+    <loc>http://mae.ucmerced.edu/content/sunmeet-bhargava</loc>
+  </url>
+  <url>
     <loc>http://mae.ucmerced.edu/content/duval-johnson</loc>
   </url>
   <url>
-    <loc>http://mae.ucmerced.edu/content/sean-c-y-lim</loc>
+    <loc>http://mae.ucmerced.edu/content/sean-c-y-lin</loc>
   </url>
   <url>
     <loc>http://mae.ucmerced.edu/content/harry-e-martz</loc>

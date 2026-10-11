@@ -25,9 +25,6 @@
     <loc>https://hr.ucmerced.edu/mission-vision</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/how-we-work</loc>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/careers</loc>
   </url>
   <url>
@@ -40,13 +37,7 @@
     <loc>https://hr.ucmerced.edu/employee-resources/employee-services</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/employee-resources/pandemic-recovery-team</loc>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/hr-units/talent-development</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/LinkedinL</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/hr-units/benefits/holiday-schedule</loc>
@@ -163,15 +154,6 @@
     <loc>https://hr.ucmerced.edu/HybridWorkArrangementsFAQ</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/01_covid_asymptomatic_testing_observer_-_non-medical_assignment_detail.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/02_covid_response_center_crc_operator.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/04_covid_worksite_monitor.pdf</loc>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/talent-development/Our-Partners</loc>
   </url>
   <url>
@@ -188,9 +170,6 @@
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/UCOP</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hrtdprograms</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/leaves-absence/types</loc>
@@ -272,9 +251,6 @@
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/New_Employee_Orientation</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/telecommuting_policy.pdf</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/ppsm-36_classification-positions_2024.pdf</loc>
@@ -601,6 +577,9 @@
     <loc>https://hr.ucmerced.edu/Career_Advising</loc>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/hrtdprograms</loc>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/hrtdservices</loc>
   </url>
   <url>
@@ -629,18 +608,6 @@
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/Campus-Affinity-Groups</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/Career_Development_Connection</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/leadership-now</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/managing_implicit_bias</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/training/peoplemanagement</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/your-guide-to-uc-disability-benefits-fact-sheet_0.pdf</loc>
@@ -997,6 +964,18 @@
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/uc_medical_plan_availability_2025.xlsx</loc>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/Career_Development_Connection</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/leadership-now</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/managing_implicit_bias</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/training/peoplemanagement</loc>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/Facilitation</loc>
   </url>
   <url>
@@ -1045,15 +1024,6 @@
     <loc>https://hr.ucmerced.edu/uclc_liaison</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/Course-Requirements-for-the-UC-People-Management-Series-and-Certificate</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/uc_people_management_participant_checklist.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/UC-People-Management-Series-and-Certificate-Frequently-Asked-Questions</loc>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/catastrophic_leave_donation_program.pdf</loc>
   </url>
   <url>
@@ -1096,7 +1066,19 @@
     <loc>https://hr.ucmerced.edu/talent-acquisition/employment-guides/hiring-near-relatives</loc>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/hr-units/talent-acquisition/hiring-manager-toolkit/special-conditions-employment</loc>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/hr-units/benefits/health-welfare-benefits/disability/coverage-type</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/Course-Requirements-for-the-UC-People-Management-Series-and-Certificate</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/uc_people_management_participant_checklist.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/UC-People-Management-Series-and-Certificate-Frequently-Asked-Questions</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/individual_development_plan_template_2018.pdf</loc>
@@ -1154,6 +1136,9 @@
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/near_relative_request_for_new_hire_form_2026.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/canra_cmr_titles89.pdf</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/files/page/documents/individual_career_development_action_plan.pdf</loc>
