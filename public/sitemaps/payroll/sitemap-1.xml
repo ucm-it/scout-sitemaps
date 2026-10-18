@@ -118,9 +118,6 @@
     <loc>https://payroll.ucmerced.edu/ssc-receipt</loc>
   </url>
   <url>
-    <loc>https://payroll.ucmerced.edu/form/damage-payment-request</loc>
-  </url>
-  <url>
     <loc>https://payroll.ucmerced.edu/damage-payment-process</loc>
   </url>
   <url>
@@ -128,12 +125,6 @@
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/form/academic-intake-appointment-request</loc>
-  </url>
-  <url>
-    <loc>https://payroll.ucmerced.edu/form/postdoc-anniversary-update</loc>
-  </url>
-  <url>
-    <loc>https://payroll.ucmerced.edu/form/academic-short-work-break-request</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/form/academic-separation</loc>
@@ -157,22 +148,10 @@
     <loc>https://payroll.ucmerced.edu/form/reclassification-student-non-academic</loc>
   </url>
   <url>
-    <loc>https://payroll.ucmerced.edu/form/request-short-work-break-student-non-academic</loc>
-  </url>
-  <url>
-    <loc>https://payroll.ucmerced.edu/form/return-swb-student-non-academic</loc>
-  </url>
-  <url>
     <loc>https://payroll.ucmerced.edu/form/student-separation-non-academic-0</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/kissflow_payroll_project_faqs.pdf</loc>
-  </url>
-  <url>
-    <loc>https://payroll.ucmerced.edu/form/individual-trs-approverucpath-reports-update</loc>
-  </url>
-  <url>
-    <loc>https://payroll.ucmerced.edu/form/mass-trs-approver-change-request</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/homepage_timesheet_policy_reminder.pdf</loc>
@@ -182,9 +161,6 @@
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/resources/ucm-location-list</loc>
-  </url>
-  <url>
-    <loc>https://payroll.ucmerced.edu/form/employee-work-location</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/page/documents/2026_payroll_processing_transactional_calendar-campus_0.xlsx</loc>

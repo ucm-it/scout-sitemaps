@@ -10,7 +10,7 @@
     <loc>https://taps.ucmerced.edu/about</loc>
   </url>
   <url>
-    <loc>https://taps.ucmerced.edu/form/feedback</loc>
+    <loc>https://taps.ucmerced.edu/about/contact-us/feedback</loc>
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/about/testimonials</loc>
@@ -181,7 +181,13 @@
     <loc>https://taps.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>https://taps.ucmerced.edu/news/2026/spring-27-campusfreshman-commuter-exception-form</loc>
+  </url>
+  <url>
     <loc>https://taps.ucmerced.edu/news/2026/micromobility-safety-campus</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/events/micromobility-registration-event</loc>
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/contact-us</loc>
@@ -361,7 +367,7 @@
     <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/accident_reporting_kit.pdf</loc>
   </url>
   <url>
-    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/page/documents/verification_of_insurance.pdf</loc>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/page/documents/uc-certificate-of-self-insurance-2026-2027.pdf</loc>
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/claims_reporting_changes_final.pdf</loc>
