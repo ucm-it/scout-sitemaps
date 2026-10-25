@@ -40,9 +40,6 @@
     <loc>https://ccbm.ucmerced.edu/research/thrust-2-adaptive_and_responsive_mesoscale_assemblies</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/research/thrust-3-adaptive_cellular_communication</loc>
-  </url>
-  <url>
     <loc>https://ccbm.ucmerced.edu/research/2022-ccbm-workshop</loc>
   </url>
   <url>
@@ -53,9 +50,6 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/education/undergraduate-reu</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/education/undergraduate-reu/crest-fellows</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/education/undergraduate/CSIP</loc>
@@ -163,16 +157,16 @@
     <loc>https://ccbm.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced-poised-go-further-chancellor-says-state-university-address</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2026/study-finds-cannabis-addiction-pregnancy-linked-higher-risk-postpartum-psychiatric-crises</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced-announces-2026-hellman-fellows</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/camp-provides-growth-opportunities-connection-livermore-lab</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2026/author-brings-larry-itliongs-legacy-home-valley-uc-merced-filipino-american-history-month</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2026/greenhouse-agtech-trailers-will-bring-uc-merced-research-community</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced-pilots-summer-investment-academy-help-students-build-skills-connections</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/events/gallery-biotech-and-bioscience-research</loc>
@@ -188,6 +182,12 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/research/thrust-3-adaptive_cellular_communication</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/education/undergraduate-reu/crest-fellows</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/documents/nsf-crest_ccbm_flyer_feb2025.pdf</loc>
@@ -326,9 +326,6 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2019/ccbm-bringing-high-powered-speakers-two-day-workshop</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/documents/2025-26_ccbm_fellows_flyer.pdf</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/documents/ccbm_c-sip_summer_2026-flyer-2.pdf</loc>
@@ -490,19 +487,19 @@
     <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/page/images/screen_shot_2019-03-07_at_1.59.46_pm.png</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news/2026/author-brings-larry-itliongs-legacy-home-valley-uc-merced-filipino-american-history-month</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2026/greenhouse-agtech-trailers-will-bring-uc-merced-research-community</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced-pilots-summer-investment-academy-help-students-build-skills-connections</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/just-taking-classes-she-liked-points-uc-merced-student-graduate-19</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced-gets-down-business-hsi-battle-brains</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2026/new-dean-students-reflects-art-listening-power-family</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2026/study-highlights-hidden-labor-market-facing-california%E2%80%99s-most-vulnerable-workers</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced-team-earns-best-paper-award-sensys-2026</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news?page=1</loc>
@@ -529,7 +526,7 @@
     <loc>https://ccbm.ucmerced.edu/news?page=8</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=72</loc>
+    <loc>https://ccbm.ucmerced.edu/news?page=73</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/documents/ccbm_publications_april_2016_-_march_2021.docx</loc>
@@ -571,10 +568,16 @@
     <loc>https://ccbm.ucmerced.edu/news/2019/nsf-career-awards-ccbm-faculty-profs-baxter-and-subramaniam</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/media-contact/alyssa-johansen</loc>
+    <loc>https://ccbm.ucmerced.edu/media-contact/jody-murray</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/media-contact/brenda-ortiz</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/media-contact/alyssa-johansen</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/documents/2025-26_ccbm_fellows_flyer.pdf</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/people-additional-tags/administrative-leads</loc>
@@ -781,7 +784,13 @@
     <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/page/images/img_1066.jpg</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/media-contact/jody-murray</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2026/new-dean-students-reflects-art-listening-power-family</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2026/study-highlights-hidden-labor-market-facing-california%E2%80%99s-most-vulnerable-workers</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced-team-earns-best-paper-award-sensys-2026</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced-launches-earth-institute-uniting-climate-and-environmental-research</loc>
@@ -799,10 +808,10 @@
     <loc>https://ccbm.ucmerced.edu/news/2026/big-smiles-big-collection-new-bobcats-scholars-bridge-crossing</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced-celebrates-its-most-successful-fundraising-year</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2026/school-social-sciences-humanities-and-arts-faculty-named-five-endowed-chairs</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2026/school-social-sciences-humanities-and-arts-faculty-named-five-endowed-chairs</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced-celebrates-its-most-successful-fundraising-year</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced-team-wins-international-ev-design-competition</loc>
@@ -874,13 +883,13 @@
     <loc>https://ccbm.ucmerced.edu/news/2026/global-film-highlights-faculty-voice-future-soil</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced-foundation-trustees-establish-endowed-scholarship-support-las-positas-college</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced-foundation-trustees-establish-endowed-scholarship-support-las-positas-transfer</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/heat-waves-making-wildfires-worse-western-united-states</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced-foundation-trustees-establish-endowed-scholarship-support-las-positas-college</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/regional-answers-best-option-address-global-water-energy-problems</loc>
@@ -925,6 +934,9 @@
     <loc>https://ccbm.ucmerced.edu/news/2026/celebration-uc-merced-and-citris-looks-both-back-and-forward</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=9</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/remembering-yangquan-chen-mechanical-engineering-innovator-and-mentor-many</loc>
   </url>
   <url>
@@ -932,9 +944,6 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/degrees-cheers-and-record-number-graduates-under-open-sky</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=9</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/five-uc-merced-faculty-members-earn-early-career-research-awards</loc>
@@ -958,6 +967,9 @@
     <loc>https://ccbm.ucmerced.edu/news/2026/turning-carbon-footprint-carbon-wave</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=10</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced-opens-flexible-routes-stem-degrees-teaching-and-beyond</loc>
   </url>
   <url>
@@ -965,9 +977,6 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced-student-makes-campus-history-goldwater-scholarship</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=10</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/what-causes-chronic-inflammation-uc-merced-project-aims-find-out</loc>
@@ -991,6 +1000,9 @@
     <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced%E2%80%99s-grad-slam-champion-explores-mucus-fungus-battle-behind-valley-fever</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=11</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/new-liberal-studies-major-expands-paths-degree-completion-and-future-teachers</loc>
   </url>
   <url>
@@ -998,9 +1010,6 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/project-aims-put-ai-work-reducing-its-own-energy-needs</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=11</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced-sees-strong-gains-us-news-grad-school-rankings</loc>
@@ -1012,10 +1021,10 @@
     <loc>https://ccbm.ucmerced.edu/news/2026/bioengineering-professor-among-senate-district%E2%80%99s-%E2%80%98women-who-inspire%E2%80%99</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced%E2%80%99s-center-health-equity-convenes-partners-address-patient-trust-gap-san-joaquin</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2026/two-uc-merced-researchers-among-year%E2%80%99s-aaas-fellows</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2026/two-uc-merced-researchers-among-year%E2%80%99s-aaas-fellows</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced%E2%80%99s-center-health-equity-convenes-partners-address-patient-trust-gap-san-joaquin</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/calteach-and-local-schools-team-energize-learning-across-merced-county</loc>
@@ -1024,46 +1033,13 @@
     <loc>https://ccbm.ucmerced.edu/news/2026/ants-endurance-and-phd-finish-line</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced-climate-experts-explain-why-march-heat-wave-dangerous</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2026/ocean-chemistry-now-substantially-shaped-humans</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced-receives-1-million-award-support-postdoctoral-fellows</loc>
-  </url>
-  <url>
     <loc>https://ccbm.ucmerced.edu/news?page=12</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2017/congrats-our-5-new-spring-2017-ccbm-graduate-fellows</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2016/congrats-our-2016-undergraduate-crest-scholars</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2016/welcome-our-2016-ccbm-scholars</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2016/announcements-nsf-crest-ccbm-executive-director-programs-manager-and-project-scientists</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2016/2016-17-undergraduate%C2%A0crest-scholar-program%C2%A0now-accepting-applications</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2016/2016-17-ccbm-scholars-graduate-program</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2016/1st-external-advisory-board-visit</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2016/our-center-cellular-and-biomolecular-machines-ccbm-funded-nsf-5-years-and-5-million</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=71</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=64</loc>
+    <loc>https://ccbm.ucmerced.edu/news?page=72</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news?page=65</loc>
@@ -1082,6 +1058,9 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news?page=70</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=71</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/page/documents/campus_map1_1.pdf</loc>
@@ -1117,10 +1096,13 @@
     <loc>https://ccbm.ucmerced.edu/media-contact/kenneth-mashinchi</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/taxonomy/term/1181/feed</loc>
+    <loc>https://ccbm.ucmerced.edu/taxonomy/term/1661/feed</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/taxonomy/term/40/feed</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/taxonomy/term/1181/feed</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/taxonomy/term/831/feed</loc>
@@ -1147,13 +1129,16 @@
     <loc>https://ccbm.ucmerced.edu/taxonomy/term/1061/feed</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2026/empathy-central-theme-todo-cambia-film-festival</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/taxonomy/term/1661/feed</loc>
-  </url>
-  <url>
     <loc>https://ccbm.ucmerced.edu/media-contact/samuel-yniquez</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced-climate-experts-explain-why-march-heat-wave-dangerous</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2026/ocean-chemistry-now-substantially-shaped-humans</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced-receives-1-million-award-support-postdoctoral-fellows</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/turner-construction-foundation-gifts-future-engineers</loc>
@@ -1165,6 +1150,9 @@
     <loc>https://ccbm.ucmerced.edu/news/2026/amazon-funds-research-making-ai-more-efficient</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news/2026/empathy-central-theme-todo-cambia-film-festival</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/new-approaches-coming-uc-merced-electrical-engineering-department</loc>
   </url>
   <url>
@@ -1174,6 +1162,9 @@
     <loc>https://ccbm.ucmerced.edu/news/2026/engineers-week-events-set-uc-merced</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=13</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/rising-simultaneous-fire-weather-threatens-international-firefighting-efforts</loc>
   </url>
   <url>
@@ -1181,9 +1172,6 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/leadership-stem-abigail-gyamfi-honored-2025-acs-leader-scholars-award</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=13</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/unlocking-secrets-tiny-living-clocks-could-revolutionize-science</loc>
@@ -1207,6 +1195,9 @@
     <loc>https://ccbm.ucmerced.edu/news/2026/innovative-research-secures-coveted-fellowships-phd-students</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=14</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/american-council-education-and-carnegie-foundation-recognize-uc-merceds-leadership</loc>
   </url>
   <url>
@@ -1214,9 +1205,6 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/uc-merced-alum-now-robotics-expert-amazon-advises-students-get-their-hands-dirty</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=14</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2026/astronomers-reveal-hidden-activity-early-universe%E2%80%99s-most-massive-galaxies</loc>
@@ -1240,6 +1228,9 @@
     <loc>https://ccbm.ucmerced.edu/news/2025/cosmos-expands-uc-merced-opening-doors-california%E2%80%99s-brightest-young-scientists</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=15</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/challenges-opportunities-presented-small-farm-tech-expo</loc>
   </url>
   <url>
@@ -1249,13 +1240,10 @@
     <loc>https://ccbm.ucmerced.edu/news/2025/uc-merced-receives-transformational-38-million-gift-mackenzie-scott</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=15</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2025/graduate-students-highlight-research-and-campus-life-encourage-transfers</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/engineering-professor-earns-outstanding-faculty-advisor-award</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2025/graduate-students-highlight-research-and-campus-life-encourage-transfers</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/new-uc-merced-professor-delves-deep-artificial-intelligence-real-life</loc>
@@ -1273,37 +1261,7 @@
     <loc>https://ccbm.ucmerced.edu/news/2025/postdoc-leads-study-turn-cotton-waste-climate-smart-compost</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2025/professor-and-environmental-champion-bales-retires-research-and-advocacy-continue</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2025/college-and-k-12-faculty-strengthen-collaboration-central-valley-students</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2025/uc-merced-chemist-wins-doe-award-simulate-electron-motion-quantum-speeds</loc>
-  </url>
-  <url>
     <loc>https://ccbm.ucmerced.edu/news?page=16</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2017/introduction-scientific-computing-summer-module-led-drs-michael-colvin-and-david-quint</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2017/please-join-us-congratulating-our-fall-2017-ccbm-fellows-joel-heisler-makiko-quint-joseph</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2017/ccbm-spring-2017-outreach-profiled-uc-merced-website</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2017/ccbm-staff-present-el-capitan-high-school-may-11-2017-about-step-program</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2017/nsf-grant-brings-powerful-new-microscope-campus</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2017/ccbm-project-scientists-and-scholars-participate-2017-uc-merced-bobcat-day</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2017/applications-due-may-8-2017-%C2%A0science%C2%A0and-technology-enrichment%C2%A0program-step%C2%A0-high-school</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2017/congrats-our%C2%A0ccbm-scholars%C2%A0who-received-fellowships-summer-2017</loc>
@@ -1315,43 +1273,31 @@
     <loc>https://ccbm.ucmerced.edu/news/2017/dr-andy-liwang-and-colleagues-paper-march-2017-science-structural-basis-day-night</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2019/crest-intern-asmaa-mohamed-featured-during-student-success-internship-symposium-poster</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2017/congrats-our-5-new-spring-2017-ccbm-graduate-fellows</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2019/pool-ocean-one-girl%E2%80%99s-path-becoming-scientist-science-humanity-series-theresa-oehmke</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2016/congrats-our-2016-undergraduate-crest-scholars</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2019/crest-scholar-brenda-yu-looks-forward-internships-after-graduation</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2016/welcome-our-2016-ccbm-scholars</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2019/ccbm-provide-funding-crest-scholars-attend-20th-uc-systemwide-bioengineering-symposium</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2016/announcements-nsf-crest-ccbm-executive-director-programs-manager-and-project-scientists</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2019/ccbm-fellow-and-xu-lab-member-john-wilson-published-scientific-reports</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2016/2016-17-undergraduate%C2%A0crest-scholar-program%C2%A0now-accepting-applications</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2019/science-humanity-series-professor-miriam-barlow</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2016/2016-17-ccbm-scholars-graduate-program</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2019/ccbm-host-sustainable-productivity-workshop-dr-daniel-wong</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2016/1st-external-advisory-board-visit</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2019/ccbm-hosts-dos-palos-high-school-field-trip</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2019/hirst-lab-member-and-ccbm-fellow-joe-lopes-defends-dissertation-lands-postdoctoral</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=63</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=60</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=61</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=62</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2019/ccbm-participates-research-week</loc>
@@ -1372,6 +1318,18 @@
     <loc>https://ccbm.ucmerced.edu/news/2019/ccbm-scholar-dimitrius-khaladj-headed-langley-research-center-summer-internship</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=64</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=61</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=62</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=63</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2018/ebics-livestream-dr-nigel-goldenfeld</loc>
   </url>
   <url>
@@ -1390,10 +1348,10 @@
     <loc>https://ccbm.ucmerced.edu/news/2018/high-school-students-share-research-experience-community</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2018/2nd-annual-ccbm-open-houseexternal-advisory-board-meeting-highlights-center-research-and</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2018/ccbm-welcomes-ted-fellow-professor-tal-danino-campus</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2018/ccbm-welcomes-ted-fellow-professor-tal-danino-campus</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2018/2nd-annual-ccbm-open-houseexternal-advisory-board-meeting-highlights-center-research-and</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2018/uc-merced-makes-big-jump-us-news-national-rankings</loc>
@@ -1531,6 +1489,27 @@
     <loc>https://ccbm.ucmerced.edu/news/2017/article-about-bobcat-summer-stem-academy-ccbm-contributed-high-school-level-%E2%80%9Cbiology-and</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news/2017/introduction-scientific-computing-summer-module-led-drs-michael-colvin-and-david-quint</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2017/please-join-us-congratulating-our-fall-2017-ccbm-fellows-joel-heisler-makiko-quint-joseph</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2017/ccbm-spring-2017-outreach-profiled-uc-merced-website</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2017/ccbm-staff-present-el-capitan-high-school-may-11-2017-about-step-program</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2017/nsf-grant-brings-powerful-new-microscope-campus</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2017/ccbm-project-scientists-and-scholars-participate-2017-uc-merced-bobcat-day</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2017/applications-due-may-8-2017-%C2%A0science%C2%A0and-technology-enrichment%C2%A0program-step%C2%A0-high-school</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/taxonomy/term/73/feed</loc>
   </url>
   <url>
@@ -1538,6 +1517,15 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/taxonomy/term/1201/feed</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2025/professor-and-environmental-champion-bales-retires-research-and-advocacy-continue</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2025/college-and-k-12-faculty-strengthen-collaboration-central-valley-students</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2025/uc-merced-chemist-wins-doe-award-simulate-electron-motion-quantum-speeds</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/thinning-burning-forests-provide-multiple-benefits-some-them-surprising</loc>
@@ -1561,6 +1549,9 @@
     <loc>https://ccbm.ucmerced.edu/news/2025/flavors-stories-chef-sean-sherman-brings-indigenous-culinary-wisdom-uc-merced</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=17</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/uc-merced-host-stargazing-night-director-uc-observatories</loc>
   </url>
   <url>
@@ -1568,9 +1559,6 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/abigail-gyamfi-honored-excellence-mentorship-and-community-impact</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=17</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/wildfire-disasters-surged-past-10-years-study-shows</loc>
@@ -1594,6 +1582,9 @@
     <loc>https://ccbm.ucmerced.edu/news/2025/new-technology-new-opportunities-new-varieties-uc-almond-board-sign-agreement</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=18</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/research-hidden-chemistry-shaping-future-air-quality-earns-zhang-nsf-award</loc>
   </url>
   <url>
@@ -1601,9 +1592,6 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/uc-merced-and-campos-foundation-host-engage-summer-bridge-academy-students-stem</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=18</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/hellman-fellowships-welcome-three-new-members-uc-merced</loc>
@@ -1627,6 +1615,9 @@
     <loc>https://ccbm.ucmerced.edu/news/2025/cal-bridge-scholar-rolando-ortega-wants-build-future</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=19</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/uc-merced-marks-20th-year-new-academic-programs-first-dii-season-and-celebration</loc>
   </url>
   <url>
@@ -1634,9 +1625,6 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/new-adventure-two-founding-faculty-chemists-retirement</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=19</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/boosting-ai-and-science-nsf-invests-600k-opendota-project-uc-merced</loc>
@@ -1660,46 +1648,7 @@
     <loc>https://ccbm.ucmerced.edu/news/2025/black-engineering-society-earns-regional-chapter-year</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2025/new-alumni-funded-endowment-champion-lgbtq-initiatives-uc-merced</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2025/tiny-artificial-cells-can-keep-time-study-finds</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2025/uc-merced%E2%80%99s-berhe-joins-scientists-warning-global-land-mine-crisis</loc>
-  </url>
-  <url>
     <loc>https://ccbm.ucmerced.edu/news?page=20</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/page/documents/nsf-crest-ccbm_step_overview_05.11.17.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/documents/ssi_symposium_2019_flyer.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/documents/wong_sustainable_productivity_workshop_flyer_final.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2019/ccbm-hosts-specialized-training-opportunities-uc-merced-students</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2019/high-school-students-participate-3rd-annual-science-and-technology-enrichment-program</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2019/ccbm-encourages-curiosity-science-crest-stem-camp</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2019/crest-computing-program-teaches-skills-high-school-students</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2019/ccbm-presents-20th-annual-uc-systemwide-bioengineering-symposium</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2019/subramaniam-lab-receives-cover-acs-publication-langmuir</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2019/special-seminar-stanford-university-scientist-jos%C3%A9-r-dinneny</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2019/ccbm-host-seminar-featuring-uc-davis-professor-physical-chemistry-lee-ping-wang</loc>
@@ -1711,28 +1660,28 @@
     <loc>https://ccbm.ucmerced.edu/news/2019/crest-scholars-wrap-program-presentation</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=59</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2019/crest-intern-asmaa-mohamed-featured-during-student-success-internship-symposium-poster</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2021/researchers-turn-biochar-fight-against-climate-change</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2019/pool-ocean-one-girl%E2%80%99s-path-becoming-scientist-science-humanity-series-theresa-oehmke</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2021/advocates-still-push-make-company-covid-outbreaks-public</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2019/crest-scholar-brenda-yu-looks-forward-internships-after-graduation</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2021/researchers-unraveling-mysteries-electrosensory-gel-sharks-skates</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2019/ccbm-provide-funding-crest-scholars-attend-20th-uc-systemwide-bioengineering-symposium</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2021/kids-discovery-station-merced-officially-open</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2019/ccbm-fellow-and-xu-lab-member-john-wilson-published-scientific-reports</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2021/scholar-excels-math-and-engineering-despite-hardships</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2019/science-humanity-series-professor-miriam-barlow</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2021/california-bill-could-alter-amazon-labor-practices</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2019/ccbm-host-sustainable-productivity-workshop-dr-daniel-wong</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2021/usda-funded-internship-program-introduced-new-bobcats-agriculture-research</loc>
+    <loc>https://ccbm.ucmerced.edu/news?page=60</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2021/uc-merced-ranked-high-nations-list-best-universities</loc>
@@ -1742,15 +1691,6 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2021/chemistry-lab-receives-nsf-funding-study-how-proteins-protect-dehydration</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=56</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=57</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=58</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2021/hands-handmade-instruments-boost-engagement-remote-physics-class</loc>
@@ -1772,6 +1712,15 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2021/those-not-vaccinated-no-time-or-enormously-selfish</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=57</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=58</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=59</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2021/campus-wastewater-testing-offers-covid-19-early-warning-system-establishes-protocols</loc>
@@ -1810,6 +1759,27 @@
     <loc>https://ccbm.ucmerced.edu/news/2019/ccbm-announces-2019-fall-fellows</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news/2019/ccbm-hosts-specialized-training-opportunities-uc-merced-students</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2019/high-school-students-participate-3rd-annual-science-and-technology-enrichment-program</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2019/ccbm-encourages-curiosity-science-crest-stem-camp</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2019/crest-computing-program-teaches-skills-high-school-students</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2019/ccbm-presents-20th-annual-uc-systemwide-bioengineering-symposium</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2019/subramaniam-lab-receives-cover-acs-publication-langmuir</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2019/special-seminar-stanford-university-scientist-jos%C3%A9-r-dinneny</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/page/images/screen_shot_2018-10-20_at_10.10.32_am.png</loc>
   </url>
   <url>
@@ -1834,6 +1804,18 @@
     <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/page/documents/stanford_flyer_oct_27.pdf</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/page/documents/nsf-crest-ccbm_step_overview_05.11.17.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2025/new-alumni-funded-endowment-champion-lgbtq-initiatives-uc-merced</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2025/tiny-artificial-cells-can-keep-time-study-finds</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2025/uc-merced%E2%80%99s-berhe-joins-scientists-warning-global-land-mine-crisis</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/liwang%E2%80%99s-research-biological-clocks-earns-protein-society-honors</loc>
   </url>
   <url>
@@ -1855,6 +1837,9 @@
     <loc>https://ccbm.ucmerced.edu/news/2025/two-social-science-graduate-students-earn-fellowships</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=21</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/nih-grant-enables-outstanding-investigator-advance-knowledge-microbial-infections</loc>
   </url>
   <url>
@@ -1862,9 +1847,6 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/uc-merceds-smart-farm-abuzz-activity</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=21</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/project-envisioning-air-transport-between-uc-campuses-earns-award</loc>
@@ -1888,6 +1870,9 @@
     <loc>https://ccbm.ucmerced.edu/news/2025/disruptions-digital-supply-chain-can-have-major-physical-impacts</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=22</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/hurricanes-create-powerful-changes-deep-ocean-study-reveals</loc>
   </url>
   <url>
@@ -1895,9 +1880,6 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/creative-solutions-win-innovation-event</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=22</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/study-indicates-human-caused-dust-events-are-linked-fallow-farmland</loc>
@@ -1909,16 +1891,19 @@
     <loc>https://ccbm.ucmerced.edu/news/2025/uc-merced-brings-climate-justice-course-title-i-high-school-students-across-nation</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2025/uc-merced-project-aims-strengthen-heat-relief-kern-county</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2025/gift-creates-uc-merced%E2%80%99s-first-endowed-chair-agricultural-technology</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2025/gift-creates-uc-merced%E2%80%99s-first-endowed-chair-agricultural-technology</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2025/uc-merced-project-aims-strengthen-heat-relief-kern-county</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/uc-merced-graduates-encouraged-embrace-every-moment</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/dust-danger-central-valley-health-and-will-likely-get-worse-researchers-find</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=23</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/picture-kindness-campus-photographer-adrover-retire</loc>
@@ -1928,9 +1913,6 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/nsf-award-supports-young-faculty-member%E2%80%99s-research-building-blocks-universe</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=23</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/sociology-graduate-program-debuts-strongly-us-news-rankings</loc>
@@ -1954,19 +1936,7 @@
     <loc>https://ccbm.ucmerced.edu/news/2025/researchers-look-ahead-fire-season-2025</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2025/link-between-dementia-and-air-pollution-drives-research-collaboration</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2025/uc-merced-welcome-future-bobcats-bobcat-day-celebration</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2025/graduate-student-earns-fellowship-study-fusion-livermore-lab</loc>
-  </url>
-  <url>
     <loc>https://ccbm.ucmerced.edu/news?page=24</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/documents/6-21_dinneny_seminar.pdf</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/documents/bioengineering_visit_merced_college_flyer.pdf</loc>
@@ -1975,25 +1945,10 @@
     <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/documents/may_4_undergraduate_research_symposium_flyer_maces_ccbm_2019.pdf</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2021/getting-solid-soil-response-biosolids-application</loc>
+    <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/documents/ssi_symposium_2019_flyer.pdf</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2021/nsf-awards-ccbm-center-5-million-continue-stem-research</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2021/hirst-selected-prestigious-fellowship-american-physical-society</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2021/research-uc-merced-focuses-latina-teen-mothers</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2021/self-serving-garbage-wildfire-experts-fight-forests</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2021/uc-merced-students-find-solution-expensive-farm-problem</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2021/how-uc-merced-plans-spend-funds-scott-gift</loc>
+    <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/documents/wong_sustainable_productivity_workshop_flyer_final.pdf</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2021/space-telescope-time-and-data-analysis-boosting-astrophysics-studies-fall</loc>
@@ -2005,31 +1960,31 @@
     <loc>https://ccbm.ucmerced.edu/news/2021/scientists-assemble-biological-clock-test-tube-study-how-it-works-0</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=55</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2021/researchers-turn-biochar-fight-against-climate-change</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2021/advocates-still-push-make-company-covid-outbreaks-public</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2021/researchers-unraveling-mysteries-electrosensory-gel-sharks-skates</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2021/kids-discovery-station-merced-officially-open</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2021/scholar-excels-math-and-engineering-despite-hardships</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2021/california-bill-could-alter-amazon-labor-practices</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2021/usda-funded-internship-program-introduced-new-bobcats-agriculture-research</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=56</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/media-contact/elizabeth-arakelian</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/op-ed-how-pandemic-unfairly-saddled-low-income-students</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/op-ed-how-pandemic-unfairly-saddled-low-income-students-0</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/how-war-ukraine-compares-other-refugee-crises</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/california-explores-unemployment-undocumented-workers</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/asmeret-asefaw-berhe-how-can-soils-superpowers-help-us-fight-climate-change</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/mccloskey-earns-place-among-fellows-prestigious-bioengineering-organization</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/update-tid-accepts-grant-solar-panels-canals-when-where-will-project-happen</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2022/climate-change-could-fuel-continuous-fire-season</loc>
@@ -2039,15 +1994,6 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2022/many-california-farmworkers-dont-understand-role-unions</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=52</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=53</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=54</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2022/prison-phd-student-former-inmate-now-teaches-valley-prisons</loc>
@@ -2069,6 +2015,15 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2021/uc-merced-leaps-nature-index%E2%80%99s-young-university-rankings</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=53</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=54</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=55</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2021/california%E2%80%99s-water-supplies-are-trouble-climate-change-worsens-natural-dry-spells</loc>
@@ -2107,10 +2062,46 @@
     <loc>https://ccbm.ucmerced.edu/news/2021/new-strategies-could-help-california-meet-methane-goals</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news/2021/getting-solid-soil-response-biosolids-application</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2021/nsf-grant-help-grad-students-find-solutions-environmental-challenges</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2021/nsf-awards-ccbm-center-5-million-continue-stem-research</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2021/hirst-selected-prestigious-fellowship-american-physical-society</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2021/research-uc-merced-focuses-latina-teen-mothers</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2021/self-serving-garbage-wildfire-experts-fight-forests</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2021/uc-merced-students-find-solution-expensive-farm-problem</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2021/how-uc-merced-plans-spend-funds-scott-gift</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/documents/2019_ccbm_appreciation_brunch_flyer_v1.pdf</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/documents/endres_seminar_july_31_2019_flyer_v2.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/documents/6-21_dinneny_seminar.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2025/link-between-dementia-and-air-pollution-drives-research-collaboration</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2025/uc-merced-welcome-future-bobcats-bobcat-day-celebration</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2025/graduate-student-earns-fellowship-study-fusion-livermore-lab</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/experts-provide-outlook-upcoming-fire-season</loc>
@@ -2128,10 +2119,13 @@
     <loc>https://ccbm.ucmerced.edu/news/2025/researchers-make-case-charging-cars-during-day</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news/2025/wilson-among-year%E2%80%99s-aaas-fellows-recognized-science-and-outreach</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/pew-celebrates-40-years-support-innovative-biomedical-research</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2025/wilson-among-year%E2%80%99s-aaas-fellows-recognized-science-and-outreach</loc>
+    <loc>https://ccbm.ucmerced.edu/news?page=25</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/consortium-looks-expand-solar-over-canal-projects-statewide</loc>
@@ -2141,9 +2135,6 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/electric-vehicle-pioneer-starts-work-uc-merced</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=25</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/thymus-research-could-unlock-immune-system-improvements</loc>
@@ -2167,6 +2158,9 @@
     <loc>https://ccbm.ucmerced.edu/news/2025/researchers-developing-new-tools-fight-against-methane-emissions</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=26</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/founding-faculty-roland-winston-remembered-pioneering-solar-energy</loc>
   </url>
   <url>
@@ -2174,9 +2168,6 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/student-driven-center-offers-safe-space-community-resources-and-programs</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=26</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/uc-merced-achieves-r1-highest-tier-research-classification</loc>
@@ -2188,16 +2179,19 @@
     <loc>https://ccbm.ucmerced.edu/news/2025/uc-merced%E2%80%99s-black-excellence-symposium-honor-legacy-and-inspire-future</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2025/uc-awards-support-tackling-big-questions-health-physics-agriculture-and-climate</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2025/recognizing-late-professor-emeritus-contributions</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2025/recognizing-late-professor-emeritus-contributions</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2025/uc-awards-support-tackling-big-questions-health-physics-agriculture-and-climate</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/multinational-research-project-shows-how-life-earth-can-be-measured-space</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/projects-solve-problems-win-awards-i2g</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=27</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/covid-lockdown-disrupted-preschoolers%E2%80%99-social-skills-trailblazing-research-shows</loc>
@@ -2207,9 +2201,6 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/sensor-provides-cheap-smart-way-monitor-how-much-water-crops-need</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=27</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2025/award-supports-research-what-makes-things-stick-under-water</loc>
@@ -2233,37 +2224,7 @@
     <loc>https://ccbm.ucmerced.edu/news/2024/uc-students-tackle-tech-centered-challenges-citris-summer-internships</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/give-uc-merced-2024-launch-giving-tuesday</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/major-step-forward-uc-merceds-agricultural-experiment-station</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/agencies-local-stakeholders-must-collaborate-restore-wildlands</loc>
-  </url>
-  <url>
     <loc>https://ccbm.ucmerced.edu/news?page=28</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/newsom-devotes-18m-new-kern-county-educational-collaborative</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/saving-water-and-generating-power-california</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/bioengineer-invited-join-nih-review-board</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/will-fresno-starbucks-organizing-spur-union-awakening</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/uc-merced-chancellor-ex-uc-regent-celebrate-graduates</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/statement-secretary-granholm-us-senate-confirmation</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/person-spring-commencement-ceremonies-set-return-uc-merced-weekend</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2022/california-sunshine-could-be-key-combating-drought</loc>
@@ -2275,49 +2236,40 @@
     <loc>https://ccbm.ucmerced.edu/news/2022/dry-weather-forecast-calls-higher-food-prices%E2%80%94and-billions-farm-losses</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=51</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2022/op-ed-how-pandemic-unfairly-saddled-low-income-students</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2022/op-ed-how-pandemic-unfairly-saddled-low-income-students-0</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2022/how-war-ukraine-compares-other-refugee-crises</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2022/california-explores-unemployment-undocumented-workers</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2022/asmeret-asefaw-berhe-how-can-soils-superpowers-help-us-fight-climate-change</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2022/mccloskey-earns-place-among-fellows-prestigious-bioengineering-organization</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2022/update-tid-accepts-grant-solar-panels-canals-when-where-will-project-happen</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=52</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/taxonomy/term/411/feed</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/california-drought-deep-dive</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/crest-center-returns-interactive-stem-programming-diverse-audiences</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/how-hispanic-serving-institutions-are-increasing-opportunity</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/eco-friendly-vehicle-makes-pit-stop-uc-merced-slideshow</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/great-resignation-where-are-americans-quitting-most</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/uc-excels-many-colleges-fail-push-boost-enrollment</loc>
-  </url>
-  <url>
     <loc>https://ccbm.ucmerced.edu/news/2022/five-students-earn-nsf-graduate-research-fellowships</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/five-students-earn-nsf-graduate-research-fellowships-0</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2022/climate-fueled-heat-wave-tests-california%E2%80%99s-power-grid</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2022/heat-wave-crushing-west-preview-hot-ag-future</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=48</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=49</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=50</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2022/dalai-lama-receive-15th-annual-prize-ca-university</loc>
@@ -2339,6 +2291,15 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2022/shrinking-sierra-nevada-snowpack-threatens-california-water-supply</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=49</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=50</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=51</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2022/fire-danger-escalating-northern-california-mckinney-blaze-erupts</loc>
@@ -2365,10 +2326,10 @@
     <loc>https://ccbm.ucmerced.edu/news/2022/ryan%E2%80%99s-story-hard-charging-california-firefighter-loses-his-last-battle-suicide</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/air-quality-worsens-drought-forces-california-growers-burn-abandoned-crops</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2022/air-quality-worsens-drought-forces-california-growers-burn-abandoned-crops-0</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/air-quality-worsens-drought-forces-california-growers-burn-abandoned-crops-0</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2022/air-quality-worsens-drought-forces-california-growers-burn-abandoned-crops</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2022/uc-merced-offering-stem-summer-camps-registration-now-open</loc>
@@ -2378,6 +2339,36 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2022/california-imposes-harsh-limits-water-use</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2022/newsom-devotes-18m-new-kern-county-educational-collaborative</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2022/saving-water-and-generating-power-california</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2022/bioengineer-invited-join-nih-review-board</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2022/will-fresno-starbucks-organizing-spur-union-awakening</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2022/uc-merced-chancellor-ex-uc-regent-celebrate-graduates</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2022/statement-secretary-granholm-us-senate-confirmation</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2022/person-spring-commencement-ceremonies-set-return-uc-merced-weekend</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2024/give-uc-merced-2024-launch-giving-tuesday</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2024/major-step-forward-uc-merceds-agricultural-experiment-station</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2024/agencies-local-stakeholders-must-collaborate-restore-wildlands</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/study-sugar-pines-reveals-urgent-issue-protecting-forests-climate-change</loc>
@@ -2401,16 +2392,13 @@
     <loc>https://ccbm.ucmerced.edu/news/2024/new-method-mapping-proteins-offers-undergraduate-students-new-opportunities</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/engineering-majors-uc-merced-grow-meet-workforce-demands</loc>
+    <loc>https://ccbm.ucmerced.edu/news?page=29</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/stressed-out-election-political-scientists-explain-why-and-offer-tips</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/grant-opens-new-research-possibilities-central-valley-colleges</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=29</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/western-us-fires-getting-faster-more-dangerous-study-shows</loc>
@@ -2434,7 +2422,7 @@
     <loc>https://ccbm.ucmerced.edu/news/2024/nsf-grant-opens-opportunities-students-materials-research</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/uc-merced-receives-second-consecutive-heed-award-dei-efforts</loc>
+    <loc>https://ccbm.ucmerced.edu/news?page=30</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/global-co2-emissions-forest-fires-increase-60</loc>
@@ -2443,7 +2431,7 @@
     <loc>https://ccbm.ucmerced.edu/news/2024/study-climate-change-extends-drought-recovery-least-three-months</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=30</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2024/uc-merced-receives-second-consecutive-heed-award-dei-efforts</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/uc-merced-grad-honored-society-women-engineers</loc>
@@ -2467,6 +2455,9 @@
     <loc>https://ccbm.ucmerced.edu/news/2024/interactive-database-tracks-116-years-us-housing-prices-offers-insights-future</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=31</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/uc-merced-earns-seal-excelencia-recertification-advancing-latino-student-success</loc>
   </url>
   <url>
@@ -2474,9 +2465,6 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/uc-merced-research-growing-blood-vessels-earns-nih-grant</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=31</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/new-ssha-dean-thanks-helping-hands-along-remarkable-journey</loc>
@@ -2500,37 +2488,7 @@
     <loc>https://ccbm.ucmerced.edu/news/2024/it%E2%80%99s-%E2%80%98welcome%E2%80%99-party-uc-merced-scholars-bridge-crossing</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/campus-hosts-computational-chemistry-conference</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/students-spend-summer-learning-about-stem-cells</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/grad-student-receives-prestigious-defense-fellowship</loc>
-  </url>
-  <url>
     <loc>https://ccbm.ucmerced.edu/news?page=32</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/uc-merced-designated-agricultural-experiment-station</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/californias-ag-industry-loses-12-billion-2022</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/how-student-loan-debt-or-not-having-it-shapes-lives</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/new-partnership-means-automatic-admission-uc-merced</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/gov-gavin-newsom-visits-uc-merced-political-science-class</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/nih-supports-uc-merced-professors-work-inhibiting-hiv</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2022/ruiz-foods-family-gives-15-million-gift-uc-merced</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2022/first-generation-latinas-working-together-immigration-law</loc>
@@ -2542,37 +2500,25 @@
     <loc>https://ccbm.ucmerced.edu/news/2022/wharton-moneyball-professor-naughton-talks-covid-poops</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=47</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2022/california-drought-deep-dive</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/events/dr-matteo-farinella-science-comics-super-powers-oct-11</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2022/crest-center-returns-interactive-stem-programming-diverse-audiences</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/events/dr-daniel-wong-sessions</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2022/how-hispanic-serving-institutions-are-increasing-opportunity</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/media-contact/desiree-lopez</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2022/eco-friendly-vehicle-makes-pit-stop-uc-merced-slideshow</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/state-parks-debuts-virtual-augmented-reality-app</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2022/great-resignation-where-are-americans-quitting-most</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/fossil-fuel-companies-blame-share-ca-wildfires</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2022/uc-excels-many-colleges-fail-push-boost-enrollment</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/el-ni%C3%B1o-likely-returning-bringing-danger-ca</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/new-nuclear-reactors-make-progress-us</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/central-valley-town-seeks-20-million-flood-recovery</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/san-francisco-airport-will-monitor-plane-waste-covid-19</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/how-dna-we-leave-behind-can-help-conservation</loc>
+    <loc>https://ccbm.ucmerced.edu/news?page=48</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2023/civil-rights-activist-dolores-huerta-speaks-uc-merced-students</loc>
@@ -2582,15 +2528,6 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2023/warmer-weather-concerns-snow-melts-central-valley</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=44</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=45</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=46</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2023/warmer-weather-concerns-snow-melts-central-valley-0</loc>
@@ -2612,6 +2549,15 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2023/what-happened-sunflower-sea-star</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=45</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=46</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=47</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2023/disappearing-indian-country</loc>
@@ -2650,7 +2596,40 @@
     <loc>https://ccbm.ucmerced.edu/news/2022/odds-early-death-rise-after-severe-injury-linked-alcohol</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news/2022/uc-merced-designated-agricultural-experiment-station</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2022/how-student-loan-debt-or-not-having-it-shapes-lives</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2022/californias-ag-industry-loses-12-billion-2022</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2022/new-partnership-means-automatic-admission-uc-merced</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2022/gov-gavin-newsom-visits-uc-merced-political-science-class</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2022/nih-supports-uc-merced-professors-work-inhibiting-hiv</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2022/ruiz-foods-family-gives-15-million-gift-uc-merced</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2024/campus-hosts-computational-chemistry-conference</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2024/students-spend-summer-learning-about-stem-cells</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/political-science-students-take-lawmaking-and-lobbying-state-capitol</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2024/citris-aviation-prize-delivers-connections-prizes</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2024/grad-student-receives-prestigious-defense-fellowship</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/researchers-accurately-model-animals%E2%80%99-hunting-scavenging-behavior</loc>
@@ -2668,6 +2647,9 @@
     <loc>https://ccbm.ucmerced.edu/news/2024/ecologists%E2%80%99-meeting-showcases-uc-merced-student-researchers-and-faculty</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=33</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/three-years-learning-and-play-kids-discovery-station-merced</loc>
   </url>
   <url>
@@ -2677,13 +2659,13 @@
     <loc>https://ccbm.ucmerced.edu/news/2024/climate-change-transforming-california-agriculture-%E2%80%94-there-are-ways-adapt</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=33</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/solar-canal-project-earns-environmental-award-construction-begins</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2024/climate-change-transforming-california-agriculture-%E2%80%94-there-are-ways-adapt-0</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/new-paper-shows-best-practices-inclusive-innovation-agtech</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2024/solar-canal-project-earns-environmental-award-construction-begins</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/hellman-awards-deepening-research-genomes-health-and-computer-science</loc>
@@ -2698,19 +2680,19 @@
     <loc>https://ccbm.ucmerced.edu/news/2024/uc-merced-researcher-dives-big-sharks-shark-week</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=34</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/bakersfield-%E2%80%98peaceful%E2%80%99-place-pursue-science-medicine</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/national-ag-research-center-meets-uc-merced</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/physics-based-modeling-reveals-surprising-behavior-blood-clots</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=34</loc>
-  </url>
-  <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/innovative-engineering-projects-earn-awards-i2g</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2024/physics-based-modeling-reveals-surprising-behavior-blood-clots</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/uc-merced-engineering-school-programs-rise-us-news-grad-rankings</loc>
@@ -2731,6 +2713,9 @@
     <loc>https://ccbm.ucmerced.edu/news/2024/how-scientific-research-can-inform-visitor-and-environmental-management-national-parks</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=35</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/lighting-path-thank-you-and-farewell-charles-nies</loc>
   </url>
   <url>
@@ -2738,9 +2723,6 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/sharim-film-flora-wins-festivals-social-justice-award</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=35</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/uc-merced-computer-science-and-engineering-faculty-celebrates-career-successes</loc>
@@ -2764,37 +2746,16 @@
     <loc>https://ccbm.ucmerced.edu/news/2024/ssha-honors-outstanding-graduating-students</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/uc-merced-student-athletes-ad-earn-top-cal-pac-honors</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/stretchy-material-gets-stronger-when-hit-has-exciting-potential</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/more-1300-bobcats-will-cross-stage-during-uc-merced-commencement-weekend</loc>
-  </url>
-  <url>
     <loc>https://ccbm.ucmerced.edu/news?page=36</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/clovis-native-excited-represent-central-valley-playing-uc-merced-volleyball-team</loc>
+    <loc>https://ccbm.ucmerced.edu/events/dr-matteo-farinella-science-comics-super-powers-oct-11</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/matlock-retires-after-stellar-uc-career</loc>
+    <loc>https://ccbm.ucmerced.edu/events/dr-daniel-wong-sessions</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/data-science-challenge-offers-students-learning-and-growth-opportunities</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/solar-panels-water-canals-seem-no-brainer-so-why-aren%E2%80%99t-they-widespread</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/uc-merced-graduate-student-josiah-beharry-appointed-2024-25-uc-student-regent</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/fresno-native-takes-next-step-becoming-doctor</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/students-learn-experts-electronic-structure-physics-conference-hosted-campus</loc>
+    <loc>https://ccbm.ucmerced.edu/media-contact/desiree-lopez</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2023/shark-week-highlights-researcher%E2%80%99s-megalodon-expertise</loc>
@@ -2806,37 +2767,28 @@
     <loc>https://ccbm.ucmerced.edu/news/2023/coroner-warns-human-remains-five-titan-sub-victims-may-never-be-found-alongside-newly</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=43</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2023/state-parks-debuts-virtual-augmented-reality-app</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/documents/wong_flyer_oct_2022.pdf</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2023/fossil-fuel-companies-blame-share-ca-wildfires</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/documents/wong_flyer_oct_2022_-_2.pdf</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2023/el-ni%C3%B1o-likely-returning-bringing-danger-ca</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/taxonomy/term/791/feed</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2023/new-nuclear-reactors-make-progress-us</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/uc-merced-hispanic-serving-institution-what-does-mean</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2023/central-valley-town-seeks-20-million-flood-recovery</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/chemistry-postdoc-awarded-merck-research-award</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2023/san-francisco-airport-will-monitor-plane-waste-covid-19</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/uc-merced-rises-nearly-40-spots-us-news-college-rankings</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2023/how-dna-we-leave-behind-can-help-conservation</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/what-future-water-uc-merced-hosts-vital-discussion</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/newsweek-almost-third-universe-made-mysterious-dark-matter</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/uc-merced-researcher-earns-her-third-early-career-award</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/most-universe-composed-dark-energy-researchers-show</loc>
+    <loc>https://ccbm.ucmerced.edu/news?page=44</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2023/department-energy-awards-37-million-build-research-capacity</loc>
@@ -2846,15 +2798,6 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2023/zulema-valdez-appointed-associate-vice-chancellor-ejie</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=40</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=41</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=42</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2023/merced-sun-star-uc-merced-merced-college-build-100-million-housing-facility-qualifying</loc>
@@ -2878,7 +2821,13 @@
     <loc>https://ccbm.ucmerced.edu/news/2023/university-awards-over-80-million-state-funded-grants-spur-climate-action</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/farming-data-uc-merced-students-spend-summer-working-crops-and-spreadsheets</loc>
+    <loc>https://ccbm.ucmerced.edu/news?page=41</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=42</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=43</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2023/nih-grant-funds-research-reducing-inflammation</loc>
@@ -2917,6 +2866,36 @@
     <loc>https://ccbm.ucmerced.edu/news/2023/cogsci-undergraduate-students-can-now-earn-honors-research</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news/2023/clovis-native-excited-represent-central-valley-playing-uc-merced-volleyball-team</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2023/matlock-retires-after-stellar-uc-career</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2023/data-science-challenge-offers-students-learning-and-growth-opportunities</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2023/solar-panels-water-canals-seem-no-brainer-so-why-aren%E2%80%99t-they-widespread</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2023/fresno-native-takes-next-step-becoming-doctor</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2023/uc-merced-graduate-student-josiah-beharry-appointed-2024-25-uc-student-regent</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2023/students-learn-experts-electronic-structure-physics-conference-hosted-campus</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2024/uc-merced-student-athletes-ad-earn-top-cal-pac-honors</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2024/stretchy-material-gets-stronger-when-hit-has-exciting-potential</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2024/more-1300-bobcats-will-cross-stage-during-uc-merced-commencement-weekend</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/usda-uc-merced-farmers-program-teams-local-ffa</loc>
   </url>
   <url>
@@ -2935,10 +2914,10 @@
     <loc>https://ccbm.ucmerced.edu/news/2024/researchers-find-unexpected-cellular-residence-protein-vital-neurodevelopment</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/students-create-games-teach-about-safe-water</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2024/new-summer-research-opportunities-undergraduates-across-us</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/new-summer-research-opportunities-undergraduates-across-us</loc>
+    <loc>https://ccbm.ucmerced.edu/news?page=37</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/thousands-enjoy-big-%E2%80%98welcome%E2%80%99-bobcat-day</loc>
@@ -2947,10 +2926,10 @@
     <loc>https://ccbm.ucmerced.edu/news/2024/uc-merced-welcomes-future-bobcats-bobcat-day</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=37</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2024/two-community-colleges-join-uc-merced-transfer-pathway-students</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/two-community-colleges-join-uc-merced-transfer-pathway-students</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2024/study-urges-new-approach-energy-planning</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/students-alums-awarded-prestigious-nsf-graduate-fellowship</loc>
@@ -2959,28 +2938,22 @@
     <loc>https://ccbm.ucmerced.edu/news/2024/students-alums-awarded-prestigious-nsf-graduate-fellowships</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/study-urges-new-approach-energy-planning</loc>
-  </url>
-  <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/new-aerospace-engineering-major-links-uc-merced-skyrocketing-industry</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/new-canal-project-expands-uc-merced-solar-research</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/charting-course-tech-success-insights-uc-merceds-%C2%A1valle-event</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2024/graduate-division-hosts-10th-grad-slam-competition</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=38</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/pride-week-puts-focus-self-healing</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/graduate-division-hosts-10th-grad-slam-competition</loc>
-  </url>
-  <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/spotlight-health-tech-social-good-hack-merced-ix</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=38</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/new-center-offers-opportunities-observe-and-learn-about-natural-resources</loc>
@@ -3001,19 +2974,19 @@
     <loc>https://ccbm.ucmerced.edu/news/2024/water-risks-agriculture-too-little-and-too-much</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/perfect-fit-maker-space-dining-services-unite-kitchen-rescue</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/invisible-water-surcharge-climate-warming-increases-crop-water-demand-san-joaquin-valleys</loc>
-  </url>
-  <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/uc-merceds-40th-career-award-funds-computer-efficiency-research</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news?page=39</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/perfect-fit-makerspace-dining-services-unite-kitchen-rescue</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news?page=39</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2024/perfect-fit-maker-space-dining-services-unite-kitchen-rescue</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2024/invisible-water-surcharge-climate-warming-increases-crop-water-demand-san-joaquin-valleys</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2024/education-access-natural-reserve-expand-new-field-education-center</loc>
@@ -3037,64 +3010,46 @@
     <loc>https://ccbm.ucmerced.edu/news/2024/internship-nasa-yields-long-lasting-results-student-space-agency</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/project-positions-web-du-bois-inspiration-stem-students</loc>
+    <loc>https://ccbm.ucmerced.edu/news?page=40</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/human-rights-film-festival-shows-faces-injustice</loc>
+    <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/documents/wong_flyer_oct_2022.pdf</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2024/fellowship-expands-quantum-ai-training-fill-industry-demand</loc>
+    <loc>https://ccbm.ucmerced.edu/sites/g/files/ufvvjh541/f/documents/wong_flyer_oct_2022_-_2.pdf</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/uc-merced-launches-first-writing-studies-major-cohort</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/science-us-researchers-brace-likely-government-shutdown</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/us-researchers-brace-likely-government-shutdown</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/how-tap-your-hispaniclatinx-heritage-uc-merced</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/new-major-trains-students-tell-planet%E2%80%99s-urgent-stories</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/uc-merced-alum-drives-innovation-drug-manufacturing</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/hacu-leadership-cohort-%E2%80%98exciting-opportunity-learn%E2%80%99-ortiz-says</loc>
-  </url>
-  <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/uc-merced-and-riverbank-unified-announce-automatic-admissions-partnership-slideshow</loc>
+    <loc>https://ccbm.ucmerced.edu/taxonomy/term/791/feed</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2023/grants-fund-wide-variety-climate-change-research-projects</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news/2023/uc-merced-and-riverbank-unified-announce-automatic-admissions-partnership-slideshow</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2023/three-hellman-fellows-awarded-uc-merced</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/environmental-systems-student-named-ucar-next-generation-policy-fellow</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2023/uc-merced-hispanic-serving-institution-what-does-mean</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/latest-career-award-funds-research-building-climate-control</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2023/chemistry-postdoc-awarded-merck-research-award</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/give-uc-merced-2023-invites-campus-and-community-help-create-lasting-impact</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2023/uc-merced-rises-nearly-40-spots-us-news-college-rankings</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/grant-funds-research-wildfire-behavior-and-ecological-effects-fuel-treatments</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2023/what-future-water-uc-merced-hosts-vital-discussion</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/new-collaborations-designed-increase-access-data-science-all-students</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2023/newsweek-almost-third-universe-made-mysterious-dark-matter</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/research-team-explores-effects-climate-catastrophes-different-species</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2023/uc-merced-researcher-earns-her-third-early-career-award</loc>
   </url>
   <url>
-    <loc>https://ccbm.ucmerced.edu/news/2023/san-francisco-chronicle-tons-acorns-it-must-be-mast-year</loc>
+    <loc>https://ccbm.ucmerced.edu/news/2023/most-universe-composed-dark-energy-researchers-show</loc>
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2023/arcs-scholars-work-advance-stem-research</loc>
@@ -3133,6 +3088,9 @@
     <loc>https://ccbm.ucmerced.edu/news/2023/students-compete-against-thousands-24-hour-hackathon</loc>
   </url>
   <url>
+    <loc>https://ccbm.ucmerced.edu/news/2023/toloma-5k-honors-native-american-heritage-uc-merced</loc>
+  </url>
+  <url>
     <loc>https://ccbm.ucmerced.edu/news/2023/la-times-california%E2%80%99s-san-joaquin-valley-front-line-climate-change-how-will-it-adapt</loc>
   </url>
   <url>
@@ -3161,5 +3119,26 @@
   </url>
   <url>
     <loc>https://ccbm.ucmerced.edu/news/2023/aguirre-mu%C3%B1oz-brings-biliteracy-education-resources-livingston</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2023/uc-merced-launches-first-writing-studies-major-cohort</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2023/science-us-researchers-brace-likely-government-shutdown</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2023/us-researchers-brace-likely-government-shutdown</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2023/new-major-trains-students-tell-planet%E2%80%99s-urgent-stories</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2023/how-tap-your-hispaniclatinx-heritage-uc-merced</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2023/hacu-leadership-cohort-%E2%80%98exciting-opportunity-learn%E2%80%99-ortiz-says</loc>
+  </url>
+  <url>
+    <loc>https://ccbm.ucmerced.edu/news/2023/uc-merced-alum-drives-innovation-drug-manufacturing</loc>
   </url>
 </urlset>

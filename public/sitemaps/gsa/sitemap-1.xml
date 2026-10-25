@@ -22,9 +22,6 @@
     <loc>https://gsa.ucmerced.edu/about-us/constitution-bylaws</loc>
   </url>
   <url>
-    <loc>https://gsa.ucmerced.edu/about-us/meeting-minutes</loc>
-  </url>
-  <url>
     <loc>https://gsa.ucmerced.edu/about-us/meeting-minutes/meeting-archive</loc>
   </url>
   <url>
@@ -163,6 +160,9 @@
     <loc>https://gsa.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>https://gsa.ucmerced.edu/about-us/meeting-minutes</loc>
+  </url>
+  <url>
     <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/Constitution_Bylaws/gsa_constitution_2024_spring.pdf</loc>
   </url>
   <url>
@@ -212,36 +212,6 @@
   </url>
   <url>
     <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/Constitution_Bylaws/gsa_by-laws_2005.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_09_13-gsa-ga-mm.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_09_21-gsa-da_mm.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_10_04-gsa-ga-mm.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_10_05-gsa-da_mm.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_11_01-gsa-ga-mm.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_11_02-gsa-da-mm.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023-11-29_gsa-ga-mm.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2024-01-31_gsa-ea_ga-mm.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2024-02-28_gsa-ga-mm.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2024-03-13_gsa-ga-mm.pdf</loc>
   </url>
   <url>
     <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2022-2023/042823_ec_ga_meeting_minutes_yp_mm_as_epl.pdf</loc>
@@ -1700,6 +1670,36 @@
   </url>
   <url>
     <loc>http://gsa.ucmerced.edu/form/website-feedback</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_09_13-gsa-ga-mm.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_09_21-gsa-da_mm.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_10_04-gsa-ga-mm.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_10_05-gsa-da_mm.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_11_01-gsa-ga-mm.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_11_02-gsa-da-mm.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023-11-29_gsa-ga-mm.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2024-01-31_gsa-ea_ga-mm.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2024-02-28_gsa-ga-mm.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2024-03-13_gsa-ga-mm.pdf</loc>
   </url>
   <url>
     <loc>https://gsa.ucmerced.edu/news/2023/gsa-delegate-assembly-meeting-0</loc>

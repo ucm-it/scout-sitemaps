@@ -22,16 +22,10 @@
     <loc>https://agtech.ucmerced.edu/faculty-members</loc>
   </url>
   <url>
-    <loc>https://agtech.ucmerced.edu/interns</loc>
-  </url>
-  <url>
     <loc>https://agtech.ucmerced.edu/program-modules</loc>
   </url>
   <url>
     <loc>https://agtech.ucmerced.edu/intern-reports</loc>
-  </url>
-  <url>
-    <loc>https://agtech.ucmerced.edu/group-pictures</loc>
   </url>
   <url>
     <loc>https://agtech.ucmerced.edu/news/2017/check-our-youtube-channel-our-usda-hsi-intern-experience</loc>
@@ -59,5 +53,8 @@
   </url>
   <url>
     <loc>https://agtech.ucmerced.edu/node/71</loc>
+  </url>
+  <url>
+    <loc>https://agtech.ucmerced.edu/group-pictures</loc>
   </url>
 </urlset>

@@ -25,16 +25,7 @@
     <loc>https://academicpersonnel.ucmerced.edu/about/listservs</loc>
   </url>
   <url>
-    <loc>https://academicpersonnel.ucmerced.edu/policies/merced-academic-personnel-policies-procedures</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/policies/collective-bargaining</loc>
-  </url>
-  <url>
     <loc>https://academicpersonnel.ucmerced.edu/life/work-life/leave-policies</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/policies/leave-policies/senate-faculty-leave</loc>
   </url>
   <url>
     <loc>https://academicpersonnel.ucmerced.edu/policies/leave-policies/additional-titles</loc>
@@ -310,6 +301,15 @@
     <loc>https://academicpersonnel.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://academicpersonnel.ucmerced.edu/policies/merced-academic-personnel-policies-procedures</loc>
+  </url>
+  <url>
+    <loc>https://academicpersonnel.ucmerced.edu/policies/collective-bargaining</loc>
+  </url>
+  <url>
+    <loc>https://academicpersonnel.ucmerced.edu/policies/leave-policies/senate-faculty-leave</loc>
+  </url>
+  <url>
     <loc>https://academicpersonnel.ucmerced.edu/events</loc>
   </url>
   <url>
@@ -398,9 +398,6 @@
   </url>
   <url>
     <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/2018-01-30_petition-_appoint_gs_as_ior_upper_division_ug_courses_approve.pdf</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/2018-01-30_procedures_grad_student_instruction_upper_division_courses_ap.pdf</loc>
   </url>
   <url>
     <loc>https://academicpersonnel.ucmerced.edu/childcarereimbursement_dependenthealth_programs</loc>
@@ -940,7 +937,7 @@
     <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/u560_640-multi-location-appointmentinterlocation-one-time-payment-form.pdf</loc>
   </url>
   <url>
-    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/mla_otp_process_for_apo_website_1-24-25_final_corrected_4-2-25_rev6.18.25.pdf</loc>
+    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/page/documents/mla_otp_process_for_apo_website_1-24-25_final_corrected_4-2-25_rev10.21.26.pdf</loc>
   </url>
   <url>
     <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/ucm-ap_902_modified_duties_requestcertification_form_rev._02.21.23.pdf</loc>
@@ -1061,6 +1058,9 @@
   </url>
   <url>
     <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/sample_letters_all_2025.pdf</loc>
+  </url>
+  <url>
+    <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/mla_otp_process_for_apo_website_1-24-25_final_corrected_4-2-25_rev6.18.25.pdf</loc>
   </url>
   <url>
     <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/mda_210_-_vice_provost_to_deans_-_academic_personnel_actions_rev042525.pdf</loc>

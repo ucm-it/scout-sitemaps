@@ -16,9 +16,6 @@
     <loc>https://writingcenter.ucmerced.edu/make-appointment/appointment-policies</loc>
   </url>
   <url>
-    <loc>https://writingcenter.ucmerced.edu/undergraduates</loc>
-  </url>
-  <url>
     <loc>https://writingcenter.ucmerced.edu/gradstudents</loc>
   </url>
   <url>
@@ -31,12 +28,15 @@
     <loc>https://writingcenter.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://writingcenter.ucmerced.edu/resources</loc>
+    <loc>https://writingcenter.ucmerced.edu/undergraduates</loc>
   </url>
   <url>
     <loc>https://writingcenter.ucmerced.edu/wrdprogram</loc>
   </url>
   <url>
     <loc>https://writingcenter.ucmerced.edu/node/231</loc>
+  </url>
+  <url>
+    <loc>https://writingcenter.ucmerced.edu/resources</loc>
   </url>
 </urlset>

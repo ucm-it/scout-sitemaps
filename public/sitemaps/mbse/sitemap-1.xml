@@ -49,12 +49,6 @@
     <loc>https://mbse.ucmerced.edu/facilities</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/partnerships-and-support</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/seminars</loc>
-  </url>
-  <url>
     <loc>https://mbse.ucmerced.edu/news</loc>
   </url>
   <url>
@@ -74,6 +68,12 @@
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/partnerships-and-support</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/seminars</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/sites/mbse.ucmerced.edu/files/documents/2021.12.21.gc2mbse_re_pps_approval.pdf</loc>
@@ -211,10 +211,10 @@
     <loc>https://mbse.ucmerced.edu/content/sarah-kurtz</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/content/jennifer-d-lee</loc>
+    <loc>https://mbse.ucmerced.edu/content/min-hwan-lee</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/content/min-hwan-lee</loc>
+    <loc>https://mbse.ucmerced.edu/content/jennifer-d-lee</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/content/bin-liu-0</loc>
@@ -331,21 +331,6 @@
     <loc>https://mbse.ucmerced.edu/taxonomy/term/1381/feed</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2026-8-31_mbse_seminar_ali_emamjomeh.jpg</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2026-9-14_mbse_seminar_jonathan_pham.jpg</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2026-9-21_mbse_seminar_min_hwan_lee.jpg</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2026-9-28_mbse_seminar_marina_garcia_lopez-arias.jpg</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2026-10-12_mbse_seminar_diego_and_metzli.jpg</loc>
-  </url>
-  <url>
     <loc>https://mbse.ucmerced.edu/news/2024/research-center-aimed-new-ways-make-natural-rubber</loc>
   </url>
   <url>
@@ -400,6 +385,27 @@
     <loc>https://mbse.ucmerced.edu/media-contact/brenda-ortiz</loc>
   </url>
   <url>
+    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2026-8-31_mbse_seminar_ali_emamjomeh.jpg</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2026-9-14_mbse_seminar_jonathan_pham.jpg</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2026-9-21_mbse_seminar_min_hwan_lee.jpg</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2026-9-28_mbse_seminar_marina_garcia_lopez-arias.jpg</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2026-10-12_mbse_seminar_diego_and_metzli.jpg</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2026-10-19_mbse_seminar_zakaria_al_balushi.jpg</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2026-10-26_mbse_seminar_morgan_hawker.jpg</loc>
+  </url>
+  <url>
     <loc>https://mbse.ucmerced.edu/research-areas/materials-and-interfaces-tailored-functionalities</loc>
   </url>
   <url>
@@ -448,10 +454,10 @@
     <loc>https://mbse.ucmerced.edu/news/2021/five-years-ccbm-looking-expand-research-and-student-opportunities</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2021/professor-jennifer-lu-published-physics-world</loc>
+    <loc>https://mbse.ucmerced.edu/news/2021/professor-sarah-kurtz-writes-article-national-academy-engineers-magazine</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2021/professor-sarah-kurtz-writes-article-national-academy-engineers-magazine</loc>
+    <loc>https://mbse.ucmerced.edu/news/2021/professor-jennifer-lu-published-physics-world</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news/2021/kleckner%E2%80%99s-award-physics-department-nabs-its-third-career-grant-year</loc>
@@ -463,16 +469,13 @@
     <loc>https://mbse.ucmerced.edu/news/2021/prestigious-academy-recognizes-microbiology-advances-liwang-lab</loc>
   </url>
   <url>
+    <loc>https://mbse.ucmerced.edu/news/2021/undergrad-experience-anthony-rodriguez</loc>
+  </url>
+  <url>
     <loc>https://mbse.ucmerced.edu/news/2021/undergrad-experience-gehad-elhafany</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news/2021/undergrad-experience-jacqueline-bustamante</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/news/2021/undergrad-experience-gehad-elhanafy</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/news/2021/undergrad-experience-anthony-rodriguez</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news/2021/bioengineer%E2%80%99s-infectious-cells-research-earns-nsf-career-award</loc>
@@ -535,10 +538,10 @@
     <loc>https://mbse.ucmerced.edu/news/2020/national-academy-engineering-elects-kurtz-its-ranks</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2020/potential-electric-vehicles-tied-solar-research</loc>
+    <loc>https://mbse.ucmerced.edu/news/2020/potential-electric-vehicles-tied-solar-research-0</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2020/potential-electric-vehicles-tied-solar-research-0</loc>
+    <loc>https://mbse.ucmerced.edu/news/2020/potential-electric-vehicles-tied-solar-research</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news/2019/engineered-protein-assemblies-respond-cues-open-path-smart-protein-based-medicines</loc>
@@ -928,10 +931,10 @@
     <loc>https://mbse.ucmerced.edu/news/2016/nih-funds-research-stem-cells-bone-disease</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2016/uc-merced-receives-5-million-interdisciplinary-research-center</loc>
+    <loc>https://mbse.ucmerced.edu/news/2016/uc-merced-receives-5-million-interdisciplinary-research-center-0</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/news/2016/uc-merced-receives-5-million-interdisciplinary-research-center-0</loc>
+    <loc>https://mbse.ucmerced.edu/news/2016/uc-merced-receives-5-million-interdisciplinary-research-center</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news/2016/internship-program-enhances-students%E2%80%99-academic-experiences</loc>

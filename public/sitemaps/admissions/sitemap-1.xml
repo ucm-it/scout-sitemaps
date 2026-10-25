@@ -64,9 +64,6 @@
     <loc>https://admissions.ucmerced.edu/admissions-events</loc>
   </url>
   <url>
-    <loc>https://admissions.ucmerced.edu/Premed-Resources</loc>
-  </url>
-  <url>
     <loc>https://admissions.ucmerced.edu/cost-aid/applying-for-aid</loc>
   </url>
   <url>
@@ -121,16 +118,19 @@
     <loc>https://admissions.ucmerced.edu/content/sang-hoang</loc>
   </url>
   <url>
-    <loc>https://admissions.ucmerced.edu/content/calista-lum</loc>
-  </url>
-  <url>
     <loc>https://admissions.ucmerced.edu/first-year/apply</loc>
   </url>
   <url>
     <loc>https://admissions.ucmerced.edu/first-year/contact-us</loc>
   </url>
   <url>
+    <loc>https://admissions.ucmerced.edu/Premed-Resources</loc>
+  </url>
+  <url>
     <loc>https://admissions.ucmerced.edu/MAAP</loc>
+  </url>
+  <url>
+    <loc>https://admissions.ucmerced.edu/content/calista-lum</loc>
   </url>
   <url>
     <loc>https://admissions.ucmerced.edu/first-year/selection-process</loc>

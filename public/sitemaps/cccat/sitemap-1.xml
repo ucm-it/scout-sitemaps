@@ -28,9 +28,6 @@
     <loc>https://cccat.ucmerced.edu/postdoc-positions</loc>
   </url>
   <url>
-    <loc>https://cccat.ucmerced.edu/journal-club</loc>
-  </url>
-  <url>
     <loc>https://cccat.ucmerced.edu/news</loc>
   </url>
   <url>
@@ -43,13 +40,13 @@
     <loc>https://cccat.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://cccat.ucmerced.edu/journal-club</loc>
+  </url>
+  <url>
     <loc>https://cccat.ucmerced.edu/news/2024/department-energy-awards-37-million-build-research-capacity</loc>
   </url>
   <url>
     <loc>https://cccat.ucmerced.edu/news/2024/uc-merced-hosts-mercury-conference</loc>
-  </url>
-  <url>
-    <loc>https://cccat.ucmerced.edu/news/2024/west-coast-theoretical-chemistry-wctc-conference</loc>
   </url>
   <url>
     <loc>https://cccat.ucmerced.edu/news/2023/uc-merced-hosts-electronic-structure-workshop</loc>
@@ -82,10 +79,10 @@
     <loc>https://cccat.ucmerced.edu/news?page=3</loc>
   </url>
   <url>
-    <loc>https://cccat.ucmerced.edu/news/2021/cccat-retreat</loc>
+    <loc>https://cccat.ucmerced.edu/news/2021/physics-seminar-nicola-spaldin-eth-z%C3%BCrich</loc>
   </url>
   <url>
-    <loc>https://cccat.ucmerced.edu/news/2021/physics-seminar-nicola-spaldin-eth-z%C3%BCrich</loc>
+    <loc>https://cccat.ucmerced.edu/news/2021/cccat-retreat</loc>
   </url>
   <url>
     <loc>https://cccat.ucmerced.edu/news/2020/chemistry-seminar-benedetta-mennucci-university-pisa</loc>

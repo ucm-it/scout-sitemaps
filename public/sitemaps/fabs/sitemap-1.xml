@@ -85,9 +85,6 @@
     <loc>https://fabs.ucmerced.edu/resources/clery-act</loc>
   </url>
   <url>
-    <loc>https://fabs.ucmerced.edu/resources/contacts</loc>
-  </url>
-  <url>
     <loc>https://fabs.ucmerced.edu/form/reporting-incident-or-concern</loc>
   </url>
   <url>
@@ -110,6 +107,9 @@
   </url>
   <url>
     <loc>https://fabs.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://fabs.ucmerced.edu/resources/contacts</loc>
   </url>
   <url>
     <loc>https://fabs.ucmerced.edu/sites/g/files/ufvvjh876/f/page/documents/fabs_org_chart_20260817_0.pdf</loc>

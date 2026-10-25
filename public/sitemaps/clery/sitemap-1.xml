@@ -28,9 +28,6 @@
     <loc>https://clery.ucmerced.edu/reporting</loc>
   </url>
   <url>
-    <loc>https://clery.ucmerced.edu/form/csa-report-form</loc>
-  </url>
-  <url>
     <loc>https://clery.ucmerced.edu/reporting/crime-definitions</loc>
   </url>
   <url>
@@ -43,16 +40,10 @@
     <loc>https://clery.ucmerced.edu/notifications/emergency-notifications</loc>
   </url>
   <url>
-    <loc>https://clery.ucmerced.edu/notifications/timely-warnings</loc>
-  </url>
-  <url>
     <loc>https://clery.ucmerced.edu/annual-security-reports</loc>
   </url>
   <url>
     <loc>https://clery.ucmerced.edu/annual-security-reports/annual-housing-fire-safety-reports</loc>
-  </url>
-  <url>
-    <loc>https://clery.ucmerced.edu/crime-and-fire-log</loc>
   </url>
   <url>
     <loc>https://clery.ucmerced.edu/resources</loc>
@@ -71,6 +62,15 @@
   </url>
   <url>
     <loc>https://clery.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://clery.ucmerced.edu/form/csa-report-form</loc>
+  </url>
+  <url>
+    <loc>https://clery.ucmerced.edu/notifications/timely-warnings</loc>
+  </url>
+  <url>
+    <loc>https://clery.ucmerced.edu/crime-and-fire-log</loc>
   </url>
   <url>
     <loc>https://clery.ucmerced.edu/sites/clery.ucmerced.edu/files/images/jeanne_clery_clery_center.jpg</loc>

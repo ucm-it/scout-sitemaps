@@ -43,13 +43,13 @@
     <loc>https://methane.ucmerced.edu/updates</loc>
   </url>
   <url>
-    <loc>https://methane.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
     <loc>https://methane.ucmerced.edu/news/2026/announcement-about-dr-yangquan-chen</loc>
   </url>
   <url>
     <loc>https://methane.ucmerced.edu/news/2025/researchers-developing-new-tools-fight-against-methane-emissions</loc>
+  </url>
+  <url>
+    <loc>https://methane.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
     <loc>https://methane.ucmerced.edu/content/derek-hollenbeck</loc>

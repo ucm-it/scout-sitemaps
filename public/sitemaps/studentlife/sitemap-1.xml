@@ -16,9 +16,6 @@
     <loc>https://studentlife.ucmerced.edu/student-staff</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/get-involved</loc>
-  </url>
-  <url>
     <loc>https://studentlife.ucmerced.edu/program-areas/bobcat-spirit-traditions</loc>
   </url>
   <url>
@@ -64,13 +61,16 @@
     <loc>https://studentlife.ucmerced.edu/policies</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/form/contact-us</loc>
-  </url>
-  <url>
     <loc>https://studentlife.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
     <loc>https://studentlife.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/get-involved</loc>
+  </url>
+  <url>
+    <loc>https://studentlife.ucmerced.edu/form/contact-us</loc>
   </url>
   <url>
     <loc>https://studentlife.ucmerced.edu/content/enrique-guzman</loc>
@@ -532,10 +532,10 @@
     <loc>https://studentlife.ucmerced.edu/events/vip-program-gleek-out-speak-out</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/events/karaoke-night</loc>
+    <loc>https://studentlife.ucmerced.edu/events/vip-program-stalking-know-it-name-it-stop-it</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/events/vip-program-stalking-know-it-name-it-stop-it</loc>
+    <loc>https://studentlife.ucmerced.edu/events/karaoke-night</loc>
   </url>
   <url>
     <loc>https://studentlife.ucmerced.edu/events/vip-program-help-friend-0</loc>
@@ -547,10 +547,10 @@
     <loc>https://studentlife.ucmerced.edu/events/vip-program-project-rewind-1</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/events/bike-and-electronic-registration-and-ucmpds-resources</loc>
+    <loc>https://studentlife.ucmerced.edu/events/vip-program-project-rewind-0</loc>
   </url>
   <url>
-    <loc>https://studentlife.ucmerced.edu/events/vip-program-project-rewind-0</loc>
+    <loc>https://studentlife.ucmerced.edu/events/bike-and-electronic-registration-and-ucmpds-resources</loc>
   </url>
   <url>
     <loc>https://studentlife.ucmerced.edu/events/lets-make-deal</loc>
@@ -1249,10 +1249,10 @@
     <loc>http://studentlife.ucmerced.edu/events/vip-program-gleek-out-speak-out</loc>
   </url>
   <url>
-    <loc>http://studentlife.ucmerced.edu/events/karaoke-night</loc>
+    <loc>http://studentlife.ucmerced.edu/events/vip-program-stalking-know-it-name-it-stop-it</loc>
   </url>
   <url>
-    <loc>http://studentlife.ucmerced.edu/events/vip-program-stalking-know-it-name-it-stop-it</loc>
+    <loc>http://studentlife.ucmerced.edu/events/karaoke-night</loc>
   </url>
   <url>
     <loc>http://studentlife.ucmerced.edu/events/vip-program-help-friend-0</loc>
@@ -1264,10 +1264,10 @@
     <loc>http://studentlife.ucmerced.edu/events/vip-program-project-rewind-1</loc>
   </url>
   <url>
-    <loc>http://studentlife.ucmerced.edu/events/bike-and-electronic-registration-and-ucmpds-resources</loc>
+    <loc>http://studentlife.ucmerced.edu/events/vip-program-project-rewind-0</loc>
   </url>
   <url>
-    <loc>http://studentlife.ucmerced.edu/events/vip-program-project-rewind-0</loc>
+    <loc>http://studentlife.ucmerced.edu/events/bike-and-electronic-registration-and-ucmpds-resources</loc>
   </url>
   <url>
     <loc>http://studentlife.ucmerced.edu/events/lets-make-deal</loc>

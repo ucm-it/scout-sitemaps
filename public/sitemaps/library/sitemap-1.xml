@@ -46,13 +46,7 @@
     <loc>https://library.ucmerced.edu/use/technology/print-copy-scan</loc>
   </url>
   <url>
-    <loc>https://library.ucmerced.edu/use/technology/vpn</loc>
-  </url>
-  <url>
     <loc>https://library.ucmerced.edu/use/exhibits</loc>
-  </url>
-  <url>
-    <loc>https://library.ucmerced.edu/about/connect/news/faculty-authors</loc>
   </url>
   <url>
     <loc>https://library.ucmerced.edu/collections/general/federal-depository-library-program</loc>
@@ -127,13 +121,13 @@
     <loc>https://library.ucmerced.edu/about/connect/news-events</loc>
   </url>
   <url>
-    <loc>https://library.ucmerced.edu/news/2026/events-international-open-access-week</loc>
+    <loc>https://library.ucmerced.edu/news/2026/2026-27-accessibility-workshop-series</loc>
   </url>
   <url>
-    <loc>https://library.ucmerced.edu/news/2026/uc-merced-library-welcomes-clarissa-flores-nightweekend-services-coordinator</loc>
+    <loc>https://library.ucmerced.edu/news/2026/uc-libraries-arts-humanities-open-access-fund</loc>
   </url>
   <url>
-    <loc>https://library.ucmerced.edu/news/2026/request-course-resources-fall-2026</loc>
+    <loc>https://library.ucmerced.edu/news/2026/sierra-nevada-central-valley-archives-expansion-and-renovation-project-update</loc>
   </url>
   <url>
     <loc>https://library.ucmerced.edu/news/2019/elsevier-access-suspended</loc>
@@ -173,6 +167,12 @@
   </url>
   <url>
     <loc>https://library.ucmerced.edu/about/library/about-library/creative-commons</loc>
+  </url>
+  <url>
+    <loc>https://library.ucmerced.edu/use/technology/vpn</loc>
+  </url>
+  <url>
+    <loc>https://library.ucmerced.edu/about/connect/news/faculty-authors</loc>
   </url>
   <url>
     <loc>https://library.ucmerced.edu/sites/g/files/ufvvjh1176/f/page/documents/20240612_establishing_sn-cv_archives_1-pager_accessible.pdf</loc>
@@ -250,15 +250,6 @@
     <loc>https://library.ucmerced.edu/use/exhibits/policies</loc>
   </url>
   <url>
-    <loc>https://library.ucmerced.edu/news/2026/faculty-author-series</loc>
-  </url>
-  <url>
-    <loc>https://library.ucmerced.edu/news/2026/faculty-author-series-dr-susan-amussen</loc>
-  </url>
-  <url>
-    <loc>https://library.ucmerced.edu/news/2026/faculty-author-series-aul-emeritus-donald-barclay</loc>
-  </url>
-  <url>
     <loc>https://library.ucmerced.edu/collecting-areas</loc>
   </url>
   <url>
@@ -271,9 +262,6 @@
     <loc>https://library.ucmerced.edu/partnerships</loc>
   </url>
   <url>
-    <loc>https://library.ucmerced.edu/news/2026/sierra-nevada-central-valley-archives-expansion-and-renovation-project-update</loc>
-  </url>
-  <url>
     <loc>https://library.ucmerced.edu/our-policies</loc>
   </url>
   <url>
@@ -283,22 +271,22 @@
     <loc>https://library.ucmerced.edu/form/recommend-purchase</loc>
   </url>
   <url>
-    <loc>https://library.ucmerced.edu/research/students/tutorials/content/75721</loc>
+    <loc>https://library.ucmerced.edu/research/students/tutorials/content/72531</loc>
+  </url>
+  <url>
+    <loc>https://library.ucmerced.edu/research/students/tutorials/content/67821</loc>
   </url>
   <url>
     <loc>https://library.ucmerced.edu/research/students/tutorials/content/68911</loc>
   </url>
   <url>
-    <loc>https://library.ucmerced.edu/research/students/tutorials/content/72531</loc>
-  </url>
-  <url>
     <loc>https://library.ucmerced.edu/research/students/tutorials/cat/library-basics</loc>
   </url>
   <url>
-    <loc>https://library.ucmerced.edu/research/students/tutorials/content/75871</loc>
+    <loc>https://library.ucmerced.edu/research/students/tutorials/content/73731</loc>
   </url>
   <url>
-    <loc>https://library.ucmerced.edu/research/students/tutorials/content/73731</loc>
+    <loc>https://library.ucmerced.edu/research/students/tutorials/content/75881</loc>
   </url>
   <url>
     <loc>https://library.ucmerced.edu/research/students/tutorials/content/76201</loc>
@@ -310,10 +298,10 @@
     <loc>https://library.ucmerced.edu/research/students/tutorials/content/56321</loc>
   </url>
   <url>
-    <loc>https://library.ucmerced.edu/research/students/tutorials/content/76131</loc>
+    <loc>https://library.ucmerced.edu/research/students/tutorials/content/69611</loc>
   </url>
   <url>
-    <loc>https://library.ucmerced.edu/research/students/tutorials/content/69611</loc>
+    <loc>https://library.ucmerced.edu/research/students/tutorials/content/76131</loc>
   </url>
   <url>
     <loc>https://library.ucmerced.edu/research/students/tutorials/cat/research-skills-advanced</loc>
@@ -322,10 +310,10 @@
     <loc>https://library.ucmerced.edu/research/students/tutorials/content/67791</loc>
   </url>
   <url>
-    <loc>https://library.ucmerced.edu/research/students/tutorials/content/69761</loc>
+    <loc>https://library.ucmerced.edu/research/students/tutorials/content/57561</loc>
   </url>
   <url>
-    <loc>https://library.ucmerced.edu/research/students/tutorials/content/57561</loc>
+    <loc>https://library.ucmerced.edu/research/students/tutorials/content/75811</loc>
   </url>
   <url>
     <loc>https://library.ucmerced.edu/research/students/tutorials/cat/resources-tools</loc>
@@ -445,22 +433,31 @@
     <loc>https://library.ucmerced.edu/about/connect/news/feed</loc>
   </url>
   <url>
+    <loc>https://library.ucmerced.edu/news/author/bronwen-k-maxson-strubbe</loc>
+  </url>
+  <url>
+    <loc>https://library.ucmerced.edu/news/2026/events-international-open-access-week</loc>
+  </url>
+  <url>
     <loc>https://library.ucmerced.edu/news/2026/carter-joseph-abrescy-and-larry-kranich-library-award-undergraduate-student-research</loc>
   </url>
   <url>
-    <loc>https://library.ucmerced.edu/news/2026/uc-libraries-arts-humanities-open-access-fund</loc>
+    <loc>https://library.ucmerced.edu/news/2026/faculty-author-series</loc>
+  </url>
+  <url>
+    <loc>https://library.ucmerced.edu/news/2026/uc-merced-library-welcomes-clarissa-flores-nightweekend-services-coordinator</loc>
   </url>
   <url>
     <loc>https://library.ucmerced.edu/news/2026/reception-held-celebration-%E2%80%98four-seasons-yosemite%E2%80%99-murals-acquisition</loc>
+  </url>
+  <url>
+    <loc>https://library.ucmerced.edu/news/2026/request-course-resources-fall-2026</loc>
   </url>
   <url>
     <loc>https://library.ucmerced.edu/news/2026/call-fall-2026-library-instruction-requests</loc>
   </url>
   <url>
     <loc>https://library.ucmerced.edu/news/author/paulina-allende</loc>
-  </url>
-  <url>
-    <loc>https://library.ucmerced.edu/news/2026/update-new-continuing-resources-and-oa-investments</loc>
   </url>
   <url>
     <loc>https://library.ucmerced.edu/about/connect/news/category/Access%20Alerts</loc>
@@ -497,6 +494,12 @@
   </url>
   <url>
     <loc>https://library.ucmerced.edu/about/connect/news/category/Zero-Cost%20Course%20Resources</loc>
+  </url>
+  <url>
+    <loc>https://library.ucmerced.edu/news/2026/faculty-author-series-dr-susan-amussen</loc>
+  </url>
+  <url>
+    <loc>https://library.ucmerced.edu/news/2026/faculty-author-series-aul-emeritus-donald-barclay</loc>
   </url>
   <url>
     <loc>https://library.ucmerced.edu/sites/library.ucmerced.edu/files/page/documents/ucm_dcasc_collectionspolicy_20240701_et.pdf</loc>
@@ -883,6 +886,9 @@
     <loc>https://library.ucmerced.edu/vef/load/67852eefee17fb94f631c57de3a068c6?width=640&amp;amp;height=365</loc>
   </url>
   <url>
+    <loc>https://library.ucmerced.edu/research/students/tutorials/content/75721</loc>
+  </url>
+  <url>
     <loc>https://library.ucmerced.edu/vef/load/9aa8ab74e49283b4e2e66908acbdc44e?width=640&amp;amp;height=365</loc>
   </url>
   <url>
@@ -890,9 +896,6 @@
   </url>
   <url>
     <loc>https://library.ucmerced.edu/vef/load/dd79adad1575c5d7d78ea71a015caba8?width=640&amp;amp;height=365</loc>
-  </url>
-  <url>
-    <loc>https://library.ucmerced.edu/research/students/tutorials/content/67821</loc>
   </url>
   <url>
     <loc>https://library.ucmerced.edu/vef/load/887f230561dc28328f7d55d367c75e8c?width=640&amp;amp;height=365</loc>
@@ -910,10 +913,10 @@
     <loc>https://library.ucmerced.edu/vef/load/fab566431fb15d9522368bec42e2dddd?width=640&amp;amp;height=365</loc>
   </url>
   <url>
-    <loc>https://library.ucmerced.edu/research/students/tutorials/content/75881</loc>
+    <loc>https://library.ucmerced.edu/vef/load/e88667e3d6a29ffd9c710bc9d10f9cda?width=640&amp;amp;height=365</loc>
   </url>
   <url>
-    <loc>https://library.ucmerced.edu/vef/load/e88667e3d6a29ffd9c710bc9d10f9cda?width=640&amp;amp;height=365</loc>
+    <loc>https://library.ucmerced.edu/research/students/tutorials/content/75871</loc>
   </url>
   <url>
     <loc>https://library.ucmerced.edu/vef/load/f484be09267a3b1b28de0f99b21d3d04?width=640&amp;amp;height=365</loc>
@@ -922,7 +925,7 @@
     <loc>https://library.ucmerced.edu/vef/load/48c54b29ff542bddfa24b87bb00ff63a?width=640&amp;amp;height=365</loc>
   </url>
   <url>
-    <loc>https://library.ucmerced.edu/research/students/tutorials/content/75811</loc>
+    <loc>https://library.ucmerced.edu/research/students/tutorials/content/69761</loc>
   </url>
   <url>
     <loc>https://library.ucmerced.edu/research/students/tutorials/content/75791</loc>
@@ -953,6 +956,9 @@
   </url>
   <url>
     <loc>https://library.ucmerced.edu/sites/g/files/ufvvjh1176/f/page/documents/ssha_collection_development_policy_2026.pdf</loc>
+  </url>
+  <url>
+    <loc>https://library.ucmerced.edu/taxonomy/term/2521/all/feed</loc>
   </url>
   <url>
     <loc>https://library.ucmerced.edu/research/students/library-award</loc>
@@ -1286,9 +1292,6 @@
   </url>
   <url>
     <loc>https://library.ucmerced.edu/news/2026/navigating-library-databases-how-not-get-stuck-searching</loc>
-  </url>
-  <url>
-    <loc>https://library.ucmerced.edu/news/2026/library-workshop-using-zotero-make-citations-easy</loc>
   </url>
   <url>
     <loc>https://library.ucmerced.edu/about/connect/news/category/Zero-Cost%20Course%20Resources/feed</loc>

@@ -25,12 +25,6 @@
     <loc>https://ophd.ucmerced.edu/resources/reporting-options/report-legal-authorities</loc>
   </url>
   <url>
-    <loc>https://ophd.ucmerced.edu/submit-report/reporting-state-and-federal-agencies</loc>
-  </url>
-  <url>
-    <loc>https://ophd.ucmerced.edu/submit-report/where-do-i-report</loc>
-  </url>
-  <url>
     <loc>https://ophd.ucmerced.edu/policies-laws</loc>
   </url>
   <url>
@@ -38,9 +32,6 @@
   </url>
   <url>
     <loc>https://ophd.ucmerced.edu/policies-and-procedures/overview/policy-and-procedures-staff-and-non-faculty-academic-personnel</loc>
-  </url>
-  <url>
-    <loc>https://ophd.ucmerced.edu/policies-and-procedures/overview/policy-and-procedures-faculty</loc>
   </url>
   <url>
     <loc>https://ophd.ucmerced.edu/policies-and-procedures/doe-title-ix-regulations</loc>
@@ -140,6 +131,15 @@
   </url>
   <url>
     <loc>https://ophd.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://ophd.ucmerced.edu/submit-report/reporting-state-and-federal-agencies</loc>
+  </url>
+  <url>
+    <loc>https://ophd.ucmerced.edu/submit-report/where-do-i-report</loc>
+  </url>
+  <url>
+    <loc>https://ophd.ucmerced.edu/policies-and-procedures/overview/policy-and-procedures-faculty</loc>
   </url>
   <url>
     <loc>https://ophd.ucmerced.edu/sites/ophd.ucmerced.edu/files/images/kl.jpg</loc>

@@ -13,12 +13,6 @@
     <loc>https://lgbtqpridecenter.ucmerced.edu/about/queerstory</loc>
   </url>
   <url>
-    <loc>https://lgbtqpridecenter.ucmerced.edu/about/staff</loc>
-  </url>
-  <url>
-    <loc>https://lgbtqpridecenter.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
     <loc>https://lgbtqpridecenter.ucmerced.edu/community</loc>
   </url>
   <url>
@@ -32,9 +26,6 @@
   </url>
   <url>
     <loc>https://lgbtqpridecenter.ucmerced.edu/education-workshops</loc>
-  </url>
-  <url>
-    <loc>https://lgbtqpridecenter.ucmerced.edu/education-workshops/education</loc>
   </url>
   <url>
     <loc>https://lgbtqpridecenter.ucmerced.edu/education-workshops/education/gender-inclusive-language-pronouns</loc>
@@ -64,21 +55,24 @@
     <loc>https://lgbtqpridecenter.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://lgbtqpridecenter.ucmerced.edu/sites/lgbtqpridecenter.ucmerced.edu/files/documents/lgbtqi_terminology.pdf</loc>
+    <loc>https://lgbtqpridecenter.ucmerced.edu/about/staff</loc>
   </url>
   <url>
-    <loc>https://lgbtqpridecenter.ucmerced.edu/sites/lgbtqpridecenter.ucmerced.edu/files/documents/additional_readings.pdf</loc>
+    <loc>https://lgbtqpridecenter.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://lgbtqpridecenter.ucmerced.edu/education-workshops/education</loc>
   </url>
   <url>
     <loc>https://lgbtqpridecenter.ucmerced.edu/sites/lgbtqpridecenter.ucmerced.edu/files/documents/gip_handout.pdf</loc>
   </url>
   <url>
+    <loc>https://lgbtqpridecenter.ucmerced.edu/sites/lgbtqpridecenter.ucmerced.edu/files/documents/lgbtqi_terminology.pdf</loc>
+  </url>
+  <url>
     <loc>https://lgbtqpridecenter.ucmerced.edu/sites/lgbtqpridecenter.ucmerced.edu/files/documents/best_practices_for_gender_transitioning_on_campus.pdf</loc>
   </url>
   <url>
-    <loc>https://lgbtqpridecenter.ucmerced.edu/sites/lgbtq.ucmerced.edu/files/documents/university_of_california_transgender_health_benefits.pdf</loc>
-  </url>
-  <url>
-    <loc>https://lgbtqpridecenter.ucmerced.edu/sites/lgbtq.ucmerced.edu/files/documents/ucship_transgender_benefits_flier.pdf</loc>
+    <loc>https://lgbtqpridecenter.ucmerced.edu/sites/lgbtqpridecenter.ucmerced.edu/files/documents/additional_readings.pdf</loc>
   </url>
 </urlset>

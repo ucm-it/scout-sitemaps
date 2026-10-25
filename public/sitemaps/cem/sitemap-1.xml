@@ -28,9 +28,6 @@
     <loc>https://cem.ucmerced.edu/building-dashboards/social-science-and-management</loc>
   </url>
   <url>
-    <loc>https://cem.ucmerced.edu/building-dashboards/solar-field</loc>
-  </url>
-  <url>
     <loc>http://cem.ucmerced.edu/building-dashboards/student-athletics-activities-center</loc>
   </url>
   <url>
@@ -55,9 +52,6 @@
     <loc>https://cem.ucmerced.edu/room-management/office-scheduler</loc>
   </url>
   <url>
-    <loc>https://cem.ucmerced.edu/requestroom</loc>
-  </url>
-  <url>
     <loc>https://cem.ucmerced.edu/projects</loc>
   </url>
   <url>
@@ -68,6 +62,12 @@
   </url>
   <url>
     <loc>https://cem.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://cem.ucmerced.edu/building-dashboards/solar-field</loc>
+  </url>
+  <url>
+    <loc>https://cem.ucmerced.edu/requestroom</loc>
   </url>
   <url>
     <loc>https://cem.ucmerced.edu/building-dashboards/cathedral</loc>

@@ -25,9 +25,6 @@
     <loc>https://mcb.ucmerced.edu/research/neuroscience-and-neurobiology</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/research/physiology</loc>
-  </url>
-  <url>
     <loc>https://mcb.ucmerced.edu/research</loc>
   </url>
   <url>
@@ -55,6 +52,9 @@
     <loc>https://mcb.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>https://mcb.ucmerced.edu/news/2026/uc-merced-poised-go-further-chancellor-says-state-university-address</loc>
+  </url>
+  <url>
     <loc>https://mcb.ucmerced.edu/news/2026/california-fire-season-has-been-quiet-heat-wave-could-change-fast</loc>
   </url>
   <url>
@@ -64,13 +64,10 @@
     <loc>https://mcb.ucmerced.edu/news/2026/wildfire-smoke-chokes-eastern-and-midwestern-cities-air-pollution-soars-dangerously-high</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2026/2025-costliest-year-record-wildfires-study-finds</loc>
-  </url>
-  <url>
     <loc>https://mcb.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/content/chris-amemiya</loc>
+    <loc>https://mcb.ucmerced.edu/research/physiology</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/content/david-ardell</loc>
@@ -145,6 +142,9 @@
     <loc>https://mcb.ucmerced.edu/content/maggie-sogin</loc>
   </url>
   <url>
+    <loc>https://mcb.ucmerced.edu/news/2026/2025-costliest-year-record-wildfires-study-finds</loc>
+  </url>
+  <url>
     <loc>https://mcb.ucmerced.edu/news/2026/northern-california-could-face-fire-prone-summer-%E2%80%94-here-are-wild-cards</loc>
   </url>
   <url>
@@ -158,9 +158,6 @@
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2026/fire-season-fears-grow-amid-western-heat-wave</loc>
-  </url>
-  <url>
-    <loc>https://mcb.ucmerced.edu/news/2026/wildfire-seasons-are-starting-overlap-spells-trouble-firefighting</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news?page=1</loc>
@@ -205,7 +202,7 @@
     <loc>https://mcb.ucmerced.edu/sites/mcb.ucmerced.edu/files/documents/dr.dang_flyer_64.pdf</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/users/alozano-smith</loc>
+    <loc>https://mcb.ucmerced.edu/media-contact/jody-murray</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/users/tkubo</loc>
@@ -215,6 +212,9 @@
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/users/asali</loc>
+  </url>
+  <url>
+    <loc>https://mcb.ucmerced.edu/news/2026/wildfire-seasons-are-starting-overlap-spells-trouble-firefighting</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2026/avalanche-survivors-would-have-had-only-minutes-help-save-others</loc>
@@ -319,10 +319,10 @@
     <loc>https://mcb.ucmerced.edu/news/2025/thymus-research-could-unlock-immune-system-improvements</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2025/health-california-dairy-workers-was-compromised-bird-flu-spread-new-study-says</loc>
+    <loc>https://mcb.ucmerced.edu/news/2025/finalists-vie-campus-grad-slam-champion-title-during-research-week</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2025/finalists-vie-campus-grad-slam-champion-title-during-research-week</loc>
+    <loc>https://mcb.ucmerced.edu/news/2025/health-california-dairy-workers-was-compromised-bird-flu-spread-new-study-says</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2025/latinos-often-struggle-keep-their-footing-middle-class-fires-made-it-even-harder-these</loc>
@@ -364,10 +364,10 @@
     <loc>https://mcb.ucmerced.edu/news/2025/should-i-throw-out-my-kid%E2%80%99s-froot-loops</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2025/fda-knew-long-ago-red-dye-no-3-causes-cancer-why-did-it-take-so-long-ban-it</loc>
+    <loc>https://mcb.ucmerced.edu/news?page=9</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news?page=9</loc>
+    <loc>https://mcb.ucmerced.edu/news/2025/fda-knew-long-ago-red-dye-no-3-causes-cancer-why-did-it-take-so-long-ban-it</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2025/its-not-really-typical-time-nasty-california-fires-what-changed</loc>
@@ -382,10 +382,10 @@
     <loc>https://mcb.ucmerced.edu/news/2024/calmatters-california-got-millions-train-workers-disaster-relief-it%E2%80%99s-leaving-money-table</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2024/us-solar-industry-downplays-climate-strategy-trump-era</loc>
+    <loc>https://mcb.ucmerced.edu/news/2024/reuters-us-solar-industry-downplays-climate-strategy-trump-era</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2024/reuters-us-solar-industry-downplays-climate-strategy-trump-era</loc>
+    <loc>https://mcb.ucmerced.edu/news/2024/us-solar-industry-downplays-climate-strategy-trump-era</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2024/los-angeles-times-california-farmers-were-big-trump-backers-they-may-be-collision-course</loc>
@@ -397,10 +397,10 @@
     <loc>https://mcb.ucmerced.edu/news/2024/los-angeles-times-political-stress-can-you-stay-engaged-without-sacrificing-your-mental</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2024/uc-merced-led-we-will-awards-142-million-education-health-partners</loc>
+    <loc>https://mcb.ucmerced.edu/news?page=10</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news?page=10</loc>
+    <loc>https://mcb.ucmerced.edu/news/2024/uc-merced-led-we-will-awards-142-million-education-health-partners</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2024/fresno-bee-why-did-donald-trump-win-fresno-county-%E2%80%98people-just-voted-their-pocketbook%E2%80%99</loc>
@@ -430,13 +430,16 @@
     <loc>https://mcb.ucmerced.edu/news/2024/professor-brings-course-based-research-experiences-physics</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2024/data-shows-just-how-much-faster-california-wildfires-are-getting-%E2%80%94-and-why-thats-so</loc>
-  </url>
-  <url>
     <loc>https://mcb.ucmerced.edu/news?page=11</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2024/public-health-grad-student-selected-prestigious-award</loc>
+  </url>
+  <url>
+    <loc>https://mcb.ucmerced.edu/news/2024/data-shows-just-how-much-faster-california-wildfires-are-getting-%E2%80%94-and-why-thats-so</loc>
+  </url>
+  <url>
+    <loc>https://mcb.ucmerced.edu/news/2024/uc-merced-recognized-advancing-latino-students-success</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2024/research-center-aimed-new-ways-make-natural-rubber</loc>
@@ -460,10 +463,10 @@
     <loc>https://mcb.ucmerced.edu/news/2024/interactive-database-tracks-116-years-us-housing-prices-offers-insights-future</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2024/new-facility-will-expand-uc-merceds-groundbreaking-stem-cell-research</loc>
+    <loc>https://mcb.ucmerced.edu/news?page=12</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news?page=12</loc>
+    <loc>https://mcb.ucmerced.edu/news/2012/filipp-works-stop-melanoma-its-tracks</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2012/wolf-studies-alcohols-neurological-effects</loc>
@@ -577,6 +580,15 @@
     <loc>https://mcb.ucmerced.edu/news/2023?page=2</loc>
   </url>
   <url>
+    <loc>https://mcb.ucmerced.edu/news/2024/bakersfield-%E2%80%98peaceful%E2%80%99-place-pursue-science-medicine</loc>
+  </url>
+  <url>
+    <loc>https://mcb.ucmerced.edu/news/2024/study-offers-steps-speed-research-money-community-partners</loc>
+  </url>
+  <url>
+    <loc>https://mcb.ucmerced.edu/taxonomy/term/1361/feed</loc>
+  </url>
+  <url>
     <loc>https://mcb.ucmerced.edu/media-contact/patty-guerra</loc>
   </url>
   <url>
@@ -589,7 +601,7 @@
     <loc>https://mcb.ucmerced.edu/media-contact/alyssa-johansen</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/media-contact/jody-murray</loc>
+    <loc>https://mcb.ucmerced.edu/news/2024/new-facility-will-expand-uc-merceds-groundbreaking-stem-cell-research</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2024/california-banning-artificial-food-dyes-school-snacks-and-drinks-here%E2%80%99s-what-science-says</loc>
@@ -619,10 +631,10 @@
     <loc>https://mcb.ucmerced.edu/news/2024/grad-student-receives-prestigious-defense-fellowship</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2024/researchers-accurately-model-animals%E2%80%99-hunting-scavenging-behavior</loc>
+    <loc>https://mcb.ucmerced.edu/news?page=13</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news?page=13</loc>
+    <loc>https://mcb.ucmerced.edu/news/2024/researchers-accurately-model-animals%E2%80%99-hunting-scavenging-behavior</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2024/do-countertop-compost-machines-really-work</loc>
@@ -652,16 +664,16 @@
     <loc>https://mcb.ucmerced.edu/news/2024/solar-canal-project-earns-environmental-award-construction-begins</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2024/hellman-awards-deepening-research-genomes-health-and-computer-science</loc>
-  </url>
-  <url>
     <loc>https://mcb.ucmerced.edu/news?page=14</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2024/new-uc-merced-extension-program-aims-boost-health-care-access-central-california</loc>
+    <loc>https://mcb.ucmerced.edu/news/2024/hellman-awards-deepening-research-genomes-health-and-computer-science</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2024/associated-press-greenhouses-are-becoming-more-popular-theres-little-research-how-protect</loc>
+  </url>
+  <url>
+    <loc>https://mcb.ucmerced.edu/news/2024/new-uc-merced-extension-program-aims-boost-health-care-access-central-california</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2024/mercury-news-newsom-warns-worsening-california-fire-season-reiterates-support-biden-says</loc>
@@ -679,16 +691,13 @@
     <loc>https://mcb.ucmerced.edu/news/2024/merced-focus-air-pollution-study-finds-valley-residents-pay-millions-%E2%80%98completely</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2024/bakersfield-%E2%80%98peaceful%E2%80%99-place-pursue-science-medicine</loc>
-  </url>
-  <url>
     <loc>https://mcb.ucmerced.edu/news/2024/national-ag-research-center-meets-uc-merced</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2024/physics-based-modeling-reveals-surprising-behavior-blood-clots</loc>
+    <loc>https://mcb.ucmerced.edu/news?page=15</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news?page=15</loc>
+    <loc>https://mcb.ucmerced.edu/news/2024/physics-based-modeling-reveals-surprising-behavior-blood-clots</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2024/huffington-post-there-might-actually-be-some-science-behind-eldest-daughter-syndrome</loc>
@@ -698,9 +707,6 @@
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2024/cnbc-why-student-loan-forgiveness-sparks-anger</loc>
-  </url>
-  <url>
-    <loc>https://mcb.ucmerced.edu/news/2024/study-offers-steps-speed-research-money-community-partners</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2024/la-times-what-difference-between-heat-dome-and-heat-wave</loc>
@@ -718,10 +724,10 @@
     <loc>https://mcb.ucmerced.edu/news/2024/uc-merced-expands-automatic-admission-opportunity-porterville-students</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2024/uc-merced-hosts-tobacco-control-summit</loc>
+    <loc>https://mcb.ucmerced.edu/news?page=16</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news?page=16</loc>
+    <loc>https://mcb.ucmerced.edu/news/2015/sost-inhibits-prostate-cancer-invasion</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2015/professor-jensen-discovers-increased-dangers-parasite</loc>
@@ -751,7 +757,7 @@
     <loc>https://mcb.ucmerced.edu/news/2013/alzheimers-association-supports-kitazawas-work-disease-mechanism</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2012/filipp-works-stop-melanoma-its-tracks</loc>
+    <loc>https://mcb.ucmerced.edu/news/2024/cvjc-new-community-planned-near-uc-merced-gets-green-light-city-leaders-it%E2%80%99s-expected-</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2024/lukens%E2%80%99-latest-research-tracks-sediment%E2%80%99s-journey-eastern-sierra</loc>
@@ -772,10 +778,10 @@
     <loc>https://mcb.ucmerced.edu/news/2023/latest-career-award-funds-research-building-climate-control</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2023/grant-funds-research-wildfire-behavior-and-ecological-effects-fuel-treatments</loc>
+    <loc>https://mcb.ucmerced.edu/news/2023/uc-merced-led-regional-education-collaborative-awarded-181-million-state-funds</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2023/uc-merced-led-regional-education-collaborative-awarded-181-million-state-funds</loc>
+    <loc>https://mcb.ucmerced.edu/news/2023/grant-funds-research-wildfire-behavior-and-ecological-effects-fuel-treatments</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2023/new-collaborations-designed-increase-access-data-science-all-students</loc>
@@ -934,13 +940,10 @@
     <loc>https://mcb.ucmerced.edu/news/2017/another-first-nobile-nih-outstanding-investigator-award</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2015/sost-inhibits-prostate-cancer-invasion</loc>
-  </url>
-  <url>
-    <loc>https://mcb.ucmerced.edu/news/2024/uc-merced-recognized-advancing-latino-students-success</loc>
-  </url>
-  <url>
     <loc>https://mcb.ucmerced.edu/news/2024?page=9</loc>
+  </url>
+  <url>
+    <loc>https://mcb.ucmerced.edu/news/2024/uc-merced-hosts-tobacco-control-summit</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2024/abc-news-70-years-after-brown-v-board-education-many-schools-remain-segregated</loc>
@@ -1033,9 +1036,6 @@
     <loc>https://mcb.ucmerced.edu/news/2024/wall-street-journal-firefighters-used-bet-wildfires-easing-night-not-anymore</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2024/cvjc-new-community-planned-near-uc-merced-gets-green-light-city-leaders-it%E2%80%99s-expected-</loc>
-  </url>
-  <url>
     <loc>https://mcb.ucmerced.edu/taxonomy/term/1011/feed</loc>
   </url>
   <url>
@@ -1051,9 +1051,6 @@
     <loc>https://mcb.ucmerced.edu/taxonomy/term/1091/feed</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/taxonomy/term/1361/feed</loc>
-  </url>
-  <url>
     <loc>https://mcb.ucmerced.edu/news/2024/la-times-landmark-heat-rules-california-workers-are-opposed-state-finance-officials</loc>
   </url>
   <url>
@@ -1063,13 +1060,13 @@
     <loc>https://mcb.ucmerced.edu/news/2024/7-women-honored-impact-uc-merced-community</loc>
   </url>
   <url>
+    <loc>https://mcb.ucmerced.edu/news/2024/abc30-how-tiktok-ban-could-impact-local-valley-small-businesses</loc>
+  </url>
+  <url>
     <loc>https://mcb.ucmerced.edu/news/2024/san-francisco-chronicle-california%E2%80%99s-farm-belt-sees-thirstier-crops-%E2%80%94-and-more-pressure</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2024/uc-merceds-40th-career-award-funds-computer-efficiency-research</loc>
-  </url>
-  <url>
-    <loc>https://mcb.ucmerced.edu/news/2024/abc30-how-tiktok-ban-could-impact-local-valley-small-businesses</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2024/mother-daughter-science-camp-offers-girls-insight-future-pathways</loc>
@@ -1081,19 +1078,19 @@
     <loc>https://mcb.ucmerced.edu/news/2024/abc30-what-you-need-know-about-prop-1-ca-primary-election</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2024/huffpost-eldest-daughter-syndrome-real-thing-new-study-may-surprise-you</loc>
+    <loc>https://mcb.ucmerced.edu/news/2024/roads-removal-symposium-looks-opportunities-fight-climate-change</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2024/roads-removal-symposium-looks-opportunities-fight-climate-change</loc>
+    <loc>https://mcb.ucmerced.edu/news/2024/huffpost-eldest-daughter-syndrome-real-thing-new-study-may-surprise-you</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2024/nbc-news-texas-powerful-combination-dry-land-and-high-winds-fuels-wildfires</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2024/fellowship-expands-quantum-ai-training-fill-industry-demand</loc>
+    <loc>https://mcb.ucmerced.edu/news/2024/grant-supports-uc-merced-effort-improve-college-readiness-valley</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/news/2024/grant-supports-uc-merced-effort-improve-college-readiness-valley</loc>
+    <loc>https://mcb.ucmerced.edu/news/2024/fellowship-expands-quantum-ai-training-fill-industry-demand</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/news/2024/atlantic-shark-teeth-are-time-machines</loc>
@@ -1123,6 +1120,9 @@
     <loc>https://mcb.ucmerced.edu/media-contact/michelle-morgante</loc>
   </url>
   <url>
+    <loc>https://mcb.ucmerced.edu/content/chris-amemiya</loc>
+  </url>
+  <url>
     <loc>https://mcb.ucmerced.edu/media-contact/jason-alvarez</loc>
   </url>
   <url>
@@ -1136,6 +1136,9 @@
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/taxonomy/term/291/feed</loc>
+  </url>
+  <url>
+    <loc>https://mcb.ucmerced.edu/users/alozano-smith</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/taxonomy/term/11/feed</loc>

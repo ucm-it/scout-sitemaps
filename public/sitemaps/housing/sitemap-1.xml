@@ -139,9 +139,6 @@
     <loc>https://housing.ucmerced.edu/thanksgiving</loc>
   </url>
   <url>
-    <loc>https://housing.ucmerced.edu/housing/map-housing</loc>
-  </url>
-  <url>
     <loc>https://housing.ucmerced.edu/what-does-it-mean-to-be-an-ra</loc>
   </url>
   <url>
@@ -247,6 +244,9 @@
     <loc>https://housing.ucmerced.edu/housing/valley-terraces</loc>
   </url>
   <url>
+    <loc>https://housing.ucmerced.edu/housing/map-housing</loc>
+  </url>
+  <url>
     <loc>https://housing.ucmerced.edu/past_rates</loc>
   </url>
   <url>
@@ -332,15 +332,6 @@
   </url>
   <url>
     <loc>https://housing.ucmerced.edu/rha</loc>
-  </url>
-  <url>
-    <loc>https://housing.ucmerced.edu/sites/g/files/ufvvjh1041/f/documents/2021_summer_application_guide.pdf</loc>
-  </url>
-  <url>
-    <loc>https://housing.ucmerced.edu/sites/g/files/ufvvjh1041/f/documents/ucm_housing_map_2021v2.pdf</loc>
-  </url>
-  <url>
-    <loc>https://housing.ucmerced.edu/sites/g/files/ufvvjh1041/f/documents/ucm_housing_map_2021v2.jpg</loc>
   </url>
   <url>
     <loc>https://housing.ucmerced.edu/faq</loc>
@@ -509,6 +500,9 @@
   </url>
   <url>
     <loc>https://housing.ucmerced.edu/sites/g/files/ufvvjh1041/f/page/documents/tulare_-_second.pdf</loc>
+  </url>
+  <url>
+    <loc>https://housing.ucmerced.edu/sites/g/files/ufvvjh1041/f/documents/ucm_housing_map_2021v2.pdf</loc>
   </url>
   <url>
     <loc>https://housing.ucmerced.edu/sites/g/files/ufvvjh1041/f/page/documents/rha_constitution_19-20.pdf</loc>

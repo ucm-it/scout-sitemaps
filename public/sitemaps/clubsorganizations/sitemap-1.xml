@@ -28,9 +28,6 @@
     <loc>https://clubsorganizations.ucmerced.edu/how-create-club</loc>
   </url>
   <url>
-    <loc>https://clubsorganizations.ucmerced.edu/organization-recognition-status</loc>
-  </url>
-  <url>
     <loc>https://clubsorganizations.ucmerced.edu/organization-recognition-status/required-trainings</loc>
   </url>
   <url>
@@ -49,13 +46,16 @@
     <loc>https://clubsorganizations.ucmerced.edu/resources/workshops-important-guides</loc>
   </url>
   <url>
-    <loc>https://clubsorganizations.ucmerced.edu/resources/reporting-resources</loc>
-  </url>
-  <url>
     <loc>https://clubsorganizations.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
     <loc>https://clubsorganizations.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://clubsorganizations.ucmerced.edu/organization-recognition-status</loc>
+  </url>
+  <url>
+    <loc>https://clubsorganizations.ucmerced.edu/resources/reporting-resources</loc>
   </url>
   <url>
     <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/virtual_hub_for_clubs_and_orgs_0.pdf</loc>
@@ -104,9 +104,6 @@
   </url>
   <url>
     <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/sample_constitution_fillable_updated_2021.pdf</loc>
-  </url>
-  <url>
-    <loc>https://clubsorganizations.ucmerced.edu/sites/g/files/ufvvjh641/f/page/documents/sample_constitution_fillable_updated_2021.pdf</loc>
   </url>
   <url>
     <loc>https://clubsorganizations.ucmerced.edu/sites/g/files/ufvvjh641/f/page/documents/rco_catlife_101_event_planning_1.pdf</loc>
@@ -233,6 +230,9 @@
   </url>
   <url>
     <loc>https://clubsorganizations.ucmerced.edu/sites/clubsorganizations.ucmerced.edu/files/page/documents/rco_transition_workshop_2020.pptx</loc>
+  </url>
+  <url>
+    <loc>https://clubsorganizations.ucmerced.edu/sites/g/files/ufvvjh641/f/page/documents/sample_constitution_fillable_updated_2021.pdf</loc>
   </url>
   <url>
     <loc>https://clubsorganizations.ucmerced.edu/content/what-size-should-i-make-images-if-i-want-post-my-organization-or-departmental-logo-my</loc>

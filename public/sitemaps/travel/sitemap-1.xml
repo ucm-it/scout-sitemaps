@@ -25,9 +25,6 @@
     <loc>https://travel.ucmerced.edu/travel-entertainment/entertainment</loc>
   </url>
   <url>
-    <loc>https://travel.ucmerced.edu/travel-entertainment/entertainment/entertainment-meal-expense-limits</loc>
-  </url>
-  <url>
     <loc>https://travel.ucmerced.edu/travel-entertainment-planning/entertainment/meetings-programmatic-activities</loc>
   </url>
   <url>
@@ -50,9 +47,6 @@
   </url>
   <url>
     <loc>https://travel.ucmerced.edu/travel-entertainment/travel-entertainment-card</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/travel-entertainment/travel-entertainment-card/important-update-your-te-card-application</loc>
   </url>
   <url>
     <loc>https://travel.ucmerced.edu/travel-entertainment/instant-card-program</loc>
@@ -119,6 +113,12 @@
   </url>
   <url>
     <loc>https://travel.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://travel.ucmerced.edu/travel-entertainment/entertainment/entertainment-meal-expense-limits</loc>
+  </url>
+  <url>
+    <loc>https://travel.ucmerced.edu/travel-entertainment/travel-entertainment-card/important-update-your-te-card-application</loc>
   </url>
   <url>
     <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/bus-79_bus_meetings_entertainment_updated_12.15.2022.pdf</loc>
@@ -208,10 +208,10 @@
     <loc>https://travel.ucmerced.edu/news/2026/plan-ahead-higher-approval-requests</loc>
   </url>
   <url>
-    <loc>https://travel.ucmerced.edu/news/2026/bus-79-documentation-approval-reimbursement-reminders</loc>
+    <loc>https://travel.ucmerced.edu/news/2026/making-travel-expense-easier-self-service-resources-important-g-28-policy-reminders</loc>
   </url>
   <url>
-    <loc>https://travel.ucmerced.edu/news/2026/making-travel-expense-easier-self-service-resources-important-g-28-policy-reminders</loc>
+    <loc>https://travel.ucmerced.edu/news/2026/bus-79-documentation-approval-reimbursement-reminders</loc>
   </url>
   <url>
     <loc>https://travel.ucmerced.edu/news/2026/2026-mileage-rate-increase</loc>

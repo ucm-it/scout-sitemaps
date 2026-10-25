@@ -28,12 +28,6 @@
     <loc>https://teacherprep.ucmerced.edu/credentials</loc>
   </url>
   <url>
-    <loc>https://teacherprep.ucmerced.edu/credentials/multiple-subject</loc>
-  </url>
-  <url>
-    <loc>https://teacherprep.ucmerced.edu/credentials/single-subject</loc>
-  </url>
-  <url>
     <loc>https://teacherprep.ucmerced.edu/credentials/bilingual-authorization-spanish-bclad</loc>
   </url>
   <url>
@@ -53,9 +47,6 @@
   </url>
   <url>
     <loc>https://teacherprep.ucmerced.edu/admitted-candidates</loc>
-  </url>
-  <url>
-    <loc>https://teacherprep.ucmerced.edu/courses</loc>
   </url>
   <url>
     <loc>https://teacherprep.ucmerced.edu/courses/caltpa-seminar</loc>
@@ -79,10 +70,16 @@
     <loc>https://teacherprep.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>https://teacherprep.ucmerced.edu/credentials/single-subject</loc>
+  </url>
+  <url>
     <loc>https://teacherprep.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://teacherprep.ucmerced.edu/sites/g/files/ufvvjh1821/f/documents/PDF/certificate_of_clearance_instructions_m_franco_6_5_24.pdf</loc>
+    <loc>https://teacherprep.ucmerced.edu/credentials/multiple-subject</loc>
+  </url>
+  <url>
+    <loc>https://teacherprep.ucmerced.edu/courses</loc>
   </url>
   <url>
     <loc>https://teacherprep.ucmerced.edu/sites/g/files/ufvvjh1821/f/documents/PDF/uctk_updated_3.pdf</loc>
@@ -91,22 +88,19 @@
     <loc>https://teacherprep.ucmerced.edu/sites/g/files/ufvvjh1821/f/documents/uc_merced_teaching_credential_recommendation_form.pdf</loc>
   </url>
   <url>
+    <loc>https://teacherprep.ucmerced.edu/sites/g/files/ufvvjh1821/f/documents/PDF/certificate_of_clearance_instructions_m_franco_6_5_24.pdf</loc>
+  </url>
+  <url>
     <loc>https://teacherprep.ucmerced.edu/sites/g/files/ufvvjh1821/f/documents/PDF/prior_experience_verification_form2026.pdf</loc>
-  </url>
-  <url>
-    <loc>https://teacherprep.ucmerced.edu/sites/g/files/ufvvjh1821/f/documents/PDF/uc_merced_teaching_credential_recommendation_form_1.pdf</loc>
-  </url>
-  <url>
-    <loc>https://teacherprep.ucmerced.edu/sites/g/files/ufvvjh1821/f/documents/PDF/200723-csets-ms.pdf</loc>
-  </url>
-  <url>
-    <loc>https://teacherprep.ucmerced.edu/sites/g/files/ufvvjh1821/f/documents/PDF/200723-csets-ss.pdf</loc>
   </url>
   <url>
     <loc>https://teacherprep.ucmerced.edu/credentials/bilingual-authorization-spanish-bclad/bilingual-authorization-spanish-admissions</loc>
   </url>
   <url>
     <loc>https://teacherprep.ucmerced.edu/sites/g/files/ufvvjh1821/f/documents/forms/bla_flyer_-1_1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://teacherprep.ucmerced.edu/sites/g/files/ufvvjh1821/f/documents/PDF/uc_merced_teaching_credential_recommendation_form_1.pdf</loc>
   </url>
   <url>
     <loc>https://teacherprep.ucmerced.edu/Clinical-Practice-Equivalency</loc>
@@ -139,6 +133,21 @@
     <loc>https://teacherprep.ucmerced.edu/sites/g/files/ufvvjh1821/f/documents/PDF/tpp_policies_and_procedures_handbook_2019-2020.pdf</loc>
   </url>
   <url>
+    <loc>https://teacherprep.ucmerced.edu/sites/g/files/ufvvjh1821/f/documents/PDF/subject-matter-chart-of-options.pdf</loc>
+  </url>
+  <url>
+    <loc>https://teacherprep.ucmerced.edu/sites/g/files/ufvvjh1821/f/documents/forms/exceptional_admission_petition.pdf</loc>
+  </url>
+  <url>
+    <loc>https://teacherprep.ucmerced.edu/sites/g/files/ufvvjh1821/f/documents/forms/prior_experience_verification_form2022.pdf</loc>
+  </url>
+  <url>
+    <loc>https://teacherprep.ucmerced.edu/sites/g/files/ufvvjh1821/f/documents/PDF/200723-csets-ss.pdf</loc>
+  </url>
+  <url>
+    <loc>https://teacherprep.ucmerced.edu/sites/g/files/ufvvjh1821/f/documents/PDF/200723-csets-ms.pdf</loc>
+  </url>
+  <url>
     <loc>https://teacherprep.ucmerced.edu/course-track/credential-support</loc>
   </url>
   <url>
@@ -152,15 +161,6 @@
   </url>
   <url>
     <loc>https://teacherprep.ucmerced.edu/course-track/bilingual-authorization</loc>
-  </url>
-  <url>
-    <loc>https://teacherprep.ucmerced.edu/sites/g/files/ufvvjh1821/f/documents/PDF/subject-matter-chart-of-options.pdf</loc>
-  </url>
-  <url>
-    <loc>https://teacherprep.ucmerced.edu/sites/g/files/ufvvjh1821/f/documents/forms/exceptional_admission_petition.pdf</loc>
-  </url>
-  <url>
-    <loc>https://teacherprep.ucmerced.edu/sites/g/files/ufvvjh1821/f/documents/forms/prior_experience_verification_form2022.pdf</loc>
   </url>
   <url>
     <loc>https://teacherprep.ucmerced.edu/sites/g/files/ufvvjh1821/f/documents/forms/equivalency_option_1_-_professional_work_experience_verification_form_1.pdf</loc>

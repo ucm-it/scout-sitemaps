@@ -10,9 +10,6 @@
     <loc>https://mcs.ucmerced.edu/about-mcsmist/research-areas-faculty</loc>
   </url>
   <url>
-    <loc>https://mcs.ucmerced.edu/DSA-major</loc>
-  </url>
-  <url>
     <loc>https://mcs.ucmerced.edu/MAD-minor</loc>
   </url>
   <url>
@@ -25,16 +22,10 @@
     <loc>https://mcs.ucmerced.edu/phd-program-info</loc>
   </url>
   <url>
-    <loc>https://mcs.ucmerced.edu/phd-students</loc>
-  </url>
-  <url>
     <loc>https://mcs.ucmerced.edu/faculty-staff</loc>
   </url>
   <url>
     <loc>http://mcs.ucmerced.edu/racial-social-justice</loc>
-  </url>
-  <url>
-    <loc>https://mcs.ucmerced.edu/research-areas</loc>
   </url>
   <url>
     <loc>https://mcs.ucmerced.edu/seminars</loc>
@@ -61,10 +52,13 @@
     <loc>https://mcs.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://mcs.ucmerced.edu/sites/g/files/ufvvjh1216/f/page/documents/soe_dsa_flyer_v2026.pdf</loc>
+    <loc>https://mcs.ucmerced.edu/DSA-major</loc>
   </url>
   <url>
-    <loc>http://mcs.ucmerced.edu/node/1</loc>
+    <loc>https://mcs.ucmerced.edu/phd-students</loc>
+  </url>
+  <url>
+    <loc>https://mcs.ucmerced.edu/research-areas</loc>
   </url>
   <url>
     <loc>https://mcs.ucmerced.edu/MAD-curriculum</loc>
@@ -101,6 +95,9 @@
   </url>
   <url>
     <loc>https://mcs.ucmerced.edu/phd-application</loc>
+  </url>
+  <url>
+    <loc>http://mcs.ucmerced.edu/node/1</loc>
   </url>
   <url>
     <loc>http://mcs.ucmerced.edu/about-mcsmist</loc>
@@ -154,6 +151,12 @@
     <loc>https://mcs.ucmerced.edu/news?page=2</loc>
   </url>
   <url>
+    <loc>https://mcs.ucmerced.edu/sites/g/files/ufvvjh1216/f/page/documents/soe_dsa_flyer_v2026.pdf</loc>
+  </url>
+  <url>
+    <loc>https://mcs.ucmerced.edu/sites/mcs.ucmerced.edu/files/page/documents/mad_distinction_between_mad_minor_and_the_mbe_minor.pdf</loc>
+  </url>
+  <url>
     <loc>http://mcs.ucmerced.edu/news/2026/increasing-tourism-messaging-news-media-promotes-us-national-park-system-integration</loc>
   </url>
   <url>
@@ -161,9 +164,6 @@
   </url>
   <url>
     <loc>http://mcs.ucmerced.edu/news/2025/fire-part-ii-%E2%80%93-profs-kolden-abatzoglou-et-al-publish-back-back-science</loc>
-  </url>
-  <url>
-    <loc>https://mcs.ucmerced.edu/sites/mcs.ucmerced.edu/files/page/documents/mad_distinction_between_mad_minor_and_the_mbe_minor.pdf</loc>
   </url>
   <url>
     <loc>http://mcs.ucmerced.edu/news/2024/fire-%E2%80%93-profs-kolden-abatzoglou-et-al-publish-back-back-science</loc>
@@ -199,10 +199,10 @@
     <loc>https://mcs.ucmerced.edu/news/2021/multi-campus-uc-wildfire-project-led-mcs-prof-kolden</loc>
   </url>
   <url>
-    <loc>https://mcs.ucmerced.edu/news/2020/mist-faculty-welcome-professor-john-abatzoglou</loc>
+    <loc>https://mcs.ucmerced.edu/news/2020/mist-faculty-welcome-professor-spencer-castro</loc>
   </url>
   <url>
-    <loc>https://mcs.ucmerced.edu/news/2020/mist-faculty-welcome-professor-spencer-castro</loc>
+    <loc>https://mcs.ucmerced.edu/news/2020/mist-faculty-welcome-professor-john-abatzoglou</loc>
   </url>
   <url>
     <loc>https://mcs.ucmerced.edu/news/2020/mist-faculty-welcome-professor-crystal-kolden</loc>
@@ -241,10 +241,10 @@
     <loc>http://mcs.ucmerced.edu/news/2021/multi-campus-uc-wildfire-project-led-mcs-prof-kolden</loc>
   </url>
   <url>
-    <loc>http://mcs.ucmerced.edu/news/2020/mist-faculty-welcome-professor-john-abatzoglou</loc>
+    <loc>http://mcs.ucmerced.edu/news/2020/mist-faculty-welcome-professor-spencer-castro</loc>
   </url>
   <url>
-    <loc>http://mcs.ucmerced.edu/news/2020/mist-faculty-welcome-professor-spencer-castro</loc>
+    <loc>http://mcs.ucmerced.edu/news/2020/mist-faculty-welcome-professor-john-abatzoglou</loc>
   </url>
   <url>
     <loc>http://mcs.ucmerced.edu/news/2020/mist-faculty-welcome-professor-crystal-kolden</loc>

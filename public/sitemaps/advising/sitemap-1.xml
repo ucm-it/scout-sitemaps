@@ -31,16 +31,10 @@
     <loc>https://advising.ucmerced.edu/student-information/new-admitted-students</loc>
   </url>
   <url>
-    <loc>https://advising.ucmerced.edu/student-information/current-students</loc>
-  </url>
-  <url>
     <loc>https://advising.ucmerced.edu/student-information/current-students/academic-advising-first-years</loc>
   </url>
   <url>
     <loc>https://advising.ucmerced.edu/student-information/current-students/academic-advising-undeclared-students</loc>
-  </url>
-  <url>
-    <loc>https://advising.ucmerced.edu/jump-start-your-third-year</loc>
   </url>
   <url>
     <loc>https://advising.ucmerced.edu/student_information/appeals</loc>
@@ -74,6 +68,12 @@
   </url>
   <url>
     <loc>https://advising.ucmerced.edu/reg-resources</loc>
+  </url>
+  <url>
+    <loc>https://advising.ucmerced.edu/student-information/current-students</loc>
+  </url>
+  <url>
+    <loc>https://advising.ucmerced.edu/jump-start-your-third-year</loc>
   </url>
   <url>
     <loc>https://advising.ucmerced.edu/sites/advising.ucmerced.edu/files/documents/final_draft_campus_wide_advising_assessment_report_2013-2015.pdf</loc>

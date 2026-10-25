@@ -40,12 +40,6 @@
     <loc>https://valleyfever.ucmerced.edu/research-advocacy-news/valley-fever-legislation</loc>
   </url>
   <url>
-    <loc>https://valleyfever.ucmerced.edu/get-involved</loc>
-  </url>
-  <url>
-    <loc>https://valleyfever.ucmerced.edu/get-involved/valley-fever-events</loc>
-  </url>
-  <url>
     <loc>https://valleyfever.ucmerced.edu/get-involved/valley-fever-events/2019-valley-fever-summit</loc>
   </url>
   <url>
@@ -86,6 +80,12 @@
   </url>
   <url>
     <loc>https://valleyfever.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://valleyfever.ucmerced.edu/get-involved</loc>
+  </url>
+  <url>
+    <loc>https://valleyfever.ucmerced.edu/get-involved/valley-fever-events</loc>
   </url>
   <url>
     <loc>https://valleyfever.ucmerced.edu/find-valley-fever-resources/related-misdiagnosis</loc>
@@ -256,16 +256,16 @@
     <loc>https://valleyfever.ucmerced.edu/news/2014/valley-fever-increased-dangers-desert-dust</loc>
   </url>
   <url>
-    <loc>https://valleyfever.ucmerced.edu/news/2014/student-led-research-could-lead-faster-valley-fever-diagnosis</loc>
-  </url>
-  <url>
-    <loc>https://valleyfever.ucmerced.edu/news/2014/woman-fighting-valley-fever-my-life-has-been-hold</loc>
-  </url>
-  <url>
     <loc>https://valleyfever.ucmerced.edu/news/2014/first-look-walk-bring-awareness-valley-fever</loc>
   </url>
   <url>
     <loc>https://valleyfever.ucmerced.edu/news/2014/dangers-desert-dust-new-diagnostic-tool-valley-fever</loc>
+  </url>
+  <url>
+    <loc>https://valleyfever.ucmerced.edu/news/2014/student-led-research-could-lead-faster-valley-fever-diagnosis</loc>
+  </url>
+  <url>
+    <loc>https://valleyfever.ucmerced.edu/news/2014/woman-fighting-valley-fever-my-life-has-been-hold</loc>
   </url>
   <url>
     <loc>https://valleyfever.ucmerced.edu/news/2014/local-valley-fever-research-be-published-scientific-journal</loc>

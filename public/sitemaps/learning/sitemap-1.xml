@@ -16,9 +16,6 @@
     <loc>https://learning.ucmerced.edu/programs-services</loc>
   </url>
   <url>
-    <loc>https://learning.ucmerced.edu/programs-services/events-workshops</loc>
-  </url>
-  <url>
     <loc>https://learning.ucmerced.edu/student-success-everywhere</loc>
   </url>
   <url>
@@ -35,6 +32,9 @@
   </url>
   <url>
     <loc>https://learning.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://learning.ucmerced.edu/programs-services/events-workshops</loc>
   </url>
   <url>
     <loc>https://learning.ucmerced.edu/contact-us</loc>
@@ -434,5 +434,11 @@
   </url>
   <url>
     <loc>https://learning.ucmerced.edu/events/smp-x-gsp-exploring-grad-school</loc>
+  </url>
+  <url>
+    <loc>https://learning.ucmerced.edu/events/guardian-scholars-program-fall-harvest-festival</loc>
+  </url>
+  <url>
+    <loc>https://learning.ucmerced.edu/events/calvin-e-bright-success-center-open-house</loc>
   </url>
 </urlset>

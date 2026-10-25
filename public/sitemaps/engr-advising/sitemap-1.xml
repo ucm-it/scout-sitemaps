@@ -88,9 +88,6 @@
     <loc>https://engr-advising.ucmerced.edu/policies/soe-policies</loc>
   </url>
   <url>
-    <loc>https://engr-advising.ucmerced.edu/policies/soe-policies/CSE-academic-honesty-policy</loc>
-  </url>
-  <url>
     <loc>https://engr-advising.ucmerced.edu/policies/reentry</loc>
   </url>
   <url>
@@ -158,6 +155,9 @@
   </url>
   <url>
     <loc>https://engr-advising.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://engr-advising.ucmerced.edu/policies/soe-policies/CSE-academic-honesty-policy</loc>
   </url>
   <url>
     <loc>https://engr-advising.ucmerced.edu/node/576</loc>

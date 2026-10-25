@@ -64,9 +64,6 @@
     <loc>https://earthshakes.ucmerced.edu/resources/films-and-performances</loc>
   </url>
   <url>
-    <loc>https://earthshakes.ucmerced.edu/resources/eco-resources-theatre-companies</loc>
-  </url>
-  <url>
     <loc>https://earthshakes.ucmerced.edu/globe4globe-videos</loc>
   </url>
   <url>
@@ -83,6 +80,9 @@
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://earthshakes.ucmerced.edu/resources/eco-resources-theatre-companies</loc>
   </url>
   <url>
     <loc>https://earthshakes.ucmerced.edu/node/24</loc>

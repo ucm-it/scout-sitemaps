@@ -52,9 +52,6 @@
     <loc>https://police.ucmerced.edu/about-us/contact/public-safety-ambassador</loc>
   </url>
   <url>
-    <loc>https://police.ucmerced.edu/data-dashboards</loc>
-  </url>
-  <url>
     <loc>https://police.ucmerced.edu/annual-crime-statistics</loc>
   </url>
   <url>
@@ -62,9 +59,6 @@
   </url>
   <url>
     <loc>https://police.ucmerced.edu/complaints-report</loc>
-  </url>
-  <url>
-    <loc>https://police.ucmerced.edu/department-demographics</loc>
   </url>
   <url>
     <loc>https://police.ucmerced.edu/use-of-force-reports</loc>
@@ -280,6 +274,12 @@
     <loc>https://police.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://police.ucmerced.edu/data-dashboards</loc>
+  </url>
+  <url>
+    <loc>https://police.ucmerced.edu/department-demographics</loc>
+  </url>
+  <url>
     <loc>https://police.ucmerced.edu/sites/g/files/ufvvjh1446/f/page/documents/release_20251125_t134142_uc_merced_police_department_policy_manual_3.pdf</loc>
   </url>
   <url>
@@ -293,12 +293,6 @@
   </url>
   <url>
     <loc>https://police.ucmerced.edu/contact/complaints-commendations-faq</loc>
-  </url>
-  <url>
-    <loc>https://police.ucmerced.edu/contact-characteristics</loc>
-  </url>
-  <url>
-    <loc>https://police.ucmerced.edu/calls-for-service</loc>
   </url>
   <url>
     <loc>https://police.ucmerced.edu/sites/police.ucmerced.edu/files/page/documents/1080_001.pdf</loc>
@@ -317,6 +311,24 @@
   </url>
   <url>
     <loc>https://police.ucmerced.edu/sites/police.ucmerced.edu/files/documents/duress-alarm-app_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://police.ucmerced.edu/sites/g/files/ufvvjh1446/f/page/documents/dcl_10232026.pdf</loc>
+  </url>
+  <url>
+    <loc>https://police.ucmerced.edu/sites/g/files/ufvvjh1446/f/page/documents/dcl_10222026.pdf</loc>
+  </url>
+  <url>
+    <loc>https://police.ucmerced.edu/sites/g/files/ufvvjh1446/f/page/documents/102126.pdf</loc>
+  </url>
+  <url>
+    <loc>https://police.ucmerced.edu/sites/g/files/ufvvjh1446/f/page/documents/dcl_10202026.pdf</loc>
+  </url>
+  <url>
+    <loc>https://police.ucmerced.edu/sites/g/files/ufvvjh1446/f/page/documents/dcl_10192026.pdf</loc>
+  </url>
+  <url>
+    <loc>https://police.ucmerced.edu/sites/g/files/ufvvjh1446/f/page/documents/101826.pdf</loc>
   </url>
   <url>
     <loc>https://police.ucmerced.edu/sites/g/files/ufvvjh1446/f/page/documents/101726.pdf</loc>
@@ -1589,6 +1601,12 @@
   </url>
   <url>
     <loc>https://police.ucmerced.edu/daily-activity-logs/2016-02</loc>
+  </url>
+  <url>
+    <loc>https://police.ucmerced.edu/contact-characteristics</loc>
+  </url>
+  <url>
+    <loc>https://police.ucmerced.edu/calls-for-service</loc>
   </url>
   <url>
     <loc>https://police.ucmerced.edu/content/april-2024</loc>

@@ -37,9 +37,6 @@
     <loc>https://writingprogram.ucmerced.edu/mwp-students/karen-merritt-writing-fellowship</loc>
   </url>
   <url>
-    <loc>https://writingprogram.ucmerced.edu/resources</loc>
-  </url>
-  <url>
     <loc>https://writingprogram.ucmerced.edu/writingprogram.ucmerced.edu/publishingportal</loc>
   </url>
   <url>
@@ -52,6 +49,9 @@
     <loc>https://writingprogram.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>https://writingprogram.ucmerced.edu/resources</loc>
+  </url>
+  <url>
     <loc>https://writingprogram.ucmerced.edu/jbultena</loc>
   </url>
   <url>
@@ -62,9 +62,6 @@
   </url>
   <url>
     <loc>https://writingprogram.ucmerced.edu/malonso</loc>
-  </url>
-  <url>
-    <loc>https://writingprogram.ucmerced.edu/rantoine</loc>
   </url>
   <url>
     <loc>https://writingprogram.ucmerced.edu/hdevrick</loc>

@@ -25,9 +25,6 @@
     <loc>https://eecs.ucmerced.edu/people</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/faculty</loc>
-  </url>
-  <url>
     <loc>https://eecs.ucmerced.edu/alumni</loc>
   </url>
   <url>
@@ -58,6 +55,9 @@
     <loc>https://eecs.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://eecs.ucmerced.edu/faculty</loc>
+  </url>
+  <url>
     <loc>https://eecs.ucmerced.edu/sites/eecs.ucmerced.edu/files/documents/2023.04.19_eecs_policiesandprocedures_clean.pdf</loc>
   </url>
   <url>
@@ -70,88 +70,13 @@
     <loc>https://eecs.ucmerced.edu/eecs-seminars/previous-seminars</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/content/ahmed-sabbir-arif</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/miguel-carreira-perpi%C3%B1%C3%A1n</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/alberto-cerpa</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/santosh-chandrasekhar</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/eric-cheng</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/wan-du</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/giovanni-gonzalez-araujo</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/ross-greer</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/hua-huang</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/hyeran-jeon</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/gokcen-kestor-gioiosa</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/sarah-kurtz</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/angelo-kyrilov</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/changqing-li</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/dong-li</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/shawn-newsam</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/david-noelle</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/ayush-pandey</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/florin-rusu</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/mukesh-singhal</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/pengfei-su</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/meng-tang</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/qian-wang</loc>
+    <loc>https://eecs.ucmerced.edu/alumni_listing</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/ming-hsuan-yang</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/content/xiaofan-yu</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/ricardo-de-castro</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/paul-maglio</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/alumni_listing</loc>
+    <loc>https://eecs.ucmerced.edu/content/shawn-newsam</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/azar-alizadeh</loc>
@@ -169,6 +94,9 @@
     <loc>https://eecs.ucmerced.edu/content/varnika-chauhan</loc>
   </url>
   <url>
+    <loc>https://eecs.ucmerced.edu/content/yuning-chen</loc>
+  </url>
+  <url>
     <loc>https://eecs.ucmerced.edu/content/jianan-chen</loc>
   </url>
   <url>
@@ -176,9 +104,6 @@
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/yi-wen-chen</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/content/yuning-chen</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/annesha-dasgupta</loc>
@@ -209,6 +134,9 @@
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/sachin-giri</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/giovanni-gonzalez-araujo</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/suryabhan-singh-hada</loc>
@@ -250,19 +178,19 @@
     <loc>https://eecs.ucmerced.edu/content/haolin-liang</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/content/mao-lin</loc>
-  </url>
-  <url>
     <loc>https://eecs.ucmerced.edu/content/chieh-lin</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/content/miaomiao-liu</loc>
+    <loc>https://eecs.ucmerced.edu/content/mao-lin</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/jiawen-liu</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/jie-liu</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/miaomiao-liu</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/brian-matamet</loc>
@@ -277,10 +205,10 @@
     <loc>https://eecs.ucmerced.edu/content/laxmi-pandey</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/content/mohammad-partohaghighi</loc>
+    <loc>https://eecs.ucmerced.edu/content/mohammad-partohaghighi-0</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/content/mohammad-partohaghighi-0</loc>
+    <loc>https://eecs.ucmerced.edu/content/mohammad-partohaghighi</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/aditya-petety</loc>
@@ -374,6 +302,78 @@
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/sites/g/files/ufvvjh781/f/cv_pan.pdf</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/ahmed-sabbir-arif</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/miguel-carreira-perpi%C3%B1%C3%A1n</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/alberto-cerpa</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/santosh-chandrasekhar</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/eric-cheng</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/wan-du</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/ross-greer</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/hua-huang</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/hyeran-jeon</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/gokcen-kestor-gioiosa</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/sarah-kurtz</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/angelo-kyrilov</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/changqing-li</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/dong-li</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/david-noelle</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/ayush-pandey</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/florin-rusu</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/mukesh-singhal</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/pengfei-su</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/meng-tang</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/qian-wang</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/xiaofan-yu</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/ricardo-de-castro</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/paul-maglio</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/node/1621</loc>

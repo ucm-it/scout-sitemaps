@@ -58,9 +58,6 @@
     <loc>https://accessibility.ucmerced.edu/digital-accessibility/creating-content-checklists</loc>
   </url>
   <url>
-    <loc>https://accessibility.ucmerced.edu/digital-accessibility/yuja-panorama-accessibility-catcourse-platform</loc>
-  </url>
-  <url>
     <loc>https://accessibility.ucmerced.edu/website-accessibility-tips</loc>
   </url>
   <url>
@@ -103,6 +100,9 @@
     <loc>https://accessibility.ucmerced.edu/resources/policies-regulations</loc>
   </url>
   <url>
+    <loc>https://accessibility.ucmerced.edu/schedule-web-accessibility-consultation</loc>
+  </url>
+  <url>
     <loc>https://accessibility.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
@@ -110,6 +110,9 @@
   </url>
   <url>
     <loc>https://accessibility.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://accessibility.ucmerced.edu/digital-accessibility/yuja-panorama-accessibility-catcourse-platform</loc>
   </url>
   <url>
     <loc>https://accessibility.ucmerced.edu/digital-accessibility/tools-web-content-accessibility</loc>
@@ -151,12 +154,12 @@
     <loc>https://accessibility.ucmerced.edu/digital-accessibility/creating-content-checklists/writing-and-formatting-accessibility-checklist</loc>
   </url>
   <url>
-    <loc>https://accessibility.ucmerced.edu/digital-accessibility/converting-existing-documents-accessible-formats</loc>
-  </url>
-  <url>
     <loc>https://accessibility.ucmerced.edu/digital-accessibility/pdf-accessibility-guidance</loc>
   </url>
   <url>
     <loc>https://accessibility.ucmerced.edu/sites/g/files/ufvvjh296/f/page/documents/word_and_excel_templates.zip</loc>
+  </url>
+  <url>
+    <loc>https://accessibility.ucmerced.edu/digital-accessibility/converting-existing-documents-accessible-formats</loc>
   </url>
 </urlset>

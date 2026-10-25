@@ -49,13 +49,7 @@
     <loc>https://engineeringgrads.ucmerced.edu/incoming-students/english-language-evaluation-microteaching</loc>
   </url>
   <url>
-    <loc>https://engineeringgrads.ucmerced.edu/incoming-students/graduate-orientation-grow</loc>
-  </url>
-  <url>
     <loc>https://engineeringgrads.ucmerced.edu/incoming-students/hiring-procedures</loc>
-  </url>
-  <url>
-    <loc>https://engineeringgrads.ucmerced.edu/incoming-students/housing</loc>
   </url>
   <url>
     <loc>https://engineeringgrads.ucmerced.edu/incoming-students/lab-safety</loc>
@@ -158,6 +152,12 @@
   </url>
   <url>
     <loc>https://engineeringgrads.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://engineeringgrads.ucmerced.edu/incoming-students/graduate-orientation-grow</loc>
+  </url>
+  <url>
+    <loc>https://engineeringgrads.ucmerced.edu/incoming-students/housing</loc>
   </url>
   <url>
     <loc>https://engineeringgrads.ucmerced.edu/sites/engineeringgrads.ucmerced.edu/files/page/documents/phd_time_to_degree_-_qe_and_atc_0.pdf</loc>

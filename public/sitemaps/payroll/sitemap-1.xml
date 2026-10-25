@@ -82,9 +82,6 @@
     <loc>https://payroll.ucmerced.edu/contacts</loc>
   </url>
   <url>
-    <loc>https://payroll.ucmerced.edu/onboarding-actions</loc>
-  </url>
-  <url>
     <loc>https://payroll.ucmerced.edu/ucpath-portal-onboarding</loc>
   </url>
   <url>
@@ -104,6 +101,9 @@
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/payroll-systems/ucpath/w-2</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/onboarding-actions</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/i-9-acceptable-documents</loc>

@@ -22,9 +22,6 @@
     <loc>https://ih.ucmerced.edu/current-students</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/Program-Learning-Outcomes</loc>
-  </url>
-  <url>
     <loc>https://ih.ucmerced.edu/current-students/courses</loc>
   </url>
   <url>
@@ -73,13 +70,16 @@
     <loc>https://ih.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>https://ih.ucmerced.edu/news/2026/uc-merced-announces-2026-hellman-fellows</loc>
+  </url>
+  <url>
     <loc>https://ih.ucmerced.edu/news/2026/school-social-sciences-humanities-and-arts-faculty-named-five-endowed-chairs</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2026/chancellors-catalyst-awards-ignite-research-humanities-social-sciences</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2026/all-faculty-rock-band-cuts-album-uc-merced-recording-studio</loc>
+    <loc>https://ih.ucmerced.edu/Program-Learning-Outcomes</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/sites/ih.ucmerced.edu/files/documents/2024.07.19_ih_policiesandprocedures.pdf</loc>
@@ -178,10 +178,10 @@
     <loc>https://ih.ucmerced.edu/content/fatima-burney</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/content/gregg-camfield</loc>
+    <loc>https://ih.ucmerced.edu/content/eileen-camfield</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/content/eileen-camfield</loc>
+    <loc>https://ih.ucmerced.edu/content/gregg-camfield</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/content/aditi-chandra</loc>
@@ -439,6 +439,9 @@
     <loc>https://ih.ucmerced.edu/sites/ih.ucmerced.edu/files/page/documents/ih_newsletter_summer_2021.pdf</loc>
   </url>
   <url>
+    <loc>https://ih.ucmerced.edu/news/2026/all-faculty-rock-band-cuts-album-uc-merced-recording-studio</loc>
+  </url>
+  <url>
     <loc>https://ih.ucmerced.edu/news/2026/five-uc-merced-faculty-members-earn-early-career-research-awards</loc>
   </url>
   <url>
@@ -455,9 +458,6 @@
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2026/new-liberal-studies-major-expands-paths-degree-completion-and-future-teachers</loc>
-  </url>
-  <url>
-    <loc>https://ih.ucmerced.edu/news/2026/her-uc-merced-path-changed-stockton-student-stays-track</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news?page=1</loc>
@@ -583,6 +583,9 @@
     <loc>https://ih.ucmerced.edu/media-contact/lorena-anderson</loc>
   </url>
   <url>
+    <loc>https://ih.ucmerced.edu/news/2026/her-uc-merced-path-changed-stockton-student-stays-track</loc>
+  </url>
+  <url>
     <loc>https://ih.ucmerced.edu/news/2026/empathy-central-theme-todo-cambia-film-festival</loc>
   </url>
   <url>
@@ -685,10 +688,10 @@
     <loc>https://ih.ucmerced.edu/news/2024/cres-earns-mellon-grant-student-led-activities</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2024/youth-grapple-interpreting-unspoken-their-immigrant-families</loc>
+    <loc>https://ih.ucmerced.edu/news/2024/bobcat-art-show-puts-broad-range-creativity-display</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2024/bobcat-art-show-puts-broad-range-creativity-display</loc>
+    <loc>https://ih.ucmerced.edu/news/2024/youth-grapple-interpreting-unspoken-their-immigrant-families</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2024/7-women-honored-impact-uc-merced-community</loc>
@@ -730,19 +733,10 @@
     <loc>https://ih.ucmerced.edu/news/2023/new-major-trains-students-tell-planet%E2%80%99s-urgent-stories</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2023/how-tap-your-hispaniclatinx-heritage-uc-merced</loc>
-  </url>
-  <url>
     <loc>https://ih.ucmerced.edu/news?page=9</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2023/uc-support-continues-research-collaboration-between-irvine-santa-cruz-merced-campuses</loc>
-  </url>
-  <url>
-    <loc>https://ih.ucmerced.edu/news/2023/vang-and-hatton-publish-book-critical-refugee-studies</loc>
-  </url>
-  <url>
-    <loc>https://ih.ucmerced.edu/news/2023/shakes-publishes-women%E2%80%99s-activist-theatre-jamaica-and-south-africa-gender-race-and</loc>
+    <loc>https://ih.ucmerced.edu/news/2023/how-tap-your-hispaniclatinx-heritage-uc-merced</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2023/brokaw-publishes-book-shakespeare-and-community-performance</loc>
@@ -754,6 +748,15 @@
     <loc>https://ih.ucmerced.edu/news/2023/amussen-and-rodriguez-promoted-distinguished-professor</loc>
   </url>
   <url>
+    <loc>https://ih.ucmerced.edu/news/2023/uc-support-continues-research-collaboration-between-irvine-santa-cruz-merced-campuses</loc>
+  </url>
+  <url>
+    <loc>https://ih.ucmerced.edu/news/2023/vang-and-hatton-publish-book-critical-refugee-studies</loc>
+  </url>
+  <url>
+    <loc>https://ih.ucmerced.edu/news/2023/shakes-publishes-women%E2%80%99s-activist-theatre-jamaica-and-south-africa-gender-race-and</loc>
+  </url>
+  <url>
     <loc>https://ih.ucmerced.edu/news/2023/uc-merced-graduate-student-josiah-beharry-appointed-2024-25-uc-student-regent</loc>
   </url>
   <url>
@@ -763,10 +766,10 @@
     <loc>https://ih.ucmerced.edu/news/2023/campus-adds-new-areas-studies-students-choose</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2023/fellowship-will-allow-professor-continue-telling-impactful-stories</loc>
+    <loc>https://ih.ucmerced.edu/news?page=10</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news?page=10</loc>
+    <loc>https://ih.ucmerced.edu/news/2023/fellowship-will-allow-professor-continue-telling-impactful-stories</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2023/turn-page-camfield-why-it%E2%80%99s-time-bow-out</loc>
@@ -796,10 +799,10 @@
     <loc>https://ih.ucmerced.edu/news/2022/latinas-law-alumnae-advocate-immigrants-valley</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2022/peace-doesnt-come-sky-dalai-lama-advocates-togetherness-he-receives-spendlove-prize</loc>
+    <loc>https://ih.ucmerced.edu/news?page=11</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news?page=11</loc>
+    <loc>https://ih.ucmerced.edu/news/2022/peace-doesnt-come-sky-dalai-lama-advocates-togetherness-he-receives-spendlove-prize</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2022/dalai-lama-honored-15th-recipient-spendlove-prize</loc>
@@ -829,10 +832,10 @@
     <loc>https://ih.ucmerced.edu/news/2022/remembering-kindness-and-caring-jan-goggans</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2022/professors-film-earns-high-praise</loc>
+    <loc>https://ih.ucmerced.edu/news?page=12</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news?page=12</loc>
+    <loc>https://ih.ucmerced.edu/news/2015/alumnus-takes-trailblazing-spirit-washington</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2015/world-cultures-student-reconstructing-valley-history</loc>
@@ -961,6 +964,9 @@
     <loc>https://ih.ucmerced.edu/media-contact/patty-guerra</loc>
   </url>
   <url>
+    <loc>https://ih.ucmerced.edu/news/2022/professors-film-earns-high-praise</loc>
+  </url>
+  <url>
     <loc>https://ih.ucmerced.edu/news/2022/director-pre-law-studies-tackle-racism-sacramento-city-unified-school-district</loc>
   </url>
   <url>
@@ -988,10 +994,10 @@
     <loc>https://ih.ucmerced.edu/news/2021/trevor-and-katherine-albertson-create-new-fellowship-support-history-graduate-students</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2021/uc-merced-faculty-land-three-uc-hbcu-grants-most-system</loc>
+    <loc>https://ih.ucmerced.edu/news?page=13</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news?page=13</loc>
+    <loc>https://ih.ucmerced.edu/news/2021/uc-merced-faculty-land-three-uc-hbcu-grants-most-system</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2021/primer-grupo-comenzar%C3%A1-nuevo-programa-de-preparaci%C3%B3n-para-maestros-biling%C3%BCes</loc>
@@ -1021,13 +1027,13 @@
     <loc>https://ih.ucmerced.edu/news/2021/beyond-cinema-reviews-shared-professors-films-immigrants-and-refugees</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2021/uc-merced-alums-students-earn-prestigious-fellowships</loc>
-  </url>
-  <url>
     <loc>https://ih.ucmerced.edu/news?page=14</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/media-contact/juan-flores</loc>
+  </url>
+  <url>
+    <loc>https://ih.ucmerced.edu/news/2021/uc-merced-alums-students-earn-prestigious-fellowships</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2021/alicia-garza-civil-rights-activist-and-blm-co-founder-honored-spendlove-prize</loc>
@@ -1060,10 +1066,10 @@
     <loc>https://ih.ucmerced.edu/news?page=15</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2021/year-remember-uc-merced-made-most-2020</loc>
+    <loc>https://ih.ucmerced.edu/news/2021/uc-merced-looking-back-2020</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2021/uc-merced-looking-back-2020</loc>
+    <loc>https://ih.ucmerced.edu/news/2021/year-remember-uc-merced-made-most-2020</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2020/documentary-refugee-experience-premiere-uc-merced-and-abroad</loc>
@@ -1087,10 +1093,10 @@
     <loc>https://ih.ucmerced.edu/news/2020/whiting-fellowship-will-help-build-refugee-view-high-school-curricula</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2020/uc-merced-alum-takes-helm-lassen-community-college</loc>
+    <loc>https://ih.ucmerced.edu/news?page=16</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news?page=16</loc>
+    <loc>https://ih.ucmerced.edu/news/2015/event-connects-high-school-girls-female-scientists</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2015/standout-sociology-program-earns-approval-grad-degrees</loc>
@@ -1120,7 +1126,7 @@
     <loc>https://ih.ucmerced.edu/news/2015/student-examines-role-gender-perception-political-scandals</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2015/alumnus-takes-trailblazing-spirit-washington</loc>
+    <loc>https://ih.ucmerced.edu/news/2016/high-altitude-archaeology-uncovers-earliest-evidence-potato-consumption</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2016/massive-vr-system-links-merced-world</loc>
@@ -1150,9 +1156,6 @@
     <loc>https://ih.ucmerced.edu/news/2016/computational-training-expanding-uc-merced-through-new-grants</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2016/mind-and-body-join-robotics-new-research-project</loc>
-  </url>
-  <url>
     <loc>https://ih.ucmerced.edu/news?page=21</loc>
   </url>
   <url>
@@ -1163,6 +1166,9 @@
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news?page=20</loc>
+  </url>
+  <url>
+    <loc>https://ih.ucmerced.edu/news/2016/mind-and-body-join-robotics-new-research-project</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2016/young-students-glimpse-college-life-leadership</loc>
@@ -1228,10 +1234,10 @@
     <loc>https://ih.ucmerced.edu/news/2016/bodie-digital-preservation-project-earns-citris-grant</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2016/symposium-features-faculty-research-%E2%80%98developing-child%E2%80%99</loc>
+    <loc>https://ih.ucmerced.edu/news/2016/gradslam-champion-research-personal</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2016/gradslam-champion-research-personal</loc>
+    <loc>https://ih.ucmerced.edu/news/2016/symposium-features-faculty-research-%E2%80%98developing-child%E2%80%99</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2016/bobcat-day-brings-admitted-students-campus</loc>
@@ -1342,7 +1348,7 @@
     <loc>https://ih.ucmerced.edu/news/2015/costume-designer%E2%80%99s-career-captured-digital-collection</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2015/event-connects-high-school-girls-female-scientists</loc>
+    <loc>https://ih.ucmerced.edu/news/2020/uc-merced-alum-takes-helm-lassen-community-college</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/taxonomy/term/341/feed</loc>
@@ -1378,10 +1384,10 @@
     <loc>https://ih.ucmerced.edu/news/2019/undergrad-research-fuels-opportunities-grad-school-careers</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2019/class-2019-student-speakers-leave-uc-merced-messages-gratitude</loc>
+    <loc>https://ih.ucmerced.edu/news?page=17</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news?page=17</loc>
+    <loc>https://ih.ucmerced.edu/news/2019/class-2019-student-speakers-leave-uc-merced-messages-gratitude</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2019/soon-be-graduate-taps-diverse-opportunities-growth-uc-merced</loc>
@@ -1411,13 +1417,13 @@
     <loc>https://ih.ucmerced.edu/news/2019/ih-grad-con-showcase-student-presentations-speakers-and-interactive-sessions-0</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2019/%E2%80%98all-world%E2%80%99s-stage%E2%80%99-shakespeare-yosemite%E2%80%99s-3rd-annual-production</loc>
-  </url>
-  <url>
     <loc>https://ih.ucmerced.edu/taxonomy/term/1361/feed</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/media-contact/elizabeth-arakelian</loc>
+  </url>
+  <url>
+    <loc>https://ih.ucmerced.edu/news/2019/%E2%80%98all-world%E2%80%99s-stage%E2%80%99-shakespeare-yosemite%E2%80%99s-3rd-annual-production</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2019/future-heritage-and-cultures</loc>
@@ -1444,19 +1450,19 @@
     <loc>https://ih.ucmerced.edu/news/2018/grad-students-shine-international-humanities-stage</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2018/campus%E2%80%99-second-fulbright-student-scholar-prepares-homecoming</loc>
-  </url>
-  <url>
     <loc>https://ih.ucmerced.edu/media-contact/michelle-morgante</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2018/perseverance-leadership-key-themes-campus%E2%80%99-spring-commencement-1</loc>
+    <loc>https://ih.ucmerced.edu/news/2018/campus%E2%80%99-second-fulbright-student-scholar-prepares-homecoming</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2018/perseverance-leadership-key-themes-campus%E2%80%99-spring-commencement</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2018/perseverance-leadership-key-themes-campus%E2%80%99-spring-commencement-0</loc>
+  </url>
+  <url>
+    <loc>https://ih.ucmerced.edu/news/2018/perseverance-leadership-key-themes-campus%E2%80%99-spring-commencement-1</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2018/new-scholarship-pays-homage-persistence-and-research</loc>
@@ -1477,13 +1483,13 @@
     <loc>https://ih.ucmerced.edu/news/2018/lecturer-honored-new-book-pedagogy</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2018/campus-voices-join-us-advocacy-humanities-research-funding</loc>
-  </url>
-  <url>
-    <loc>https://ih.ucmerced.edu/news/2017/campus-provides-%E2%80%98inclusive-excellence%E2%80%99-dialogue-activities</loc>
+    <loc>https://ih.ucmerced.edu/news/2017/study-infants-recognize-surprise-others-age-2</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2017/artist-residence-brings-theories-flight-classroom-community</loc>
+  </url>
+  <url>
+    <loc>https://ih.ucmerced.edu/news/2017/campus-provides-%E2%80%98inclusive-excellence%E2%80%99-dialogue-activities</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2017/cognitive-scientist-earns-early-career-impact-award</loc>
@@ -1507,7 +1513,7 @@
     <loc>https://ih.ucmerced.edu/news/2016/revolutionary-theatre-performance-explore-racism-inequality</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2016/high-altitude-archaeology-uncovers-earliest-evidence-potato-consumption</loc>
+    <loc>https://ih.ucmerced.edu/news/2017/researchers-take-cognitive-science-buddhist-monks</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2017/indigenous-activist-winona-laduke-wins-spendlove-prize</loc>
@@ -1534,10 +1540,10 @@
     <loc>https://ih.ucmerced.edu/news/2017/researchers-eye-social-media%E2%80%99s-influence-relationships-stress</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2017/new-study-finds-link-between-unconscious-movement-and-reading</loc>
+    <loc>https://ih.ucmerced.edu/news/2017/blum-center-announces-2017-seed-grant-recipients</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2017/blum-center-announces-2017-seed-grant-recipients</loc>
+    <loc>https://ih.ucmerced.edu/news/2017/new-study-finds-link-between-unconscious-movement-and-reading</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2017/former-asucm-president-gaining-capitol-experience</loc>
@@ -1567,9 +1573,6 @@
     <loc>https://ih.ucmerced.edu/news/2017/pesquisador-do-programa-fulbright-em-busca-de-ci%C3%AAncia-perdida-no-brasil</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2017/fulbright-scholar-search-%E2%80%98lost-science%E2%80%99-brazil</loc>
-  </url>
-  <url>
     <loc>https://ih.ucmerced.edu/news/2017/uc-merced-national-park-service-present-shakespeare-yosemite</loc>
   </url>
   <url>
@@ -1597,13 +1600,10 @@
     <loc>https://ih.ucmerced.edu/news/2017/cancer-patients%E2%80%99-care-requires-more-written-instructions</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2017/study-infants-recognize-surprise-others-age-2</loc>
-  </url>
-  <url>
     <loc>https://ih.ucmerced.edu/taxonomy/term/1341/feed</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/media-contact/kenneth-mashinchi</loc>
+    <loc>https://ih.ucmerced.edu/news/2018/campus-voices-join-us-advocacy-humanities-research-funding</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/news/2018/local-ghost-town%E2%80%99s-past-display-new-collaborative-exhibit</loc>
@@ -1633,7 +1633,7 @@
     <loc>https://ih.ucmerced.edu/news/2017/artists-making-their-marks-and-campus</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/news/2017/researchers-take-cognitive-science-buddhist-monks</loc>
+    <loc>https://ih.ucmerced.edu/media-contact/kenneth-mashinchi</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/taxonomy/term/401/feed</loc>
@@ -1699,13 +1699,13 @@
     <loc>http://ih.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>http://ih.ucmerced.edu/news/2026/uc-merced-announces-2026-hellman-fellows</loc>
+  </url>
+  <url>
     <loc>http://ih.ucmerced.edu/news/2026/school-social-sciences-humanities-and-arts-faculty-named-five-endowed-chairs</loc>
   </url>
   <url>
     <loc>http://ih.ucmerced.edu/news/2026/chancellors-catalyst-awards-ignite-research-humanities-social-sciences</loc>
-  </url>
-  <url>
-    <loc>http://ih.ucmerced.edu/news/2026/all-faculty-rock-band-cuts-album-uc-merced-recording-studio</loc>
   </url>
   <url>
     <loc>http://ih.ucmerced.edu/contact-us</loc>
@@ -1741,10 +1741,10 @@
     <loc>http://ih.ucmerced.edu/content/fatima-burney</loc>
   </url>
   <url>
-    <loc>http://ih.ucmerced.edu/content/gregg-camfield</loc>
+    <loc>http://ih.ucmerced.edu/content/eileen-camfield</loc>
   </url>
   <url>
-    <loc>http://ih.ucmerced.edu/content/eileen-camfield</loc>
+    <loc>http://ih.ucmerced.edu/content/gregg-camfield</loc>
   </url>
   <url>
     <loc>http://ih.ucmerced.edu/content/aditi-chandra</loc>
@@ -2051,6 +2051,9 @@
   </url>
   <url>
     <loc>http://ih.ucmerced.edu/taxonomy/term/1751/feed</loc>
+  </url>
+  <url>
+    <loc>http://ih.ucmerced.edu/news/2026/all-faculty-rock-band-cuts-album-uc-merced-recording-studio</loc>
   </url>
   <url>
     <loc>http://ih.ucmerced.edu/news/2026/exhibit-traces-heartbeat-merced-through-sound</loc>

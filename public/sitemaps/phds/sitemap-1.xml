@@ -37,9 +37,6 @@
     <loc>https://phds.ucmerced.edu/research-support/equipment-checkouts</loc>
   </url>
   <url>
-    <loc>https://phds.ucmerced.edu/research-support/funding-opportunities</loc>
-  </url>
-  <url>
     <loc>https://phds.ucmerced.edu/services/open-hours</loc>
   </url>
   <url>
@@ -119,6 +116,9 @@
   </url>
   <url>
     <loc>https://phds.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://phds.ucmerced.edu/research-support/funding-opportunities</loc>
   </url>
   <url>
     <loc>https://phds.ucmerced.edu/form/phds-room-reservation-form</loc>

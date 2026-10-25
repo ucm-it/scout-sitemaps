@@ -205,9 +205,6 @@
     <loc>https://fraternitysorority.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://fraternitysorority.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
     <loc>http://fraternitysorority.ucmerced.edu/about</loc>
   </url>
   <url>
@@ -418,21 +415,6 @@
     <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/fsc_master_budget_16-17_0.pdf</loc>
   </url>
   <url>
-    <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/fsc_bylaws_updated_12319.pdf</loc>
-  </url>
-  <url>
-    <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/fsc_bylaws_2018_approved.pdf</loc>
-  </url>
-  <url>
-    <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/fsc_bylaws_2017_approved.pdf</loc>
-  </url>
-  <url>
-    <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/fsc_constitution_2-7-15.pdf</loc>
-  </url>
-  <url>
-    <loc>https://fraternitysorority.ucmerced.edu/chapters-councils/fraternity-sorority-council/fraternity-chapters/omega-delta-phi-fraternity-inc</loc>
-  </url>
-  <url>
     <loc>https://fraternitysorority.ucmerced.edu/who-we-are/social-greek-chapters/expansion-chapters/delta-sigma-theta</loc>
   </url>
   <url>
@@ -466,7 +448,7 @@
     <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/pfc_constitution_11.15.16.pdf</loc>
   </url>
   <url>
-    <loc>https://fraternitysorority.ucmerced.edu/who-we-are/professional-greek-chapters/phi-alpha-delta</loc>
+    <loc>http://fraternitysorority.ucmerced.edu/who-we-are/professional-greek-chapters/phi-alpha-delta</loc>
   </url>
   <url>
     <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/npc_logistical_recruitment_rules_spring_2020.pdf</loc>
@@ -511,7 +493,37 @@
     <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/pnm_rights_and_responsibilities_2018_0.docx</loc>
   </url>
   <url>
-    <loc>http://fraternitysorority.ucmerced.edu/how-join/expansion-forming-new-chapters/nphc-expansion</loc>
+    <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/letter_to_community_02.13.20.pdf</loc>
+  </url>
+  <url>
+    <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/updated_uc_merced_nphc_expansion_announcement.pdf</loc>
+  </url>
+  <url>
+    <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/updated_uc_merced_nphc_expansion_notice_fall_2019.pdf</loc>
+  </url>
+  <url>
+    <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/updated_ucm_fsl_nphc_expansion_procedures_final_2019.pdf</loc>
+  </url>
+  <url>
+    <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/new_colony_chapter_expectations_2019_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/ucm_fsl_expansion_procedures_spring_2016.pdf</loc>
+  </url>
+  <url>
+    <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/fraternity_sorority_handbook_-_2017-2018_final_1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/fsc_bylaws_2018_approved_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/professional_fraternity_recruitment_rules_2018-2019_revised_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/student_handbook_finalized.pdf</loc>
+  </url>
+  <url>
+    <loc>https://fraternitysorority.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://fraternitysorority.ucmerced.edu/sites/fraternitysorority.ucmerced.edu/files/page/documents/ucm_fraternity_and_sorority_life_expectations_of_recognition_2023-2024_0.pdf</loc>

@@ -49,16 +49,7 @@
     <loc>https://taps.ucmerced.edu/transportation/amtrak</loc>
   </url>
   <url>
-    <loc>https://taps.ucmerced.edu/transportation/micromobility</loc>
-  </url>
-  <url>
-    <loc>https://taps.ucmerced.edu/transportation/north-transit-hub</loc>
-  </url>
-  <url>
     <loc>https://taps.ucmerced.edu/permits</loc>
-  </url>
-  <url>
-    <loc>https://taps.ucmerced.edu/permits/students</loc>
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/permits/students/commuter</loc>
@@ -193,6 +184,15 @@
     <loc>https://taps.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://taps.ucmerced.edu/transportation/micromobility</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/transportation/north-transit-hub</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/permits/students</loc>
+  </url>
+  <url>
     <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/meeting_minutes_feb.pdf</loc>
   </url>
   <url>
@@ -284,9 +284,6 @@
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/gold_runner_student_discount_flyer.jpg</loc>
-  </url>
-  <url>
-    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/page/documents/ucm_policy_micromobility_escooter_ebike.pdf</loc>
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/lprprocedures_2.pdf</loc>
@@ -383,6 +380,9 @@
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/page/documents/cart_pickup_map_june_2026.pdf</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/page/documents/ucm_policy_micromobility_escooter_ebike.pdf</loc>
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/page/documents/bobcatexpress.pdf</loc>

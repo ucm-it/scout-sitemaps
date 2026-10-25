@@ -58,9 +58,6 @@
     <loc>https://policy.ucmerced.edu/addressing-feedback</loc>
   </url>
   <url>
-    <loc>https://policy.ucmerced.edu/policy-reviews</loc>
-  </url>
-  <url>
     <loc>https://policy.ucmerced.edu/review-existing</loc>
   </url>
   <url>
@@ -74,9 +71,6 @@
   </url>
   <url>
     <loc>https://policy.ucmerced.edu/systemwide-policy</loc>
-  </url>
-  <url>
-    <loc>https://policy.ucmerced.edu/governance-policy-delegation</loc>
   </url>
   <url>
     <loc>https://policy.ucmerced.edu/about-us</loc>
@@ -95,5 +89,11 @@
   </url>
   <url>
     <loc>https://policy.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://policy.ucmerced.edu/policy-reviews</loc>
+  </url>
+  <url>
+    <loc>https://policy.ucmerced.edu/governance-policy-delegation</loc>
   </url>
 </urlset>

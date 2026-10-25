@@ -22,9 +22,6 @@
     <loc>https://chemistry.ucmerced.edu/research/physical-chemistry</loc>
   </url>
   <url>
-    <loc>https://chemistry.ucmerced.edu/research/theoretical-chemistry</loc>
-  </url>
-  <url>
     <loc>https://chemistry.ucmerced.edu/academics/graduate-programs</loc>
   </url>
   <url>
@@ -107,6 +104,9 @@
   </url>
   <url>
     <loc>https://chemistry.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://chemistry.ucmerced.edu/research/theoretical-chemistry</loc>
   </url>
   <url>
     <loc>https://chemistry.ucmerced.edu/sites/g/files/ufvvjh611/f/page/documents/2023.05.04_chemistry_and_biochemistry_policiesandprocedures_clean.pdf</loc>
@@ -355,13 +355,13 @@
     <loc>https://chemistry.ucmerced.edu/content/anjan-maity</loc>
   </url>
   <url>
+    <loc>https://chemistry.ucmerced.edu/content/darwin-martinez</loc>
+  </url>
+  <url>
     <loc>https://chemistry.ucmerced.edu/content/katherina-martinez</loc>
   </url>
   <url>
     <loc>https://chemistry.ucmerced.edu/content/isabella-martinez</loc>
-  </url>
-  <url>
-    <loc>https://chemistry.ucmerced.edu/content/darwin-martinez</loc>
   </url>
   <url>
     <loc>https://chemistry.ucmerced.edu/content/kyle-meyer</loc>
@@ -548,6 +548,9 @@
   </url>
   <url>
     <loc>https://chemistry.ucmerced.edu/sites/g/files/ufvvjh611/f/page/documents/chun-long_chen_seminar_flyer.pdf</loc>
+  </url>
+  <url>
+    <loc>https://chemistry.ucmerced.edu/sites/g/files/ufvvjh611/f/page/documents/xiaoqing_pan_seminar_flyer.pdf</loc>
   </url>
   <url>
     <loc>https://chemistry.ucmerced.edu/events-seminars/conferences/advances-electronic-structure-theory-and-dynamics</loc>
@@ -799,10 +802,10 @@
     <loc>https://chemistry.ucmerced.edu/news/2023/cheer-campus%E2%80%99s-10-grad-slam-finalists-april-10</loc>
   </url>
   <url>
-    <loc>https://chemistry.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
+    <loc>https://chemistry.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
   </url>
   <url>
-    <loc>https://chemistry.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
+    <loc>https://chemistry.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
   </url>
   <url>
     <loc>https://chemistry.ucmerced.edu/news/2023/student-researchers-working-national-lab-mercury-remediation</loc>
@@ -817,10 +820,10 @@
     <loc>https://chemistry.ucmerced.edu/news/2022/new-faculty-highlight-dr-henrik-larsson</loc>
   </url>
   <url>
-    <loc>https://chemistry.ucmerced.edu/news/2022/uc-merced-lands-125m-nsf-grant-predict-impact-climate-change-symbiotic-systems</loc>
+    <loc>https://chemistry.ucmerced.edu/news/2022/uc-merced-lands-125m-nsf-grant-predict-impact-climate-change-symbiotic-systems-0</loc>
   </url>
   <url>
-    <loc>https://chemistry.ucmerced.edu/news/2022/uc-merced-lands-125m-nsf-grant-predict-impact-climate-change-symbiotic-systems-0</loc>
+    <loc>https://chemistry.ucmerced.edu/news/2022/uc-merced-lands-125m-nsf-grant-predict-impact-climate-change-symbiotic-systems</loc>
   </url>
   <url>
     <loc>https://chemistry.ucmerced.edu/news/2022/professor-michelle-leslie-acknowledged-sns-award</loc>
@@ -1213,10 +1216,10 @@
     <loc>https://chemistry.ucmerced.edu/news/2016/student-laura-showalter-commited-excellence</loc>
   </url>
   <url>
-    <loc>https://chemistry.ucmerced.edu/news/2016/new-supercomputing-cluster-expand-campus-capabilities</loc>
+    <loc>https://chemistry.ucmerced.edu/news/2016/professor-ben-stokes-publishes-new-research-jacs</loc>
   </url>
   <url>
-    <loc>https://chemistry.ucmerced.edu/news/2016/professor-ben-stokes-publishes-new-research-jacs</loc>
+    <loc>https://chemistry.ucmerced.edu/news/2016/new-supercomputing-cluster-expand-campus-capabilities</loc>
   </url>
   <url>
     <loc>https://chemistry.ucmerced.edu/news/2016/bad-break-left-alum-questions-uc-merced-answered</loc>

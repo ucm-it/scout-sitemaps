@@ -19,9 +19,6 @@
     <loc>https://dc.ucmerced.edu/projects-0</loc>
   </url>
   <url>
-    <loc>https://dc.ucmerced.edu/construction</loc>
-  </url>
-  <url>
     <loc>https://dc.ucmerced.edu/projects/active-projects/classroom-and-office-building-3</loc>
   </url>
   <url>
@@ -41,9 +38,6 @@
   </url>
   <url>
     <loc>https://dc.ucmerced.edu/projects/administrative-buildings/downtown-campus-center</loc>
-  </url>
-  <url>
-    <loc>https://dc.ucmerced.edu/projects/completed-academic-projects</loc>
   </url>
   <url>
     <loc>https://dc.ucmerced.edu/projects/academic-research-buildings/arts-computational-sciences</loc>
@@ -164,6 +158,12 @@
   </url>
   <url>
     <loc>https://dc.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/construction</loc>
+  </url>
+  <url>
+    <loc>https://dc.ucmerced.edu/projects/completed-academic-projects</loc>
   </url>
   <url>
     <loc>https://dc.ucmerced.edu/sites/g/files/ufvvjh706/f/page/documents/ucm_how_to_guides.pdf</loc>

@@ -37,13 +37,13 @@
     <loc>https://it.ucmerced.edu/CIRT</loc>
   </url>
   <url>
+    <loc>https://it.ucmerced.edu/news/2026/box-sync-being-retired-%E2%80%94-move-box-drive</loc>
+  </url>
+  <url>
     <loc>https://it.ucmerced.edu/news/2026/catcourses-outage-57</loc>
   </url>
   <url>
     <loc>https://it.ucmerced.edu/news/2026/update-digital-accessibility-requirements-and-timeline</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/news/2026/duo-new-device-minimum</loc>
   </url>
   <url>
     <loc>https://it.ucmerced.edu/Incident</loc>
@@ -52,10 +52,10 @@
     <loc>https://it.ucmerced.edu/service-desk</loc>
   </url>
   <url>
-    <loc>https://it.ucmerced.edu/internal-use-only-act-and-oit-only</loc>
+    <loc>https://it.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://it.ucmerced.edu/contact-us</loc>
+    <loc>https://it.ucmerced.edu/internal-use-only-act-and-oit-only</loc>
   </url>
   <url>
     <loc>https://it.ucmerced.edu/sites/g/files/ufvvjh1126/f/page/documents/oit_access_to_student_data_v1.1.pdf</loc>
@@ -175,6 +175,9 @@
     <loc>https://it.ucmerced.edu/security-people</loc>
   </url>
   <url>
+    <loc>https://it.ucmerced.edu/news/2026/duo-new-device-minimum</loc>
+  </url>
+  <url>
     <loc>https://it.ucmerced.edu/news/2026/first-accessibility-town-hall-recording-live</loc>
   </url>
   <url>
@@ -191,9 +194,6 @@
   </url>
   <url>
     <loc>https://it.ucmerced.edu/news/2026/campus-computer-lab-grand-re-opening</loc>
-  </url>
-  <url>
-    <loc>https://it.ucmerced.edu/news/2025/changes-2-factor-authentication-2fa</loc>
   </url>
   <url>
     <loc>https://it.ucmerced.edu/teaching_with_tech</loc>

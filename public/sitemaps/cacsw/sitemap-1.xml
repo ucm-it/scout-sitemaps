@@ -25,9 +25,6 @@
     <loc>https://cacsw.ucmerced.edu/about-us/other-campuses</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/node/39</loc>
-  </url>
-  <url>
     <loc>https://cacsw.ucmerced.edu/campus-resources/campus-departments-and-offices</loc>
   </url>
   <url>
@@ -35,9 +32,6 @@
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/campus-resources/campus-statistics</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/campus-resources/policies</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/resources/interesting-reads</loc>
@@ -100,16 +94,22 @@
     <loc>https://cacsw.ucmerced.edu/womxn-spotlight/sora-kim</loc>
   </url>
   <url>
+    <loc>https://cacsw.ucmerced.edu/news/2026/uc-merced-poised-go-further-chancellor-says-state-university-address</loc>
+  </url>
+  <url>
     <loc>https://cacsw.ucmerced.edu/news/2026/author-brings-larry-itliongs-legacy-home-valley-uc-merced-filipino-american-history-month</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/news/2026/uc-merced-pilots-summer-investment-academy-help-students-build-skills-connections</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/news/2026/uc-merced-gets-down-business-hsi-battle-brains</loc>
+    <loc>https://cacsw.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://cacsw.ucmerced.edu/rss.xml</loc>
+    <loc>https://cacsw.ucmerced.edu/node/39</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/campus-resources/policies</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/content/estee-beck</loc>
@@ -205,13 +205,13 @@
     <loc>https://cacsw.ucmerced.edu/events/apply-now-uc-womens-initiative-professional-development</loc>
   </url>
   <url>
+    <loc>https://cacsw.ucmerced.edu/media-contact/jody-murray</loc>
+  </url>
+  <url>
     <loc>https://cacsw.ucmerced.edu/media-contact/alyssa-johansen</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/media-contact/brenda-ortiz</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/media-contact/jody-murray</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/cacsw-position/general-membership</loc>
@@ -221,6 +221,36 @@
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/sites/cacsw.ucmerced.edu/files/event/documents/ht_janfilm_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/news/2026/uc-merced-gets-down-business-hsi-battle-brains</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/news/2026/new-dean-students-reflects-art-listening-power-family</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/news/2026/big-smiles-big-collection-new-bobcats-scholars-bridge-crossing</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/news/2026/chancellors-catalyst-awards-ignite-research-humanities-social-sciences</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/news/2026/bobcat-day-students-explore-opportunities-picture-their-futures</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/news/2026/new-liberal-studies-major-expands-paths-degree-completion-and-future-teachers</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/news/2026/empathy-central-theme-todo-cambia-film-festival</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/news/2025/fall-commencement-graduates-urged-write-their-own-story</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/news/2025/20-years-uc-merced-celebrates-achievements-looks-future</loc>
+  </url>
+  <url>
+    <loc>https://cacsw.ucmerced.edu/taxonomy/term/1411/feed</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/news/2026/uc-merced-campos-foundation-deepen-commitment-underrepresented-stem-students</loc>
@@ -281,36 +311,6 @@
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/taxonomy/term/78/feed</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/news/2026/new-dean-students-reflects-art-listening-power-family</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/news/2026/big-smiles-big-collection-new-bobcats-scholars-bridge-crossing</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/news/2026/chancellors-catalyst-awards-ignite-research-humanities-social-sciences</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/news/2026/bobcat-day-students-explore-opportunities-picture-their-futures</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/news/2026/new-liberal-studies-major-expands-paths-degree-completion-and-future-teachers</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/news/2026/empathy-central-theme-todo-cambia-film-festival</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/news/2025/fall-commencement-graduates-urged-write-their-own-story</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/news/2025/20-years-uc-merced-celebrates-achievements-looks-future</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/news/2025/open-arms-open-skies-students-welcomed-spirited-soggy-scholars-bridge-crossing</loc>
-  </url>
-  <url>
-    <loc>https://cacsw.ucmerced.edu/taxonomy/term/1411/feed</loc>
   </url>
   <url>
     <loc>https://cacsw.ucmerced.edu/taxonomy/term/18/feed</loc>

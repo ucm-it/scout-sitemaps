@@ -31,13 +31,7 @@
     <loc>https://alumni.ucmerced.edu/mymerced</loc>
   </url>
   <url>
-    <loc>https://alumni.ucmerced.edu/traditions/class-gift</loc>
-  </url>
-  <url>
     <loc>https://alumni.ucmerced.edu/alumni-regent</loc>
-  </url>
-  <url>
-    <loc>https://alumni.ucmerced.edu/form/contact-us</loc>
   </url>
   <url>
     <loc>http://alumni.ucmerced.edu/update</loc>
@@ -46,10 +40,16 @@
     <loc>https://alumni.ucmerced.edu/events/bobcat-day-2027</loc>
   </url>
   <url>
-    <loc>https://alumni.ucmerced.edu/rss.xml</loc>
+    <loc>https://alumni.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://alumni.ucmerced.edu/contact-us</loc>
+    <loc>https://alumni.ucmerced.edu/traditions/class-gift</loc>
+  </url>
+  <url>
+    <loc>https://alumni.ucmerced.edu/form/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://alumni.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
     <loc>https://alumni.ucmerced.edu/sites/alumni.ucmerced.edu/files/page/documents/ucmaa_board_constitution_4.17.20_1.pdf</loc>
@@ -100,9 +100,6 @@
     <loc>https://alumni.ucmerced.edu/sites/alumni.ucmerced.edu/files/page/documents/uc_merced_alumni_regent_bylaws_-_april_2021.pdf</loc>
   </url>
   <url>
-    <loc>https://alumni.ucmerced.edu/update</loc>
-  </url>
-  <url>
     <loc>http://alumni.ucmerced.edu/</loc>
   </url>
   <url>
@@ -137,6 +134,9 @@
   </url>
   <url>
     <loc>http://alumni.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://alumni.ucmerced.edu/update</loc>
   </url>
   <url>
     <loc>https://alumni.ucmerced.edu/sites/g/files/ufvvjh366/f/page/documents/10.18.25_-_ucmaa_board_meeting_minutes.pdf</loc>

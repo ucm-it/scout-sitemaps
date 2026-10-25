@@ -25,13 +25,7 @@
     <loc>https://care.ucmerced.edu/support-services/sexual-assault-forensic-exam</loc>
   </url>
   <url>
-    <loc>https://care.ucmerced.edu/support-services/contact-advocate</loc>
-  </url>
-  <url>
     <loc>https://care.ucmerced.edu/violence-prevention-resources</loc>
-  </url>
-  <url>
-    <loc>https://care.ucmerced.edu/resources/reporting-options</loc>
   </url>
   <url>
     <loc>https://care.ucmerced.edu/resources/care-glossary</loc>
@@ -133,6 +127,12 @@
     <loc>https://care.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://care.ucmerced.edu/support-services/contact-advocate</loc>
+  </url>
+  <url>
+    <loc>https://care.ucmerced.edu/resources/reporting-options</loc>
+  </url>
+  <url>
     <loc>https://care.ucmerced.edu/content/sol-gonzalez-rivas-sheherella</loc>
   </url>
   <url>
@@ -160,7 +160,7 @@
     <loc>https://care.ucmerced.edu/content/aniela-vargas-sheher</loc>
   </url>
   <url>
-    <loc>https://care.ucmerced.edu/sites/g/files/ufvvjh511/f/page/documents/resources_referals_25_final.pdf</loc>
+    <loc>https://care.ucmerced.edu/sites/care.ucmerced.edu/files/documents/resource_referral_23-24.pdf</loc>
   </url>
   <url>
     <loc>https://care.ucmerced.edu/sites/g/files/ufvvjh511/f/page/documents/care_glossary_english_0.pdf</loc>
@@ -365,6 +365,9 @@
   </url>
   <url>
     <loc>http://care.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://care.ucmerced.edu/sites/g/files/ufvvjh511/f/page/documents/resources_referals_25_final.pdf</loc>
   </url>
   <url>
     <loc>https://care.ucmerced.edu/sites/care.ucmerced.edu/files/documents/supporting_survivors_-_step_by_step_guide_1.pdf</loc>

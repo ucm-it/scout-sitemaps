@@ -46,9 +46,6 @@
     <loc>https://supplychain.ucmerced.edu/procurement/amazon-business/account-registration</loc>
   </url>
   <url>
-    <loc>https://supplychain.ucmerced.edu/procurement/amazon-business/amazon-business-faq</loc>
-  </url>
-  <url>
     <loc>https://supplychain.ucmerced.edu/contracts/contracting-out-services</loc>
   </url>
   <url>
@@ -59,9 +56,6 @@
   </url>
   <url>
     <loc>https://supplychain.ucmerced.edu/procurement/policies-and-guidelines</loc>
-  </url>
-  <url>
-    <loc>https://supplychain.ucmerced.edu/procurement/independent-contractors</loc>
   </url>
   <url>
     <loc>https://supplychain.ucmerced.edu/procurement/commodity-specific-guidance</loc>
@@ -212,6 +206,12 @@
   </url>
   <url>
     <loc>https://supplychain.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://supplychain.ucmerced.edu/procurement/amazon-business/amazon-business-faq</loc>
+  </url>
+  <url>
+    <loc>https://supplychain.ucmerced.edu/procurement/independent-contractors</loc>
   </url>
   <url>
     <loc>https://supplychain.ucmerced.edu/news/2026/uc-travel-update-student-rental-car-reservations</loc>

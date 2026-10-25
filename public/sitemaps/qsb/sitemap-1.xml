@@ -34,9 +34,6 @@
     <loc>https://qsb.ucmerced.edu/join-us/program-information</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/join-us/qsb-degrees</loc>
-  </url>
-  <url>
     <loc>https://qsb.ucmerced.edu/join-us/qsb-degrees/ctb-concentration</loc>
   </url>
   <url>
@@ -56,9 +53,6 @@
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/current-students/courses</loc>
-  </url>
-  <url>
-    <loc>https://qsb.ucmerced.edu/current-students/masters-program</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/current-students/phd-program</loc>
@@ -151,6 +145,12 @@
     <loc>https://qsb.ucmerced.edu/news/2026/healer-shaped-valley-and-devoted-its-future</loc>
   </url>
   <url>
+    <loc>https://qsb.ucmerced.edu/join-us/qsb-degrees</loc>
+  </url>
+  <url>
+    <loc>https://qsb.ucmerced.edu/current-students/masters-program</loc>
+  </url>
+  <url>
     <loc>https://qsb.ucmerced.edu/who-we-are/previous-service</loc>
   </url>
   <url>
@@ -158,12 +158,6 @@
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/sites/g/files/ufvvjh1506/f/documents/stipend_policy08_version_3_2009_jan_21_clean.pdf</loc>
-  </url>
-  <url>
-    <loc>https://qsb.ucmerced.edu/sites/g/files/ufvvjh1506/f/documents/qsb_ms_thesistrack.pdf</loc>
-  </url>
-  <url>
-    <loc>https://qsb.ucmerced.edu/sites/g/files/ufvvjh1506/f/documents/qsb_masters_course.pdf</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/sites/g/files/ufvvjh1506/f/page/documents/qsb_phdtrack.pdf</loc>
@@ -472,7 +466,13 @@
     <loc>https://qsb.ucmerced.edu/sites/g/files/ufvvjh1506/f/page/documents/qsb_seminar_science_communications_panel_flyer_0.pdf</loc>
   </url>
   <url>
+    <loc>https://qsb.ucmerced.edu/sites/g/files/ufvvjh1506/f/page/documents/elizabeth_crone_seminar_flyer.pdf</loc>
+  </url>
+  <url>
     <loc>https://qsb.ucmerced.edu/sites/g/files/ufvvjh1506/f/page/documents/didier_stainier_qsb_seminar_flyer.pdf</loc>
+  </url>
+  <url>
+    <loc>https://qsb.ucmerced.edu/sites/g/files/ufvvjh1506/f/page/documents/jennifer_pett-ridge_qsb_seminar_flyer.pdf</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/sites/g/files/ufvvjh1506/f/documents/qsb_retreat_final.pdf</loc>
@@ -533,6 +533,12 @@
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/media-contact/alyssa-johansen</loc>
+  </url>
+  <url>
+    <loc>https://qsb.ucmerced.edu/sites/g/files/ufvvjh1506/f/documents/qsb_ms_thesistrack.pdf</loc>
+  </url>
+  <url>
+    <loc>https://qsb.ucmerced.edu/sites/g/files/ufvvjh1506/f/documents/qsb_masters_course.pdf</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/taxonomy/term/1681/feed</loc>
@@ -688,10 +694,10 @@
     <loc>https://qsb.ucmerced.edu/news/2023/cheer-campus%E2%80%99s-10-grad-slam-finalists-april-10</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
+    <loc>https://qsb.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
+    <loc>https://qsb.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/news/2023/student-researchers-working-national-lab-mercury-remediation</loc>
@@ -823,10 +829,10 @@
     <loc>https://qsb.ucmerced.edu/news/2015/fellowship-funds-undergrad%E2%80%99s-research-biofilms</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/news/2015/professor-helps-identify-new-giant-galapagos-tortoise-species</loc>
+    <loc>https://qsb.ucmerced.edu/news/2015/professor-helps-identify-new-giant-galapagos-tortoise-species-0</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/news/2015/professor-helps-identify-new-giant-galapagos-tortoise-species-0</loc>
+    <loc>https://qsb.ucmerced.edu/news/2015/professor-helps-identify-new-giant-galapagos-tortoise-species</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/news/2015/event-connects-high-school-girls-female-scientists-0</loc>
@@ -1495,10 +1501,13 @@
     <loc>https://qsb.ucmerced.edu/news/2019/biodiversity-study-indicates-large-and-small-organisms-react-similarly-environment</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/news/2019/valley-fever-focus-public-event</loc>
+    <loc>https://qsb.ucmerced.edu/news/2019/nobile-awarded-kamangar-family-endowed-chair</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/taxonomy/term/2061/feed</loc>
+  </url>
+  <url>
+    <loc>https://qsb.ucmerced.edu/news/2019/valley-fever-focus-public-event</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/news/2019/blood-cell-research-taking-groundbreaking-turns-biology-lab</loc>
@@ -1528,10 +1537,10 @@
     <loc>https://qsb.ucmerced.edu/news/2019/pre-health-advising-program-prepares-future-health-professionals</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/news/2019/ennis-receives-prestigious-nih-fellowship-research-biofilms</loc>
+    <loc>https://qsb.ucmerced.edu/news/2019/grad%E2%80%99s-passion-research-leading-her-dartmouth-college</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/news/2019/grad%E2%80%99s-passion-research-leading-her-dartmouth-college</loc>
+    <loc>https://qsb.ucmerced.edu/news/2019/ennis-receives-prestigious-nih-fellowship-research-biofilms</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/news/2019/grad-students-vie-spot-uc-grad-slam-finals</loc>
@@ -1954,10 +1963,10 @@
     <loc>http://qsb.ucmerced.edu/news/2023/cheer-campus%E2%80%99s-10-grad-slam-finalists-april-10</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
+    <loc>http://qsb.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/news/2023/workshops-teach-local-moms-and-daughters-about-stem-and-careers</loc>
+    <loc>http://qsb.ucmerced.edu/news/2023/crest-center-led-workshops-teach-local-girls-about-stem-and-careers</loc>
   </url>
   <url>
     <loc>http://qsb.ucmerced.edu/news/2023/student-researchers-working-national-lab-mercury-remediation</loc>
@@ -2089,10 +2098,10 @@
     <loc>http://qsb.ucmerced.edu/news/2015/fellowship-funds-undergrad%E2%80%99s-research-biofilms</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/news/2015/professor-helps-identify-new-giant-galapagos-tortoise-species</loc>
+    <loc>http://qsb.ucmerced.edu/news/2015/professor-helps-identify-new-giant-galapagos-tortoise-species-0</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/news/2015/professor-helps-identify-new-giant-galapagos-tortoise-species-0</loc>
+    <loc>http://qsb.ucmerced.edu/news/2015/professor-helps-identify-new-giant-galapagos-tortoise-species</loc>
   </url>
   <url>
     <loc>http://qsb.ucmerced.edu/news/2015/event-connects-high-school-girls-female-scientists-0</loc>
@@ -2599,10 +2608,13 @@
     <loc>http://qsb.ucmerced.edu/news/2019/biodiversity-study-indicates-large-and-small-organisms-react-similarly-environment</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/news/2019/valley-fever-focus-public-event</loc>
+    <loc>http://qsb.ucmerced.edu/news/2019/nobile-awarded-kamangar-family-endowed-chair</loc>
   </url>
   <url>
     <loc>http://qsb.ucmerced.edu/taxonomy/term/2061/feed</loc>
+  </url>
+  <url>
+    <loc>http://qsb.ucmerced.edu/news/2019/valley-fever-focus-public-event</loc>
   </url>
   <url>
     <loc>http://qsb.ucmerced.edu/news/2019/blood-cell-research-taking-groundbreaking-turns-biology-lab</loc>
@@ -2632,10 +2644,10 @@
     <loc>http://qsb.ucmerced.edu/news/2019/pre-health-advising-program-prepares-future-health-professionals</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/news/2019/ennis-receives-prestigious-nih-fellowship-research-biofilms</loc>
+    <loc>http://qsb.ucmerced.edu/news/2019/grad%E2%80%99s-passion-research-leading-her-dartmouth-college</loc>
   </url>
   <url>
-    <loc>http://qsb.ucmerced.edu/news/2019/grad%E2%80%99s-passion-research-leading-her-dartmouth-college</loc>
+    <loc>http://qsb.ucmerced.edu/news/2019/ennis-receives-prestigious-nih-fellowship-research-biofilms</loc>
   </url>
   <url>
     <loc>http://qsb.ucmerced.edu/news/2019/grad-students-vie-spot-uc-grad-slam-finals</loc>

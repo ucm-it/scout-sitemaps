@@ -25,9 +25,6 @@
     <loc>https://machineshop.ucmerced.edu/about/safety</loc>
   </url>
   <url>
-    <loc>https://machineshop.ucmerced.edu/about/staff</loc>
-  </url>
-  <url>
     <loc>https://machineshop.ucmerced.edu/shop-hours</loc>
   </url>
   <url>
@@ -52,6 +49,9 @@
     <loc>https://machineshop.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://machineshop.ucmerced.edu/about/staff</loc>
+  </url>
+  <url>
     <loc>https://machineshop.ucmerced.edu/content/open-lab-1</loc>
   </url>
   <url>
@@ -62,9 +62,6 @@
   </url>
   <url>
     <loc>https://machineshop.ucmerced.edu/content/open-lab</loc>
-  </url>
-  <url>
-    <loc>https://machineshop.ucmerced.edu/content/machine-shop-training-1</loc>
   </url>
   <url>
     <loc>https://machineshop.ucmerced.edu/content/open-lab-2</loc>

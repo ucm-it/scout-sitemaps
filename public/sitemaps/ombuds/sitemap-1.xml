@@ -40,9 +40,6 @@
     <loc>https://ombuds.ucmerced.edu/about-office</loc>
   </url>
   <url>
-    <loc>https://ombuds.ucmerced.edu/office-information/ombuds-staff</loc>
-  </url>
-  <url>
     <loc>https://ombuds.ucmerced.edu/office-information/appointments</loc>
   </url>
   <url>
@@ -53,9 +50,6 @@
   </url>
   <url>
     <loc>https://ombuds.ucmerced.edu/about-office/annual-report</loc>
-  </url>
-  <url>
-    <loc>https://ombuds.ucmerced.edu/office-information/about-us-en-espa%C3%B1ol</loc>
   </url>
   <url>
     <loc>https://ombuds.ucmerced.edu/resources</loc>
@@ -80,6 +74,12 @@
   </url>
   <url>
     <loc>https://ombuds.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://ombuds.ucmerced.edu/office-information/ombuds-staff</loc>
+  </url>
+  <url>
+    <loc>https://ombuds.ucmerced.edu/office-information/about-us-en-espa%C3%B1ol</loc>
   </url>
   <url>
     <loc>https://ombuds.ucmerced.edu/resources/ombuds-trainings</loc>

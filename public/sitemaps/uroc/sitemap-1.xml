@@ -46,16 +46,10 @@
     <loc>https://uroc.ucmerced.edu/surf</loc>
   </url>
   <url>
-    <loc>https://uroc.ucmerced.edu/surf/alumni</loc>
-  </url>
-  <url>
     <loc>https://uroc.ucmerced.edu/uc-leads</loc>
   </url>
   <url>
     <loc>https://uroc.ucmerced.edu/uroc-h</loc>
-  </url>
-  <url>
-    <loc>https://uroc.ucmerced.edu/information/current-scholars/uroc-h-academic-year-awards</loc>
   </url>
   <url>
     <loc>https://uroc.ucmerced.edu/uroch/alumni</loc>
@@ -143,6 +137,12 @@
   </url>
   <url>
     <loc>https://uroc.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://uroc.ucmerced.edu/surf/alumni</loc>
+  </url>
+  <url>
+    <loc>https://uroc.ucmerced.edu/information/current-scholars/uroc-h-academic-year-awards</loc>
   </url>
   <url>
     <loc>https://uroc.ucmerced.edu/node/411</loc>

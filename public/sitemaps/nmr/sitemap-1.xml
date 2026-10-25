@@ -19,9 +19,6 @@
     <loc>https://nmr.ucmerced.edu/nmr-systems/500-mhz-nmr-system</loc>
   </url>
   <url>
-    <loc>https://nmr.ucmerced.edu/nmr-systems/400-mhz-nmr-system</loc>
-  </url>
-  <url>
     <loc>https://nmr.ucmerced.edu/nmr-systems/offline-processing</loc>
   </url>
   <url>
@@ -29,9 +26,6 @@
   </url>
   <url>
     <loc>https://nmr.ucmerced.edu/nmr-systems/nmr-tubes</loc>
-  </url>
-  <url>
-    <loc>https://nmr.ucmerced.edu/nmr-systems/deuterated-solvents</loc>
   </url>
   <url>
     <loc>https://nmr.ucmerced.edu/nmr-systems/no-deuterium-nmr</loc>
@@ -92,6 +86,12 @@
   </url>
   <url>
     <loc>https://nmr.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://nmr.ucmerced.edu/nmr-systems/400-mhz-nmr-system</loc>
+  </url>
+  <url>
+    <loc>https://nmr.ucmerced.edu/nmr-systems/deuterated-solvents</loc>
   </url>
   <url>
     <loc>https://nmr.ucmerced.edu/colors/black</loc>

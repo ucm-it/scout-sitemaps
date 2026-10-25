@@ -37,9 +37,6 @@
     <loc>https://studentaffairs.ucmerced.edu/dean-students/emergency-funds</loc>
   </url>
   <url>
-    <loc>https://studentaffairs.ucmerced.edu/dean-students/students-concern-form</loc>
-  </url>
-  <url>
     <loc>https://studentaffairs.ucmerced.edu/students/student-response-team</loc>
   </url>
   <url>
@@ -55,13 +52,16 @@
     <loc>https://studentaffairs.ucmerced.edu/commencement-student-speaker</loc>
   </url>
   <url>
-    <loc>https://studentaffairs.ucmerced.edu/parents</loc>
-  </url>
-  <url>
     <loc>https://studentaffairs.ucmerced.edu/campus-and-community-safety</loc>
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://studentaffairs.ucmerced.edu/dean-students/students-concern-form</loc>
+  </url>
+  <url>
+    <loc>https://studentaffairs.ucmerced.edu/parents</loc>
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/community-of-scholars</loc>
@@ -77,6 +77,9 @@
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/content/brian-obruba</loc>
+  </url>
+  <url>
+    <loc>https://studentaffairs.ucmerced.edu/content/david-dunham</loc>
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/content/esther-wilson</loc>
@@ -97,9 +100,6 @@
     <loc>https://studentaffairs.ucmerced.edu/content/anna-gonzalez</loc>
   </url>
   <url>
-    <loc>https://studentaffairs.ucmerced.edu/content/david-dunham</loc>
-  </url>
-  <url>
     <loc>https://studentaffairs.ucmerced.edu/content/vacant-position</loc>
   </url>
   <url>
@@ -110,12 +110,6 @@
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/students/principles-community</loc>
-  </url>
-  <url>
-    <loc>https://studentaffairs.ucmerced.edu/sites/studentaffairs.ucmerced.edu/files/documents/psmh-guide.pdf</loc>
-  </url>
-  <url>
-    <loc>https://studentaffairs.ucmerced.edu/sites/studentaffairs.ucmerced.edu/files/documents/psmh-merced-insert.pdf</loc>
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/sites/studentaffairs.ucmerced.edu/files/page/documents/rfc_campus_guidline_2020-2021_udated_sept2020.pdf</loc>
@@ -158,6 +152,12 @@
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/form/commencement-student-speaker-application</loc>
+  </url>
+  <url>
+    <loc>https://studentaffairs.ucmerced.edu/sites/studentaffairs.ucmerced.edu/files/documents/psmh-guide.pdf</loc>
+  </url>
+  <url>
+    <loc>https://studentaffairs.ucmerced.edu/sites/studentaffairs.ucmerced.edu/files/documents/psmh-merced-insert.pdf</loc>
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/cost-of-attendance</loc>

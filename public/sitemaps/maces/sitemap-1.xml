@@ -25,12 +25,12 @@
     <loc>https://maces.ucmerced.edu/facilities</loc>
   </url>
   <url>
-    <loc>https://maces.ucmerced.edu/graduate-training</loc>
-  </url>
-  <url>
     <loc>https://maces.ucmerced.edu/news-0</loc>
   </url>
   <url>
     <loc>https://maces.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://maces.ucmerced.edu/graduate-training</loc>
   </url>
 </urlset>

@@ -28,9 +28,6 @@
     <loc>https://ehs.ucmerced.edu/workplace-safety/facilities</loc>
   </url>
   <url>
-    <loc>https://ehs.ucmerced.edu/general-safety/ergonomics</loc>
-  </url>
-  <url>
     <loc>https://ehs.ucmerced.edu/workplace-safety/fire-safety</loc>
   </url>
   <url>
@@ -127,9 +124,6 @@
     <loc>https://ehs.ucmerced.edu/general-programs/safety-training/courses</loc>
   </url>
   <url>
-    <loc>https://ehs.ucmerced.edu/form/report-safety-concerns</loc>
-  </url>
-  <url>
     <loc>https://ehs.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
@@ -140,6 +134,9 @@
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/general-safety/ergonomics</loc>
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/workplace-safety/facilities/aerial-lift</loc>
@@ -175,70 +172,58 @@
     <loc>https://ehs.ucmerced.edu/workplace-safety/facilities/personal-protection</loc>
   </url>
   <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/selecting-your-ergonomic-chair.pdf</loc>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/hazard-communication/uc_merced_hazard_communication_program_-_attachment_a.pdf</loc>
   </url>
   <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/keyboards-mice-accessories.pdf</loc>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/EI-LOTO/energy_isolation_-_loto_program_7-21.pdf</loc>
   </url>
   <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/dual-monitors.pdf</loc>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/EI-LOTO/ei-loto_program_attachment_1_-_equipment_inventory.pdf</loc>
   </url>
   <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/task-lighting.pdf</loc>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/EI-LOTO/ei-loto_program_attachment_2_-_permit.pdf</loc>
   </url>
   <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/sit-stand-workstations.pdf</loc>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/EI-LOTO/ei-loto_program_attachment_4_-_training_record_-_fillable_06-25-2015.pdf</loc>
   </url>
   <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/how-do-you-measure-up.pdf</loc>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/machine-guarding/machine_guarding_program_manual_rework_07-21.pdf</loc>
   </url>
   <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/laptop-ergonomics.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/mobile-phones-tablet-tips.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/ergonomic-workstation-setup-guidelines.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/stretchbreak_1.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/ergonomic_project_report_dining_services_may_2012.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/ergonomics_study_of_animal_care_positions_at_the_university_of_california.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/2015_ergonomics_study_of_grounds_positions_at_the_university_of_california_3.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/form/bsas-ergonomics-funds-application</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/workplace-safety/ergonomics/chair-adjustments</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/workplace-safety/ergonomics/equipment</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/workplace-safety/ergonomics/laboratories</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/general-safety/ergonomics/working-remotely</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/workplace-safety/ergonomics/repetitive-strain-injuries</loc>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/rental-equipment/rental_equipment_inspection_form_-_04-16-2015_fillable.pdf</loc>
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/general-safety/fire-safety/fire-extinguishers</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/iipp/ucm_iipp_7.2021.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/ucmlabsafetyplan_update_11-2018_2_1_0.docx</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/code_of_safe_practices_handbook_-_ucm_04-19-2019.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/jha_ucm_office_worker.doc</loc>
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/general-safety/injury-illness-prevention/employees</loc>
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/general-safety/injury-illness-prevention/supervisors</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/iipp/iipp_attachment_a_-_hazard_report_and_hazard_correction_report.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/iipp/iipp_attachment_b_-_safety_meeting_documentation.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/iipp/iipp_attachment_c_-_admin_self_inspection_form.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/iipp/safety_training_documentation.pdf</loc>
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/researchers-labs/chemical-safety/chemical-inventory-compliance</loc>
@@ -346,7 +331,46 @@
     <loc>https://ehs.ucmerced.edu/researchers-labs/chemical-safety/storage-and-accumulation</loc>
   </url>
   <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/radiation-safety/radiation_use_authorization_form.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/radiation-safety/ramqc.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/radiation-safety/appendixg.1-new_user_training_checklist.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/radiation-safety/appendixg.3-declaration_of_pregnancy.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/radiation-safety/appendixg.2-handbook_of_safe_use.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/radiation-safety/appendixf-occupational_dose_limits.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/radiation-safety/appendixg.4-risks_from_occupational_radiation_exposure.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/radiation-safety/appendixa-emergency_telephone_numbers.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/radiation-safety/training_experience_form.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/radiation-safety/appendixc-common_isotopes.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/radiation-safety/appendixd-conversion_factors.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/radiation-safety/appendixe-instrument_efficiencies.pdf</loc>
+  </url>
+  <url>
     <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/field-safety/heat_illness_and_prevention_program.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/researchers-labs/ppe/obtaining-ppe</loc>
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/researchers-labs/waste-disposal/sharps</loc>
@@ -358,9 +382,6 @@
     <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/waste-disposal/waste_flow_chart_072921.pdf</loc>
   </url>
   <url>
-    <loc>https://ehs.ucmerced.edu/researchers-labs/ppe/obtaining-ppe</loc>
-  </url>
-  <url>
     <loc>https://ehs.ucmerced.edu/researchers-labs/ppe/selection</loc>
   </url>
   <url>
@@ -368,6 +389,27 @@
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/researchers-labs/ppe/returning-ppe</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/ppe/personalprotectiveequipment_june_2013.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/respiratory-protection/ucm_respiratory_protection_manual_8.2021.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/respiratory-protection/ucmerced_rpep_manual_-_appendix_d_-_training_for_voluntary_respirator_use.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/respiratory-protection/3m_respirator_selection_guide_sept_2012.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/respiratory-protection/n95-proper-use.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/hearing-conservation/ucm_hearing_conservation_program_manual_8.2021.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/hearing-conservation/ucmerced_hearing_conservation_program_-_attachment_b.pdf</loc>
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/form/lab-relocation-survey</loc>
@@ -388,10 +430,64 @@
     <loc>https://ehs.ucmerced.edu/form/ehs-ergonomic-evaluation</loc>
   </url>
   <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/respiratory-protection/ucm_respiratory_protection_manual_8.2021.pdf</loc>
+    <loc>https://ehs.ucmerced.edu/form/bsas-ergonomics-funds-application</loc>
   </url>
   <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/respiratory-protection/ucmerced_rpep_manual_-_appendix_d_-_training_for_voluntary_respirator_use.pdf</loc>
+    <loc>https://ehs.ucmerced.edu/workplace-safety/ergonomics/chair-adjustments</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/workplace-safety/ergonomics/equipment</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/workplace-safety/ergonomics/laboratories</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/general-safety/ergonomics/working-remotely</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/workplace-safety/ergonomics/repetitive-strain-injuries</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/form/report-safety-concerns</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/selecting-your-ergonomic-chair.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/keyboards-mice-accessories.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/dual-monitors.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/task-lighting.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/sit-stand-workstations.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/how-do-you-measure-up.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/laptop-ergonomics.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/mobile-phones-tablet-tips.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/ergonomic-workstation-setup-guidelines.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/stretchbreak_1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/ergonomic_project_report_dining_services_may_2012.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/ergonomics_study_of_animal_care_positions_at_the_university_of_california.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/2015_ergonomics_study_of_grounds_positions_at_the_university_of_california_3.pdf</loc>
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/respiratory-protection/ucmerced_rpep_manual_-_appendix_f_-_fit-test_protocols.pdf</loc>
@@ -400,31 +496,10 @@
     <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/Hot-work/uc_merced_hot_work_2021.pdf</loc>
   </url>
   <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/EI-LOTO/energy_isolation_-_loto_program_7-21.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/EI-LOTO/ei-loto_program_attachment_2_-_permit.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/EI-LOTO/ei-loto_program_attachment_1_-_equipment_inventory.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/EI-LOTO/ei-loto_program_attachment_4_-_training_record_-_fillable_06-25-2015.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/machine-guarding/machine_guarding_program_manual_rework_07-21.pdf</loc>
-  </url>
-  <url>
     <loc>https://ehs.ucmerced.edu/facilities/personal-protection/hearing</loc>
   </url>
   <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/hearing-conservation/ucm_hearing_conservation_program_manual_8.2021.pdf</loc>
-  </url>
-  <url>
     <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/hearing-conservation/ucmerced_hearing_conservation_program_-_attachment_a.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/hearing-conservation/ucmerced_hearing_conservation_program_-_attachment_b.pdf</loc>
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/general-programs/heat-illness/ucm_heat_illness_prevention_procedure_8.2021.pdf</loc>
@@ -449,6 +524,72 @@
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/respiratory-protection/ucmerced_rpep_manual_-_appendix_a_-_definitions_key_terms.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/researchers-labs/chemical-safety/chemical-hygiene-plan</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/researchers-labs/chemical-safety/chemical-faq</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/form/register-trainings</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/laser-safety/laser_use_registration_renewal_form.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/ucm_laser_safety_manual_june_2022.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/laser-safety/laser_safety_manual_2015.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/ucm_ibc_handbook_final_071521.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/biohazardous_waste_disposal_by_class.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/biohazard_label_template_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/tissue_culture_waste_labels.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/new_bio_instruction.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/bbp_exposure_control_plan_2019.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/cal_osha_carcinogen_report_of_use.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/chemical-safety/common_chemicals_in_hazard_classes.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/chemical-safety/controlled-substances/dea_personnel_with_access.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/chemical-safety/controlled-substances/cs_procedures_edited_8-10-18_.doc</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/chemical-safety/SOP/sop_liquid_reagents.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/toxic_gas_manual_ucm.docx</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/hazardous_chemical_waste_identification_checklist_072921.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/sanitary_sewer_disposal_guidelines_072921.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/chemical-safety/hazardous-waste/acutely_hazardous_waste.xls</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/chemical-safety/hazardous-waste/california_extremely_hazardous_waste.xls</loc>
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/form/selected-equipment-demonstrations</loc>
@@ -497,72 +638,6 @@
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/how-do-you-measure-up_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/researchers-labs/chemical-safety/chemical-hygiene-plan</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/researchers-labs/chemical-safety/chemical-faq</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/form/register-trainings</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/laser-safety/laser_use_registration_renewal_form.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/ucm_laser_safety_manual_june_2022.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/laser-safety/laser_safety_manual_2015.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/ucm_ibc_handbook_final_071521.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/biohazard_label_template_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/tissue_culture_waste_labels.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/new_bio_instruction.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/bbp_exposure_control_plan_2019.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/cal_osha_carcinogen_report_of_use.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/chemical-safety/common_chemicals_in_hazard_classes.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/chemical-storage-groups.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/chemical-safety/controlled-substances/dea_personnel_with_access.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/chemical-safety/controlled-substances/cs_procedures_edited_8-10-18_.doc</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/chemical-safety/SOP/sop_liquid_reagents.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/toxic_gas_manual_ucm.docx</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/hazardous_chemical_waste_identification_checklist_072921.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/sanitary_sewer_disposal_guidelines_072921.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/chemical-safety/hazardous-waste/acutely_hazardous_waste.xls</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/chemical-safety/hazardous-waste/california_extremely_hazardous_waste.xls</loc>
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/rss-chemicals-adding-a-chemical-guide-050321.pdf</loc>

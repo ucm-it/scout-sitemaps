@@ -34,19 +34,19 @@
     <loc>https://ee.ucmerced.edu/blog</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/contact-us</loc>
+    <loc>https://ee.ucmerced.edu/news/2026/uc-merced-poised-go-further-chancellor-says-state-university-address</loc>
+  </url>
+  <url>
+    <loc>https://ee.ucmerced.edu/news/2026/uc-merced-announces-2026-hellman-fellows</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2026/greenhouse-agtech-trailers-will-bring-uc-merced-research-community</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2026/uc-merced-gets-down-business-hsi-battle-brains</loc>
-  </url>
-  <url>
-    <loc>https://ee.ucmerced.edu/news/2026/uc-merced-team-earns-best-paper-award-sensys-2026</loc>
-  </url>
-  <url>
     <loc>https://ee.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://ee.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/node/112</loc>
@@ -88,9 +88,6 @@
     <loc>https://ee.ucmerced.edu/content/mukesh-singhal</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/content/qian-wang</loc>
-  </url>
-  <url>
     <loc>https://ee.ucmerced.edu/content/xiaofan-yu</loc>
   </url>
   <url>
@@ -100,9 +97,6 @@
     <loc>https://ee.ucmerced.edu/content/peter-langner</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/content/adrian-ocampo</loc>
-  </url>
-  <url>
     <loc>https://ee.ucmerced.edu/content/alberto-vincentelli</loc>
   </url>
   <url>
@@ -110,6 +104,12 @@
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/content/zhi-jackie-yao</loc>
+  </url>
+  <url>
+    <loc>https://ee.ucmerced.edu/news/2026/uc-merced-gets-down-business-hsi-battle-brains</loc>
+  </url>
+  <url>
+    <loc>https://ee.ucmerced.edu/news/2026/uc-merced-team-earns-best-paper-award-sensys-2026</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2026/technology-revolution-agriculture-needs-investment-humans-well-machines</loc>
@@ -158,12 +158,6 @@
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2026/uc-merced-scientists-use-sewage-track-nicotine-use-central-valley</loc>
-  </url>
-  <url>
-    <loc>https://ee.ucmerced.edu/news/2026/all-faculty-rock-band-cuts-album-uc-merced-recording-studio</loc>
-  </url>
-  <url>
-    <loc>https://ee.ucmerced.edu/news/2026/heat-waves-making-wildfires-worse-western-united-states</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news?page=1</loc>
@@ -253,16 +247,22 @@
     <loc>https://ee.ucmerced.edu/media-contact/jody-murray</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/media-contact/patty-guerra</loc>
+    <loc>https://ee.ucmerced.edu/media-contact/alyssa-johansen</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/sites/g/files/ufvvjh791/f/cv_mukesh_singhal_sept_24_2026_0.pdf</loc>
   </url>
   <url>
+    <loc>https://ee.ucmerced.edu/media-contact/patty-guerra</loc>
+  </url>
+  <url>
     <loc>https://ee.ucmerced.edu/media-contact/brenda-ortiz</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/media-contact/alyssa-johansen</loc>
+    <loc>https://ee.ucmerced.edu/news/2026/all-faculty-rock-band-cuts-album-uc-merced-recording-studio</loc>
+  </url>
+  <url>
+    <loc>https://ee.ucmerced.edu/news/2026/heat-waves-making-wildfires-worse-western-united-states</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2026/regional-answers-best-option-address-global-water-energy-problems</loc>
@@ -418,10 +418,10 @@
     <loc>https://ee.ucmerced.edu/news/2026/new-major-teaches-how-tackle-questions-ethics-science-tech</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2025/fall-commencement-graduates-urged-write-their-own-story</loc>
+    <loc>https://ee.ucmerced.edu/news/2025/fall-commencement-grads-urged-write-their-own-story</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2025/fall-commencement-grads-urged-write-their-own-story</loc>
+    <loc>https://ee.ucmerced.edu/news/2025/fall-commencement-graduates-urged-write-their-own-story</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2025/recipe-la%E2%80%99s-fire-disaster-intense-rains-followed-unprecedented-heat-and-dry-conditions</loc>
@@ -559,13 +559,13 @@
     <loc>https://ee.ucmerced.edu/news/2025/strawberries-smart-farm-alum-adamaris-alvarez-grows-passion-career-path</loc>
   </url>
   <url>
+    <loc>https://ee.ucmerced.edu/news?page=9</loc>
+  </url>
+  <url>
     <loc>https://ee.ucmerced.edu/news/2025/eerie-silence-hangs-over-central-coast-farm-fields-wake-ice-raids</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2025/ice-expands-immigration-raids-california%E2%80%99s-agricultural-heartland</loc>
-  </url>
-  <url>
-    <loc>https://ee.ucmerced.edu/news?page=9</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2025/championing-transition-clean-energy</loc>
@@ -574,10 +574,10 @@
     <loc>https://ee.ucmerced.edu/news/2025/disruptions-digital-supply-chain-can-have-major-physical-impacts</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2025/dunham-named-cal-pac-athletic-director-year</loc>
+    <loc>https://ee.ucmerced.edu/news/2025/students-awarded-prestigious-nsf-graduate-research-fellowship</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2025/students-awarded-prestigious-nsf-graduate-research-fellowship</loc>
+    <loc>https://ee.ucmerced.edu/news/2025/dunham-named-cal-pac-athletic-director-year</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2025/creative-solutions-win-innovation-event</loc>
@@ -622,13 +622,13 @@
     <loc>https://ee.ucmerced.edu/news/2025/uc-merced-student%E2%80%99s-photography-joins-exhibit-young-valley-talent</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2025/carnegie-recognizes-uc-merced-student-access-grad-earnings</loc>
+    <loc>https://ee.ucmerced.edu/news?page=10</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2025/chemistry-phd-student-wins-campus-grad-slam-top-prize-advances-uc-wide-final</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news?page=10</loc>
+    <loc>https://ee.ucmerced.edu/news/2025/carnegie-recognizes-uc-merced-student-access-grad-earnings</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2025/team-advances-aviation-prize-contest</loc>
@@ -685,13 +685,13 @@
     <loc>https://ee.ucmerced.edu/news/2025/%E2%80%98-someone-put-blanket-over-ocean%E2%80%99-kelp-could-be-among-fires%E2%80%99-casualties</loc>
   </url>
   <url>
+    <loc>https://ee.ucmerced.edu/news?page=11</loc>
+  </url>
+  <url>
     <loc>https://ee.ucmerced.edu/news/2025/healthiest-way-clean-your-house</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2025/physiological-society-recognizes-rudy-ortiz-mentoring-underrepresented-students</loc>
-  </url>
-  <url>
-    <loc>https://ee.ucmerced.edu/news?page=11</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2025/researchers-developing-new-tools-fight-against-methane-emissions</loc>
@@ -748,13 +748,13 @@
     <loc>https://ee.ucmerced.edu/news/2024/calmatters-california-got-millions-train-workers-disaster-relief-it%E2%80%99s-leaving-money-table</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2024/innovate-grow-highlights-engineering-software-capstone-projects</loc>
-  </url>
-  <url>
-    <loc>https://ee.ucmerced.edu/news/2024/us-solar-industry-downplays-climate-strategy-trump-era</loc>
-  </url>
-  <url>
     <loc>https://ee.ucmerced.edu/news?page=12</loc>
+  </url>
+  <url>
+    <loc>https://ee.ucmerced.edu/news/2024/politico-mexicos-new-president-climate-scientist-could-be-boon-california</loc>
+  </url>
+  <url>
+    <loc>https://ee.ucmerced.edu/news/2024/lighting-path-thank-you-and-farewell-charles-nies</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2024/chicago-sun-times-chicago-summer-forecast-less-extreme-heat-not-much-wildfire-smoke-last</loc>
@@ -790,19 +790,25 @@
     <loc>https://ee.ucmerced.edu/taxonomy/term/51/feed</loc>
   </url>
   <url>
+    <loc>https://ee.ucmerced.edu/taxonomy/term/115/feed</loc>
+  </url>
+  <url>
     <loc>https://ee.ucmerced.edu/taxonomy/term/14/feed</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/taxonomy/term/40/feed</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/taxonomy/term/115/feed</loc>
-  </url>
-  <url>
     <loc>https://ee.ucmerced.edu/media-contact/samuel-yniquez</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2024/reuters-us-solar-industry-downplays-climate-strategy-trump-era</loc>
+  </url>
+  <url>
+    <loc>https://ee.ucmerced.edu/news/2024/innovate-grow-highlights-engineering-software-capstone-projects</loc>
+  </url>
+  <url>
+    <loc>https://ee.ucmerced.edu/news/2024/us-solar-industry-downplays-climate-strategy-trump-era</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2024/high-school-student-part-ai-art-project-uc-merced</loc>
@@ -841,13 +847,13 @@
     <loc>https://ee.ucmerced.edu/news/2024/guardian-%E2%80%98mass-deportations-would-disrupt-food-chain%E2%80%99-californians-warn-ripple-effect</loc>
   </url>
   <url>
+    <loc>https://ee.ucmerced.edu/news/2024/3-new-majors-meet-crossroads-communication-and-science</loc>
+  </url>
+  <url>
     <loc>https://ee.ucmerced.edu/news/2024/chicago-tribune-can-america-heal-after-election-local-clergy-researchers-tackle-political</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2024/inaugural-mechanical-engineering-graduate-symposium-celebrates-student-research-excellence</loc>
-  </url>
-  <url>
-    <loc>https://ee.ucmerced.edu/news/2024/3-new-majors-meet-crossroads-communication-and-science</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2024/engineering-majors-uc-merced-grow-meet-workforce-demands</loc>
@@ -859,13 +865,13 @@
     <loc>https://ee.ucmerced.edu/news/2024/western-us-fires-getting-faster-more-dangerous-study-shows</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2024/public-health-grad-student-selected-prestigious-award</loc>
-  </url>
-  <url>
     <loc>https://ee.ucmerced.edu/news/2024/data-shows-just-how-much-faster-california-wildfires-are-getting-%E2%80%94-and-why-thats-so</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2024/uc-merced-recognized-advancing-latino-students-success</loc>
+  </url>
+  <url>
+    <loc>https://ee.ucmerced.edu/news/2024/public-health-grad-student-selected-prestigious-award</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2024/research-center-aimed-new-ways-make-natural-rubber</loc>
@@ -889,10 +895,10 @@
     <loc>https://ee.ucmerced.edu/news/2024/uc-merced-receives-second-consecutive-heed-award-dei-efforts</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2024/eva-mendes-has-message-about-food-dyes-cereal-people-are-mad-she-right</loc>
+    <loc>https://ee.ucmerced.edu/news/2024/uc-merced-grad-honored-society-women-engineers</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2024/uc-merced-grad-honored-society-women-engineers</loc>
+    <loc>https://ee.ucmerced.edu/news/2024/eva-mendes-has-message-about-food-dyes-cereal-people-are-mad-she-right</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2024/fresno-developer-ed-kashian-named-2024-chancellors-medal-recipient</loc>
@@ -937,10 +943,10 @@
     <loc>https://ee.ucmerced.edu/news/2024/students-spend-summer-learning-about-stem-cells</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2024/citris-aviation-prize-delivers-connections-prizes</loc>
+    <loc>https://ee.ucmerced.edu/news/2024/grad-student-receives-prestigious-defense-fellowship</loc>
   </url>
   <url>
-    <loc>https://ee.ucmerced.edu/news/2024/grad-student-receives-prestigious-defense-fellowship</loc>
+    <loc>https://ee.ucmerced.edu/news/2024/citris-aviation-prize-delivers-connections-prizes</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2024/central-coast-student-brings-flair-robotics-uc-merced</loc>
@@ -1034,12 +1040,6 @@
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/news/2024/how-scientific-research-can-inform-visitor-and-environmental-management-national-parks</loc>
-  </url>
-  <url>
-    <loc>https://ee.ucmerced.edu/news/2024/politico-mexicos-new-president-climate-scientist-could-be-boon-california</loc>
-  </url>
-  <url>
-    <loc>https://ee.ucmerced.edu/news/2024/lighting-path-thank-you-and-farewell-charles-nies</loc>
   </url>
   <url>
     <loc>https://ee.ucmerced.edu/taxonomy/term/586/feed</loc>

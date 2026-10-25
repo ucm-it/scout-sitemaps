@@ -58,15 +58,6 @@
     <loc>https://chancellor.ucmerced.edu/leadership-council-meeting-material</loc>
   </url>
   <url>
-    <loc>https://chancellor.ucmerced.edu/form/leadership-council-rsvp</loc>
-  </url>
-  <url>
-    <loc>https://chancellor.ucmerced.edu/form/question-submission</loc>
-  </url>
-  <url>
-    <loc>https://chancellor.ucmerced.edu/committees-councils-initiatives/committees-and-councils/leadership-council/guidelines-presenters</loc>
-  </url>
-  <url>
     <loc>https://chancellor.ucmerced.edu/committees-councils-initiatives/committees-and-councils/leadership-council/membership-guidelines</loc>
   </url>
   <url>
@@ -92,6 +83,15 @@
   </url>
   <url>
     <loc>https://chancellor.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://chancellor.ucmerced.edu/form/leadership-council-rsvp</loc>
+  </url>
+  <url>
+    <loc>https://chancellor.ucmerced.edu/form/question-submission</loc>
+  </url>
+  <url>
+    <loc>https://chancellor.ucmerced.edu/committees-councils-initiatives/committees-and-councils/leadership-council/guidelines-presenters</loc>
   </url>
   <url>
     <loc>https://chancellor.ucmerced.edu/content/transformative-year-uc-merced</loc>
@@ -169,9 +169,6 @@
     <loc>https://chancellor.ucmerced.edu/GRLN-latest-updates</loc>
   </url>
   <url>
-    <loc>https://chancellor.ucmerced.edu/sites/chancellor.ucmerced.edu/files/page/documents/leadership_council_guidelines_for_presentations_0.pdf</loc>
-  </url>
-  <url>
     <loc>https://chancellor.ucmerced.edu/content/research-recognition-and-power-community-uc-merced</loc>
   </url>
   <url>
@@ -218,6 +215,9 @@
   </url>
   <url>
     <loc>https://chancellor.ucmerced.edu/writings-remarks/all?page=27</loc>
+  </url>
+  <url>
+    <loc>https://chancellor.ucmerced.edu/sites/chancellor.ucmerced.edu/files/page/documents/leadership_council_guidelines_for_presentations_0.pdf</loc>
   </url>
   <url>
     <loc>https://chancellor.ucmerced.edu/chancellor-emerita-dorothy-leland-remarks-cais</loc>
@@ -439,10 +439,10 @@
     <loc>https://chancellor.ucmerced.edu/content/reflecting-2021</loc>
   </url>
   <url>
-    <loc>https://chancellor.ucmerced.edu/content/season-gratitude</loc>
+    <loc>https://chancellor.ucmerced.edu/content/season-gratitude-0</loc>
   </url>
   <url>
-    <loc>https://chancellor.ucmerced.edu/content/season-gratitude-0</loc>
+    <loc>https://chancellor.ucmerced.edu/content/season-gratitude</loc>
   </url>
   <url>
     <loc>https://chancellor.ucmerced.edu/content/honoring-all-those-who-have-served-1</loc>
@@ -574,10 +574,10 @@
     <loc>https://chancellor.ucmerced.edu/content/regarding-social-media-posts</loc>
   </url>
   <url>
-    <loc>https://chancellor.ucmerced.edu/content/search-vice-chancellor-and-chief-financial-officer</loc>
+    <loc>https://chancellor.ucmerced.edu/content/light-and-hope</loc>
   </url>
   <url>
-    <loc>https://chancellor.ucmerced.edu/content/light-and-hope</loc>
+    <loc>https://chancellor.ucmerced.edu/content/search-vice-chancellor-and-chief-financial-officer</loc>
   </url>
   <url>
     <loc>https://chancellor.ucmerced.edu/content/moving-forward-together</loc>
@@ -691,10 +691,10 @@
     <loc>https://chancellor.ucmerced.edu/content/reflections-chancellor-leland-sept-11</loc>
   </url>
   <url>
-    <loc>https://chancellor.ucmerced.edu/content/welcome-staff-academic-year-2011-12</loc>
+    <loc>https://chancellor.ucmerced.edu/content/welcome-faculty-academic-year-2011-12</loc>
   </url>
   <url>
-    <loc>https://chancellor.ucmerced.edu/content/welcome-faculty-academic-year-2011-12</loc>
+    <loc>https://chancellor.ucmerced.edu/content/welcome-staff-academic-year-2011-12</loc>
   </url>
   <url>
     <loc>https://chancellor.ucmerced.edu/content/2011-12-merit-program</loc>
