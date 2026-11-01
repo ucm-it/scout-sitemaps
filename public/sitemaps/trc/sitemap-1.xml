@@ -25,9 +25,6 @@
     <loc>https://trc.ucmerced.edu/people/students/alumni-research-assistants</loc>
   </url>
   <url>
-    <loc>https://trc.ucmerced.edu/people/students/graduate-students</loc>
-  </url>
-  <url>
     <loc>https://trc.ucmerced.edu/people/community-partners</loc>
   </url>
   <url>
@@ -35,9 +32,6 @@
   </url>
   <url>
     <loc>https://trc.ucmerced.edu/node/259</loc>
-  </url>
-  <url>
-    <loc>https://trc.ucmerced.edu/node/257</loc>
   </url>
   <url>
     <loc>https://trc.ucmerced.edu/research/publications-and-presentations</loc>
@@ -49,6 +43,15 @@
     <loc>https://trc.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>https://trc.ucmerced.edu/people/students/graduate-students</loc>
+  </url>
+  <url>
+    <loc>https://trc.ucmerced.edu/node/257</loc>
+  </url>
+  <url>
     <loc>https://trc.ucmerced.edu/form/trc-research-project-support-form</loc>
+  </url>
+  <url>
+    <loc>https://trc.ucmerced.edu/node/321</loc>
   </url>
 </urlset>

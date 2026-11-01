@@ -16,13 +16,7 @@
     <loc>https://spaceplanning.ucmerced.edu/about/staff</loc>
   </url>
   <url>
-    <loc>https://spaceplanning.ucmerced.edu/about/principles-campus-space-management</loc>
-  </url>
-  <url>
     <loc>https://spaceplanning.ucmerced.edu/about/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://spaceplanning.ucmerced.edu/about/other-resources</loc>
   </url>
   <url>
     <loc>https://spaceplanning.ucmerced.edu/project-space-requests</loc>
@@ -32,9 +26,6 @@
   </url>
   <url>
     <loc>https://spaceplanning.ucmerced.edu/capital-planning</loc>
-  </url>
-  <url>
-    <loc>https://spaceplanning.ucmerced.edu/capital-planning/capital-financial-plan</loc>
   </url>
   <url>
     <loc>https://spaceplanning.ucmerced.edu/capital-planning/minor-capital-projects</loc>
@@ -49,6 +40,9 @@
     <loc>https://spaceplanning.ucmerced.edu/campus-space-study</loc>
   </url>
   <url>
+    <loc>https://spaceplanning.ucmerced.edu/campus-space-study/frequently-asked-questions</loc>
+  </url>
+  <url>
     <loc>https://spaceplanning.ucmerced.edu/campus-space-study/campus-communications</loc>
   </url>
   <url>
@@ -61,7 +55,22 @@
     <loc>https://spaceplanning.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://spaceplanning.ucmerced.edu/campus-space-study/frequently-asked-questions</loc>
+    <loc>https://spaceplanning.ucmerced.edu/about/principles-campus-space-management</loc>
+  </url>
+  <url>
+    <loc>https://spaceplanning.ucmerced.edu/about/other-resources</loc>
+  </url>
+  <url>
+    <loc>https://spaceplanning.ucmerced.edu/project-space-requests/project-requests</loc>
+  </url>
+  <url>
+    <loc>https://spaceplanning.ucmerced.edu/capital-planning/capital-financial-plan</loc>
+  </url>
+  <url>
+    <loc>https://spaceplanning.ucmerced.edu/sites/spaceplanning.ucmerced.edu/files/page/documents/181205_full_update_v14.final_.pdf</loc>
+  </url>
+  <url>
+    <loc>https://spaceplanning.ucmerced.edu/sites/g/files/ufvvjh1686/f/documents/campus_space_study_files/space_sensor_installation_memo_9-26-2025.pdf</loc>
   </url>
   <url>
     <loc>https://spaceplanning.ucmerced.edu/sites/spaceplanning.ucmerced.edu/files/documents/space_management/campus_space_management_principles.pdf</loc>
@@ -74,11 +83,5 @@
   </url>
   <url>
     <loc>https://spaceplanning.ucmerced.edu/sites/spaceplanning.ucmerced.edu/files/documents/ucmspace_management_glossary_of_terms_and_phrases.pdf</loc>
-  </url>
-  <url>
-    <loc>https://spaceplanning.ucmerced.edu/sites/spaceplanning.ucmerced.edu/files/page/documents/181205_full_update_v14.final_.pdf</loc>
-  </url>
-  <url>
-    <loc>https://spaceplanning.ucmerced.edu/sites/g/files/ufvvjh1686/f/documents/campus_space_study_files/space_sensor_installation_memo_9-26-2025.pdf</loc>
   </url>
 </urlset>

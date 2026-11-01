@@ -7,6 +7,9 @@
     <loc>https://eors.ucmerced.edu/</loc>
   </url>
   <url>
+    <loc>https://eors.ucmerced.edu/people</loc>
+  </url>
+  <url>
     <loc>https://eors.ucmerced.edu/people/current</loc>
   </url>
   <url>
@@ -49,6 +52,9 @@
     <loc>https://eors.ucmerced.edu/resources/courses</loc>
   </url>
   <url>
+    <loc>https://eors.ucmerced.edu/form/prospective-students</loc>
+  </url>
+  <url>
     <loc>https://eors.ucmerced.edu/news</loc>
   </url>
   <url>
@@ -62,12 +68,6 @@
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://eors.ucmerced.edu/people</loc>
-  </url>
-  <url>
-    <loc>https://eors.ucmerced.edu/form/prospective-students</loc>
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/content/erin-hestir</loc>
@@ -101,9 +101,6 @@
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/content/adam-weingram</loc>
-  </url>
-  <url>
-    <loc>https://eors.ucmerced.edu/content/erik-bolch</loc>
   </url>
   <url>
     <loc>https://eors.ucmerced.edu/content/daniel-g%C3%B3mez</loc>

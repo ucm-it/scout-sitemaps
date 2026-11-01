@@ -25,10 +25,7 @@
     <loc>https://counseling.ucmerced.edu/about/hours-operation</loc>
   </url>
   <url>
-    <loc>https://counseling.ucmerced.edu/services/counseling-services</loc>
-  </url>
-  <url>
-    <loc>https://counseling.ucmerced.edu/services/counseling-services/teletherapy</loc>
+    <loc>https://counseling.ucmerced.edu/records-release</loc>
   </url>
   <url>
     <loc>https://counseling.ucmerced.edu/services/psychiatric-services</loc>
@@ -127,19 +124,13 @@
     <loc>https://counseling.ucmerced.edu/services</loc>
   </url>
   <url>
-    <loc>https://counseling.ucmerced.edu/records-release</loc>
+    <loc>https://counseling.ucmerced.edu/services/counseling-services</loc>
   </url>
   <url>
-    <loc>https://counseling.ucmerced.edu/services/long-term-individual-counseling</loc>
+    <loc>https://counseling.ucmerced.edu/services/counseling-services/teletherapy</loc>
   </url>
   <url>
-    <loc>https://counseling.ucmerced.edu/services/short-term-individual-counseling</loc>
-  </url>
-  <url>
-    <loc>https://counseling.ucmerced.edu/services/drop-in-services</loc>
-  </url>
-  <url>
-    <loc>https://counseling.ucmerced.edu/services/consultation</loc>
+    <loc>https://counseling.ucmerced.edu/sites/counseling.ucmerced.edu/files/documents/caps-roi_2024.pdf</loc>
   </url>
   <url>
     <loc>https://counseling.ucmerced.edu/sites/counseling.ucmerced.edu/files/page/documents/psmh-guide_ucm.pdf</loc>
@@ -187,7 +178,16 @@
     <loc>https://counseling.ucmerced.edu/sites/counseling.ucmerced.edu/files/page/documents/making_friends_as_an_adult.docx</loc>
   </url>
   <url>
-    <loc>https://counseling.ucmerced.edu/sites/counseling.ucmerced.edu/files/documents/caps-roi_2024.pdf</loc>
+    <loc>https://counseling.ucmerced.edu/services/long-term-individual-counseling</loc>
+  </url>
+  <url>
+    <loc>https://counseling.ucmerced.edu/services/short-term-individual-counseling</loc>
+  </url>
+  <url>
+    <loc>https://counseling.ucmerced.edu/services/drop-in-services</loc>
+  </url>
+  <url>
+    <loc>https://counseling.ucmerced.edu/services/consultation</loc>
   </url>
   <url>
     <loc>https://counseling.ucmerced.edu/sites/counseling.ucmerced.edu/files/page/documents/how_to-_finding_mental_health_treatment.pdf</loc>

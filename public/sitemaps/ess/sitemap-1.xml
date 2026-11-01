@@ -19,15 +19,12 @@
     <loc>https://ess.ucmerced.edu/studentsandalumni</loc>
   </url>
   <url>
+    <loc>https://ess.ucmerced.edu/faculty</loc>
+  </url>
+  <url>
     <loc>https://ess.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
     <loc>https://ess.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://ess.ucmerced.edu/faculty</loc>
-  </url>
-  <url>
-    <loc>https://ess.ucmerced.edu/videos</loc>
   </url>
 </urlset>

@@ -10,13 +10,7 @@
     <loc>https://philosophy.ucmerced.edu/about</loc>
   </url>
   <url>
-    <loc>https://philosophy.ucmerced.edu/people</loc>
-  </url>
-  <url>
     <loc>https://philosophy.ucmerced.edu/courses-and-programs</loc>
-  </url>
-  <url>
-    <loc>https://philosophy.ucmerced.edu/research</loc>
   </url>
   <url>
     <loc>https://philosophy.ucmerced.edu/events</loc>
@@ -28,9 +22,6 @@
     <loc>https://philosophy.ucmerced.edu/after-graduation</loc>
   </url>
   <url>
-    <loc>https://philosophy.ucmerced.edu/after-graduation/career-readiness-philosophy</loc>
-  </url>
-  <url>
     <loc>https://philosophy.ucmerced.edu/after-graduation/thinking-about-graduate-school</loc>
   </url>
   <url>
@@ -40,22 +31,13 @@
     <loc>https://philosophy.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://philosophy.ucmerced.edu/content/hanna-kiri-gunn</loc>
+    <loc>https://philosophy.ucmerced.edu/people</loc>
   </url>
   <url>
-    <loc>https://philosophy.ucmerced.edu/content/nigel-de-juan-hatton</loc>
+    <loc>https://philosophy.ucmerced.edu/research</loc>
   </url>
   <url>
-    <loc>https://philosophy.ucmerced.edu/content/dan-hicks</loc>
-  </url>
-  <url>
-    <loc>https://philosophy.ucmerced.edu/content/rolf-johansson</loc>
-  </url>
-  <url>
-    <loc>https://philosophy.ucmerced.edu/content/toby-napoletano</loc>
-  </url>
-  <url>
-    <loc>https://philosophy.ucmerced.edu/content/jeff-yoshimi</loc>
+    <loc>https://philosophy.ucmerced.edu/after-graduation/career-readiness-philosophy</loc>
   </url>
   <url>
     <loc>https://philosophy.ucmerced.edu/major</loc>
@@ -74,5 +56,29 @@
   </url>
   <url>
     <loc>https://philosophy.ucmerced.edu/STEPLOs</loc>
+  </url>
+  <url>
+    <loc>https://philosophy.ucmerced.edu/content/hanna-kiri-gunn</loc>
+  </url>
+  <url>
+    <loc>https://philosophy.ucmerced.edu/content/nigel-de-juan-hatton</loc>
+  </url>
+  <url>
+    <loc>https://philosophy.ucmerced.edu/content/dan-hicks</loc>
+  </url>
+  <url>
+    <loc>https://philosophy.ucmerced.edu/content/david-jennings</loc>
+  </url>
+  <url>
+    <loc>https://philosophy.ucmerced.edu/content/carolyn-dicey-jennings</loc>
+  </url>
+  <url>
+    <loc>https://philosophy.ucmerced.edu/content/rolf-johansson</loc>
+  </url>
+  <url>
+    <loc>https://philosophy.ucmerced.edu/content/toby-napoletano</loc>
+  </url>
+  <url>
+    <loc>https://philosophy.ucmerced.edu/content/jeff-yoshimi</loc>
   </url>
 </urlset>

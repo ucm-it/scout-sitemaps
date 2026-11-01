@@ -22,6 +22,9 @@
     <loc>https://gsa.ucmerced.edu/about-us/constitution-bylaws</loc>
   </url>
   <url>
+    <loc>https://gsa.ucmerced.edu/about-us/meeting-minutes</loc>
+  </url>
+  <url>
     <loc>https://gsa.ucmerced.edu/about-us/meeting-minutes/meeting-archive</loc>
   </url>
   <url>
@@ -38,9 +41,6 @@
   </url>
   <url>
     <loc>https://gsa.ucmerced.edu/funding/travel-awards</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/form/application-gsa-travel-award</loc>
   </url>
   <url>
     <loc>https://gsa.ucmerced.edu/funding/sponsored-event-fund</loc>
@@ -73,9 +73,6 @@
     <loc>https://gsa.ucmerced.edu/get-involved/Community-Service</loc>
   </url>
   <url>
-    <loc>https://gsa.ucmerced.edu/get-involved/graduate-student-organizations</loc>
-  </url>
-  <url>
     <loc>https://gsa.ucmerced.edu/get-involved/graduate-student-organizations/start-gso</loc>
   </url>
   <url>
@@ -101,9 +98,6 @@
   </url>
   <url>
     <loc>https://gsa.ucmerced.edu/resources/promoting-research</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/resources/career-and-job-resources</loc>
   </url>
   <url>
     <loc>https://gsa.ucmerced.edu/resources/graduate-division</loc>
@@ -160,7 +154,13 @@
     <loc>https://gsa.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://gsa.ucmerced.edu/about-us/meeting-minutes</loc>
+    <loc>https://gsa.ucmerced.edu/form/application-gsa-travel-award</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/get-involved/graduate-student-organizations</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/resources/career-and-job-resources</loc>
   </url>
   <url>
     <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/Constitution_Bylaws/gsa_constitution_2024_spring.pdf</loc>
@@ -212,6 +212,36 @@
   </url>
   <url>
     <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/Constitution_Bylaws/gsa_by-laws_2005.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_09_13-gsa-ga-mm.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_09_21-gsa-da_mm.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_10_04-gsa-ga-mm.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_10_05-gsa-da_mm.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_11_01-gsa-ga-mm.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_11_02-gsa-da-mm.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023-11-29_gsa-ga-mm.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2024-01-31_gsa-ea_ga-mm.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2024-02-28_gsa-ga-mm.pdf</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2024-03-13_gsa-ga-mm.pdf</loc>
   </url>
   <url>
     <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2022-2023/042823_ec_ga_meeting_minutes_yp_mm_as_epl.pdf</loc>
@@ -997,36 +1027,6 @@
     <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2008-2009/ucmgsa_council_minutes_2008_0718.pdf</loc>
   </url>
   <url>
-    <loc>https://gsa.ucmerced.edu/news/2024/gsa-general-assembly-meeting-3</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2024/gsa-general-assembly-meeting-2</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2024/gsa-general-assembly-meeting-1</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2024/gsa-general-assembly-meeting-0</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2024/gsa-general-assembly-meeting</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2023/gsa-general-assembly-meeting-1</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2023/gradsgiving</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2023/gsa-delegate-assembly-meeting</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2023/gsa-general-assembly-meeting</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2023/halloween-movie-night</loc>
-  </url>
-  <url>
     <loc>https://gsa.ucmerced.edu/news?page=1</loc>
   </url>
   <url>
@@ -1672,168 +1672,6 @@
     <loc>http://gsa.ucmerced.edu/form/website-feedback</loc>
   </url>
   <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_09_13-gsa-ga-mm.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_09_21-gsa-da_mm.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_10_04-gsa-ga-mm.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_10_05-gsa-da_mm.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_11_01-gsa-ga-mm.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023_11_02-gsa-da-mm.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2023-11-29_gsa-ga-mm.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2024-01-31_gsa-ea_ga-mm.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2024-02-28_gsa-ga-mm.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2023-2024/2024-03-13_gsa-ga-mm.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2023/gsa-delegate-assembly-meeting-0</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2023/gsa-ecga-meeting</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2023/uroc-research-week-showcase</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2022/gradsgiving</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2022/gsa-ecga-meeting-1</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2022/halloween-movie-night</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2022/pastries-and-drinks-event-ctk-quad-1pm</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2022/graduate-student-game-night</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2022/gsa-ecga-meeting-0</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2022/ucgpc-hiring-apply-september-9-2022</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2022/gsa-ecga-meeting</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2022/voting-period-extended-gsa-spring-2022-elections</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2022/gsa-social-justice-higher-education-talk</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2022/gsa-selected-works-exhibit</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2022/gas-expenses-assistance</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2022/provide-input-graduate-students-rights-responsibilities</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2021/call-applications-uc-title-ix-student-advisory-board</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2021/gsa-president-wins-uc-grad-slam-competition</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2021/gsa-awarded-uc-merced-building-community-award</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2021/gsa-legislative-advocacy-team-meets-local-elected-representatives</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2021/application-uc-center-sacramento-emerging-scholars-award</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2021/gsa-elections-nomination-period-open</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2021/spring-2021-newsletter-and-raffle</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2021/call-review-proposal-update-gsa-bylaws</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2021/we-need-your-help-few-important-initiatives</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2021/call-graduate-students-serve-gsa-election-commission</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2020/upcoming-professional-development-opportunity</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2020/read-newsletter-and-win-25-gift-card-starbucks</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2020/call-applicants-public-relations-officer</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2020/learn-more-about-gsa-equity-diversity-and-inclusion-initiatives</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2020/official-agenda-2020-2021</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2020/voting-information</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2020/call-applicants-legislative-affairs-officer</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2020/gsa-fall-2020-election-vote-now</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2020/welcome-back-gsa-president</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2020/child-care-funding-options-fall-2020</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2020/action-against-racism-2020-2021-academic-year</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2018/gsa-executive-council-meeting-413</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2018/first-annual-ucgpc-conference</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2017/delegate-assembly-meeting</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2017/time-and-place-change-executive-council-meeting-111</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2017/gsa-executive-council-meeting-111</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2017/gsa-executive-council-meeting-103</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/news/2017/gsa-executive-council-meeting</loc>
-  </url>
-  <url>
     <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/GSA_Meetings/2022-2023/gsa_meetingagenda_110822.pdf</loc>
   </url>
   <url>
@@ -1847,36 +1685,6 @@
   </url>
   <url>
     <loc>http://gsa.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2024/gsa-general-assembly-meeting-3</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2024/gsa-general-assembly-meeting-2</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2024/gsa-general-assembly-meeting-1</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2024/gsa-general-assembly-meeting-0</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2024/gsa-general-assembly-meeting</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2023/gsa-general-assembly-meeting-1</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2023/gradsgiving</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2023/gsa-delegate-assembly-meeting</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2023/gsa-general-assembly-meeting</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2023/halloween-movie-night</loc>
   </url>
   <url>
     <loc>http://gsa.ucmerced.edu/news?page=1</loc>
@@ -2342,161 +2150,5 @@
   </url>
   <url>
     <loc>http://gsa.ucmerced.edu/events/new-graduate-student-welcome-reception</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/Other/s2021_gsa_newsletter.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/Other/gift_card_gift_disclaimer.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/Other/f2020_gsa_newsletter_v5.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/Constitution_Bylaws/Amendment_Proposals/fall2020_gsa_bylaws_amendment_proposals.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/Constitution_Bylaws/Amendment_Proposals/fall2020_gsa_constitution_amendment_proposals.pdf</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/events/gsa-elections/gsa-executive-council-candidates</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/events/gsa-elections/new-gsa-logo</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/events/gsa-elections/gsa-delegate-assembly-candidates</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2023/gsa-delegate-assembly-meeting-0</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2023/gsa-ecga-meeting</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2023/uroc-research-week-showcase</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2022/gradsgiving</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2022/gsa-ecga-meeting-1</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2022/halloween-movie-night</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2022/pastries-and-drinks-event-ctk-quad-1pm</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2022/graduate-student-game-night</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2022/gsa-ecga-meeting-0</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2022/ucgpc-hiring-apply-september-9-2022</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2022/gsa-ecga-meeting</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2022/voting-period-extended-gsa-spring-2022-elections</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2022/gsa-social-justice-higher-education-talk</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2022/gsa-selected-works-exhibit</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2022/gas-expenses-assistance</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2022/provide-input-graduate-students-rights-responsibilities</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2021/call-applications-uc-title-ix-student-advisory-board</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2021/gsa-president-wins-uc-grad-slam-competition</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2021/gsa-awarded-uc-merced-building-community-award</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2021/gsa-legislative-advocacy-team-meets-local-elected-representatives</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2021/application-uc-center-sacramento-emerging-scholars-award</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2021/gsa-elections-nomination-period-open</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2021/spring-2021-newsletter-and-raffle</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2021/call-review-proposal-update-gsa-bylaws</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2021/we-need-your-help-few-important-initiatives</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2021/call-graduate-students-serve-gsa-election-commission</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2020/upcoming-professional-development-opportunity</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2020/read-newsletter-and-win-25-gift-card-starbucks</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2020/call-applicants-public-relations-officer</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2020/learn-more-about-gsa-equity-diversity-and-inclusion-initiatives</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2020/official-agenda-2020-2021</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2020/voting-information</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2020/call-applicants-legislative-affairs-officer</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2020/gsa-fall-2020-election-vote-now</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2020/welcome-back-gsa-president</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2020/child-care-funding-options-fall-2020</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2020/action-against-racism-2020-2021-academic-year</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2018/gsa-executive-council-meeting-413</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2018/first-annual-ucgpc-conference</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2017/delegate-assembly-meeting</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2017/time-and-place-change-executive-council-meeting-111</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2017/gsa-executive-council-meeting-111</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2017/gsa-executive-council-meeting-103</loc>
-  </url>
-  <url>
-    <loc>http://gsa.ucmerced.edu/news/2017/gsa-executive-council-meeting</loc>
   </url>
 </urlset>

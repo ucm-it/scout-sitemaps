@@ -13,9 +13,6 @@
     <loc>https://eeoaa.ucmerced.edu/information-resources</loc>
   </url>
   <url>
-    <loc>https://eeoaa.ucmerced.edu/tools-and-resources/eeo-law</loc>
-  </url>
-  <url>
     <loc>https://eeoaa.ucmerced.edu/information-resources/key-agencies</loc>
   </url>
   <url>
@@ -26,5 +23,8 @@
   </url>
   <url>
     <loc>https://eeoaa.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://eeoaa.ucmerced.edu/tools-and-resources/eeo-law</loc>
   </url>
 </urlset>

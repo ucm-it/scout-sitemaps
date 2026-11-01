@@ -52,6 +52,9 @@
     <loc>https://prehealth.ucmerced.edu/resources</loc>
   </url>
   <url>
+    <loc>https://prehealth.ucmerced.edu/resources/experiential-learning</loc>
+  </url>
+  <url>
     <loc>https://prehealth.ucmerced.edu/resources/dreamers</loc>
   </url>
   <url>
@@ -83,9 +86,6 @@
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/resources/experiential-learning</loc>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/sites/prehealth.ucmerced.edu/files/page/documents/pathway_to_practice-with_new_logo_.pdf</loc>
@@ -161,9 +161,6 @@
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/ucsf-school-medicine-information-session</loc>
-  </url>
-  <url>
-    <loc>https://prehealth.ucmerced.edu/events/financial-aid-kpsom-med-school-virtual-info-sessions</loc>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/ucsf-school-pharmacy-current-student-panel-2</loc>
@@ -274,10 +271,10 @@
     <loc>https://prehealth.ucmerced.edu/events/llu-school-allied-healths-entry-level-doctorate-occupational-therapy</loc>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/med-student-panel-campus</loc>
+    <loc>https://prehealth.ucmerced.edu/events/loma-linda-uiv-school-nursing-primary-care-and-family-dnp-programs</loc>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/loma-linda-uiv-school-nursing-primary-care-and-family-dnp-programs</loc>
+    <loc>https://prehealth.ucmerced.edu/events/med-student-panel-campus</loc>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/ucsf-school-pharmacy-info-session</loc>
@@ -664,10 +661,10 @@
     <loc>https://prehealth.ucmerced.edu/events/health-professional-school-application-series-application-overview-se1-270k-1</loc>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-pharmacy-se1-270k-0</loc>
+    <loc>https://prehealth.ucmerced.edu/events/pre-med-pre-health-public-health-career-meet-ups-central-california-alliance-health</loc>
   </url>
   <url>
-    <loc>https://prehealth.ucmerced.edu/events/pre-med-pre-health-public-health-career-meet-ups-central-california-alliance-health</loc>
+    <loc>https://prehealth.ucmerced.edu/events/introduction-pre-pharmacy-se1-270k-0</loc>
   </url>
   <url>
     <loc>https://prehealth.ucmerced.edu/events/university-pacific-pharmacy-and-health-sciences-information-session</loc>

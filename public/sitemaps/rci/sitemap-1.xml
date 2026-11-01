@@ -49,6 +49,12 @@
     <loc>https://rci.ucmerced.edu/irb/researchers/research-vulnerable-populations</loc>
   </url>
   <url>
+    <loc>https://rci.ucmerced.edu/irb/researchers/research-vulnerable-populations/research-minors</loc>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/irb/researchers/research-vulnerable-populations/resarch-uc-merced-students-staff-or-faculty</loc>
+  </url>
+  <url>
     <loc>https://rci.ucmerced.edu/node/40</loc>
   </url>
   <url>
@@ -139,9 +145,6 @@
     <loc>https://rci.ucmerced.edu/iacuc/policies-guidance-and-other-resources</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/coi</loc>
-  </url>
-  <url>
     <loc>https://rci.ucmerced.edu/coi/federal-disclosures</loc>
   </url>
   <url>
@@ -170,9 +173,6 @@
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/coi/state-california-financial-disclosure/guidance</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/coi/state-california-financial-disclosure/policies</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/coi/coi-faqs</loc>
@@ -355,25 +355,10 @@
     <loc>https://rci.ucmerced.edu/resources-and-news/recent-regulatory-updates</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/news/2026/2026-27-curtailment-schedule</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/news/2025/wilson-among-year%E2%80%99s-aaas-fellows-recognized-science-and-outreach</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/news/2025/uc-merced-achieves-r1-highest-tier-research-classification</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/news/2024/2024-25-curtailment-schedule</loc>
-  </url>
-  <url>
     <loc>https://rci.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/irb/researchers/research-vulnerable-populations/research-minors</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/irb/researchers/research-vulnerable-populations/resarch-uc-merced-students-staff-or-faculty</loc>
+    <loc>https://rci.ucmerced.edu/coi</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/cayuse_iacuc_-_iacuc_researcher_manual_0.pdf</loc>
@@ -416,6 +401,12 @@
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/offsite_permision_letter_template.doc</loc>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/permissionparent_-_social_behavioral.doc</loc>
+  </url>
+  <url>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/assent-1_1.doc</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/irb_review_form_new_studies_revised.doc</loc>
@@ -520,9 +511,6 @@
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/paren_permission_sber_-_2018_common_rule_0_1.doc</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/assent-1_1.doc</loc>
-  </url>
-  <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/request-consent-waiver_revised-common-rule_.doc</loc>
   </url>
   <url>
@@ -551,9 +539,6 @@
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/irb_covid_ramp_up_guidance_final_1.pdf</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/news/2020/covid-19-irb-guidance-updated</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/page/documents/cayuse_iacuc_-_iacuc_researcher_manual.pdf</loc>
@@ -751,6 +736,9 @@
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/2026.06.17_iacuc_ibc_quick_reference_draft_1_1.docx</loc>
   </url>
   <url>
+    <loc>https://rci.ucmerced.edu/coi/state-california-financial-disclosure/policies</loc>
+  </url>
+  <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/investigators_disclosure_of_economic_interests_addendum.pdf</loc>
   </url>
   <url>
@@ -764,9 +752,6 @@
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/coi-gift-addendum.docx</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/giftsdisclosurepolicy2.pdf</loc>
   </url>
   <url>
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/coi_sop_1_12.10.21_final.pdf</loc>
@@ -901,10 +886,7 @@
     <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/newsletter_fall_sept_2025_correction.pdf</loc>
   </url>
   <url>
-    <loc>https://rci.ucmerced.edu/media-contact/alyssa-johansen</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/permissionparent_-_social_behavioral.doc</loc>
+    <loc>https://rci.ucmerced.edu/sites/g/files/ufvvjh1526/f/documents/giftsdisclosurepolicy2.pdf</loc>
   </url>
   <url>
     <loc>http://rci.ucmerced.edu/irb</loc>
@@ -1264,27 +1246,6 @@
     <loc>http://rci.ucmerced.edu/resources-and-news/recent-regulatory-updates</loc>
   </url>
   <url>
-    <loc>http://rci.ucmerced.edu/news/2026/2026-27-curtailment-schedule</loc>
-  </url>
-  <url>
-    <loc>http://rci.ucmerced.edu/news/2025/wilson-among-year%E2%80%99s-aaas-fellows-recognized-science-and-outreach</loc>
-  </url>
-  <url>
-    <loc>http://rci.ucmerced.edu/news/2025/uc-merced-achieves-r1-highest-tier-research-classification</loc>
-  </url>
-  <url>
-    <loc>http://rci.ucmerced.edu/news/2024/2024-25-curtailment-schedule</loc>
-  </url>
-  <url>
     <loc>http://rci.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://rci.ucmerced.edu/taxonomy/term/1521/feed</loc>
-  </url>
-  <url>
-    <loc>http://rci.ucmerced.edu/media-contact/alyssa-johansen</loc>
-  </url>
-  <url>
-    <loc>http://rci.ucmerced.edu/taxonomy/term/1521/feed</loc>
   </url>
 </urlset>

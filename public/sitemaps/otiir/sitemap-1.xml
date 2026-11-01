@@ -13,9 +13,6 @@
     <loc>https://otiir.ucmerced.edu/ucm-researchers</loc>
   </url>
   <url>
-    <loc>https://otiir.ucmerced.edu/industry-partners</loc>
-  </url>
-  <url>
     <loc>https://otiir.ucmerced.edu/innovators-entrepreneurs</loc>
   </url>
   <url>
@@ -28,7 +25,7 @@
     <loc>https://otiir.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://otiir.ucmerced.edu/Merced2Market2027</loc>
+    <loc>https://otiir.ucmerced.edu/industry-partners</loc>
   </url>
   <url>
     <loc>https://otiir.ucmerced.edu/Merced2Market2026</loc>
@@ -38,6 +35,9 @@
   </url>
   <url>
     <loc>https://otiir.ucmerced.edu/Frequently%20Asked%20Questions%20-%20Patenting</loc>
+  </url>
+  <url>
+    <loc>https://otiir.ucmerced.edu/Frequently%20Asked%20Questions%20-%20Licensing</loc>
   </url>
   <url>
     <loc>https://otiir.ucmerced.edu/Frequently%20Asked%20Questions%20-%20Startup</loc>

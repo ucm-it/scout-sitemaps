@@ -37,9 +37,6 @@
     <loc>https://administration.ucmerced.edu/oracle-project</loc>
   </url>
   <url>
-    <loc>https://administration.ucmerced.edu/oracle-coa</loc>
-  </url>
-  <url>
     <loc>https://administration.ucmerced.edu/oracle-guided-learning</loc>
   </url>
   <url>
@@ -50,6 +47,9 @@
   </url>
   <url>
     <loc>https://administration.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://administration.ucmerced.edu/oracle-coa</loc>
   </url>
   <url>
     <loc>https://administration.ucmerced.edu/contact-us</loc>

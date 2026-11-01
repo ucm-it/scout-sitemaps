@@ -31,16 +31,13 @@
     <loc>https://anth.ucmerced.edu/graduate-studies</loc>
   </url>
   <url>
-    <loc>https://anth.ucmerced.edu/student-resources</loc>
-  </url>
-  <url>
     <loc>https://anth.ucmerced.edu/student-resources/careers</loc>
   </url>
   <url>
-    <loc>https://anth.ucmerced.edu/student-resources/field-schools</loc>
+    <loc>https://anth.ucmerced.edu/student-resources/internships-employment</loc>
   </url>
   <url>
-    <loc>https://anth.ucmerced.edu/student-resources/internships-employment</loc>
+    <loc>https://anth.ucmerced.edu/student-resources/research-funding</loc>
   </url>
   <url>
     <loc>https://anth.ucmerced.edu/rss.xml</loc>
@@ -49,7 +46,10 @@
     <loc>https://anth.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://anth.ucmerced.edu/student-resources/research-funding</loc>
+    <loc>https://anth.ucmerced.edu/student-resources</loc>
+  </url>
+  <url>
+    <loc>https://anth.ucmerced.edu/student-resources/field-schools</loc>
   </url>
   <url>
     <loc>https://anth.ucmerced.edu/content/holley-moyes</loc>

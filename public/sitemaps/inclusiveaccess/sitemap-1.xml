@@ -13,13 +13,13 @@
     <loc>https://inclusiveaccess.ucmerced.edu/people</loc>
   </url>
   <url>
-    <loc>https://inclusiveaccess.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
     <loc>https://inclusiveaccess.ucmerced.edu/faq</loc>
   </url>
   <url>
     <loc>https://inclusiveaccess.ucmerced.edu/support</loc>
+  </url>
+  <url>
+    <loc>https://inclusiveaccess.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
     <loc>https://inclusiveaccess.ucmerced.edu/contact-us</loc>

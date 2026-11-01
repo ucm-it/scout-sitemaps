@@ -37,6 +37,9 @@
     <loc>https://procurement.ucmerced.edu/procurement/amazon-business/account-registration</loc>
   </url>
   <url>
+    <loc>https://procurement.ucmerced.edu/procurement/amazon-business/amazon-business-faq</loc>
+  </url>
+  <url>
     <loc>https://procurement.ucmerced.edu/contracts/contracting-out-services</loc>
   </url>
   <url>
@@ -44,9 +47,6 @@
   </url>
   <url>
     <loc>https://procurement.ucmerced.edu/trademarks</loc>
-  </url>
-  <url>
-    <loc>https://procurement.ucmerced.edu/procurement/policies-and-guidelines</loc>
   </url>
   <url>
     <loc>https://procurement.ucmerced.edu/procurement/commodity-specific-guidance</loc>
@@ -199,7 +199,7 @@
     <loc>https://procurement.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://procurement.ucmerced.edu/procurement/amazon-business/amazon-business-faq</loc>
+    <loc>https://procurement.ucmerced.edu/procurement/policies-and-guidelines</loc>
   </url>
   <url>
     <loc>https://procurement.ucmerced.edu/procurement/independent-contractors</loc>

@@ -43,13 +43,16 @@
     <loc>https://ssha-instructionalservices.ucmerced.edu/form/ssha-past-course-evaluation-request-form</loc>
   </url>
   <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/instructional-support/course-scheduling</loc>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/instructional-support/grades</loc>
+  </url>
+  <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/instructional-support/scantron-machine-support</loc>
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/instructional-support/supporting-student-success</loc>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/new-instructor-orientation</loc>
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/new-instructor-orientation/new-instructor-resources</loc>
@@ -88,10 +91,7 @@
     <loc>https://ssha-instructionalservices.ucmerced.edu/instructional-support</loc>
   </url>
   <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/instructional-support/course-scheduling</loc>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/instructional-support/grades</loc>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/new-instructor-orientation</loc>
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/sites/g/files/ufvvjh2131/f/documents/2026-2027_ssha_faculty_points_of_contact.pdf</loc>
@@ -137,6 +137,12 @@
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/page/documents/ssha_process_new_program_proposals_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/summer_scheduling_grid.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/room_max_capacities_2020.xls_-_compatibility_mode.pdf</loc>
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha.ucmerced.edu/files/page/documents/g._scantron_machines_instructions_01.09.2020.pdf</loc>
@@ -377,11 +383,5 @@
   </url>
   <url>
     <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/uc_merced_diversity_statement_and_principles_of_community_08.16.19.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/summer_scheduling_grid.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ssha-instructionalservices.ucmerced.edu/sites/ssha-instructionalservices.ucmerced.edu/files/documents/room_max_capacities_2020.xls_-_compatibility_mode.pdf</loc>
   </url>
 </urlset>

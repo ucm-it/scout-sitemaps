@@ -145,9 +145,6 @@
     <loc>https://health.ucmerced.edu/insurance/uc-ship-fraud-information</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/insurance/uc-ship-and-aca</loc>
-  </url>
-  <url>
     <loc>https://health.ucmerced.edu/insurance/campus-medical-care-assistance-fund-program</loc>
   </url>
   <url>
@@ -163,13 +160,7 @@
     <loc>https://health.ucmerced.edu/resources/new-students</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/news/2026/2026-2027-uc-ship-waiver-open</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/news/2024/attention-ship-students</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/news/2024/lyrauc-ship</loc>
+    <loc>https://health.ucmerced.edu/insurance/uc-ship-and-aca</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/healthbrochure.pdf</loc>
@@ -188,6 +179,9 @@
   </url>
   <url>
     <loc>https://health.ucmerced.edu/birth-control</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sexually-transmitted-infections</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/pregnancy-services</loc>
@@ -277,6 +271,21 @@
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/suspiciousactivityfaqs.pdf</loc>
   </url>
   <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/campus_medical_care_assistance_fund_faq_2024-25.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/cmcaf_application_2024-25.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/confidential_communications_request.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/pacaos_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/privacynotice_1.pdf</loc>
+  </url>
+  <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshipacatips.pdf</loc>
   </url>
   <url>
@@ -299,20 +308,5 @@
   </url>
   <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshiptipsheet.pdf</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/campus_medical_care_assistance_fund_faq_2024-25.pdf</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/cmcaf_application_2024-25.pdf</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/confidential_communications_request.pdf</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/pacaos_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/privacynotice_1.pdf</loc>
   </url>
 </urlset>

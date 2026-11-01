@@ -31,9 +31,6 @@
     <loc>https://payroll.ucmerced.edu/kissflow-forms</loc>
   </url>
   <url>
-    <loc>https://payroll.ucmerced.edu/kissflow-forms/kissflow-implementation</loc>
-  </url>
-  <url>
     <loc>https://payroll.ucmerced.edu/kissflow-forms/kissflow-payroll-project-faqs</loc>
   </url>
   <url>
@@ -70,16 +67,13 @@
     <loc>https://payroll.ucmerced.edu/news-and-updates</loc>
   </url>
   <url>
-    <loc>https://payroll.ucmerced.edu/news/2025/advisory-ucpath-dcp-and-fica-adjustments</loc>
-  </url>
-  <url>
     <loc>https://payroll.ucmerced.edu/graduate-student-time-reporting</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/payroll-services-roadmap</loc>
   </url>
   <url>
-    <loc>https://payroll.ucmerced.edu/contacts</loc>
+    <loc>https://payroll.ucmerced.edu/onboarding-actions</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/ucpath-portal-onboarding</loc>
@@ -103,7 +97,10 @@
     <loc>https://payroll.ucmerced.edu/payroll-systems/ucpath/w-2</loc>
   </url>
   <url>
-    <loc>https://payroll.ucmerced.edu/onboarding-actions</loc>
+    <loc>https://payroll.ucmerced.edu/contacts</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/kissflow-forms/kissflow-implementation</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/i-9-acceptable-documents</loc>
@@ -131,9 +128,6 @@
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/form/contingent-worker-intake-appointment-request</loc>
-  </url>
-  <url>
-    <loc>https://payroll.ucmerced.edu/form/staff-intake-appointment-request</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/form/reclassification-staff</loc>
@@ -299,9 +293,6 @@
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/summersalaryescalation</loc>
-  </url>
-  <url>
-    <loc>https://payroll.ucmerced.edu/news/2025/summer-salary-guide</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/form/student-separation-non-academic</loc>

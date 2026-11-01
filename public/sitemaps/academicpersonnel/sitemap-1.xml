@@ -10,9 +10,6 @@
     <loc>https://academicpersonnel.ucmerced.edu/about/APO</loc>
   </url>
   <url>
-    <loc>https://academicpersonnel.ucmerced.edu/APO_People_Work_Areas</loc>
-  </url>
-  <url>
     <loc>https://academicpersonnel.ucmerced.edu/sites/academicpersonnel.ucmerced.edu/files/documents/orgchart_apo_december_2025.pdf</loc>
   </url>
   <url>
@@ -22,10 +19,16 @@
     <loc>https://academicpersonnel.ucmerced.edu/Department_Chairs</loc>
   </url>
   <url>
-    <loc>https://academicpersonnel.ucmerced.edu/about/listservs</loc>
+    <loc>https://academicpersonnel.ucmerced.edu/policies/merced-academic-personnel-policies-procedures</loc>
+  </url>
+  <url>
+    <loc>https://academicpersonnel.ucmerced.edu/policies/collective-bargaining</loc>
   </url>
   <url>
     <loc>https://academicpersonnel.ucmerced.edu/life/work-life/leave-policies</loc>
+  </url>
+  <url>
+    <loc>https://academicpersonnel.ucmerced.edu/policies/leave-policies/senate-faculty-leave</loc>
   </url>
   <url>
     <loc>https://academicpersonnel.ucmerced.edu/policies/leave-policies/additional-titles</loc>
@@ -119,18 +122,6 @@
   </url>
   <url>
     <loc>https://academicpersonnel.ucmerced.edu/tools/graduate-and-lecturer-academic-appointment-system-glaas</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/tools/graduate-and-lecturer-academic-appointment-system-glaas/glaas-governance-board</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/tools/graduate-and-lecturer-academic-appointment-system-glaas/glaas-support</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/tools/graduate-and-lecturer-academic-appointment-system-glaas/glaas-workgroup</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/tools/graduate-and-lecturer-academic-appointment-system-glaas/glaas-enhancement-request-form</loc>
   </url>
   <url>
     <loc>https://academicpersonnel.ucmerced.edu/Graduate_Appointment_Calculator</loc>
@@ -295,19 +286,13 @@
     <loc>https://academicpersonnel.ucmerced.edu/Goals-and-Objectives</loc>
   </url>
   <url>
-    <loc>https://academicpersonnel.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
     <loc>https://academicpersonnel.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://academicpersonnel.ucmerced.edu/policies/merced-academic-personnel-policies-procedures</loc>
+    <loc>https://academicpersonnel.ucmerced.edu/APO_People_Work_Areas</loc>
   </url>
   <url>
-    <loc>https://academicpersonnel.ucmerced.edu/policies/collective-bargaining</loc>
-  </url>
-  <url>
-    <loc>https://academicpersonnel.ucmerced.edu/policies/leave-policies/senate-faculty-leave</loc>
+    <loc>https://academicpersonnel.ucmerced.edu/about/listservs</loc>
   </url>
   <url>
     <loc>https://academicpersonnel.ucmerced.edu/events</loc>
@@ -626,18 +611,6 @@
   </url>
   <url>
     <loc>http://academicpersonnel.ucmerced.edu/tools/graduate-and-lecturer-academic-appointment-system-glaas</loc>
-  </url>
-  <url>
-    <loc>http://academicpersonnel.ucmerced.edu/tools/graduate-and-lecturer-academic-appointment-system-glaas/glaas-governance-board</loc>
-  </url>
-  <url>
-    <loc>http://academicpersonnel.ucmerced.edu/tools/graduate-and-lecturer-academic-appointment-system-glaas/glaas-support</loc>
-  </url>
-  <url>
-    <loc>http://academicpersonnel.ucmerced.edu/tools/graduate-and-lecturer-academic-appointment-system-glaas/glaas-workgroup</loc>
-  </url>
-  <url>
-    <loc>http://academicpersonnel.ucmerced.edu/tools/graduate-and-lecturer-academic-appointment-system-glaas/glaas-enhancement-request-form</loc>
   </url>
   <url>
     <loc>http://academicpersonnel.ucmerced.edu/Graduate_Appointment_Calculator</loc>
@@ -1199,9 +1172,6 @@
   </url>
   <url>
     <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/ucm-ap_903_stop_the_clock_certification_form_covid_19_final_rev_9.22.21.pdf</loc>
-  </url>
-  <url>
-    <loc>http://academicpersonnel.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
     <loc>https://academicpersonnel.ucmerced.edu/sites/g/files/ufvvjh291/f/documents/application_covid-related_dependent_care_modified_duties.docx</loc>

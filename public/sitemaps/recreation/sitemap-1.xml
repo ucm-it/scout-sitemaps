@@ -16,22 +16,13 @@
     <loc>https://recreation.ucmerced.edu/Facilities/usage-policies</loc>
   </url>
   <url>
-    <loc>https://recreation.ucmerced.edu/OEP</loc>
-  </url>
-  <url>
     <loc>https://recreation.ucmerced.edu/OEP/Calendar</loc>
   </url>
   <url>
     <loc>https://recreation.ucmerced.edu/OEP/Outdoor-Equipment-Rental</loc>
   </url>
   <url>
-    <loc>https://recreation.ucmerced.edu/about-us</loc>
-  </url>
-  <url>
     <loc>https://recreation.ucmerced.edu/student-employment</loc>
-  </url>
-  <url>
-    <loc>https://recreation.ucmerced.edu/staff</loc>
   </url>
   <url>
     <loc>https://recreation.ucmerced.edu/contact-us-0</loc>
@@ -52,7 +43,13 @@
     <loc>https://recreation.ucmerced.edu/sport-clubs</loc>
   </url>
   <url>
+    <loc>https://recreation.ucmerced.edu/OEP</loc>
+  </url>
+  <url>
     <loc>https://recreation.ucmerced.edu/Reservations</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/equipment-request-form</loc>
   </url>
   <url>
     <loc>https://recreation.ucmerced.edu/Memberships</loc>
@@ -61,7 +58,10 @@
     <loc>https://recreation.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://recreation.ucmerced.edu/equipment-request-form</loc>
+    <loc>https://recreation.ucmerced.edu/about-us</loc>
+  </url>
+  <url>
+    <loc>https://recreation.ucmerced.edu/staff</loc>
   </url>
   <url>
     <loc>https://recreation.ucmerced.edu/Gallo</loc>

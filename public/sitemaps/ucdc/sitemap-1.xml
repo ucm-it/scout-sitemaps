@@ -28,7 +28,13 @@
     <loc>https://ucdc.ucmerced.edu/about/dc-experience/housing</loc>
   </url>
   <url>
+    <loc>https://ucdc.ucmerced.edu/about/dc-experience/transportation</loc>
+  </url>
+  <url>
     <loc>https://ucdc.ucmerced.edu/application</loc>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/application/application-checklist</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/applicationtips</loc>
@@ -41,6 +47,9 @@
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/ucdc-alumni</loc>
+  </url>
+  <url>
+    <loc>https://ucdc.ucmerced.edu/ucdc-alumni/ucdc-participant-experiences</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/ucdc-alumni/fall-2019</loc>
@@ -106,22 +115,10 @@
     <loc>https://ucdc.ucmerced.edu/past-participants/fall-2008</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/faq</loc>
-  </url>
-  <url>
     <loc>https://ucdc.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://ucdc.ucmerced.edu/form/apply-now</loc>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/about/dc-experience/transportation</loc>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/application/application-checklist</loc>
-  </url>
-  <url>
-    <loc>https://ucdc.ucmerced.edu/ucdc-alumni/ucdc-participant-experiences</loc>
+    <loc>https://ucdc.ucmerced.edu/faq</loc>
   </url>
   <url>
     <loc>https://ucdc.ucmerced.edu/engineering</loc>

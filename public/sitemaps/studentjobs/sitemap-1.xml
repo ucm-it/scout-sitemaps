@@ -37,7 +37,13 @@
     <loc>https://studentjobs.ucmerced.edu/supervisorhiring-manager</loc>
   </url>
   <url>
+    <loc>https://studentjobs.ucmerced.edu/student-employment-eligibility</loc>
+  </url>
+  <url>
     <loc>https://studentjobs.ucmerced.edu/supervisorhiring-manager/how-hire</loc>
+  </url>
+  <url>
+    <loc>https://studentjobs.ucmerced.edu/kissflow-forms</loc>
   </url>
   <url>
     <loc>https://studentjobs.ucmerced.edu/form/student-assistant-intake-request</loc>
@@ -58,9 +64,6 @@
     <loc>https://studentjobs.ucmerced.edu/federal-work-study</loc>
   </url>
   <url>
-    <loc>https://studentjobs.ucmerced.edu/contacts</loc>
-  </url>
-  <url>
     <loc>https://studentjobs.ucmerced.edu/faqs</loc>
   </url>
   <url>
@@ -79,9 +82,6 @@
     <loc>https://studentjobs.ucmerced.edu/job-and-internship-resources</loc>
   </url>
   <url>
-    <loc>https://studentjobs.ucmerced.edu/ses-upcoming-events</loc>
-  </url>
-  <url>
     <loc>https://studentjobs.ucmerced.edu/student-employment-year-end-updates-reminders</loc>
   </url>
   <url>
@@ -91,10 +91,10 @@
     <loc>https://studentjobs.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://studentjobs.ucmerced.edu/student-employment-eligibility</loc>
+    <loc>https://studentjobs.ucmerced.edu/contacts</loc>
   </url>
   <url>
-    <loc>https://studentjobs.ucmerced.edu/kissflow-forms</loc>
+    <loc>https://studentjobs.ucmerced.edu/ses-upcoming-events</loc>
   </url>
   <url>
     <loc>https://studentjobs.ucmerced.edu/form/student-intake-request</loc>

@@ -28,9 +28,6 @@
     <loc>https://parkleadership.ucmerced.edu/seminar-overview/curriculum-and-format</loc>
   </url>
   <url>
-    <loc>https://parkleadership.ucmerced.edu/seminar-overview/previous-speakers</loc>
-  </url>
-  <url>
     <loc>https://parkleadership.ucmerced.edu/seminar-overview/logistics</loc>
   </url>
   <url>
@@ -43,7 +40,7 @@
     <loc>https://parkleadership.ucmerced.edu/connections</loc>
   </url>
   <url>
-    <loc>https://parkleadership.ucmerced.edu/resources</loc>
+    <loc>https://parkleadership.ucmerced.edu/gallery</loc>
   </url>
   <url>
     <loc>https://parkleadership.ucmerced.edu/about-npi</loc>
@@ -79,22 +76,13 @@
     <loc>https://parkleadership.ucmerced.edu/speakers</loc>
   </url>
   <url>
-    <loc>https://parkleadership.ucmerced.edu/gallery</loc>
+    <loc>https://parkleadership.ucmerced.edu/seminar-overview/previous-speakers</loc>
+  </url>
+  <url>
+    <loc>https://parkleadership.ucmerced.edu/resources</loc>
   </url>
   <url>
     <loc>https://parkleadership.ucmerced.edu/sites/parkleadership.ucmerced.edu/files/images/npi-yosemite-lg.jpg</loc>
-  </url>
-  <url>
-    <loc>https://parkleadership.ucmerced.edu/content/majora-carter-presenting-uc-merceds-2011-national-parks-institute-executive-leadership</loc>
-  </url>
-  <url>
-    <loc>https://parkleadership.ucmerced.edu/content/2012-seminar-reception-new-frontier-environmental-education-plus-world-bank-global-tiger</loc>
-  </url>
-  <url>
-    <loc>https://parkleadership.ucmerced.edu/content/2012-seminar-participant-sula-jacobs</loc>
-  </url>
-  <url>
-    <loc>https://parkleadership.ucmerced.edu/content/2012-seminar-participant-stan-austin</loc>
   </url>
   <url>
     <loc>https://parkleadership.ucmerced.edu/sites/g/files/ufvvjh1396/f/npi-vela_0.jpg</loc>
@@ -113,5 +101,17 @@
   </url>
   <url>
     <loc>https://parkleadership.ucmerced.edu/sites/g/files/ufvvjh1396/f/npi-cavallo-group.jpg</loc>
+  </url>
+  <url>
+    <loc>https://parkleadership.ucmerced.edu/content/majora-carter-presenting-uc-merceds-2011-national-parks-institute-executive-leadership</loc>
+  </url>
+  <url>
+    <loc>https://parkleadership.ucmerced.edu/content/2012-seminar-reception-new-frontier-environmental-education-plus-world-bank-global-tiger</loc>
+  </url>
+  <url>
+    <loc>https://parkleadership.ucmerced.edu/content/2012-seminar-participant-sula-jacobs</loc>
+  </url>
+  <url>
+    <loc>https://parkleadership.ucmerced.edu/content/2012-seminar-participant-stan-austin</loc>
   </url>
 </urlset>

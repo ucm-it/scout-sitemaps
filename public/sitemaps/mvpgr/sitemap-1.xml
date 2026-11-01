@@ -19,6 +19,9 @@
     <loc>https://mvpgr.ucnature.org/resources/</loc>
   </url>
   <url>
+    <loc>https://mvpgr.ucnature.org/resources/data/</loc>
+  </url>
+  <url>
     <loc>https://mvpgr.ucnature.org/about/mission/</loc>
   </url>
   <url>
@@ -41,9 +44,6 @@
   </url>
   <url>
     <loc>https://mvpgr.ucnature.org/resources/annual-reports/</loc>
-  </url>
-  <url>
-    <loc>https://mvpgr.ucnature.org/resources/data/</loc>
   </url>
   <url>
     <loc>https://mvpgr.ucnature.org/resources/conservation-reports/</loc>

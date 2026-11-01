@@ -10,9 +10,6 @@
     <loc>https://dsc.ucmerced.edu/people</loc>
   </url>
   <url>
-    <loc>https://dsc.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
     <loc>https://dsc.ucmerced.edu/academics</loc>
   </url>
   <url>
@@ -20,6 +17,9 @@
   </url>
   <url>
     <loc>https://dsc.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://dsc.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://dsc.ucmerced.edu/content/rosemarie-bongers</loc>

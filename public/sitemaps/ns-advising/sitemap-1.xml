@@ -25,9 +25,6 @@
     <loc>https://ns-advising.ucmerced.edu/academics</loc>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/academics/course-syllabi</loc>
-  </url>
-  <url>
     <loc>https://ns-advising.ucmerced.edu/academics/applied-mathematical-sciences</loc>
   </url>
   <url>
@@ -131,6 +128,9 @@
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/academics/course-syllabi</loc>
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/academics/environmental-systems-science</loc>

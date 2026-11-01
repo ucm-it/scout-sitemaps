@@ -31,9 +31,6 @@
     <loc>https://policy.ucmerced.edu/information-records</loc>
   </url>
   <url>
-    <loc>https://policy.ucmerced.edu/personnel-administration</loc>
-  </url>
-  <url>
     <loc>https://policy.ucmerced.edu/other-policy</loc>
   </url>
   <url>
@@ -49,13 +46,13 @@
     <loc>https://policy.ucmerced.edu/active-delegations</loc>
   </url>
   <url>
-    <loc>https://policy.ucmerced.edu/toolkit</loc>
-  </url>
-  <url>
     <loc>https://policy.ucmerced.edu/policy-development-steps</loc>
   </url>
   <url>
     <loc>https://policy.ucmerced.edu/addressing-feedback</loc>
+  </url>
+  <url>
+    <loc>https://policy.ucmerced.edu/policy-reviews</loc>
   </url>
   <url>
     <loc>https://policy.ucmerced.edu/review-existing</loc>
@@ -73,27 +70,21 @@
     <loc>https://policy.ucmerced.edu/systemwide-policy</loc>
   </url>
   <url>
+    <loc>https://policy.ucmerced.edu/governance-policy-delegation</loc>
+  </url>
+  <url>
     <loc>https://policy.ucmerced.edu/about-us</loc>
   </url>
   <url>
     <loc>https://policies.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://policy.ucmerced.edu/news/2026/uc-merced-policy-office-launches-new-website</loc>
-  </url>
-  <url>
-    <loc>https://policy.ucmerced.edu/news/2026/recently-issued-systemwide-policies</loc>
-  </url>
-  <url>
-    <loc>https://policy.ucmerced.edu/news/2026/comment-period-interim-uc-merced-policy-%C2%A0automated-license-plate-readers-alpr-systems-and</loc>
-  </url>
-  <url>
     <loc>https://policy.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://policy.ucmerced.edu/policy-reviews</loc>
+    <loc>https://policy.ucmerced.edu/personnel-administration</loc>
   </url>
   <url>
-    <loc>https://policy.ucmerced.edu/governance-policy-delegation</loc>
+    <loc>https://policy.ucmerced.edu/toolkit</loc>
   </url>
 </urlset>

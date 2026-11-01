@@ -37,19 +37,22 @@
     <loc>https://uroc.ucmerced.edu/jgi</loc>
   </url>
   <url>
-    <loc>https://uroc.ucmerced.edu/uroc-opportunities/research/jgi/jgi-alumni</loc>
-  </url>
-  <url>
     <loc>https://uroc.ucmerced.edu/soar</loc>
   </url>
   <url>
     <loc>https://uroc.ucmerced.edu/surf</loc>
   </url>
   <url>
+    <loc>https://uroc.ucmerced.edu/surf/alumni</loc>
+  </url>
+  <url>
     <loc>https://uroc.ucmerced.edu/uc-leads</loc>
   </url>
   <url>
     <loc>https://uroc.ucmerced.edu/uroc-h</loc>
+  </url>
+  <url>
+    <loc>https://uroc.ucmerced.edu/information/current-scholars/uroc-h-academic-year-awards</loc>
   </url>
   <url>
     <loc>https://uroc.ucmerced.edu/uroch/alumni</loc>
@@ -59,9 +62,6 @@
   </url>
   <url>
     <loc>https://uroc.ucmerced.edu/uroc-opportunities/uroc-workshops</loc>
-  </url>
-  <url>
-    <loc>https://uroc.ucmerced.edu/suri</loc>
   </url>
   <url>
     <loc>https://uroc.ucmerced.edu/summer-symposium</loc>
@@ -139,10 +139,10 @@
     <loc>https://uroc.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://uroc.ucmerced.edu/surf/alumni</loc>
+    <loc>https://uroc.ucmerced.edu/uroc-opportunities/research/jgi/jgi-alumni</loc>
   </url>
   <url>
-    <loc>https://uroc.ucmerced.edu/information/current-scholars/uroc-h-academic-year-awards</loc>
+    <loc>https://uroc.ucmerced.edu/suri</loc>
   </url>
   <url>
     <loc>https://uroc.ucmerced.edu/node/411</loc>
@@ -215,24 +215,6 @@
   </url>
   <url>
     <loc>https://uroc.ucmerced.edu/sites/g/files/ufvvjh1956/f/page/documents/undocumentedstudentinfosheet.pdf</loc>
-  </url>
-  <url>
-    <loc>https://uroc.ucmerced.edu/news/2022/uroc-path-grad-school-workshop-series</loc>
-  </url>
-  <url>
-    <loc>https://uroc.ucmerced.edu/news/2021/uroc-suri-faculty-mentor-orientation</loc>
-  </url>
-  <url>
-    <loc>https://uroc.ucmerced.edu/news/2021/uroc-application-information-sessions</loc>
-  </url>
-  <url>
-    <loc>https://uroc.ucmerced.edu/news/2020/jgi-scholars-reflect-their-summer-projects</loc>
-  </url>
-  <url>
-    <loc>https://uroc.ucmerced.edu/news/2020/uroc-h-application-open-summer-2021-cohort</loc>
-  </url>
-  <url>
-    <loc>https://uroc.ucmerced.edu/news/2019/uroc-application-cycle</loc>
   </url>
   <url>
     <loc>https://uroc.ucmerced.edu/programs</loc>

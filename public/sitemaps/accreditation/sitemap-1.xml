@@ -49,9 +49,6 @@
     <loc>https://accreditation.ucmerced.edu/archive/2018-reaffirmation/accreditation-visit</loc>
   </url>
   <url>
-    <loc>https://accreditation.ucmerced.edu/archive/2018-reaffirmation/accreditation-team-roster</loc>
-  </url>
-  <url>
     <loc>https://accreditation.ucmerced.edu/archive/2018-reaffirmation/campus-update-fall-2017</loc>
   </url>
   <url>
@@ -64,13 +61,10 @@
     <loc>https://accreditation.ucmerced.edu/archive/2011-initial-accreditation</loc>
   </url>
   <url>
-    <loc>https://accreditation.ucmerced.edu/archive/2011-initial-accreditation/initial-accreditation-review/capacity-preparatory-review</loc>
+    <loc>https://accreditation.ucmerced.edu/archive/2011-initial-accreditation/initial-accreditation-review</loc>
   </url>
   <url>
     <loc>https://accreditation.ucmerced.edu/archive/2011-initial-accreditation/initial-accreditation-review/educational-effectiveness-review</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/archive/2006-candidacy</loc>
   </url>
   <url>
     <loc>https://accreditation.ucmerced.edu/archive/2003-eligibility</loc>
@@ -85,7 +79,13 @@
     <loc>https://accreditation.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://accreditation.ucmerced.edu/archive/2011-initial-accreditation/initial-accreditation-review</loc>
+    <loc>https://accreditation.ucmerced.edu/archive/2018-reaffirmation/accreditation-team-roster</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/archive/2011-initial-accreditation/initial-accreditation-review/capacity-preparatory-review</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/archive/2006-candidacy</loc>
   </url>
   <url>
     <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/2025.08.25_charge_wscuc_steering_committee_finalwnames_1.pdf</loc>
@@ -178,6 +178,75 @@
     <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/irc_140717_ucm_receive_interim_report_final.pdf</loc>
   </url>
   <url>
+    <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/expectations_for_two_reviews_1_09.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/educational_effectiveness_framework_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/wasc_official_letter_7-12-11_w_revised_list_approved_degrees_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/irc_140717_ucm_receive_interim_report_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/handbook_of_accreditation.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/eer_team_report.final_.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/wasc_official_letter_7-12-11_w_revised_list_approved_degrees_1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/file_10_eer_transmittal_letter.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/file_1_table_of_contents_for_eer_report.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/file_2_required_essays.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/file_5_appendices_i-vi.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/file_6_institutional_exhibits_1-105.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/file_7_institutional_exhibits_106-210.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/file_8_institutional_exhibits_211-316.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/file_9_institutional_exhibits_317-419.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/file_4_required_data_tables_and_inventories.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/file_3_summary_data_form.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/compliance_audit_checklist_uc_merced_eer_march_2011.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/uc_merced_compliance_audit_portfolio_eer_cfr_1_to_2.12_march_2011.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/uc_merced_compliance_audit_portfolio_eer_cfr_2.13_to_4.8_march_2011.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/1_final_12_17_02_wasc_eligibility_app_11_3_.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/list_of_attachments_eligibility.pdf</loc>
+  </url>
+  <url>
+    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/wasc_action_letter.pdf</loc>
+  </url>
+  <url>
     <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/wasc_commission_action_letter_cpr_march_3_2010.pdf</loc>
   </url>
   <url>
@@ -238,54 +307,6 @@
     <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/uc_merced_compliance_audit_cpr_2009_cfr_3.5_to_4.8.pdf</loc>
   </url>
   <url>
-    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/handbook_of_accreditation.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/eer_team_report.final_.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/wasc_official_letter_7-12-11_w_revised_list_approved_degrees_1.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/file_10_eer_transmittal_letter.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/file_1_table_of_contents_for_eer_report.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/file_2_required_essays.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/file_5_appendices_i-vi.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/file_6_institutional_exhibits_1-105.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/file_7_institutional_exhibits_106-210.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/file_8_institutional_exhibits_211-316.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/file_9_institutional_exhibits_317-419.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/file_4_required_data_tables_and_inventories.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/file_3_summary_data_form.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/compliance_audit_checklist_uc_merced_eer_march_2011.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/uc_merced_compliance_audit_portfolio_eer_cfr_1_to_2.12_march_2011.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/uc_merced_compliance_audit_portfolio_eer_cfr_2.13_to_4.8_march_2011.pdf</loc>
-  </url>
-  <url>
     <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/wasc_team_ucmerced_cprreport.pdf</loc>
   </url>
   <url>
@@ -344,26 +365,5 @@
   </url>
   <url>
     <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/ucm_eer_supp_encl_2_1-8-07.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/1_final_12_17_02_wasc_eligibility_app_11_3_.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/list_of_attachments_eligibility.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/accreditation.ucmerced.edu/files/page/documents/wasc_action_letter.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/expectations_for_two_reviews_1_09.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/educational_effectiveness_framework_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/wasc_official_letter_7-12-11_w_revised_list_approved_degrees_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://accreditation.ucmerced.edu/sites/g/files/ufvvjh306/f/page/documents/irc_140717_ucm_receive_interim_report_final.pdf</loc>
   </url>
 </urlset>

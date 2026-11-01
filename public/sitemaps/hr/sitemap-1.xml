@@ -37,13 +37,13 @@
     <loc>https://hr.ucmerced.edu/employee-resources/employee-services</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/talent-development</loc>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/hr-units/benefits/holiday-schedule</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/hr-units/benefits/leaves-absence</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/performance-management</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/employee-resources/new-employees</loc>
@@ -56,9 +56,6 @@
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/layoff-information-employees</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/Supervisor_Resource_Hub</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/work-life-integration</loc>
@@ -103,19 +100,13 @@
     <loc>https://hr.ucmerced.edu/hr-units/benefits/webinars</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/news/2026/save-date-open-enrollment-thursday-oct-29-friday-nov-20</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/news/2026/health-net-annoucement</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/news/2026/ucpath-notice-new-emergency-contact-option-employees</loc>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/performance-management</loc>
+    <loc>https://hr.ucmerced.edu/hr-units/talent-development</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/Supervisor_Resource_Hub</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/hr_org_chart_6.26.26.pdf</loc>
@@ -154,24 +145,6 @@
     <loc>https://hr.ucmerced.edu/HybridWorkArrangementsFAQ</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/talent-development/Our-Partners</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/Programs-Services-and-Tools</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/uclc</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/Join-Your-Community</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/Contact-Our-Team</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/UCOP</loc>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/leaves-absence/types</loc>
   </url>
   <url>
@@ -187,37 +160,25 @@
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/family-medical-leave_0.pdf</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/New_Employee_Orientation</loc>
+    <loc>https://hr.ucmerced.edu/core-competency-ABCs</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/ppsm-36_classification-positions_2024.pdf</loc>
+    <loc>https://hr.ucmerced.edu/employeelabor-relations/employeelabor-relations-how-tos/how-conduct-corrective-action-discipline</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/collective-bargaining-agreements</loc>
+    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/performance-management/performance-appraisal-process</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/ucm_ppsm_70.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/complaint_form_for_ppsm_70_.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/abusive-conduct-workplace</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hr-units/benefits/other-benefits/insight-eap</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/uc_employee_outplacement_career_transition_services_uc_solo_plan_1_1.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/preferential-rehire-and-recall-rights</loc>
+    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/performance-management/performance-appraisal-faqs</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/union-representation-overview</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/union-representation-faqs</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/collective-bargaining-agreements</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/union-representatives</loc>
@@ -229,10 +190,28 @@
     <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/elr-how-tos</loc>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/performance-management/saba-what-it</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/performance-management/performance-and-appraisals</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/performance-management/appraisal-timeline</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/performance-management/roles-and-responsibilities</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/uc-merced-supervisor-resource-hub/self-help-tools</loc>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/campus-safety-and-crime-statistics</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/exit-interview</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/abusive-conduct-workplace</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/contracting-out</loc>
@@ -241,16 +220,25 @@
     <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/ab-1905</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/Workplace_Wellness_and_Engagement_resources</loc>
+    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/preferential-rehire-and-recall-rights</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/Workforce_Planning_resources</loc>
+    <loc>https://hr.ucmerced.edu/New_Employee_Orientation</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/People_and_Performance_resources</loc>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/ppsm-36_classification-positions_2024.pdf</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/HR_Consultation</loc>
+    <loc>https://hr.ucmerced.edu/files/page/documents/ucm_ppsm_70.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/complaint_form_for_ppsm_70_.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/benefits/other-benefits/insight-eap</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/uc_employee_outplacement_career_transition_services_uc_solo_plan_1_1.pdf</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/files/page/documents/alternate_work_schedule_considerations.doc</loc>
@@ -430,31 +418,34 @@
     <loc>https://hr.ucmerced.edu/hr-units/benefits/webinars/december-webinar</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/core-competency-ABCs</loc>
+    <loc>https://hr.ucmerced.edu/talent-development/Our-Partners</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/employeelabor-relations/employeelabor-relations-how-tos/how-conduct-corrective-action-discipline</loc>
+    <loc>https://hr.ucmerced.edu/Programs-Services-and-Tools</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/performance-management/performance-appraisal-process</loc>
+    <loc>https://hr.ucmerced.edu/uclc</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/performance-management/performance-appraisal-faqs</loc>
+    <loc>https://hr.ucmerced.edu/Join-Your-Community</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/performance-management/saba-what-it</loc>
+    <loc>https://hr.ucmerced.edu/Contact-Our-Team</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/performance-management/performance-and-appraisals</loc>
+    <loc>https://hr.ucmerced.edu/UCOP</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/performance-management/appraisal-timeline</loc>
+    <loc>https://hr.ucmerced.edu/Workplace_Wellness_and_Engagement_resources</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/hr-units/employeelabor-relations/performance-management/roles-and-responsibilities</loc>
+    <loc>https://hr.ucmerced.edu/Workforce_Planning_resources</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/uc-merced-supervisor-resource-hub/self-help-tools</loc>
+    <loc>https://hr.ucmerced.edu/People_and_Performance_resources</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/HR_Consultation</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/open_enrollment_flyer.pdf</loc>
@@ -580,42 +571,6 @@
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/alternative_work_schedule_considerations.doc</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/Career_Advising</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hrtdprograms</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hrtdservices</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hrtdtools</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/uclc-resources</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/course_request.xlsx</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/uclc-manager</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/uclc-troubleshoot</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/mandatory_trainings</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/uclc_FAQs</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/uclc-contact</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/Campus-Affinity-Groups</loc>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/your-guide-to-uc-disability-benefits-fact-sheet_0.pdf</loc>
   </url>
   <url>
@@ -640,19 +595,28 @@
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/your-guide-to-uc-disability-benefits-fact-sheet.pdf</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/New_Employee_Orientation_NEO</loc>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/uc_core_competency_abc.pdf</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/abusive_conduct_report_form.pdf</loc>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/uc_core_competency_model.pdf</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/UC_abusive_conduct_in_the_workplace</loc>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/uc_core_competency_a.pdf</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/insight_faq.pdf</loc>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/uc_core_competency_b.pdf</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/january_2023_newsletter.pdf</loc>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/uc_core_competency_c.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/core_competencies_rubric.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/tips_for_writing_your_summary_of_accomplishment.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/training/performance</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/calling_in_guidelines.pdf</loc>
@@ -667,19 +631,79 @@
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/progressive_disciplinary_guidelines.pdf</loc>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/add_secondary_manager.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/assign_to_other_manager.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/managers_guide_to_goal_setting.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/what_is_performance_infographic_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/performance_vs_appraisal_infographic_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/performance_management_infographic.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/employee_appraisals_infographic.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/role_of_employee.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/tips_for_employees_25032024.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/tips_for_writing_your_summary_of_accomplishment_25032024.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/core_comp_flyer_v1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/developmental-activities-for-uc-core-competencies.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/performance_management_guidelines.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/role_of_supervisor.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/performance_appraisal.docx</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/summary_of_accomplishments.docx</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/probationary_assessment.docx</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/abusive_conduct_report_form.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/UC_abusive_conduct_in_the_workplace</loc>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/covered_service_contract_7.17.26.docx</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/covered_service_contract_1.31.25.pdf</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/talent-acquisition/employment-guides/how-hire-staff</loc>
+    <loc>https://hr.ucmerced.edu/New_Employee_Orientation_NEO</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/talent-acquisition/employment-guides/how-background-check-staff</loc>
+    <loc>https://hr.ucmerced.edu/mandatory_trainings</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/training/programs-and-certificates/msap</loc>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/insight_faq.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/january_2023_newsletter.pdf</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/job-description</loc>
@@ -787,79 +811,46 @@
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/proof_of_service_-_appendix_2_-_fillable.pdf</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/uc_core_competency_abc.pdf</loc>
+    <loc>https://hr.ucmerced.edu/Career_Advising</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/uc_core_competency_model.pdf</loc>
+    <loc>https://hr.ucmerced.edu/hrtdprograms</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/uc_core_competency_a.pdf</loc>
+    <loc>https://hr.ucmerced.edu/hrtdservices</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/uc_core_competency_b.pdf</loc>
+    <loc>https://hr.ucmerced.edu/hrtdtools</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/uc_core_competency_c.pdf</loc>
+    <loc>https://hr.ucmerced.edu/uclc-resources</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/core_competencies_rubric.pdf</loc>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/course_request.xlsx</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/tips_for_writing_your_summary_of_accomplishment.pdf</loc>
+    <loc>https://hr.ucmerced.edu/uclc-manager</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/training/performance</loc>
+    <loc>https://hr.ucmerced.edu/uclc-troubleshoot</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/add_secondary_manager.pdf</loc>
+    <loc>https://hr.ucmerced.edu/uclc_FAQs</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/assign_to_other_manager.pdf</loc>
+    <loc>https://hr.ucmerced.edu/uclc-contact</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/managers_guide_to_goal_setting.pdf</loc>
+    <loc>https://hr.ucmerced.edu/Campus-Affinity-Groups</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/what_is_performance_infographic_0.pdf</loc>
+    <loc>https://hr.ucmerced.edu/talent-acquisition/employment-guides/how-hire-staff</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/performance_vs_appraisal_infographic_0.pdf</loc>
+    <loc>https://hr.ucmerced.edu/talent-acquisition/employment-guides/how-background-check-staff</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/performance_management_infographic.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/employee_appraisals_infographic.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/role_of_employee.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/tips_for_employees_25032024.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/tips_for_writing_your_summary_of_accomplishment_25032024.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/core_comp_flyer_v1.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/developmental-activities-for-uc-core-competencies.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/performance_management_guidelines.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/role_of_supervisor.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/performance_appraisal.docx</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/summary_of_accomplishments.docx</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/probationary_assessment.docx</loc>
+    <loc>https://hr.ucmerced.edu/training/programs-and-certificates/msap</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/spring_into_motion_2025_uc_merced.pdf</loc>
@@ -970,6 +961,45 @@
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/uc_medical_plan_availability_2025.xlsx</loc>
   </url>
   <url>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/catastrophic_leave_donation_program.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/catastrophic_leave_application_form.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/catastrophic_leave_donation_form.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/uc_performance_management_participant_checklist.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/required_trainings</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/career_tracks_-_job_families_and_functions_condensed_8-7-13.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/employee-initiated-reduction-time-erit/employee-initiated</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/uc_merced_star_program_nomination_form_2026-2027.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/talent-acquisition/employment-guides/how-screen-and-interview-prospective-staff</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/talent-acquisition/employment-guides/how-plan-new-team-member</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/talent-acquisition/employment-guides/how-rehire-uc-retiree</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/talent-acquisition/employment-guides/hiring-near-relatives</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/hr-units/talent-acquisition/hiring-manager-toolkit/special-conditions-employment</loc>
+  </url>
+  <url>
     <loc>https://hr.ucmerced.edu/Career_Development_Connection</loc>
   </url>
   <url>
@@ -1024,25 +1054,10 @@
     <loc>https://hr.ucmerced.edu/files/page/documents/browser_settings_-_sumtotal_compatibility_requirements.pdf</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/required_trainings</loc>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/uclc_liaison</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/catastrophic_leave_donation_program.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/catastrophic_leave_application_form.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/catastrophic_leave_donation_form.pdf</loc>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/submitting_a_recruitment_request_through_onbase.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/talent-acquisition/employment-guides/how-screen-and-interview-prospective-staff</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/page/documents/background_check_worksheet_0.pdf</loc>
@@ -1051,55 +1066,7 @@
     <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/use_bcia-8016.pdf</loc>
   </url>
   <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/career_tracks_-_job_families_and_functions_condensed_8-7-13.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hr-units/compensation/compensation-guides/employee-initiated-reduction-time-erit/employee-initiated</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/documents/uc_merced_star_program_nomination_form_2026-2027.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/talent-acquisition/employment-guides/how-plan-new-team-member</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/talent-acquisition/employment-guides/how-rehire-uc-retiree</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/talent-acquisition/employment-guides/hiring-near-relatives</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/hr-units/talent-acquisition/hiring-manager-toolkit/special-conditions-employment</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/uc_performance_management_participant_checklist.pdf</loc>
-  </url>
-  <url>
     <loc>https://hr.ucmerced.edu/hr-units/benefits/health-welfare-benefits/disability/coverage-type</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/Course-Requirements-for-the-UC-People-Management-Series-and-Certificate</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/files/page/documents/uc_people_management_participant_checklist.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/UC-People-Management-Series-and-Certificate-Frequently-Asked-Questions</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/individual_development_plan_template_2018.pdf</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/training/careermanagement</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/training/learningorganizationaleffectiveness</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/KCRO_Resources</loc>
-  </url>
-  <url>
-    <loc>https://hr.ucmerced.edu/my_uc_career_faqs</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/UC_cyber_security_awareness_fundamentals</loc>
@@ -1145,6 +1112,30 @@
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/sites/g/files/ufvvjh1046/f/page/documents/canra_cmr_titles89.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/Course-Requirements-for-the-UC-People-Management-Series-and-Certificate</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/files/page/documents/uc_people_management_participant_checklist.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/UC-People-Management-Series-and-Certificate-Frequently-Asked-Questions</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/sites/hr.ucmerced.edu/files/documents/individual_development_plan_template_2018.pdf</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/training/careermanagement</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/training/learningorganizationaleffectiveness</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/KCRO_Resources</loc>
+  </url>
+  <url>
+    <loc>https://hr.ucmerced.edu/my_uc_career_faqs</loc>
   </url>
   <url>
     <loc>https://hr.ucmerced.edu/files/page/documents/individual_career_development_action_plan.pdf</loc>

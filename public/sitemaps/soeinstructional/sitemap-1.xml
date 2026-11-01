@@ -28,6 +28,9 @@
     <loc>https://soeinstructional.ucmerced.edu/instructional-labs/maker-space-rps/soldering-training</loc>
   </url>
   <url>
+    <loc>https://soeinstructional.ucmerced.edu/instructional-labs/biomedical-sciences-physics-bsp</loc>
+  </url>
+  <url>
     <loc>https://soeinstructional.ucmerced.edu/instructional-labs/bioengineering-bioe/bsp-401-life-science-engineering-1-lab</loc>
   </url>
   <url>
@@ -47,9 +50,6 @@
   </url>
   <url>
     <loc>https://soeinstructional.ucmerced.edu/instructional-labs/mechanical-engineering-me/se1-172-control-engineering-lab</loc>
-  </url>
-  <url>
-    <loc>https://soeinstructional.ucmerced.edu/instructional-labs/civil-environmental-engineering-cee/se2-130-environmental-engineering-lab</loc>
   </url>
   <url>
     <loc>https://soeinstructional.ucmerced.edu/instructional-labs/civil-environmental-engineering-cee/se2-150-structural-engineering-teaching-lab</loc>
@@ -130,10 +130,10 @@
     <loc>https://soeinstructional.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://soeinstructional.ucmerced.edu/instructional-labs/biomedical-sciences-physics-bsp</loc>
+    <loc>https://soeinstructional.ucmerced.edu/instructional-labs/science-engineering-2-se2</loc>
   </url>
   <url>
-    <loc>https://soeinstructional.ucmerced.edu/instructional-labs/science-engineering-2-se2</loc>
+    <loc>https://soeinstructional.ucmerced.edu/instructional-labs/civil-environmental-engineering-cee/se2-130-environmental-engineering-lab</loc>
   </url>
   <url>
     <loc>https://soeinstructional.ucmerced.edu/instructional-labs/makerspace-rps/service-requests</loc>

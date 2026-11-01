@@ -25,6 +25,9 @@
     <loc>https://cres.ucmerced.edu/resources</loc>
   </url>
   <url>
+    <loc>https://cres.ucmerced.edu/resources/campus-resources</loc>
+  </url>
+  <url>
     <loc>https://cres.ucmerced.edu/resources/student-opportunities</loc>
   </url>
   <url>
@@ -40,9 +43,6 @@
     <loc>https://cres.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://cres.ucmerced.edu/node/24</loc>
-  </url>
-  <url>
     <loc>https://cres.ucmerced.edu/sites/g/files/ufvvjh686/f/documents/cres_newsletter_spring_2026.pdf</loc>
   </url>
   <url>
@@ -52,7 +52,7 @@
     <loc>https://cres.ucmerced.edu/sites/g/files/ufvvjh686/f/documents/cres_newsletter_spring_2025.pdf</loc>
   </url>
   <url>
-    <loc>https://cres.ucmerced.edu/resources/campus-resources</loc>
+    <loc>https://cres.ucmerced.edu/node/24</loc>
   </url>
   <url>
     <loc>https://cres.ucmerced.edu/content/christina-baker</loc>
@@ -61,13 +61,13 @@
     <loc>https://cres.ucmerced.edu/content/sapana-doshi</loc>
   </url>
   <url>
-    <loc>https://cres.ucmerced.edu/content/kit-myers</loc>
-  </url>
-  <url>
     <loc>https://cres.ucmerced.edu/content/nicosia-shakes</loc>
   </url>
   <url>
     <loc>https://cres.ucmerced.edu/content/ma-vang</loc>
+  </url>
+  <url>
+    <loc>https://cres.ucmerced.edu/content/blythe-george</loc>
   </url>
   <url>
     <loc>https://cres.ucmerced.edu/sites/g/files/ufvvjh686/f/doshi_cv.12.01.2020.pdf</loc>

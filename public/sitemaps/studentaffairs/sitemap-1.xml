@@ -31,9 +31,6 @@
     <loc>https://studentaffairs.ucmerced.edu/dean-students</loc>
   </url>
   <url>
-    <loc>https://studentaffairs.ucmerced.edu/dean-students/religious-objection-exception-requests-student-immunization-requirements</loc>
-  </url>
-  <url>
     <loc>https://studentaffairs.ucmerced.edu/dean-students/emergency-funds</loc>
   </url>
   <url>
@@ -52,16 +49,19 @@
     <loc>https://studentaffairs.ucmerced.edu/commencement-student-speaker</loc>
   </url>
   <url>
+    <loc>https://studentaffairs.ucmerced.edu/parents</loc>
+  </url>
+  <url>
     <loc>https://studentaffairs.ucmerced.edu/campus-and-community-safety</loc>
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://studentaffairs.ucmerced.edu/dean-students/students-concern-form</loc>
+    <loc>https://studentaffairs.ucmerced.edu/dean-students/religious-objection-exception-requests-student-immunization-requirements</loc>
   </url>
   <url>
-    <loc>https://studentaffairs.ucmerced.edu/parents</loc>
+    <loc>https://studentaffairs.ucmerced.edu/dean-students/students-concern-form</loc>
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/community-of-scholars</loc>
@@ -79,12 +79,6 @@
     <loc>https://studentaffairs.ucmerced.edu/content/brian-obruba</loc>
   </url>
   <url>
-    <loc>https://studentaffairs.ucmerced.edu/content/david-dunham</loc>
-  </url>
-  <url>
-    <loc>https://studentaffairs.ucmerced.edu/content/esther-wilson</loc>
-  </url>
-  <url>
     <loc>https://studentaffairs.ucmerced.edu/content/orqu%C3%ADdea-largo</loc>
   </url>
   <url>
@@ -98,6 +92,12 @@
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/content/anna-gonzalez</loc>
+  </url>
+  <url>
+    <loc>https://studentaffairs.ucmerced.edu/content/david-dunham</loc>
+  </url>
+  <url>
+    <loc>https://studentaffairs.ucmerced.edu/content/esther-wilson</loc>
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/content/vacant-position</loc>
@@ -154,12 +154,6 @@
     <loc>https://studentaffairs.ucmerced.edu/form/commencement-student-speaker-application</loc>
   </url>
   <url>
-    <loc>https://studentaffairs.ucmerced.edu/sites/studentaffairs.ucmerced.edu/files/documents/psmh-guide.pdf</loc>
-  </url>
-  <url>
-    <loc>https://studentaffairs.ucmerced.edu/sites/studentaffairs.ucmerced.edu/files/documents/psmh-merced-insert.pdf</loc>
-  </url>
-  <url>
     <loc>https://studentaffairs.ucmerced.edu/cost-of-attendance</loc>
   </url>
   <url>
@@ -170,5 +164,11 @@
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/ferpa</loc>
+  </url>
+  <url>
+    <loc>https://studentaffairs.ucmerced.edu/sites/studentaffairs.ucmerced.edu/files/documents/psmh-guide.pdf</loc>
+  </url>
+  <url>
+    <loc>https://studentaffairs.ucmerced.edu/sites/studentaffairs.ucmerced.edu/files/documents/psmh-merced-insert.pdf</loc>
   </url>
 </urlset>

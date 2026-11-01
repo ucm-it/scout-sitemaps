@@ -25,16 +25,16 @@
     <loc>https://cayuse.ucmerced.edu/form/request-cayuse-report</loc>
   </url>
   <url>
-    <loc>https://cayuse.ucmerced.edu/form/revise-profile-request-form</loc>
+    <loc>https://cayuse.ucmerced.edu/form/research</loc>
   </url>
   <url>
     <loc>https://cayuse.ucmerced.edu/home/technical-support</loc>
   </url>
   <url>
-    <loc>https://cayuse.ucmerced.edu/form/fedconnect</loc>
+    <loc>https://cayuse.ucmerced.edu/news</loc>
   </url>
   <url>
-    <loc>https://cayuse.ucmerced.edu/news</loc>
+    <loc>https://cayuse.ucmerced.edu/frequently-asked-questions</loc>
   </url>
   <url>
     <loc>https://cayuse.ucmerced.edu/training</loc>
@@ -49,16 +49,25 @@
     <loc>https://cayuse.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://cayuse.ucmerced.edu/form/research</loc>
+    <loc>https://cayuse.ucmerced.edu/form/revise-profile-request-form</loc>
   </url>
   <url>
     <loc>https://cayuse.ucmerced.edu/form/fastlane-nsf</loc>
   </url>
   <url>
-    <loc>https://cayuse.ucmerced.edu/frequently-asked-questions</loc>
+    <loc>https://cayuse.ucmerced.edu/form/fedconnect</loc>
   </url>
   <url>
-    <loc>https://cayuse.ucmerced.edu/news/2018/cayuse-news</loc>
+    <loc>https://cayuse.ucmerced.edu/sites/cayuse.ucmerced.edu/files/documents/draft_cayuse_sp_proposal_preparation_and_submission-3.docx</loc>
+  </url>
+  <url>
+    <loc>https://cayuse.ucmerced.edu/form/add-sponsor</loc>
+  </url>
+  <url>
+    <loc>https://cayuse.ucmerced.edu/sites/cayuse.ucmerced.edu/files/documents/pi_proposalcertification.doc</loc>
+  </url>
+  <url>
+    <loc>https://cayuse.ucmerced.edu/sites/cayuse.ucmerced.edu/files/documents/authorizingaproposal.doc</loc>
   </url>
   <url>
     <loc>https://cayuse.ucmerced.edu/sites/cayuse.ucmerced.edu/files/documents/routing-2-1-2_optimized.pdf</loc>
@@ -74,17 +83,5 @@
   </url>
   <url>
     <loc>https://cayuse.ucmerced.edu/sites/cayuse.ucmerced.edu/files/documents/cayuse-_irb_researcher_manual_.pdf</loc>
-  </url>
-  <url>
-    <loc>https://cayuse.ucmerced.edu/sites/cayuse.ucmerced.edu/files/documents/authorizingaproposal.doc</loc>
-  </url>
-  <url>
-    <loc>https://cayuse.ucmerced.edu/sites/cayuse.ucmerced.edu/files/documents/pi_proposalcertification.doc</loc>
-  </url>
-  <url>
-    <loc>https://cayuse.ucmerced.edu/sites/cayuse.ucmerced.edu/files/documents/draft_cayuse_sp_proposal_preparation_and_submission-3.docx</loc>
-  </url>
-  <url>
-    <loc>https://cayuse.ucmerced.edu/form/add-sponsor</loc>
   </url>
 </urlset>

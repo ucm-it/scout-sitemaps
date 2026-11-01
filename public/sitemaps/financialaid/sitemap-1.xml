@@ -52,6 +52,9 @@
     <loc>https://financialaid.ucmerced.edu/AwardLetter</loc>
   </url>
   <url>
+    <loc>https://financialaid.ucmerced.edu/disbursement</loc>
+  </url>
+  <url>
     <loc>https://financialaid.ucmerced.edu/SAP</loc>
   </url>
   <url>
@@ -62,9 +65,6 @@
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/verification</loc>
-  </url>
-  <url>
-    <loc>https://financialaid.ucmerced.edu/withdrawing</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/Forms_Reqs</loc>
@@ -80,9 +80,6 @@
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/resources</loc>
-  </url>
-  <url>
-    <loc>https://financialaid.ucmerced.edu/blue-gold</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/consumer-information</loc>
@@ -175,7 +172,10 @@
     <loc>https://financialaid.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://financialaid.ucmerced.edu/disbursement</loc>
+    <loc>https://financialaid.ucmerced.edu/withdrawing</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/blue-gold</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/federal-loans</loc>
@@ -199,6 +199,9 @@
     <loc>https://financialaid.ucmerced.edu/node/3751</loc>
   </url>
   <url>
+    <loc>https://financialaid.ucmerced.edu/disbursement-spanish</loc>
+  </url>
+  <url>
     <loc>https://financialaid.ucmerced.edu/sap-Spanish</loc>
   </url>
   <url>
@@ -206,12 +209,6 @@
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/verification-Spanish</loc>
-  </url>
-  <url>
-    <loc>https://financialaid.ucmerced.edu/withdrawing-Spanish</loc>
-  </url>
-  <url>
-    <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/page/documents/r2t4_aid_guide.pdf</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/form/2025-2026</loc>
@@ -233,6 +230,9 @@
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/exit-counseling</loc>
+  </url>
+  <url>
+    <loc>https://financialaid.ucmerced.edu/sites/g/files/ufvvjh906/f/page/documents/r2t4_aid_guide.pdf</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/sites/financialaid.ucmerced.edu/files/documents/code_of_conduct.pdf</loc>
@@ -673,7 +673,7 @@
     <loc>http://financialaid.ucmerced.edu/federal-updates</loc>
   </url>
   <url>
-    <loc>https://financialaid.ucmerced.edu/disbursement-spanish</loc>
+    <loc>https://financialaid.ucmerced.edu/withdrawing-Spanish</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/GradPLUS</loc>
@@ -1033,10 +1033,10 @@
     <loc>https://financialaid.ucmerced.edu/events/virtual-financial-aid-advisors-meet-greet</loc>
   </url>
   <url>
-    <loc>https://financialaid.ucmerced.edu/events/fall-instruction-begins-0</loc>
+    <loc>https://financialaid.ucmerced.edu/events/financial-aid-online-scavenger-hunt</loc>
   </url>
   <url>
-    <loc>https://financialaid.ucmerced.edu/events/financial-aid-online-scavenger-hunt</loc>
+    <loc>https://financialaid.ucmerced.edu/events/fall-instruction-begins-0</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/events/electronic-refund-disbursement-begins</loc>

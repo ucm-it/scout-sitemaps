@@ -13,9 +13,6 @@
     <loc>https://financialwellness.ucmerced.edu/financial-treks</loc>
   </url>
   <url>
-    <loc>https://financialwellness.ucmerced.edu/financial-treks/earn</loc>
-  </url>
-  <url>
     <loc>https://financialwellness.ucmerced.edu/financial-treks/spend</loc>
   </url>
   <url>
@@ -23,6 +20,9 @@
   </url>
   <url>
     <loc>https://financialwellness.ucmerced.edu/financial-treks/borrow</loc>
+  </url>
+  <url>
+    <loc>https://financialwellness.ucmerced.edu/financial-treks/protect</loc>
   </url>
   <url>
     <loc>https://financialwellness.ucmerced.edu/news</loc>
@@ -37,19 +37,10 @@
     <loc>https://financialwellness.ucmerced.edu/form/peer-department-training-request</loc>
   </url>
   <url>
-    <loc>https://financialwellness.ucmerced.edu/form/livestream-workshop-student-group</loc>
-  </url>
-  <url>
     <loc>https://financialwellness.ucmerced.edu/form/class-visit</loc>
   </url>
   <url>
     <loc>https://financialwellness.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2026/psychology-financial-goals</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2024/how-engineering-can-translate-financial-wellness</loc>
   </url>
   <url>
     <loc>https://financialwellness.ucmerced.edu/financial-treks/first-year</loc>
@@ -73,10 +64,10 @@
     <loc>https://financialwellness.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://financialwellness.ucmerced.edu/financial-treks/protect</loc>
+    <loc>https://financialwellness.ucmerced.edu/financial-treks/earn</loc>
   </url>
   <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2025/methods-dealing-debt-short-guide-college-students</loc>
+    <loc>https://financialwellness.ucmerced.edu/form/livestream-workshop-student-group</loc>
   </url>
   <url>
     <loc>https://financialwellness.ucmerced.edu/meet-team/charah-coleman</loc>
@@ -109,30 +100,6 @@
     <loc>https://financialwellness.ucmerced.edu/financial-treks/budgeting</loc>
   </url>
   <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2023/traveling-budget-college-student-edition</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2023/what-bobcat-financial-coach</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2023/investing-101-guide-students</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2023/benefits-mindful-spending-how-break-paycheck-paycheck-cycle</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2022/how-budget-during-holidays</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2022/why-creating-emergency-fund-important-and-tips-create-one</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2022/how-afford-sustainable-wardrobe</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2022/what-money-personality-are-you-according-stranger-things</loc>
-  </url>
-  <url>
     <loc>https://financialwellness.ucmerced.edu/news?page=1</loc>
   </url>
   <url>
@@ -142,57 +109,9 @@
     <loc>https://financialwellness.ucmerced.edu/acsf-openid-factory/login?destination=node/3</loc>
   </url>
   <url>
-    <loc>https://financialwellness.ucmerced.edu/acsf-openid-factory/login?destination=node/111</loc>
-  </url>
-  <url>
     <loc>https://financialwellness.ucmerced.edu/acsf-openid-factory/login?destination=node/61</loc>
   </url>
   <url>
-    <loc>https://financialwellness.ucmerced.edu/meet-team/noah-wise</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2022/finding-perfect-bank</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2022/your-financial-game-plan</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2022/how-your-brain-keeping-you-saving-money</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2022/how-you-are-being-tricked-spending-money</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2022/how-you-can-earn-extra-100month</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2022/information-helped-me-boost-my-credit-score-50-points</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2022/i-made-218month-groceries-only-10-minutes-here%E2%80%99s-how</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2022/want-start-budgeting-here-starting-point</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2022/emergency-fund</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2022/credit-card-misconceptions</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2022/guide-investing</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2021/basics-cryptocurrency</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2021/i-received-my-free-credit-report-what-i-found-out</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/news/2021/5-step-formula-making-college-budget</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/meet-team/tatiana-howell</loc>
+    <loc>https://financialwellness.ucmerced.edu/acsf-openid-factory/login?destination=node/111</loc>
   </url>
 </urlset>

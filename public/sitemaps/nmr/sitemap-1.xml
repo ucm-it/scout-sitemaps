@@ -19,19 +19,16 @@
     <loc>https://nmr.ucmerced.edu/nmr-systems/500-mhz-nmr-system</loc>
   </url>
   <url>
-    <loc>https://nmr.ucmerced.edu/nmr-systems/offline-processing</loc>
+    <loc>https://nmr.ucmerced.edu/nmr-systems/400-mhz-nmr-system</loc>
   </url>
   <url>
     <loc>https://nmr.ucmerced.edu/nmr-systems/sample-preparation</loc>
   </url>
   <url>
-    <loc>https://nmr.ucmerced.edu/nmr-systems/nmr-tubes</loc>
+    <loc>https://nmr.ucmerced.edu/nmr-systems/deuterated-solvents</loc>
   </url>
   <url>
     <loc>https://nmr.ucmerced.edu/nmr-systems/no-deuterium-nmr</loc>
-  </url>
-  <url>
-    <loc>https://nmr.ucmerced.edu/ilab-calendars</loc>
   </url>
   <url>
     <loc>https://nmr.ucmerced.edu/ilab-calendars/avance-iii-600-instructions</loc>
@@ -73,25 +70,19 @@
     <loc>https://nmr.ucmerced.edu/resources</loc>
   </url>
   <url>
-    <loc>https://nmr.ucmerced.edu/news/2019/small-molecule-nmr-used-synthetic-organic-chemists</loc>
-  </url>
-  <url>
-    <loc>https://nmr.ucmerced.edu/news/2019/analytical-nmr-environmental-studies-and-food-science</loc>
-  </url>
-  <url>
-    <loc>https://nmr.ucmerced.edu/news/2019/biomolecular-nmr-determination-structures-clock-proteins</loc>
-  </url>
-  <url>
     <loc>https://nmr.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
     <loc>https://nmr.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://nmr.ucmerced.edu/nmr-systems/400-mhz-nmr-system</loc>
+    <loc>https://nmr.ucmerced.edu/nmr-systems/offline-processing</loc>
   </url>
   <url>
-    <loc>https://nmr.ucmerced.edu/nmr-systems/deuterated-solvents</loc>
+    <loc>https://nmr.ucmerced.edu/nmr-systems/nmr-tubes</loc>
+  </url>
+  <url>
+    <loc>https://nmr.ucmerced.edu/ilab-calendars</loc>
   </url>
   <url>
     <loc>https://nmr.ucmerced.edu/colors/black</loc>

@@ -49,19 +49,13 @@
     <loc>https://teach.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://teach.ucmerced.edu/teacher-development</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/pedagogy-guides</loc>
-  </url>
-  <url>
     <loc>https://teach.ucmerced.edu/learning-communities</loc>
   </url>
   <url>
     <loc>https://teach.ucmerced.edu/OCDP</loc>
   </url>
   <url>
-    <loc>https://teach.ucmerced.edu/teachonline</loc>
+    <loc>https://teach.ucmerced.edu/grad-required-training</loc>
   </url>
   <url>
     <loc>https://teach.ucmerced.edu/grad-postdoc-pedagogy-development</loc>
@@ -115,61 +109,10 @@
     <loc>https://teach.ucmerced.edu/yuja-panorama</loc>
   </url>
   <url>
-    <loc>https://teach.ucmerced.edu/instructor-packet</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/course-design-institute</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/syllabus</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/preparing-your-course/catcourses</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/pedagogy-guides/inclusion-and-equity</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/pedagogy-guides/backwards-design</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/pedagogy-guides/assessment-feedback/types</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/pedagogy-guides/assessment-feedback</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/assessments-to-improve-teaching</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/communication-outreach-to-struggling-students</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/mid-semester-interventions</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/pedagogy-guides/purpose-and-types-of-engagement</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/pedagogy-guides/principles-and-strategies-of-engagement</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/pedagogy-guides/special-groups-and-circumstances</loc>
-  </url>
-  <url>
     <loc>https://teach.ucmerced.edu/node/25371</loc>
   </url>
   <url>
     <loc>https://teach.ucmerced.edu/conferences-institutes-societies</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/reimagineonline</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/design-develop-online</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/sites/crte.ucmerced.edu/files/page/documents/discussion_rubric.docx</loc>
   </url>
   <url>
     <loc>https://teach.ucmerced.edu/grad-postdoc-pedagogy-development/workshop-library</loc>
@@ -209,6 +152,9 @@
   </url>
   <url>
     <loc>https://teach.ucmerced.edu/sites/crte.ucmerced.edu/files/page/documents/cdop_ho__1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/pedagogy-guides</loc>
   </url>
   <url>
     <loc>https://teach.ucmerced.edu/sites/crte.ucmerced.edu/files/page/documents/sample_report_focus_groups.pdf</loc>
@@ -331,6 +277,66 @@
     <loc>https://teach.ucmerced.edu/sites/g/files/ufvvjh1831/f/page/documents/learning_assistants_info.pdf</loc>
   </url>
   <url>
+    <loc>https://teach.ucmerced.edu/sites/crte.ucmerced.edu/files/page/documents/grammar_workshops-s24-sched-detailed-for-web.pdf</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/conversation-partner-program</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/EnglishResources</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/microteaching_language_evaluation</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/pronunciation_and_fluency</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/syllabus</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/preparing-your-course/catcourses</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/pedagogy-guides/inclusion-and-equity</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/pedagogy-guides/backwards-design</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/pedagogy-guides/assessment-feedback/types</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/pedagogy-guides/assessment-feedback</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/assessments-to-improve-teaching</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/communication-outreach-to-struggling-students</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/mid-semester-interventions</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/pedagogy-guides/purpose-and-types-of-engagement</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/pedagogy-guides/principles-and-strategies-of-engagement</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/pedagogy-guides/special-groups-and-circumstances</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/sites/crte.ucmerced.edu/files/documents/situational_expressions.pdf</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/sites/crte.ucmerced.edu/files/page/documents/tech_terms_for_instruction.pdf</loc>
+  </url>
+  <url>
+    <loc>https://teach.ucmerced.edu/sites/crte.ucmerced.edu/files/page/documents/pronun_workshops_-_spr_2024_-_web.pdf</loc>
+  </url>
+  <url>
     <loc>https://teach.ucmerced.edu/sites/crte.ucmerced.edu/files/page/documents/petra_lauraf21-bio_001_syllabus-2.pdf</loc>
   </url>
   <url>
@@ -359,32 +365,5 @@
   </url>
   <url>
     <loc>https://teach.ucmerced.edu/sites/crte.ucmerced.edu/files/page/documents/4cab41318f8f4fb9a148d0aa9971f162.zip</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/sites/g/files/ufvvjh1831/f/documents/reimagine_-_departmental_support_agreement_-fall_2025.pdf</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/sites/crte.ucmerced.edu/files/page/documents/grammar_workshops-s24-sched-detailed-for-web.pdf</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/conversation-partner-program</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/EnglishResources</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/microteaching_language_evaluation</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/pronunciation_and_fluency</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/sites/crte.ucmerced.edu/files/documents/situational_expressions.pdf</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/sites/crte.ucmerced.edu/files/page/documents/tech_terms_for_instruction.pdf</loc>
-  </url>
-  <url>
-    <loc>https://teach.ucmerced.edu/sites/crte.ucmerced.edu/files/page/documents/pronun_workshops_-_spr_2024_-_web.pdf</loc>
   </url>
 </urlset>

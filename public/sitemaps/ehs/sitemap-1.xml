@@ -19,13 +19,13 @@
     <loc>https://ehs.ucmerced.edu/about-us/location</loc>
   </url>
   <url>
-    <loc>https://ehs.ucmerced.edu/about-us/organizational-chart</loc>
-  </url>
-  <url>
     <loc>https://ehs.ucmerced.edu/workplace-safety</loc>
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/workplace-safety/facilities</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/general-safety/ergonomics</loc>
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/workplace-safety/fire-safety</loc>
@@ -124,6 +124,9 @@
     <loc>https://ehs.ucmerced.edu/general-programs/safety-training/courses</loc>
   </url>
   <url>
+    <loc>https://ehs.ucmerced.edu/form/report-safety-concerns</loc>
+  </url>
+  <url>
     <loc>https://ehs.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
@@ -136,7 +139,7 @@
     <loc>https://ehs.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://ehs.ucmerced.edu/general-safety/ergonomics</loc>
+    <loc>https://ehs.ucmerced.edu/about-us/organizational-chart</loc>
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/workplace-safety/facilities/aerial-lift</loc>
@@ -191,6 +194,63 @@
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/rental-equipment/rental_equipment_inspection_form_-_04-16-2015_fillable.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/selecting-your-ergonomic-chair.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/keyboards-mice-accessories.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/dual-monitors.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/task-lighting.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/sit-stand-workstations.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/how-do-you-measure-up.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/laptop-ergonomics.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/mobile-phones-tablet-tips.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/ergonomic-workstation-setup-guidelines.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/stretchbreak_1.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/ergonomic_project_report_dining_services_may_2012.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/ergonomics_study_of_animal_care_positions_at_the_university_of_california.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/2015_ergonomics_study_of_grounds_positions_at_the_university_of_california_3.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/form/bsas-ergonomics-funds-application</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/workplace-safety/ergonomics/chair-adjustments</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/workplace-safety/ergonomics/equipment</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/workplace-safety/ergonomics/laboratories</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/general-safety/ergonomics/working-remotely</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/workplace-safety/ergonomics/repetitive-strain-injuries</loc>
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/general-safety/fire-safety/fire-extinguishers</loc>
@@ -430,66 +490,6 @@
     <loc>https://ehs.ucmerced.edu/form/ehs-ergonomic-evaluation</loc>
   </url>
   <url>
-    <loc>https://ehs.ucmerced.edu/form/bsas-ergonomics-funds-application</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/workplace-safety/ergonomics/chair-adjustments</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/workplace-safety/ergonomics/equipment</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/workplace-safety/ergonomics/laboratories</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/general-safety/ergonomics/working-remotely</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/workplace-safety/ergonomics/repetitive-strain-injuries</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/form/report-safety-concerns</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/selecting-your-ergonomic-chair.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/keyboards-mice-accessories.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/dual-monitors.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/task-lighting.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/sit-stand-workstations.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/how-do-you-measure-up.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/laptop-ergonomics.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/mobile-phones-tablet-tips.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/ergonomic-workstation-setup-guidelines.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/stretchbreak_1.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/ergonomic_project_report_dining_services_may_2012.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/ergonomics_study_of_animal_care_positions_at_the_university_of_california.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/2015_ergonomics_study_of_grounds_positions_at_the_university_of_california_3.pdf</loc>
-  </url>
-  <url>
     <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/respiratory-protection/ucmerced_rpep_manual_-_appendix_f_-_fit-test_protocols.pdf</loc>
   </url>
   <url>
@@ -524,6 +524,54 @@
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/facilities-management/respiratory-protection/ucmerced_rpep_manual_-_appendix_a_-_definitions_key_terms.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/form/selected-equipment-demonstrations</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/general-programs/ergonomics/equipment/vendors</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/laptopsetup.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/diningtablecouchfactssheet.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/standingathome.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/laptopbedfactsheet.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/carsetup.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/lumbartowel.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/workingonfloor.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/video_conferencing.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/stretchbreak.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/eyediscomfort.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/authorization_to_use_university_property.docx</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/temporary_telecommute_agreement_-_pdf_fillable.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/stretchbreak_1_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/how-do-you-measure-up_0.pdf</loc>
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/researchers-labs/chemical-safety/chemical-hygiene-plan</loc>
@@ -590,54 +638,6 @@
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/documents/chemical-safety/hazardous-waste/california_extremely_hazardous_waste.xls</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/form/selected-equipment-demonstrations</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/general-programs/ergonomics/equipment/vendors</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/laptopsetup.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/diningtablecouchfactssheet.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/standingathome.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/laptopbedfactsheet.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/carsetup.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/lumbartowel.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/workingonfloor.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/video_conferencing.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/stretchbreak.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/eyediscomfort.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/authorization_to_use_university_property.docx</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/temporary_telecommute_agreement_-_pdf_fillable.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/stretchbreak_1_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/how-do-you-measure-up_0.pdf</loc>
   </url>
   <url>
     <loc>https://ehs.ucmerced.edu/sites/ehs.ucmerced.edu/files/page/documents/rss-chemicals-adding-a-chemical-guide-050321.pdf</loc>

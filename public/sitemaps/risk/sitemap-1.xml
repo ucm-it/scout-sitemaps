@@ -22,13 +22,22 @@
     <loc>https://risk.ucmerced.edu/report-claim/report-incident</loc>
   </url>
   <url>
+    <loc>https://risk.ucmerced.edu/report-claim/reporting-property-damage-or-loss</loc>
+  </url>
+  <url>
     <loc>https://risk.ucmerced.edu/report-claim/reporting-vehicle-accidents-or-loss</loc>
+  </url>
+  <url>
+    <loc>https://risk.ucmerced.edu/node/54</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/node/63</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/node/53</loc>
+  </url>
+  <url>
+    <loc>https://risk.ucmerced.edu/insurance-programs</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/insurance-programs/artwork-and-exhibits</loc>
@@ -46,9 +55,6 @@
     <loc>https://risk.ucmerced.edu/insurance-programs/employment-practices-liability</loc>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/insurance-programs/general-liability-insurance-program</loc>
-  </url>
-  <url>
     <loc>https://risk.ucmerced.edu/insurance-programs/premiums-and-deductibles</loc>
   </url>
   <url>
@@ -56,9 +62,6 @@
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/node/18</loc>
-  </url>
-  <url>
-    <loc>https://risk.ucmerced.edu/insurance-programs/student-activities-and-insurance</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/insurance-programs/uc-insurance-programs</loc>
@@ -202,13 +205,10 @@
     <loc>https://risk.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/report-claim/reporting-property-damage-or-loss</loc>
+    <loc>https://risk.ucmerced.edu/insurance-programs/general-liability-insurance-program</loc>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/node/54</loc>
-  </url>
-  <url>
-    <loc>https://risk.ucmerced.edu/insurance-programs</loc>
+    <loc>https://risk.ucmerced.edu/insurance-programs/student-activities-and-insurance</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/bsas_proposal_form.pdf</loc>
@@ -235,6 +235,9 @@
     <loc>https://risk.ucmerced.edu/erm/forc</loc>
   </url>
   <url>
+    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/images/eimr_form.doc</loc>
+  </url>
+  <url>
     <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/images/bus81.pdf</loc>
   </url>
   <url>
@@ -248,9 +251,6 @@
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/authorizationtodriveucvehicleinmexico_3-09.pdf</loc>
-  </url>
-  <url>
-    <loc>https://risk.ucmerced.edu/node/65</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/generallimits.pdf</loc>
@@ -376,7 +376,7 @@
     <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/flyer_-_join_us_to_be_uc_ready.pdf</loc>
   </url>
   <url>
-    <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/images/eimr_form.doc</loc>
+    <loc>https://risk.ucmerced.edu/node/65</loc>
   </url>
   <url>
     <loc>https://risk.ucmerced.edu/sites/g/files/ufvvjh1571/f/documents/bus811.pdf</loc>

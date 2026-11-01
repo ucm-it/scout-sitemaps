@@ -19,12 +19,6 @@
     <loc>https://travel.ucmerced.edu/travel-entertainment/concur/automated-notifications</loc>
   </url>
   <url>
-    <loc>https://travel.ucmerced.edu/travel-entertainment/concur/enhanced-travel-module</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/travel-entertainment/entertainment</loc>
-  </url>
-  <url>
     <loc>https://travel.ucmerced.edu/travel-entertainment-planning/entertainment/meetings-programmatic-activities</loc>
   </url>
   <url>
@@ -49,6 +43,9 @@
     <loc>https://travel.ucmerced.edu/travel-entertainment/travel-entertainment-card</loc>
   </url>
   <url>
+    <loc>https://travel.ucmerced.edu/travel-entertainment/travel-entertainment-card/important-update-your-te-card-application</loc>
+  </url>
+  <url>
     <loc>https://travel.ucmerced.edu/travel-entertainment/instant-card-program</loc>
   </url>
   <url>
@@ -62,9 +59,6 @@
   </url>
   <url>
     <loc>https://travel.ucmerced.edu/concur-reimbursement/non-travel-reimbursements</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/training-resources</loc>
   </url>
   <url>
     <loc>https://travel.ucmerced.edu/training-resources/monthly-office-hours</loc>
@@ -97,9 +91,6 @@
     <loc>https://travel.ucmerced.edu/student-travel/student-instant-card</loc>
   </url>
   <url>
-    <loc>https://travel.ucmerced.edu/news/2025/travel-advisory-new-approval-requirement-business-and-first-class-airfare</loc>
-  </url>
-  <url>
     <loc>https://travel.ucmerced.edu/node/18</loc>
   </url>
   <url>
@@ -115,10 +106,16 @@
     <loc>https://travel.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://travel.ucmerced.edu/travel-entertainment/concur/enhanced-travel-module</loc>
+  </url>
+  <url>
+    <loc>https://travel.ucmerced.edu/travel-entertainment/entertainment</loc>
+  </url>
+  <url>
     <loc>https://travel.ucmerced.edu/travel-entertainment/entertainment/entertainment-meal-expense-limits</loc>
   </url>
   <url>
-    <loc>https://travel.ucmerced.edu/travel-entertainment/travel-entertainment-card/important-update-your-te-card-application</loc>
+    <loc>https://travel.ucmerced.edu/training-resources</loc>
   </url>
   <url>
     <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/bus-79_bus_meetings_entertainment_updated_12.15.2022.pdf</loc>
@@ -163,6 +160,27 @@
     <loc>https://travel.ucmerced.edu/node/16</loc>
   </url>
   <url>
+    <loc>https://travel.ucmerced.edu/sites/g/files/ufvvjh1851/f/documents/10-20-26_office_hours_agenda.pdf.pdf</loc>
+  </url>
+  <url>
+    <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/student_travel_quick_guide_-_website_version_2.pdf</loc>
+  </url>
+  <url>
+    <loc>https://travel.ucmerced.edu/sites/g/files/ufvvjh1851/f/documents/student_traveler_instructions_enterprise_rental_car_po_instructions_1_003.pdf</loc>
+  </url>
+  <url>
+    <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/copy_of_travel_expense_management_student_employee_-_travel_expense_management_student_employee.pdf</loc>
+  </url>
+  <url>
+    <loc>https://travel.ucmerced.edu/news?page=1</loc>
+  </url>
+  <url>
+    <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/ucm_updating_your_profile_desktop_sbs.pdf</loc>
+  </url>
+  <url>
+    <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/ucm_reviewing_and_approving_an_expense_report_approvers_desktop_sbs.pdf</loc>
+  </url>
+  <url>
     <loc>https://travel.ucmerced.edu/videolibrary</loc>
   </url>
   <url>
@@ -188,86 +206,5 @@
   </url>
   <url>
     <loc>https://travel.ucmerced.edu/sites/g/files/ufvvjh1851/f/documents/occupancy_tax_-_tot_exemption_form.pdf</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/sites/g/files/ufvvjh1851/f/documents/10-20-26_office_hours_agenda.pdf.pdf</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/student_travel_quick_guide_-_website_version_2.pdf</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/sites/g/files/ufvvjh1851/f/documents/student_traveler_instructions_enterprise_rental_car_po_instructions_1_003.pdf</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/copy_of_travel_expense_management_student_employee_-_travel_expense_management_student_employee.pdf</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/news/2026/uc-travel-update-student-rental-car-reservations</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/news/2026/plan-ahead-higher-approval-requests</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/news/2026/making-travel-expense-easier-self-service-resources-important-g-28-policy-reminders</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/news/2026/bus-79-documentation-approval-reimbursement-reminders</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/news/2026/2026-mileage-rate-increase</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/news/2026/new-requirement-car-rental-bookings-concur</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/news/2026/self-service-update-and-what-expect</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/news/2026/enhanced-servicenow-tickets-travel-and-expense-requests</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/news/2025/winter-break-2025-expense-submission-date-advisory</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/news/2025/travel-alert-faa-domestic-flight-schedule-reductions</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/news?page=1</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/ucm_updating_your_profile_desktop_sbs.pdf</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/ucm_reviewing_and_approving_an_expense_report_approvers_desktop_sbs.pdf</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/news/2025/update-expense-report-submission-process-change</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/news/2025/opt-concur-financial-reports-financial-managers</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/news/2025/action-required-update-your-te-card-application-sept-1-2025</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/news/2025/new-automated-notifications-unprocessed-airfare-%E2%80%93-starting-june-3</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/news/2025/ucm-campus-travel-advisory-airfare-class-and-seat-selection</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/news/2025/concur-workflow-update-pis-now-integrated-approval-process</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/news/2024/meals-ie-rate-increase</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/news/2024/concur-advisory-%E2%80%93-reimbursements-po-box-addresses</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/news/2024/concur-home-page-enhancement</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/sites/g/files/ufvvjh1851/f/documents/step_by_step_guide_on_submitting_expense_report_002_1.pdf</loc>
   </url>
 </urlset>

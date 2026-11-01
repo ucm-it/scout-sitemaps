@@ -55,9 +55,6 @@
     <loc>https://facilities.ucmerced.edu/campus-services/moving-and-events</loc>
   </url>
   <url>
-    <loc>https://facilities.ucmerced.edu/campus-services/refuse-services</loc>
-  </url>
-  <url>
     <loc>https://facilities.ucmerced.edu/node/351</loc>
   </url>
   <url>
@@ -116,6 +113,9 @@
   </url>
   <url>
     <loc>https://facilities.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://facilities.ucmerced.edu/campus-services/refuse-services</loc>
   </url>
   <url>
     <loc>https://facilities.ucmerced.edu/facilities-advisory</loc>

@@ -25,7 +25,13 @@
     <loc>https://eal.ucmerced.edu/instruments/ion-chromatography</loc>
   </url>
   <url>
+    <loc>https://eal.ucmerced.edu/instrumentation/flow-injection-analyzer</loc>
+  </url>
+  <url>
     <loc>https://eal.ucmerced.edu/instruments/toc-analyzer</loc>
+  </url>
+  <url>
+    <loc>https://eal.ucmerced.edu/instrumentation/dma-80-mercury-analyzer</loc>
   </url>
   <url>
     <loc>https://eal.ucmerced.edu/instrumentation/MERXT-%26-MERXM</loc>
@@ -34,10 +40,10 @@
     <loc>https://eal.ucmerced.edu/instruments/multiwave-digestion-system</loc>
   </url>
   <url>
-    <loc>https://eal.ucmerced.edu/recharge-rate</loc>
+    <loc>https://eal.ucmerced.edu/instrumentation/Other-sample-preparation-devices</loc>
   </url>
   <url>
-    <loc>https://eal.ucmerced.edu/advisory-committees</loc>
+    <loc>https://eal.ucmerced.edu/recharge-rate</loc>
   </url>
   <url>
     <loc>https://eal.ucmerced.edu/contact-us-0</loc>
@@ -49,13 +55,7 @@
     <loc>https://eal.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://eal.ucmerced.edu/instrumentation/flow-injection-analyzer</loc>
-  </url>
-  <url>
-    <loc>https://eal.ucmerced.edu/instrumentation/dma-80-mercury-analyzer</loc>
-  </url>
-  <url>
-    <loc>https://eal.ucmerced.edu/instrumentation/Other-sample-preparation-devices</loc>
+    <loc>https://eal.ucmerced.edu/advisory-committees</loc>
   </url>
   <url>
     <loc>https://eal.ucmerced.edu/sites/eal.ucmerced.edu/files/page/documents/record_of_initial_safety_training.pdf</loc>

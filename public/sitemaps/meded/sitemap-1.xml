@@ -19,10 +19,13 @@
     <loc>https://meded.ucmerced.edu/office-medical-education/meet-team</loc>
   </url>
   <url>
+    <loc>https://meded.ucmerced.edu/office-medical-education/meet-team/faculty</loc>
+  </url>
+  <url>
     <loc>https://meded.ucmerced.edu/organizational-chart</loc>
   </url>
   <url>
-    <loc>https://meded.ucmerced.edu/program-partners</loc>
+    <loc>https://meded.ucmerced.edu/about-dome/contact-us</loc>
   </url>
   <url>
     <loc>https://meded.ucmerced.edu/sjv-prime-bs-md-program/prospective-students</loc>
@@ -40,9 +43,6 @@
     <loc>https://meded.ucmerced.edu/sjv-prime-bs-md-program/current-students/meded-core-requirements</loc>
   </url>
   <url>
-    <loc>https://meded.ucmerced.edu/sjv-prime-bs-md-program/current-students/uc-merced-campus-resources-0</loc>
-  </url>
-  <url>
     <loc>https://meded.ucmerced.edu/bs-md-program/student-handbook</loc>
   </url>
   <url>
@@ -50,9 +50,6 @@
   </url>
   <url>
     <loc>https://meded.ucmerced.edu/bs-md-pathway/student-handbook/introduction/student-responsibility</loc>
-  </url>
-  <url>
-    <loc>https://meded.ucmerced.edu/bs-md-pathway/student-handbook/introduction/baccalaureate-competencies</loc>
   </url>
   <url>
     <loc>https://meded.ucmerced.edu/bs-md-program/student-handbook/curriculum</loc>
@@ -175,10 +172,13 @@
     <loc>https://meded.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://meded.ucmerced.edu/office-medical-education/meet-team/faculty</loc>
+    <loc>https://meded.ucmerced.edu/program-partners</loc>
   </url>
   <url>
-    <loc>https://meded.ucmerced.edu/about-dome/contact-us</loc>
+    <loc>https://meded.ucmerced.edu/sjv-prime-bs-md-program/current-students/uc-merced-campus-resources-0</loc>
+  </url>
+  <url>
+    <loc>https://meded.ucmerced.edu/bs-md-pathway/student-handbook/introduction/baccalaureate-competencies</loc>
   </url>
   <url>
     <loc>https://meded.ucmerced.edu/content/emily-bauer</loc>
@@ -232,15 +232,6 @@
     <loc>https://meded.ucmerced.edu/content/margo-vener-md-mph</loc>
   </url>
   <url>
-    <loc>https://meded.ucmerced.edu/sjv-prime-bs-md-program/current-students/uc-merced-campus-resources</loc>
-  </url>
-  <url>
-    <loc>https://meded.ucmerced.edu/sites/g/files/ufvvjh1231/f/documents/bre_rubric_draft_8-1-2025a.pdf</loc>
-  </url>
-  <url>
-    <loc>https://meded.ucmerced.edu/form/ask-us-now</loc>
-  </url>
-  <url>
     <loc>https://meded.ucmerced.edu/content/alberto-l-aguilera-phd-mph</loc>
   </url>
   <url>
@@ -269,5 +260,14 @@
   </url>
   <url>
     <loc>https://meded.ucmerced.edu/content/matthew-f-warren-phd</loc>
+  </url>
+  <url>
+    <loc>https://meded.ucmerced.edu/sjv-prime-bs-md-program/current-students/uc-merced-campus-resources</loc>
+  </url>
+  <url>
+    <loc>https://meded.ucmerced.edu/sites/g/files/ufvvjh1231/f/documents/bre_rubric_draft_8-1-2025a.pdf</loc>
+  </url>
+  <url>
+    <loc>https://meded.ucmerced.edu/form/ask-us-now</loc>
   </url>
 </urlset>

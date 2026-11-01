@@ -31,10 +31,19 @@
     <loc>https://ncpc.ucmerced.edu/resources/ncpc-publications/tobacco-related-terms</loc>
   </url>
   <url>
+    <loc>https://ncpc.ucmerced.edu/resources/ncpc-publications/rapid-response-reports</loc>
+  </url>
+  <url>
+    <loc>https://ncpc.ucmerced.edu/resources/covid-19-tobacco-vaping</loc>
+  </url>
+  <url>
     <loc>https://ncpc.ucmerced.edu/resources/webinars-online-forums</loc>
   </url>
   <url>
     <loc>https://ncpc.ucmerced.edu/resources/webinars-online-forums/1-covid-19-and-nicotine</loc>
+  </url>
+  <url>
+    <loc>https://ncpc.ucmerced.edu/resources/webinars-online-forums/2-flavored-tobacco-sales</loc>
   </url>
   <url>
     <loc>https://ncpc.ucmerced.edu/resources/webinars-online-forums/3-youth-coalitions-and-engaging-youth</loc>
@@ -44,9 +53,6 @@
   </url>
   <url>
     <loc>https://ncpc.ucmerced.edu/resources/webinars-online-forums/5-policy-media</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/resources/webinars-online-forums/6-mobilizing-voices-flavor-restrictions</loc>
   </url>
   <url>
     <loc>https://ncpc.ucmerced.edu/resources/webinars-online-forums/7-prioritizing-equitable-enforcement</loc>
@@ -68,9 +74,6 @@
   </url>
   <url>
     <loc>https://ncpc.ucmerced.edu/resources/toolkits</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/resources/health-sciences-research-institute-hsri</loc>
   </url>
   <url>
     <loc>https://ncpc.ucmerced.edu/training</loc>
@@ -151,25 +154,13 @@
     <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-covid-second-hand_smoke_and_kids_factsheet_spanish.pdf</loc>
   </url>
   <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/uc-merced-poised-go-further-chancellor-says-state-university-address</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/study-finds-cannabis-addiction-pregnancy-linked-higher-risk-postpartum-psychiatric-crises</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/uc-merced-announces-2026-hellman-fellows</loc>
-  </url>
-  <url>
     <loc>https://ncpc.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://ncpc.ucmerced.edu/resources/ncpc-publications/rapid-response-reports</loc>
+    <loc>https://ncpc.ucmerced.edu/resources/webinars-online-forums/6-mobilizing-voices-flavor-restrictions</loc>
   </url>
   <url>
-    <loc>https://ncpc.ucmerced.edu/resources/covid-19-tobacco-vaping</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/resources/webinars-online-forums/2-flavored-tobacco-sales</loc>
+    <loc>https://ncpc.ucmerced.edu/resources/health-sciences-research-institute-hsri</loc>
   </url>
   <url>
     <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-image_of_people_in_a_field_near_a_barn.pdf</loc>
@@ -292,6 +283,30 @@
     <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-english-spanish_tobacco_glossary_04_2022_ncpc_fnl_tupe.pdf</loc>
   </url>
   <url>
+    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-rrr-covid_08_2020_english.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-rrr-covid_08_2020_spanish.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-rrr-cannabis_and_pregnancy_06_2020_english.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-rrr-cannabis_and_pregnancy_06_2020_spanish.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-rrr-vitamin_e_oil_and_vaping_06_2020_english.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-rrr-vitamin_e_oil_and_vaping_06_2020_spanish.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-covid-report_08_2020_english.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-covid-report_08_2020_spanish.pdf</loc>
+  </url>
+  <url>
     <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-covid_tobacco_vaping_webinar_save_the_date.pdf</loc>
   </url>
   <url>
@@ -319,6 +334,9 @@
     <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-dr_anna_epperson_spanish_presentation_slides.pdf</loc>
   </url>
   <url>
+    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-flavored_tobacco_sales_ban_webinar_save_the_date.pdf</loc>
+  </url>
+  <url>
     <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-building_youth_coaltitions_engaging_youth_0.pdf</loc>
   </url>
   <url>
@@ -341,30 +359,6 @@
   </url>
   <url>
     <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-ncpc-policy_and_media_webinar_speakers.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-mobilizing_voices_webinar_save_the_date_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-mobilizing_voices_webinar_agenda.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-flavor_ban_brief_june_2021.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-aha_restricting_the_sales_of_flavored_tobacco.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-phlc_menthol_ban_highlighting_the_facts_and_rebutting_tobacco_industry_misinformation.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-menthol_ban_and_key_tobacco_industry_rebuttals.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-framing_to_use.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-ncpc_webinar_stories.pdf</loc>
   </url>
   <url>
     <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-prioritizing_equitable_enforcement_webinar_save_the_date_0.pdf</loc>
@@ -661,40 +655,28 @@
     <loc>https://ncpc.ucmerced.edu/events/sunrise-rotary-presentation</loc>
   </url>
   <url>
-    <loc>https://ncpc.ucmerced.edu/media-contact/jody-murray</loc>
+    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-mobilizing_voices_webinar_save_the_date_0.pdf</loc>
   </url>
   <url>
-    <loc>https://ncpc.ucmerced.edu/media-contact/brenda-ortiz</loc>
+    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-mobilizing_voices_webinar_agenda.pdf</loc>
   </url>
   <url>
-    <loc>https://ncpc.ucmerced.edu/media-contact/alyssa-johansen</loc>
+    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-flavor_ban_brief_june_2021.pdf</loc>
   </url>
   <url>
-    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-rrr-covid_08_2020_english.pdf</loc>
+    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-aha_restricting_the_sales_of_flavored_tobacco.pdf</loc>
   </url>
   <url>
-    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-rrr-covid_08_2020_spanish.pdf</loc>
+    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-phlc_menthol_ban_highlighting_the_facts_and_rebutting_tobacco_industry_misinformation.pdf</loc>
   </url>
   <url>
-    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-rrr-cannabis_and_pregnancy_06_2020_english.pdf</loc>
+    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-menthol_ban_and_key_tobacco_industry_rebuttals.pdf</loc>
   </url>
   <url>
-    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-rrr-cannabis_and_pregnancy_06_2020_spanish.pdf</loc>
+    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-framing_to_use.pdf</loc>
   </url>
   <url>
-    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-rrr-vitamin_e_oil_and_vaping_06_2020_english.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-rrr-vitamin_e_oil_and_vaping_06_2020_spanish.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-covid-report_08_2020_english.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-covid-report_08_2020_spanish.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-flavored_tobacco_sales_ban_webinar_save_the_date.pdf</loc>
+    <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-ncpc_webinar_stories.pdf</loc>
   </url>
   <url>
     <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-dr_arturo_durazo.pdf</loc>
@@ -704,95 +686,5 @@
   </url>
   <url>
     <loc>https://ncpc.ucmerced.edu/sites/g/files/ufvvjh1301/f/page/documents/rba-dr_irene_h_yen.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/uc-merced-sociologist-assembles-global-handbook-climate-action</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/uc-merced-gets-down-business-hsi-battle-brains</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/big-smiles-big-collection-new-bobcats-scholars-bridge-crossing</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/chancellors-catalyst-awards-ignite-research-humanities-social-sciences</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/fresno-student-eager-dive-life-uc-merced</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/atwater-uc-merced-big-head-start</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/uc-merced-co-hosts-institute-sharpens-instruction-reading-writing</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/uc-merced-scientists-use-sewage-track-nicotine-use-central-valley</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/all-faculty-rock-band-cuts-album-uc-merced-recording-studio</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/taxonomy/term/1081/feed</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/uc-merced-pilots-summer-investment-academy-help-students-build-skills-connections</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/study-highlights-hidden-labor-market-facing-california%E2%80%99s-most-vulnerable-workers</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/alumna-brings-behavioral-science-front-lines-sleep-innovation</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/uc-merced-phd-students-receive-arcs-support-stem-research</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/three-uc-merced-students-receive-fellowships-supporting-future-faculty</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/adewole-earns-lindau-young-scientists-spot-named-merck-next-gen-leader</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/sociology-phd-student-receives-prestigious-dissertation-fellowship</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/uc-merced-talent-finds-its-future-national-lab-research</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/turlock-student-blends-public-health-advocacy-support-underserved-communities</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/taxonomy/term/22/feed</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/school-social-sciences-humanities-and-arts-faculty-named-five-endowed-chairs</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/researchers-launch-project-bring-light-tuning-materials-central-valley-greenhouses</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/merced-native-sets-sights-career-veterinary-medicine</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/healer-shaped-valley-and-devoted-its-future</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/uc-merced-professor-sora-kim-makes-waves-again-shark-week</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/uc-merced-launches-communities-valley-series-dutch-american-history</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/research-reveals-hidden-life-pine-needle</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/victorville-student-pursues-neuroscience-uc-merced</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/news/2026/uc-merced-alumni-take-stage-commencement-speakers</loc>
-  </url>
-  <url>
-    <loc>https://ncpc.ucmerced.edu/taxonomy/term/981/feed</loc>
   </url>
 </urlset>
