@@ -25,6 +25,9 @@
     <loc>https://summersession.ucmerced.edu/dates-cost/important-dates</loc>
   </url>
   <url>
+    <loc>https://summersession.ucmerced.edu/dates-cost/fees</loc>
+  </url>
+  <url>
     <loc>https://summersession.ucmerced.edu/annual-expenses</loc>
   </url>
   <url>
@@ -35,6 +38,12 @@
   </url>
   <url>
     <loc>https://summersession.ucmerced.edu/enroll/continuing-uc-merced-student</loc>
+  </url>
+  <url>
+    <loc>https://summersession.ucmerced.edu/enroll/newly-admitted-fall</loc>
+  </url>
+  <url>
+    <loc>https://summersession.ucmerced.edu/enroll/non-uc-student</loc>
   </url>
   <url>
     <loc>https://summersession.ucmerced.edu/enroll/non-continuing-uc-merced-student-or-other-uc-student</loc>
@@ -85,22 +94,13 @@
     <loc>https://summersession.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://summersession.ucmerced.edu/dates-cost/fees</loc>
-  </url>
-  <url>
-    <loc>https://summersession.ucmerced.edu/enroll/newly-admitted-fall</loc>
-  </url>
-  <url>
-    <loc>https://summersession.ucmerced.edu/enroll/non-uc-student</loc>
-  </url>
-  <url>
     <loc>https://summersession.ucmerced.edu/form/summer-session-application-non-continuing-uc-merced-student-incoming-uc-merced-student-or-other</loc>
   </url>
   <url>
-    <loc>https://summersession.ucmerced.edu/form/summer-session-other-uc-student-applicaiton</loc>
+    <loc>https://summersession.ucmerced.edu/form/summer-session-application-non-uc-and-high-school-students</loc>
   </url>
   <url>
-    <loc>https://summersession.ucmerced.edu/form/summer-session-application-non-uc-and-high-school-students</loc>
+    <loc>https://summersession.ucmerced.edu/form/summer-session-other-uc-student-applicaiton</loc>
   </url>
   <url>
     <loc>https://summersession.ucmerced.edu/sites/summersession.ucmerced.edu/files/page/documents/international_student_supplemental_form-summer_session.pdf</loc>

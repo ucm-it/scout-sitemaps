@@ -13,6 +13,9 @@
     <loc>https://financialwellness.ucmerced.edu/financial-treks</loc>
   </url>
   <url>
+    <loc>https://financialwellness.ucmerced.edu/financial-treks/earn</loc>
+  </url>
+  <url>
     <loc>https://financialwellness.ucmerced.edu/financial-treks/spend</loc>
   </url>
   <url>
@@ -35,6 +38,9 @@
   </url>
   <url>
     <loc>https://financialwellness.ucmerced.edu/form/peer-department-training-request</loc>
+  </url>
+  <url>
+    <loc>https://financialwellness.ucmerced.edu/form/livestream-workshop-student-group</loc>
   </url>
   <url>
     <loc>https://financialwellness.ucmerced.edu/form/class-visit</loc>
@@ -62,12 +68,6 @@
   </url>
   <url>
     <loc>https://financialwellness.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/financial-treks/earn</loc>
-  </url>
-  <url>
-    <loc>https://financialwellness.ucmerced.edu/form/livestream-workshop-student-group</loc>
   </url>
   <url>
     <loc>https://financialwellness.ucmerced.edu/meet-team/charah-coleman</loc>
@@ -109,9 +109,9 @@
     <loc>https://financialwellness.ucmerced.edu/acsf-openid-factory/login?destination=node/3</loc>
   </url>
   <url>
-    <loc>https://financialwellness.ucmerced.edu/acsf-openid-factory/login?destination=node/61</loc>
+    <loc>https://financialwellness.ucmerced.edu/acsf-openid-factory/login?destination=node/111</loc>
   </url>
   <url>
-    <loc>https://financialwellness.ucmerced.edu/acsf-openid-factory/login?destination=node/111</loc>
+    <loc>https://financialwellness.ucmerced.edu/acsf-openid-factory/login?destination=node/61</loc>
   </url>
 </urlset>

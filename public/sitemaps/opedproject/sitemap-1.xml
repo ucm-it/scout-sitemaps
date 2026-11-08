@@ -7,10 +7,16 @@
     <loc>https://opedproject.ucmerced.edu/</loc>
   </url>
   <url>
+    <loc>https://opedproject.ucmerced.edu/about</loc>
+  </url>
+  <url>
     <loc>https://opedproject.ucmerced.edu/faculty-fellow</loc>
   </url>
   <url>
     <loc>https://opedproject.ucmerced.edu/faculty-fellow/2017</loc>
+  </url>
+  <url>
+    <loc>https://opedproject.ucmerced.edu/media-mentorships</loc>
   </url>
   <url>
     <loc>https://opedproject.ucmerced.edu/outcomes-and-impact</loc>
@@ -22,10 +28,7 @@
     <loc>https://opedproject.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://opedproject.ucmerced.edu/about</loc>
-  </url>
-  <url>
-    <loc>https://opedproject.ucmerced.edu/media-mentorships</loc>
+    <loc>https://opedproject.ucmerced.edu/content/caitlin-patler</loc>
   </url>
   <url>
     <loc>https://opedproject.ucmerced.edu/content/tara-prescott</loc>
@@ -373,6 +376,12 @@
     <loc>https://opedproject.ucmerced.edu/users/ygutierrez6</loc>
   </url>
   <url>
+    <loc>https://opedproject.ucmerced.edu/workshop-location/uci</loc>
+  </url>
+  <url>
+    <loc>https://opedproject.ucmerced.edu/institutional-affiliation/davis</loc>
+  </url>
+  <url>
     <loc>https://opedproject.ucmerced.edu/workshop-location/ucsc</loc>
   </url>
   <url>
@@ -382,16 +391,10 @@
     <loc>https://opedproject.ucmerced.edu/users/krodriguez56</loc>
   </url>
   <url>
-    <loc>https://opedproject.ucmerced.edu/workshop-location/uci</loc>
-  </url>
-  <url>
     <loc>https://opedproject.ucmerced.edu/institutional-affiliation/irvine</loc>
   </url>
   <url>
     <loc>https://opedproject.ucmerced.edu/institutional-affiliation/riverside</loc>
-  </url>
-  <url>
-    <loc>https://opedproject.ucmerced.edu/institutional-affiliation/davis</loc>
   </url>
   <url>
     <loc>https://opedproject.ucmerced.edu/institutional-affiliation/san-diego</loc>
@@ -424,25 +427,22 @@
     <loc>https://opedproject.ucmerced.edu/users/clux</loc>
   </url>
   <url>
+    <loc>https://opedproject.ucmerced.edu/taxonomy/term/41/feed</loc>
+  </url>
+  <url>
+    <loc>https://opedproject.ucmerced.edu/taxonomy/term/61/feed</loc>
+  </url>
+  <url>
     <loc>https://opedproject.ucmerced.edu/taxonomy/term/21/feed</loc>
   </url>
   <url>
     <loc>https://opedproject.ucmerced.edu/taxonomy/term/81/feed</loc>
   </url>
   <url>
-    <loc>https://opedproject.ucmerced.edu/content/caitlin-patler</loc>
-  </url>
-  <url>
-    <loc>https://opedproject.ucmerced.edu/taxonomy/term/41/feed</loc>
-  </url>
-  <url>
     <loc>https://opedproject.ucmerced.edu/taxonomy/term/71/feed</loc>
   </url>
   <url>
     <loc>https://opedproject.ucmerced.edu/taxonomy/term/101/feed</loc>
-  </url>
-  <url>
-    <loc>https://opedproject.ucmerced.edu/taxonomy/term/61/feed</loc>
   </url>
   <url>
     <loc>https://opedproject.ucmerced.edu/taxonomy/term/111/feed</loc>

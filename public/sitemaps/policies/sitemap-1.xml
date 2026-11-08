@@ -31,6 +31,9 @@
     <loc>https://policy.ucmerced.edu/information-records</loc>
   </url>
   <url>
+    <loc>https://policy.ucmerced.edu/personnel-administration</loc>
+  </url>
+  <url>
     <loc>https://policy.ucmerced.edu/other-policy</loc>
   </url>
   <url>
@@ -44,6 +47,9 @@
   </url>
   <url>
     <loc>https://policy.ucmerced.edu/active-delegations</loc>
+  </url>
+  <url>
+    <loc>https://policy.ucmerced.edu/toolkit</loc>
   </url>
   <url>
     <loc>https://policy.ucmerced.edu/policy-development-steps</loc>
@@ -80,11 +86,5 @@
   </url>
   <url>
     <loc>https://policy.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://policy.ucmerced.edu/personnel-administration</loc>
-  </url>
-  <url>
-    <loc>https://policy.ucmerced.edu/toolkit</loc>
   </url>
 </urlset>

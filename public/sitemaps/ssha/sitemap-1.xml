@@ -94,6 +94,9 @@
     <loc>https://ssha.ucmerced.edu/faculty-resources/department-services</loc>
   </url>
   <url>
+    <loc>https://ssha.ucmerced.edu/ds-scope-of-services</loc>
+  </url>
+  <url>
     <loc>https://ssha.ucmerced.edu/faculty-resources/events</loc>
   </url>
   <url>
@@ -119,6 +122,9 @@
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/about/leadership/shared-governance/graduate-group-chairs</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/about/leadership/shared-governance/executive-committee</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/about/leadership/shared-governance/curriculum-committee</loc>
@@ -158,12 +164,6 @@
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/ds-scope-of-services</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/about/leadership/shared-governance/executive-committee</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/faustino-aguilar</loc>
@@ -241,10 +241,10 @@
     <loc>https://ssha.ucmerced.edu/content/sarah-miliate</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/sandra-mora</loc>
+    <loc>https://ssha.ucmerced.edu/content/lisa-mora</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/lisa-mora</loc>
+    <loc>https://ssha.ucmerced.edu/content/sandra-mora</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/journey-oscar</loc>
@@ -436,10 +436,10 @@
     <loc>https://ssha.ucmerced.edu/content/christian-fons-rosen-0</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/xing-gao</loc>
+    <loc>https://ssha.ucmerced.edu/content/weisong-gao</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/weisong-gao</loc>
+    <loc>https://ssha.ucmerced.edu/content/xing-gao</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/humberto-garcia</loc>
@@ -526,10 +526,10 @@
     <loc>https://ssha.ucmerced.edu/content/robert-innes</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/elif-isbell</loc>
+    <loc>https://ssha.ucmerced.edu/content/jason-isbell</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/content/jason-isbell</loc>
+    <loc>https://ssha.ucmerced.edu/content/elif-isbell</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/carolyn-dicey-jennings-2</loc>
@@ -853,22 +853,22 @@
     <loc>https://ssha.ucmerced.edu/sites/ssha.ucmerced.edu/files/page/documents/ssha_faculty_bylaws_-_approved.pdf</loc>
   </url>
   <url>
-    <loc>https://ssha.ucmerced.edu/sites/ssha.ucmerced.edu/files/page/documents/ssha_cc_policies_procedures.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/content/jan-goggans</loc>
-  </url>
-  <url>
-    <loc>https://ssha.ucmerced.edu/content/jessica-trounstine</loc>
-  </url>
-  <url>
     <loc>https://ssha.ucmerced.edu/sites/ssha.ucmerced.edu/files/page/documents/ssha_faculty_bylaws_-_approved_0.pdf</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/content/david-kaminsky</loc>
   </url>
   <url>
+    <loc>https://ssha.ucmerced.edu/content/jessica-trounstine</loc>
+  </url>
+  <url>
     <loc>https://ssha.ucmerced.edu/content/jeffrey-yoshimi</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/sites/ssha.ucmerced.edu/files/page/documents/ssha_cc_policies_procedures.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ssha.ucmerced.edu/content/jan-goggans</loc>
   </url>
   <url>
     <loc>https://ssha.ucmerced.edu/type/staff</loc>
@@ -1279,10 +1279,10 @@
     <loc>http://ssha.ucmerced.edu/content/sarah-miliate</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/sandra-mora</loc>
+    <loc>http://ssha.ucmerced.edu/content/lisa-mora</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/lisa-mora</loc>
+    <loc>http://ssha.ucmerced.edu/content/sandra-mora</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/journey-oscar</loc>
@@ -1468,10 +1468,10 @@
     <loc>http://ssha.ucmerced.edu/content/christian-fons-rosen-0</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/xing-gao</loc>
+    <loc>http://ssha.ucmerced.edu/content/weisong-gao</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/weisong-gao</loc>
+    <loc>http://ssha.ucmerced.edu/content/xing-gao</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/humberto-garcia</loc>
@@ -1558,10 +1558,10 @@
     <loc>http://ssha.ucmerced.edu/content/robert-innes</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/elif-isbell</loc>
+    <loc>http://ssha.ucmerced.edu/content/jason-isbell</loc>
   </url>
   <url>
-    <loc>http://ssha.ucmerced.edu/content/jason-isbell</loc>
+    <loc>http://ssha.ucmerced.edu/content/elif-isbell</loc>
   </url>
   <url>
     <loc>http://ssha.ucmerced.edu/content/carolyn-dicey-jennings-2</loc>

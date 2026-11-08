@@ -34,6 +34,9 @@
     <loc>https://qsb.ucmerced.edu/join-us/program-information</loc>
   </url>
   <url>
+    <loc>https://qsb.ucmerced.edu/join-us/qsb-degrees</loc>
+  </url>
+  <url>
     <loc>https://qsb.ucmerced.edu/join-us/qsb-degrees/ctb-concentration</loc>
   </url>
   <url>
@@ -58,7 +61,10 @@
     <loc>https://qsb.ucmerced.edu/current-students/masters-program</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/pop-track</loc>
+    <loc>https://qsb.ucmerced.edu/thesis-track</loc>
+  </url>
+  <url>
+    <loc>https://qsb.ucmerced.edu/course-track</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/current-students/phd-program</loc>
@@ -140,15 +146,6 @@
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/form/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://qsb.ucmerced.edu/join-us/qsb-degrees</loc>
-  </url>
-  <url>
-    <loc>https://qsb.ucmerced.edu/thesis-track</loc>
-  </url>
-  <url>
-    <loc>https://qsb.ucmerced.edu/course-track</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/who-we-are/previous-service</loc>
@@ -391,10 +388,10 @@
     <loc>https://qsb.ucmerced.edu/content/maryam-salemi</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/content/vanessa-sanchez</loc>
+    <loc>https://qsb.ucmerced.edu/content/taylor-j-sanchez</loc>
   </url>
   <url>
-    <loc>https://qsb.ucmerced.edu/content/taylor-j-sanchez</loc>
+    <loc>https://qsb.ucmerced.edu/content/vanessa-sanchez</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/content/mara-schwiesow</loc>
@@ -476,6 +473,9 @@
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/sites/g/files/ufvvjh1506/f/page/documents/jennifer_pett-ridge_qsb_seminar_flyer.pdf</loc>
+  </url>
+  <url>
+    <loc>https://qsb.ucmerced.edu/sites/g/files/ufvvjh1506/f/page/documents/qsb_seminar_flyer_-_roberto_andresen_eguiluz.pdf</loc>
   </url>
   <url>
     <loc>https://qsb.ucmerced.edu/sites/g/files/ufvvjh1506/f/documents/qsb_retreat_final.pdf</loc>

@@ -25,6 +25,9 @@
     <loc>https://ns-advising.ucmerced.edu/academics</loc>
   </url>
   <url>
+    <loc>https://ns-advising.ucmerced.edu/academics/course-syllabi</loc>
+  </url>
+  <url>
     <loc>https://ns-advising.ucmerced.edu/academics/applied-mathematical-sciences</loc>
   </url>
   <url>
@@ -41,6 +44,9 @@
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/academics/ecology-evolution-conservation-biology</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/academics/environmental-systems-science</loc>
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/academics/physics</loc>
@@ -130,12 +136,6 @@
     <loc>https://ns-advising.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://ns-advising.ucmerced.edu/academics/course-syllabi</loc>
-  </url>
-  <url>
-    <loc>https://ns-advising.ucmerced.edu/academics/environmental-systems-science</loc>
-  </url>
-  <url>
     <loc>https://ns-advising.ucmerced.edu/sites/g/files/ufvvjh2111/f/documents/Handouts/math_major_flow_chart_final.pdf</loc>
   </url>
   <url>
@@ -149,6 +149,9 @@
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/eecb_major_flow_chart_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/Handouts/ess_major_flow_chart_final.pdf</loc>
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/Handouts/phys_major_flow_chart_final.pdf</loc>
@@ -221,8 +224,5 @@
   </url>
   <url>
     <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/page/documents/graduation_planner_final_5-18-15_with_tabs_4.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ns-advising.ucmerced.edu/sites/ns-advising.ucmerced.edu/files/documents/Handouts/ess_major_flow_chart_final.pdf</loc>
   </url>
 </urlset>

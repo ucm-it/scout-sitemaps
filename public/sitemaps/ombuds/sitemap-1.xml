@@ -10,22 +10,28 @@
     <loc>https://ombuds.ucmerced.edu/how-we-can-help</loc>
   </url>
   <url>
+    <loc>https://ombuds.ucmerced.edu/how-we-can-help/ethical-principles</loc>
+  </url>
+  <url>
     <loc>https://ombuds.ucmerced.edu/how-we-can-help/confidentiality-depth</loc>
   </url>
   <url>
     <loc>https://ombuds.ucmerced.edu/services</loc>
   </url>
   <url>
-    <loc>https://ombuds.ucmerced.edu/how-we-can-help/our-services/professional-development</loc>
+    <loc>https://ombuds.ucmerced.edu/training-modules</loc>
   </url>
   <url>
-    <loc>https://ombuds.ucmerced.edu/training-modules</loc>
+    <loc>https://ombuds.ucmerced.edu/how-we-can-help/our-services/mediation</loc>
   </url>
   <url>
     <loc>https://ombuds.ucmerced.edu/how-we-can-help/common-concerns</loc>
   </url>
   <url>
     <loc>https://ombuds.ucmerced.edu/how-we-can-help/what-ombuds-does</loc>
+  </url>
+  <url>
+    <loc>https://ombuds.ucmerced.edu/how-we-can-help/what-ombuds-does-not-do</loc>
   </url>
   <url>
     <loc>https://ombuds.ucmerced.edu/about-office</loc>
@@ -73,16 +79,13 @@
     <loc>https://ombuds.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://ombuds.ucmerced.edu/how-we-can-help/ethical-principles</loc>
-  </url>
-  <url>
-    <loc>https://ombuds.ucmerced.edu/how-we-can-help/our-services/mediation</loc>
-  </url>
-  <url>
-    <loc>https://ombuds.ucmerced.edu/how-we-can-help/what-ombuds-does-not-do</loc>
+    <loc>https://ombuds.ucmerced.edu/how-we-can-help/our-services/professional-development</loc>
   </url>
   <url>
     <loc>https://ombuds.ucmerced.edu/resources/ombuds-trainings</loc>
+  </url>
+  <url>
+    <loc>https://ombuds.ucmerced.edu/sites/ombuds.ucmerced.edu/files/page/documents/ucmerced._agreement-to-mediate.pdf</loc>
   </url>
   <url>
     <loc>https://ombuds.ucmerced.edu/sites/ombuds.ucmerced.edu/files/page/documents/ombuds_flowchart_v2_12-21-2021.pdf</loc>
@@ -164,8 +167,5 @@
   </url>
   <url>
     <loc>https://ombuds.ucmerced.edu/content/what-dispute-resolution</loc>
-  </url>
-  <url>
-    <loc>https://ombuds.ucmerced.edu/sites/ombuds.ucmerced.edu/files/page/documents/ucmerced._agreement-to-mediate.pdf</loc>
   </url>
 </urlset>

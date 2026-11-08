@@ -19,9 +19,6 @@
     <loc>https://ucwater.ucmerced.edu/headwater-management</loc>
   </url>
   <url>
-    <loc>https://ucwater.ucmerced.edu/groundwater</loc>
-  </url>
-  <url>
     <loc>https://ucwater.ucmerced.edu/water-energy-nexus</loc>
   </url>
   <url>
@@ -46,12 +43,15 @@
     <loc>https://ucwater.ucmerced.edu/gfogg</loc>
   </url>
   <url>
+    <loc>https://ucwater.ucmerced.edu/mkiparsky</loc>
+  </url>
+  <url>
     <loc>https://ucwater.ucmerced.edu/afisher</loc>
   </url>
   <url>
     <loc>https://ucwater.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://ucwater.ucmerced.edu/mkiparsky</loc>
+    <loc>https://ucwater.ucmerced.edu/groundwater</loc>
   </url>
 </urlset>

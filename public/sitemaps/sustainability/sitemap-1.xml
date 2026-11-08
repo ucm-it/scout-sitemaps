@@ -43,7 +43,7 @@
     <loc>https://sustainability.ucmerced.edu/about-us/chancellors-advisory-committee-sustainabiity</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/programs/current-members-sustainability-working-group</loc>
+    <loc>https://sustainability.ucmerced.edu/about-us/current-members-sustainability-working-group</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/about-us/campus-partners</loc>
@@ -106,13 +106,16 @@
     <loc>https://sustainability.ucmerced.edu/living-lab-0</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/living-lab/projects/water-monsters</loc>
+    <loc>https://sustainability.ucmerced.edu/living-lab/water-monsters</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/living-lab/projects</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/living-lab/projects/ongoing-projects</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/living-lab/projects/spring-2026</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/living-lab/projects/fall-2026</loc>
@@ -169,6 +172,12 @@
     <loc>https://sustainability.ucmerced.edu/programs/green-lab-program</loc>
   </url>
   <url>
+    <loc>https://sustainability.ucmerced.edu/programs/green-offices-program</loc>
+  </url>
+  <url>
+    <loc>https://sustainability.ucmerced.edu/programs/move-out</loc>
+  </url>
+  <url>
     <loc>https://sustainability.ucmerced.edu/events</loc>
   </url>
   <url>
@@ -218,9 +227,6 @@
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://sustainability.ucmerced.edu/living-lab/projects/spring-2026</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/sites/g/files/ufvvjh1806/f/page/documents/decarbonization_survey_report_1_.pdf</loc>
@@ -751,10 +757,10 @@
     <loc>https://sustainability.ucmerced.edu/events/campus-garden-volunteering</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/sustainability-tabling</loc>
+    <loc>https://sustainability.ucmerced.edu/events/earth-day-celebration</loc>
   </url>
   <url>
-    <loc>https://sustainability.ucmerced.edu/events/earth-day-celebration</loc>
+    <loc>https://sustainability.ucmerced.edu/events/sustainability-tabling</loc>
   </url>
   <url>
     <loc>https://sustainability.ucmerced.edu/events/horseback-riding</loc>

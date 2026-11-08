@@ -43,6 +43,9 @@
     <loc>https://gsa.ucmerced.edu/funding/travel-awards</loc>
   </url>
   <url>
+    <loc>https://gsa.ucmerced.edu/form/application-gsa-travel-award</loc>
+  </url>
+  <url>
     <loc>https://gsa.ucmerced.edu/funding/sponsored-event-fund</loc>
   </url>
   <url>
@@ -73,6 +76,9 @@
     <loc>https://gsa.ucmerced.edu/get-involved/Community-Service</loc>
   </url>
   <url>
+    <loc>https://gsa.ucmerced.edu/get-involved/graduate-student-organizations</loc>
+  </url>
+  <url>
     <loc>https://gsa.ucmerced.edu/get-involved/graduate-student-organizations/start-gso</loc>
   </url>
   <url>
@@ -98,6 +104,9 @@
   </url>
   <url>
     <loc>https://gsa.ucmerced.edu/resources/promoting-research</loc>
+  </url>
+  <url>
+    <loc>https://gsa.ucmerced.edu/resources/career-and-job-resources</loc>
   </url>
   <url>
     <loc>https://gsa.ucmerced.edu/resources/graduate-division</loc>
@@ -152,15 +161,6 @@
   </url>
   <url>
     <loc>https://gsa.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/form/application-gsa-travel-award</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/get-involved/graduate-student-organizations</loc>
-  </url>
-  <url>
-    <loc>https://gsa.ucmerced.edu/resources/career-and-job-resources</loc>
   </url>
   <url>
     <loc>https://gsa.ucmerced.edu/sites/gsa.ucmerced.edu/files/documents/Constitution_Bylaws/gsa_constitution_2024_spring.pdf</loc>

@@ -52,10 +52,16 @@
     <loc>https://graduatedivision.ucmerced.edu/admissions/prospective-students/apply-now/international-applicants</loc>
   </url>
   <url>
+    <loc>https://graduatedivision.ucmerced.edu/prospective-students/how-apply/faq</loc>
+  </url>
+  <url>
     <loc>https://graduatedivision.ucmerced.edu/admissions/prospective-students/apply-now/application-fee-waiver</loc>
   </url>
   <url>
     <loc>https://graduatedivision.ucmerced.edu/incoming-students/newly-admitted</loc>
+  </url>
+  <url>
+    <loc>https://graduatedivision.ucmerced.edu/Direct_Admission</loc>
   </url>
   <url>
     <loc>https://graduatedivision.ucmerced.edu/financial-support</loc>
@@ -142,12 +148,6 @@
     <loc>https://graduatedivision.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://graduatedivision.ucmerced.edu/prospective-students/how-apply/faq</loc>
-  </url>
-  <url>
-    <loc>https://graduatedivision.ucmerced.edu/Direct_Admission</loc>
-  </url>
-  <url>
     <loc>https://graduatedivision.ucmerced.edu/prospective-students/choose-merced</loc>
   </url>
   <url>
@@ -217,10 +217,16 @@
     <loc>https://graduatedivision.ucmerced.edu/sites/g/files/ufvvjh971/f/page/documents/fa23_fee_waiver_instructions.pdf</loc>
   </url>
   <url>
-    <loc>https://graduatedivision.ucmerced.edu/node/10461</loc>
+    <loc>https://graduatedivision.ucmerced.edu/node/136</loc>
   </url>
   <url>
     <loc>https://graduatedivision.ucmerced.edu/fellowships</loc>
+  </url>
+  <url>
+    <loc>https://graduatedivision.ucmerced.edu/node/10461</loc>
+  </url>
+  <url>
+    <loc>https://graduatedivision.ucmerced.edu/node/31121</loc>
   </url>
   <url>
     <loc>https://graduatedivision.ucmerced.edu/financial-support/student-loan-program</loc>
@@ -230,9 +236,6 @@
   </url>
   <url>
     <loc>https://graduatedivision.ucmerced.edu/FAQ_Student_Funding</loc>
-  </url>
-  <url>
-    <loc>https://graduatedivision.ucmerced.edu/node/31121</loc>
   </url>
   <url>
     <loc>https://graduatedivision.ucmerced.edu/form/fellowship-deferral-request-form</loc>
@@ -556,9 +559,6 @@
     <loc>https://graduatedivision.ucmerced.edu/node/18661</loc>
   </url>
   <url>
-    <loc>https://graduatedivision.ucmerced.edu/node/136</loc>
-  </url>
-  <url>
     <loc>https://graduatedivision.ucmerced.edu/sites/g/files/ufvvjh971/f/documents/gc_gd_comments_bioe_policiesprocedures_2022_final_accessible.pdf</loc>
   </url>
   <url>
@@ -613,10 +613,10 @@
     <loc>https://graduatedivision.ucmerced.edu/sites/g/files/ufvvjh971/f/documents/2023.04.19_sociology_policiesandprocedures_clean_accessible.pdf</loc>
   </url>
   <url>
-    <loc>https://graduatedivision.ucmerced.edu/node/10691</loc>
+    <loc>https://graduatedivision.ucmerced.edu/funding/external</loc>
   </url>
   <url>
-    <loc>https://graduatedivision.ucmerced.edu/funding/external</loc>
+    <loc>https://graduatedivision.ucmerced.edu/node/10691</loc>
   </url>
   <url>
     <loc>https://graduatedivision.ucmerced.edu/acsf-openid-factory/login?destination=node/28951</loc>
@@ -698,6 +698,9 @@
   </url>
   <url>
     <loc>https://graduatedivision.ucmerced.edu/node/350</loc>
+  </url>
+  <url>
+    <loc>https://graduatedivision.ucmerced.edu/node/31261</loc>
   </url>
   <url>
     <loc>https://graduatedivision.ucmerced.edu/node/271</loc>

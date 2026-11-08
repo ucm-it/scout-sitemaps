@@ -22,13 +22,13 @@
     <loc>https://catcard.ucmerced.edu/Deposit</loc>
   </url>
   <url>
+    <loc>https://catcard.ucmerced.edu/Check_Balance</loc>
+  </url>
+  <url>
     <loc>https://catcard.ucmerced.edu/Transaction%20History</loc>
   </url>
   <url>
     <loc>https://catcard.ucmerced.edu/Refund_Request</loc>
-  </url>
-  <url>
-    <loc>https://catcard.ucmerced.edu/manage-account/report-lostdeactivate-card</loc>
   </url>
   <url>
     <loc>https://catcard.ucmerced.edu/manage-account/replacement-catcards</loc>
@@ -40,6 +40,9 @@
     <loc>https://catcard.ucmerced.edu/plans</loc>
   </url>
   <url>
+    <loc>https://catcard.ucmerced.edu/Building_Access</loc>
+  </url>
+  <url>
     <loc>https://catcard.ucmerced.edu/plans-usages/cattracks-pass</loc>
   </url>
   <url>
@@ -47,6 +50,9 @@
   </url>
   <url>
     <loc>https://catcard.ucmerced.edu/plans-usages/dining/purchasing-meal-plan</loc>
+  </url>
+  <url>
+    <loc>https://catcard.ucmerced.edu/services</loc>
   </url>
   <url>
     <loc>https://catcard.ucmerced.edu/services/photo-selfie</loc>
@@ -94,13 +100,7 @@
     <loc>https://catcard.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://catcard.ucmerced.edu/Check_Balance</loc>
-  </url>
-  <url>
-    <loc>https://catcard.ucmerced.edu/Building_Access</loc>
-  </url>
-  <url>
-    <loc>https://catcard.ucmerced.edu/services</loc>
+    <loc>https://catcard.ucmerced.edu/manage-account/report-lostdeactivate-card</loc>
   </url>
   <url>
     <loc>https://catcard.ucmerced.edu/services/patron-lookup</loc>

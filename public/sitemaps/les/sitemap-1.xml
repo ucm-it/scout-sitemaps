@@ -7,7 +7,7 @@
     <loc>https://les.ucmerced.edu/</loc>
   </url>
   <url>
-    <loc>https://les.ucmerced.edu/Faculty</loc>
+    <loc>https://les.ucmerced.edu/people</loc>
   </url>
   <url>
     <loc>https://les.ucmerced.edu/academics/undergraduate-education</loc>
@@ -32,6 +32,12 @@
   </url>
   <url>
     <loc>https://les.ucmerced.edu/undergraduate-education/ecology-evolution-and-conservation-biology-major</loc>
+  </url>
+  <url>
+    <loc>https://les.ucmerced.edu/undergraduate-education/ecology-evolution-and-conservation-biology-major/course-requirements</loc>
+  </url>
+  <url>
+    <loc>https://les.ucmerced.edu/undergraduate-education/ecology-evolution-and-conservation-biology-major/career-pathways</loc>
   </url>
   <url>
     <loc>https://les.ucmerced.edu/undergraduate-education/biology-major</loc>
@@ -64,6 +70,9 @@
     <loc>https://les.ucmerced.edu/Graduate%20Studies%20-%20FAQs</loc>
   </url>
   <url>
+    <loc>https://les.ucmerced.edu/careers-alumni</loc>
+  </url>
+  <url>
     <loc>https://les.ucmerced.edu/ResearchVideos</loc>
   </url>
   <url>
@@ -73,10 +82,10 @@
     <loc>https://les.ucmerced.edu/academics</loc>
   </url>
   <url>
-    <loc>https://les.ucmerced.edu/rss.xml</loc>
+    <loc>https://les.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://les.ucmerced.edu/contact-us</loc>
+    <loc>https://les.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
     <loc>https://les.ucmerced.edu/content/adeyemi-adebiyi</loc>
@@ -166,6 +175,12 @@
     <loc>https://les.ucmerced.edu/content/samuel-j-traina</loc>
   </url>
   <url>
-    <loc>https://les.ucmerced.edu/careers-alumni</loc>
+    <loc>https://les.ucmerced.edu/Faculty</loc>
+  </url>
+  <url>
+    <loc>https://les.ucmerced.edu/content/jessica-blois</loc>
+  </url>
+  <url>
+    <loc>https://les.ucmerced.edu/content/elizabeth-dumont</loc>
   </url>
 </urlset>

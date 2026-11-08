@@ -79,7 +79,13 @@
     <loc>https://physics.ucmerced.edu/research/biological-and-soft-matter-physics</loc>
   </url>
   <url>
+    <loc>https://physics.ucmerced.edu/NanoCM</loc>
+  </url>
+  <url>
     <loc>https://physics.ucmerced.edu/research/energy-sciences</loc>
+  </url>
+  <url>
+    <loc>https://physics.ucmerced.edu/research/centers-institutes-and-resources</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/people</loc>
@@ -164,12 +170,6 @@
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/NanoCM</loc>
-  </url>
-  <url>
-    <loc>https://physics.ucmerced.edu/research/centers-institutes-and-resources</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/sites/g/files/ufvvjh1416/f/page/documents/physicsadvisingguide2026w4yrplan_5.pdf</loc>
@@ -793,10 +793,10 @@
     <loc>https://physics.ucmerced.edu/content/elsa-vazquez</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/aaron-wheeler</loc>
+    <loc>https://physics.ucmerced.edu/content/alauna-wheeler</loc>
   </url>
   <url>
-    <loc>https://physics.ucmerced.edu/content/alauna-wheeler</loc>
+    <loc>https://physics.ucmerced.edu/content/aaron-wheeler</loc>
   </url>
   <url>
     <loc>https://physics.ucmerced.edu/content/taylor-whitney</loc>
@@ -1462,10 +1462,10 @@
     <loc>http://physics.ucmerced.edu/content/elsa-vazquez</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/aaron-wheeler</loc>
+    <loc>http://physics.ucmerced.edu/content/alauna-wheeler</loc>
   </url>
   <url>
-    <loc>http://physics.ucmerced.edu/content/alauna-wheeler</loc>
+    <loc>http://physics.ucmerced.edu/content/aaron-wheeler</loc>
   </url>
   <url>
     <loc>http://physics.ucmerced.edu/content/taylor-whitney</loc>

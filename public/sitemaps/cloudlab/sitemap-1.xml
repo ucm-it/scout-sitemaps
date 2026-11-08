@@ -10,9 +10,6 @@
     <loc>http://cloudlab.ucmerced.edu</loc>
   </url>
   <url>
-    <loc>https://cloudlab.ucmerced.edu/news</loc>
-  </url>
-  <url>
     <loc>https://cloudlab.ucmerced.edu/get-involved</loc>
   </url>
   <url>
@@ -86,6 +83,9 @@
   </url>
   <url>
     <loc>https://cloudlab.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://cloudlab.ucmerced.edu/news</loc>
   </url>
   <url>
     <loc>http://cloudlab.ucmerced.edu/</loc>
@@ -169,18 +169,6 @@
     <loc>http://cloudlab.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://cloudlab.ucmerced.edu/news?page=1</loc>
-  </url>
-  <url>
-    <loc>https://cloudlab.ucmerced.edu/news?page=2</loc>
-  </url>
-  <url>
-    <loc>https://cloudlab.ucmerced.edu/news?page=3</loc>
-  </url>
-  <url>
-    <loc>https://cloudlab.ucmerced.edu/news?page=4</loc>
-  </url>
-  <url>
     <loc>https://cloudlab.ucmerced.edu/sites/cloudlab.ucmerced.edu/files/documents/singhal-2010-for-faculty-site.jpg</loc>
   </url>
   <url>
@@ -254,6 +242,18 @@
   </url>
   <url>
     <loc>https://cloudlab.ucmerced.edu/sites/cloudlab.ucmerced.edu/files/page/documents/im-naghshnejad.pdf</loc>
+  </url>
+  <url>
+    <loc>https://cloudlab.ucmerced.edu/news?page=1</loc>
+  </url>
+  <url>
+    <loc>https://cloudlab.ucmerced.edu/news?page=2</loc>
+  </url>
+  <url>
+    <loc>https://cloudlab.ucmerced.edu/news?page=3</loc>
+  </url>
+  <url>
+    <loc>https://cloudlab.ucmerced.edu/news?page=4</loc>
   </url>
   <url>
     <loc>http://cloudlab.ucmerced.edu/news?page=1</loc>

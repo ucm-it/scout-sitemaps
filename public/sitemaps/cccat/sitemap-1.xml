@@ -22,10 +22,16 @@
     <loc>https://cccat.ucmerced.edu/codes</loc>
   </url>
   <url>
+    <loc>https://cccat.ucmerced.edu/phd-positions</loc>
+  </url>
+  <url>
     <loc>https://cccat.ucmerced.edu/postdoc-positions</loc>
   </url>
   <url>
     <loc>https://cccat.ucmerced.edu/journal-club</loc>
+  </url>
+  <url>
+    <loc>https://cccat.ucmerced.edu/news</loc>
   </url>
   <url>
     <loc>https://cccat.ucmerced.edu/publications</loc>
@@ -35,12 +41,6 @@
   </url>
   <url>
     <loc>https://cccat.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://cccat.ucmerced.edu/phd-positions</loc>
-  </url>
-  <url>
-    <loc>https://cccat.ucmerced.edu/news</loc>
   </url>
   <url>
     <loc>https://cccat.ucmerced.edu/news?page=1</loc>

@@ -67,6 +67,9 @@
     <loc>https://iss.ucmerced.edu/ucm-departments/PR</loc>
   </url>
   <url>
+    <loc>https://iss.ucmerced.edu/ucm-departments/othervisas</loc>
+  </url>
+  <url>
     <loc>https://iss.ucmerced.edu/resources/fees</loc>
   </url>
   <url>
@@ -76,10 +79,16 @@
     <loc>https://iss.ucmerced.edu/resources/health-and-safety</loc>
   </url>
   <url>
+    <loc>https://iss.ucmerced.edu/resources/moneymatters</loc>
+  </url>
+  <url>
     <loc>https://iss.ucmerced.edu/resources/finding-housing</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/resources/transportation</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/resources/campus</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/resources/insurance</loc>
@@ -149,15 +158,6 @@
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/ucm-departments/othervisas</loc>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/resources/moneymatters</loc>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/resources/campus</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/summerenrollment</loc>
@@ -448,6 +448,15 @@
     <loc>https://iss.ucmerced.edu/ucm-departments/PR/fees</loc>
   </url>
   <url>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/tn-sample_cbp_letter.docx</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/tn-general_information_2022.pdf</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/student_commencement_sample_letter.docx</loc>
+  </url>
+  <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/travel_guidelines_new.docx</loc>
   </url>
   <url>
@@ -509,15 +518,6 @@
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/page/documents/a-genrollmentform_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/tn-sample_cbp_letter.docx</loc>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/tn-general_information_2022.pdf</loc>
-  </url>
-  <url>
-    <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/student_commencement_sample_letter.docx</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/opt_reporting_form_2024.pdf</loc>
@@ -713,6 +713,9 @@
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/permanent_residency_biographical_intake_form.pdf</loc>
+  </url>
+  <url>
+    <loc>https://iss.ucmerced.edu/sites/g/files/ufvvjh1121/f/documents/pr_26-27_request_to_pay_outside_counsel_template_letter1.doc</loc>
   </url>
   <url>
     <loc>https://iss.ucmerced.edu/sites/iss.ucmerced.edu/files/documents/summary_of_recruitment_sources-2021.docx</loc>

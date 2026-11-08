@@ -16,9 +16,6 @@
     <loc>https://ssha-research.ucmerced.edu/research-scholarship</loc>
   </url>
   <url>
-    <loc>https://ssha-research.ucmerced.edu/research-scholarship/highlight-your-activities</loc>
-  </url>
-  <url>
     <loc>https://ssha-research.ucmerced.edu/research-scholarship/featured-ssha-activities</loc>
   </url>
   <url>
@@ -32,6 +29,9 @@
   </url>
   <url>
     <loc>https://ssha-research.ucmerced.edu/resources/community-engaged-research</loc>
+  </url>
+  <url>
+    <loc>https://ssha-research.ucmerced.edu/ssha-support-programs/external-peer-review-program</loc>
   </url>
   <url>
     <loc>https://ssha-research.ucmerced.edu/resources/find-funding</loc>
@@ -64,16 +64,25 @@
     <loc>https://ssha-research.ucmerced.edu/scaffidi</loc>
   </url>
   <url>
-    <loc>https://ssha-research.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://ssha-research.ucmerced.edu/ssha-support-programs/external-peer-review-program</loc>
-  </url>
-  <url>
     <loc>https://ssha-research.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>https://ssha-research.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://ssha-research.ucmerced.edu/research-scholarship/highlight-your-activities</loc>
+  </url>
+  <url>
     <loc>https://ssha-research.ucmerced.edu/sites/ssha-research.ucmerced.edu/files/documents/award_application_submission_sheet.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ssha-research.ucmerced.edu/sites/ssha-research.ucmerced.edu/files/page/documents/nsf_scoring_criteria.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ssha-research.ucmerced.edu/sites/ssha-research.ucmerced.edu/files/page/documents/nih_scoring_rubric.pdf</loc>
+  </url>
+  <url>
+    <loc>https://ssha-research.ucmerced.edu/sites/ssha-research.ucmerced.edu/files/page/documents/external_reviewer_agreement_form_-_fillable.pdf</loc>
   </url>
   <url>
     <loc>https://ssha-research.ucmerced.edu/sites/ssha-research.ucmerced.edu/files/documents/hispanic_heritage_month_-_ssha_2021.pdf</loc>
@@ -89,15 +98,6 @@
   </url>
   <url>
     <loc>https://ssha-research.ucmerced.edu/news?page=3</loc>
-  </url>
-  <url>
-    <loc>https://ssha-research.ucmerced.edu/sites/ssha-research.ucmerced.edu/files/page/documents/nsf_scoring_criteria.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ssha-research.ucmerced.edu/sites/ssha-research.ucmerced.edu/files/page/documents/nih_scoring_rubric.pdf</loc>
-  </url>
-  <url>
-    <loc>https://ssha-research.ucmerced.edu/sites/ssha-research.ucmerced.edu/files/page/documents/external_reviewer_agreement_form_-_fillable.pdf</loc>
   </url>
   <url>
     <loc>https://ssha-research.ucmerced.edu/news?page=4</loc>

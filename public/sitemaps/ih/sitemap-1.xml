@@ -22,6 +22,9 @@
     <loc>https://ih.ucmerced.edu/current-students</loc>
   </url>
   <url>
+    <loc>https://ih.ucmerced.edu/Program-Learning-Outcomes</loc>
+  </url>
+  <url>
     <loc>https://ih.ucmerced.edu/current-students/courses</loc>
   </url>
   <url>
@@ -64,13 +67,10 @@
     <loc>https://ih.ucmerced.edu/news</loc>
   </url>
   <url>
-    <loc>https://ih.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
-    <loc>https://ih.ucmerced.edu/Program-Learning-Outcomes</loc>
-  </url>
-  <url>
     <loc>https://ih.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://ih.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
     <loc>https://ih.ucmerced.edu/sites/ih.ucmerced.edu/files/documents/2024.07.19_ih_policiesandprocedures.pdf</loc>

@@ -22,12 +22,12 @@
     <loc>https://summeredge.ucmerced.edu/faqs</loc>
   </url>
   <url>
-    <loc>https://summeredge.ucmerced.edu/contact-us-0</loc>
-  </url>
-  <url>
     <loc>https://summeredge.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
     <loc>https://summeredge.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://summeredge.ucmerced.edu/contact-us-0</loc>
   </url>
 </urlset>

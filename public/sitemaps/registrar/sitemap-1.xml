@@ -28,9 +28,6 @@
     <loc>https://registrar.ucmerced.edu/policies/enrollment-and-registration</loc>
   </url>
   <url>
-    <loc>https://registrar.ucmerced.edu/schedules/exams</loc>
-  </url>
-  <url>
     <loc>https://registrar.ucmerced.edu/policies/ferpa</loc>
   </url>
   <url>
@@ -46,7 +43,13 @@
     <loc>https://registrar.ucmerced.edu/policies/graduation</loc>
   </url>
   <url>
+    <loc>https://registrar.ucmerced.edu/honors</loc>
+  </url>
+  <url>
     <loc>https://registrar.ucmerced.edu/policies/leaving-uc-merced</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/policies/majors</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/CAResidency</loc>
@@ -217,10 +220,7 @@
     <loc>https://registrar.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://registrar.ucmerced.edu/honors</loc>
-  </url>
-  <url>
-    <loc>https://registrar.ucmerced.edu/policies/majors</loc>
+    <loc>https://registrar.ucmerced.edu/schedules/exams</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/name_change.pdf</loc>
@@ -233,9 +233,6 @@
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/PriorityRegistration</loc>
-  </url>
-  <url>
-    <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/credit_by_exam.pdf</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/content/ferpa-quiz</loc>
@@ -269,6 +266,9 @@
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/call_to_active_duty.pdf</loc>
+  </url>
+  <url>
+    <loc>https://registrar.ucmerced.edu/major_change_policy</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/sites/registrar.ucmerced.edu/files/page/documents/sample_documents.pdf</loc>
@@ -679,7 +679,7 @@
     <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/orgchart_4.pdf</loc>
   </url>
   <url>
-    <loc>https://registrar.ucmerced.edu/major_change_policy</loc>
+    <loc>https://registrar.ucmerced.edu/sites/g/files/ufvvjh1551/f/page/documents/credit_by_exam.pdf</loc>
   </url>
   <url>
     <loc>https://registrar.ucmerced.edu/users/ewebb2</loc>

@@ -127,10 +127,10 @@
     <loc>https://polisci.ucmerced.edu/content/anil-menon</loc>
   </url>
   <url>
-    <loc>https://polisci.ucmerced.edu/monroe</loc>
+    <loc>https://polisci.ucmerced.edu/content/courtenay-r-monroe</loc>
   </url>
   <url>
-    <loc>https://polisci.ucmerced.edu/content/courtenay-r-monroe</loc>
+    <loc>https://polisci.ucmerced.edu/monroe</loc>
   </url>
   <url>
     <loc>https://polisci.ucmerced.edu/content/christopher-ojeda</loc>
@@ -167,6 +167,9 @@
   </url>
   <url>
     <loc>https://polisci.ucmerced.edu/content/amreeta-priyadarshini-das</loc>
+  </url>
+  <url>
+    <loc>https://polisci.ucmerced.edu/content/victoria-davis</loc>
   </url>
   <url>
     <loc>https://polisci.ucmerced.edu/content/jacqueline-giacoman</loc>
@@ -271,6 +274,9 @@
     <loc>https://polisci.ucmerced.edu/news?page=49</loc>
   </url>
   <url>
+    <loc>https://polisci.ucmerced.edu/news?page=13</loc>
+  </url>
+  <url>
     <loc>https://polisci.ucmerced.edu/news?page=14</loc>
   </url>
   <url>
@@ -290,9 +296,6 @@
   </url>
   <url>
     <loc>https://polisci.ucmerced.edu/news?page=41</loc>
-  </url>
-  <url>
-    <loc>https://polisci.ucmerced.edu/news?page=13</loc>
   </url>
   <url>
     <loc>https://polisci.ucmerced.edu/news?page=17</loc>

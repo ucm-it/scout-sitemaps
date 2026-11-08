@@ -85,9 +85,6 @@
     <loc>https://engineering.ucmerced.edu/students/</loc>
   </url>
   <url>
-    <loc>https://engineering.ucmerced.edu/students/advising</loc>
-  </url>
-  <url>
     <loc>https://engineering.ucmerced.edu/academics/undergraduate-programs/academic-honors</loc>
   </url>
   <url>
@@ -119,6 +116,9 @@
   </url>
   <url>
     <loc>https://engineering.ucmerced.edu/internal/personnel-resources</loc>
+  </url>
+  <url>
+    <loc>https://engineering.ucmerced.edu/departmentspecialist</loc>
   </url>
   <url>
     <loc>https://engineering.ucmerced.edu/internal</loc>
@@ -157,10 +157,13 @@
     <loc>https://engineering.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://engineering.ucmerced.edu/departmentspecialist</loc>
+    <loc>https://engineering.ucmerced.edu/students/advising</loc>
   </url>
   <url>
     <loc>https://engineering.ucmerced.edu/content/tom-blair</loc>
+  </url>
+  <url>
+    <loc>https://engineering.ucmerced.edu/content/dr-kent-carey</loc>
   </url>
   <url>
     <loc>https://engineering.ucmerced.edu/content/richard-l-corsi</loc>
@@ -1003,6 +1006,18 @@
     <loc>https://engineering.ucmerced.edu/sites/engineering.ucmerced.edu/files/page/documents/school_of_engineering_instructional_workload_policy_eff200910.pdf</loc>
   </url>
   <url>
+    <loc>https://engineering.ucmerced.edu/internal/faculty-meetings</loc>
+  </url>
+  <url>
+    <loc>https://engineering.ucmerced.edu/internal/faculty-resources/non-senate-appointments</loc>
+  </url>
+  <url>
+    <loc>https://engineering.ucmerced.edu/faculty/department-specialist-services/recruitment</loc>
+  </url>
+  <url>
+    <loc>https://engineering.ucmerced.edu/internal/departmentspecialist</loc>
+  </url>
+  <url>
     <loc>https://engineering.ucmerced.edu/faculty/personnel-services/visas</loc>
   </url>
   <url>
@@ -1034,18 +1049,6 @@
   </url>
   <url>
     <loc>https://engineering.ucmerced.edu/news?page=144</loc>
-  </url>
-  <url>
-    <loc>https://engineering.ucmerced.edu/internal/faculty-meetings</loc>
-  </url>
-  <url>
-    <loc>https://engineering.ucmerced.edu/internal/faculty-resources/non-senate-appointments</loc>
-  </url>
-  <url>
-    <loc>https://engineering.ucmerced.edu/faculty/department-specialist-services/recruitment</loc>
-  </url>
-  <url>
-    <loc>https://engineering.ucmerced.edu/internal/departmentspecialist</loc>
   </url>
   <url>
     <loc>https://engineering.ucmerced.edu/bioe.ucmerced.edu/people</loc>
@@ -1274,9 +1277,6 @@
   </url>
   <url>
     <loc>https://engineering.ucmerced.edu/academics/undergraduate-programs/minor/management-complex-systems-mcs</loc>
-  </url>
-  <url>
-    <loc>https://engineering.ucmerced.edu/content/dr-kent-carey</loc>
   </url>
   <url>
     <loc>https://engineering.ucmerced.edu/news?page=17</loc>

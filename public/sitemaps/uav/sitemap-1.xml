@@ -10,6 +10,9 @@
     <loc>https://uav.ucmerced.edu/mission2016</loc>
   </url>
   <url>
+    <loc>https://uav.ucmerced.edu/project</loc>
+  </url>
+  <url>
     <loc>https://uav.ucmerced.edu/news</loc>
   </url>
   <url>
@@ -31,6 +34,9 @@
     <loc>https://uav.ucmerced.edu/teams/fall-2017/fall-2017-imaging-team</loc>
   </url>
   <url>
+    <loc>https://uav.ucmerced.edu/teams/fall-2017/fall-2017-platform-team</loc>
+  </url>
+  <url>
     <loc>https://uav.ucmerced.edu/teams/fall-2018</loc>
   </url>
   <url>
@@ -47,6 +53,9 @@
   </url>
   <url>
     <loc>https://uav.ucmerced.edu/team-bio/spring-2016</loc>
+  </url>
+  <url>
+    <loc>https://uav.ucmerced.edu/teams/spring-2015</loc>
   </url>
   <url>
     <loc>https://uav.ucmerced.edu/project/imaging-sub-team/spring-2015</loc>
@@ -83,15 +92,6 @@
   </url>
   <url>
     <loc>https://uav.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
-    <loc>https://uav.ucmerced.edu/project</loc>
-  </url>
-  <url>
-    <loc>https://uav.ucmerced.edu/teams/fall-2017/fall-2017-platform-team</loc>
-  </url>
-  <url>
-    <loc>https://uav.ucmerced.edu/teams/spring-2015</loc>
   </url>
   <url>
     <loc>https://uav.ucmerced.edu/news?page=1</loc>

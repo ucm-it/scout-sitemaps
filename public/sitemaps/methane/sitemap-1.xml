@@ -13,10 +13,16 @@
     <loc>https://methane.ucmerced.edu/mission</loc>
   </url>
   <url>
+    <loc>https://methane.ucmerced.edu/team</loc>
+  </url>
+  <url>
     <loc>https://methane.ucmerced.edu/contact-us</loc>
   </url>
   <url>
     <loc>https://methane.ucmerced.edu/news</loc>
+  </url>
+  <url>
+    <loc>https://methane.ucmerced.edu/research</loc>
   </url>
   <url>
     <loc>https://methane.ucmerced.edu/mitigation</loc>
@@ -32,12 +38,6 @@
   </url>
   <url>
     <loc>https://methane.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
-    <loc>https://methane.ucmerced.edu/team</loc>
-  </url>
-  <url>
-    <loc>https://methane.ucmerced.edu/research</loc>
   </url>
   <url>
     <loc>https://methane.ucmerced.edu/content/derek-hollenbeck</loc>

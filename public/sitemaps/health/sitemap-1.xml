@@ -28,28 +28,22 @@
     <loc>https://health.ucmerced.edu/services</loc>
   </url>
   <url>
+    <loc>https://health.ucmerced.edu/services/addadhd</loc>
+  </url>
+  <url>
     <loc>https://health.ucmerced.edu/services/appointments/booking-non-emergency-medical-appointment</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/services/sexual-health</loc>
+    <loc>https://health.ucmerced.edu/services/dispensary-medications</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/services/fees-common-services</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/services/nurses-clinic</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/services/sick-notes</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/services/travel-clinic</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/services/addadhd</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/services/sensitive-exams/notice-chaperone-policy</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/services/sensitive-examschaperone-policy/sensitive-exams-brochure</loc>
+    <loc>https://health.ucmerced.edu/services/optometry-services</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/services/over-counter-products</loc>
@@ -58,13 +52,22 @@
     <loc>https://health.ucmerced.edu/kioskproducts%26pricing</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/services/dispensary-medications</loc>
-  </url>
-  <url>
     <loc>https://health.ucmerced.edu/services/prescription-delivery</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/services/fees-common-services</loc>
+    <loc>https://health.ucmerced.edu/services/sensitive-exams/notice-chaperone-policy</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/services/sensitive-examschaperone-policy/sensitive-exams-brochure</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/services/sexual-health</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/services/sick-notes</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/services/travel-clinic</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/emergencycare</loc>
@@ -145,6 +148,9 @@
     <loc>https://health.ucmerced.edu/insurance/uc-ship-fraud-information</loc>
   </url>
   <url>
+    <loc>https://health.ucmerced.edu/insurance/uc-ship-and-aca</loc>
+  </url>
+  <url>
     <loc>https://health.ucmerced.edu/insurance/campus-medical-care-assistance-fund-program</loc>
   </url>
   <url>
@@ -160,9 +166,6 @@
     <loc>https://health.ucmerced.edu/resources/new-students</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/insurance/uc-ship-and-aca</loc>
-  </url>
-  <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/healthbrochure.pdf</loc>
   </url>
   <url>
@@ -175,6 +178,15 @@
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/privacynotice.pdf</loc>
   </url>
   <url>
+    <loc>https://health.ucmerced.edu/sites/g/files/ufvvjh1001/f/documents/pregnancy_options.docx</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/g/files/ufvvjh1001/f/page/documents/emergency_contraception_for_all_students.docx</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/documents/sensitive_exams_brochure_2.pdf</loc>
+  </url>
+  <url>
     <loc>https://health.ucmerced.edu/routine-screening-exams</loc>
   </url>
   <url>
@@ -185,15 +197,6 @@
   </url>
   <url>
     <loc>https://health.ucmerced.edu/pregnancy-services</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/sites/g/files/ufvvjh1001/f/documents/pregnancy_options.docx</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/sites/g/files/ufvvjh1001/f/page/documents/emergency_contraception_for_all_students.docx</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/documents/sensitive_exams_brochure_2.pdf</loc>
   </url>
   <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/privacynotice_0.pdf</loc>
@@ -271,21 +274,6 @@
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/suspiciousactivityfaqs.pdf</loc>
   </url>
   <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/campus_medical_care_assistance_fund_faq_2024-25.pdf</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/cmcaf_application_2024-25.pdf</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/confidential_communications_request.pdf</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/pacaos_0.pdf</loc>
-  </url>
-  <url>
-    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/privacynotice_1.pdf</loc>
-  </url>
-  <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshipacatips.pdf</loc>
   </url>
   <url>
@@ -308,5 +296,20 @@
   </url>
   <url>
     <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/ucshiptipsheet.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/campus_medical_care_assistance_fund_faq_2024-25.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/cmcaf_application_2024-25.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/confidential_communications_request.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/pacaos_0.pdf</loc>
+  </url>
+  <url>
+    <loc>https://health.ucmerced.edu/sites/health.ucmerced.edu/files/page/documents/privacynotice_1.pdf</loc>
   </url>
 </urlset>

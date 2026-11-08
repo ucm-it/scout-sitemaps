@@ -43,6 +43,9 @@
     <loc>https://dfa.ucmerced.edu/oracle-project</loc>
   </url>
   <url>
+    <loc>https://dfa.ucmerced.edu/oracle-coa</loc>
+  </url>
+  <url>
     <loc>https://dfa.ucmerced.edu/oracle-guided-learning</loc>
   </url>
   <url>
@@ -53,9 +56,6 @@
   </url>
   <url>
     <loc>https://dfa.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
-    <loc>https://dfa.ucmerced.edu/oracle-coa</loc>
   </url>
   <url>
     <loc>https://dfa.ucmerced.edu/contact-us</loc>

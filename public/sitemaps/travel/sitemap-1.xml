@@ -19,6 +19,15 @@
     <loc>https://travel.ucmerced.edu/travel-entertainment/concur/automated-notifications</loc>
   </url>
   <url>
+    <loc>https://travel.ucmerced.edu/travel-entertainment/concur/enhanced-travel-module</loc>
+  </url>
+  <url>
+    <loc>https://travel.ucmerced.edu/travel-entertainment/entertainment</loc>
+  </url>
+  <url>
+    <loc>https://travel.ucmerced.edu/travel-entertainment/entertainment/entertainment-meal-expense-limits</loc>
+  </url>
+  <url>
     <loc>https://travel.ucmerced.edu/travel-entertainment-planning/entertainment/meetings-programmatic-activities</loc>
   </url>
   <url>
@@ -59,6 +68,9 @@
   </url>
   <url>
     <loc>https://travel.ucmerced.edu/concur-reimbursement/non-travel-reimbursements</loc>
+  </url>
+  <url>
+    <loc>https://travel.ucmerced.edu/training-resources</loc>
   </url>
   <url>
     <loc>https://travel.ucmerced.edu/training-resources/monthly-office-hours</loc>
@@ -106,18 +118,6 @@
     <loc>https://travel.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://travel.ucmerced.edu/travel-entertainment/concur/enhanced-travel-module</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/travel-entertainment/entertainment</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/travel-entertainment/entertainment/entertainment-meal-expense-limits</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/training-resources</loc>
-  </url>
-  <url>
     <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/bus-79_bus_meetings_entertainment_updated_12.15.2022.pdf</loc>
   </url>
   <url>
@@ -160,27 +160,6 @@
     <loc>https://travel.ucmerced.edu/node/16</loc>
   </url>
   <url>
-    <loc>https://travel.ucmerced.edu/sites/g/files/ufvvjh1851/f/documents/10-20-26_office_hours_agenda.pdf.pdf</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/student_travel_quick_guide_-_website_version_2.pdf</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/sites/g/files/ufvvjh1851/f/documents/student_traveler_instructions_enterprise_rental_car_po_instructions_1_003.pdf</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/copy_of_travel_expense_management_student_employee_-_travel_expense_management_student_employee.pdf</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/news?page=1</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/ucm_updating_your_profile_desktop_sbs.pdf</loc>
-  </url>
-  <url>
-    <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/ucm_reviewing_and_approving_an_expense_report_approvers_desktop_sbs.pdf</loc>
-  </url>
-  <url>
     <loc>https://travel.ucmerced.edu/videolibrary</loc>
   </url>
   <url>
@@ -206,5 +185,26 @@
   </url>
   <url>
     <loc>https://travel.ucmerced.edu/sites/g/files/ufvvjh1851/f/documents/occupancy_tax_-_tot_exemption_form.pdf</loc>
+  </url>
+  <url>
+    <loc>https://travel.ucmerced.edu/sites/g/files/ufvvjh1851/f/documents/travel_office_hours_recap_october_20_2026.pdf</loc>
+  </url>
+  <url>
+    <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/student_travel_quick_guide_-_website_version_2.pdf</loc>
+  </url>
+  <url>
+    <loc>https://travel.ucmerced.edu/sites/g/files/ufvvjh1851/f/documents/student_traveler_instructions_enterprise_rental_car_po_instructions_1_003.pdf</loc>
+  </url>
+  <url>
+    <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/copy_of_travel_expense_management_student_employee_-_travel_expense_management_student_employee.pdf</loc>
+  </url>
+  <url>
+    <loc>https://travel.ucmerced.edu/news?page=1</loc>
+  </url>
+  <url>
+    <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/ucm_updating_your_profile_desktop_sbs.pdf</loc>
+  </url>
+  <url>
+    <loc>https://travel.ucmerced.edu/sites/travel.ucmerced.edu/files/documents/ucm_reviewing_and_approving_an_expense_report_approvers_desktop_sbs.pdf</loc>
   </url>
 </urlset>

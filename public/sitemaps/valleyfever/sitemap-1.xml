@@ -79,6 +79,12 @@
     <loc>https://valleyfever.ucmerced.edu/news?page=1</loc>
   </url>
   <url>
+    <loc>https://valleyfever.ucmerced.edu/news?page=2</loc>
+  </url>
+  <url>
+    <loc>https://valleyfever.ucmerced.edu/news?page=3</loc>
+  </url>
+  <url>
     <loc>https://valleyfever.ucmerced.edu/news?page=4</loc>
   </url>
   <url>
@@ -128,11 +134,5 @@
   </url>
   <url>
     <loc>https://valleyfever.ucmerced.edu/content/paul-brown</loc>
-  </url>
-  <url>
-    <loc>https://valleyfever.ucmerced.edu/news?page=2</loc>
-  </url>
-  <url>
-    <loc>https://valleyfever.ucmerced.edu/news?page=3</loc>
   </url>
 </urlset>

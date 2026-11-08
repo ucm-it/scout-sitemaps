@@ -49,6 +49,12 @@
     <loc>https://procurement.ucmerced.edu/trademarks</loc>
   </url>
   <url>
+    <loc>https://procurement.ucmerced.edu/procurement/policies-and-guidelines</loc>
+  </url>
+  <url>
+    <loc>https://procurement.ucmerced.edu/procurement/independent-contractors</loc>
+  </url>
+  <url>
     <loc>https://procurement.ucmerced.edu/procurement/commodity-specific-guidance</loc>
   </url>
   <url>
@@ -197,11 +203,5 @@
   </url>
   <url>
     <loc>https://procurement.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://procurement.ucmerced.edu/procurement/policies-and-guidelines</loc>
-  </url>
-  <url>
-    <loc>https://procurement.ucmerced.edu/procurement/independent-contractors</loc>
   </url>
 </urlset>

@@ -10,9 +10,6 @@
     <loc>https://conflict.ucmerced.edu/about</loc>
   </url>
   <url>
-    <loc>https://conflict.ucmerced.edu/how-get-help</loc>
-  </url>
-  <url>
     <loc>https://conflict.ucmerced.edu/policies</loc>
   </url>
   <url>
@@ -28,15 +25,18 @@
     <loc>https://conflict.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://conflict.ucmerced.edu/sites/conflict.ucmerced.edu/files/page/documents/180712_conflictresolveresources_prf3.pdf</loc>
-  </url>
-  <url>
-    <loc>https://conflict.ucmerced.edu/form/provide-climate-feedback</loc>
+    <loc>https://conflict.ucmerced.edu/how-get-help</loc>
   </url>
   <url>
     <loc>https://conflict.ucmerced.edu/sites/conflict.ucmerced.edu/files/page/documents/180214_conflictresolveresources_prf1_2.pdf</loc>
   </url>
   <url>
+    <loc>https://conflict.ucmerced.edu/sites/conflict.ucmerced.edu/files/page/documents/180712_conflictresolveresources_prf3.pdf</loc>
+  </url>
+  <url>
     <loc>https://conflict.ucmerced.edu/sites/conflict.ucmerced.edu/files/page/documents/sfca_flyer_spring_2018.pdf</loc>
+  </url>
+  <url>
+    <loc>https://conflict.ucmerced.edu/form/provide-climate-feedback</loc>
   </url>
 </urlset>

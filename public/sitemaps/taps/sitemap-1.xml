@@ -91,6 +91,9 @@
     <loc>https://taps.ucmerced.edu/permits/vip-campus-service-program</loc>
   </url>
   <url>
+    <loc>https://taps.ucmerced.edu/permits/electric-vehicle-charging</loc>
+  </url>
+  <url>
     <loc>https://taps.ucmerced.edu/citations</loc>
   </url>
   <url>
@@ -136,6 +139,9 @@
     <loc>https://taps.ucmerced.edu/fleet/forms-links</loc>
   </url>
   <url>
+    <loc>https://taps.ucmerced.edu/fleet/forms-links/voyager-card-serviceslocations</loc>
+  </url>
+  <url>
     <loc>https://taps.ucmerced.edu/fleet/emergency-phone-numbers</loc>
   </url>
   <url>
@@ -172,16 +178,10 @@
     <loc>https://taps.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
-    <loc>https://taps.ucmerced.edu/events/micromobility-registration-event</loc>
+    <loc>https://taps.ucmerced.edu/events/veterans-day-bus-schedule</loc>
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://taps.ucmerced.edu/permits/electric-vehicle-charging</loc>
-  </url>
-  <url>
-    <loc>https://taps.ucmerced.edu/fleet/forms-links/voyager-card-serviceslocations</loc>
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/meeting_minutes_feb.pdf</loc>

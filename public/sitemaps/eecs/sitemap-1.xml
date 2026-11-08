@@ -34,6 +34,9 @@
     <loc>https://eecs.ucmerced.edu/graduate-students</loc>
   </url>
   <url>
+    <loc>https://eecs.ucmerced.edu/research</loc>
+  </url>
+  <url>
     <loc>https://eecs.ucmerced.edu/news</loc>
   </url>
   <url>
@@ -53,9 +56,6 @@
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://eecs.ucmerced.edu/research</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/sites/eecs.ucmerced.edu/files/documents/2023.04.19_eecs_policiesandprocedures_clean.pdf</loc>
@@ -94,6 +94,9 @@
     <loc>https://eecs.ucmerced.edu/content/ross-greer</loc>
   </url>
   <url>
+    <loc>https://eecs.ucmerced.edu/content/hua-huang</loc>
+  </url>
+  <url>
     <loc>https://eecs.ucmerced.edu/content/hyeran-jeon</loc>
   </url>
   <url>
@@ -106,10 +109,10 @@
     <loc>https://eecs.ucmerced.edu/content/angelo-kyrilov</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/content/changqing-li</loc>
+    <loc>https://eecs.ucmerced.edu/content/dong-li</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/content/dong-li</loc>
+    <loc>https://eecs.ucmerced.edu/content/changqing-li</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/shawn-newsam</loc>
@@ -253,13 +256,13 @@
     <loc>https://eecs.ucmerced.edu/content/chieh-lin</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/content/jie-liu</loc>
-  </url>
-  <url>
     <loc>https://eecs.ucmerced.edu/content/miaomiao-liu</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/jiawen-liu</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/content/jie-liu</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/brian-matamet</loc>
@@ -274,10 +277,10 @@
     <loc>https://eecs.ucmerced.edu/content/laxmi-pandey</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/content/mohammad-partohaghighi-0</loc>
+    <loc>https://eecs.ucmerced.edu/content/mohammad-partohaghighi</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/content/mohammad-partohaghighi</loc>
+    <loc>https://eecs.ucmerced.edu/content/mohammad-partohaghighi-0</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/aditya-petety</loc>
@@ -298,10 +301,10 @@
     <loc>https://eecs.ucmerced.edu/content/aditya-ranganath</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/content/jie-ren</loc>
+    <loc>https://eecs.ucmerced.edu/content/yuan-ren</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/content/yuan-ren</loc>
+    <loc>https://eecs.ucmerced.edu/content/jie-ren</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/content/shubham-rohal</loc>

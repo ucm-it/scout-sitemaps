@@ -13,9 +13,6 @@
     <loc>https://cres.ucmerced.edu/node/11</loc>
   </url>
   <url>
-    <loc>https://cres.ucmerced.edu/about/courses</loc>
-  </url>
-  <url>
     <loc>https://cres.ucmerced.edu/about/major-and-minor-requirements</loc>
   </url>
   <url>
@@ -43,6 +40,9 @@
     <loc>https://cres.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
+    <loc>https://cres.ucmerced.edu/node/24</loc>
+  </url>
+  <url>
     <loc>https://cres.ucmerced.edu/sites/g/files/ufvvjh686/f/documents/cres_newsletter_spring_2026.pdf</loc>
   </url>
   <url>
@@ -52,13 +52,16 @@
     <loc>https://cres.ucmerced.edu/sites/g/files/ufvvjh686/f/documents/cres_newsletter_spring_2025.pdf</loc>
   </url>
   <url>
-    <loc>https://cres.ucmerced.edu/node/24</loc>
+    <loc>https://cres.ucmerced.edu/about/courses</loc>
   </url>
   <url>
     <loc>https://cres.ucmerced.edu/content/christina-baker</loc>
   </url>
   <url>
     <loc>https://cres.ucmerced.edu/content/sapana-doshi</loc>
+  </url>
+  <url>
+    <loc>https://cres.ucmerced.edu/content/kit-myers</loc>
   </url>
   <url>
     <loc>https://cres.ucmerced.edu/content/nicosia-shakes</loc>

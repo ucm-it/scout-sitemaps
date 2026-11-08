@@ -31,7 +31,13 @@
     <loc>https://studentaffairs.ucmerced.edu/dean-students</loc>
   </url>
   <url>
+    <loc>https://studentaffairs.ucmerced.edu/dean-students/religious-objection-exception-requests-student-immunization-requirements</loc>
+  </url>
+  <url>
     <loc>https://studentaffairs.ucmerced.edu/dean-students/emergency-funds</loc>
+  </url>
+  <url>
+    <loc>https://studentaffairs.ucmerced.edu/dean-students/students-concern-form</loc>
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/students/student-response-team</loc>
@@ -56,12 +62,6 @@
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://studentaffairs.ucmerced.edu/dean-students/religious-objection-exception-requests-student-immunization-requirements</loc>
-  </url>
-  <url>
-    <loc>https://studentaffairs.ucmerced.edu/dean-students/students-concern-form</loc>
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/community-of-scholars</loc>
@@ -110,6 +110,12 @@
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/students/principles-community</loc>
+  </url>
+  <url>
+    <loc>https://studentaffairs.ucmerced.edu/sites/studentaffairs.ucmerced.edu/files/documents/psmh-guide.pdf</loc>
+  </url>
+  <url>
+    <loc>https://studentaffairs.ucmerced.edu/sites/studentaffairs.ucmerced.edu/files/documents/psmh-merced-insert.pdf</loc>
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/sites/studentaffairs.ucmerced.edu/files/page/documents/rfc_campus_guidline_2020-2021_udated_sept2020.pdf</loc>
@@ -164,11 +170,5 @@
   </url>
   <url>
     <loc>https://studentaffairs.ucmerced.edu/ferpa</loc>
-  </url>
-  <url>
-    <loc>https://studentaffairs.ucmerced.edu/sites/studentaffairs.ucmerced.edu/files/documents/psmh-guide.pdf</loc>
-  </url>
-  <url>
-    <loc>https://studentaffairs.ucmerced.edu/sites/studentaffairs.ucmerced.edu/files/documents/psmh-merced-insert.pdf</loc>
   </url>
 </urlset>

@@ -19,9 +19,6 @@
     <loc>https://merced2020.ucmerced.edu/project-site</loc>
   </url>
   <url>
-    <loc>https://merced2020.ucmerced.edu/programdevelopment</loc>
-  </url>
-  <url>
     <loc>https://merced2020.ucmerced.edu/about/project-board</loc>
   </url>
   <url>
@@ -58,10 +55,16 @@
     <loc>http://merced2020.ucmerced.edu/news</loc>
   </url>
   <url>
+    <loc>https://merced2020.ucmerced.edu/construction</loc>
+  </url>
+  <url>
     <loc>https://merced2020.ucmerced.edu/bicycleadvisories</loc>
   </url>
   <url>
     <loc>https://merced2020.ucmerced.edu/pedestrianadvisories</loc>
+  </url>
+  <url>
+    <loc>https://merced2020.ucmerced.edu/ecectoday</loc>
   </url>
   <url>
     <loc>https://merced2020.ucmerced.edu/past-development/news/press-releases</loc>
@@ -199,10 +202,7 @@
     <loc>https://merced2020.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://merced2020.ucmerced.edu/construction</loc>
-  </url>
-  <url>
-    <loc>https://merced2020.ucmerced.edu/ecectoday</loc>
+    <loc>https://merced2020.ucmerced.edu/programdevelopment</loc>
   </url>
   <url>
     <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/uc_merced_change_alignment.pdf</loc>
@@ -227,9 +227,6 @@
   </url>
   <url>
     <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/press_release_on_winning_bidder_plenary_properties_merced_final_with_log._copy.pdf</loc>
-  </url>
-  <url>
-    <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/detailedprogram_201603014new_revtest.pdf</loc>
   </url>
   <url>
     <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/2020abstract.pdf</loc>
@@ -499,6 +496,9 @@
     <loc>http://merced2020.ucmerced.edu/contact-us</loc>
   </url>
   <url>
+    <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/dustcontrolwatersource.pdf</loc>
+  </url>
+  <url>
     <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/j1_-_regents_item_final.pdf</loc>
   </url>
   <url>
@@ -685,7 +685,7 @@
     <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/3afinal.jpg</loc>
   </url>
   <url>
-    <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/dustcontrolwatersource.pdf</loc>
+    <loc>https://merced2020.ucmerced.edu/sites/merced2020.ucmerced.edu/files/documents/detailedprogram_201603014new_revtest.pdf</loc>
   </url>
   <url>
     <loc>https://merced2020.ucmerced.edu/events/first-delivery</loc>
@@ -697,10 +697,10 @@
     <loc>https://merced2020.ucmerced.edu/events/high-school-counselors-update</loc>
   </url>
   <url>
-    <loc>https://merced2020.ucmerced.edu/events/sj-valley-partnership-board-meeting</loc>
+    <loc>https://merced2020.ucmerced.edu/events/leadership-merced</loc>
   </url>
   <url>
-    <loc>https://merced2020.ucmerced.edu/events/leadership-merced</loc>
+    <loc>https://merced2020.ucmerced.edu/events/sj-valley-partnership-board-meeting</loc>
   </url>
   <url>
     <loc>https://merced2020.ucmerced.edu/events/el-capitan-high-school-update</loc>

@@ -25,10 +25,19 @@
     <loc>https://cayuse.ucmerced.edu/form/request-cayuse-report</loc>
   </url>
   <url>
+    <loc>https://cayuse.ucmerced.edu/form/revise-profile-request-form</loc>
+  </url>
+  <url>
     <loc>https://cayuse.ucmerced.edu/form/research</loc>
   </url>
   <url>
     <loc>https://cayuse.ucmerced.edu/home/technical-support</loc>
+  </url>
+  <url>
+    <loc>https://cayuse.ucmerced.edu/form/fastlane-nsf</loc>
+  </url>
+  <url>
+    <loc>https://cayuse.ucmerced.edu/form/fedconnect</loc>
   </url>
   <url>
     <loc>https://cayuse.ucmerced.edu/news</loc>
@@ -47,15 +56,6 @@
   </url>
   <url>
     <loc>https://cayuse.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
-    <loc>https://cayuse.ucmerced.edu/form/revise-profile-request-form</loc>
-  </url>
-  <url>
-    <loc>https://cayuse.ucmerced.edu/form/fastlane-nsf</loc>
-  </url>
-  <url>
-    <loc>https://cayuse.ucmerced.edu/form/fedconnect</loc>
   </url>
   <url>
     <loc>https://cayuse.ucmerced.edu/sites/cayuse.ucmerced.edu/files/documents/draft_cayuse_sp_proposal_preparation_and_submission-3.docx</loc>

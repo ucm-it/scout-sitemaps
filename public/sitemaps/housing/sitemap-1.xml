@@ -58,9 +58,6 @@
     <loc>https://housing.ucmerced.edu/node/2401</loc>
   </url>
   <url>
-    <loc>https://housing.ucmerced.edu/aristotle</loc>
-  </url>
-  <url>
     <loc>https://housing.ucmerced.edu/beyond_md</loc>
   </url>
   <url>
@@ -143,6 +140,9 @@
   </url>
   <url>
     <loc>https://housing.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://housing.ucmerced.edu/aristotle</loc>
   </url>
   <url>
     <loc>http://housing.ucmerced.edu/</loc>

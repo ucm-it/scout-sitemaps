@@ -49,9 +49,6 @@
     <loc>https://postdoc.ucmerced.edu/events/new-postdoc-orientation-1</loc>
   </url>
   <url>
-    <loc>https://postdoc.ucmerced.edu/events/new-postdoc-orientation</loc>
-  </url>
-  <url>
     <loc>https://postdoc.ucmerced.edu/events/new-postdoc-orientation-0</loc>
   </url>
   <url>
@@ -71,6 +68,12 @@
   </url>
   <url>
     <loc>https://postdoc.ucmerced.edu/events/postdoc-appreciation-week-headshots</loc>
+  </url>
+  <url>
+    <loc>https://postdoc.ucmerced.edu/events/postdoc-appreciation-week</loc>
+  </url>
+  <url>
+    <loc>https://postdoc.ucmerced.edu/events/new-postdoc-orientation-virtual</loc>
   </url>
   <url>
     <loc>https://postdoc.ucmerced.edu/news?page=1</loc>

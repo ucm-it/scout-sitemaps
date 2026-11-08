@@ -31,6 +31,9 @@
     <loc>https://police.ucmerced.edu/DepartmentPolicies</loc>
   </url>
   <url>
+    <loc>https://police.ucmerced.edu/ab-481</loc>
+  </url>
+  <url>
     <loc>https://police.ucmerced.edu/sites/g/files/ufvvjh1446/f/documents/merced_pd_-_uc_merced_pd_mou.pdf</loc>
   </url>
   <url>
@@ -41,6 +44,9 @@
   </url>
   <url>
     <loc>https://police.ucmerced.edu/about-us/contact/officers</loc>
+  </url>
+  <url>
+    <loc>https://police.ucmerced.edu/about-us/contact/dispatchers</loc>
   </url>
   <url>
     <loc>https://police.ucmerced.edu/about-us/contact/public-safety-ambassador</loc>
@@ -68,6 +74,9 @@
   </url>
   <url>
     <loc>https://police.ucmerced.edu/data-dashboards/ripa-stop-data</loc>
+  </url>
+  <url>
+    <loc>https://police.ucmerced.edu/funding-dashboard</loc>
   </url>
   <url>
     <loc>https://police.ucmerced.edu/data-dashboards/ucmpd-team-member-training</loc>
@@ -166,6 +175,9 @@
     <loc>https://police.ucmerced.edu/excellence-awards/evaluation-and-grading</loc>
   </url>
   <url>
+    <loc>https://police.ucmerced.edu/daily-activity-logs/2026-11</loc>
+  </url>
+  <url>
     <loc>https://police.ucmerced.edu/daily-activity-logs/2026-10</loc>
   </url>
   <url>
@@ -215,9 +227,6 @@
   </url>
   <url>
     <loc>https://police.ucmerced.edu/daily-activity-logs/2025-06</loc>
-  </url>
-  <url>
-    <loc>https://police.ucmerced.edu/daily-activity-logs/2025-05</loc>
   </url>
   <url>
     <loc>https://police.ucmerced.edu/daily-activity-logs/2025-04</loc>
@@ -271,19 +280,16 @@
     <loc>https://police.ucmerced.edu/contact-us</loc>
   </url>
   <url>
-    <loc>https://police.ucmerced.edu/ab-481</loc>
-  </url>
-  <url>
-    <loc>https://police.ucmerced.edu/about-us/contact/dispatchers</loc>
-  </url>
-  <url>
-    <loc>https://police.ucmerced.edu/funding-dashboard</loc>
-  </url>
-  <url>
-    <loc>https://police.ucmerced.edu/sites/g/files/ufvvjh1446/f/page/documents/release_20251125_t134142_uc_merced_police_department_policy_manual_3.pdf</loc>
+    <loc>https://police.ucmerced.edu/sites/g/files/ufvvjh1446/f/page/documents/release_20261028_t154226_uc_merced_police_department_policy_manual.pdf</loc>
   </url>
   <url>
     <loc>https://police.ucmerced.edu/sites/g/files/ufvvjh1446/f/documents/docs/university_of_california_merced_alpr_policy.pdf</loc>
+  </url>
+  <url>
+    <loc>https://police.ucmerced.edu/sites/police.ucmerced.edu/files/page/documents/policy_709_military_equipment.pdf</loc>
+  </url>
+  <url>
+    <loc>https://police.ucmerced.edu/sites/g/files/ufvvjh1446/f/page/documents/ab481_annual_report_2026.docx</loc>
   </url>
   <url>
     <loc>https://police.ucmerced.edu/contact/complaints-commendations-faq</loc>
@@ -311,6 +317,24 @@
   </url>
   <url>
     <loc>https://police.ucmerced.edu/sites/police.ucmerced.edu/files/documents/duress-alarm-app_final.pdf</loc>
+  </url>
+  <url>
+    <loc>https://police.ucmerced.edu/sites/g/files/ufvvjh1446/f/page/documents/dcl11062026.pdf</loc>
+  </url>
+  <url>
+    <loc>https://police.ucmerced.edu/sites/g/files/ufvvjh1446/f/page/documents/dcl_11052026.pdf</loc>
+  </url>
+  <url>
+    <loc>https://police.ucmerced.edu/sites/g/files/ufvvjh1446/f/page/documents/11426.pdf</loc>
+  </url>
+  <url>
+    <loc>https://police.ucmerced.edu/sites/g/files/ufvvjh1446/f/page/documents/11326.pdf</loc>
+  </url>
+  <url>
+    <loc>https://police.ucmerced.edu/sites/g/files/ufvvjh1446/f/page/documents/11226.pdf</loc>
+  </url>
+  <url>
+    <loc>https://police.ucmerced.edu/sites/g/files/ufvvjh1446/f/page/documents/11126.pdf</loc>
   </url>
   <url>
     <loc>https://police.ucmerced.edu/sites/g/files/ufvvjh1446/f/page/documents/dcl_10312026.pdf</loc>
@@ -511,10 +535,13 @@
     <loc>https://police.ucmerced.edu/sites/police.ucmerced.edu/files/page/documents/crime_alert_bulletin_10_2019.pdf</loc>
   </url>
   <url>
-    <loc>https://police.ucmerced.edu/content/october-2026</loc>
+    <loc>https://police.ucmerced.edu/content/november-2026</loc>
   </url>
   <url>
     <loc>https://police.ucmerced.edu/users/sfitzpatrick2</loc>
+  </url>
+  <url>
+    <loc>https://police.ucmerced.edu/content/october-2026</loc>
   </url>
   <url>
     <loc>https://police.ucmerced.edu/content/september-2026</loc>
@@ -575,9 +602,6 @@
   </url>
   <url>
     <loc>https://police.ucmerced.edu/content/june-2025</loc>
-  </url>
-  <url>
-    <loc>https://police.ucmerced.edu/content/may-2025</loc>
   </url>
   <url>
     <loc>https://police.ucmerced.edu/content/april-2025</loc>
@@ -707,9 +731,6 @@
   </url>
   <url>
     <loc>https://police.ucmerced.edu/node/634</loc>
-  </url>
-  <url>
-    <loc>https://police.ucmerced.edu/daily-activity-logs/2021-10</loc>
   </url>
   <url>
     <loc>https://police.ucmerced.edu/daily-activity-logs/2021-09</loc>
@@ -913,12 +934,6 @@
     <loc>https://police.ucmerced.edu/daily-activity-logs/2016-02</loc>
   </url>
   <url>
-    <loc>https://police.ucmerced.edu/sites/police.ucmerced.edu/files/page/documents/policy_709_military_equipment.pdf</loc>
-  </url>
-  <url>
-    <loc>https://police.ucmerced.edu/sites/g/files/ufvvjh1446/f/page/documents/ab481_annual_report_2026.docx</loc>
-  </url>
-  <url>
     <loc>https://police.ucmerced.edu/content/april-2024</loc>
   </url>
   <url>
@@ -1013,9 +1028,6 @@
   </url>
   <url>
     <loc>https://police.ucmerced.edu/content/november-2021</loc>
-  </url>
-  <url>
-    <loc>https://police.ucmerced.edu/content/october-2021</loc>
   </url>
   <url>
     <loc>https://police.ucmerced.edu/content/september-2021</loc>

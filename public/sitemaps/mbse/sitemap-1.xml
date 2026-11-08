@@ -16,6 +16,9 @@
     <loc>https://mbse.ucmerced.edu/prospective-students/available-degrees</loc>
   </url>
   <url>
+    <loc>https://mbse.ucmerced.edu/node/34</loc>
+  </url>
+  <url>
     <loc>https://mbse.ucmerced.edu/current-students</loc>
   </url>
   <url>
@@ -32,9 +35,6 @@
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/people/postdoc</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/people/postdoc-alumni</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/research-0</loc>
@@ -58,13 +58,16 @@
     <loc>https://mbse.ucmerced.edu/employment</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/node/34</loc>
-  </url>
-  <url>
     <loc>https://mbse.ucmerced.edu/rss.xml</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/people/postdoc-alumni</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/sites/mbse.ucmerced.edu/files/documents/2021.12.21.gc2mbse_re_pps_approval.pdf</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/sites/mbse.ucmerced.edu/files/page/documents/2024.11.12_approved_mbse_pps_clean.pdf</loc>
@@ -307,18 +310,6 @@
     <loc>https://mbse.ucmerced.edu/content/di-wu</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/content/brad-barker</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/content/syeda-tajin-ahmed</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/content/jose-zamora-alvarado</loc>
-  </url>
-  <url>
-    <loc>https://mbse.ucmerced.edu/taxonomy/term/1381/feed</loc>
-  </url>
-  <url>
     <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2026-8-31_mbse_seminar_ali_emamjomeh.jpg</loc>
   </url>
   <url>
@@ -338,6 +329,9 @@
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2026-10-26_mbse_seminar_morgan_hawker.jpg</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/sites/g/files/ufvvjh1201/f/documents/2026-11-2_mbse_seminar_qi_song.jpg</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/news?page=1</loc>
@@ -367,7 +361,16 @@
     <loc>https://mbse.ucmerced.edu/news?page=17</loc>
   </url>
   <url>
-    <loc>https://mbse.ucmerced.edu/sites/mbse.ucmerced.edu/files/documents/2021.12.21.gc2mbse_re_pps_approval.pdf</loc>
+    <loc>https://mbse.ucmerced.edu/content/brad-barker</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/content/syeda-tajin-ahmed</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/content/jose-zamora-alvarado</loc>
+  </url>
+  <url>
+    <loc>https://mbse.ucmerced.edu/taxonomy/term/1381/feed</loc>
   </url>
   <url>
     <loc>https://mbse.ucmerced.edu/research-areas/materials-and-interfaces-tailored-functionalities</loc>

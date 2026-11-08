@@ -25,10 +25,10 @@
     <loc>https://payroll.ucmerced.edu/forms</loc>
   </url>
   <url>
-    <loc>https://payroll.ucmerced.edu/forms/payroll-services-inquiry</loc>
+    <loc>https://payroll.ucmerced.edu/kissflow-forms</loc>
   </url>
   <url>
-    <loc>https://payroll.ucmerced.edu/kissflow-forms</loc>
+    <loc>https://payroll.ucmerced.edu/kissflow-forms/kissflow-implementation</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/kissflow-forms/kissflow-payroll-project-faqs</loc>
@@ -73,6 +73,9 @@
     <loc>https://payroll.ucmerced.edu/payroll-services-roadmap</loc>
   </url>
   <url>
+    <loc>https://payroll.ucmerced.edu/contacts</loc>
+  </url>
+  <url>
     <loc>https://payroll.ucmerced.edu/onboarding-actions</loc>
   </url>
   <url>
@@ -95,12 +98,6 @@
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/payroll-systems/ucpath/w-2</loc>
-  </url>
-  <url>
-    <loc>https://payroll.ucmerced.edu/contacts</loc>
-  </url>
-  <url>
-    <loc>https://payroll.ucmerced.edu/kissflow-forms/kissflow-implementation</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/i-9-acceptable-documents</loc>
@@ -130,6 +127,9 @@
     <loc>https://payroll.ucmerced.edu/form/contingent-worker-intake-appointment-request</loc>
   </url>
   <url>
+    <loc>https://payroll.ucmerced.edu/form/staff-intake-appointment-request</loc>
+  </url>
+  <url>
     <loc>https://payroll.ucmerced.edu/form/reclassification-staff</loc>
   </url>
   <url>
@@ -143,9 +143,6 @@
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/form/student-separation-non-academic-0</loc>
-  </url>
-  <url>
-    <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/kissflow_payroll_project_faqs.pdf</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/sites/g/files/ufvvjh2306/f/documents/homepage_timesheet_policy_reminder.pdf</loc>
@@ -293,6 +290,9 @@
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/summersalaryescalation</loc>
+  </url>
+  <url>
+    <loc>https://payroll.ucmerced.edu/forms/payroll-services-inquiry</loc>
   </url>
   <url>
     <loc>https://payroll.ucmerced.edu/form/student-separation-non-academic</loc>

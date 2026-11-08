@@ -31,6 +31,9 @@
     <loc>https://robotics.ucmerced.edu/projects</loc>
   </url>
   <url>
+    <loc>https://robotics.ucmerced.edu/news</loc>
+  </url>
+  <url>
     <loc>https://robotics.ucmerced.edu/media-and-software</loc>
   </url>
   <url>
@@ -50,9 +53,6 @@
   </url>
   <url>
     <loc>https://robotics.ucmerced.edu/mobile-robotics-textbook</loc>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/news</loc>
   </url>
   <url>
     <loc>https://robotics.ucmerced.edu/rss.xml</loc>
@@ -622,18 +622,6 @@
     <loc>https://robotics.ucmerced.edu/SEED2015</loc>
   </url>
   <url>
-    <loc>https://robotics.ucmerced.edu/license</loc>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/robocup-code</loc>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/online-estimation-covariance-parameters</loc>
-  </url>
-  <url>
-    <loc>https://robotics.ucmerced.edu/sites/g/files/ufvvjh1576/f/page/documents/mrtp_1.pdf</loc>
-  </url>
-  <url>
     <loc>https://robotics.ucmerced.edu/news?page=1</loc>
   </url>
   <url>
@@ -653,6 +641,18 @@
   </url>
   <url>
     <loc>https://robotics.ucmerced.edu/news?page=7</loc>
+  </url>
+  <url>
+    <loc>https://robotics.ucmerced.edu/license</loc>
+  </url>
+  <url>
+    <loc>https://robotics.ucmerced.edu/robocup-code</loc>
+  </url>
+  <url>
+    <loc>https://robotics.ucmerced.edu/online-estimation-covariance-parameters</loc>
+  </url>
+  <url>
+    <loc>https://robotics.ucmerced.edu/sites/g/files/ufvvjh1576/f/page/documents/mrtp_1.pdf</loc>
   </url>
   <url>
     <loc>https://robotics.ucmerced.edu/sites/robotics.ucmerced.edu/files/page/documents/mapmerge.zip</loc>

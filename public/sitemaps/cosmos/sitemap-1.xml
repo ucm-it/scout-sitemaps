@@ -64,9 +64,6 @@
     <loc>https://cosmos.ucmerced.edu/apply-cosmos/application-faqs</loc>
   </url>
   <url>
-    <loc>https://cosmos.ucmerced.edu/make-gift/support-cosmos</loc>
-  </url>
-  <url>
     <loc>https://cosmos.ucmerced.edu/gallery</loc>
   </url>
   <url>
@@ -113,5 +110,8 @@
   </url>
   <url>
     <loc>https://cosmos.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://cosmos.ucmerced.edu/make-gift/support-cosmos</loc>
   </url>
 </urlset>

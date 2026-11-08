@@ -10,6 +10,12 @@
     <loc>https://mechatronics.ucmerced.edu/news</loc>
   </url>
   <url>
+    <loc>https://mechatronics.ucmerced.edu/members/faculty</loc>
+  </url>
+  <url>
+    <loc>https://mechatronics.ucmerced.edu/members/graduate</loc>
+  </url>
+  <url>
     <loc>https://mechatronics.ucmerced.edu/members/undergraduate-students</loc>
   </url>
   <url>
@@ -29,6 +35,9 @@
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/research/cyber-physical-systems</loc>
+  </url>
+  <url>
+    <loc>https://mechatronics.ucmerced.edu/research/renewable-energy-systems</loc>
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/research/mechatronics</loc>
@@ -94,15 +103,6 @@
     <loc>https://mechatronics.ucmerced.edu/node/68</loc>
   </url>
   <url>
-    <loc>https://mechatronics.ucmerced.edu/members/faculty</loc>
-  </url>
-  <url>
-    <loc>https://mechatronics.ucmerced.edu/members/graduate</loc>
-  </url>
-  <url>
-    <loc>https://mechatronics.ucmerced.edu/research/renewable-energy-systems</loc>
-  </url>
-  <url>
     <loc>https://mechatronics.ucmerced.edu/news?page=1</loc>
   </url>
   <url>
@@ -128,6 +128,9 @@
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/news?page=30</loc>
+  </url>
+  <url>
+    <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/page/documents/yangquan_chen_ucm_bc_083117_proof2.pdf</loc>
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/SmartCaveDrone</loc>
@@ -194,6 +197,12 @@
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/publication</loc>
+  </url>
+  <url>
+    <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/page/documents/1-s2.0-s0378778814009670-mainfractional-order_adaptive_minimum_energy_cognitive_lighting_control_strategy_for_the_hybrid_lighting_system.pdf</loc>
+  </url>
+  <url>
+    <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/page/documents/me-seminar-fall14-dec-5-woonki-na-flyer.doc</loc>
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/page/documents/asme-mesa13-panel-session-info-mechatronics-meets-fc.docx</loc>
@@ -719,15 +728,6 @@
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/node/183</loc>
-  </url>
-  <url>
-    <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/page/documents/yangquan_chen_ucm_bc_083117_proof2.pdf</loc>
-  </url>
-  <url>
-    <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/page/documents/1-s2.0-s0378778814009670-mainfractional-order_adaptive_minimum_energy_cognitive_lighting_control_strategy_for_the_hybrid_lighting_system.pdf</loc>
-  </url>
-  <url>
-    <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/page/documents/me-seminar-fall14-dec-5-woonki-na-flyer.doc</loc>
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/news?page=9</loc>
