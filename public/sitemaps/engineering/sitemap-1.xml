@@ -85,6 +85,9 @@
     <loc>https://engineering.ucmerced.edu/students/</loc>
   </url>
   <url>
+    <loc>https://engineering.ucmerced.edu/students/advising</loc>
+  </url>
+  <url>
     <loc>https://engineering.ucmerced.edu/academics/undergraduate-programs/academic-honors</loc>
   </url>
   <url>
@@ -155,9 +158,6 @@
   </url>
   <url>
     <loc>https://engineering.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
-    <loc>https://engineering.ucmerced.edu/students/advising</loc>
   </url>
   <url>
     <loc>https://engineering.ucmerced.edu/content/tom-blair</loc>
@@ -557,6 +557,9 @@
   </url>
   <url>
     <loc>https://engineering.ucmerced.edu/content/ricardo-medina</loc>
+  </url>
+  <url>
+    <loc>https://engineering.ucmerced.edu/content/esai-navarro</loc>
   </url>
   <url>
     <loc>https://engineering.ucmerced.edu/content/xer-thao</loc>

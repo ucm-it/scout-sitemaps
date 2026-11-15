@@ -73,6 +73,9 @@
     <loc>https://mae.ucmerced.edu/form/contact-us</loc>
   </url>
   <url>
+    <loc>https://mae.ucmerced.edu/researchnews/tribology</loc>
+  </url>
+  <url>
     <loc>https://mae.ucmerced.edu/contact-us</loc>
   </url>
   <url>
@@ -95,9 +98,6 @@
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/researchnews/thermal-science-and-energy-conversion</loc>
-  </url>
-  <url>
-    <loc>https://mae.ucmerced.edu/researchnews/tribology</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/get-started</loc>
@@ -151,10 +151,10 @@
     <loc>https://mae.ucmerced.edu/content/alejandro-gutierrez</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/content/min-hwan-lee-0</loc>
+    <loc>https://mae.ucmerced.edu/content/marcus-lee</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/content/marcus-lee</loc>
+    <loc>https://mae.ucmerced.edu/content/min-hwan-lee-0</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/content/yanbao-ma</loc>
@@ -220,28 +220,13 @@
     <loc>https://mae.ucmerced.edu/content/changqing-li</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/content/reza-abbaschian</loc>
-  </url>
-  <url>
-    <loc>https://mae.ucmerced.edu/content/bradley-w-scheer</loc>
-  </url>
-  <url>
-    <loc>https://mae.ucmerced.edu/content/udo-d-schwarz</loc>
-  </url>
-  <url>
-    <loc>https://mae.ucmerced.edu/content/emery-silberman</loc>
-  </url>
-  <url>
-    <loc>https://mae.ucmerced.edu/content/saima-sumaiya</loc>
-  </url>
-  <url>
-    <loc>https://mae.ucmerced.edu/content/nicholas-walters</loc>
-  </url>
-  <url>
     <loc>https://mae.ucmerced.edu/content/sunmeet-bhargava</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/content/duval-johnson</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/content/guy-kaplinsky</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/content/sean-c-y-lin</loc>
@@ -260,6 +245,18 @@
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/content/steven-torrisi</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/content/bradley-w-scheer</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/content/udo-d-schwarz</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/content/emery-silberman</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/content/saima-sumaiya</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/sites/g/files/ufvvjh2321/f/event/Seminar_flyers/fall26/dr._donald_docimo_flyer_-_me.png</loc>

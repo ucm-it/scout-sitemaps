@@ -31,6 +31,9 @@
     <loc>https://catcard.ucmerced.edu/Refund_Request</loc>
   </url>
   <url>
+    <loc>https://catcard.ucmerced.edu/manage-account/report-lostdeactivate-card</loc>
+  </url>
+  <url>
     <loc>https://catcard.ucmerced.edu/manage-account/replacement-catcards</loc>
   </url>
   <url>
@@ -98,9 +101,6 @@
   </url>
   <url>
     <loc>https://catcard.ucmerced.edu/contact-us</loc>
-  </url>
-  <url>
-    <loc>https://catcard.ucmerced.edu/manage-account/report-lostdeactivate-card</loc>
   </url>
   <url>
     <loc>https://catcard.ucmerced.edu/services/patron-lookup</loc>

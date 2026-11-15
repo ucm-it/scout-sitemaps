@@ -34,6 +34,9 @@
     <loc>https://financialaid.ucmerced.edu/scholarships</loc>
   </url>
   <url>
+    <loc>https://financialaid.ucmerced.edu/external-scholarships</loc>
+  </url>
+  <url>
     <loc>https://financialaid.ucmerced.edu/types-aid/scholarships/middle-class-scholarship</loc>
   </url>
   <url>
@@ -173,9 +176,6 @@
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/rss.xml</loc>
-  </url>
-  <url>
-    <loc>https://financialaid.ucmerced.edu/external-scholarships</loc>
   </url>
   <url>
     <loc>https://financialaid.ucmerced.edu/federal-loans</loc>

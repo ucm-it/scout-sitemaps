@@ -70,7 +70,13 @@
     <loc>https://les.ucmerced.edu/Graduate%20Studies%20-%20FAQs</loc>
   </url>
   <url>
-    <loc>https://les.ucmerced.edu/careers-alumni</loc>
+    <loc>https://les.ucmerced.edu/careers</loc>
+  </url>
+  <url>
+    <loc>https://les.ucmerced.edu/students-alumni</loc>
+  </url>
+  <url>
+    <loc>https://les.ucmerced.edu/news-highlights</loc>
   </url>
   <url>
     <loc>https://les.ucmerced.edu/ResearchVideos</loc>
@@ -176,6 +182,9 @@
   </url>
   <url>
     <loc>https://les.ucmerced.edu/Faculty</loc>
+  </url>
+  <url>
+    <loc>https://les.ucmerced.edu/careers-alumni</loc>
   </url>
   <url>
     <loc>https://les.ucmerced.edu/content/jessica-blois</loc>

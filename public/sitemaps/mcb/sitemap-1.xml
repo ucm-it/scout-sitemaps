@@ -13,6 +13,9 @@
     <loc>https://mcb.ucmerced.edu/UndergraduateEducation</loc>
   </url>
   <url>
+    <loc>https://mcb.ucmerced.edu/graduate-studies</loc>
+  </url>
+  <url>
     <loc>https://mcb.ucmerced.edu/research</loc>
   </url>
   <url>
@@ -43,7 +46,10 @@
     <loc>https://mcb.ucmerced.edu/seminars</loc>
   </url>
   <url>
-    <loc>https://mcb.ucmerced.edu/careers-alumni</loc>
+    <loc>https://mcb.ucmerced.edu/careers</loc>
+  </url>
+  <url>
+    <loc>https://mcb.ucmerced.edu/students-alumni</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/Contact</loc>
@@ -106,6 +112,9 @@
     <loc>https://mcb.ucmerced.edu/content/jennifer-manilay</loc>
   </url>
   <url>
+    <loc>https://mcb.ucmerced.edu/content/ruben-michael-ceballos</loc>
+  </url>
+  <url>
     <loc>https://mcb.ucmerced.edu/content/fred-wolf</loc>
   </url>
   <url>
@@ -113,9 +122,6 @@
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/content/chris-amemiya</loc>
-  </url>
-  <url>
-    <loc>https://mcb.ucmerced.edu/content/ruben-michael-ceballos</loc>
   </url>
   <url>
     <loc>https://mcb.ucmerced.edu/content/bercem-dutagaci</loc>
