@@ -25,9 +25,6 @@
     <loc>https://methane.ucmerced.edu/research</loc>
   </url>
   <url>
-    <loc>https://methane.ucmerced.edu/mitigation</loc>
-  </url>
-  <url>
     <loc>https://methane.ucmerced.edu/measurement</loc>
   </url>
   <url>
@@ -38,6 +35,9 @@
   </url>
   <url>
     <loc>https://methane.ucmerced.edu/rss.xml</loc>
+  </url>
+  <url>
+    <loc>https://methane.ucmerced.edu/mitigation</loc>
   </url>
   <url>
     <loc>https://methane.ucmerced.edu/content/derek-hollenbeck</loc>

@@ -52,9 +52,6 @@
     <loc>https://ssha-research.ucmerced.edu/resources/research-centers</loc>
   </url>
   <url>
-    <loc>https://ssha-research.ucmerced.edu/events</loc>
-  </url>
-  <url>
     <loc>https://ssha-research.ucmerced.edu/news</loc>
   </url>
   <url>
@@ -71,6 +68,9 @@
   </url>
   <url>
     <loc>https://ssha-research.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://ssha-research.ucmerced.edu/events</loc>
   </url>
   <url>
     <loc>https://ssha-research.ucmerced.edu/sites/ssha-research.ucmerced.edu/files/documents/award_application_submission_sheet.pdf</loc>

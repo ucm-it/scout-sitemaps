@@ -73,9 +73,6 @@
     <loc>https://mae.ucmerced.edu/form/contact-us</loc>
   </url>
   <url>
-    <loc>https://mae.ucmerced.edu/researchnews/tribology</loc>
-  </url>
-  <url>
     <loc>https://mae.ucmerced.edu/contact-us</loc>
   </url>
   <url>
@@ -98,6 +95,9 @@
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/researchnews/thermal-science-and-energy-conversion</loc>
+  </url>
+  <url>
+    <loc>https://mae.ucmerced.edu/researchnews/tribology</loc>
   </url>
   <url>
     <loc>https://mae.ucmerced.edu/get-started</loc>

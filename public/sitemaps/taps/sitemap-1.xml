@@ -61,9 +61,6 @@
     <loc>https://taps.ucmerced.edu/permits/students/commuter</loc>
   </url>
   <url>
-    <loc>https://taps.ucmerced.edu/permits/students/campus-residents</loc>
-  </url>
-  <url>
     <loc>https://taps.ucmerced.edu/facultystaff</loc>
   </url>
   <url>
@@ -179,6 +176,9 @@
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://taps.ucmerced.edu/permits/students/campus-residents</loc>
   </url>
   <url>
     <loc>https://taps.ucmerced.edu/sites/g/files/ufvvjh1811/f/documents/meeting_minutes_feb.pdf</loc>

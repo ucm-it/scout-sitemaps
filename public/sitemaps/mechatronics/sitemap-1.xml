@@ -1531,6 +1531,9 @@
     <loc>https://mechatronics.ucmerced.edu/sites/g/files/ufvvjh1226/f/page/documents/mesa25-shiang-final.pdf</loc>
   </url>
   <url>
+    <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/news/documents/citris-f3-ag-bag-3-20-2025-yangquan-chen_v2_-_copy.pptx</loc>
+  </url>
+  <url>
     <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/news/documents/citris-f3-ag-bag-3-20-2025-yangquan-chen_v2c.pdf</loc>
   </url>
   <url>
@@ -1639,9 +1642,6 @@
     <loc>https://mechatronics.ucmerced.edu/ME190UAS-2017-Summer</loc>
   </url>
   <url>
-    <loc>https://mechatronics.ucmerced.edu/DroneDMV</loc>
-  </url>
-  <url>
     <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/page/documents/cfp_05s.pdf</loc>
   </url>
   <url>
@@ -1687,10 +1687,10 @@
     <loc>http://mechatronics.ucmerced.edu/news?page=16</loc>
   </url>
   <url>
-    <loc>http://mechatronics.ucmerced.edu/aiaa</loc>
+    <loc>http://mechatronics.ucmerced.edu/swir</loc>
   </url>
   <url>
-    <loc>http://mechatronics.ucmerced.edu/swir</loc>
+    <loc>http://mechatronics.ucmerced.edu/aiaa</loc>
   </url>
   <url>
     <loc>http://mechatronics.ucmerced.edu/news?page=21</loc>
@@ -1738,18 +1738,6 @@
     <loc>https://mechatronics.ucmerced.edu/dronepilots</loc>
   </url>
   <url>
-    <loc>https://mechatronics.ucmerced.edu/FAACOE</loc>
-  </url>
-  <url>
-    <loc>https://mechatronics.ucmerced.edu/scientific-data-drone-test-site</loc>
-  </url>
-  <url>
-    <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/news/documents/uav-safetyworkshop-flyer.docx</loc>
-  </url>
-  <url>
-    <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/news/documents/uav_safety_and_best_practices_program.pdf</loc>
-  </url>
-  <url>
     <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/page/documents/frontmatter-math_2nd_crc_final_0.pdf</loc>
   </url>
   <url>
@@ -1780,9 +1768,6 @@
     <loc>http://mechatronics.ucmerced.edu/ME190UAS-2017-Summer</loc>
   </url>
   <url>
-    <loc>http://mechatronics.ucmerced.edu/DroneDMV</loc>
-  </url>
-  <url>
     <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/news/documents/gcn_ucm_cba_forum_agenda_5-3-17_gd.pdf</loc>
   </url>
   <url>
@@ -1796,6 +1781,27 @@
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/REU-USDA</loc>
+  </url>
+  <url>
+    <loc>https://mechatronics.ucmerced.edu/DroneDMV</loc>
+  </url>
+  <url>
+    <loc>http://mechatronics.ucmerced.edu/bigideas</loc>
+  </url>
+  <url>
+    <loc>http://mechatronics.ucmerced.edu/biochar</loc>
+  </url>
+  <url>
+    <loc>https://mechatronics.ucmerced.edu/FAACOE</loc>
+  </url>
+  <url>
+    <loc>https://mechatronics.ucmerced.edu/scientific-data-drone-test-site</loc>
+  </url>
+  <url>
+    <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/news/documents/uav-safetyworkshop-flyer.docx</loc>
+  </url>
+  <url>
+    <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/news/documents/uav_safety_and_best_practices_program.pdf</loc>
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/page/documents/ca_led_faa_uas_coe_team_survey_bstark_-yqchen-jviers_govrel_edits_0.docx</loc>
@@ -1826,11 +1832,5 @@
   </url>
   <url>
     <loc>https://mechatronics.ucmerced.edu/sites/mechatronics.ucmerced.edu/files/page/documents/14_07_14_castle_layoutcoa_sites.pptx</loc>
-  </url>
-  <url>
-    <loc>http://mechatronics.ucmerced.edu/bigideas</loc>
-  </url>
-  <url>
-    <loc>http://mechatronics.ucmerced.edu/biochar</loc>
   </url>
 </urlset>

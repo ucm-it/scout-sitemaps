@@ -121,9 +121,6 @@
     <loc>https://accessibility.ucmerced.edu/digital-accessibility/planning-your-accessibility-work</loc>
   </url>
   <url>
-    <loc>https://accessibility.ucmerced.edu/digital-accessibility/learning-about-accessible-web-content</loc>
-  </url>
-  <url>
     <loc>https://accessibility.ucmerced.edu/digital-accessibility/learning-about-accessible-documents-and-media</loc>
   </url>
   <url>
@@ -161,5 +158,8 @@
   </url>
   <url>
     <loc>https://accessibility.ucmerced.edu/sites/g/files/ufvvjh296/f/page/documents/word_and_excel_templates.zip</loc>
+  </url>
+  <url>
+    <loc>https://accessibility.ucmerced.edu/digital-accessibility/learning-about-accessible-web-content</loc>
   </url>
 </urlset>

@@ -43,9 +43,6 @@
     <loc>https://eecs.ucmerced.edu/jobs</loc>
   </url>
   <url>
-    <loc>https://eecs.ucmerced.edu/contact-0</loc>
-  </url>
-  <url>
     <loc>https://eecs.ucmerced.edu/content/shijia-pan</loc>
   </url>
   <url>
@@ -56,6 +53,9 @@
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://eecs.ucmerced.edu/contact-0</loc>
   </url>
   <url>
     <loc>https://eecs.ucmerced.edu/sites/eecs.ucmerced.edu/files/documents/2023.04.19_eecs_policiesandprocedures_clean.pdf</loc>
